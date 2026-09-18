@@ -1,0 +1,163 @@
+{
+  "properties": {
+    "path": "brands/shop/copyshop",
+    "exclude": {
+      "generic": [
+        "^(copyshop|fotocopias|photocopie)$",
+        "^(打印|复印)店$",
+        "^[eé]pic(erie|ier)( بقال)?$"
+      ],
+      "named": ["^xerox$"]
+    }
+  },
+  "items": [
+    {
+      "displayName": "AlphaGraphics",
+      "id": "alphagraphics-090c18",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "AlphaGraphics",
+        "brand:wikidata": "Q4734952",
+        "craft": "signmaker",
+        "name": "AlphaGraphics",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "displayName": "Copy-Top",
+      "id": "copytop-dbbed6",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Copy-Top",
+        "brand:wikidata": "Q101281603",
+        "name": "Copy-Top",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "displayName": "FaxCopy",
+      "id": "faxcopy-8c1a3b",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "brand": "FaxCopy",
+        "brand:wikidata": "Q90990574",
+        "name": "FaxCopy",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "displayName": "FedEx Office",
+      "id": "fedexoffice-090c18",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "fedex",
+        "fedex office print and ship center"
+      ],
+      "matchTags": ["amenity/post_office"],
+      "tags": {
+        "brand": "FedEx Office",
+        "brand:wikidata": "Q474379",
+        "name": "FedEx Office",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "displayName": "Mania Print",
+      "id": "maniaprint-a6353b",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "brand": "Mania Print",
+        "brand:wikidata": "Q117326997",
+        "name": "Mania Print",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "displayName": "Minuteman Press",
+      "id": "minutemanpress-a96fa7",
+      "locationSet": {
+        "include": ["au", "ca", "gb", "us", "za"]
+      },
+      "tags": {
+        "brand": "Minuteman Press",
+        "brand:wikidata": "Q64866081",
+        "name": "Minuteman Press",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "displayName": "OQ",
+      "id": "oq-3514ee",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "OQ",
+        "name": "OQ",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "displayName": "Service Graphics",
+      "id": "servicegraphics-965e32",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["paragon service point"],
+      "matchTags": [
+        "shop/printing",
+        "shop/stationery"
+      ],
+      "tags": {
+        "brand": "Service Graphics",
+        "brand:wikidata": "Q109451804",
+        "name": "Service Graphics",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "displayName": "Sir Speedy",
+      "id": "sirspeedy-090c18",
+      "locationSet": {"include": ["us"]},
+      "matchTags": ["amenity/post_office"],
+      "tags": {
+        "brand": "Sir Speedy",
+        "brand:wikidata": "Q17088225",
+        "name": "Sir Speedy",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "displayName": "The Printing House",
+      "id": "theprintinghouse-2b2a43",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "The Printing House",
+        "brand:wikidata": "Q133255944",
+        "name": "The Printing House",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "displayName": "Копирка",
+      "id": "721cce-14684a",
+      "locationSet": {"include": ["by", "ru"]},
+      "tags": {
+        "brand": "Копирка",
+        "name": "Копирка",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "displayName": "アクセア",
+      "id": "accea-3df938",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "アクセア",
+        "brand:en": "Accea",
+        "brand:ja": "アクセア",
+        "brand:wikidata": "Q90043156",
+        "name": "アクセア",
+        "name:en": "Accea",
+        "name:ja": "アクセア",
+        "shop": "copyshop"
+      }
+    }
+  ]
+}

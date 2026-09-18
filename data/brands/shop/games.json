@@ -1,0 +1,82 @@
+{
+  "properties": {
+    "path": "brands/shop/games",
+    "exclude": {"generic": ["^game(s)?$"]}
+  },
+  "items": [
+    {
+      "displayName": "Ozone.bg",
+      "id": "ozonebg-2df90d",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "brand": "Ozone.bg",
+        "brand:wikidata": "Q120717332",
+        "name": "Ozone.bg",
+        "operator": "Пулсар",
+        "operator:wikidata": "Q120717304",
+        "shop": "games"
+      }
+    },
+    {
+      "displayName": "Warhammer",
+      "id": "warhammer-f1fbcb",
+      "locationSet": {
+        "include": [
+          "at",
+          "au",
+          "be",
+          "ca",
+          "de",
+          "dk",
+          "es",
+          "fi",
+          "fr",
+          "gb",
+          "ie",
+          "it",
+          "jp",
+          "nl",
+          "no",
+          "nz",
+          "pl",
+          "se",
+          "sg",
+          "us"
+        ]
+      },
+      "matchNames": ["games workshop"],
+      "tags": {
+        "brand": "Warhammer",
+        "brand:wikidata": "Q136613133",
+        "name": "Warhammer",
+        "shop": "games"
+      }
+    },
+    {
+      "displayName": "Zing Pop Culture",
+      "id": "zingpopculture-61e573",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Zing Pop Culture",
+        "brand:wikidata": "Q23023711",
+        "name": "Zing Pop Culture",
+        "shop": "games"
+      }
+    },
+    {
+      "displayName": "კურაკურა",
+      "id": "kurakura-00ca27",
+      "locationSet": {"include": ["ge"]},
+      "tags": {
+        "brand": "კურაკურა",
+        "brand:en": "KuraKura",
+        "brand:ka": "კურაკურა",
+        "brand:wikidata": "Q131470007",
+        "name": "კურაკურა",
+        "name:en": "KuraKura",
+        "name:ka": "კურაკურა",
+        "shop": "games"
+      }
+    }
+  ]
+}

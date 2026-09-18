@@ -1,0 +1,49 @@
+{
+  "properties": {
+    "path": "operators/tourism/information",
+    "skipCollection": true,
+    "exclude": {"generic": ["^information$"]}
+  },
+  "items": [
+    {
+      "displayName": "Landesbetrieb Mobilität Rheinland-Pfalz",
+      "id": "landesbetriebmobilitatrheinlandpfalz-095948",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "matchNames": [
+        "lbm rheinland-pfalz",
+        "lbm rlp"
+      ],
+      "tags": {
+        "information": "guidepost",
+        "operator": "Landesbetrieb Mobilität Rheinland-Pfalz",
+        "operator:wikidata": "Q1802132",
+        "tourism": "information"
+      }
+    },
+    {
+      "displayName": "Millennium Milepost",
+      "id": "walkwheelcycletrust-482d1d",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "information": "guidepost",
+        "operator": "Walk Wheel Cycle Trust",
+        "operator:wikidata": "Q606877",
+        "tourism": "information"
+      }
+    },
+    {
+      "displayName": "Newry, Mourne and Down District Council",
+      "id": "newrymourneanddowndistrictcouncil-af4240",
+      "locationSet": {"include": ["gb-nir"]},
+      "tags": {
+        "information": "board",
+        "operator": "Newry, Mourne and Down District Council",
+        "operator:type": "government",
+        "operator:wikidata": "Q16998911",
+        "tourism": "information"
+      }
+    }
+  ]
+}

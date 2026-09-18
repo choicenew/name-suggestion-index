@@ -1,0 +1,778 @@
+{
+  "properties": {
+    "path": "brands/amenity/atm",
+    "skipCollection": true,
+    "exclude": {"generic": ["^atm$"]}
+  },
+  "items": [
+    {
+      "note": "Auto create ATMs for all banks (remove names per #7236)",
+      "templateExclude": [
+        "abnamro",
+        "bankinghub",
+        "monobank",
+        "postfinance"
+      ],
+      "templateSource": "brands/amenity/bank",
+      "templateTags": {
+        "alt_name": "",
+        "amenity": "atm",
+        "full_name": "",
+        "name": "",
+        "official_name": "",
+        "operator": "{source.tags.brand}",
+        "operator:wikidata": "{source.tags.brand:wikidata}",
+        "short_name": ""
+      }
+    },
+    {
+      "displayName": "AFCN",
+      "id": "afcn-667574",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "AFCN",
+        "brand:wikidata": "Q135087622",
+        "network": "AFCN",
+        "operator": "AFCN",
+        "operator:wikidata": "Q135087622"
+      }
+    },
+    {
+      "displayName": "Allpoint",
+      "id": "allpoint-5fc18b",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "gb",
+          "mx",
+          "nz",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Allpoint",
+        "brand:wikidata": "Q4733264"
+      }
+    },
+    {
+      "displayName": "American Crypto",
+      "id": "americancrypto-93d3a2",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["american crypto atm"],
+      "matchTags": ["amenity/bank"],
+      "tags": {
+        "amenity": "atm",
+        "brand": "American Crypto",
+        "brand:wikidata": "Q127753246"
+      }
+    },
+    {
+      "displayName": "Athena Bitcoin",
+      "id": "athenabitcoin-5938ef",
+      "locationSet": {
+        "include": ["ar", "co", "pr", "sv", "us"]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Athena Bitcoin",
+        "brand:wikidata": "Q135280046",
+        "currency:XBT": "yes"
+      }
+    },
+    {
+      "displayName": "atmx by Armaguard",
+      "id": "atmx-8509c1",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "atmx",
+        "brand:wikidata": "Q118898974",
+        "network": "atmx",
+        "operator": "Armaguard",
+        "operator:wikidata": "Q118898974"
+      }
+    },
+    {
+      "displayName": "Auro Domus",
+      "id": "aurodomus-4d8c03",
+      "locationSet": {"include": ["hr"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Auro Domus",
+        "brand:wikidata": "Q125811872",
+        "operator": "Auro Domus",
+        "operator:wikidata": "Q125811872"
+      }
+    },
+    {
+      "displayName": "Banco24Horas",
+      "id": "banco24horas-a02d2b",
+      "locationSet": {"include": ["br"]},
+      "matchNames": ["branco24horas"],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Banco24Horas",
+        "brand:wikidata": "Q4854069"
+      }
+    },
+    {
+      "displayName": "Bankomat",
+      "id": "bankomat-adfc2b",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Bankomat",
+        "brand:wikidata": "Q10426078"
+      }
+    },
+    {
+      "displayName": "Batopin Cash",
+      "id": "cash-8a4913",
+      "locationSet": {"include": ["be"]},
+      "matchNames": [
+        "bancontact cash",
+        "batopin cash"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Cash",
+        "brand:wikidata": "Q112875867",
+        "operator": "Batopin",
+        "operator:wikidata": "Q97142699"
+      }
+    },
+    {
+      "displayName": "Bitcoin Depot",
+      "id": "bitcoindepot-93d3a2",
+      "locationSet": {"include": ["us"]},
+      "matchTags": ["amenity/bank"],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Bitcoin Depot",
+        "brand:wikidata": "Q109824499",
+        "currency:XBT": "yes"
+      }
+    },
+    {
+      "displayName": "Cardtronics",
+      "id": "cardtronics-244dba",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "de",
+          "es",
+          "ie",
+          "mx",
+          "nz",
+          "us",
+          "za"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Cardtronics",
+        "brand:wikidata": "Q50239180"
+      }
+    },
+    {
+      "displayName": "Cash Express",
+      "id": "cashexpress-997829",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Cash Express",
+        "brand:wikidata": "Q130262361"
+      }
+    },
+    {
+      "displayName": "Cash Services",
+      "id": "cashservices-134295",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Cash Services",
+        "brand:wikidata": "Q140008260"
+      }
+    },
+    {
+      "displayName": "Cashflex",
+      "id": "cashflex-650be4",
+      "locationSet": {"include": ["gr"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Cashflex",
+        "brand:wikidata": "Q137564505",
+        "operator": "Cashflex",
+        "operator:wikidata": "Q137564505"
+      }
+    },
+    {
+      "displayName": "Cashzone",
+      "id": "cashzone-396707",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": [
+        "cardtronics",
+        "cardtronics uk",
+        "cardtronics uk ltd",
+        "cashzone ltd"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Cashzone",
+        "brand:wikidata": "Q110738461",
+        "network": "Allpoint",
+        "network:wikidata": "Q4733264"
+      }
+    },
+    {
+      "displayName": "Chime",
+      "id": "chime-93d3a2",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Chime",
+        "brand:wikidata": "Q85752013"
+      }
+    },
+    {
+      "displayName": "China UnionPay",
+      "id": "chinaunionpay-7886cb",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "China UnionPay",
+        "brand:wikidata": "Q719625"
+      }
+    },
+    {
+      "displayName": "CO-OP Financial Services",
+      "id": "coopfinancialservices-93d3a2",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["cu cooperative systems"],
+      "tags": {
+        "amenity": "atm",
+        "brand": "CO-OP Financial Services",
+        "brand:wikidata": "Q5013238"
+      }
+    },
+    {
+      "displayName": "CoinFlip",
+      "id": "coinflip-93d3a2",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "CoinFlip",
+        "brand:wikidata": "Q109850256",
+        "currency:XBT": "yes"
+      }
+    },
+    {
+      "displayName": "Coinhub",
+      "id": "coinhub-93d3a2",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Coinhub",
+        "brand:wikidata": "Q126195855",
+        "currency:XBT": "yes",
+        "name": "Coinhub"
+      }
+    },
+    {
+      "displayName": "Coinsource",
+      "id": "coinsource-93d3a2",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Coinsource",
+        "brand:wikidata": "Q109850339",
+        "currency:XBT": "yes"
+      }
+    },
+    {
+      "displayName": "Cryptobase",
+      "id": "cryptobase-93d3a2",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Cryptobase",
+        "brand:wikidata": "Q122453754",
+        "currency:XBT": "yes"
+      }
+    },
+    {
+      "displayName": "Deutsche Post",
+      "id": "deutschepost-fb8bf5",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["deutsche post ag"],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Deutsche Post",
+        "brand:wikidata": "Q157645"
+      }
+    },
+    {
+      "displayName": "EasyPay",
+      "id": "easypay-e5108a",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "EasyPay",
+        "brand:wikidata": "Q110583289"
+      }
+    },
+    {
+      "displayName": "Euronet",
+      "id": "euronet-d5d850",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["cn"]
+      },
+      "matchNames": ["euronet 360 finance"],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Euronet",
+        "brand:wikidata": "Q5412010",
+        "operator": "Euronet",
+        "operator:wikidata": "Q5412010"
+      }
+    },
+    {
+      "displayName": "Geldmaat",
+      "id": "geldmaat-5333ab",
+      "locationSet": {"include": ["nl"]},
+      "matchNames": [
+        "abn amro",
+        "abn amro bank n.v."
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Geldmaat",
+        "brand:wikidata": "Q74051230",
+        "operator": "Geldmaat",
+        "operator:wikidata": "Q74051230"
+      }
+    },
+    {
+      "displayName": "Hitachi Money Spot ATM",
+      "id": "hitachi-ad0527",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Hitachi",
+        "brand:wikidata": "Q53238"
+      }
+    },
+    {
+      "displayName": "India1 ATM",
+      "id": "india1atm-ad0527",
+      "locationSet": {"include": ["in"]},
+      "matchNames": [
+        "india one",
+        "india one atm",
+        "india1"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "India1 ATM",
+        "brand:wikidata": "Q134601469"
+      }
+    },
+    {
+      "displayName": "Instacoin",
+      "id": "instacoin-ddac74",
+      "locationSet": {"include": ["ca"]},
+      "matchNames": ["instacoin atm"],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Instacoin",
+        "brand:wikidata": "Q133247271"
+      }
+    },
+    {
+      "displayName": "Kontanten (Denmark)",
+      "id": "kontanten-198cfd",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Kontanten",
+        "brand:wikidata": "Q126902178",
+        "operator": "Nokas",
+        "operator:wikidata": "Q12307591"
+      }
+    },
+    {
+      "displayName": "Kontanten (Sweden)",
+      "id": "kontanten-adfc2b",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Kontanten",
+        "brand:wikidata": "Q126902178",
+        "operator": "Kontanten",
+        "operator:wikidata": "Q126902178"
+      }
+    },
+    {
+      "displayName": "LibertyX",
+      "id": "libertyx-93d3a2",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["libertyx bitcoin atm"],
+      "matchTags": ["amenity/finance"],
+      "tags": {
+        "amenity": "atm",
+        "brand": "LibertyX",
+        "brand:wikidata": "Q109287417",
+        "currency:XBT": "yes"
+      }
+    },
+    {
+      "displayName": "MEPS",
+      "id": "meps-bc168a",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "MEPS",
+        "brand:wikidata": "Q6741957",
+        "operator": "MEPS",
+        "operator:wikidata": "Q6741957"
+      }
+    },
+    {
+      "displayName": "MoneyGet",
+      "id": "moneyget-7535fc",
+      "locationSet": {
+        "include": ["al", "hr", "me", "rs"]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "MoneyGet",
+        "brand:wikidata": "Q125808866",
+        "operator": "Payten",
+        "operator:wikidata": "Q125808773"
+      }
+    },
+    {
+      "displayName": "MoneyPass",
+      "id": "moneypass-93d3a2",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "MoneyPass",
+        "brand:wikidata": "Q28447513"
+      }
+    },
+    {
+      "displayName": "Nokas (Denmark)",
+      "id": "nokas-198cfd",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Nokas",
+        "brand:en": "Nokas",
+        "brand:wikidata": "Q7047836",
+        "network": "Nokas",
+        "network:wikidata": "Q7047836",
+        "operator": "Nokas",
+        "operator:wikidata": "Q12307591"
+      }
+    },
+    {
+      "displayName": "Nokas (Norway)",
+      "id": "nokas-924d4d",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Nokas",
+        "brand:en": "Nokas",
+        "brand:wikidata": "Q7047836",
+        "network": "Nokas",
+        "network:wikidata": "Q7047836",
+        "operator": "Nokas",
+        "operator:wikidata": "Q7047836"
+      }
+    },
+    {
+      "displayName": "Nosto",
+      "id": "nosto-6eeb13",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Nosto",
+        "brand:wikidata": "Q18693836",
+        "network": "Nosto",
+        "network:wikidata": "Q18693836",
+        "operator": "Nokas",
+        "operator:wikidata": "Q139719299"
+      }
+    },
+    {
+      "displayName": "NoteMachine",
+      "id": "notemachine-396707",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["notemachine ltd"],
+      "tags": {
+        "amenity": "atm",
+        "brand": "NoteMachine",
+        "brand:wikidata": "Q104368525",
+        "operator": "NoteMachine",
+        "operator:short": "NMATM",
+        "operator:wikidata": "Q104368525"
+      }
+    },
+    {
+      "displayName": "Old Mutual",
+      "id": "oldmutual-ff45b4",
+      "locationSet": {
+        "include": [
+          "bw",
+          "cn",
+          "gh",
+          "ke",
+          "mw",
+          "na",
+          "ng",
+          "rw",
+          "ss",
+          "sz",
+          "tz",
+          "ug",
+          "za",
+          "zw"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Old Mutual",
+        "brand:wikidata": "Q289704"
+      }
+    },
+    {
+      "displayName": "Otto",
+      "id": "otto-6eeb13",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Otto",
+        "brand:wikidata": "Q7109498"
+      }
+    },
+    {
+      "displayName": "Pathward (MetaBank)",
+      "id": "pathward-93d3a2",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["metabank"],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Pathward",
+        "brand:wikidata": "Q6822267"
+      }
+    },
+    {
+      "displayName": "Planet Cash",
+      "id": "planetcash-53bcca",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Planet Cash",
+        "brand:wikidata": "Q117744569",
+        "operator": "ITCARD S.A.",
+        "operator:wikidata": "Q97183761"
+      }
+    },
+    {
+      "displayName": "Post Office",
+      "id": "postoffice-396707",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": [
+        "post office ltd",
+        "post office money"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Post Office",
+        "brand:wikidata": "Q1783168"
+      }
+    },
+    {
+      "displayName": "Postamat",
+      "id": "postamat-64483a",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Postamat",
+        "brand:wikidata": "Q3909447",
+        "operator": "Poste Italiane",
+        "operator:wikidata": "Q495026"
+      }
+    },
+    {
+      "displayName": "Postomat",
+      "id": "postomat-ba97f3",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "Postomat",
+        "brand:wikidata": "Q449233",
+        "operator": "PostFinance",
+        "operator:wikidata": "Q449233"
+      }
+    },
+    {
+      "displayName": "RockItCoin",
+      "id": "rockitcoin-93d3a2",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "RockItCoin",
+        "brand:wikidata": "Q125924689",
+        "currency:XBT": "yes"
+      }
+    },
+    {
+      "displayName": "Sainsbury's Bank",
+      "id": "sainsburysbank-396707",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["sainsbury", "sainsbury's"],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Sainsbury's Bank",
+        "brand:wikidata": "Q7400525",
+        "operator": "Sainsbury's Bank",
+        "operator:wikidata": "Q7400525"
+      }
+    },
+    {
+      "displayName": "Tesco Bank",
+      "id": "tescobank-396707",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["tesco"],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Tesco Bank",
+        "brand:wikidata": "Q487494"
+      }
+    },
+    {
+      "displayName": "Travelex",
+      "id": "travelex-d5d850",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["cn"]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Travelex",
+        "brand:wikidata": "Q2337964"
+      }
+    },
+    {
+      "displayName": "Т-Банк",
+      "id": "tbank-da35c8",
+      "locationSet": {"include": ["ru"]},
+      "matchNames": [
+        "tinkoff",
+        "tinkoff bank",
+        "тинькофф",
+        "тинькофф банк",
+        "בנק טינקוף",
+        "بانک تینکوف"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Т-Банк",
+        "brand:en": "T-Bank",
+        "brand:fa": "تی-بانک",
+        "brand:he": "טי-בנק",
+        "brand:ru": "Т-Банк",
+        "brand:wikidata": "Q4457878"
+      }
+    },
+    {
+      "displayName": "イーネット",
+      "id": "enet-52efab",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["イーネットatm"],
+      "tags": {
+        "amenity": "atm",
+        "brand": "イーネット",
+        "brand:en": "E-net",
+        "brand:ja": "イーネット",
+        "brand:wikidata": "Q135317450",
+        "name": "イーネット",
+        "name:en": "E-net",
+        "name:ja": "イーネット"
+      }
+    },
+    {
+      "displayName": "セブン銀行",
+      "id": "sevenbank-52efab",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["7銀行"],
+      "tags": {
+        "amenity": "atm",
+        "brand": "セブン銀行",
+        "brand:en": "Seven Bank",
+        "brand:ja": "セブン銀行",
+        "brand:wikidata": "Q7457182",
+        "name": "セブン銀行",
+        "name:en": "Seven Bank",
+        "name:ja": "セブン銀行"
+      }
+    },
+    {
+      "displayName": "ビューアルッテ",
+      "id": "viewaltte-52efab",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "atm",
+        "brand": "ビューアルッテ",
+        "brand:en": "View Altte",
+        "brand:ja": "ビューアルッテ",
+        "brand:wikidata": "Q11330938",
+        "operator": "ビューカード",
+        "operator:en": "Viewcard",
+        "operator:ja": "ビューカード",
+        "operator:wikidata": "Q11330939"
+      }
+    },
+    {
+      "displayName": "ローソン銀行",
+      "id": "lawsonbank-52efab",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["ローソン", "ローソンatm"],
+      "tags": {
+        "amenity": "atm",
+        "brand": "ローソン銀行",
+        "brand:en": "Lawson Bank",
+        "brand:ja": "ローソン銀行",
+        "brand:wikidata": "Q11350963",
+        "name": "ローソン銀行",
+        "name:en": "Lawson Bank",
+        "name:ja": "ローソン銀行"
+      }
+    },
+    {
+      "displayName": "中華郵政",
+      "id": "chunghwapost-9a6797",
+      "locationSet": {"include": ["tw"]},
+      "matchNames": ["中華郵政公司", "中華郵政股份有限公司"],
+      "tags": {
+        "alt_name": "中華郵政;郵局",
+        "amenity": "atm",
+        "brand": "中華郵政",
+        "brand:en": "Chunghwa Post",
+        "brand:nan": "Tiong-hôa Iû-chèng",
+        "brand:nan-Hant": "中華郵政",
+        "brand:nan-Latn-pehoeji": "Tiong-hôa Iû-chèng",
+        "brand:nan-Latn-tailo": "Tiong-huâ Iû-tsìng",
+        "brand:wikidata": "Q709259",
+        "brand:zh": "中華郵政"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "properties": {
+    "path": "brands/leisure/miniature_golf",
+    "exclude": {
+      "generic": [
+        "^(adventure|mini(ature)?) golf$",
+        "^minigolf$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Holey Moley",
+      "id": "holeymoley-5edea1",
+      "locationSet": {
+        "include": ["au", "nz", "us"]
+      },
+      "matchTags": ["amenity/bar"],
+      "tags": {
+        "bar": "yes",
+        "brand": "Holey Moley",
+        "brand:wikidata": "Q85766991",
+        "food": "yes",
+        "leisure": "miniature_golf",
+        "name": "Holey Moley",
+        "sport": "miniature_golf"
+      }
+    }
+  ]
+}

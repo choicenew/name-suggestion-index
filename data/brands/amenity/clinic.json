@@ -1,0 +1,369 @@
+{
+  "properties": {
+    "path": "brands/amenity/clinic",
+    "skipCollection": true,
+    "exclude": {
+      "generic": [
+        "^clinic$",
+        "^поликлиника$",
+        "^поліклініка$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Advocate Health Care",
+      "id": "advocatehealthcare-b56bf7",
+      "locationSet": {
+        "include": [
+          "us-ca.geojson",
+          "us-ia.geojson",
+          "us-il.geojson",
+          "us-in.geojson",
+          "us-wi.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Advocate Health Care",
+        "brand:wikidata": "Q30254233",
+        "healthcare": "clinic"
+      }
+    },
+    {
+      "displayName": "Agel",
+      "id": "agel-4f1f63",
+      "issues": [10619],
+      "locationSet": {"include": ["cz", "sk"]},
+      "note": "these clinics share the same brand but have different operators",
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Agel",
+        "brand:wikidata": "Q41365932",
+        "healthcare": "clinic"
+      }
+    },
+    {
+      "displayName": "Carbon Health",
+      "id": "carbonhealth-a594ec",
+      "locationSet": {
+        "include": [
+          "us-ca.geojson",
+          "us-co.geojson",
+          "us-ks.geojson",
+          "us-ma.geojson",
+          "us-nj.geojson",
+          "us-tx.geojson",
+          "us-wa.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Carbon Health",
+        "brand:wikidata": "Q110076263",
+        "healthcare": "clinic",
+        "operator": "Carbon Health",
+        "operator:type": "private",
+        "operator:wikidata": "Q110076263"
+      }
+    },
+    {
+      "displayName": "GoHealth Urgent Care",
+      "id": "gohealthurgentcare-b3ff53",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "clinic",
+        "brand": "GoHealth Urgent Care",
+        "brand:wikidata": "Q110282081",
+        "healthcare": "clinic",
+        "healthcare:speciality": "urgent"
+      }
+    },
+    {
+      "displayName": "IQ Laser Vision",
+      "id": "iqlaservision-f10d23",
+      "locationSet": {
+        "include": [
+          "us-ca.geojson",
+          "us-tx.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "clinic",
+        "brand": "IQ Laser Vision",
+        "brand:wikidata": "Q126111281",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ophthalmology",
+        "name": "IQ Laser Vision"
+      }
+    },
+    {
+      "displayName": "LASIK MD",
+      "id": "lasikmd-a4b770",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "amenity": "clinic",
+        "brand": "LASIK MD",
+        "brand:wikidata": "Q3205934",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ophthalmology",
+        "name": "LASIK MD"
+      }
+    },
+    {
+      "displayName": "LasikPlus",
+      "id": "lasikplus-b3ff53",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["lasikplus vision center"],
+      "matchTags": ["shop/optician"],
+      "tags": {
+        "amenity": "clinic",
+        "brand": "LasikPlus",
+        "brand:wikidata": "Q126111242",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ophthalmology",
+        "name": "LasikPlus"
+      }
+    },
+    {
+      "displayName": "MD Now Urgent Care",
+      "id": "mdnowurgentcare-81c39b",
+      "locationSet": {
+        "include": ["us-fl.geojson"]
+      },
+      "tags": {
+        "amenity": "clinic",
+        "brand": "MD Now Urgent Care",
+        "brand:wikidata": "Q131469010",
+        "healthcare": "clinic",
+        "healthcare:speciality": "urgent",
+        "name": "MD Now Urgent Care",
+        "walk-in": "yes"
+      }
+    },
+    {
+      "displayName": "Medicare Urgent Care Clinic",
+      "id": "medicareurgentcareclinic-f397d0",
+      "locationSet": {"include": ["au"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Medicare Urgent Care Clinic",
+        "brand:wikidata": "Q137945385",
+        "healthcare": "clinic",
+        "healthcare:speciality": "urgent",
+        "name": "Medicare Urgent Care Clinic",
+        "short_name": "Medicare UCC",
+        "walk-in": "yes"
+      }
+    },
+    {
+      "displayName": "Northwestern Medicine",
+      "id": "northwesternmedicine-7453f3",
+      "locationSet": {
+        "include": ["us-il.geojson"]
+      },
+      "matchNames": [
+        "northwestern memorial healthcare"
+      ],
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Northwestern Medicine",
+        "brand:wikidata": "Q50036890",
+        "healthcare": "clinic"
+      }
+    },
+    {
+      "displayName": "NVISION Eye Centers",
+      "id": "nvision-b3ff53",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "clinic",
+        "brand": "NVISION Eye Centers",
+        "brand:wikidata": "Q30270144",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ophthalmology",
+        "name": "NVISION"
+      }
+    },
+    {
+      "displayName": "Quirónprevención",
+      "id": "quironprevencion-befa0a",
+      "locationSet": {
+        "include": [
+          "ar",
+          "co",
+          "es",
+          "mx",
+          "pa",
+          "pe",
+          "pt"
+        ]
+      },
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Quirónprevención",
+        "brand:wikidata": "Q140050574",
+        "healthcare": "clinic",
+        "healthcare:speciality": "occupational",
+        "name": "Quirónprevención"
+      }
+    },
+    {
+      "displayName": "RRH Urgent Care",
+      "id": "rochesterregionalhealthurgentcare-a9ca6f",
+      "locationSet": {
+        "include": ["us-ny.geojson"]
+      },
+      "matchNames": ["rrh urgent care"],
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Rochester Regional Health Urgent Care",
+        "brand:wikidata": "Q127996131",
+        "healthcare": "clinic",
+        "healthcare:speciality": "urgent",
+        "name": "Rochester Regional Health Urgent Care"
+      }
+    },
+    {
+      "displayName": "Sentara Healthcare",
+      "id": "sentara-9e9fc2",
+      "locationSet": {
+        "include": [
+          "us-nc.geojson",
+          "us-va.geojson"
+        ]
+      },
+      "matchNames": [
+        "sentara health",
+        "sentara healthcare"
+      ],
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Sentara",
+        "brand:wikidata": "Q7451179",
+        "healthcare": "clinic",
+        "name": "Sentara"
+      }
+    },
+    {
+      "displayName": "Sutter Surgery Center",
+      "id": "suttersurgerycenter-6bb225",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Sutter Health",
+        "brand:wikidata": "Q7650154",
+        "healthcare": "clinic",
+        "healthcare:speciality": "surgery",
+        "name": "Sutter Surgery Center"
+      }
+    },
+    {
+      "displayName": "The Lasik Vision Institute",
+      "id": "thelasikvisioninstitute-b3ff53",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "clinic",
+        "brand": "The Lasik Vision Institute",
+        "brand:wikidata": "Q126111388",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ophthalmology",
+        "name": "The Lasik Vision Institute"
+      }
+    },
+    {
+      "displayName": "TLC Laser Eye Centers",
+      "id": "tlclasereyecenters-b3ff53",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "clinic",
+        "brand": "TLC Laser Eye Centers",
+        "brand:wikidata": "Q126111364",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ophthalmology",
+        "name": "TLC Laser Eye Centers"
+      }
+    },
+    {
+      "displayName": "Touchstone Imaging",
+      "id": "touchstoneimaging-97edd3",
+      "locationSet": {
+        "include": [
+          "us-ak",
+          "us-co.geojson",
+          "us-fl.geojson",
+          "us-mt.geojson",
+          "us-ok.geojson",
+          "us-tx.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Touchstone Medical Imaging",
+        "brand:wikidata": "Q123370518",
+        "healthcare": "clinic",
+        "healthcare:speciality": "diagnostic_radiology",
+        "name": "Touchstone Imaging"
+      }
+    },
+    {
+      "displayName": "UR Medicine Urgent Care",
+      "id": "urmedicineurgentcare-a9ca6f",
+      "locationSet": {
+        "include": ["us-ny.geojson"]
+      },
+      "tags": {
+        "amenity": "clinic",
+        "brand": "UR Medicine Urgent Care",
+        "brand:wikidata": "Q59488288",
+        "healthcare": "clinic",
+        "healthcare:speciality": "urgent",
+        "name": "UR Medicine Urgent Care"
+      }
+    },
+    {
+      "displayName": "Vein Clinics of America",
+      "id": "veinclinicsofamerica-12a747",
+      "locationSet": {
+        "include": [
+          "us-ct.geojson",
+          "us-ga.geojson",
+          "us-il.geojson",
+          "us-in.geojson",
+          "us-ks.geojson",
+          "us-md.geojson",
+          "us-mn.geojson",
+          "us-mo.geojson",
+          "us-nc.geojson",
+          "us-oh.geojson",
+          "us-tn.geojson",
+          "us-tx.geojson",
+          "us-va.geojson",
+          "us-wi.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Vein Clinics of America",
+        "brand:wikidata": "Q113712355",
+        "healthcare": "clinic"
+      }
+    },
+    {
+      "displayName": "WellNow Urgent Care",
+      "id": "wellnowurgentcare-b3ff53",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "clinic",
+        "brand": "WellNow Urgent Care",
+        "brand:wikidata": "Q18389950",
+        "healthcare": "clinic",
+        "name": "WellNow Urgent Care"
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "properties": {
+    "path": "brands/amenity/hospital",
+    "skipCollection": true,
+    "preserveTags": ["^emergency$", "^name"],
+    "exclude": {
+      "generic": [
+        "^(govern?ment( authorities)?|govt( hospital)?|municipal|priva(te|do)|public|private not for profit|village)$",
+        "^centro (de salud|de saúde|médico)$",
+        "^community$",
+        "^hospital$",
+        "^others$",
+        "^subdistrict$",
+        "^амбулатор[иі]я$",
+        "^инфекционн(ая|ое) (больница|отделение)",
+        "^кожно-?венерологический диспансер",
+        "^фап$",
+        "^фельдшерско-акушерский пункт$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Agel",
+      "id": "agel-df0cb5",
+      "issues": [10619],
+      "locationSet": {"include": ["cz", "sk"]},
+      "note": "these hospitals share the same brand but have different operators",
+      "tags": {
+        "amenity": "hospital",
+        "brand": "Agel",
+        "brand:wikidata": "Q41365932",
+        "healthcare": "hospital"
+      }
+    },
+    {
+      "displayName": "Bangkok Hospital",
+      "id": "bangkokhospital-e6bd8c",
+      "locationSet": {"include": ["kh", "th"]},
+      "matchNames": ["bangkok hospital group"],
+      "tags": {
+        "amenity": "hospital",
+        "brand": "Bangkok Hospital",
+        "brand:en": "Bangkok Hospital",
+        "brand:th": "โรงพยาบาลกรุงเทพ",
+        "brand:wikidata": "Q125869165",
+        "healthcare": "hospital",
+        "name": "Bangkok Hospital",
+        "name:en": "Bangkok Hospital",
+        "name:th": "โรงพยาบาลกรุงเทพ",
+        "operator": "Bangkok Dusit Medical Services",
+        "operator:type": "private",
+        "operator:wikidata": "Q13012598"
+      }
+    },
+    {
+      "displayName": "Deutsches Rotes Kreuz",
+      "id": "deutschesroteskreuz-befdb8",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["drk", "rotes kreuz"],
+      "tags": {
+        "amenity": "hospital",
+        "brand": "Deutsches Rotes Kreuz",
+        "brand:wikidata": "Q694104",
+        "healthcare": "hospital",
+        "name": "Deutsches Rotes Kreuz"
+      }
+    },
+    {
+      "displayName": "Penta Hospitals",
+      "id": "pentahospitals-0d8c15",
+      "issues": [10315],
+      "locationSet": {"include": ["sk"]},
+      "matchNames": [
+        "penta",
+        "penta hospitals sk",
+        "svet zdravia"
+      ],
+      "note": "these hospitals share the same brand but have different operators",
+      "tags": {
+        "amenity": "hospital",
+        "brand": "Penta Hospitals",
+        "brand:wikidata": "Q96137636",
+        "healthcare": "hospital"
+      }
+    },
+    {
+      "displayName": "Sentara Healthcare",
+      "id": "sentara-7551ac",
+      "locationSet": {
+        "include": [
+          "us-nc.geojson",
+          "us-va.geojson"
+        ]
+      },
+      "matchNames": [
+        "sentara health",
+        "sentara healthcare"
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "brand": "Sentara",
+        "brand:wikidata": "Q7451179",
+        "healthcare": "hospital",
+        "name": "Sentara",
+        "operator": "Sentara",
+        "operator:type": "private",
+        "operator:wikidata": "Q7451179"
+      }
+    }
+  ]
+}

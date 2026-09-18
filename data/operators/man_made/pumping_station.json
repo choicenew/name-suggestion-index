@@ -1,0 +1,56 @@
+{
+  "properties": {
+    "path": "operators/man_made/pumping_station",
+    "skipCollection": true,
+    "exclude": {"generic": ["^pumping station$"]}
+  },
+  "items": [
+    {
+      "templateSource": "operators/office/water_utility",
+      "templateTags": {
+        "man_made": "pumping_station",
+        "name": "",
+        "office": ""
+      }
+    },
+    {
+      "displayName": "Mancomunidad Comarca de Pamplona/Iruñerriko Mankomunitatea",
+      "id": "mancomunidadcomarcadepamplonairunerrikomankomunitatea-8f2f1c",
+      "locationSet": {
+        "include": ["es-na.geojson"]
+      },
+      "tags": {
+        "man_made": "pumping_station",
+        "operator": "Mancomunidad Comarca de Pamplona/Iruñerriko Mankomunitatea",
+        "operator:wikidata": "Q3297794"
+      }
+    },
+    {
+      "displayName": "Sydney Water",
+      "id": "sydneywater-96888c",
+      "locationSet": {
+        "include": ["au-nsw.geojson"]
+      },
+      "tags": {
+        "man_made": "pumping_station",
+        "operator": "Sydney Water",
+        "operator:wikidata": "Q14476248"
+      }
+    },
+    {
+      "displayName": "渠務署 Drainage Services Department",
+      "id": "drainageservicesdepartment-c4c4f5",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "landuse": "industrial",
+        "man_made": "pumping_station",
+        "operator": "渠務署 Drainage Services Department",
+        "operator:en": "Drainage Services Department",
+        "operator:type": "government",
+        "operator:wikidata": "Q11703256",
+        "operator:zh": "渠務署",
+        "pumping_station": "sewage"
+      }
+    }
+  ]
+}

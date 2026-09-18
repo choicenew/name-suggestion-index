@@ -1,0 +1,350 @@
+{
+  "properties": {
+    "path": "brands/shop/kiosk",
+    "exclude": {
+      "generic": [
+        "^(edicola|quiosco|trinkhalle|warung)$",
+        "^(киоск|мороженое|пресса)$",
+        "^kios(co|k|ko|que)?$",
+        "^pulper[ií]a$",
+        "^taba[ck](os|chi)?( trafi[kc])?$",
+        "^trafik(a)?$",
+        "^продукт[иы]?$",
+        "^მარკეტი( \\(market\\))?"
+      ],
+      "named": [
+        "^(777|bp|esso|exxon|independent|mobil|shell)$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "City Kiosk",
+      "id": "citykiosk-586994",
+      "locationSet": {"include": ["ch", "de"]},
+      "tags": {
+        "brand": "City Kiosk",
+        "name": "City Kiosk",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Daoudabougou sougouba",
+      "id": "daoudabougousougouba-1a7dfc",
+      "locationSet": {"include": ["ml"]},
+      "tags": {
+        "brand": "Daoudabougou sougouba",
+        "name": "Daoudabougou sougouba",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "GGT Tabak Press",
+      "id": "ggttabakpress-420278",
+      "locationSet": {"include": ["sk"]},
+      "matchNames": ["gg tabak", "tabak press"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "GGT",
+        "brand:wikidata": "Q110264693",
+        "name": "GGT Tabak Press",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "iNovine",
+      "id": "inovine-769b40",
+      "locationSet": {"include": ["ba", "hr"]},
+      "tags": {
+        "brand": "iNovine",
+        "brand:wikidata": "Q115137198",
+        "name": "iNovine",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Kiosk",
+      "id": "kiosk-c47323",
+      "issues": [7692],
+      "locationSet": {"include": ["nl"]},
+      "matchNames": ["kiosk"],
+      "note": "match name required to work around generic name regex",
+      "tags": {
+        "brand": "Kiosk",
+        "brand:wikidata": "Q109186217",
+        "name": "Kiosk",
+        "operator": "Nederlandse Spoorwegen",
+        "operator:short": "NS",
+        "operator:wikidata": "Q23076",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Lietuvos spauda",
+      "id": "lietuvosspauda-34adb3",
+      "locationSet": {"include": ["lt"]},
+      "tags": {
+        "brand": "Lietuvos spauda",
+        "brand:wikidata": "Q115548638",
+        "name": "Lietuvos spauda",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Lotto",
+      "id": "lotto-140365",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Lotto",
+        "name": "Lotto",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Maxi Kiosco",
+      "id": "maxikiosco-edaf46",
+      "locationSet": {"include": ["ar"]},
+      "tags": {
+        "brand": "Maxi Kiosco",
+        "name": "Maxi Kiosco",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Moj Kiosk",
+      "id": "mojkiosk-86ee53",
+      "locationSet": {"include": ["rs"]},
+      "tags": {
+        "brand": "Мој киоск",
+        "brand:wikidata": "Q65064541",
+        "name": "Мој киоск",
+        "name:en": "Moj Kiosk",
+        "name:sr": "Мој киоск",
+        "name:sr-Latn": "Moj kiosk",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Narvesen",
+      "id": "narvesen-a42ea8",
+      "locationSet": {
+        "include": ["lt", "lv", "no"]
+      },
+      "tags": {
+        "brand": "Narvesen",
+        "brand:wikidata": "Q6514414",
+        "name": "Narvesen",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Pressbyrån",
+      "id": "pressbyran-c177cf",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "brand": "Pressbyrån",
+        "brand:wikidata": "Q2489072",
+        "name": "Pressbyrån",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "R-Kioski",
+      "id": "rkioski-e0c7b3",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "brand": "R-Kioski",
+        "brand:wikidata": "Q1571400",
+        "name": "R-Kioski",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Ruch",
+      "id": "ruch-5bd120",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Ruch",
+        "brand:wikidata": "Q1260314",
+        "name": "Ruch",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "ServiceStore DB",
+      "id": "servicestoredb-140365",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["db servicestore"],
+      "tags": {
+        "brand": "ServiceStore DB",
+        "brand:wikidata": "Q84482517",
+        "name": "ServiceStore DB",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Siebougouni sugu",
+      "id": "siebougounisugu-1a7dfc",
+      "locationSet": {"include": ["ml"]},
+      "tags": {
+        "brand": "Siebougouni sugu",
+        "name": "Siebougouni sugu",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Sougou courani",
+      "id": "sougoucourani-1a7dfc",
+      "locationSet": {"include": ["ml"]},
+      "tags": {
+        "brand": "Sougou courani",
+        "name": "Sougou courani",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Tisak",
+      "id": "tisak-51cd1e",
+      "locationSet": {"include": ["hr"]},
+      "tags": {
+        "brand": "Tisak",
+        "brand:wikidata": "Q12643627",
+        "name": "Tisak",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "TotalEnergies",
+      "id": "totalenergies-5fe041",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["us"]
+      },
+      "matchNames": ["total"],
+      "note": "Total is/has rebranded to TotalEnergies, We still have Total in matchNames if there are any lingering kiosks left",
+      "tags": {
+        "brand": "TotalEnergies",
+        "brand:wikidata": "Q154037",
+        "name": "TotalEnergies",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Warung kopi",
+      "id": "warungkopi-b1cacd",
+      "locationSet": {"include": ["id"]},
+      "tags": {
+        "brand": "Warung kopi",
+        "name": "Warung kopi",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Warung Makan",
+      "id": "warungmakan-b1cacd",
+      "locationSet": {"include": ["id"]},
+      "tags": {
+        "brand": "Warung Makan",
+        "name": "Warung Makan",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Yorma's",
+      "id": "yormas-140365",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Yorma's",
+        "brand:wikidata": "Q2600868",
+        "name": "Yorma's",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Περίπτερο",
+      "id": "14187f-53c57a",
+      "locationSet": {"include": ["gr"]},
+      "tags": {
+        "brand": "Περίπτερο",
+        "name": "Περίπτερο",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Белсаюздрук",
+      "id": "28555b-89199b",
+      "locationSet": {"include": ["by"]},
+      "tags": {
+        "brand": "Белсаюздрук",
+        "name": "Белсаюздрук",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "Роспечать",
+      "id": "5506ed-da461e",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Роспечать",
+        "name": "Роспечать",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "دکه",
+      "id": "8b6296-9e25bc",
+      "locationSet": {"include": ["ir"]},
+      "tags": {
+        "brand": "دکه",
+        "name": "دکه",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "キヨスク",
+      "id": "kiosk-84165a",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "キヨスク",
+        "brand:en": "KIOSK",
+        "brand:ja": "キヨスク",
+        "brand:wikidata": "Q1334796",
+        "name": "キヨスク",
+        "name:en": "KIOSK",
+        "name:ja": "キヨスク",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "トークス",
+      "id": "toks-84165a",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "toks",
+        "brand:en": "toks",
+        "brand:ja": "トークス",
+        "brand:wikidata": "Q11251214",
+        "name": "トークス",
+        "name:en": "toks",
+        "name:ja": "トークス",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "displayName": "ローソン+トークス",
+      "id": "lawsontoks-84165a",
+      "locationSet": {"include": ["jp"]},
+      "note": "LAWSON+toks has two types of stores: convenience store and kiosk.",
+      "tags": {
+        "brand": "LAWSON+toks",
+        "brand:en": "LAWSON+toks",
+        "brand:ja": "ローソンプラストークス",
+        "brand:wikidata": "Q115868119",
+        "name": "ローソン+トークス",
+        "name:en": "Lawson+toks",
+        "name:ja": "ローソンプラストークス",
+        "shop": "kiosk"
+      }
+    }
+  ]
+}

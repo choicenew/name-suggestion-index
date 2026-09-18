@@ -1,0 +1,778 @@
+{
+  "properties": {
+    "path": "operators/telecom/exchange",
+    "preserveTags": ["^name"],
+    "exclude": {"generic": ["^telecom exchange$"]}
+  },
+  "items": [
+    {
+      "displayName": "A1 Telekom Austria",
+      "id": "a1telekomaustria-72cd8b",
+      "locationSet": {"include": ["at"]},
+      "matchNames": ["a1"],
+      "tags": {
+        "operator": "A1 Telekom Austria",
+        "operator:wikidata": "Q279847",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Airtel",
+      "id": "airtelafrica-e9ab22",
+      "locationSet": {"include": ["ng"]},
+      "tags": {
+        "operator": "Airtel Africa",
+        "operator:wikidata": "Q25999174",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Altitude",
+      "id": "altitude-92129e",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "operator": "Altitude",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Altitude Infra Haute-Savoie",
+      "id": "altitudeinfrahautesavoie-259400",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "operator": "Altitude Infra Haute-Savoie",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "AT&T",
+      "id": "atandt-ca5b07",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "name": "AT&T",
+        "operator": "AT&T",
+        "operator:wikidata": "Q108085506",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "AT&T Florida",
+      "id": "atandtflorida-b2c9b5",
+      "locationSet": {
+        "include": ["us-fl.geojson"]
+      },
+      "tags": {
+        "operator": "AT&T Florida",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Axione",
+      "id": "axione-92129e",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "operator": "Axione",
+        "operator:wikidata": "Q97187730",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Bell Aliant",
+      "id": "bellaliant-972095",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "operator": "Bell Aliant",
+        "operator:wikidata": "Q815690",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Bell Canada",
+      "id": "bellcanada-972095",
+      "locationSet": {"include": ["ca"]},
+      "matchNames": ["bell"],
+      "tags": {
+        "operator": "Bell Canada",
+        "operator:wikidata": "Q815694",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Bell MTS",
+      "id": "bellmts-e779de",
+      "locationSet": {
+        "include": ["ca-mb.geojson"]
+      },
+      "tags": {
+        "operator": "Bell MTS",
+        "operator:wikidata": "Q1890462",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "BFC Fibre",
+      "id": "bfcfibre-92129e",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "operator": "BFC Fibre",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "bn:t Blatzheim Networks Telecom GmbH",
+      "id": "bntblatzheimnetworkstelecomgmbh-04d2cc",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "operator": "bn:t Blatzheim Networks Telecom GmbH",
+        "operator:wikidata": "Q136006423",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "BSNL",
+      "id": "bsnl-f69aec",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "operator": "BSNL",
+        "operator:wikidata": "Q278834",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "CenturyLink",
+      "id": "centurylink-ca5b07",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "name": "CenturyLink",
+        "operator": "CenturyLink",
+        "operator:wikidata": "Q110391616",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "CETIN a.s.",
+      "id": "cetinas-8bbb66",
+      "locationSet": {"include": ["cz"]},
+      "tags": {
+        "operator": "CETIN a.s.",
+        "operator:wikidata": "Q20088582",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Chorus",
+      "id": "chorus-04ab95",
+      "locationSet": {"include": ["nz"]},
+      "tags": {
+        "operator": "Chorus",
+        "operator:wikidata": "Q5105276",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Comcast",
+      "id": "comcast-ca5b07",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "name": "Comcast",
+        "operator": "Comcast",
+        "operator:wikidata": "Q1113804",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Covage",
+      "id": "covage-92129e",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "operator": "Covage",
+        "operator:wikidata": "Q3001818",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Deutsche Glasfaser",
+      "id": "deutscheglasfaser-650d2e",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "deutsche glasfaser holding gmbh"
+      ],
+      "tags": {
+        "operator": "Deutsche Glasfaser",
+        "operator:wikidata": "Q28842207",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Deutsche Telekom",
+      "id": "deutschetelekom-650d2e",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "deutsche telekom ag",
+        "telekom"
+      ],
+      "tags": {
+        "operator": "Deutsche Telekom",
+        "operator:wikidata": "Q9396",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "EastLink",
+      "id": "eastlink-972095",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "operator": "EastLink",
+        "operator:wikidata": "Q5327589",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Eir",
+      "id": "eir-09e566",
+      "locationSet": {"include": ["ie"]},
+      "tags": {
+        "operator": "Eir",
+        "operator:wikidata": "Q3049473",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Enable",
+      "id": "enable-ded43e",
+      "locationSet": {
+        "include": ["nz-can.geojson"]
+      },
+      "tags": {
+        "operator": "Enable",
+        "operator:wikidata": "Q25349009",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "ETECSA",
+      "id": "etecsa-99f410",
+      "locationSet": {"include": ["cu"]},
+      "tags": {
+        "operator": "ETECSA",
+        "operator:wikidata": "Q490323",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Free",
+      "id": "free-a5dd94",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "operator": "Free",
+        "operator:wikidata": "Q2467627",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Frontier Communications",
+      "id": "frontier-c2d6f6",
+      "locationSet": {
+        "include": ["us"],
+        "exclude": [
+          "us-id.geojson",
+          "us-mt.geojson",
+          "us-or.geojson",
+          "us-wa.geojson"
+        ]
+      },
+      "tags": {
+        "name": "Frontier",
+        "operator": "Frontier",
+        "operator:wikidata": "Q2974454",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Glo",
+      "id": "globacom-d6ad77",
+      "locationSet": {"include": ["bj", "ng"]},
+      "tags": {
+        "name": "Glo",
+        "operator": "Globacom",
+        "operator:wikidata": "Q5570033",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Hérault THD",
+      "id": "heraultthd-92129e",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "operator": "Hérault THD",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Hong Kong Telecom",
+      "id": "hongkongtelecom-361b71",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "operator": "Hong Kong Telecom",
+        "operator:wikidata": "Q5895075",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Interoute",
+      "id": "interoute-58ec5d",
+      "locationSet": {"include": ["150"]},
+      "tags": {
+        "operator": "Interoute",
+        "operator:wikidata": "Q1668090",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Isère Fibre",
+      "id": "iserefibre-92129e",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "operator": "Isère Fibre",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "KPN",
+      "id": "kpn-2cd407",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "operator": "KPN",
+        "operator:wikidata": "Q338633",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Loiret Fibre",
+      "id": "loiretfibre-92129e",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "operator": "Loiret Fibre",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "LosangeFibre",
+      "id": "losangefibre-92129e",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "operator": "LosangeFibre",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Lumen",
+      "id": "lumen-94a439",
+      "locationSet": {
+        "include": ["ch", "es", "fx"]
+      },
+      "tags": {
+        "operator": "Lumen",
+        "operator:wikidata": "Q5063092",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Manx Telecom",
+      "id": "manxtelecom-672f7b",
+      "locationSet": {"include": ["im"]},
+      "tags": {
+        "operator": "Manx Telecom",
+        "operator:wikidata": "Q3432658",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Movistar",
+      "id": "movistar-644779",
+      "locationSet": {
+        "include": ["ar", "co", "es"]
+      },
+      "tags": {
+        "operator": "Movistar",
+        "operator:wikidata": "Q967735",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "MTN Group",
+      "id": "mtn-a2c6c7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "operator": "MTN",
+        "operator:wikidata": "Q1813361",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "NATHD",
+      "id": "nathd-92129e",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "operator": "NATHD",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "NBN Co",
+      "id": "nbnco-03cc00",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "operator": "NBN Co",
+        "operator:wikidata": "Q6952833",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Northwestel",
+      "id": "northwestel-972095",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "operator": "Northwestel",
+        "operator:wikidata": "Q7060284",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "NTT東日本",
+      "id": "nippontelegraphandtelephoneeast-d78dfd",
+      "locationSet": {
+        "include": ["jp-ntt-east.geojson"]
+      },
+      "tags": {
+        "operator": "東日本電信電話株式会社",
+        "operator:en": "Nippon Telegraph and Telephone East",
+        "operator:ja": "東日本電信電話株式会社",
+        "operator:short": "NTT東日本",
+        "operator:short:en": "NTT East",
+        "operator:short:ja": "NTT東日本",
+        "operator:wikidata": "Q11527212",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "NTT西日本",
+      "id": "nippontelegraphandtelephonewest-bad60c",
+      "locationSet": {
+        "include": ["jp-ntt-west.geojson"]
+      },
+      "matchNames": [
+        "ntt西日本 (ntt east)",
+        "西日本電信電話"
+      ],
+      "tags": {
+        "operator": "西日本電信電話株式会社",
+        "operator:en": "Nippon Telegraph and Telephone West",
+        "operator:ja": "西日本電信電話株式会社",
+        "operator:short": "NTT西日本",
+        "operator:short:en": "NTT West",
+        "operator:short:ja": "NTT西日本",
+        "operator:wikidata": "Q11628418",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Openreach",
+      "id": "openreach-ef19df",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": [
+        "british telecom",
+        "bt",
+        "bt openreach",
+        "bt wholesale"
+      ],
+      "tags": {
+        "operator": "Openreach",
+        "operator:wikidata": "Q7096543",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Orange",
+      "id": "orange-a5dd94",
+      "locationSet": {"include": ["fr"]},
+      "matchNames": ["france telecom"],
+      "tags": {
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Proximus",
+      "id": "proximus-121b1a",
+      "locationSet": {"include": ["be"]},
+      "matchNames": ["belgacom"],
+      "tags": {
+        "name": "Proximus",
+        "operator": "Proximus",
+        "operator:wikidata": "Q2005282",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Rogers Communications",
+      "id": "rogerscommunications-972095",
+      "locationSet": {"include": ["ca"]},
+      "matchNames": ["rogers"],
+      "tags": {
+        "operator": "Rogers Communications",
+        "operator:wikidata": "Q165684",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Sarthe Numérique",
+      "id": "sarthenumerique-b6b03d",
+      "locationSet": {
+        "include": ["fr-pdl.geojson"]
+      },
+      "tags": {
+        "operator": "Sarthe Numérique",
+        "operator:wikidata": "Q92938088",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "SFR",
+      "id": "sfr-a5dd94",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "operator": "SFR",
+        "operator:wikidata": "Q218765",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Sipartech",
+      "id": "sipartech-92129e",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "operator": "Sipartech",
+        "operator:wikidata": "Q113840947",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Sogetel",
+      "id": "sogetel-35db0e",
+      "locationSet": {
+        "include": ["ca-qc.geojson"]
+      },
+      "tags": {
+        "operator": "Sogetel",
+        "operator:wikidata": "Q3488916",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Starlink Ground Station",
+      "id": "starlink-d331a5",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["cn"]
+      },
+      "matchNames": ["starlink gateway"],
+      "tags": {
+        "operator": "Starlink",
+        "operator:wikidata": "Q127785902",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Swisscom",
+      "id": "swisscom-3773d7",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "operator": "Swisscom",
+        "operator:wikidata": "Q644324",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "TDC NET",
+      "id": "tdcnet-1044e2",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "operator": "TDC NET",
+        "operator:wikidata": "Q110892227",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "TDF",
+      "id": "tdf-a5dd94",
+      "locationSet": {"include": ["fr"]},
+      "matchNames": ["tdf fibre"],
+      "tags": {
+        "operator": "TDF",
+        "operator:wikidata": "Q1162908",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Télébec",
+      "id": "telebec-35db0e",
+      "locationSet": {
+        "include": ["ca-qc.geojson"]
+      },
+      "tags": {
+        "operator": "Télébec",
+        "operator:wikidata": "Q3546573",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Telefónica",
+      "id": "telefonica-1b5ba5",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "operator": "Telefónica",
+        "operator:wikidata": "Q160229",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Telstra",
+      "id": "telstra-03cc00",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "operator": "Telstra",
+        "operator:wikidata": "Q721162",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Telus",
+      "id": "telus-972095",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "operator": "Telus",
+        "operator:wikidata": "Q165858",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "THD64",
+      "id": "thd64-92129e",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "operator": "THD64",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "TIM",
+      "id": "tim-16a737",
+      "locationSet": {"include": ["it"]},
+      "matchNames": ["telecom italia"],
+      "tags": {
+        "operator": "TIM",
+        "operator:wikidata": "Q144617",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Türk Telekom",
+      "id": "turktelekom-fd4f59",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "operator": "Türk Telekom",
+        "operator:wikidata": "Q263700",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Val de Loire Fibre",
+      "id": "valdeloirefibre-92129e",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "operator": "Val de Loire Fibre",
+        "operator:wikidata": "Q131815691",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Verizon",
+      "id": "verizon-ca5b07",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "name": "Verizon",
+        "operator": "Verizon",
+        "operator:wikidata": "Q467752",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Verizon Virginia LLC",
+      "id": "verizonvirginiallc-ca5b07",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "operator": "Verizon Virginia LLC",
+        "operator:wikidata": "Q24060823",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "XPFibre",
+      "id": "xpfibre-92129e",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "operator": "XPFibre",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Zayo",
+      "id": "zayo-cae76b",
+      "locationSet": {
+        "include": ["fx", "gb", "ie", "us"]
+      },
+      "tags": {
+        "operator": "Zayo",
+        "operator:wikidata": "Q8067574",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Ziply Fiber",
+      "id": "ziplyfiber-a4e28f",
+      "locationSet": {
+        "include": [
+          "us-id.geojson",
+          "us-mt.geojson",
+          "us-or.geojson",
+          "us-wa.geojson"
+        ]
+      },
+      "matchNames": ["frontier"],
+      "tags": {
+        "name": "Ziply Fiber",
+        "operator": "Ziply Fiber",
+        "operator:wikidata": "Q5505968",
+        "telecom": "exchange"
+      }
+    },
+    {
+      "displayName": "Ростелеком",
+      "id": "b6fed5-83cf97",
+      "locationSet": {"include": ["ru"]},
+      "matchNames": ["пао «ростелеком»"],
+      "tags": {
+        "operator": "Ростелеком",
+        "operator:wikidata": "Q1477012",
+        "telecom": "exchange"
+      }
+    }
+  ]
+}

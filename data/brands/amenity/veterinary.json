@@ -1,0 +1,260 @@
+{
+  "properties": {
+    "path": "brands/amenity/veterinary",
+    "exclude": {
+      "generic": [
+        "^(cabinet |clinique )?vétérinaire$",
+        "^(cl[ií]nica )?veterinari[ao]$",
+        "^ambulatorio veterinario$",
+        "^tierarztpraxis$",
+        "^veterinary( hospital)?$",
+        "^ветеринарная аптека$",
+        "^ветеринарная клиника$",
+        "^ветлечебница$"
+      ],
+      "named": [
+        "^government veterinary hospital$",
+        "^kleintierpraxis$",
+        "^ветаптека$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "AniCura",
+      "id": "anicura-acf389",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "ch",
+          "de",
+          "dk",
+          "es",
+          "fr",
+          "it",
+          "nl",
+          "no",
+          "pl",
+          "pt",
+          "se"
+        ]
+      },
+      "tags": {
+        "amenity": "veterinary",
+        "brand": "AniCura",
+        "brand:wikidata": "Q21100245",
+        "name": "AniCura"
+      }
+    },
+    {
+      "displayName": "Animates Vetcare",
+      "id": "animatesvetcare-023837",
+      "locationSet": {"include": ["nz"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "veterinary",
+        "brand": "Animates",
+        "brand:wikidata": "Q110299350",
+        "name": "Animates Vetcare"
+      }
+    },
+    {
+      "displayName": "Argos Vétérinaire",
+      "id": "argosveterinaire-cf3946",
+      "locationSet": {"include": ["fr"]},
+      "matchNames": ["argos"],
+      "tags": {
+        "amenity": "veterinary",
+        "brand": "Argos Vétérinaire",
+        "brand:wikidata": "Q140172621",
+        "name": "Argos Vétérinaire"
+      }
+    },
+    {
+      "displayName": "Banfield Pet Hospital",
+      "id": "banfieldpethospital-146b24",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["banfield"],
+      "tags": {
+        "amenity": "veterinary",
+        "brand": "Banfield Pet Hospital",
+        "brand:wikidata": "Q2882416",
+        "name": "Banfield Pet Hospital"
+      }
+    },
+    {
+      "displayName": "Blue Cross Pet Clinic",
+      "id": "bluecrosspetclinic-45f750",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "veterinary",
+        "brand": "Blue Cross",
+        "brand:wikidata": "Q3520039",
+        "name": "Blue Cross Pet Clinic"
+      }
+    },
+    {
+      "displayName": "BluePearl",
+      "id": "bluepearl-146b24",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "veterinary",
+        "brand": "BluePearl",
+        "brand:wikidata": "Q4928764",
+        "name": "BluePearl"
+      }
+    },
+    {
+      "displayName": "Goddard Veterinary Group",
+      "id": "goddardveterinarygroup-1f839e",
+      "locationSet": {
+        "include": ["gb-lon.geojson"]
+      },
+      "matchNames": ["goddard vet group"],
+      "tags": {
+        "amenity": "veterinary",
+        "brand": "Goddard Veterinary Group",
+        "brand:wikidata": "Q120587989",
+        "name": "Goddard Veterinary Group"
+      }
+    },
+    {
+      "displayName": "Greencross Vets",
+      "id": "greencrossvets-42dd12",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "amenity": "veterinary",
+        "brand": "Greencross Vets",
+        "brand:wikidata": "Q41179992",
+        "name": "Greencross Vets"
+      }
+    },
+    {
+      "displayName": "Medivet",
+      "id": "medivet-45f750",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["medivet the vets"],
+      "tags": {
+        "amenity": "veterinary",
+        "brand": "Medivet",
+        "brand:wikidata": "Q120372623",
+        "name": "Medivet"
+      }
+    },
+    {
+      "displayName": "Parc de vaccination bétail",
+      "id": "parcdevaccinationbetail-770e56",
+      "locationSet": {"include": ["bf"]},
+      "tags": {
+        "amenity": "veterinary",
+        "brand": "Parc de vaccination bétail",
+        "name": "Parc de vaccination bétail"
+      }
+    },
+    {
+      "displayName": "VCA Animal Hospitals",
+      "id": "vcaanimalhospital-e02471",
+      "locationSet": {"include": ["ca", "us"]},
+      "matchNames": ["vca"],
+      "note": "hospital is plural in the brand name and singular in the names of the individual clinics",
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "veterinary",
+        "brand": "VCA Animal Hospitals",
+        "brand:wikidata": "Q7906620",
+        "name": "VCA Animal Hospital"
+      }
+    },
+    {
+      "displayName": "VEG",
+      "id": "veg-146b24",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["veg er for pets"],
+      "tags": {
+        "amenity": "veterinary",
+        "brand": "VEG",
+        "brand:wikidata": "Q140356704",
+        "emergency": "yes",
+        "name": "VEG",
+        "official_name": "Veterinary Emergency Group",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "displayName": "VetIQ Petcare",
+      "id": "vetiq-146b24",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "alt_name": "VetIQ Smarter Pet Health",
+        "amenity": "veterinary",
+        "brand": "VetIQ Petcare",
+        "brand:wikidata": "Q109887581",
+        "name": "VetIQ"
+      }
+    },
+    {
+      "displayName": "Vets4Pets",
+      "id": "vets4pets-45f750",
+      "locationSet": {"include": ["gb"]},
+      "matchTags": ["shop/pet_grooming"],
+      "tags": {
+        "amenity": "veterinary",
+        "brand": "Vets4Pets",
+        "brand:wikidata": "Q16960196",
+        "name": "Vets4Pets"
+      }
+    },
+    {
+      "displayName": "WellHaven Pet Health",
+      "id": "wellhavenpethealth-146b24",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "veterinary",
+        "brand": "WellHaven",
+        "brand:wikidata": "Q107784406",
+        "name": "WellHaven Pet Health"
+      }
+    },
+    {
+      "displayName": "Айболит",
+      "id": "0b5e42-277e18",
+      "locationSet": {"include": ["kz", "ru"]},
+      "tags": {
+        "amenity": "veterinary",
+        "brand": "Айболит",
+        "name": "Айболит"
+      }
+    },
+    {
+      "displayName": "全國動物醫院",
+      "id": "lovingkindnessanimalhospital-093749",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "veterinary",
+        "brand": "全國動物醫院",
+        "brand:en": "Loving Kindness Animal Hospital",
+        "brand:wikidata": "Q131300406",
+        "brand:zh": "全國動物醫院",
+        "name": "全國動物醫院",
+        "name:en": "Loving Kindness Animal Hospital",
+        "name:zh": "全國動物醫院"
+      }
+    },
+    {
+      "displayName": "慈愛動物醫院",
+      "id": "nationalveterinaryhospital-093749",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "veterinary",
+        "brand": "慈愛動物醫院",
+        "brand:en": "National Veterinary Hospital",
+        "brand:wikidata": "Q131300405",
+        "brand:zh": "慈愛動物醫院",
+        "name": "慈愛動物醫院",
+        "name:en": "National Veterinary Hospital",
+        "name:zh": "慈愛動物醫院"
+      }
+    }
+  ]
+}

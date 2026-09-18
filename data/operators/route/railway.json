@@ -1,0 +1,959 @@
+{
+  "properties": {
+    "path": "operators/route/railway",
+    "exclude": {
+      "generic": ["^(railway|tracks?)$"],
+      "named": [
+        "(db netz|db infrago|db station|deutsche bahn)"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Adif",
+      "id": "adif-762e69",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "operator": "Adif",
+        "operator:wikidata": "Q358752",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Amtrak",
+      "id": "amtrak-7523d3",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "operator": "Amtrak",
+        "operator:wikidata": "Q23239",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Banedanmark",
+      "id": "banedanmark-8a3339",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "operator": "Banedanmark",
+        "operator:wikidata": "Q806420",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "BLS",
+      "id": "bls-a9df5c",
+      "locationSet": {
+        "include": ["ch", "it-21.geojson"]
+      },
+      "tags": {
+        "operator": "BLS",
+        "operator:wikidata": "Q246824",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "BNSF Railway",
+      "id": "bnsfrailway-2c7402",
+      "locationSet": {"include": ["conus"]},
+      "matchNames": [
+        "bnsf",
+        "burlington northern santa fe r"
+      ],
+      "tags": {
+        "operator": "BNSF Railway",
+        "operator:wikidata": "Q267122",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "California High Speed Rail Authority",
+      "id": "californiahighspeedrailauthority-86f3a2",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "tags": {
+        "operator": "California High Speed Rail Authority",
+        "operator:short": "CHSRA",
+        "operator:wikidata": "Q5020545",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Canadian National Railway",
+      "id": "canadiannationalrailway-207bfd",
+      "locationSet": {
+        "include": ["ca", "conus"],
+        "exclude": ["ca-qc.geojson"]
+      },
+      "matchNames": [
+        "canadian national",
+        "cn",
+        "cn rail",
+        "cn railway"
+      ],
+      "tags": {
+        "operator": "Canadian National Railway",
+        "operator:wikidata": "Q624798",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Canadian Pacific Kansas City",
+      "id": "canadianpacifickansascity-d21fbf",
+      "locationSet": {
+        "include": ["ca", "conus", "mx"],
+        "exclude": ["ca-qc.geojson"]
+      },
+      "matchNames": [
+        "canadian pacific",
+        "canadian pacific railway",
+        "cp",
+        "cpkc",
+        "kansas city southern",
+        "kansas city southern de mexico",
+        "kansas city southern mexico",
+        "kansas city southern railway",
+        "kcs",
+        "tfm",
+        "transportación ferroviaria mexicana"
+      ],
+      "tags": {
+        "operator": "Canadian Pacific Kansas City",
+        "operator:wikidata": "Q117706368",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Canadien National",
+      "id": "canadiennational-1c1189",
+      "locationSet": {
+        "include": ["ca-qc.geojson"]
+      },
+      "matchNames": [
+        "canadian national",
+        "cn",
+        "cn rail",
+        "cn railway"
+      ],
+      "tags": {
+        "operator": "Canadien National",
+        "operator:wikidata": "Q624798",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Canadien Pacifique Kansas City",
+      "id": "canadienpacifiquekansascity-1c1189",
+      "locationSet": {
+        "include": ["ca-qc.geojson"]
+      },
+      "matchNames": [
+        "canadian pacific",
+        "canadian pacific railway",
+        "cp",
+        "cpkc"
+      ],
+      "tags": {
+        "operator": "Canadien Pacifique Kansas City",
+        "operator:wikidata": "Q117706368",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "České dráhy",
+      "id": "ceskedrahy-fb3809",
+      "locationSet": {"include": ["cz"]},
+      "matchNames": ["cz:čd"],
+      "tags": {
+        "operator": "České dráhy",
+        "operator:short": "ČD",
+        "operator:wikidata": "Q304944",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "CFR Călători",
+      "id": "cfrcalatori-e13be9",
+      "locationSet": {"include": ["ro"]},
+      "tags": {
+        "operator": "CFR Călători",
+        "operator:wikidata": "Q856252",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Comboios de Portugal",
+      "id": "comboiosdeportugal-6391e0",
+      "locationSet": {"include": ["pt"]},
+      "matchNames": [
+        "companhia dos caminhos de ferro portugueses",
+        "cp",
+        "cp comboios de portugal"
+      ],
+      "tags": {
+        "operator": "Comboios de Portugal",
+        "operator:wikidata": "Q81123",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Conrail",
+      "id": "conrail-bfb76c",
+      "locationSet": {"include": ["ca", "conus"]},
+      "matchNames": [
+        "consolidated rail",
+        "cr",
+        "crcx",
+        "csao"
+      ],
+      "tags": {
+        "operator": "Conrail",
+        "operator:wikidata": "Q5162679",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "CSX",
+      "id": "csx-2c7402",
+      "locationSet": {"include": ["conus"]},
+      "matchNames": [
+        "csx transportation",
+        "csxt"
+      ],
+      "tags": {
+        "operator": "CSX",
+        "operator:wikidata": "Q856783",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "ETS",
+      "id": "euskaltrenbidesarea-06961a",
+      "locationSet": {
+        "include": [
+          "es-bi.geojson",
+          "es-ss.geojson",
+          "es-vi.geojson",
+          "fr-naq.geojson"
+        ]
+      },
+      "tags": {
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Ferrocarrils de la Generalitat de Catalunya",
+      "id": "ferrocarrilsdelageneralitatdecatalunya-61e43c",
+      "locationSet": {
+        "include": [
+          "es-b.geojson",
+          "es-gi.geojson",
+          "es-l.geojson",
+          "es-t.geojson"
+        ]
+      },
+      "matchNames": [
+        "fgc ferrocarrils de la generalitat de catalunya"
+      ],
+      "tags": {
+        "operator": "Ferrocarrils de la Generalitat de Catalunya",
+        "operator:short": "FGC",
+        "operator:wikidata": "Q83819",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "GIO Rail",
+      "id": "giorail-a83027",
+      "locationSet": {
+        "include": ["ca-on.geojson"]
+      },
+      "tags": {
+        "operator": "GIO Rail",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "GO Transit",
+      "id": "alstom-a83027",
+      "locationSet": {
+        "include": ["ca-on.geojson"]
+      },
+      "matchNames": ["go train"],
+      "tags": {
+        "network": "GO Transit",
+        "network:wikidata": "Q1357727",
+        "operator": "Alstom",
+        "operator:wikidata": "Q309084",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "GYSEV",
+      "id": "gysev-6c36c0",
+      "locationSet": {"include": ["hu"]},
+      "tags": {
+        "operator": "GYSEV",
+        "operator:wikidata": "Q181697",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "HŽ Infrastruktura",
+      "id": "hzinfrastruktura-10a7ce",
+      "locationSet": {"include": ["hr"]},
+      "tags": {
+        "operator": "HŽ Infrastruktura",
+        "operator:wikidata": "Q102035872",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Indian Railway",
+      "id": "indianrailway-04612b",
+      "locationSet": {"include": ["in"]},
+      "matchNames": ["ir"],
+      "tags": {
+        "operator": "Indian Railway",
+        "operator:wikidata": "Q819425",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Infrabel",
+      "id": "infrabel-1684ca",
+      "locationSet": {"include": ["be"]},
+      "tags": {
+        "operator": "Infrabel",
+        "operator:wikidata": "Q536120",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Infraestruturas de Portugal",
+      "id": "infraestruturasdeportugal-6391e0",
+      "locationSet": {"include": ["pt"]},
+      "tags": {
+        "operator": "Infraestruturas de Portugal",
+        "operator:wikidata": "Q20730106",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Irish Rail",
+      "id": "irishrail-8601a8",
+      "locationSet": {"include": ["ie"]},
+      "tags": {
+        "operator": "Irish Rail",
+        "operator:en": "Irish Rail",
+        "operator:ga": "Iarnród Éireann",
+        "operator:wikidata": "Q73043",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "JR九州",
+      "id": "kyushurailwaycompany-c878da",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "operator": "九州旅客鉄道",
+        "operator:en": "Kyushu Railway Company",
+        "operator:ja": "九州旅客鉄道",
+        "operator:short": "JR九州",
+        "operator:short:en": "JR Kyushu",
+        "operator:short:ja": "JR九州",
+        "operator:wikidata": "Q498366",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "JR北海道",
+      "id": "hokkaidorailwaycompany-c878da",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "operator": "北海道旅客鉄道",
+        "operator:en": "Hokkaido Railway Company",
+        "operator:ja": "北海道旅客鉄道",
+        "operator:short": "JR北海道",
+        "operator:short:en": "JR Hokkaido",
+        "operator:short:ja": "JR北海道",
+        "operator:wikidata": "Q498930",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "JR四国",
+      "id": "shikokurailwaycompany-c878da",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "operator": "四国旅客鉄道",
+        "operator:en": "Shikoku Railway Company",
+        "operator:ja": "四国旅客鉄道",
+        "operator:short": "JR四国",
+        "operator:short:en": "JR Shikoku",
+        "operator:short:ja": "JR四国",
+        "operator:wikidata": "Q496531",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "JR東日本",
+      "id": "eastjapanrailwaycompany-c878da",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "operator": "東日本旅客鉄道",
+        "operator:en": "East Japan Railway Company",
+        "operator:ja": "東日本旅客鉄道",
+        "operator:short": "JR東日本",
+        "operator:short:en": "JR East",
+        "operator:short:ja": "JR東日本",
+        "operator:wikidata": "Q499071",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "JR東海",
+      "id": "centraljapanrailwaycompany-c878da",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["jr tokai"],
+      "tags": {
+        "operator": "東海旅客鉄道",
+        "operator:en": "Central Japan Railway Company",
+        "operator:ja": "東海旅客鉄道",
+        "operator:short": "JR東海",
+        "operator:short:en": "JR Central",
+        "operator:short:ja": "JR東海",
+        "operator:wikidata": "Q513679",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "JR西日本",
+      "id": "westjapanrailwaycompany-c878da",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "operator": "西日本旅客鉄道",
+        "operator:en": "West Japan Railway Company",
+        "operator:ja": "西日本旅客鉄道",
+        "operator:short": "JR西日本",
+        "operator:short:en": "JR West",
+        "operator:short:ja": "JR西日本",
+        "operator:wikidata": "Q502125",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Kenya Railways",
+      "id": "kenyarailways-220ac2",
+      "locationSet": {"include": ["ke"]},
+      "matchNames": [
+        "ear",
+        "kenya railways corporation",
+        "krc"
+      ],
+      "tags": {
+        "operator": "Kenya Railways",
+        "operator:short": "KR",
+        "operator:wikidata": "Q1663639",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Los Angeles County Metropolitan Transportation Authority",
+      "id": "losangelescountymetropolitantransportationauthority-86f3a2",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "tags": {
+        "operator": "Los Angeles County Metropolitan Transportation Authority",
+        "operator:wikidata": "Q3259702",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "MÁV",
+      "id": "mav-6c36c0",
+      "locationSet": {"include": ["hu"]},
+      "matchNames": ["magyar államvasutak zrt."],
+      "tags": {
+        "operator": "MÁV",
+        "operator:wikidata": "Q168082",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Nederlandse Spoorwegen",
+      "id": "nederlandsespoorwegen-2ab239",
+      "locationSet": {"include": ["nl"]},
+      "matchNames": ["ns"],
+      "tags": {
+        "operator": "Nederlandse Spoorwegen",
+        "operator:wikidata": "Q23076",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Network Rail",
+      "id": "networkrail-b6d660",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "operator": "Network Rail",
+        "operator:wikidata": "Q1501071",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "New York City Transit Authority",
+      "id": "newyorkcitytransitauthority-d97a9c",
+      "locationSet": {
+        "include": ["us-ny-new_york_city.geojson"]
+      },
+      "tags": {
+        "operator": "New York City Transit Authority",
+        "operator:wikidata": "Q1325591",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Norfolk Southern",
+      "id": "norfolksouthern-2c7402",
+      "locationSet": {"include": ["conus"]},
+      "matchNames": [
+        "norfolk southern railway",
+        "ns"
+      ],
+      "tags": {
+        "operator": "Norfolk Southern",
+        "operator:wikidata": "Q1321054",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "ÖBB",
+      "id": "obb-4c3eff",
+      "locationSet": {"include": ["at"]},
+      "tags": {
+        "operator": "ÖBB",
+        "operator:wikidata": "Q83822",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Ontario Southland Railway",
+      "id": "ontariosouthlandrailway-b3dcbb",
+      "locationSet": {
+        "include": [[-80.6, 43.2, 80]]
+      },
+      "matchNames": ["osr"],
+      "tags": {
+        "operator": "Ontario Southland Railway",
+        "operator:wikidata": "Q7094908",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Philippine National Railways",
+      "id": "philippinenationalrailways-c5c786",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "operator": "Philippine National Railways",
+        "operator:wikidata": "Q1637464",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "PKP Polskie Linie Kolejowe",
+      "id": "pkppolskieliniekolejowe-b8385d",
+      "locationSet": {"include": ["pl"]},
+      "matchNames": [
+        "pkp plk",
+        "pkp polskie linie kolejowe s.a."
+      ],
+      "tags": {
+        "operator": "PKP Polskie Linie Kolejowe",
+        "operator:wikidata": "Q1344677",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Regio Călători",
+      "id": "regiocalatori-e13be9",
+      "locationSet": {"include": ["ro"]},
+      "tags": {
+        "operator": "Regio Călători",
+        "operator:wikidata": "Q567819",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Rete Ferroviaria Italiana",
+      "id": "reteferroviariaitaliana-4ed8db",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "operator": "Rete Ferroviaria Italiana",
+        "operator:short": "RFI",
+        "operator:wikidata": "Q1060049",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Rumo S/A",
+      "id": "rumosa-6e3fcb",
+      "locationSet": {"include": ["br"]},
+      "matchNames": ["rumo", "rumo logística"],
+      "tags": {
+        "operator": "Rumo S/A",
+        "operator:wikidata": "Q26234621",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "San Joaquin Valley Railroad",
+      "id": "sanjoaquinvalleyrailroad-86f3a2",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "matchNames": ["sjvr"],
+      "tags": {
+        "operator": "San Joaquin Valley Railroad",
+        "operator:wikidata": "Q7414408",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "SBB",
+      "id": "sbb-8e443b",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "operator": "SBB",
+        "operator:wikidata": "Q83835",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "SNCC",
+      "id": "sncc-398c7e",
+      "locationSet": {"include": ["cd"]},
+      "matchNames": [
+        "société nationale des chemins de fer du congo"
+      ],
+      "tags": {
+        "operator": "SNCC",
+        "operator:wikidata": "Q1481581",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "SNCF Réseau",
+      "id": "sncfreseau-ced9a9",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "operator": "SNCF Réseau",
+        "operator:wikidata": "Q21605526",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "SNCF Voyageurs",
+      "id": "sncfvoyageurs-954af4",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "operator": "SNCF Voyageurs",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Správa železnic",
+      "id": "spravazeleznic-fb3809",
+      "locationSet": {"include": ["cz"]},
+      "matchNames": [
+        "sprava zeleznic, s. o.",
+        "szcz"
+      ],
+      "tags": {
+        "operator": "Správa železnic",
+        "operator:short": "SŽ",
+        "operator:wikidata": "Q1848025",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "SŽ Infrastruktura",
+      "id": "szinfrastruktura-f1bc21",
+      "locationSet": {"include": ["si"]},
+      "tags": {
+        "operator": "SŽ Infrastruktura",
+        "operator:wikidata": "Q101424662",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Tanzania Railways Corporation",
+      "id": "tanzaniarailwayscorporation-cd2cd6",
+      "locationSet": {"include": ["tz"]},
+      "matchNames": ["ear"],
+      "tags": {
+        "operator": "Tanzania Railways Corporation",
+        "operator:short": "TRC",
+        "operator:wikidata": "Q2393276",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "TCDD",
+      "id": "tcdd-e43c16",
+      "locationSet": {"include": ["tr"]},
+      "matchNames": ["tcdd taşımacılık", "tcddt"],
+      "tags": {
+        "operator": "TCDD",
+        "operator:wikidata": "Q28220824",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Trafikverket",
+      "id": "trafikverket-18cfca",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "operator": "Trafikverket",
+        "operator:wikidata": "Q1677108",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Uganda Railways Corporation",
+      "id": "ugandarailwayscorporation-6608d2",
+      "locationSet": {"include": ["ug"]},
+      "matchNames": ["ear"],
+      "tags": {
+        "operator": "Uganda Railways Corporation",
+        "operator:short": "URC",
+        "operator:wikidata": "Q1711861",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Union Pacific Railroad",
+      "id": "unionpacificrailroad-2c7402",
+      "locationSet": {"include": ["conus"]},
+      "matchNames": ["union pacific", "up"],
+      "tags": {
+        "operator": "Union Pacific Railroad",
+        "operator:wikidata": "Q725793",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Železnice Slovenskej republiky",
+      "id": "zelezniceslovenskejrepubliky-ae10a0",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "operator": "Železnice Slovenskej republiky",
+        "operator:short": "ŽSR",
+        "operator:wikidata": "Q393524",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Železničná spoločnosť Slovensko",
+      "id": "zeleznicnaspolocnostslovensko-ae10a0",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "operator": "Železničná spoločnosť Slovensko",
+        "operator:short": "ZSSK",
+        "operator:wikidata": "Q393557",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Οργανισμός Σιδηροδρόμων Ελλάδος",
+      "id": "459464-0abbc5",
+      "locationSet": {"include": ["gr"]},
+      "tags": {
+        "operator": "Οργανισμός Σιδηροδρόμων Ελλάδος",
+        "operator:short": "ΟΣΕ",
+        "operator:wikidata": "Q602935",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Инфраструктура железнице Србије",
+      "id": "f8b493-dc2a17",
+      "locationSet": {"include": ["rs"]},
+      "matchNames": ["железнице србије"],
+      "tags": {
+        "operator": "Инфраструктура железнице Србије",
+        "operator:wikidata": "Q25459124",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Национална компания \"Железопътна инфраструктура\"",
+      "id": "1a4895-ce52f6",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": ["дп нкжи", "нкжи"],
+      "tags": {
+        "operator": "Национална компания \"Железопътна инфраструктура\"",
+        "operator:wikidata": "Q6975183",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "Одеська залізниця",
+      "id": "odesarailways-53b4a5",
+      "locationSet": {"include": ["ua"]},
+      "tags": {
+        "operator": "Одеська залізниця",
+        "operator:en": "Odesa Railways",
+        "operator:uk": "Одеська залізниця",
+        "operator:wikidata": "Q166574",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "РЖД",
+      "id": "russianrailways-538f7a",
+      "locationSet": {"include": ["ru"]},
+      "matchNames": [
+        "российские железные дороги"
+      ],
+      "tags": {
+        "operator": "РЖД",
+        "operator:en": "Russian Railways",
+        "operator:ru": "РЖД",
+        "operator:wikidata": "Q660770",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "한국철도공사",
+      "id": "korearailroadcorporation-70c7ea",
+      "locationSet": {"include": ["kr"]},
+      "matchNames": ["krna", "국가철도공단", "한국철도"],
+      "tags": {
+        "operator": "한국철도공사",
+        "operator:en": "Korea Railroad Corporation",
+        "operator:ko": "한국철도공사",
+        "operator:ko-Hani": "韓國鐵道公社",
+        "operator:ko-Latn": "Hanguk cheoldo gongsa",
+        "operator:short": "KORAIL",
+        "operator:type": "public",
+        "operator:wikidata": "Q18169",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "中国铁路",
+      "id": "chinarailway-b63757",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "operator": "中国铁路",
+        "operator:en": "China Railway",
+        "operator:wikidata": "Q1073489",
+        "operator:zh": "中国铁路",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "中国铁路哈尔滨局集团有限公司",
+      "id": "chinarailwayharbingroup-b63757",
+      "locationSet": {"include": ["cn"]},
+      "matchNames": ["哈局"],
+      "tags": {
+        "operator": "中国铁路哈尔滨局集团有限公司",
+        "operator:en": "China Railway Harbin Group",
+        "operator:wikidata": "Q10922014",
+        "operator:zh": "中国铁路哈尔滨局集团有限公司",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "名古屋鉄道",
+      "id": "nagoyarailroad-720116",
+      "locationSet": {
+        "include": [
+          "jp-21.geojson",
+          "jp-23.geojson"
+        ]
+      },
+      "tags": {
+        "operator": "名古屋鉄道",
+        "operator:en": "Nagoya Railroad",
+        "operator:ja": "名古屋鉄道",
+        "operator:short": "名鉄",
+        "operator:short:en": "Meitetsu",
+        "operator:short:ja": "名鉄",
+        "operator:wikidata": "Q30850",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "國營臺灣鐵路股份有限公司",
+      "id": "48bbdc-140976",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "operator": "國營臺灣鐵路股份有限公司",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "神戸電鉄",
+      "id": "008a26-d1d0b1",
+      "locationSet": {
+        "include": ["jp-28.geojson"]
+      },
+      "tags": {
+        "operator": "神戸電鉄",
+        "operator:wikidata": "Q836658",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "臺灣鐵路公司",
+      "id": "taiwanrailwaycorporation-140976",
+      "locationSet": {"include": ["tw"]},
+      "matchNames": ["台灣鐵路管理局", "臺灣鐵路管理局", "臺鐵"],
+      "tags": {
+        "operator": "臺灣鐵路公司",
+        "operator:en": "Taiwan Railway Corporation",
+        "operator:hak": "Thòi-vân Thiet-lu Kûng-sṳ̂",
+        "operator:nan": "Tâi-oân Thih-lō͘ Kong-si",
+        "operator:nan-Hant": "臺灣鐵路公司",
+        "operator:nan-Latn-pehoeji": "Tâi-oân Thih-lō͘ Kong-si",
+        "operator:nan-Latn-tailo": "Tâi-uân Thih-lōo Kong-si",
+        "operator:short": "台鐵",
+        "operator:short:en": "TRA",
+        "operator:short:nan": "Tâi-thih",
+        "operator:short:nan-Hant": "台鐵",
+        "operator:short:nan-Latn-pehoeji": "Tâi-thih",
+        "operator:short:nan-Latn-tailo": "Tâi-thih",
+        "operator:short:zh": "台鐵",
+        "operator:wikidata": "Q112151129",
+        "operator:zh": "臺灣鐵路公司",
+        "route": "railway"
+      }
+    },
+    {
+      "displayName": "近畿日本鉄道",
+      "id": "kintetsurailwaycompany-c878da",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "operator": "近畿日本鉄道",
+        "operator:en": "Kintetsu Railway Company",
+        "operator:ja": "近畿日本鉄道",
+        "operator:short": "近鉄",
+        "operator:short:en": "Kintetsu",
+        "operator:short:ja": "近鉄",
+        "operator:wikidata": "Q1531085",
+        "route": "railway"
+      }
+    }
+  ]
+}

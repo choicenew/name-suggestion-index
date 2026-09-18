@@ -1,0 +1,449 @@
+{
+  "properties": {
+    "path": "brands/shop/hearing_aids",
+    "exclude": {"generic": ["^hearing aids$"]}
+  },
+  "items": [
+    {
+      "displayName": "Acústica Médica",
+      "id": "acusticamedica-f022a3",
+      "locationSet": {"include": ["pt"]},
+      "tags": {
+        "brand": "Acústica Médica",
+        "brand:wikidata": "Q120764152",
+        "name": "Acústica Médica",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Amplifon",
+      "id": "amplifon-6f1b2d",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "amplifon deutschland gmbh",
+        "amplifon france"
+      ],
+      "matchTags": ["shop/medical_supply"],
+      "tags": {
+        "brand": "Amplifon",
+        "brand:wikidata": "Q477222",
+        "name": "Amplifon",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Audika",
+      "id": "audika-d17c26",
+      "locationSet": {
+        "include": [
+          "au",
+          "be",
+          "ch",
+          "de",
+          "es",
+          "fr",
+          "hu",
+          "it",
+          "nl",
+          "nz",
+          "pl",
+          "pt",
+          "q35",
+          "se"
+        ]
+      },
+      "matchTags": ["shop/medical_supply"],
+      "tags": {
+        "brand": "Audika",
+        "brand:wikidata": "Q2870745",
+        "name": "Audika",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Audilab",
+      "id": "audilab-400e82",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Audilab",
+        "brand:wikidata": "Q117352010",
+        "name": "Audilab",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Audition Conseil",
+      "id": "auditionconseil-400e82",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Audition Conseil",
+        "brand:wikidata": "Q104904635",
+        "name": "Audition Conseil",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Audition Santé",
+      "id": "auditionsante-400e82",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Audition Santé",
+        "brand:wikidata": "Q141156321",
+        "name": "Audition Santé",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Beltone",
+      "id": "beltone-2a109a",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "beltone hearing",
+        "beltone hearing aid center",
+        "beltone hearing aid service",
+        "beltone hearing care center"
+      ],
+      "matchTags": ["shop/medical_supply"],
+      "tags": {
+        "brand": "Beltone",
+        "brand:wikidata": "Q4884785",
+        "name": "Beltone",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Benoit Audition",
+      "id": "benoitaudition-400e82",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Benoit Audition",
+        "brand:wikidata": "Q114810641",
+        "name": "Benoit Audition",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Beter Horen",
+      "id": "beterhoren-cec8b0",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "Beter Horen",
+        "brand:wikidata": "Q98282942",
+        "name": "Beter Horen",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Centre d'audioprothèses de Costco",
+      "id": "centredaudioprothesesdecostco-67b952",
+      "locationSet": {
+        "include": ["ca-qc.geojson"]
+      },
+      "tags": {
+        "brand": "Costco",
+        "brand:wikidata": "Q715583",
+        "name": "Centre d'audioprothèses de Costco",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Connect Hearing",
+      "id": "connecthearing-758769",
+      "locationSet": {
+        "include": ["au", "ca", "us"]
+      },
+      "tags": {
+        "brand": "Connect Hearing",
+        "name": "Connect Hearing",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Costco Hearing Aid Center",
+      "id": "costcohearingaidcenter-6e7cbb",
+      "locationSet": {
+        "include": ["ca", "gb", "us"],
+        "exclude": ["ca-qc.geojson"]
+      },
+      "tags": {
+        "brand": "Costco",
+        "brand:wikidata": "Q715583",
+        "name": "Costco Hearing Aid Center",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Entendre",
+      "id": "entendre-400e82",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Entendre",
+        "brand:wikidata": "Q132101015",
+        "name": "Entendre",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "GAES",
+      "id": "gaes-681898",
+      "locationSet": {
+        "include": [
+          "ar",
+          "cl",
+          "co",
+          "ec",
+          "es",
+          "mx",
+          "pa"
+        ]
+      },
+      "tags": {
+        "brand": "GAES",
+        "brand:wikidata": "Q98492565",
+        "name": "GAES",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Geers",
+      "id": "geers-b91cc2",
+      "locationSet": {"include": ["de", "pl"]},
+      "matchNames": [
+        "geers hörakustik",
+        "geers hörgeräte"
+      ],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Geers",
+        "brand:wikidata": "Q1497707",
+        "name": "Geers",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Hansaton",
+      "id": "hansaton-88f32a",
+      "locationSet": {"include": ["at"]},
+      "tags": {
+        "brand": "Hansaton",
+        "brand:wikidata": "Q1261528",
+        "name": "Hansaton",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Hearing Solutions",
+      "id": "hearingsolutions-903387",
+      "locationSet": {
+        "include": ["ca-on.geojson"]
+      },
+      "tags": {
+        "brand": "Hearing Solutions",
+        "brand:wikidata": "Q133255789",
+        "name": "Hearing Solutions",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "HearingLife",
+      "id": "hearinglife-e91f4d",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "HearingLife",
+        "brand:wikidata": "Q132831019",
+        "name": "HearingLife",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "HearUSA",
+      "id": "hearusa-2a109a",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "HearUSA",
+        "brand:wikidata": "Q125579061",
+        "name": "HearUSA",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Hidden Hearing",
+      "id": "hiddenhearing-edbe38",
+      "locationSet": {"include": ["gb", "ie"]},
+      "tags": {
+        "brand": "Hidden Hearing",
+        "brand:wikidata": "Q107301478",
+        "name": "Hidden Hearing",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Hörgeräte Seifert",
+      "id": "horgerateseifert-fc24ac",
+      "locationSet": {"include": ["at", "de"]},
+      "tags": {
+        "brand": "Hörgeräte Seifert",
+        "brand:wikidata": "Q128654888",
+        "name": "Hörgeräte Seifert",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Ideal Audition",
+      "id": "idealaudition-400e82",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Ideal Audition",
+        "brand:wikidata": "Q105178379",
+        "name": "Ideal Audition",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "KIND Hörgeräte",
+      "id": "kindhorgerate-a8e841",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["kind"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "KIND Hörgeräte",
+        "brand:wikidata": "Q43598590",
+        "name": "KIND Hörgeräte",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Lapperre",
+      "id": "lapperre-f63ec3",
+      "locationSet": {"include": ["be", "lu"]},
+      "tags": {
+        "brand": "Lapperre",
+        "brand:wikidata": "Q126195805",
+        "name": "Lapperre",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Miracle-Ear",
+      "id": "miracleear-23e391",
+      "locationSet": {"include": ["ca", "us"]},
+      "matchTags": ["shop/medical_supply"],
+      "tags": {
+        "brand": "Miracle-Ear",
+        "brand:wikidata": "Q17108572",
+        "name": "Miracle-Ear",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Neuroth",
+      "id": "neuroth-88d033",
+      "locationSet": {
+        "include": [
+          "at",
+          "ba",
+          "ch",
+          "de",
+          "hr",
+          "li",
+          "rs",
+          "si"
+        ]
+      },
+      "tags": {
+        "brand": "Neuroth",
+        "brand:wikidata": "Q15836645",
+        "name": "Neuroth",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "ototon",
+      "id": "ototon-652739",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": ["ототон"],
+      "tags": {
+        "brand": "ototon",
+        "brand:wikidata": "Q136810838",
+        "name": "ototon",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Schoonenberg",
+      "id": "schoonenberg-cec8b0",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "Schoonenberg",
+        "brand:wikidata": "Q109186345",
+        "name": "Schoonenberg",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Sonance Audition",
+      "id": "sonanceaudition-400e82",
+      "locationSet": {"include": ["fx"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Sonance Audition",
+        "brand:wikidata": "Q114932560",
+        "name": "Sonance Audition",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Telex",
+      "id": "telex-ffc245",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "brand": "Telex",
+        "brand:wikidata": "Q116152360",
+        "name": "Telex",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Van Boxtel hoorwinkel",
+      "id": "vanboxtelhoorwinkel-cec8b0",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "Van Boxtel hoorwinkel",
+        "brand:wikidata": "Q122904489",
+        "name": "Van Boxtel hoorwinkel",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Vitakustik",
+      "id": "vitakustik-a8e841",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Vitakustik",
+        "brand:wikidata": "Q87123390",
+        "name": "Vitakustik",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Академия слуха",
+      "id": "2ea32b-4a70dd",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Академия слуха",
+        "name": "Академия слуха",
+        "shop": "hearing_aids"
+      }
+    },
+    {
+      "displayName": "Радуга Звуков",
+      "id": "dd3117-4a70dd",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Радуга Звуков",
+        "name": "Радуга Звуков",
+        "shop": "hearing_aids"
+      }
+    }
+  ]
+}

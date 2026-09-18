@@ -1,0 +1,360 @@
+{
+  "properties": {
+    "path": "brands/shop/garden_centre",
+    "exclude": {
+      "generic": [
+        "^(nursery|vivero)$",
+        "^garden centre$",
+        "^семена$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Aveve",
+      "id": "aveve-4760e0",
+      "locationSet": {"include": ["be", "nl"]},
+      "tags": {
+        "brand": "Aveve",
+        "brand:wikidata": "Q790683",
+        "name": "Aveve",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Bellaflora",
+      "id": "bellaflora-fd70bd",
+      "locationSet": {"include": ["at"]},
+      "tags": {
+        "brand": "Bellaflora",
+        "brand:wikidata": "Q815787",
+        "name": "Bellaflora",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Blomsterlandet",
+      "id": "blomsterlandet-8e04ed",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "brand": "Blomsterlandet",
+        "brand:wikidata": "Q10431512",
+        "name": "Blomsterlandet",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Blue Diamond Garden Centres",
+      "id": "bluediamondgardencentres-02ecdf",
+      "locationSet": {
+        "include": ["gb", "gg", "je"]
+      },
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Blue Diamond Garden Centres",
+        "brand:wikidata": "Q81097207",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Botanic",
+      "id": "botanic-afed88",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Botanic",
+        "brand:wikidata": "Q2911642",
+        "name": "Botanic",
+        "organic": "yes",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Côté Nature",
+      "id": "cotenature-afed88",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Côté Nature",
+        "brand:wikidata": "Q124649591",
+        "name": "Côté Nature",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Dehner",
+      "id": "dehner-ca7541",
+      "locationSet": {"include": ["at", "de"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Dehner",
+        "brand:wikidata": "Q1183029",
+        "name": "Dehner",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Dobbies",
+      "id": "dobbies-d259e3",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["dobbies garden centres"],
+      "tags": {
+        "brand": "Dobbies",
+        "brand:wikidata": "Q5286529",
+        "name": "Dobbies",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "E.Leclerc Jardi",
+      "id": "eleclercjardi-20cffa",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "E.Leclerc Jardi",
+        "brand:wikidata": "Q1273376",
+        "name": "E.Leclerc Jardi",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Gamm Vert",
+      "id": "gammvert-20cffa",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Gamm Vert",
+        "brand:wikidata": "Q3095006",
+        "name": "Gamm Vert",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "GroenRijk",
+      "id": "groenrijk-dc6242",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "GroenRijk",
+        "brand:wikidata": "Q2738788",
+        "name": "GroenRijk",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Hageland",
+      "id": "hageland-664184",
+      "issues": [5500],
+      "locationSet": {"include": ["no"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Hageland",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Intratuin",
+      "id": "intratuin-c9b478",
+      "locationSet": {
+        "include": ["be", "de", "nl"]
+      },
+      "tags": {
+        "brand": "Intratuin",
+        "brand:wikidata": "Q2927176",
+        "name": "Intratuin",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Jardiland",
+      "id": "jardiland-20cffa",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Jardiland",
+        "brand:wikidata": "Q3162276",
+        "name": "Jardiland",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Magasin Vert",
+      "id": "magasinvert-afed88",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Magasin Vert",
+        "brand:wikidata": "Q16661975",
+        "name": "Magasin Vert",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "OÁZIS",
+      "id": "oazis-f2643b",
+      "locationSet": {"include": ["hu", "sk"]},
+      "tags": {
+        "brand": "OÁZIS",
+        "brand:wikidata": "Q20439720",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Otter Garden Centres",
+      "id": "ottergardencentres-d259e3",
+      "locationSet": {"include": ["gb"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Otter Garden Centres",
+        "brand:wikidata": "Q81095450",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Palmers",
+      "id": "palmers-aac937",
+      "locationSet": {"include": ["nz"]},
+      "tags": {
+        "brand": "Palmers Gardenworld",
+        "brand:wikidata": "Q7128292",
+        "name": "Palmers",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Plantagen",
+      "id": "plantagen-8e04ed",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "brand": "Plantagen",
+        "brand:wikidata": "Q10632989",
+        "name": "Plantagen",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Plantasjen",
+      "id": "plantasjen-664184",
+      "issues": [5500],
+      "locationSet": {"include": ["no"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Plantasjen",
+        "brand:wikidata": "Q10632989",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Plantorama",
+      "id": "plantorama-a67868",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "brand": "Plantorama",
+        "brand:wikidata": "Q12331952",
+        "name": "Plantorama",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Point Vert",
+      "id": "pointvert-20cffa",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Point Vert",
+        "brand:wikidata": "Q16661975",
+        "name": "Point Vert",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Truffaut",
+      "id": "truffaut-afed88",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Truffaut",
+        "brand:wikidata": "Q3162640",
+        "name": "Truffaut",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Tuttogiardino",
+      "id": "tuttogiardino-b06e72",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "Tuttogiardino",
+        "brand:wikidata": "Q129579759",
+        "name": "Tuttogiardino",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Villaverde",
+      "id": "villaverde-afed88",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Villaverde",
+        "brand:wikidata": "Q89346546",
+        "name": "Villaverde",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Walmart Garden Center",
+      "id": "walmartgardencenter-bffebc",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart Garden Center",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Walmart Garden Centre",
+      "id": "walmartgardencentre-89cf3b",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart Garden Centre",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Welkoop",
+      "id": "welkoop-dc6242",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "Welkoop",
+        "brand:wikidata": "Q72799253",
+        "name": "Welkoop",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "ZG Raiffeisen Markt",
+      "id": "zgraiffeisenmarkt-89aa0a",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "ZG Raiffeisen",
+        "brand:wikidata": "Q136135",
+        "name": "ZG Raiffeisen Markt",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Дачник",
+      "id": "3e1079-164465",
+      "locationSet": {"include": ["by", "ru"]},
+      "tags": {
+        "brand": "Дачник",
+        "name": "Дачник",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Садовод",
+      "id": "c911e6-164465",
+      "locationSet": {"include": ["by", "ru"]},
+      "tags": {
+        "brand": "Садовод",
+        "name": "Садовод",
+        "shop": "garden_centre"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "properties": {
+    "path": "brands/amenity/driving_school",
+    "exclude": {
+      "generic": [
+        "^driving school$",
+        "^автодром$",
+        "^автошкола$"
+      ],
+      "named": ["^автошкола досааф$", "^досааф$"]
+    }
+  },
+  "items": [
+    {
+      "displayName": "École de Conduite Française",
+      "id": "ecf-7fb17b",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "driving_school",
+        "brand": "ECF",
+        "brand:wikidata": "Q114870266",
+        "name": "ECF"
+      }
+    },
+    {
+      "displayName": "Galadari",
+      "id": "galadari-aa822b",
+      "locationSet": {"include": ["ae"]},
+      "tags": {
+        "amenity": "driving_school",
+        "brand": "Galadari",
+        "name": "Galadari"
+      }
+    },
+    {
+      "displayName": "Pointcode",
+      "id": "pointcode-50cd0e",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "driving_school",
+        "brand": "Pointcode",
+        "brand:wikidata": "Q126912107",
+        "name": "Pointcode"
+      }
+    },
+    {
+      "displayName": "Young Drivers of Canada",
+      "id": "youngdriversofcanada-b5a395",
+      "locationSet": {"include": ["ca"]},
+      "matchNames": ["young drivers"],
+      "tags": {
+        "amenity": "driving_school",
+        "brand": "Young Drivers of Canada",
+        "brand:wikidata": "Q28163093",
+        "name": "Young Drivers of Canada"
+      }
+    }
+  ]
+}

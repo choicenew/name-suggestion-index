@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+secrets.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+coverage/
+.vscode/
+!.vscode/extensions.json
+.idea/
+
+# Agent memory
+SCRATCHPAD.md
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime temp files
+*.tmp
+*.temp

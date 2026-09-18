@@ -1,0 +1,32 @@
+{
+  "properties": {
+    "path": "brands/shop/caravan",
+    "exclude": {"generic": ["^caravan$"]}
+  },
+  "items": [
+    {
+      "displayName": "Camping World",
+      "id": "campingworld-391dd0",
+      "locationSet": {"include": ["us"]},
+      "matchTags": ["shop/sports"],
+      "tags": {
+        "brand": "Camping World",
+        "brand:wikidata": "Q5028383",
+        "name": "Camping World",
+        "shop": "caravan"
+      }
+    },
+    {
+      "displayName": "Fun Town RV",
+      "id": "funtownrv-391dd0",
+      "locationSet": {"include": ["us"]},
+      "matchTags": ["shop/sports"],
+      "tags": {
+        "brand": "Fun Town RV",
+        "brand:wikidata": "Q134021163",
+        "name": "Fun Town RV",
+        "shop": "caravan"
+      }
+    }
+  ]
+}

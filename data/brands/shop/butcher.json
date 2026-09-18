@@ -1,0 +1,643 @@
+{
+  "properties": {
+    "path": "brands/shop/butcher",
+    "exclude": {
+      "generic": [
+        "^(butcher|húsbolt|rzeźnik|slaktare)$",
+        "^(carnic|macell)er[ií]a$",
+        "^(свежее )?мяс(ной|о)$",
+        "^boucherie( charcuterie)?$",
+        "^мясная лавка$",
+        "^قصابی$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Bluff Meat Supply",
+      "id": "bluffmeatsupply-dc7578",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "brand": "Bluff Meat Supply",
+        "brand:wikidata": "Q116981518",
+        "name": "Bluff Meat Supply",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Coqivoire",
+      "id": "coqivoire-40403c",
+      "locationSet": {"include": ["ci"]},
+      "tags": {
+        "brand": "Coqivoire",
+        "brand:wikidata": "Q60183284",
+        "butcher": "poultry",
+        "name": "Coqivoire",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Dubimex",
+      "id": "dubimex-436f1d",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Dubimex",
+        "brand:wikidata": "Q138197720",
+        "name": "Dubimex",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Fleischerei Richter",
+      "id": "fleischereirichter-4d0b4d",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Fleischerei Richter",
+        "brand:wikidata": "Q106823616",
+        "name": "Fleischerei Richter",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Foani",
+      "id": "foani-40403c",
+      "locationSet": {"include": ["ci"]},
+      "tags": {
+        "brand": "Foani",
+        "brand:wikidata": "Q60183335",
+        "butcher": "poultry",
+        "name": "Foani",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Forevers",
+      "id": "forevers-00a516",
+      "locationSet": {"include": ["lv"]},
+      "tags": {
+        "brand": "Forevers",
+        "brand:wikidata": "Q65297361",
+        "name": "Forevers",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "føtex Slagter",
+      "id": "fotexslagter-4aef2d",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "brand": "føtex Slagter",
+        "brand:wikidata": "Q1480395",
+        "name": "føtex Slagter",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Fresh Options",
+      "id": "freshoptions-1cf7e4",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": ["fresh options meatshop"],
+      "tags": {
+        "brand": "Fresh Options",
+        "brand:wikidata": "Q120682282",
+        "name": "Fresh Options",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Gaik",
+      "id": "gaik-436f1d",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Gaik",
+        "brand:wikidata": "Q132527653",
+        "name": "Gaik",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Gzella",
+      "id": "gzella-436f1d",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Gzella",
+        "brand:wikidata": "Q110955605",
+        "name": "Gzella",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Keurslager",
+      "id": "keurslager-1c7101",
+      "locationSet": {"include": ["nl"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Keurslager",
+        "brand:wikidata": "Q114637402",
+        "name": "Keurslager",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Les Éleveurs de la Charentonne",
+      "id": "leseleveursdelacharentonne-bd963c",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Les Éleveurs de la Charentonne",
+        "brand:wikidata": "Q130216320",
+        "name": "Les Éleveurs de la Charentonne",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Mad Butcher",
+      "id": "madbutcher-79ce66",
+      "locationSet": {"include": ["nz"]},
+      "tags": {
+        "brand": "Mad Butcher",
+        "brand:wikidata": "Q111015152",
+        "name": "Mad Butcher",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Mago",
+      "id": "mago-fbfd6e",
+      "locationSet": {
+        "include": [
+          "de-bb.geojson",
+          "de-be.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Mago",
+        "brand:wikidata": "Q131904610",
+        "name": "Mago",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Makovec",
+      "id": "makovec-699c48",
+      "locationSet": {"include": ["cz", "sk"]},
+      "tags": {
+        "brand": "Makovec",
+        "brand:wikidata": "Q58623471",
+        "name": "Makovec",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Marko",
+      "id": "marko-436f1d",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Marko",
+        "brand:wikidata": "Q133892686",
+        "name": "Marko",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Mäsiarstvo u Býka",
+      "id": "masiarstvoubyka-d81898",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "brand": "Mäsiarstvo u Býka",
+        "brand:wikidata": "Q133262589",
+        "name": "Mäsiarstvo u Býka",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Matijević",
+      "id": "matijevic-c999d0",
+      "locationSet": {"include": ["rs"]},
+      "matchNames": [
+        "mesara matijević",
+        "месара матијевић"
+      ],
+      "tags": {
+        "brand": "Матијевић",
+        "brand:en": "Matijevic",
+        "brand:sr": "Матијевић",
+        "brand:sr-Latn": "Matijević",
+        "brand:wikidata": "Q12752300",
+        "name": "Матијевић",
+        "name:en": "Matijevic",
+        "name:sr": "Матијевић",
+        "name:sr-Latn": "Matijević",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Omaha Steaks",
+      "id": "omahasteaks-523a1c",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Omaha Steaks",
+        "brand:wikidata": "Q7089458",
+        "name": "Omaha Steaks",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Renmans",
+      "id": "renmans-533183",
+      "locationSet": {"include": ["be"]},
+      "tags": {
+        "brand": "Renmans",
+        "brand:wikidata": "Q63184410",
+        "name": "Renmans",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Res",
+      "id": "res-e3b2fd",
+      "locationSet": {"include": ["ar", "cl"]},
+      "tags": {
+        "brand": "Res",
+        "name": "Res",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Richter Erzgebirge",
+      "id": "richtererzgebirge-4d0b4d",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Richter Erzgebirge",
+        "brand:wikidata": "Q111699465",
+        "name": "Richter Erzgebirge",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Sklep mięsny Lenarcik",
+      "id": "sklepmiesnylenarcik-436f1d",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Sklep mięsny Lenarcik",
+        "brand:wikidata": "Q125566217",
+        "operator": "Zakład Mięsny Lenarcik",
+        "operator:short": "Lenarcik",
+        "operator:wikidata": "Q125542457",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Sokołów",
+      "id": "sokolow-436f1d",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Sokołów",
+        "brand:wikidata": "Q16605125",
+        "name": "Sokołów",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "SuperBrugsen Slagter",
+      "id": "superbrugsenslagter-4aef2d",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "brand": "SuperBrugsen Slagter",
+        "brand:wikidata": "Q12337746",
+        "name": "SuperBrugsen Slagter",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Świeżyzna",
+      "id": "swiezyzna-436f1d",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Świeżyzna",
+        "brand:wikidata": "Q127503430",
+        "name": "Świeżyzna",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Swift",
+      "id": "swift-1387a4",
+      "locationSet": {
+        "include": ["br-sp.geojson"]
+      },
+      "tags": {
+        "brand": "Swift",
+        "name": "Swift",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Vinzenzmurr",
+      "id": "vinzenzmurr-4d0b4d",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Vinzenzmurr",
+        "brand:wikidata": "Q2527361",
+        "name": "Vinzenzmurr",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Wierzejki",
+      "id": "wierzejki-436f1d",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Wierzejki",
+        "brand:wikidata": "Q113227420",
+        "name": "Wierzejki",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Yuhor",
+      "id": "yuhor-c999d0",
+      "locationSet": {"include": ["rs"]},
+      "tags": {
+        "brand": "Yuhor",
+        "brand:wikidata": "Q12747875",
+        "name": "Yuhor",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Zeman maso-uzeniny",
+      "id": "zemanmasouzeniny-019d77",
+      "locationSet": {"include": ["cz"]},
+      "tags": {
+        "brand": "Zeman maso-uzeniny",
+        "brand:wikidata": "Q105961806",
+        "name": "Zeman maso-uzeniny",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Ариант",
+      "id": "f172c7-6e607d",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Ариант",
+        "brand:wikidata": "Q110955672",
+        "name": "Ариант",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Великолукский мясокомбинат",
+      "id": "fc51bd-6e607d",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Великолукский мясокомбинат",
+        "brand:wikidata": "Q18401767",
+        "name": "Великолукский мясокомбинат",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Галицька Свіжина",
+      "id": "ef4709-d60de5",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["halytska svizhyna"],
+      "tags": {
+        "brand": "Галицька Свіжина",
+        "brand:wikidata": "Q131607436",
+        "name": "Галицька Свіжина",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Дзержинка",
+      "id": "125474-42f5d4",
+      "locationSet": {"include": ["by"]},
+      "tags": {
+        "brand": "Дзержинка",
+        "name": "Дзержинка",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Звениговский",
+      "id": "eff0d0-6e607d",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Звениговский",
+        "brand:wikidata": "Q110956402",
+        "name": "Звениговский",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Ковбасна Мережа",
+      "id": "959c75-d60de5",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": [
+        "kovbas market",
+        "kovbasna merezha",
+        "ковбас маркет"
+      ],
+      "tags": {
+        "brand": "Ковбасна Мережа",
+        "brand:wikidata": "Q129887661",
+        "name": "Ковбасна Мережа",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Мʼясомаркет",
+      "id": "580ce4-d60de5",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["м'ясомаркет"],
+      "tags": {
+        "brand": "Мʼясомаркет",
+        "brand:wikidata": "Q120646698",
+        "name": "Мʼясомаркет",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Мясницкий ряд",
+      "id": "bd0342-6e607d",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Мясницкий ряд",
+        "name": "Мясницкий ряд",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Мясной Гурман",
+      "id": "940f20-6e607d",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Мясной Гурман",
+        "name": "Мясной Гурман",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Мясной двор",
+      "id": "238cde-2de669",
+      "locationSet": {
+        "include": ["kg", "kz", "ru"]
+      },
+      "tags": {
+        "brand": "Мясной двор",
+        "name": "Мясной двор",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Мясной дворик",
+      "id": "d925df-9620b1",
+      "locationSet": {"include": ["by", "ru"]},
+      "tags": {
+        "brand": "Мясной дворик",
+        "name": "Мясной дворик",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Наша Ряба",
+      "id": "fbd1e6-d60de5",
+      "locationSet": {"include": ["ua"]},
+      "matchTags": ["shop/convenience"],
+      "tags": {
+        "brand": "Наша Ряба",
+        "brand:wikidata": "Q118133255",
+        "name": "Наша Ряба",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Окраина",
+      "id": "dae2d2-6e607d",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Окраина",
+        "name": "Окраина",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Родинна ковбаска",
+      "id": "rodynnakovbaska-d60de5",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["батьківщина ковбаска"],
+      "tags": {
+        "brand": "Родинна ковбаска",
+        "brand:en": "Rodynna kovbaska",
+        "brand:uk": "Родинна ковбаска",
+        "brand:wikidata": "Q30969660",
+        "name": "Родинна ковбаска",
+        "name:en": "Rodynna kovbaska",
+        "name:uk": "Родинна ковбаска",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Салтівський мʼясокомбінат",
+      "id": "21e59d-d60de5",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": [
+        "магазин салтівський м'ясокомбінат",
+        "магазин салтівський мʼясокомбінат",
+        "салтівський м'ясокомбінат"
+      ],
+      "tags": {
+        "brand": "Салтівський мʼясокомбінат",
+        "brand:wikidata": "Q120477067",
+        "name": "Салтівський мʼясокомбінат",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Фермер",
+      "id": "8449ac-6e607d",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Фермер",
+        "name": "Фермер",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Ярославский бройлер",
+      "id": "e95a6d-6e607d",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Ярославский бройлер",
+        "name": "Ярославский бройлер",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "ბიუ ბიუ",
+      "id": "biubiu-f98164",
+      "locationSet": {"include": ["ge"]},
+      "tags": {
+        "brand": "ბიუ ბიუ",
+        "brand:en": "Biu Biu",
+        "brand:ka": "ბიუ ბიუ",
+        "brand:wikidata": "Q128032103",
+        "butcher": "poultry",
+        "name": "ბიუ ბიუ",
+        "name:en": "Biu Biu",
+        "name:ka": "ბიუ ბიუ",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "ნოსტე",
+      "id": "noste-f98164",
+      "locationSet": {"include": ["ge"]},
+      "tags": {
+        "brand": "ნოსტე",
+        "brand:en": "Noste",
+        "brand:ka": "ნოსტე",
+        "brand:ru": "Носте",
+        "brand:wikidata": "Q131469987",
+        "butcher": "poultry",
+        "name": "ნოსტე",
+        "name:en": "Noste",
+        "name:ka": "ნოსტე",
+        "name:ru": "Носте",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "ニュー・クイック",
+      "id": "newquick-2bf181",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ニュー・クイック",
+        "brand:en": "New-Quick",
+        "brand:ja": "ニュー・クイック",
+        "brand:wikidata": "Q11325009",
+        "name": "ニュー・クイック",
+        "name:en": "New-Quick",
+        "name:ja": "ニュー・クイック",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "肉のハナマサ",
+      "id": "hanamasameat-2bf181",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ハナマサ",
+        "brand:en": "Hanamasa",
+        "brand:ja": "ハナマサ",
+        "brand:wikidata": "Q11326564",
+        "butcher": "beef",
+        "name": "肉のハナマサ",
+        "name:en": "Hanamasa Meat",
+        "name:ja": "肉のハナマサ",
+        "shop": "butcher"
+      }
+    }
+  ]
+}

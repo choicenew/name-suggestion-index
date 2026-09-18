@@ -1,0 +1,114 @@
+{
+  "properties": {
+    "path": "brands/tourism/theme_park",
+    "preserveTags": ["^name"],
+    "exclude": {"generic": ["^theme park$"]}
+  },
+  "items": [
+    {
+      "displayName": "LEGO Discovery Center",
+      "id": "legodiscoverycenter-f633f4",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "LEGO Discovery Center",
+        "brand:wikidata": "Q303439",
+        "name": "LEGO Discovery Center",
+        "operator": "Merlin Entertainments",
+        "operator:wikidata": "Q573278",
+        "tourism": "theme_park"
+      }
+    },
+    {
+      "displayName": "LEGOLAND",
+      "id": "legoland-744610",
+      "locationSet": {
+        "include": [
+          "ae",
+          "de",
+          "dk",
+          "gb",
+          "jp",
+          "kr",
+          "my",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "LEGOLAND",
+        "brand:wikidata": "Q253302",
+        "name": "LEGOLAND",
+        "operator": "Merlin Entertainments",
+        "operator:wikidata": "Q573278",
+        "tourism": "theme_park"
+      }
+    },
+    {
+      "displayName": "LEGOLAND Discovery Center",
+      "id": "legolanddiscoverycenter-b3703a",
+      "locationSet": {
+        "include": ["cn", "jp", "us"],
+        "exclude": ["hk"]
+      },
+      "tags": {
+        "brand": "LEGOLAND Discovery Center",
+        "brand:wikidata": "Q303439",
+        "name": "LEGOLAND Discovery Center",
+        "operator": "Merlin Entertainments",
+        "operator:wikidata": "Q573278",
+        "tourism": "theme_park"
+      }
+    },
+    {
+      "displayName": "LEGOLAND Discovery Centre",
+      "id": "legolanddiscoverycentre-1f94c2",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "de",
+          "gb",
+          "nl",
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "LEGOLAND Discovery Centre",
+        "brand:wikidata": "Q303439",
+        "name": "LEGOLAND Discovery Centre",
+        "operator": "Merlin Entertainments",
+        "operator:wikidata": "Q573278",
+        "tourism": "theme_park"
+      }
+    },
+    {
+      "displayName": "Six Flags",
+      "id": "sixflags-994d7c",
+      "locationSet": {
+        "include": ["ca", "mx", "us"]
+      },
+      "tags": {
+        "brand": "Six Flags",
+        "brand:wikidata": "Q127324768",
+        "name": "Six Flags",
+        "tourism": "theme_park"
+      }
+    },
+    {
+      "displayName": "樂高探索中心 LEGOLAND Discovery Centre",
+      "id": "legolanddiscoverycentre-cdd36d",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "brand": "樂高探索中心 LEGOLAND Discovery Centre",
+        "brand:en": "LEGOLAND Discovery Centre",
+        "brand:wikidata": "Q303439",
+        "brand:zh": "樂高探索中心",
+        "name": "LEGOLAND Discovery Centre",
+        "name:en": "LEGOLAND Discovery Centre",
+        "name:zh": "樂高探索中心",
+        "operator": "Merlin Entertainments",
+        "operator:wikidata": "Q573278",
+        "tourism": "theme_park"
+      }
+    }
+  ]
+}

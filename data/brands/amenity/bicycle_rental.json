@@ -1,0 +1,5299 @@
+{
+  "properties": {
+    "path": "brands/amenity/bicycle_rental",
+    "preserveTags": ["^name"],
+    "exclude": {
+      "generic": [
+        "^bicycle rental$",
+        "^bike sharing$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "[TO]BIKE",
+      "id": "tobike-a9bfcc",
+      "locationSet": {
+        "include": [[7.62, 45.06, 15]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "[TO]BIKE",
+        "brand:wikidata": "Q245660",
+        "name": "[TO]BIKE",
+        "operator": "[TO]BIKE",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Aarhus Kommune",
+      "id": "aarhuskommune-578125",
+      "locationSet": {
+        "include": ["dk-82.geojson"]
+      },
+      "matchNames": ["århus kommune"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Aarhus Kommune",
+        "brand:wikidata": "Q240262",
+        "name": "Aarhus Kommune",
+        "operator": "Aarhus Kommune",
+        "operator:type": "government",
+        "operator:wikidata": "Q240262"
+      }
+    },
+    {
+      "displayName": "AlbaBici",
+      "id": "albabici-23cd33",
+      "locationSet": {
+        "include": ["es-ab.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "AlbaBici",
+        "brand:wikidata": "Q17620480",
+        "network": "AlbaBici",
+        "network:wikidata": "Q17620480",
+        "operator": "UTE Bicicletas Albacete",
+        "operator:type": "private",
+        "operator:wikidata": "Q139323763"
+      }
+    },
+    {
+      "displayName": "AMBici",
+      "id": "ambici-ec9ce2",
+      "locationSet": {
+        "include": [[2.16, 41.41, 30]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "AMBici",
+        "brand:wikidata": "Q117066760",
+        "network": "AMBici",
+        "network:wikidata": "Q117066760",
+        "operator": "Transports Metropolitans de Barcelona",
+        "operator:short": "TMB",
+        "operator:type": "government",
+        "operator:wikidata": "Q1778212"
+      }
+    },
+    {
+      "displayName": "ANTIK SmartWay",
+      "id": "antiksmartway-3e2129",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "ANTIK SmartWay",
+        "brand:wikidata": "Q108106650",
+        "network": "ANTIK SmartWay",
+        "network:wikidata": "Q108106650",
+        "operator": "Antik Telecom",
+        "operator:type": "private",
+        "operator:wikidata": "Q30297477"
+      }
+    },
+    {
+      "displayName": "Arboria Bike",
+      "id": "arboriabike-3e2129",
+      "locationSet": {"include": ["sk"]},
+      "note": "ISO 3166-2 SK-TA",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Arboria Bike",
+        "brand:wikidata": "Q131406965",
+        "network": "Arboria Bike",
+        "operator": "Mesto Trnava",
+        "operator:type": "government",
+        "operator:wikidata": "Q26175"
+      }
+    },
+    {
+      "displayName": "Area Blu",
+      "id": "areablu-3d5df6",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Area Blu",
+        "name": "Area Blu",
+        "operator": "Area Blu",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "àVélo",
+      "id": "avelo-05ea99",
+      "locationSet": {
+        "include": [[-71.24, 46.8]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "àVélo",
+        "brand:wikidata": "Q131564019",
+        "network": "àVélo",
+        "network:wikidata": "Q131564019",
+        "operator": "Réseau de transport de la Capitale",
+        "operator:type": "government",
+        "operator:wikidata": "Q3456768"
+      }
+    },
+    {
+      "displayName": "BA Ecobici",
+      "id": "baecobici-01b149",
+      "locationSet": {
+        "include": ["ar-c.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "BA Ecobici",
+        "brand:wikidata": "Q18419538",
+        "network": "BA Ecobici",
+        "network:wikidata": "Q18419538",
+        "operator": "Tembici",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bajs Zagreb",
+      "id": "bajs-134482",
+      "locationSet": {"include": ["hr"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Bajs",
+        "brand:wikidata": "Q137167497",
+        "fee": "yes",
+        "network": "Bajs Zagreb",
+        "network:wikidata": "Q137167497",
+        "operator": "Sustav javnih bicikala",
+        "operator:type": "private",
+        "payment:app": "yes"
+      }
+    },
+    {
+      "displayName": "BalticBike",
+      "id": "balticbike-2d72c6",
+      "locationSet": {"include": ["lv"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "BalticBike",
+        "name": "BalticBike",
+        "operator": "BalticBike",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "BatumVelo docking station",
+      "id": "batumvelo-c6bd00",
+      "locationSet": {"include": ["ge"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "bicycle_rental": "docking_station",
+        "brand": "ბათუმველო",
+        "brand:en": "BatumVelo",
+        "brand:ka": "ბათუმველო",
+        "brand:wikidata": "Q131470229",
+        "fee": "yes",
+        "network": "BatumVelo",
+        "operator": "შპს „ბათუმის ავტოტრანსპორტი“",
+        "operator:ka": "შპს „ბათუმის ავტოტრანსპორტი“",
+        "operator:type": "government",
+        "payment:cash": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes"
+      }
+    },
+    {
+      "displayName": "Bay Wheels",
+      "id": "baywheels-2a665b",
+      "locationSet": {
+        "include": [
+          "us-ca-east_bay.geojson",
+          "us-ca-san_francisco.geojson",
+          "us-ca-san_jose.geojson"
+        ]
+      },
+      "matchNames": [
+        "bay area bike share",
+        "ford gobike",
+        "lyft bike"
+      ],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Bay Wheels",
+        "brand:wikidata": "Q16971391",
+        "fee": "yes",
+        "name": "Bay Wheels",
+        "network": "Bay Wheels",
+        "network:wikidata": "Q16971391",
+        "operator": "Lyft",
+        "operator:type": "private",
+        "operator:wikidata": "Q17077936"
+      }
+    },
+    {
+      "displayName": "baybike",
+      "id": "baybike-813eb7",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "baybike",
+        "brand:en": "baybike",
+        "brand:ja": "ベイバイク",
+        "brand:wikidata": "Q91499435",
+        "fee": "yes",
+        "name": "baybike",
+        "name:en": "baybike",
+        "name:ja": "ベイバイク",
+        "official_name": "横浜コミュニティサイクル",
+        "official_name:en": "Yokohama Bike Share",
+        "official_name:ja": "横浜コミュニティサイクル",
+        "operator": "baybike",
+        "operator:en": "baybike",
+        "operator:ja": "ベイバイク",
+        "operator:type": "private",
+        "operator:wikidata": "Q91499435"
+      }
+    },
+    {
+      "displayName": "BCycle",
+      "id": "bcycle-97ea79",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "BCycle",
+        "brand:wikidata": "Q4833723",
+        "name": "BCycle",
+        "operator": "BCycle",
+        "operator:type": "private",
+        "operator:wikidata": "Q4833723"
+      }
+    },
+    {
+      "displayName": "Belfast Bikes",
+      "id": "belfastbikes-a358c0",
+      "locationSet": {"include": ["gb-nir"]},
+      "tags": {
+        "alt_name": "Just Eat Belfast Bikes",
+        "amenity": "bicycle_rental",
+        "brand": "Belfast Bikes",
+        "brand:wikidata": "Q19843240",
+        "name": "Belfast Bikes",
+        "operator": "Belfast City Council",
+        "operator:type": "government",
+        "operator:wikidata": "Q55934837"
+      }
+    },
+    {
+      "displayName": "Bergen Bysykkel",
+      "id": "bergenbysykkel-e79826",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bergen Bysykkel",
+        "brand:wikidata": "Q109288835",
+        "network": "Bergen Bysykkel",
+        "network:wikidata": "Q109288835",
+        "operator": "Urban Infrastructure Partner AS",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Beryl",
+      "id": "beryl-b88dc4",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Beryl",
+        "brand:wikidata": "Q106575365",
+        "network": "Beryl",
+        "network:wikidata": "Q106575365"
+      }
+    },
+    {
+      "displayName": "BiCas",
+      "id": "bicas-e6d7a6",
+      "locationSet": {
+        "include": ["pt-11.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "BiCas",
+        "network": "BiCas",
+        "operator": "MobiCascais",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bici Cuenca",
+      "id": "bicicuenca-3e9425",
+      "locationSet": {"include": ["ec"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bici Cuenca",
+        "network": "Bici Cuenca",
+        "operator": "Bici Cuenca",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bici Las Condes",
+      "id": "bicilascondes-70bf31",
+      "locationSet": {"include": ["cl"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bici Las Condes",
+        "network": "Bici Las Condes",
+        "operator": "Clear Channel",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bicicas",
+      "id": "bicicas-d3e56c",
+      "locationSet": {
+        "include": ["es-cs.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bicicas",
+        "brand:wikidata": "Q5728159",
+        "network": "Bicicas",
+        "network:wikidata": "Q5728159",
+        "operator": "Ajuntament Castelló, Mobilitat",
+        "operator:type": "public"
+      }
+    },
+    {
+      "displayName": "Bicicletar",
+      "id": "bicicletar-2d5a85",
+      "locationSet": {
+        "include": ["br-ce.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bicicletar",
+        "brand:wikidata": "Q20052795",
+        "network": "Bicicletar",
+        "operator": "Prefeitura Municipal de Fortaleza",
+        "operator:type": "government",
+        "operator:wikidata": "Q53930902"
+      }
+    },
+    {
+      "displayName": "Bicicoruña",
+      "id": "bicicoruna-7829bb",
+      "locationSet": {
+        "include": ["es-c.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bicicoruña",
+        "network": "Bicicoruña",
+        "operator": "EMVSA",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "BicikeLJ",
+      "id": "bicikelj-3dc1ae",
+      "locationSet": {"include": ["si"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "BicikeLJ",
+        "brand:wikidata": "Q4903630",
+        "network": "BicikeLJ",
+        "network:wikidata": "Q4903630",
+        "operator": "MOL",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "BiciLOG",
+      "id": "bicilog-00387c",
+      "locationSet": {
+        "include": ["es-lo.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "BiciLOG",
+        "brand:wikidata": "Q139323877",
+        "network": "BiciLOG",
+        "network:wikidata": "Q139323877",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "BiciMAD",
+      "id": "bicimad-74746a",
+      "locationSet": {
+        "include": ["es-m.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "BiciMAD",
+        "brand:wikidata": "Q17402113",
+        "network": "BiciMAD",
+        "network:wikidata": "Q17402113",
+        "operator": "Empresa Municipal de Transportes de Madrid",
+        "operator:short": "EMT Madrid",
+        "operator:type": "government",
+        "operator:wikidata": "Q1094755"
+      }
+    },
+    {
+      "displayName": "BiciMia",
+      "id": "bicimia-108fdc",
+      "locationSet": {
+        "include": [[10.22, 45.54, 15]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "BiciMia",
+        "brand:wikidata": "Q108120924",
+        "network": "BiciMia",
+        "network:wikidata": "Q108120924",
+        "operator": "Brescia Mobilità",
+        "operator:type": "private",
+        "operator:wikidata": "Q109628891"
+      }
+    },
+    {
+      "displayName": "bicing",
+      "id": "bicing-1df649",
+      "locationSet": {
+        "include": [[2.16, 41.41, 10]]
+      },
+      "note": "Barcelona (ES-B)",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "bicing",
+        "brand:wikidata": "Q1833385",
+        "network": "bicing",
+        "network:wikidata": "Q1833385",
+        "operator": "Pedalem Barcelona",
+        "operator:type": "private",
+        "operator:wikidata": "Q123614695"
+      }
+    },
+    {
+      "displayName": "BiciQuito",
+      "id": "biciquito-3e9425",
+      "locationSet": {"include": ["ec"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "BiciQuito",
+        "brand:wikidata": "Q16489709",
+        "network": "BiciQuito",
+        "network:wikidata": "Q16489709"
+      }
+    },
+    {
+      "displayName": "Bicirio",
+      "id": "bicirio-2d08e5",
+      "locationSet": {"include": ["co"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bicirio",
+        "network": "Bicirio",
+        "operator": "SOMOS movilidad",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bicy",
+      "id": "bicy-3dc1ae",
+      "locationSet": {"include": ["si"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bicy",
+        "network": "Bicy",
+        "operator": "MO Velenje",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bike Belém",
+      "id": "bikebelem-c7dd41",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bike Belém",
+        "network": "Bike Belém",
+        "operator": "Samba Transportes Sustentáveis",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bike Chattanooga",
+      "id": "bikechattanooga-6206fb",
+      "locationSet": {
+        "include": ["us-tn.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bike Chattanooga",
+        "network": "Bike Chattanooga",
+        "operator": "Alta Bike Share",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bike PE",
+      "id": "bikepe-c7dd41",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bike PE",
+        "network": "Bike PE",
+        "operator": "Tembici",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bike PoA",
+      "id": "bikepoa-c7dd41",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bike PoA",
+        "network": "Bike PoA",
+        "operator": "Tembici",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bike Salvador",
+      "id": "bikesalvador-c7dd41",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bike Salvador",
+        "brand:wikidata": "Q20052802",
+        "network": "Bike Salvador",
+        "operator": "Tembici",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bike Sampa",
+      "id": "bikesampa-c7dd41",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bike Sampa",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bike Share Connect",
+      "id": "bikeshareconnect-e229af",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bike Share Connect",
+        "network": "Bike Share Connect",
+        "operator": "Bruin Bike Share",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bike Share Toronto",
+      "id": "bikesharetoronto-843836",
+      "locationSet": {
+        "include": ["ca-on.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Bike Share Toronto",
+        "brand:wikidata": "Q17018523",
+        "operator": "Toronto Parking Authority",
+        "operator:type": "public",
+        "operator:wikidata": "Q7826466"
+      }
+    },
+    {
+      "displayName": "Bike Vitória",
+      "id": "bikevitoria-c7dd41",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bike Vitória",
+        "name": "Bike Vitória",
+        "operator": "Serttel",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bike_S",
+      "id": "bikes-fc4e11",
+      "locationSet": {
+        "include": ["pl-32.geojson"]
+      },
+      "note": "underscore character is part of the name",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bike_S",
+        "brand:wikidata": "Q28673057",
+        "network": "Bike_S",
+        "operator": "Nieruchomości i Opłaty Lokalne",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "bikeKIA",
+      "id": "bikekia-3dc1ae",
+      "locationSet": {"include": ["si"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "bikeKIA",
+        "network": "bikeKIA"
+      }
+    },
+    {
+      "displayName": "BikeMi",
+      "id": "bikemi-2861f8",
+      "locationSet": {"include": [[9.2, 45.45]]},
+      "note": "location: Milan (ISO_3166-2:IT - it-mi), Italy",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "BikeMi",
+        "brand:wikidata": "Q2902552",
+        "network": "BikeMi",
+        "operator": "Clear Channel",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "BikeNHV",
+      "id": "bikenhv-51fa1c",
+      "locationSet": {
+        "include": ["us-ct.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "BikeNHV",
+        "network": "BikeNHV",
+        "operator": "Clear Channel",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "bikenow",
+      "id": "bikenow-a162ac",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["байк-нау"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "bikenow",
+        "brand:wikidata": "Q107125012",
+        "name": "bikenow"
+      }
+    },
+    {
+      "displayName": "BiKeR",
+      "id": "biker-b49cdf",
+      "locationSet": {
+        "include": [[23.1591679, 53.132398]]
+      },
+      "note": "Białystok in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "BiKeR",
+        "network": "BiKeR",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "BikeRio",
+      "id": "bikerio-c7dd41",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "BikeRio",
+        "brand:wikidata": "Q28724",
+        "name": "BikeRio",
+        "operator": "Tembici",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bikesantiago",
+      "id": "bikesantiago-70bf31",
+      "locationSet": {"include": ["cl"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bikesantiago",
+        "brand:wikidata": "Q18170816",
+        "name": "Bikesantiago",
+        "operator": "Bikesantiago",
+        "operator:type": "private",
+        "operator:wikidata": "Q18170816"
+      }
+    },
+    {
+      "displayName": "Biketown PDX",
+      "id": "biketown-b463a6",
+      "locationSet": {
+        "include": [[-122.65, 45.5, 14]]
+      },
+      "matchNames": ["lyft bike"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Biketown",
+        "brand:wikidata": "Q28035353",
+        "fee": "yes",
+        "name": "Biketown",
+        "network": "Biketown",
+        "network:wikidata": "Q28035353",
+        "operator": "Lyft",
+        "operator:type": "private",
+        "operator:wikidata": "Q17077936"
+      }
+    },
+    {
+      "displayName": "Biketown WHQ",
+      "id": "biketown-c3d163",
+      "locationSet": {
+        "include": [[-122.835, 45.5, 2]]
+      },
+      "tags": {
+        "access": "private",
+        "amenity": "bicycle_rental",
+        "brand": "Biketown",
+        "brand:wikidata": "Q28035353",
+        "name": "Biketown",
+        "operator": "Nike",
+        "operator:type": "private",
+        "operator:wikidata": "Q483915"
+      }
+    },
+    {
+      "displayName": "BikeU",
+      "id": "bikeu-4d145c",
+      "locationSet": {"include": ["pl"]},
+      "note": "ISO 3166-2 PL-04",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "BikeU",
+        "brand:wikidata": "Q30915392",
+        "name": "BikeU",
+        "network": "BikeU",
+        "network:wikidata": "Q30915392",
+        "operator": "BikeU",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Biki (Honolulu)",
+      "id": "biki-1f7ada",
+      "locationSet": {"include": ["us-hi"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Biki",
+        "brand:wikidata": "Q98337927",
+        "name": "Biki",
+        "network": "Biki",
+        "network:wikidata": "Q98337927",
+        "operator": "Biki",
+        "operator:type": "private",
+        "operator:wikidata": "Q98337927"
+      }
+    },
+    {
+      "displayName": "Biki (Valladolid)",
+      "id": "biki-5b6a9f",
+      "locationSet": {
+        "include": ["es-va.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Biki",
+        "brand:wikidata": "Q111760142",
+        "name": "Biki",
+        "network": "Biki",
+        "network:wikidata": "Q111760142",
+        "operator": "Auvasa",
+        "operator:type": "private",
+        "operator:wikidata": "Q5712430"
+      }
+    },
+    {
+      "displayName": "Bilbaobizi",
+      "id": "bilbaobizi-25e16d",
+      "locationSet": {
+        "include": ["es-bi.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bilbaobizi",
+        "brand:wikidata": "Q61070767",
+        "network": "Bilbaobizi",
+        "network:wikidata": "Q61070767",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "BIT Mobility",
+      "id": "bitmobility-6fd9c1",
+      "locationSet": {
+        "include": [[9.83, 44.11, 15]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "BIT Mobility",
+        "name": "BIT Mobility",
+        "operator": "BIT Mobility",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "BiTS",
+      "id": "bits-58be9d",
+      "locationSet": {
+        "include": [[13.78, 45.65, 10]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "BiTS",
+        "brand:wikidata": "Q109122647",
+        "network": "BiTS",
+        "operator": "BicinCittà",
+        "operator:type": "private",
+        "operator:wikidata": "Q108937937"
+      }
+    },
+    {
+      "displayName": "Bixi",
+      "id": "bixi-3eadaa",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Bixi",
+        "brand:wikidata": "Q386",
+        "name": "Bixi",
+        "network": "Bixi",
+        "network:wikidata": "Q386",
+        "operator": "Bixi",
+        "operator:type": "private",
+        "operator:wikidata": "Q386"
+      }
+    },
+    {
+      "displayName": "BiZi",
+      "id": "bizi-eef43d",
+      "locationSet": {
+        "include": [[-0.88, 41.65, 10]]
+      },
+      "matchNames": ["bizi zaragoza"],
+      "note": "Zaragoza (ES-Z)",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "BiZi",
+        "brand:wikidata": "Q953933",
+        "network": "BiZi",
+        "network:wikidata": "Q953933",
+        "operator": "UTE Bicicletas Zaragoza",
+        "operator:type": "private",
+        "operator:wikidata": "Q130680947"
+      }
+    },
+    {
+      "displayName": "bizkaibizi",
+      "id": "bizkaibizi-25e16d",
+      "locationSet": {
+        "include": ["es-bi.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "bizkaibizi",
+        "name": "bizkaibizi"
+      }
+    },
+    {
+      "displayName": "Blue-bike",
+      "id": "bluebike-18cad7",
+      "locationSet": {"include": ["be"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Blue-bike",
+        "brand:wikidata": "Q17332642",
+        "network": "Blue-bike",
+        "network:wikidata": "Q17332642",
+        "operator": "Blue-Mobility",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bluebikes",
+      "id": "bluebikes-b3cb11",
+      "locationSet": {
+        "include": ["us-ma.geojson"]
+      },
+      "matchNames": [
+        "blue cross blue shield of massachusetts (bcbsma)",
+        "metro boston"
+      ],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Bluebikes",
+        "brand:wikidata": "Q3142157",
+        "name": "Bluebikes",
+        "network": "Bluebikes",
+        "network:wikidata": "Q3142157",
+        "operator": "Lyft",
+        "operator:type": "private",
+        "operator:wikidata": "Q17077936"
+      }
+    },
+    {
+      "displayName": "BORA!",
+      "id": "bora-60b39f",
+      "locationSet": {
+        "include": [
+          "pt-09.geojson",
+          "pt-18.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "BORA!",
+        "brand:wikidata": "Q135900830",
+        "name": "BORA!",
+        "network": "BORA!",
+        "network:wikidata": "Q135900830",
+        "operator": "CIM Viseu Dão Lafões",
+        "operator:type": "government",
+        "operator:wikidata": "Q265402"
+      }
+    },
+    {
+      "displayName": "Boseh",
+      "id": "boseh-2db6d2",
+      "locationSet": {"include": ["id-jw"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Boseh",
+        "brand:wikidata": "Q56392276",
+        "name": "Boseh",
+        "network": "Boseh",
+        "network:wikidata": "Q56392276",
+        "operator": "UPT Angkutan Dinas Perhubungan Kota Bandung",
+        "operator:type": "government",
+        "operator:wikidata": "Q135037597"
+      }
+    },
+    {
+      "displayName": "Boulder B-cycle",
+      "id": "boulderbcycle-815af2",
+      "locationSet": {
+        "include": ["us-co.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Boulder B-cycle",
+        "network": "Boulder B-cycle",
+        "operator": "BCycle",
+        "operator:type": "private",
+        "operator:wikidata": "Q4833723"
+      }
+    },
+    {
+      "displayName": "Breeze Bike Share",
+      "id": "breezebikeshare-e229af",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "matchNames": ["breeze"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Breeze Bike Share",
+        "network": "Breeze Bike Share",
+        "operator": "CycleHop",
+        "operator:type": "private",
+        "operator:wikidata": "Q65121017"
+      }
+    },
+    {
+      "displayName": "BROM",
+      "id": "brom-843f86",
+      "locationSet": {
+        "include": ["pl-02.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "BROM",
+        "brand:wikidata": "Q119105803",
+        "operator": "Roovee",
+        "operator:type": "private",
+        "operator:wikidata": "Q60860205"
+      }
+    },
+    {
+      "displayName": "Brompton Bike Hire",
+      "id": "bromptonbikehire-41ec11",
+      "locationSet": {
+        "include": ["gb-eng", "gb-sct", "gb-wls"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Brompton Bike Hire",
+        "brand:wikidata": "Q120437445"
+      }
+    },
+    {
+      "displayName": "Bruin Bike Share",
+      "id": "bruinbikeshare-e229af",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bruin Bike Share",
+        "name": "Bruin Bike Share",
+        "operator": "Bruin Bike Share",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "btnbikeshare",
+      "id": "btnbikeshare-b88dc4",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "btnbikeshare",
+        "network": "btnbikeshare"
+      }
+    },
+    {
+      "displayName": "Bublr Bikes",
+      "id": "bublrbikes-f2dea6",
+      "locationSet": {
+        "include": ["us-wi.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bublr Bikes",
+        "brand:wikidata": "Q108789295",
+        "network": "Bublr Bikes",
+        "operator": "Bublr Bikes",
+        "operator:type": "private",
+        "operator:wikidata": "Q108789295"
+      }
+    },
+    {
+      "displayName": "Bycyklen",
+      "id": "bycyklen-e198ac",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bycyklen",
+        "brand:wikidata": "Q28225772",
+        "network": "Bycyklen",
+        "network:wikidata": "Q28225772",
+        "operator": "Bycyklen",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bydgoski Rower Aglomeracyjny",
+      "id": "bydgoskiroweraglomeracyjny-4d145c",
+      "locationSet": {"include": ["pl"]},
+      "note": "ISO 3166-2 PL-04",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Bydgoski Rower Aglomeracyjny",
+        "brand:wikidata": "Q20032305",
+        "network": "Bydgoski Rower Aglomeracyjny",
+        "network:wikidata": "Q20032305",
+        "operator": "BikeU",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Bysykkel (Oslo)",
+      "id": "oslobysykkel-e79826",
+      "locationSet": {"include": ["no"]},
+      "matchNames": ["bysykkel oslo"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Oslo Bysykkel",
+        "brand:wikidata": "Q7107010",
+        "network": "Oslo Bysykkel",
+        "network:wikidata": "Q7107010",
+        "operator": "UIP Oslo Bysykkel AS",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "C.vélo",
+      "id": "cvelo-d06f5d",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "C.vélo",
+        "brand:wikidata": "Q17354096",
+        "network": "C.vélo",
+        "network:wikidata": "Q17354096",
+        "operator": "Velogik",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "C'entro in Bici",
+      "id": "centroinbici-3d5df6",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "C'entro in Bici",
+        "network": "C'entro in Bici"
+      }
+    },
+    {
+      "displayName": "Call a Bike",
+      "id": "callabike-937152",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Call a Bike",
+        "brand:wikidata": "Q1060525",
+        "network": "Call a Bike",
+        "network:wikidata": "Q1060525",
+        "operator": "Deutsche Bahn Connect",
+        "operator:type": "private",
+        "operator:wikidata": "Q1152100"
+      }
+    },
+    {
+      "displayName": "Capital Bikeshare",
+      "id": "capitalbikeshare-f7b29d",
+      "locationSet": {
+        "include": [
+          "us-dc.geojson",
+          "us-md.geojson",
+          "us-va.geojson"
+        ]
+      },
+      "matchNames": ["cabi", "lyft bike"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Capital Bikeshare",
+        "brand:wikidata": "Q1034635",
+        "fee": "yes",
+        "name": "Capital Bikeshare",
+        "network": "Capital Bikeshare",
+        "network:wikidata": "Q1034635",
+        "operator": "Lyft",
+        "operator:type": "private",
+        "operator:wikidata": "Q17077936"
+      }
+    },
+    {
+      "displayName": "CapMetro Bikeshare",
+      "id": "capmetrobikeshare-3cfeab",
+      "locationSet": {
+        "include": ["us-tx-austin.geojson"]
+      },
+      "matchNames": ["metrobike"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "CapMetro Bikeshare",
+        "brand:wikidata": "Q133802038",
+        "fee": "yes",
+        "network": "CapMetro Bikeshare",
+        "network:wikidata": "Q133802038",
+        "operator": "CapMetro",
+        "operator:type": "public",
+        "operator:wikidata": "Q587830",
+        "rental": "ebike"
+      }
+    },
+    {
+      "displayName": "carvelo2go",
+      "id": "carvelo2go-61df48",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "carvelo2go",
+        "brand:wikidata": "Q110278232",
+        "name": "carvelo2go",
+        "operator": "carvelo2go",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "CDPHP Cycle",
+      "id": "cdphpcycle-7456a4",
+      "locationSet": {
+        "include": ["us-ny.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "CDPHP Cycle",
+        "network": "CDPHP Cycle",
+        "operator": "Social Bicycles Inc.",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Chromek",
+      "id": "chromek-4d145c",
+      "locationSet": {"include": ["pl"]},
+      "note": "ISO 3166-2 PL-30",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Chromek",
+        "brand:wikidata": "Q119105688",
+        "network": "Chromek",
+        "network:wikidata": "Q119105688",
+        "operator": "Roovee",
+        "operator:type": "private",
+        "operator:wikidata": "Q60860205"
+      }
+    },
+    {
+      "displayName": "CicloPi",
+      "id": "ciclopi-1536f9",
+      "locationSet": {
+        "include": [[10.4, 43.71, 15]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "CicloPi",
+        "network": "CicloPi",
+        "operator": "BicinCittà",
+        "operator:type": "private",
+        "operator:wikidata": "Q108937937"
+      }
+    },
+    {
+      "displayName": "Citi Bike",
+      "id": "citibike-6b7d28",
+      "locationSet": {
+        "include": ["us-ny-new_york_city.geojson"]
+      },
+      "matchNames": [
+        "lyft bike",
+        "nyc bike share"
+      ],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Citi Bike",
+        "brand:wikidata": "Q2974438",
+        "fee": "yes",
+        "name": "Citi Bike",
+        "network": "Citi Bike",
+        "network:wikidata": "Q2974438",
+        "operator": "Lyft",
+        "operator:type": "private",
+        "operator:wikidata": "Q17077936"
+      }
+    },
+    {
+      "displayName": "Citrix Cycle",
+      "id": "citrixcycle-b77896",
+      "locationSet": {
+        "include": ["us-nc.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Citrix Cycle",
+        "network": "Citrix Cycle"
+      }
+    },
+    {
+      "displayName": "City Bike Finland",
+      "id": "citybikefinland-5c40d5",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "City Bike Finland",
+        "operator": "City Bike Finland",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "City Bike Linz",
+      "id": "citybikelinz-ebef9d",
+      "locationSet": {
+        "include": ["at-4.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "City Bike Linz"
+      }
+    },
+    {
+      "displayName": "city bike Liverpool",
+      "id": "citybikeliverpool-b88dc4",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "city bike Liverpool",
+        "name": "city bike Liverpool",
+        "operator": "city bike Liverpool",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "City Bikes",
+      "id": "citybikes-bc0237",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "City Bikes",
+        "name": "City Bikes",
+        "operator": "City Bikes",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "CityBike Vantaa Oy",
+      "id": "citybikevantaaoy-5c40d5",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "CityBike Vantaa Oy",
+        "name": "CityBike Vantaa Oy",
+        "operator": "CityBike Vantaa Oy",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Cluj Bike",
+      "id": "clujbike-8ba172",
+      "locationSet": {"include": ["ro"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Cluj Bike",
+        "name": "Cluj Bike",
+        "operator": "Primaria Municipiul Cluj-Napoca",
+        "operator:type": "government"
+      }
+    },
+    {
+      "displayName": "Co Bikes",
+      "id": "cobikes-98ab13",
+      "locationSet": {
+        "include": [[-3.53, 50.74]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Co Bikes",
+        "brand:wikidata": "Q111818653",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "CoGo Bike Share",
+      "id": "cogo-919639",
+      "locationSet": {
+        "include": ["us-oh.geojson"]
+      },
+      "matchNames": ["lyft bike"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "CoGo Bike Share",
+        "brand:wikidata": "Q91342219",
+        "fee": "yes",
+        "name": "CoGo",
+        "network": "CoGo Bike Share",
+        "network:wikidata": "Q91342219",
+        "operator": "Lyft",
+        "operator:type": "private",
+        "operator:wikidata": "Q17077936"
+      }
+    },
+    {
+      "displayName": "Cy'clic",
+      "id": "cyclic-aedfa2",
+      "locationSet": {"include": [[1.1, 49.4]]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Cy'clic",
+        "brand:wikidata": "Q3008009",
+        "network": "Cy'clic",
+        "operator": "Cyclocity",
+        "operator:type": "private",
+        "operator:wikidata": "Q3008464"
+      }
+    },
+    {
+      "displayName": "Cyclocity (Lietuva)",
+      "id": "cyclocity-63aaeb",
+      "locationSet": {"include": ["lt"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Cyclocity",
+        "network": "Cyclocity",
+        "operator": "Cyclocity",
+        "operator:type": "private",
+        "operator:wikidata": "Q3008464"
+      }
+    },
+    {
+      "displayName": "Cyclocity (日本)",
+      "id": "cyclocity-813eb7",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Cyclocity",
+        "network": "Cyclocity",
+        "operator": "cyclocity Inc.",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Czeladzki Rower Miejski",
+      "id": "czeladzkirowermiejski-4d145c",
+      "locationSet": {"include": ["pl"]},
+      "note": "ISO 3166-2 PL-24",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Czeladzki Rower Miejski",
+        "brand:wikidata": "Q106315826",
+        "operator": "Roovee",
+        "operator:type": "private",
+        "operator:wikidata": "Q60860205"
+      }
+    },
+    {
+      "displayName": "Częstochowski Rower Miejski",
+      "id": "czestochowskirowermiejski-43ae7c",
+      "locationSet": {
+        "include": [[19.113213, 50.8120466]]
+      },
+      "note": "Częstochowa in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Częstochowski Rower Miejski",
+        "brand:wikidata": "Q119488808",
+        "network": "Częstochowski Rower Miejski",
+        "network:wikidata": "Q119488808",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Date Bike",
+      "id": "datebike-813eb7",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Date Bike",
+        "brand:en": "Date Bike",
+        "brand:ja": "DATE BIKE",
+        "brand:wikidata": "Q22128125",
+        "network": "Date Bike",
+        "operator": "ドコモ・バイクシェア",
+        "operator:en": "Docomo Bike Share",
+        "operator:ja": "ドコモ・バイクシェア",
+        "operator:type": "private",
+        "operator:wikidata": "Q55533296"
+      }
+    },
+    {
+      "displayName": "DBizi",
+      "id": "dbizi-31853c",
+      "locationSet": {
+        "include": ["es-ss.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "DBizi",
+        "name": "DBizi"
+      }
+    },
+    {
+      "displayName": "DiviaVélodi",
+      "id": "diviavelodi-e1ee5d",
+      "locationSet": {
+        "include": [[5.0022, 47.3318]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "DiviaVélodi",
+        "brand:wikidata": "Q3555358",
+        "network": "DiviaVélodi",
+        "network:wikidata": "Q3555358",
+        "operator": "Cykleo",
+        "operator:type": "private",
+        "operator:wikidata": "Q109250587"
+      }
+    },
+    {
+      "displayName": "Divvy",
+      "id": "divvy-c25c95",
+      "locationSet": {
+        "include": ["us-il-cook_county.geojson"]
+      },
+      "matchNames": ["lyft bike"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Divvy",
+        "brand:wikidata": "Q16973938",
+        "fee": "yes",
+        "network": "Divvy",
+        "network:wikidata": "Q16973938",
+        "operator": "Lyft",
+        "operator:type": "private",
+        "operator:wikidata": "Q17077936"
+      }
+    },
+    {
+      "displayName": "DK'Vélo",
+      "id": "dkvelo-8a8951",
+      "locationSet": {
+        "include": [[2.3431, 51.0171]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "DK'Vélo",
+        "network": "DK'Vélo",
+        "operator": "STDE",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Donkey Republic",
+      "id": "donkeyrepublic-c32b83",
+      "locationSet": {"include": ["150"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Donkey Republic",
+        "brand:wikidata": "Q63753939",
+        "name": "Donkey Republic",
+        "operator": "Donkey Republic",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Dott",
+      "id": "dott-06d22c",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Dott",
+        "brand:wikidata": "Q107463014",
+        "name": "Dott"
+      }
+    },
+    {
+      "displayName": "Drammen Bysykler",
+      "id": "drammenbysykler-e79826",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Drammen Bysykler",
+        "network": "Drammen Bysykler",
+        "operator": "Clear Channel Norge AS",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "dublinbikes",
+      "id": "dublinbikes-a14bdb",
+      "locationSet": {
+        "include": ["ie-d.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "dublinbikes",
+        "brand:wikidata": "Q5311025",
+        "network": "dublinbikes",
+        "network:wikidata": "Q5311025",
+        "operator": "Cyclocity",
+        "operator:type": "private",
+        "operator:wikidata": "Q3008464"
+      }
+    },
+    {
+      "displayName": "E.Motion",
+      "id": "emotion-302e21",
+      "locationSet": {
+        "include": [[11.1, 46.1, 50]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "E.Motion",
+        "network": "E.Motion",
+        "operator": "Provincia Autonoma di Trento",
+        "operator:type": "government"
+      }
+    },
+    {
+      "displayName": "Easybike",
+      "id": "easybike-5c40d5",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Easybike",
+        "network": "Easybike",
+        "operator": "Easybike",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Ecobici (Ciudad de México)",
+      "id": "ecobici-0c0e40",
+      "locationSet": {
+        "include": ["mx-cmx.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Ecobici",
+        "brand:wikidata": "Q5817067",
+        "network": "Ecobici",
+        "operator": "5M2-BKT",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "ecobike",
+      "id": "ecobike-813eb7",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "ecobike",
+        "name": "ecobike",
+        "operator": "ecobike",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "EnCicla",
+      "id": "encicla-2d08e5",
+      "locationSet": {"include": ["co"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "EnCicla",
+        "brand:wikidata": "Q18644128",
+        "operator": "EnCicla",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Evolve E-Bike Share",
+      "id": "evolve-9d816b",
+      "locationSet": {
+        "include": ["ca-bc.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Evolve",
+        "brand:wikidata": "Q137825732",
+        "fee": "yes",
+        "operator": "Evo Car Share",
+        "operator:wikidata": "Q26553214"
+      }
+    },
+    {
+      "displayName": "Explore Bike Share",
+      "id": "explorebikeshare-6206fb",
+      "locationSet": {
+        "include": ["us-tn.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Explore Bike Share",
+        "brand:wikidata": "Q86706492",
+        "name": "Explore Bike Share",
+        "operator": "Explore Bike Share",
+        "operator:type": "private",
+        "operator:wikidata": "Q86706492"
+      }
+    },
+    {
+      "displayName": "fLotte",
+      "id": "flotte-aad226",
+      "locationSet": {
+        "include": ["de-be.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "fLotte",
+        "brand:wikidata": "Q102333872"
+      }
+    },
+    {
+      "displayName": "Föli-fillarit",
+      "id": "folifillarit-5c40d5",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Föli-fillarit",
+        "brand:wikidata": "Q18658772",
+        "network": "Föli-fillarit",
+        "network:wikidata": "Q18658772",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "frelo",
+      "id": "frelo-b4e368",
+      "locationSet": {
+        "include": [[7.85, 48, 10]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "frelo",
+        "brand:wikidata": "Q117300833",
+        "network": "frelo",
+        "network:wikidata": "Q117300833",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "Gbici",
+      "id": "gbici-74746a",
+      "locationSet": {
+        "include": ["es-m.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Gbici",
+        "network": "Gbici",
+        "operator": "Ayuntamiento de Getafe",
+        "operator:type": "government",
+        "operator:wikidata": "Q5714843"
+      }
+    },
+    {
+      "displayName": "Geochang public bike system",
+      "id": "geochangpublicbikesystem-3cba94",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Geochang public bike system",
+        "network": "Geochang public bike system",
+        "operator": "거창군",
+        "operator:type": "public"
+      }
+    },
+    {
+      "displayName": "GeoVelo Opole",
+      "id": "geoveloopole-4d145c",
+      "locationSet": {"include": ["pl"]},
+      "note": "ISO 3166-2 PL-16",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "GeoVelo Opole",
+        "brand:wikidata": "Q11798700",
+        "network": "GeoVelo Opole",
+        "network:wikidata": "Q11798700",
+        "operator": "GeoVelo",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Getxobizi",
+      "id": "getxobizi-25e16d",
+      "locationSet": {
+        "include": ["es-bi.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Getxobizi",
+        "network": "Getxobizi",
+        "operator": "Biziprest",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Gira",
+      "id": "gira-e6d7a6",
+      "locationSet": {
+        "include": ["pt-11.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Gira",
+        "brand:wikidata": "Q65049332",
+        "operator": "EMEL",
+        "operator:type": "public",
+        "operator:wikidata": "Q30256831"
+      }
+    },
+    {
+      "displayName": "Girocleta",
+      "id": "girocleta-858fb1",
+      "locationSet": {
+        "include": ["es-gi.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Girocleta",
+        "brand:wikidata": "Q20106716",
+        "network": "Girocleta",
+        "operator": "Girocleta",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "GoodBike Padova",
+      "id": "goodbikepadova-96c29a",
+      "locationSet": {
+        "include": [[11.87, 45.41, 10]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "GoodBike Padova",
+        "brand:wikidata": "Q105555683",
+        "network": "GoodBike Padova",
+        "operator": "BicinCittà",
+        "operator:type": "private",
+        "operator:wikidata": "Q108937937"
+      }
+    },
+    {
+      "displayName": "Greenbike SLC BikeShare",
+      "id": "greenbikeslcbikeshare-cbce7e",
+      "locationSet": {
+        "include": ["us-ut.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Greenbike SLC BikeShare",
+        "network": "Greenbike SLC BikeShare",
+        "operator": "BCycle",
+        "operator:type": "private",
+        "operator:wikidata": "Q4833723"
+      }
+    },
+    {
+      "displayName": "Grid",
+      "id": "grid-d8bda1",
+      "locationSet": {
+        "include": ["us-az.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Grid",
+        "brand:wikidata": "Q62104168",
+        "network": "Grid",
+        "network:wikidata": "Q62104168",
+        "operator": "CycleHop",
+        "operator:type": "private",
+        "operator:wikidata": "Q65121017"
+      }
+    },
+    {
+      "displayName": "Grodziski Rower Miejski",
+      "id": "grodziskirowermiejski-c6b3ff",
+      "locationSet": {
+        "include": [[20.6313441, 52.1066223, 7]]
+      },
+      "note": "Grodzisk Mazowiecki in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Grodziski Rower Miejski",
+        "brand:wikidata": "Q117112930",
+        "network": "Grodziski Rower Miejski",
+        "network:wikidata": "Q117112930",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "GSBikeshare",
+      "id": "gsbikeshare-b88dc4",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "GSBikeshare",
+        "name": "GSBikeshare",
+        "operator": "GSBikeshare",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "GyőrBike",
+      "id": "gyorbike-7b42f4",
+      "locationSet": {"include": ["hu"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "GyőrBike",
+        "network": "GyőrBike",
+        "operator": "Cycleme kft.",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Hamilton Bike Share",
+      "id": "hamiltonbikeshare-3eadaa",
+      "locationSet": {"include": ["ca"]},
+      "matchNames": [
+        "hamilton social bicycles",
+        "sobi hamilton"
+      ],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Hamilton Bike Share",
+        "brand:wikidata": "Q20710920",
+        "fee": "yes",
+        "network": "Hamilton Bike Share",
+        "operator": "Hamilton Bike Share Inc.",
+        "operator:type": "private_non_profit"
+      }
+    },
+    {
+      "displayName": "Heartland B-cycle",
+      "id": "heartlandbcycle-a5b896",
+      "locationSet": {
+        "include": ["us-ia.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Heartland B-cycle",
+        "network": "Heartland B-cycle",
+        "operator": "BCycle",
+        "operator:type": "private",
+        "operator:wikidata": "Q4833723"
+      }
+    },
+    {
+      "displayName": "HELLO CYCLING",
+      "id": "hellocycling-813eb7",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "HELLO CYCLING",
+        "brand:en": "HELLO CYCLING",
+        "brand:ja": "ハローサイクリング",
+        "brand:wikidata": "Q91231927",
+        "fee": "yes",
+        "name": "HELLO CYCLING",
+        "name:en": "HELLO CYCLING",
+        "name:ja": "ハローサイクリング",
+        "network": "HELLO CYCLING",
+        "network:en": "HELLO CYCLING",
+        "network:ja": "ハローサイクリング",
+        "network:wikidata": "Q91231927",
+        "operator": "OpenStreet",
+        "operator:type": "private",
+        "operator:wikidata": "Q43593262"
+      }
+    },
+    {
+      "displayName": "hirebikeLincoln",
+      "id": "hirebikelincoln-b88dc4",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "hirebikeLincoln",
+        "network": "hirebikeLincoln",
+        "operator": "hirebikeLincoln",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Houston B-cycle",
+      "id": "houstonbcycle-bf6a4b",
+      "locationSet": {
+        "include": [[-95.3874, 29.7557, 50]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Houston B-cycle",
+        "brand:wikidata": "Q16995962",
+        "network": "Houston B-cycle",
+        "network:wikidata": "Q16995962",
+        "operator": "BCycle",
+        "operator:type": "private",
+        "operator:wikidata": "Q4833723"
+      }
+    },
+    {
+      "displayName": "HuiziToluca",
+      "id": "huizitoluca-e0aaa7",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "HuiziToluca",
+        "network": "HuiziToluca"
+      }
+    },
+    {
+      "displayName": "I'Velo",
+      "id": "ivelo-8ba172",
+      "locationSet": {"include": ["ro"]},
+      "matchNames": ["bucharest bike share"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "I'Velo",
+        "brand:wikidata": "Q119495434",
+        "network": "I'Velo",
+        "operator": "Asociația Green Revolution",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "IDEcycle",
+      "id": "idecycle-4fb111",
+      "issues": [12496],
+      "locationSet": {
+        "include": [[-0.37, 43.29]]
+      },
+      "note": "Pau, France",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "IDEcycle",
+        "brand:wikidata": "Q3146580",
+        "network": "IDEcycle",
+        "network:wikidata": "Q3146580",
+        "operator": "Fifteen",
+        "operator:type": "private",
+        "operator:wikidata": "Q3487061"
+      }
+    },
+    {
+      "displayName": "Indego",
+      "id": "indego-d5d8a9",
+      "locationSet": {
+        "include": ["us-pa.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Indego",
+        "brand:wikidata": "Q19876452",
+        "network": "Indego",
+        "network:wikidata": "Q19876452",
+        "operator": "Bicycle Transit Systems",
+        "operator:type": "private",
+        "operator:wikidata": "Q104005517"
+      }
+    },
+    {
+      "displayName": "Indiana Pacers Bikeshare",
+      "id": "indianapacersbikeshare-a05471",
+      "locationSet": {
+        "include": ["us-in.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Indiana Pacers Bikeshare",
+        "brand:wikidata": "Q109557888",
+        "network": "Indiana Pacers Bikeshare",
+        "network:wikidata": "Q109557888",
+        "operator": "BCycle",
+        "operator:type": "private",
+        "operator:wikidata": "Q4833723"
+      }
+    },
+    {
+      "displayName": "İSBİKE",
+      "id": "isbike-1ed935",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "İSBİKE",
+        "brand:wikidata": "Q18391227",
+        "network": "İSBİKE",
+        "operator": "İSBİKE",
+        "operator:type": "public",
+        "operator:wikidata": "Q18391227"
+      }
+    },
+    {
+      "displayName": "Jesolo Ambient Bike",
+      "id": "jesoloambientbike-22040c",
+      "locationSet": {
+        "include": [[12.64, 45.52, 15]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Jesolo Ambient Bike",
+        "network": "Jesolo Ambient Bike",
+        "operator": "Jtaca",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Just Eat Cycles",
+      "id": "justeatcycles-f9bbc5",
+      "locationSet": {"include": ["gb-sct"]},
+      "matchNames": [
+        "justeat",
+        "justeats bicycles"
+      ],
+      "note": "These are limited to Edinburgh only (as of 2020-12-04)",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Just Eat Cycles",
+        "brand:wikidata": "Q6315697",
+        "network": "Transport for Edinburgh",
+        "operator": "Serco",
+        "operator:type": "private",
+        "operator:wikidata": "Q499104"
+      }
+    },
+    {
+      "displayName": "K Bike",
+      "id": "kbike-1bb859",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "金門公共自行車",
+        "brand:en": "K-Bike",
+        "brand:wikidata": "Q30942379",
+        "brand:zh": "金門公共自行車",
+        "name": "金門公共自行車",
+        "name:en": "K-Bike",
+        "name:zh": "金門公共自行車",
+        "network": "K-Bike",
+        "operator": "金門縣政府",
+        "operator:type": "government"
+      }
+    },
+    {
+      "displayName": "Kaliski Rower Miejski",
+      "id": "kaliskirowermiejski-c154f1",
+      "locationSet": {
+        "include": [[18.0895358, 51.7624752]]
+      },
+      "note": "Kalisz in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Kaliski Rower Miejski",
+        "network": "Kaliski Rower Miejski",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "KanizsaBike",
+      "id": "kanizsabike-7b42f4",
+      "locationSet": {"include": ["hu"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "KanizsaBike",
+        "network": "KanizsaBike"
+      }
+    },
+    {
+      "displayName": "Kielecki Rower Miejski",
+      "id": "kieleckirowermiejski-4d145c",
+      "locationSet": {"include": ["pl"]},
+      "note": "ISO 3166-2 PL-26",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Kielecki Rower Miejski",
+        "brand:wikidata": "Q119105991",
+        "operator": "Roovee",
+        "operator:type": "private",
+        "operator:wikidata": "Q60860205"
+      }
+    },
+    {
+      "displayName": "Kolesce",
+      "id": "kolesce-3dc1ae",
+      "locationSet": {"include": ["si"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Kolesce",
+        "network": "Kolesce",
+        "operator": "NOMAGO",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Kołobrzeski Rower Miejski",
+      "id": "kolobrzeskirowermiejski-499603",
+      "locationSet": {
+        "include": [[15.5764209, 54.1759614]]
+      },
+      "note": "Kołobrzeg in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Kołobrzeski Rower Miejski",
+        "brand:wikidata": "Q97373105",
+        "network": "Kołobrzeski Rower Miejski",
+        "network:wikidata": "Q97373105",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Komunikacja Miejska w Szczecinku",
+      "id": "komunikacjamiejskawszczecinku-fc4e11",
+      "locationSet": {
+        "include": ["pl-32.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Komunikacja Miejska w Szczecinku",
+        "brand:wikidata": "Q11742146",
+        "name": "Komunikacja Miejska w Szczecinku",
+        "operator": "Komunikacja Miejska w Szczecinku",
+        "operator:type": "public"
+      }
+    },
+    {
+      "displayName": "Koniński Rower Miejski",
+      "id": "koninskirowermiejski-972c09",
+      "locationSet": {
+        "include": [[18.2521112, 52.2301933]]
+      },
+      "note": "Konin in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Koniński Rower Miejski",
+        "brand:wikidata": "Q117113145",
+        "network": "Koniński Rower Miejski",
+        "network:wikidata": "Q117113145",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "konrad",
+      "id": "konrad-8675ae",
+      "locationSet": {
+        "include": [[9.18, 47.68, 15]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "konrad",
+        "brand:wikidata": "Q117301660",
+        "network": "konrad",
+        "network:wikidata": "Q117301660",
+        "operator": "Stadtwerke Konstanz",
+        "operator:type": "public",
+        "operator:wikidata": "Q1266985"
+      }
+    },
+    {
+      "displayName": "Koszaliński Rower Miejski",
+      "id": "koszalinskirowermiejski-dc9a4a",
+      "locationSet": {
+        "include": [[16.17707, 54.19092]]
+      },
+      "note": "Koszalin in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Koszaliński Rower Miejski",
+        "brand:wikidata": "Q97373092",
+        "network": "Koszaliński Rower Miejski",
+        "network:wikidata": "Q97373092",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Krotower",
+      "id": "krotower-4d145c",
+      "locationSet": {"include": ["pl"]},
+      "note": "ISO 3166-2 PL-30",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Krotower",
+        "brand:wikidata": "Q119106146",
+        "operator": "Roovee",
+        "operator:type": "private",
+        "operator:wikidata": "Q60860205"
+      }
+    },
+    {
+      "displayName": "KRsKOLESOM",
+      "id": "krskolesom-3dc1ae",
+      "locationSet": {"include": ["si"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "KRsKOLESOM",
+        "network": "KRsKOLESOM",
+        "operator": "MO Kranj",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "KVV.nextbike",
+      "id": "kvvnextbike-7a7556",
+      "locationSet": {
+        "include": [[8.42, 48.96, 25]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "KVV.nextbike",
+        "brand:wikidata": "Q117301825",
+        "network": "KVV.nextbike",
+        "network:wikidata": "Q117301825",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "LaBiGi",
+      "id": "labigi-3d5df6",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "LaBiGi",
+        "operator": "ATB Bergamo",
+        "operator:type": "private",
+        "operator:wikidata": "Q3631456"
+      }
+    },
+    {
+      "displayName": "Le vélo",
+      "id": "levelo-d06f5d",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Le vélo",
+        "name": "Le vélo",
+        "operator": "Cyclocity",
+        "operator:type": "private",
+        "operator:wikidata": "Q3008464"
+      }
+    },
+    {
+      "displayName": "Le Vélo par TBM",
+      "id": "levelopartbm-d06f5d",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Le Vélo par TBM",
+        "name": "Le Vélo par TBM"
+      }
+    },
+    {
+      "displayName": "Legnicki Rower Miejski",
+      "id": "legnickirowermiejski-0eab35",
+      "locationSet": {
+        "include": [[16.1615145, 51.2090511]]
+      },
+      "note": "Legnica in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Legnicki Rower Miejski",
+        "network": "Legnicki Rower Miejski",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Libélo",
+      "id": "libelo-d06f5d",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Libélo",
+        "brand:wikidata": "Q3237967",
+        "network": "Libélo",
+        "network:wikidata": "Q3237967",
+        "operator": "Transdev",
+        "operator:type": "private",
+        "operator:wikidata": "Q442637"
+      }
+    },
+    {
+      "displayName": "Lime",
+      "id": "lime-ac52f5",
+      "locationSet": {
+        "include": [
+          "150",
+          "ae",
+          "au",
+          "ca",
+          "cl",
+          "il",
+          "jp",
+          "mx",
+          "nz",
+          "qa",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Lime",
+        "brand:wikidata": "Q39086685"
+      }
+    },
+    {
+      "displayName": "LinBike",
+      "id": "linbike-bc0237",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "LinBike",
+        "network": "LinBike",
+        "operator": "Dukaten",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Łódzki Rower Publiczny",
+      "id": "lodzkirowerpubliczny-dc4cc1",
+      "locationSet": {
+        "include": [[19.4569911, 51.7687323]]
+      },
+      "note": "Łódź in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Łódzki Rower Publiczny",
+        "brand:wikidata": "Q23955689",
+        "network": "Łódzki Rower Publiczny",
+        "network:wikidata": "Q23955689",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "ŁoKeR",
+      "id": "loker-477634",
+      "locationSet": {
+        "include": ["pl-20.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "ŁoKeR",
+        "network": "ŁoKeR",
+        "operator": "BikeU",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Lubelski Rower Miejski",
+      "id": "lubelskirowermiejski-76b763",
+      "locationSet": {
+        "include": [[22.5701022, 51.250559]]
+      },
+      "note": "Lublin in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Lubelski Rower Miejski",
+        "brand:wikidata": "Q24087694",
+        "network": "Lubelski Rower Miejski",
+        "network:wikidata": "Q24087694",
+        "operator": "MPK Lublin",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Lundahoj",
+      "id": "lundahoj-bc0237",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Lundahoj",
+        "brand:wikidata": "Q22666405",
+        "network": "Lundahoj",
+        "network:wikidata": "Q22666405",
+        "operator": "Cyclocity",
+        "operator:type": "private",
+        "operator:wikidata": "Q3008464"
+      }
+    },
+    {
+      "displayName": "Lyft Bike",
+      "id": "lyftbike-94cb92",
+      "locationSet": {
+        "include": [
+          "us-ca-los_angeles_county.geojson",
+          "us-co.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Lyft",
+        "brand:wikidata": "Q17077936",
+        "fee": "yes",
+        "name": "Lyft Bike",
+        "network": "Lyft Bike",
+        "network:wikidata": "Q17077936",
+        "operator": "Lyft",
+        "operator:type": "private",
+        "operator:wikidata": "Q17077936"
+      }
+    },
+    {
+      "displayName": "meioB",
+      "id": "meiob-bac22b",
+      "locationSet": {
+        "include": [
+          "pt-05.geojson",
+          "pt-14.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "meioB",
+        "name": "meioB"
+      }
+    },
+    {
+      "displayName": "Melbourne Bike Share",
+      "id": "melbournebikeshare-f00e7e",
+      "locationSet": {
+        "include": [[145, -38, 70]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Melbourne Bike Share",
+        "brand:wikidata": "Q6811723",
+        "network": "Melbourne Bike Share",
+        "network:wikidata": "Q6811723",
+        "operator": "RACV",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Metro Bike Share",
+      "id": "metrobikeshare-c0ce12",
+      "locationSet": {
+        "include": [[-118, 33.85, 80]]
+      },
+      "matchNames": [
+        "los angeles county metropolitan transportation authority"
+      ],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Metro Bike Share",
+        "brand:wikidata": "Q60749521",
+        "network": "Metro Bike Share",
+        "network:wikidata": "Q60749521",
+        "operator": "Bicycle Transit Systems",
+        "operator:type": "private",
+        "operator:wikidata": "Q104005517"
+      }
+    },
+    {
+      "displayName": "metropolradruhr",
+      "id": "metropolradruhr-130ced",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "metropolradruhr",
+        "brand:wikidata": "Q62104274",
+        "network": "metropolradruhr",
+        "network:wikidata": "Q62104274",
+        "operator": "Donkey Republic",
+        "operator:type": "private",
+        "operator:wikidata": "Q63753939"
+      }
+    },
+    {
+      "displayName": "Metrorower",
+      "id": "metrorower-044cb3",
+      "locationSet": {
+        "include": [[19.006611, 50.249056, 40]]
+      },
+      "note": "bicycle rental system in the Upper Silesian-Zagłębie Metropolis",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Metrorower",
+        "brand:wikidata": "Q123507620",
+        "fee": "yes",
+        "network": "Metrorower",
+        "network:wikidata": "Q123507620",
+        "operator": "Nextbike GZM",
+        "operator:type": "private",
+        "operator:wikidata": "Q127573015"
+      }
+    },
+    {
+      "displayName": "Métrovélo",
+      "id": "metrovelo-c1c12c",
+      "issues": [12497],
+      "locationSet": {
+        "include": [[5.733, 45.182]]
+      },
+      "matchNames": ["métrovélobox"],
+      "note": "Grenoble, France",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Métrovélo",
+        "brand:wikidata": "Q3333896",
+        "network": "Métrovélo",
+        "network:wikidata": "Q3333896",
+        "operator": "Cykleo",
+        "operator:type": "private",
+        "operator:wikidata": "Q109250587"
+      }
+    },
+    {
+      "displayName": "MEVO",
+      "id": "mevo-022cbd",
+      "locationSet": {
+        "include": [[18.1099, 54.24556, 100]]
+      },
+      "note": "województwo pomorskie in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "MEVO",
+        "brand:wikidata": "Q60860236",
+        "network": "MEVO",
+        "network:wikidata": "Q60860236",
+        "operator": "CityBike Global",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Mi Bici Tu Bici",
+      "id": "mibicitubici-ffc303",
+      "locationSet": {
+        "include": ["ar-s.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Mi Bici Tu Bici",
+        "brand:wikidata": "Q100272303",
+        "network": "Mi Bici Tu Bici",
+        "network:wikidata": "Q100272303",
+        "operator": "Municipalidad de Rosario",
+        "operator:type": "government",
+        "operator:wikidata": "Q52535"
+      }
+    },
+    {
+      "displayName": "MiBici",
+      "id": "mibici-e0aaa7",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "MiBici",
+        "brand:wikidata": "Q60966987",
+        "name": "MiBici",
+        "operator": "MiBici",
+        "operator:type": "private",
+        "operator:wikidata": "Q60966987"
+      }
+    },
+    {
+      "displayName": "Mobi",
+      "id": "mobi-3eadaa",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Mobi",
+        "brand:wikidata": "Q26211470",
+        "network": "Mobi",
+        "network:wikidata": "Q26211470",
+        "operator": "CycleHop",
+        "operator:type": "private",
+        "operator:wikidata": "Q65121017"
+      }
+    },
+    {
+      "displayName": "MOBIbike",
+      "id": "mobibike-f08202",
+      "locationSet": {
+        "include": [[13.74, 51.05, 15]]
+      },
+      "matchNames": ["sz-bike"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "MOBIbike",
+        "brand:wikidata": "Q117301867",
+        "network": "MOBIbike",
+        "network:wikidata": "Q117301867",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "MoGo",
+      "id": "mogo-e32d72",
+      "locationSet": {
+        "include": ["us-mi.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "MoGo",
+        "brand:wikidata": "Q121356981",
+        "network": "MoGo",
+        "network:wikidata": "Q121356981"
+      }
+    },
+    {
+      "displayName": "MOL Bubi",
+      "id": "molbubi-7b42f4",
+      "locationSet": {"include": ["hu"]},
+      "matchNames": ["bubi"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "MOL Bubi",
+        "brand:wikidata": "Q16971969",
+        "network": "MOL Bubi",
+        "network:wikidata": "Q16971969",
+        "operator": "BKK",
+        "operator:type": "public",
+        "operator:wikidata": "Q608917"
+      }
+    },
+    {
+      "displayName": "Monopattini Elettrici BIT Mobility La Spezia",
+      "id": "monopattinielettricibitmobilitylaspezia-3d5df6",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Monopattini Elettrici BIT Mobility La Spezia",
+        "network": "Monopattini Elettrici BIT Mobility La Spezia",
+        "operator": "BIT Mobility",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Moovo",
+      "id": "moovo-1bb859",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Moovo",
+        "brand:wikidata": "Q137009735",
+        "network": "Moovo",
+        "network:wikidata": "Q137009735"
+      }
+    },
+    {
+      "displayName": "MuyBici",
+      "id": "muybici-12e11f",
+      "locationSet": {
+        "include": ["es-mu.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "MuyBici",
+        "network": "MuyBici",
+        "operator": "UTE MuyBici servicio público de transporte con bicicleta de Murcia",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "MvBike",
+      "id": "mvbike-63ec60",
+      "locationSet": {"include": ["hu", "sk"]},
+      "note": "ISO 3166-2 SK-NI",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "MvBike",
+        "network": "MvBike",
+        "operator": "T-Systems",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "MVG Rad",
+      "id": "mvgrad-122f49",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "matchNames": ["mvg"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "MVG Rad",
+        "brand:wikidata": "Q67874919",
+        "network": "MVG Rad",
+        "network:wikidata": "Q67874919",
+        "operator": "Münchner Verkehrsgesellschaft",
+        "operator:type": "private",
+        "operator:wikidata": "Q456402"
+      }
+    },
+    {
+      "displayName": "MVGmeinRad",
+      "id": "mvgmeinrad-db5602",
+      "locationSet": {
+        "include": [
+          "de-he.geojson",
+          "de-rp.geojson"
+        ]
+      },
+      "matchNames": ["meinrad"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "MVGmeinRad",
+        "brand:wikidata": "Q14541300",
+        "network": "MVGmeinRad",
+        "network:wikidata": "Q14541300",
+        "operator": "Mainzer Verkehrsgesellschaft",
+        "operator:type": "private",
+        "operator:wikidata": "Q1885780"
+      }
+    },
+    {
+      "displayName": "Naolib Vélo",
+      "id": "naolibvelo-fb0739",
+      "locationSet": {"include": [[-1.6, 47.2]]},
+      "matchNames": ["bicloo"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Naolib Vélo",
+        "brand:wikidata": "Q2901638",
+        "network": "Naolib Vélo",
+        "network:wikidata": "Q2901638",
+        "operator": "Cyclocity",
+        "operator:type": "private",
+        "operator:wikidata": "Q3008464"
+      }
+    },
+    {
+      "displayName": "nextbike (Česko)",
+      "id": "nextbike-2a6f5f",
+      "locationSet": {"include": ["cz"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "nextbike",
+        "brand:wikidata": "Q2351279",
+        "operator": "nextbike Czech Republic",
+        "operator:type": "private",
+        "operator:wikidata": "Q88977496"
+      }
+    },
+    {
+      "displayName": "nextbike (Slovensko)",
+      "id": "nextbike-3e2129",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "nextbike",
+        "brand:wikidata": "Q2351279",
+        "operator": "nextbike Slovakia",
+        "operator:type": "private",
+        "operator:wikidata": "Q141402439"
+      }
+    },
+    {
+      "displayName": "nextbike (Україна)",
+      "id": "nextbike-a162ac",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": [
+        "nextbike ukraine",
+        "nextbike ukraine llc"
+      ],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "nextbike",
+        "brand:en": "nextbike",
+        "brand:uk": "Некстбайк",
+        "brand:wikidata": "Q2351279",
+        "network": "nextbike",
+        "network:en": "nextbike",
+        "network:uk": "Некстбайк",
+        "network:wikidata": "Q2351279",
+        "operator": "ТОВ Некстбайк Україна",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "nextbike Berlin",
+      "id": "nextbike-aad226",
+      "locationSet": {
+        "include": ["de-be.geojson"]
+      },
+      "matchNames": [
+        "deezer nextbike",
+        "edeka nextbike"
+      ],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "nextbike",
+        "brand:wikidata": "Q2351279",
+        "network": "nextbike Berlin",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "nextbike Cyprus",
+      "id": "nextbike-063331",
+      "locationSet": {"include": ["cy"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "nextbike",
+        "brand:wikidata": "Q2351279",
+        "network": "nextbike Cyprus",
+        "operator": "nextbike Cy Ltd",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "nextbike Niederösterreich",
+      "id": "nextbikeniederosterreich-17b656",
+      "locationSet": {
+        "include": ["at-3.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "nextbike Niederösterreich",
+        "brand:wikidata": "Q121951638",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "Nowodworski Rower Miejski",
+      "id": "nowodworskirowermiejski-33ce79",
+      "locationSet": {
+        "include": ["pl-14.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Nowodworski Rower Miejski",
+        "brand:wikidata": "Q119106271",
+        "operator": "Roovee",
+        "operator:type": "private",
+        "operator:wikidata": "Q60860205"
+      }
+    },
+    {
+      "displayName": "OK bike!",
+      "id": "okbike-876d5e",
+      "locationSet": {
+        "include": [[18.2109594, 50.3448836]]
+      },
+      "note": "Kędzierzyn-Koźle in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "OK bike!",
+        "network": "OK bike!",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Olbike",
+      "id": "olbike-843f86",
+      "locationSet": {
+        "include": ["pl-02.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Olbike",
+        "brand:wikidata": "Q119106482",
+        "operator": "Roovee",
+        "operator:type": "private",
+        "operator:wikidata": "Q60860205"
+      }
+    },
+    {
+      "displayName": "Oleski Rower Miejski",
+      "id": "oleskirowermiejski-7aad7f",
+      "locationSet": {
+        "include": [[18.4219452, 50.8766575]]
+      },
+      "note": "Olesno in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Oleski Rower Miejski",
+        "brand:wikidata": "Q117113737",
+        "network": "Oleski Rower Miejski",
+        "network:wikidata": "Q117113737",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Olsztyński Rower Miejski",
+      "id": "olsztynskirowermiejski-43745b",
+      "locationSet": {
+        "include": [[20.476507, 53.7766839]]
+      },
+      "note": "Olsztyn in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Olsztyński Rower Miejski",
+        "network": "Olsztyński Rower Miejski",
+        "operator": "Roovee",
+        "operator:type": "private",
+        "operator:wikidata": "Q60860205"
+      }
+    },
+    {
+      "displayName": "Optymo",
+      "id": "optymo-d06f5d",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Optymo",
+        "network": "Optymo",
+        "operator": "RTTB",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Ostro.bike",
+      "id": "ostrobike-33ce79",
+      "locationSet": {
+        "include": ["pl-14.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Ostro.bike",
+        "brand:wikidata": "Q119105036",
+        "operator": "Roovee",
+        "operator:type": "private",
+        "operator:wikidata": "Q60860205"
+      }
+    },
+    {
+      "displayName": "Ostrowski Rower Miejski",
+      "id": "ostrowskirowermiejski-4d145c",
+      "locationSet": {"include": ["pl"]},
+      "note": "ISO 3166-2 PL-30",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Ostrowski Rower Miejski",
+        "network": "Ostrowski Rower Miejski",
+        "operator": "Miejski Zakład Komunikacji",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "OV-fiets",
+      "id": "ovfiets-8def75",
+      "locationSet": {"include": ["nl"]},
+      "matchNames": ["ns"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "OV-fiets",
+        "brand:wikidata": "Q2629982",
+        "name": "OV-fiets",
+        "network": "OV-fiets",
+        "network:wikidata": "Q2629982",
+        "operator": "Nederlandse Spoorwegen",
+        "operator:type": "government",
+        "operator:wikidata": "Q23076"
+      }
+    },
+    {
+      "displayName": "OVO Bikes Glasgow",
+      "id": "ovobikes-d1798e",
+      "locationSet": {
+        "include": ["gb-glg.geojson"]
+      },
+      "matchNames": ["nextbike glasgow"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "OVO Bikes",
+        "brand:wikidata": "Q120450856",
+        "network": "nextbike",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "Oxonbikes",
+      "id": "oxonbikes-b88dc4",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Oxonbikes",
+        "network": "Oxonbikes",
+        "operator": "GSBikeshare",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Pace",
+      "id": "pace-dea21e",
+      "locationSet": {
+        "include": ["us-nm.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Pace",
+        "network": "Pace"
+      }
+    },
+    {
+      "displayName": "Pbike",
+      "id": "pbike-1bb859",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Pbike",
+        "network": "Pbike",
+        "operator": "高雄捷運股份有限公司",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "PeaceHealth Rides",
+      "id": "peacehealthrides-f8e6b8",
+      "locationSet": {
+        "include": ["us-or.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "PeaceHealth Rides",
+        "brand:wikidata": "Q115393175",
+        "fee": "yes",
+        "name": "PeaceHealth Rides",
+        "network": "PeaceHealth Rides",
+        "network:wikidata": "Q115393175",
+        "operator": "Cascadia Mobility",
+        "operator:type": "private",
+        "operator:wikidata": "Q115393310"
+      }
+    },
+    {
+      "displayName": "Piaseczyński Rower Miejski",
+      "id": "piaseczynskirowermiejski-29ca42",
+      "locationSet": {
+        "include": [[21.0270885, 52.0747377, 5]]
+      },
+      "note": "Piaseczno in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Piaseczyński Rower Miejski",
+        "brand:wikidata": "Q117112983",
+        "network": "Piaseczyński Rower Miejski",
+        "network:wikidata": "Q117112983",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "PikeRide",
+      "id": "pikeride-815af2",
+      "locationSet": {
+        "include": ["us-co.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "PikeRide",
+        "name": "PikeRide",
+        "operator": "PikeRide",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Pilsen Bike",
+      "id": "pilsenbike-143d02",
+      "locationSet": {
+        "include": ["cz-32.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Pilsen Bike",
+        "brand:wikidata": "Q138580074",
+        "operator": "Plzeňské městské dopravní podniky",
+        "operator:short": "PMDP",
+        "operator:type": "public",
+        "operator:wikidata": "Q2099900"
+      }
+    },
+    {
+      "displayName": "Piotrkowski Rower Miejski",
+      "id": "piotrkowskirowermiejski-72061f",
+      "locationSet": {
+        "include": [[19.696167, 51.4082625]]
+      },
+      "note": "Piotrków Trybunalski in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Piotrkowski Rower Miejski",
+        "brand:wikidata": "Q117113123",
+        "network": "Piotrkowski Rower Miejski",
+        "network:wikidata": "Q117113123",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Płocki Rower Miejski",
+      "id": "plockirowermiejski-efb91b",
+      "locationSet": {
+        "include": [[19.7008606, 52.5464521]]
+      },
+      "note": "Płock in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Płocki Rower Miejski",
+        "network": "Płocki Rower Miejski",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Pobiedziski Rower Gminny",
+      "id": "pobiedziskirowergminny-ebaf65",
+      "locationSet": {
+        "include": [[17.2870352, 52.4773387, 5]]
+      },
+      "note": "Pobiedziska in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Pobiedziski Rower Gminny",
+        "brand:wikidata": "Q117113080",
+        "network": "Pobiedziski Rower Gminny",
+        "network:wikidata": "Q117113080",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "POGOH",
+      "id": "pogoh-d5d8a9",
+      "locationSet": {
+        "include": ["us-pa.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "POGOH",
+        "network": "POGOH",
+        "operator": "Bike Share Pittsburgh",
+        "operator:type": "private_non_profit"
+      }
+    },
+    {
+      "displayName": "PotsdamRad",
+      "id": "potsdamrad-5a761a",
+      "locationSet": {
+        "include": [[13.06, 52.4, 15]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "PotsdamRad",
+        "brand:wikidata": "Q117301951",
+        "network": "PotsdamRad",
+        "network:wikidata": "Q117301951",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "Powiatowy System Rowerowy",
+      "id": "powiatowysystemrowerowy-0859d0",
+      "locationSet": {
+        "include": [[22.2525679, 52.4081717]]
+      },
+      "note": "Sokołów Podlaski in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Powiatowy System Rowerowy",
+        "brand:wikidata": "Q117114457",
+        "network": "Powiatowy System Rowerowy",
+        "network:wikidata": "Q117114457",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Poznański Rower Miejski",
+      "id": "poznanskirowermiejski-d26233",
+      "locationSet": {
+        "include": [[16.9335199, 52.4082663]]
+      },
+      "note": "Poznań in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Poznański Rower Miejski",
+        "brand:wikidata": "Q11826173",
+        "network": "Poznański Rower Miejski",
+        "network:wikidata": "Q11826173",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "PubliBike Velospot (Agglo Fribourg-Freiburg)",
+      "id": "publibikevelospot-53b479",
+      "locationSet": {
+        "include": [[7.15, 46.8, 5]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "PubliBike Velospot",
+        "brand:wikidata": "Q138003595",
+        "network": "Agglo Fribourg-Freiburg",
+        "operator": "PubliBike AG",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363"
+      }
+    },
+    {
+      "displayName": "PubliBike Velospot (Lugano-Malcantone)",
+      "id": "publibikevelospot-0bf680",
+      "locationSet": {
+        "include": [[8.95, 45.94, 16]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "PubliBike Velospot",
+        "brand:wikidata": "Q138003595",
+        "network": "Lugano-Malcantone",
+        "operator": "PubliBike AG",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363"
+      }
+    },
+    {
+      "displayName": "PubliBike Velospot (Region Bern)",
+      "id": "publibikevelospot-a8de7e",
+      "locationSet": {
+        "include": [[7.45, 46.95, 10]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "PubliBike Velospot",
+        "brand:wikidata": "Q138003595",
+        "network": "Velo Region Bern",
+        "operator": "PubliBike AG",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363"
+      }
+    },
+    {
+      "displayName": "PubliBike Velospot (Région de Nyon)",
+      "id": "publibikevelospot-61be25",
+      "locationSet": {
+        "include": [[6.23, 46.38, 17]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "PubliBike Velospot",
+        "brand:wikidata": "Q138003595",
+        "network": "Région de Nyon",
+        "operator": "PubliBike AG",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363"
+      }
+    },
+    {
+      "displayName": "PubliBike Velospot (Sierre)",
+      "id": "publibikevelospot-04d31e",
+      "locationSet": {
+        "include": [[7.53, 46.29, 5]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "PubliBike Velospot",
+        "brand:wikidata": "Q138003595",
+        "network": "Sierre",
+        "operator": "PubliBike AG",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363"
+      }
+    },
+    {
+      "displayName": "PubliBike Velospot (Sion)",
+      "id": "publibikevelospot-31ea02",
+      "locationSet": {
+        "include": [[7.36, 46.22, 5]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "PubliBike Velospot",
+        "brand:wikidata": "Q138003595",
+        "network": "Sion",
+        "operator": "PubliBike AG",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363"
+      }
+    },
+    {
+      "displayName": "Radomski Rower Miejski",
+      "id": "radomskirowermiejski-461f72",
+      "locationSet": {
+        "include": [[21.1541546, 51.4022557]]
+      },
+      "note": "Radom in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Radomski Rower Miejski",
+        "network": "Radomski Rower Miejski",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Rattaringlus",
+      "id": "rattaringlus-901243",
+      "locationSet": {"include": ["ee"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Rattaringlus",
+        "network": "Rattaringlus"
+      }
+    },
+    {
+      "displayName": "Red Bike",
+      "id": "redbike-fb884c",
+      "locationSet": {
+        "include": [
+          "us-ky.geojson",
+          "us-oh.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Red Bike",
+        "brand:wikidata": "Q18393750",
+        "network": "Red Bike",
+        "network:wikidata": "Q18393750",
+        "operator": "BCycle",
+        "operator:type": "private",
+        "operator:wikidata": "Q4833723"
+      }
+    },
+    {
+      "displayName": "RegioRad Stuttgart",
+      "id": "regioradstuttgart-8f14ce",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "RegioRad Stuttgart",
+        "brand:wikidata": "Q57274085",
+        "network": "RegioRad Stuttgart",
+        "network:wikidata": "Q57274085",
+        "operator": "Deutsche Bahn Connect",
+        "operator:type": "private",
+        "operator:wikidata": "Q1152100"
+      }
+    },
+    {
+      "displayName": "Rekola",
+      "id": "rekola-606a42",
+      "locationSet": {
+        "include": ["cz", "ee", "sk"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Rekola",
+        "brand:wikidata": "Q24576372",
+        "network": "Rekola",
+        "network:wikidata": "Q24576372"
+      }
+    },
+    {
+      "displayName": "Relay Bike Share",
+      "id": "relaybikeshare-70c51d",
+      "locationSet": {
+        "include": ["us-ga.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Relay Bike Share",
+        "brand:wikidata": "Q48798195",
+        "network": "Relay Bike Share",
+        "network:wikidata": "Q48798195",
+        "operator": "CycleHop",
+        "operator:type": "private",
+        "operator:wikidata": "Q65121017"
+      }
+    },
+    {
+      "displayName": "Rowerowe Łódzkie",
+      "id": "rowerowelodzkie-c9f23b",
+      "locationSet": {
+        "include": ["pl-10.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Rowerowe Łódzkie",
+        "network": "Rowerowe Łódzkie",
+        "operator": "NB Serwis",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "RTC Bike Share",
+      "id": "rtcbikeshare-91e721",
+      "locationSet": {
+        "include": ["us-nv.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "RTC Bike Share",
+        "brand:wikidata": "Q104727968",
+        "network": "RTC Bike Share",
+        "network:wikidata": "Q104727968",
+        "operator": "Bicycle Transit Systems",
+        "operator:type": "private",
+        "operator:wikidata": "Q104005517"
+      }
+    },
+    {
+      "displayName": "RVA Bike Share",
+      "id": "rvabikeshare-794704",
+      "locationSet": {
+        "include": ["us-va.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "RVA Bike Share",
+        "network": "RVA Bike Share"
+      }
+    },
+    {
+      "displayName": "SalEnBici",
+      "id": "salenbici-428772",
+      "locationSet": {
+        "include": ["es-sa.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "SalEnBici",
+        "brand:wikidata": "Q6117221",
+        "network": "SalEnBici",
+        "operator": "Onroll",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Santander Cycles (Brunel)",
+      "id": "santandercycles-977a2d",
+      "locationSet": {
+        "include": [[-0.4602, 51.5345, 5]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Santander Cycles",
+        "brand:wikidata": "Q807961",
+        "network": "nextbike",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "Santander Cycles (London)",
+      "id": "santandercycles-fa09d1",
+      "locationSet": {
+        "include": ["london-cycles.geojson"]
+      },
+      "matchNames": [
+        "barclays bikes",
+        "barclays cycle hire",
+        "boris bike",
+        "boris bikes"
+      ],
+      "note": "Formerly sponsered by 'Barclays Bank', hence the matchNames.",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Santander Cycles",
+        "brand:wikidata": "Q807961",
+        "network": "tfl_cycle_hire",
+        "operator": "Serco",
+        "operator:type": "private",
+        "operator:wikidata": "Q499104"
+      }
+    },
+    {
+      "displayName": "Santander Cycles (Milton Keynes)",
+      "id": "santandercyclesmk-a6b443",
+      "locationSet": {
+        "include": ["miltonkeynes-cycles.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Santander Cycles MK",
+        "brand:wikidata": "Q807961",
+        "network": "Santander Cycles MK",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "Santander Cycles (Swansea)",
+      "id": "santandercycles-61a333",
+      "locationSet": {"include": ["gb-wls"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Santander Cycles",
+        "brand:wikidata": "Q807961",
+        "network": "nextbike",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "Ścinawski Rower Miejski",
+      "id": "scinawskirowermiejski-843f86",
+      "locationSet": {
+        "include": ["pl-02.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Ścinawski Rower Miejski",
+        "brand:wikidata": "Q119106786",
+        "operator": "Roovee",
+        "operator:type": "private",
+        "operator:wikidata": "Q60860205"
+      }
+    },
+    {
+      "displayName": "Sevici",
+      "id": "sevici-e72e4e",
+      "locationSet": {"include": [[-6, 37.4]]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Sevici",
+        "brand:wikidata": "Q3459493",
+        "network": "Sevici",
+        "network:wikidata": "Q3459493",
+        "operator": "Cyclocity",
+        "operator:type": "private",
+        "operator:wikidata": "Q3008464"
+      }
+    },
+    {
+      "displayName": "Shymkent Bike",
+      "id": "shymkentbike-8e16ae",
+      "locationSet": {"include": ["kz"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Shymkent Bike",
+        "network": "Shymkent Bike"
+      }
+    },
+    {
+      "displayName": "sigo E-Lastenrad Sharing",
+      "id": "sigo-937152",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "sigo e-lastenrad sharing",
+        "sigo e-lastenrad standort"
+      ],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "sigo",
+        "brand:wikidata": "Q109659526",
+        "network": "sigo",
+        "network:wikidata": "Q109659526",
+        "operator": "sigo",
+        "operator:type": "private",
+        "operator:wikidata": "Q109659526"
+      }
+    },
+    {
+      "displayName": "SiPedala",
+      "id": "sipedala-aab06d",
+      "locationSet": {
+        "include": [[11.33, 43.32, 15]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "SiPedala",
+        "network": "SiPedala",
+        "operator": "BicinCittà",
+        "operator:type": "private",
+        "operator:wikidata": "Q108937937"
+      }
+    },
+    {
+      "displayName": "Sitycleta",
+      "id": "sitycleta-61961e",
+      "locationSet": {"include": ["ic"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Sitycleta",
+        "network": "Sitycleta",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "Slovnaft Bajk",
+      "id": "slovnaftbajk-f3515a",
+      "locationSet": {
+        "include": ["sk-bl.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Slovnaft Bajk",
+        "brand:wikidata": "Q56823119",
+        "network": "Slovnaft Bajk",
+        "network:wikidata": "Q56823119",
+        "operator": "Slovnaft Mobility Services, s.r.o.",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "SMTC",
+      "id": "smtc-d06f5d",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "SMTC",
+        "network": "SMTC",
+        "operator": "Velogik",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "SprottenFlotte",
+      "id": "sprottenflotte-59d33b",
+      "locationSet": {
+        "include": ["de-sh.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "SprottenFlotte",
+        "brand:wikidata": "Q117301972",
+        "network": "SprottenFlotte",
+        "network:wikidata": "Q117301972",
+        "operator": "Donkey Republic",
+        "operator:type": "private",
+        "operator:wikidata": "Q63753939"
+      }
+    },
+    {
+      "displayName": "SRM Jaskółka",
+      "id": "srmjaskolka-4d145c",
+      "locationSet": {"include": ["pl"]},
+      "note": "ISO 3166-2 PL-24",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "SRM Jaskółka",
+        "brand:wikidata": "Q119107871",
+        "network": "SRM Jaskółka",
+        "network:wikidata": "Q119107871",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q60860205"
+      }
+    },
+    {
+      "displayName": "StadtRAD Hamburg",
+      "id": "stadtradhamburg-a251e2",
+      "locationSet": {
+        "include": ["de-hh.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Stadtrad Hamburg",
+        "brand:wikidata": "Q2326366",
+        "network": "stadtradhamburg",
+        "network:wikidata": "Q2326366",
+        "operator": "Deutsche Bahn Connect GmbH",
+        "operator:type": "private",
+        "operator:wikidata": "Q1152100"
+      }
+    },
+    {
+      "displayName": "Stalowa Wola – miasto rowerów",
+      "id": "stalowawolamiastorowerow-4d145c",
+      "locationSet": {"include": ["pl"]},
+      "note": "ISO 3166-2 PL-18",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Stalowa Wola – miasto rowerów",
+        "brand:wikidata": "Q119106668",
+        "network": "Stalowa Wola – miasto rowerów",
+        "network:wikidata": "Q119106668",
+        "operator": "Roovee",
+        "operator:type": "private",
+        "operator:wikidata": "Q60860205"
+      }
+    },
+    {
+      "displayName": "STAR",
+      "id": "star-d06f5d",
+      "locationSet": {"include": ["fx"]},
+      "matchNames": ["star, le vélo"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "STAR",
+        "brand:wikidata": "Q510020",
+        "network": "STAR",
+        "network:wikidata": "Q510020",
+        "operator": "Cykleo",
+        "operator:type": "private",
+        "operator:wikidata": "Q109250587"
+      }
+    },
+    {
+      "displayName": "Stockholm City Bikes",
+      "id": "stockholmcitybikes-bc0237",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Stockholm City Bikes",
+        "brand:wikidata": "Q7618000",
+        "network": "Stockholm City Bikes",
+        "network:wikidata": "Q7618000",
+        "operator": "City Bikes",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Styr & Ställ",
+      "id": "styrandstall-bc0237",
+      "locationSet": {"include": ["se"]},
+      "matchNames": ["styr & ställ göteborg"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Styr & Ställ",
+        "brand:wikidata": "Q6198848",
+        "network": "Styr & Ställ",
+        "network:wikidata": "Q6198848",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "Südtirol Rad",
+      "id": "sudtirolrad-3d5df6",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Südtirol Rad",
+        "brand:de": "Südtirol Rad",
+        "brand:it": "Bici Alto Adige",
+        "brand:wikidata": "Q139559068",
+        "network": "Südtirol Rad",
+        "network:de": "Südtirol Rad",
+        "network:it": "Bici Alto Adige",
+        "network:wikidata": "Q139559068",
+        "operator": "Südtirol Rad",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "SUWER",
+      "id": "suwer-477634",
+      "locationSet": {
+        "include": ["pl-20.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "SUWER",
+        "brand:wikidata": "Q119104601",
+        "operator": "Roovee",
+        "operator:type": "private",
+        "operator:wikidata": "Q60860205"
+      }
+    },
+    {
+      "displayName": "Swapfiets",
+      "id": "swapfiets-76ee17",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "de",
+          "dk",
+          "es",
+          "fr",
+          "gb",
+          "it",
+          "nl"
+        ]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Swapfiets",
+        "brand:wikidata": "Q62104374",
+        "name": "Swapfiets",
+        "network": "Swapfiets",
+        "network:wikidata": "Q62104374",
+        "operator": "Swapfiets",
+        "operator:type": "private",
+        "operator:wikidata": "Q62104374"
+      }
+    },
+    {
+      "displayName": "SWell Cycle",
+      "id": "swellcycle-c8e513",
+      "locationSet": {
+        "include": ["us-tx.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "SWell Cycle",
+        "network": "SWell Cycle",
+        "operator": "BCycle",
+        "operator:type": "private",
+        "operator:wikidata": "Q4833723"
+      }
+    },
+    {
+      "displayName": "Sykkeli",
+      "id": "sykkeli-5c40d5",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Sykkeli",
+        "network": "Sykkeli"
+      }
+    },
+    {
+      "displayName": "Szczecinecka Wypożyczalnia Rowerów Miejskich",
+      "id": "szczecineckawypozyczalniarowerowmiejskich-fc4e11",
+      "locationSet": {
+        "include": ["pl-32.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Szczecinecka Wypożyczalnia Rowerów Miejskich",
+        "network": "Szczecinecka Wypożyczalnia Rowerów Miejskich",
+        "operator": "Komunikacja Miejska w Szczecinku",
+        "operator:type": "public",
+        "operator:wikidata": "Q11742146"
+      }
+    },
+    {
+      "displayName": "Taipei City Government",
+      "id": "taipeicitygovernment-1bb859",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Taipei City Government",
+        "brand:wikidata": "Q9105560",
+        "name": "Taipei City Government",
+        "operator": "Taipei City Government",
+        "operator:type": "government"
+      }
+    },
+    {
+      "displayName": "Tar Heel Bikes",
+      "id": "tarheelbikes-b77896",
+      "locationSet": {
+        "include": ["us-nc.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Tar Heel Bikes",
+        "brand:wikidata": "Q63977703",
+        "network": "Tar Heel Bikes",
+        "network:wikidata": "Q63977703",
+        "operator": "Gotcha Bikes",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Tarnowski Rower Miejski",
+      "id": "tarnowskirowermiejski-77a81f",
+      "locationSet": {
+        "include": [[20.9880739, 50.0123784]]
+      },
+      "note": "Tarnów in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Tarnowski Rower Miejski",
+        "brand:wikidata": "Q117113400",
+        "network": "Tarnowski Rower Miejski",
+        "network:wikidata": "Q117113400",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Tashu",
+      "id": "tashu-3cba94",
+      "locationSet": {"include": ["kr"]},
+      "matchNames": ["http://www.ta-shu.com"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Tashu",
+        "network": "Tashu"
+      }
+    },
+    {
+      "displayName": "TBike",
+      "id": "tbike-1bb859",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "TBike",
+        "network": "TBike",
+        "operator": "臺南市政府交通局",
+        "operator:type": "public"
+      }
+    },
+    {
+      "displayName": "Tel-O-Fun",
+      "id": "telofun-ea041a",
+      "locationSet": {"include": ["il"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Tel-O-Fun",
+        "brand:wikidata": "Q2915180",
+        "network": "Tel-O-Fun",
+        "network:wikidata": "Q2915180",
+        "operator": "FSM",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Tembici Colombia",
+      "id": "tembicicolombia-2d08e5",
+      "locationSet": {"include": ["co"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Tembici Colombia",
+        "brand:wikidata": "Q137163067",
+        "operator": "M1 Transportes Sustentaveis Sucursal Colombia LTDA",
+        "operator:wikidata": "Q137163064"
+      }
+    },
+    {
+      "displayName": "TFI Bikes",
+      "id": "tfibikes-afbce7",
+      "locationSet": {"include": ["ie"]},
+      "matchNames": [
+        "coca-cola zero bikes",
+        "coca-cola zero® bikes"
+      ],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "TFI Bikes",
+        "brand:wikidata": "Q111223030",
+        "network": "TFI Bikes",
+        "operator": "An Rothar Nua",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "TINK",
+      "id": "tink-937152",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["tink konstanz"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "TINK",
+        "brand:wikidata": "Q130301909",
+        "network": "TINK"
+      }
+    },
+    {
+      "displayName": "TNGo",
+      "id": "tngo-a2c8f4",
+      "locationSet": {"include": ["vn"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "TNGo",
+        "name": "TNGo"
+      }
+    },
+    {
+      "displayName": "Torrebici",
+      "id": "torrebici-a485b3",
+      "locationSet": {
+        "include": ["es-s.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Torrebici",
+        "brand:wikidata": "Q117074164",
+        "fee": "yes",
+        "name": "Torrebici",
+        "network": "Torrebici",
+        "network:wikidata": "Q117074164",
+        "operator": "Movilidad Urbana Sostenible SL",
+        "operator:short": "MOVUS",
+        "operator:type": "private",
+        "operator:wikidata": "Q117079539",
+        "rental": "ebike"
+      }
+    },
+    {
+      "displayName": "Torvelo",
+      "id": "torvelo-4d145c",
+      "locationSet": {"include": ["pl"]},
+      "note": "ISO 3166-2 PL-04",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Torvelo",
+        "brand:wikidata": "Q19947082",
+        "network": "Torvelo",
+        "network:wikidata": "Q19947082",
+        "operator": "BikeU",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Trondheim Bysykkel",
+      "id": "trondheimbysykkel-e79826",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Trondheim Bysykkel",
+        "network": "Trondheim Bysykkel",
+        "operator": "UIP Trondheim Bysykkel AS",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "TusBic",
+      "id": "tusbic-a485b3",
+      "locationSet": {
+        "include": ["es-s.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "TusBic",
+        "network": "TusBic"
+      }
+    },
+    {
+      "displayName": "twsRad",
+      "id": "twsrad-8f14ce",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "matchNames": ["tws"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "twsRad",
+        "brand:wikidata": "Q130301986",
+        "network": "twsRad",
+        "operator": "Technische Werke Schussental",
+        "operator:type": "public",
+        "operator:wikidata": "Q2399365"
+      }
+    },
+    {
+      "displayName": "U-bike",
+      "id": "ubike-3cba94",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "U-bike",
+        "network": "U-bike"
+      }
+    },
+    {
+      "displayName": "UDINebike",
+      "id": "udinebike-3d5df6",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "UDINebike",
+        "network": "UDINebike",
+        "operator": "SSM & Comune di Udine",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "UMAbike",
+      "id": "umabike-c7dd41",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "UMAbike",
+        "network": "UMAbike",
+        "operator": "UFSM",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Urban Infrastructure Partner AS",
+      "id": "urbaninfrastructurepartneras-e79826",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Urban Infrastructure Partner AS",
+        "name": "Urban Infrastructure Partner AS",
+        "operator": "Urban Infrastructure Partner AS",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "UsedomRad",
+      "id": "usedomrad-174ffd",
+      "locationSet": {
+        "include": ["de-mv.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "UsedomRad",
+        "brand:wikidata": "Q117302003",
+        "network": "UsedomRad",
+        "network:wikidata": "Q117302003",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "V'Lille",
+      "id": "vlille-d06f5d",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "V'Lille",
+        "brand:wikidata": "Q3552843",
+        "network": "V'Lille",
+        "network:wikidata": "Q3552843",
+        "operator": "Cykleo",
+        "operator:type": "private",
+        "operator:wikidata": "Q109250587"
+      }
+    },
+    {
+      "displayName": "VAG_Rad",
+      "id": "vagrad-55ffd4",
+      "locationSet": {
+        "include": [[11.08, 49.45, 15]]
+      },
+      "matchNames": ["norisbike"],
+      "note": "underscore character is part of the name",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "VAG_Rad",
+        "brand:wikidata": "Q100455836",
+        "network": "VAG_Rad",
+        "network:wikidata": "Q100455836",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "Valenbisi",
+      "id": "valenbisi-630ce5",
+      "locationSet": {"include": [[-0.3, 39.5]]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Valenbisi",
+        "brand:wikidata": "Q9092320",
+        "network": "Valenbisi",
+        "network:wikidata": "Q9092320",
+        "operator": "Cyclocity",
+        "operator:type": "private",
+        "operator:wikidata": "Q3008464"
+      }
+    },
+    {
+      "displayName": "ValleyBike",
+      "id": "valleybike-b3cb11",
+      "locationSet": {
+        "include": ["us-ma.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "ValleyBike",
+        "brand:wikidata": "Q136368631",
+        "name": "ValleyBike",
+        "network": "ValleyBike",
+        "network:wikidata": "Q136368631",
+        "operator": "Drop Mobility",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "VCUB",
+      "id": "vcub-d06f5d",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "VCUB",
+        "brand:wikidata": "Q3552899",
+        "network": "VCUB",
+        "network:wikidata": "Q3552899",
+        "operator": "Cykleo",
+        "operator:type": "private",
+        "operator:wikidata": "Q109250587"
+      }
+    },
+    {
+      "displayName": "Vel'in",
+      "id": "velin-202421",
+      "locationSet": {
+        "include": [[1.8481, 50.9531]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Vel'in",
+        "brand:wikidata": "Q3555276",
+        "network": "Vel'in",
+        "network:wikidata": "Q3555276",
+        "operator": "SITAC",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Vel'oh!",
+      "id": "veloh-5de2c3",
+      "locationSet": {"include": ["lu"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Vel'oh!",
+        "brand:wikidata": "Q16764959",
+        "network": "Vel'oh!",
+        "network:wikidata": "Q16764959",
+        "operator": "Cyclocity",
+        "operator:type": "private",
+        "operator:wikidata": "Q3008464"
+      }
+    },
+    {
+      "displayName": "Vélam",
+      "id": "velam-7193ba",
+      "locationSet": {"include": [[2.3, 49.9]]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Vélam",
+        "brand:wikidata": "Q3564038",
+        "network": "Vélam",
+        "operator": "Cyclocity",
+        "operator:type": "private",
+        "operator:wikidata": "Q3008464"
+      }
+    },
+    {
+      "displayName": "Velektro",
+      "id": "velektro-d06f5d",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Velektro",
+        "name": "Velektro",
+        "operator": "LTC",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Velespeed Lefkoşa",
+      "id": "velespeedlefkosa-383c4a",
+      "locationSet": {
+        "include": ["northern cyprus"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Velespeed Lefkoşa",
+        "network": "Velespeed Lefkoşa",
+        "operator": "Lefkoşa Türk Belediyesi",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Vélhop",
+      "id": "velhop-f1e41c",
+      "locationSet": {
+        "include": [[7.75, 48.583328, 20]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Vélhop",
+        "brand:wikidata": "Q3564044",
+        "network": "Vélhop",
+        "operator": "Strasbourg Mobilités",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Vélib' Métropole",
+      "id": "velibmetropole-d44bc5",
+      "locationSet": {
+        "include": [[2.2869, 48.8588]]
+      },
+      "matchNames": ["vélib'"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Vélib' Métropole",
+        "brand:wikidata": "Q1120762",
+        "network": "Vélib' Métropole",
+        "network:wikidata": "Q1120762",
+        "operator": "Smovengo",
+        "operator:type": "private",
+        "operator:wikidata": "Q47008427"
+      }
+    },
+    {
+      "displayName": "Vélibleu",
+      "id": "velibleu-d06f5d",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Vélibleu",
+        "network": "Vélibleu",
+        "operator": "Txik Txak",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "VéliVert",
+      "id": "velivert-6ee7c4",
+      "locationSet": {
+        "include": [[4.4268, 45.424]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "VéliVert",
+        "brand:wikidata": "Q3564061",
+        "network": "VéliVert",
+        "network:wikidata": "Q3564061",
+        "operator": "Saint-Étienne Métropole",
+        "operator:type": "government",
+        "operator:wikidata": "Q2986914"
+      }
+    },
+    {
+      "displayName": "Velo",
+      "id": "velo-18cad7",
+      "locationSet": {"include": ["be"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Velo",
+        "brand:wikidata": "Q2413118",
+        "network": "Velo",
+        "network:wikidata": "Q2413118",
+        "operator": "Velo",
+        "operator:type": "private",
+        "operator:wikidata": "Q2413118"
+      }
+    },
+    {
+      "displayName": "Vélo'+",
+      "id": "velo-39016e",
+      "locationSet": {
+        "include": [[1.8522, 47.8735]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Vélo'+",
+        "brand:wikidata": "Q3564059",
+        "network": "Vélo'+",
+        "network:wikidata": "Q3564059",
+        "operator": "Cykleo",
+        "operator:type": "private",
+        "operator:wikidata": "Q109250587"
+      }
+    },
+    {
+      "displayName": "Vélo'v",
+      "id": "velov-59fa9e",
+      "locationSet": {"include": [[4.8, 45.8]]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Vélo'v",
+        "brand:wikidata": "Q4096",
+        "network": "Vélo'v",
+        "network:wikidata": "Q4096",
+        "operator": "Cyclocity",
+        "operator:type": "private",
+        "operator:wikidata": "Q3008464"
+      }
+    },
+    {
+      "displayName": "VélO²",
+      "id": "cyclocity-8aea2a",
+      "locationSet": {
+        "include": [[2.0738, 49.043]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "VélO²",
+        "brand:wikidata": "Q3564030",
+        "network": "VélO²",
+        "network:wikidata": "Q3564030",
+        "operator": "Cyclocity",
+        "operator:type": "private",
+        "operator:wikidata": "Q3008464"
+      }
+    },
+    {
+      "displayName": "Vélobleu",
+      "id": "velobleu-d6bbde",
+      "locationSet": {
+        "include": [[7.2, 43.69, 10]]
+      },
+      "note": "Nice, France",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Vélobleu",
+        "brand:wikidata": "Q3564072",
+        "network": "Vélobleu",
+        "network:wikidata": "Q3564072"
+      }
+    },
+    {
+      "displayName": "VéloCité (Mulhouse)",
+      "id": "velocite-068aec",
+      "locationSet": {"include": [[7.3, 47.8]]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "VéloCité",
+        "brand:wikidata": "Q3564067",
+        "network": "VéloCité",
+        "network:wikidata": "Q3564067",
+        "operator": "Cyclocity",
+        "operator:type": "private",
+        "operator:wikidata": "Q3008464"
+      }
+    },
+    {
+      "displayName": "Velocity Aachen",
+      "id": "velocityaachen-130ced",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Velocity Aachen",
+        "brand:wikidata": "Q102348696",
+        "network": "Velocity Aachen",
+        "network:wikidata": "Q102348696",
+        "operator": "Velocity Aachen",
+        "operator:type": "private",
+        "operator:wikidata": "Q102348696"
+      }
+    },
+    {
+      "displayName": "VELOLEO",
+      "id": "veloleo-497979",
+      "locationSet": {
+        "include": [[10.52, 52.26, 10]]
+      },
+      "matchNames": ["nibelungen bike"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "VELOLEO",
+        "brand:wikidata": "Q117301923",
+        "network": "VELOLEO",
+        "network:wikidata": "Q117301923",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "Vélolib",
+      "id": "velolib-d06f5d",
+      "locationSet": {"include": ["fx"]},
+      "matchNames": ["twisto"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Vélolib",
+        "network": "Vélolib",
+        "operator": "Cykleo",
+        "operator:type": "private",
+        "operator:wikidata": "Q109250587"
+      }
+    },
+    {
+      "displayName": "Vélomagg'",
+      "id": "velomagg-26d0f5",
+      "locationSet": {
+        "include": [[3.9043, 43.61]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Vélomagg'",
+        "brand:wikidata": "Q3564126",
+        "network": "Vélomagg'",
+        "network:wikidata": "Q3564126",
+        "operator": "Transports de l'agglomération de Montpellier",
+        "operator:type": "public"
+      }
+    },
+    {
+      "displayName": "Velospot",
+      "id": "velospot-61df48",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363"
+      }
+    },
+    {
+      "displayName": "vélOstan'lib",
+      "id": "velostanlib-c77569",
+      "locationSet": {"include": [[6.2, 48.7]]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "vélOstan'lib",
+        "brand:wikidata": "Q3564032",
+        "network": "vélOstan'lib",
+        "network:wikidata": "Q3564032",
+        "operator": "Cyclocity",
+        "operator:type": "private",
+        "operator:wikidata": "Q3008464"
+      }
+    },
+    {
+      "displayName": "VeloTM",
+      "id": "velotm-8ba172",
+      "locationSet": {"include": ["ro"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "VeloTM",
+        "network": "VeloTM",
+        "operator": "R.A.T.T.",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "VélôToulouse",
+      "id": "velotoulouse-84a6ff",
+      "locationSet": {"include": [[1.4, 43.6]]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "VélôToulouse",
+        "brand:wikidata": "Q3564141",
+        "network": "VélôToulouse",
+        "network:wikidata": "Q3564141",
+        "operator": "Cyclocity",
+        "operator:type": "private",
+        "operator:wikidata": "Q3008464"
+      }
+    },
+    {
+      "displayName": "Verona Bike",
+      "id": "veronabike-3d5df6",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Verona Bike",
+        "network": "Verona Bike"
+      }
+    },
+    {
+      "displayName": "Veturilo",
+      "id": "veturilo-196f80",
+      "locationSet": {
+        "include": [[21.0067249, 52.2319581, 15]]
+      },
+      "note": "Warszawa in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Veturilo",
+        "brand:wikidata": "Q3847868",
+        "network": "Veturilo",
+        "network:wikidata": "Q3847868",
+        "operator": "Nextbike GZM",
+        "operator:type": "private",
+        "operator:wikidata": "Q127573015"
+      }
+    },
+    {
+      "displayName": "Villo!",
+      "id": "villo-cb30df",
+      "locationSet": {
+        "include": [[4.38, 50.83, 11]]
+      },
+      "note": "Brussels, Belgium",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Villo!",
+        "brand:wikidata": "Q2510744",
+        "network": "Villo!",
+        "network:wikidata": "Q2510744",
+        "operator": "JCDecaux",
+        "operator:type": "private",
+        "operator:wikidata": "Q74877"
+      }
+    },
+    {
+      "displayName": "VRNnextbike",
+      "id": "vrnnextbike-89b565",
+      "locationSet": {
+        "include": [[8.3, 49.49, 50]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "VRNnextbike",
+        "brand:wikidata": "Q72064021",
+        "network": "VRNnextbike",
+        "network:wikidata": "Q72064021",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "Wągrowiecki Rower Miejski",
+      "id": "wagrowieckirowermiejski-4d145c",
+      "locationSet": {"include": ["pl"]},
+      "note": "ISO 3166-2 PL-30",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Wągrowiecki Rower Miejski",
+        "brand:wikidata": "Q119106937",
+        "network": "Wągrowiecki Rower Miejski",
+        "network:wikidata": "Q119106937",
+        "operator": "Roovee",
+        "operator:type": "private",
+        "operator:wikidata": "Q60860205"
+      }
+    },
+    {
+      "displayName": "WhiteBikes",
+      "id": "whitebikes-f3515a",
+      "locationSet": {
+        "include": ["sk-bl.geojson"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "WhiteBikes",
+        "brand:wikidata": "Q26868450",
+        "network": "WhiteBikes Bratislava",
+        "network:wikidata": "Q26868450",
+        "operator": "WhiteBikes",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "WienMobil Rad",
+      "id": "wienmobilrad-9cd234",
+      "locationSet": {
+        "include": ["at-9.geojson"]
+      },
+      "matchNames": ["citybike wien"],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "WienMobil Rad",
+        "brand:wikidata": "Q111794110",
+        "network": "WienMobil Rad",
+        "network:wikidata": "Q111794110",
+        "operator": "Nextbike",
+        "operator:type": "private",
+        "operator:wikidata": "Q2351279"
+      }
+    },
+    {
+      "displayName": "Wolsztyński Rower Miejski",
+      "id": "wolsztynskirowermiejski-bc1ab0",
+      "locationSet": {
+        "include": [[16.1126622, 52.11725]]
+      },
+      "note": "Wolsztyn in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Wolsztyński Rower Miejski",
+        "brand:wikidata": "Q117114836",
+        "network": "Wolsztyński Rower Miejski",
+        "network:wikidata": "Q117114836",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Wrocławski Rower Miejski",
+      "id": "wroclawskirowermiejski-601157",
+      "locationSet": {
+        "include": [[17.0326689, 51.1089776]]
+      },
+      "note": "Wrocław in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Wrocławski Rower Miejski",
+        "brand:wikidata": "Q24941606",
+        "network": "Wrocławski Rower Miejski",
+        "network:wikidata": "Q24941606",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Yélo",
+      "id": "yelo-d06f5d",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Yélo",
+        "brand:wikidata": "Q3574260",
+        "network": "Yélo",
+        "network:wikidata": "Q3574260",
+        "operator": "RTCR",
+        "operator:type": "public",
+        "operator:wikidata": "Q3454984"
+      }
+    },
+    {
+      "displayName": "YouBike",
+      "id": "youbike-06d22c",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "YouBike",
+        "name": "YouBike"
+      }
+    },
+    {
+      "displayName": "YouBike 2.0",
+      "id": "youbike20-1bb859",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "YouBike 2.0",
+        "brand:wikidata": "Q20687952",
+        "network": "YouBike 2.0",
+        "network:wikidata": "Q20687952",
+        "operator": "Giant",
+        "operator:type": "private",
+        "operator:wikidata": "Q703557"
+      }
+    },
+    {
+      "displayName": "YouBike 微笑單車",
+      "id": "7b2a4b-06d22c",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "YouBike 微笑單車",
+        "name": "YouBike 微笑單車"
+      }
+    },
+    {
+      "displayName": "Yulu",
+      "id": "yulu-6d1b20",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Yulu",
+        "brand:wikidata": "Q104871276",
+        "network": "Yulu",
+        "network:wikidata": "Q104871276",
+        "operator": "Yulu",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Żarskie Rowery",
+      "id": "zarskierowery-4d145c",
+      "locationSet": {"include": ["pl"]},
+      "note": "ISO 3166-2 PL-08",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Żarskie Rowery",
+        "brand:wikidata": "Q119107068",
+        "operator": "Roovee",
+        "operator:type": "private",
+        "operator:wikidata": "Q60860205"
+      }
+    },
+    {
+      "displayName": "Zielonogórski Rower Miejski",
+      "id": "zielonogorskirowermiejski-2e8c7e",
+      "locationSet": {
+        "include": [[15.5050408, 51.9383777]]
+      },
+      "note": "Zielona Góra in Poland",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Zielonogórski Rower Miejski",
+        "brand:wikidata": "Q117113230",
+        "network": "Zielonogórski Rower Miejski",
+        "network:wikidata": "Q117113230",
+        "operator": "Nextbike Polska",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Züri Velo",
+      "id": "zurivelo-b5a444",
+      "locationSet": {
+        "include": [[8.57, 47.41, 10]]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Züri Velo",
+        "network": "Züri Velo",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363"
+      }
+    },
+    {
+      "displayName": "Велобайк",
+      "id": "velobike-e8a367",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Велобайк",
+        "brand:en": "Velobike",
+        "brand:ru": "Велобайк",
+        "brand:wikidata": "Q20655763",
+        "network": "Велобайк",
+        "network:en": "Velobike",
+        "network:ru": "Велобайк",
+        "network:wikidata": "Q20655763",
+        "operator": "АО «СитиБайк»",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "بیدود",
+      "id": "bdood-41691c",
+      "locationSet": {"include": ["ir"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "بیدود",
+        "brand:en": "Bdood",
+        "brand:fa": "بیدود",
+        "brand:wikidata": "Q85746093",
+        "network": "بیدود",
+        "network:en": "Bdood",
+        "network:fa": "بیدود",
+        "network:wikidata": "Q85746093",
+        "operator": "بیدود",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "거창군",
+      "id": "95bc3b-3cba94",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "거창군",
+        "brand:ko": "거창군",
+        "name": "거창군",
+        "name:ko": "거창군",
+        "operator": "거창군",
+        "operator:ko": "거창군",
+        "operator:type": "public"
+      }
+    },
+    {
+      "displayName": "서울자전거 따릉이",
+      "id": "seoulbike-3cba94",
+      "locationSet": {"include": ["kr"]},
+      "matchNames": ["따릉이", "서울자전거"],
+      "tags": {
+        "access": "customers",
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "bicycle_rental": "docking_station",
+        "brand": "서울자전거 따릉이",
+        "brand:en": "Seoul Bike",
+        "brand:ko": "서울자전거 따릉이",
+        "brand:wikidata": "Q28127084",
+        "fee": "yes",
+        "network": "서울자전거 따릉이",
+        "network:en": "Seoul Bike",
+        "network:ko": "서울자전거 따릉이",
+        "operator": "서울시설공단",
+        "operator:en": "Seoul Facilities Corporation",
+        "operator:ko": "서울시설공단",
+        "operator:type": "public",
+        "payment:app": "yes"
+      }
+    },
+    {
+      "displayName": "세종도시교통공사",
+      "id": "8e68a0-3cba94",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "세종도시교통공사",
+        "brand:ko": "세종도시교통공사",
+        "name": "세종도시교통공사",
+        "name:ko": "세종도시교통공사",
+        "operator": "세종도시교통공사",
+        "operator:ko": "세종도시교통공사",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "ダイチャリ",
+      "id": "daichari-813eb7",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "ダイチャリ",
+        "brand:en": "DAICHARI",
+        "brand:ja": "ダイチャリ",
+        "brand:wikidata": "Q115826550",
+        "fee": "yes",
+        "network": "HELLO CYCLING",
+        "network:en": "HELLO CYCLING",
+        "network:ja": "ハローサイクリング",
+        "network:wikidata": "Q91231927",
+        "operator": "シナネンモビリティ+",
+        "operator:en": "Sinanen Mobility+",
+        "operator:ja": "シナネンモビリティ+",
+        "operator:type": "private",
+        "operator:wikidata": "Q115826116"
+      }
+    },
+    {
+      "displayName": "ちよくる",
+      "id": "chiyocle-813eb7",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "ちよくる",
+        "brand:en": "Chiyocle",
+        "brand:ja": "ちよくる",
+        "brand:wikidata": "Q91498542",
+        "fee": "yes",
+        "name": "ちよくる",
+        "name:en": "Chiyocle",
+        "name:ja": "ちよくる",
+        "official_name": "千代田区コミュニティサイクル",
+        "official_name:en": "Chiyoda City Bike Share",
+        "official_name:ja": "千代田区コミュニティサイクル",
+        "operator": "ちよくる",
+        "operator:en": "Chiyocle",
+        "operator:ja": "ちよくる",
+        "operator:type": "private",
+        "operator:wikidata": "Q91498542"
+      }
+    },
+    {
+      "displayName": "つるがシェアサイクル",
+      "id": "tsurugasharecycle-813eb7",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "つるがシェアサイクル",
+        "brand:en": "Tsuruga Share Cycle",
+        "brand:ja": "つるがシェアサイクル",
+        "name": "つるがシェアサイクル",
+        "name:en": "Tsuruga Share Cycle",
+        "name:ja": "つるがシェアサイクル",
+        "operator": "株式会社 日本海コンサルタント",
+        "operator:en": "Nihonkai Consultants Company",
+        "operator:ja": "株式会社 日本海コンサルタント",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "ドコモ・バイクシェア",
+      "id": "docomobikeshare-813eb7",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "ドコモ・バイクシェア",
+        "brand:en": "Docomo Bike Share",
+        "brand:ja": "ドコモ・バイクシェア",
+        "brand:wikidata": "Q55533296",
+        "fee": "yes",
+        "name": "ドコモ・バイクシェア",
+        "name:en": "Docomo Bike Share",
+        "name:ja": "ドコモ・バイクシェア",
+        "operator": "ドコモ・バイクシェア",
+        "operator:en": "Docomo Bike Share",
+        "operator:ja": "ドコモ・バイクシェア",
+        "operator:type": "private",
+        "operator:wikidata": "Q55533296"
+      }
+    },
+    {
+      "displayName": "叮嗒出行",
+      "id": "2d3068-050a29",
+      "locationSet": {"include": ["cn"]},
+      "note": "ISO 3166-2 CN-ZJ",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "叮嗒出行",
+        "name": "叮嗒出行"
+      }
+    },
+    {
+      "displayName": "巨大機械工業(股)",
+      "id": "1d2e94-1bb859",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "巨大機械工業(股)",
+        "name": "巨大機械工業(股)",
+        "operator": "巨大機械工業(股)",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "微笑單車股份有限公司",
+      "id": "cca95e-1bb859",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "微笑單車股份有限公司",
+        "name": "微笑單車股份有限公司",
+        "operator": "微笑單車股份有限公司",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "新竹市政府",
+      "id": "c3cef6-1bb859",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "新竹市政府",
+        "name": "新竹市政府",
+        "operator": "新竹市政府",
+        "operator:type": "government"
+      }
+    },
+    {
+      "displayName": "杭州公共自行车",
+      "id": "hangzhoupublicbicycle-b6480c",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "note": "ISO 3166-2 CN-ZJ",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "杭州公共自行车",
+        "brand:en": "Hangzhou Public Bicycle",
+        "brand:wikidata": "Q5648122",
+        "brand:zh": "杭州公共自行车",
+        "name": "杭州公共自行车",
+        "name:en": "Hangzhou Public Bicycle",
+        "name:zh": "杭州公共自行车",
+        "operator": "杭州公共自行车交通服务发展有限公司",
+        "operator:type": "private",
+        "operator:zh": "杭州公共自行车交通服务发展有限公司"
+      }
+    },
+    {
+      "displayName": "永安行",
+      "id": "youonbikeshare-487b9c",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": [
+          [119.40175, 36.83993, 20],
+          [120.89045, 31.98278, 35]
+        ]
+      },
+      "note": "excludes Changyi and the Nantong metropolitan area, each of which have separate presets",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "永安行",
+        "brand:en": "Youon Bike Share",
+        "brand:wikidata": "Q109342786",
+        "brand:zh": "永安行",
+        "name": "永安行",
+        "name:en": "Youon Bike Share",
+        "name:zh": "永安行",
+        "operator": "永安行",
+        "operator:en": "Youon Bike Share",
+        "operator:type": "private",
+        "operator:zh": "永安行"
+      }
+    },
+    {
+      "displayName": "永安行（南通）",
+      "id": "youonbikeshare-c7fe15",
+      "locationSet": {
+        "include": [[120.89045, 31.98278, 35]]
+      },
+      "note": "这仅作为权益之举，不建议各地编辑者如这样建本地关系",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "永安行",
+        "brand:en": "Youon Bike Share",
+        "brand:wikidata": "Q109342786",
+        "brand:zh": "永安行",
+        "name": "永安行",
+        "name:en": "Youon Bike Share",
+        "name:zh": "永安行",
+        "operator": "南通永安公共自行车公司",
+        "operator:type": "private",
+        "operator:zh": "南通永安公共自行车公司"
+      }
+    },
+    {
+      "displayName": "永安行（昌邑）",
+      "id": "youonbikeshare-4d6e41",
+      "locationSet": {
+        "include": [[119.40175, 36.83993, 35]]
+      },
+      "note": "这仅作为权益之举，不建议各地编辑者如Paradox这样建本地关系",
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "永安行",
+        "brand:en": "Youon Bike Share",
+        "brand:wikidata": "Q109342786",
+        "brand:zh": "永安行",
+        "name": "永安行",
+        "name:en": "Youon Bike Share",
+        "name:zh": "永安行",
+        "operator": "永安行科技股份有限公司昌邑分公司",
+        "operator:type": "private",
+        "operator:zh": "永安行科技股份有限公司昌邑分公司"
+      }
+    },
+    {
+      "displayName": "臺北市政府",
+      "id": "902527-1bb859",
+      "locationSet": {"include": ["tw"]},
+      "matchNames": [
+        "臺北市政府 taipei city government"
+      ],
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "臺北市政府",
+        "name": "臺北市政府",
+        "operator": "臺北市政府",
+        "operator:type": "government"
+      }
+    },
+    {
+      "displayName": "臺南市政府交通局",
+      "id": "f525fd-1bb859",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "臺南市政府交通局",
+        "name": "臺南市政府交通局",
+        "operator": "臺南市政府交通局",
+        "operator:type": "public"
+      }
+    },
+    {
+      "displayName": "高雄捷運股份有限公司",
+      "id": "6f1ece-1bb859",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "高雄捷運股份有限公司",
+        "name": "高雄捷運股份有限公司",
+        "operator": "高雄捷運股份有限公司",
+        "operator:type": "private"
+      }
+    }
+  ]
+}

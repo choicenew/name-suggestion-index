@@ -1,0 +1,37 @@
+name: Auto Download Brands & Local Logos
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # 每月 1 号 00:00 自动检查与更新
+  workflow_dispatch:      # 支持在 GitHub Actions 页面手动点击触发运行
+
+permissions:
+  contents: write
+
+jobs:
+  update-local-brands:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        ref: ${{ github.ref }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Run download_brands.py
+      env:
+        GITHUB_REPOSITORY: ${{ github.repository }}
+        GITHUB_REF_NAME: ${{ github.ref_name }}
+      run: |
+        python download_brands.py
+
+    - name: Auto commit and push updated localbrand
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: 'auto: update localbrand logos and manifest'
+        file_pattern: 'localbrand/'

@@ -1,0 +1,251 @@
+{
+  "properties": {
+    "path": "brands/office/union",
+    "preserveTags": ["^(official_|short_)?name"],
+    "exclude": {"generic": ["^(trade )?union$"]}
+  },
+  "items": [
+    {
+      "displayName": "CFDT",
+      "id": "cfdt-98227a",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "CFDT",
+        "brand:wikidata": "Q1125605",
+        "name": "CFDT",
+        "office": "union",
+        "official_name": "Confédération française démocratique du travail"
+      }
+    },
+    {
+      "displayName": "CFE-CGC",
+      "id": "cfecgc-98227a",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "CFE-CGC",
+        "brand:wikidata": "Q2992730",
+        "name": "CFE-CGC",
+        "office": "union",
+        "official_name": "Confédération française de l'encadrement - Confédération générale des cadres"
+      }
+    },
+    {
+      "displayName": "CFTC",
+      "id": "cftc-98227a",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "CFTC",
+        "brand:wikidata": "Q1125610",
+        "name": "CFTC",
+        "office": "union",
+        "official_name": "Confédération française des travailleurs chrétiens"
+      }
+    },
+    {
+      "displayName": "CGT",
+      "id": "cgt-98227a",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "CGT",
+        "brand:wikidata": "Q1125638",
+        "name": "CGT",
+        "office": "union",
+        "official_name": "Confédération générale du travail"
+      }
+    },
+    {
+      "displayName": "DGB",
+      "id": "dgb-321fbc",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "DGB",
+        "brand:wikidata": "Q586581",
+        "name": "DGB",
+        "office": "union",
+        "official_name": "Deutscher Gewerkschaftsbund"
+      }
+    },
+    {
+      "displayName": "Eğitim-Sen",
+      "id": "egitimsen-5fd954",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "brand": "Eğitim-Sen",
+        "brand:wikidata": "Q1115799",
+        "name": "Eğitim-Sen",
+        "name:en": "Education and Science Workers' Union",
+        "office": "union",
+        "official_name": "Eğitim ve Bilim Emekçileri Sendikası"
+      }
+    },
+    {
+      "displayName": "EVG",
+      "id": "evg-321fbc",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "EVG",
+        "brand:wikidata": "Q1311386",
+        "name": "EVG",
+        "office": "union",
+        "official_name": "Eisenbahn- und Verkehrsgewerkschaft"
+      }
+    },
+    {
+      "displayName": "FO",
+      "id": "fo-98227a",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "FO",
+        "brand:wikidata": "Q1125623",
+        "name": "FO",
+        "office": "union",
+        "official_name": "Force ouvrière"
+      }
+    },
+    {
+      "displayName": "FSE",
+      "id": "fse-98227a",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "FSE",
+        "brand:wikidata": "Q109037715",
+        "name": "FSE",
+        "office": "union",
+        "official_name": "Fédération syndicale étudiante"
+      }
+    },
+    {
+      "displayName": "GdP",
+      "id": "gdp-321fbc",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "GdP",
+        "brand:wikidata": "Q314080",
+        "name": "GdP",
+        "office": "union",
+        "official_name": "Gewerkschaft der Polizei"
+      }
+    },
+    {
+      "displayName": "GEW",
+      "id": "gew-321fbc",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "GEW",
+        "brand:wikidata": "Q325778",
+        "name": "GEW",
+        "office": "union",
+        "official_name": "Gewerkschaft Erziehung und Wissenschaft"
+      }
+    },
+    {
+      "displayName": "IG BAU",
+      "id": "igbau-321fbc",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "IG BAU",
+        "brand:wikidata": "Q896472",
+        "name": "IG BAU",
+        "office": "union",
+        "official_name": "IG Bauen-Agrar-Umwelt"
+      }
+    },
+    {
+      "displayName": "IG BCE",
+      "id": "igbce-321fbc",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "IG BCE",
+        "brand:wikidata": "Q871045",
+        "name": "IG BCE",
+        "office": "union",
+        "official_name": "IG Bergbau, Chemie, Energie"
+      }
+    },
+    {
+      "displayName": "IG Metall",
+      "id": "igmetall-321fbc",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "IG Metall",
+        "brand:short": "IGM",
+        "brand:wikidata": "Q694821",
+        "name": "IG Metall",
+        "office": "union",
+        "official_name": "Industriegewerkschaft Metall"
+      }
+    },
+    {
+      "displayName": "NGG",
+      "id": "ngg-321fbc",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "NGG",
+        "brand:wikidata": "Q896313",
+        "name": "NGG",
+        "office": "union",
+        "official_name": "Gewerkschaft Nahrung-Genuss-Gaststätten"
+      }
+    },
+    {
+      "displayName": "SESL",
+      "id": "sesl-98227a",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "SESL",
+        "brand:wikidata": "Q16677410",
+        "name": "SESL",
+        "office": "union",
+        "official_name": "Solidaires étudiant-e-s"
+      }
+    },
+    {
+      "displayName": "Solidaires",
+      "id": "solidaires-98227a",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Solidaires",
+        "brand:wikidata": "Q3550610",
+        "name": "Solidaires",
+        "office": "union",
+        "official_name": "Union syndicale Solidaires"
+      }
+    },
+    {
+      "displayName": "UE",
+      "id": "ue-98227a",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "UE",
+        "brand:wikidata": "Q117428377",
+        "name": "UE",
+        "office": "union",
+        "official_name": "Union étudiante"
+      }
+    },
+    {
+      "displayName": "UNEF",
+      "id": "unef-98227a",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "UNEF",
+        "brand:wikidata": "Q910798",
+        "name": "UNEF",
+        "office": "union",
+        "official_name": "Union nationale des étudiants de France"
+      }
+    },
+    {
+      "displayName": "ver.di",
+      "id": "verdi-321fbc",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "ver.di",
+        "brand:wikidata": "Q547951",
+        "name": "ver.di",
+        "office": "union",
+        "official_name": "Vereinte Dienstleistungsgewerkschaft"
+      }
+    }
+  ]
+}

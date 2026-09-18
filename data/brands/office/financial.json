@@ -1,0 +1,198 @@
+{
+  "properties": {
+    "path": "brands/office/financial",
+    "exclude": {"generic": ["^financial$"]}
+  },
+  "items": [
+    {
+      "displayName": "Cafpi",
+      "id": "cafpi-1791d3",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Cafpi",
+        "brand:wikidata": "Q2932922",
+        "name": "Cafpi",
+        "office": "financial"
+      }
+    },
+    {
+      "displayName": "CMG Financial",
+      "id": "cmgfinancial-07b653",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "CMG Financial",
+        "brand:wikidata": "Q120884918",
+        "name": "CMG Financial",
+        "office": "financial"
+      }
+    },
+    {
+      "displayName": "Cofidis",
+      "id": "cofidis-8d8ca3",
+      "locationSet": {
+        "include": [
+          "be",
+          "cz",
+          "es",
+          "fr",
+          "gr",
+          "hu",
+          "it",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "Cofidis",
+        "brand:wikidata": "Q1106920",
+        "name": "Cofidis",
+        "office": "financial"
+      }
+    },
+    {
+      "displayName": "Fiditalia",
+      "id": "fiditalia-9d9f2c",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "Fiditalia",
+        "brand:wikidata": "Q33306594",
+        "name": "Fiditalia",
+        "office": "financial"
+      }
+    },
+    {
+      "displayName": "Kerala Financial Corporation",
+      "id": "keralafinancialcorporation-8505f7",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "brand": "Kerala Financial Corporation",
+        "brand:wikidata": "Q17064561",
+        "name": "Kerala Financial Corporation",
+        "office": "financial",
+        "short_name": "KFC"
+      }
+    },
+    {
+      "displayName": "Kerala State Financial Enterprises",
+      "id": "ksfe-8505f7",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "brand": "Kerala State Financial Enterprises",
+        "brand:wikidata": "Q6393471",
+        "name": "KSFE",
+        "office": "financial",
+        "official_name": "Kerala State Financial Enterprises"
+      }
+    },
+    {
+      "displayName": "Manappuram General Finance and Leasing",
+      "id": "manappuramgeneralfinanceandleasing-8505f7",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "brand": "Manappuram General Finance and Leasing",
+        "brand:wikidata": "Q6746938",
+        "name": "Manappuram General Finance and Leasing",
+        "office": "financial"
+      }
+    },
+    {
+      "displayName": "Meilleurtaux",
+      "id": "meilleurtaux-1791d3",
+      "locationSet": {"include": ["fx"]},
+      "matchNames": ["meilleurtaux.com"],
+      "tags": {
+        "brand": "Meilleurtaux",
+        "brand:wikidata": "Q3304699",
+        "name": "Meilleurtaux",
+        "office": "financial"
+      }
+    },
+    {
+      "displayName": "Morgan Stanley",
+      "id": "morganstanley-433028",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Morgan Stanley",
+        "brand:wikidata": "Q334204",
+        "name": "Morgan Stanley",
+        "office": "financial"
+      }
+    },
+    {
+      "displayName": "Muthoot Finance",
+      "id": "muthootfinance-47d4e7",
+      "locationSet": {
+        "include": ["ae", "gb", "in", "us"]
+      },
+      "matchNames": ["muthoot india"],
+      "tags": {
+        "brand": "Muthoot Finance",
+        "brand:wikidata": "Q6943861",
+        "name": "Muthoot Finance",
+        "office": "financial"
+      }
+    },
+    {
+      "displayName": "Old Mutual Finance",
+      "id": "oldmutualfinance-38693f",
+      "locationSet": {
+        "include": [
+          "bw",
+          "cn",
+          "gh",
+          "ke",
+          "mw",
+          "na",
+          "ng",
+          "rw",
+          "ss",
+          "sz",
+          "tz",
+          "ug",
+          "za",
+          "zw"
+        ]
+      },
+      "tags": {
+        "brand": "Old Mutual Finance",
+        "brand:wikidata": "Q289704",
+        "name": "Old Mutual Finance",
+        "office": "financial"
+      }
+    },
+    {
+      "displayName": "Vousfinancer",
+      "id": "vousfinancer-1791d3",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Vousfinancer",
+        "brand:wikidata": "Q114185120",
+        "name": "Vousfinancer",
+        "office": "financial"
+      }
+    },
+    {
+      "displayName": "Wintrust Financial",
+      "id": "wintrustfinancial-07b653",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Wintrust Financial",
+        "brand:wikidata": "Q23680018",
+        "name": "Wintrust Financial",
+        "office": "financial"
+      }
+    },
+    {
+      "displayName": "Ymanci",
+      "id": "ymanci-1791d3",
+      "locationSet": {"include": ["fx"]},
+      "note": "Three branches: Assurances, Crédit immobilier and Regroupement de crédits",
+      "tags": {
+        "brand": "Ymanci",
+        "brand:wikidata": "Q109722251",
+        "name": "Ymanci",
+        "office": "financial",
+        "operator": "Premista"
+      }
+    }
+  ]
+}

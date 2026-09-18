@@ -1,0 +1,41 @@
+{
+  "properties": {
+    "path": "brands/office/engineer",
+    "exclude": {"generic": ["^engineer"]}
+  },
+  "items": [
+    {
+      "displayName": "Alstom",
+      "id": "alstom-3739d4",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Alstom",
+        "brand:wikidata": "Q309084",
+        "name": "Alstom",
+        "office": "engineer"
+      }
+    },
+    {
+      "displayName": "Kimley-Horn",
+      "id": "kimleyhornandassociates-2c4a94",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Kimley-Horn",
+        "brand:wikidata": "Q53129145",
+        "name": "Kimley-Horn and Associates",
+        "office": "engineer"
+      }
+    },
+    {
+      "displayName": "WSP",
+      "id": "wsp-2c4a94",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "WSP",
+        "brand:wikidata": "Q1333162",
+        "name": "WSP",
+        "office": "engineer"
+      }
+    }
+  ]
+}

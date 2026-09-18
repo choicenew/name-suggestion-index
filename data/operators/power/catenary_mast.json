@@ -1,0 +1,39 @@
+{
+  "properties": {
+    "path": "operators/power/catenary_mast",
+    "skipCollection": true,
+    "exclude": {"generic": ["^catenary_mast$"]}
+  },
+  "items": [
+    {
+      "note": "Auto create catenary_mast for all railway operators (#8124), but exclude railways without overhead electric lines (#10839)",
+      "templateExclude": [
+        "alstom",
+        "bnsfrailway",
+        "canadiannationalrailway",
+        "canadianpacifickansascity",
+        "canadiennational",
+        "canadienpacifiquekansascity",
+        "conrail",
+        "csx",
+        "giorail",
+        "norfolksouthern",
+        "sanjoaquinvalleyrailroad",
+        "zssk"
+      ],
+      "templateSource": "operators/route/railway",
+      "templateTags": {
+        "power": "catenary_mast",
+        "route": ""
+      }
+    },
+    {
+      "note": "Auto create catenary_mast for all railway operators (#8124)",
+      "templateSource": "operators/route/tracks",
+      "templateTags": {
+        "power": "catenary_mast",
+        "route": ""
+      }
+    }
+  ]
+}

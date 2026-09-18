@@ -1,0 +1,38 @@
+{
+  "properties": {
+    "path": "brands/shop/candles",
+    "exclude": {"generic": ["^candles$"]}
+  },
+  "items": [
+    {
+      "displayName": "dusk",
+      "id": "dusk-c1a86d",
+      "locationSet": {"include": ["au", "nz"]},
+      "matchTags": [
+        "shop/gift",
+        "shop/houseware"
+      ],
+      "tags": {
+        "brand": "dusk",
+        "brand:wikidata": "Q120669167",
+        "name": "dusk",
+        "shop": "candles"
+      }
+    },
+    {
+      "displayName": "Yankee Candle",
+      "id": "yankeecandle-a62b26",
+      "locationSet": {"include": ["001"]},
+      "matchTags": [
+        "shop/department_store",
+        "shop/gift"
+      ],
+      "tags": {
+        "brand": "Yankee Candle",
+        "brand:wikidata": "Q8048733",
+        "name": "Yankee Candle",
+        "shop": "candles"
+      }
+    }
+  ]
+}

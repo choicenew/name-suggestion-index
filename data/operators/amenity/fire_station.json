@@ -1,0 +1,5068 @@
+{
+  "properties": {
+    "path": "operators/amenity/fire_station",
+    "exclude": {
+      "generic": [
+        "^fire station$",
+        "^freiwillige feuerwehr$",
+        "^gemeinde$",
+        "^straż pożarna$",
+        "^пожежна частина$"
+      ],
+      "named": [
+        "^(km psp|ochotnicza straż pożarna|zosp rp)$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "1 пожарно-спасательный отряд",
+      "id": "7059de-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-SVE",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "1 пожарно-спасательный отряд"
+      }
+    },
+    {
+      "displayName": "Albuquerque Fire Rescue",
+      "id": "albuquerquefirerescue-ee0f4a",
+      "locationSet": {
+        "include": ["us-nm.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Albuquerque Fire Rescue",
+        "operator:wikidata": "Q106997936"
+      }
+    },
+    {
+      "displayName": "Alcaldía del Distrito Capital",
+      "id": "alcaldiadeldistritocapital-9862b1",
+      "locationSet": {"include": ["ve"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Alcaldía del Distrito Capital"
+      }
+    },
+    {
+      "displayName": "Ankara İtfaiyesi",
+      "id": "ankaraitfaiyesi-65f4f7",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Ankara İtfaiyesi",
+        "operator:wikidata": "Q118946765"
+      }
+    },
+    {
+      "displayName": "Associação de Bombeiros Voluntários de Santa Catarina",
+      "id": "associacaodebombeirosvoluntariosdesantacatarina-81e8d3",
+      "locationSet": {
+        "include": ["br-sc.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Associação de Bombeiros Voluntários de Santa Catarina"
+      }
+    },
+    {
+      "displayName": "Avon Fire and Rescue Service",
+      "id": "avonfireandrescueservice-ab1fb5",
+      "locationSet": {
+        "include": ["gb-south-west.geojson"]
+      },
+      "matchNames": ["af&rs"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Avon Fire and Rescue Service",
+        "operator:wikidata": "Q4829193"
+      }
+    },
+    {
+      "displayName": "Ayuntamiento de Madrid",
+      "id": "ayuntamientodemadrid-5d5dc4",
+      "locationSet": {
+        "include": ["es-m.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Ayuntamiento de Madrid",
+        "operator:wikidata": "Q3773976"
+      }
+    },
+    {
+      "displayName": "Baltimore City Fire Department",
+      "id": "baltimorecityfiredepartment-476f51",
+      "locationSet": {
+        "include": ["us-md-baltimore.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Baltimore City Fire Department",
+        "operator:wikidata": "Q4852814"
+      }
+    },
+    {
+      "displayName": "Bataillon de marins-pompiers de Marseille",
+      "id": "bataillondemarinspompiersdemarseille-2fa295",
+      "locationSet": {
+        "include": ["fr-pac.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Bataillon de marins-pompiers de Marseille",
+        "operator:wikidata": "Q2891011"
+      }
+    },
+    {
+      "displayName": "Bedfordshire Fire and Rescue Service",
+      "id": "bedfordshirefireandrescueservice-61f16b",
+      "locationSet": {
+        "include": ["gb-east-england.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Bedfordshire Fire and Rescue Service",
+        "operator:wikidata": "Q4879248"
+      }
+    },
+    {
+      "displayName": "Beredskab & Sikkerhed",
+      "id": "beredskabandsikkerhed-dc888e",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Beredskab & Sikkerhed"
+      }
+    },
+    {
+      "displayName": "Berliner Feuerwehr",
+      "id": "berlinerfeuerwehr-6d60c4",
+      "locationSet": {
+        "include": ["de-be.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517"
+      }
+    },
+    {
+      "displayName": "Bernalillo County Fire Department",
+      "id": "bernalillocountyfiredepartment-ee0f4a",
+      "locationSet": {
+        "include": ["us-nm.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Bernalillo County Fire Department",
+        "operator:short": "BCFD",
+        "operator:wikidata": "Q130272283"
+      }
+    },
+    {
+      "displayName": "Birmingham Fire and Rescue Service Department",
+      "id": "birminghamfireandrescueservicedepartment-cc12c6",
+      "locationSet": {
+        "include": ["us-al.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Birmingham Fire and Rescue Service Department",
+        "operator:wikidata": "Q130272290"
+      }
+    },
+    {
+      "displayName": "Brand & Redning Sønderjylland",
+      "id": "brandandredningsonderjylland-dc888e",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Brand & Redning Sønderjylland"
+      }
+    },
+    {
+      "displayName": "Brandweer Twente",
+      "id": "brandweertwente-0004ee",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Brandweer Twente"
+      }
+    },
+    {
+      "displayName": "Brandweer Westhoek",
+      "id": "brandweerwesthoek-600c98",
+      "locationSet": {
+        "include": ["be-vwv.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Brandweer Westhoek",
+        "operator:wikidata": "Q21051938"
+      }
+    },
+    {
+      "displayName": "Brandweerzone Midwest",
+      "id": "brandweerzonemidwest-600c98",
+      "locationSet": {
+        "include": ["be-vwv.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Brandweerzone Midwest",
+        "operator:wikidata": "Q16684051"
+      }
+    },
+    {
+      "displayName": "Brandweerzone Rivierenland",
+      "id": "brandweerzonerivierenland-e61dbd",
+      "locationSet": {
+        "include": ["be-van.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Brandweerzone Rivierenland",
+        "operator:wikidata": "Q16684057"
+      }
+    },
+    {
+      "displayName": "Brannvesenet Midt IKS",
+      "id": "brannvesenetmidtiks-ac32fd",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Brannvesenet Midt IKS"
+      }
+    },
+    {
+      "displayName": "Brannvesenet Sør IKS",
+      "id": "brannvesenetsoriks-ac32fd",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Brannvesenet Sør IKS"
+      }
+    },
+    {
+      "displayName": "Brigada Militar do Rio Grande do Sul",
+      "id": "brigadamilitardoriograndedosul-5b42d3",
+      "locationSet": {
+        "include": ["br-rs.geojson"]
+      },
+      "matchNames": ["brigada militar"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Brigada Militar do Rio Grande do Sul",
+        "operator:en": "Military Police Brigade of Rio Grande do Sul",
+        "operator:pt": "Brigada Militar do Rio Grande do Sul",
+        "operator:short": "BMRS",
+        "operator:wikidata": "Q9666780"
+      }
+    },
+    {
+      "displayName": "BSPP",
+      "id": "bspp-9a45cb",
+      "locationSet": {
+        "include": ["fr-idf.geojson"]
+      },
+      "matchNames": [
+        "brigade de sapeurs-pompiers de paris"
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "BSPP",
+        "operator:en": "Paris Fire Brigade",
+        "operator:fr": "BSPP",
+        "operator:wikidata": "Q583422"
+      }
+    },
+    {
+      "displayName": "Buckinghamshire Fire and Rescue Service",
+      "id": "buckinghamshirefireandrescueservice-6145a7",
+      "locationSet": {
+        "include": ["gb-south-central.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Buckinghamshire Fire and Rescue Service",
+        "operator:wikidata": "Q4983264"
+      }
+    },
+    {
+      "displayName": "Bureau of Fire Protection",
+      "id": "bureauoffireprotection-267105",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Bureau of Fire Protection",
+        "operator:wikidata": "Q17027200"
+      }
+    },
+    {
+      "displayName": "Calgary Fire Department",
+      "id": "calgaryfiredepartment-d75009",
+      "locationSet": {
+        "include": ["ca-ab.geojson"]
+      },
+      "matchNames": ["city of calgary"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Calgary Fire Department",
+        "operator:wikidata": "Q5019670"
+      }
+    },
+    {
+      "displayName": "California Department of Forestry and Fire Protection",
+      "id": "californiadepartmentofforestryandfireprotection-8a59ad",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "California Department of Forestry and Fire Protection",
+        "operator:short": "Cal Fire",
+        "operator:wikidata": "Q5020422"
+      }
+    },
+    {
+      "displayName": "Cambridgeshire Fire and Rescue Service",
+      "id": "cambridgeshirefireandrescueservice-61f16b",
+      "locationSet": {
+        "include": ["gb-east-england.geojson"]
+      },
+      "matchNames": ["cfrs"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Cambridgeshire Fire and Rescue Service",
+        "operator:wikidata": "Q5025656"
+      }
+    },
+    {
+      "displayName": "Cape Breton Regional Municipality Fire Services",
+      "id": "capebretonregionalmunicipalityfireservices-d13411",
+      "locationSet": {
+        "include": ["ca-ns.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Cape Breton Regional Municipality Fire Services"
+      }
+    },
+    {
+      "displayName": "CGDIS",
+      "id": "cgdis-113857",
+      "locationSet": {"include": ["lu"]},
+      "matchNames": [
+        "corps grand-ducal d'incendie et de secours"
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "CGDIS",
+        "operator:wikidata": "Q55334052"
+      }
+    },
+    {
+      "displayName": "Cheshire Fire and Rescue Service",
+      "id": "cheshirefireandrescueservice-5355cf",
+      "locationSet": {
+        "include": ["gb-north-west.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Cheshire Fire and Rescue Service",
+        "operator:wikidata": "Q5092954"
+      }
+    },
+    {
+      "displayName": "Chicago Fire Department",
+      "id": "chicagofiredepartment-68d3d9",
+      "locationSet": {
+        "include": [[-87.73, 41.83, 27]]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Chicago Fire Department",
+        "operator:wikidata": "Q2963308"
+      }
+    },
+    {
+      "displayName": "Cincinnati Fire Department",
+      "id": "cincinnatifiredepartment-9e25c5",
+      "locationSet": {
+        "include": [[-84.54, 39.11, 16]]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Cincinnati Fire Department",
+        "operator:wikidata": "Q16987386"
+      }
+    },
+    {
+      "displayName": "City of Boise",
+      "id": "cityofboise-46f1bf",
+      "locationSet": {
+        "include": ["us-id.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "City of Boise",
+        "operator:wikidata": "Q35775"
+      }
+    },
+    {
+      "displayName": "City of Concord",
+      "id": "cityofconcord-79c902",
+      "locationSet": {
+        "include": ["us-nc.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "City of Concord",
+        "operator:wikidata": "Q1030184"
+      }
+    },
+    {
+      "displayName": "City of Phoenix (Arizona)",
+      "id": "cityofphoenix-988138",
+      "locationSet": {
+        "include": ["us-az.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "City of Phoenix",
+        "operator:wikidata": "Q16556"
+      }
+    },
+    {
+      "displayName": "Clackamas Fire",
+      "id": "clackamasfiredistrict1-b9064d",
+      "locationSet": {
+        "include": ["us-or.geojson"]
+      },
+      "matchNames": ["clackamas fire"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Clackamas Fire District #1",
+        "operator:wikidata": "Q109389004"
+      }
+    },
+    {
+      "displayName": "Cleveland Fire Brigade",
+      "id": "clevelandfirebrigade-c946be",
+      "locationSet": {
+        "include": ["gb-north-east.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Cleveland Fire Brigade",
+        "operator:wikidata": "Q5132134"
+      }
+    },
+    {
+      "displayName": "Cobb County Fire & Emergency Services",
+      "id": "cobbcountyfireandemergencyservices-0d982b",
+      "locationSet": {
+        "include": ["us-ga.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Cobb County Fire & Emergency Services",
+        "operator:wikidata": "Q130272309"
+      }
+    },
+    {
+      "displayName": "Collectivité de Corse",
+      "id": "collectivitedecorse-46b3a4",
+      "locationSet": {
+        "include": ["fr-20r.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Collectivité de Corse",
+        "operator:wikidata": "Q17050"
+      }
+    },
+    {
+      "displayName": "Comunidad de Madrid",
+      "id": "comunidaddemadrid-5d5dc4",
+      "locationSet": {
+        "include": ["es-m.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Comunidad de Madrid",
+        "operator:wikidata": "Q578788"
+      }
+    },
+    {
+      "displayName": "Consorci Provincial de Bombers de València",
+      "id": "consorciprovincialdebombersdevalencia-3bae61",
+      "locationSet": {
+        "include": ["es-v.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Consorci Provincial de Bombers de València",
+        "operator:ca": "Consorci Provincial de Bombers de València",
+        "operator:es": "Consorcio Provincial de Bomberos de Valencia",
+        "operator:wikidata": "Q124644839"
+      }
+    },
+    {
+      "displayName": "Cork County Fire Service",
+      "id": "corkcountyfireservice-7d298d",
+      "locationSet": {
+        "include": ["ie-m.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Cork County Fire Service"
+      }
+    },
+    {
+      "displayName": "Cornwall Fire and Rescue Service",
+      "id": "cornwallfireandrescueservice-668361",
+      "locationSet": {
+        "include": ["gb-con.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Cornwall Fire and Rescue Service",
+        "operator:wikidata": "Q5171976"
+      }
+    },
+    {
+      "displayName": "Corpo de Bombeiros Militar de Santa Catarina",
+      "id": "corpodebombeirosmilitardesantacatarina-81e8d3",
+      "locationSet": {
+        "include": ["br-sc.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Corpo de Bombeiros Militar de Santa Catarina",
+        "operator:short": "CBMSC",
+        "operator:wikidata": "Q768967"
+      }
+    },
+    {
+      "displayName": "Corpo de Bombeiros Militar do Estado de São Paulo",
+      "id": "corpodebombeirosmilitardoestadodesaopaulo-ee4c4c",
+      "locationSet": {
+        "include": ["br-sp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Corpo de Bombeiros Militar do Estado de São Paulo",
+        "operator:short": "CBPMESP",
+        "operator:wikidata": "Q10260738"
+      }
+    },
+    {
+      "displayName": "Corpo Nazionale dei Vigili del Fuoco",
+      "id": "corponazionaledeivigilidelfuoco-783fb8",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Corpo Nazionale dei Vigili del Fuoco",
+        "operator:wikidata": "Q142393"
+      }
+    },
+    {
+      "displayName": "Country Fire Authority",
+      "id": "countryfireauthority-1faece",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Country Fire Authority",
+        "operator:wikidata": "Q13632973"
+      }
+    },
+    {
+      "displayName": "County Durham and Darlington Fire and Rescue Service",
+      "id": "countydurhamanddarlingtonfireandrescueservice-c946be",
+      "locationSet": {
+        "include": ["gb-north-east.geojson"]
+      },
+      "matchNames": ["cddfrs"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "County Durham and Darlington Fire and Rescue Service",
+        "operator:wikidata": "Q5177664"
+      }
+    },
+    {
+      "displayName": "Cuerpo de Bomberos de Bogotá",
+      "id": "cuerpodebomberosdebogota-1d12e3",
+      "locationSet": {"include": ["co"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Cuerpo de Bomberos de Bogotá"
+      }
+    },
+    {
+      "displayName": "Cuerpo de Bomberos de Honduras",
+      "id": "cuerpodebomberosdehonduras-696c1a",
+      "locationSet": {"include": ["hn"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Cuerpo de Bomberos de Honduras",
+        "operator:en": "Honduras Fire Department",
+        "operator:es": "Cuerpo de Bomberos de Honduras",
+        "operator:wikidata": "Q20014331"
+      }
+    },
+    {
+      "displayName": "Cuerpo de Bomberos de La Granja",
+      "id": "cuerpodebomberosdelagranja-dc8827",
+      "locationSet": {"include": ["cl"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Cuerpo de Bomberos de La Granja",
+        "operator:wikidata": "Q26814654"
+      }
+    },
+    {
+      "displayName": "Cuerpo de Bomberos de Viña del Mar",
+      "id": "cuerpodebomberosdevinadelmar-dc8827",
+      "locationSet": {"include": ["cl"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Cuerpo de Bomberos de Viña del Mar",
+        "operator:wikidata": "Q25405758"
+      }
+    },
+    {
+      "displayName": "Cumbria Fire and Rescue Service",
+      "id": "cumbriafireandrescueservice-5355cf",
+      "locationSet": {
+        "include": ["gb-north-west.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Cumbria Fire and Rescue Service",
+        "operator:wikidata": "Q5194033"
+      }
+    },
+    {
+      "displayName": "Department of Fire & Emergency Services",
+      "id": "departmentoffireandemergencyservices-72fb76",
+      "locationSet": {
+        "include": ["au-wa.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Department of Fire & Emergency Services",
+        "operator:wikidata": "Q5451517"
+      }
+    },
+    {
+      "displayName": "Derbyshire Fire and Rescue Service",
+      "id": "derbyshirefireandrescueservice-18a147",
+      "locationSet": {
+        "include": ["gb-east-midlands.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Derbyshire Fire and Rescue Service",
+        "operator:wikidata": "Q5261700"
+      }
+    },
+    {
+      "displayName": "Detroit Fire Department",
+      "id": "detroitfiredepartment-14eaf8",
+      "locationSet": {
+        "include": ["us-mi.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Detroit Fire Department",
+        "operator:wikidata": "Q5265929"
+      }
+    },
+    {
+      "displayName": "Devon and Somerset Fire and Rescue Service",
+      "id": "devonandsomersetfireandrescueservice-52c78e",
+      "locationSet": {
+        "include": [
+          "gb-dev.geojson",
+          "gb-som.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Devon and Somerset Fire and Rescue Service",
+        "operator:wikidata": "Q5267788"
+      }
+    },
+    {
+      "displayName": "Dobrovoľná požiarna ochrana Slovenskej republiky",
+      "id": "dobrovolnapoziarnaochranaslovenskejrepubliky-e10424",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Dobrovoľná požiarna ochrana Slovenskej republiky",
+        "operator:short": "DPO SR",
+        "operator:wikidata": "Q116951678"
+      }
+    },
+    {
+      "displayName": "Donegal Fire Service",
+      "id": "donegalfireservice-5737df",
+      "locationSet": {
+        "include": ["ie-u.geojson"],
+        "exclude": ["gb-nir"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Donegal Fire Service"
+      }
+    },
+    {
+      "displayName": "Dorset & Wiltshire Fire and Rescue Service",
+      "id": "dorsetandwiltshirefireandrescueservice-1f1daa",
+      "locationSet": {
+        "include": [
+          "gb-dor.geojson",
+          "gb-swd.geojson",
+          "gb-wil.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Dorset & Wiltshire Fire and Rescue Service",
+        "operator:wikidata": "Q28402600"
+      }
+    },
+    {
+      "displayName": "Dublin Fire Brigade",
+      "id": "dublinfirebrigade-ef8593",
+      "locationSet": {
+        "include": ["ie-d.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Dublin Fire Brigade",
+        "operator:wikidata": "Q5310892"
+      }
+    },
+    {
+      "displayName": "East Sussex Fire & Rescue Service",
+      "id": "eastsussexfireandrescueservice-ad6cf7",
+      "locationSet": {
+        "include": ["gb-south-east-coast.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "East Sussex Fire & Rescue Service",
+        "operator:wikidata": "Q5329464"
+      }
+    },
+    {
+      "displayName": "Essex County Fire and Rescue Service",
+      "id": "essexcountyfireandrescueservice-61f16b",
+      "locationSet": {
+        "include": ["gb-east-england.geojson"]
+      },
+      "matchNames": ["ecfrs"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Essex County Fire and Rescue Service",
+        "operator:wikidata": "Q5399695"
+      }
+    },
+    {
+      "displayName": "Fentress County Fire Department",
+      "id": "fentresscountyfiredepartment-9a6744",
+      "locationSet": {
+        "include": ["us-tn.geojson"]
+      },
+      "matchNames": ["fentress county fire dept"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Fentress County Fire Department",
+        "operator:wikidata": "Q130272324"
+      }
+    },
+    {
+      "displayName": "Feuerwehr Bielefeld",
+      "id": "feuerwehrbielefeld-630125",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "matchNames": ["stadt bielefeld"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Feuerwehr Bielefeld",
+        "operator:wikidata": "Q1409844"
+      }
+    },
+    {
+      "displayName": "Feuerwehr Kreisstadt Euskirchen",
+      "id": "feuerwehrkreisstadteuskirchen-630125",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Feuerwehr Kreisstadt Euskirchen"
+      }
+    },
+    {
+      "displayName": "Feuerwehr Saarbrücken",
+      "id": "feuerwehrsaarbrucken-3e15eb",
+      "locationSet": {
+        "include": ["de-sl.geojson"]
+      },
+      "matchNames": [
+        "landeshauptstadt saarbrücken"
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Feuerwehr Saarbrücken",
+        "operator:wikidata": "Q1409909"
+      }
+    },
+    {
+      "displayName": "Feuerwehr SG Rodenberg",
+      "id": "feuerwehrsgrodenberg-204ac7",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Feuerwehr SG Rodenberg"
+      }
+    },
+    {
+      "displayName": "Feuerwehr Stadt Barsinghausen",
+      "id": "feuerwehrstadtbarsinghausen-204ac7",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Feuerwehr Stadt Barsinghausen"
+      }
+    },
+    {
+      "displayName": "Feuerwehr Stadt Rinteln",
+      "id": "feuerwehrstadtrinteln-204ac7",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Feuerwehr Stadt Rinteln"
+      }
+    },
+    {
+      "displayName": "Feuerwehr Witten",
+      "id": "feuerwehrwitten-630125",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Feuerwehr Witten",
+        "operator:wikidata": "Q1409923"
+      }
+    },
+    {
+      "displayName": "Fire and Emergency New Zealand",
+      "id": "fireandemergencynewzealand-4a36f8",
+      "locationSet": {"include": ["nz"]},
+      "matchNames": [
+        "new zealand fire service",
+        "nzfs"
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Fire and Emergency New Zealand",
+        "operator:wikidata": "Q28180518"
+      }
+    },
+    {
+      "displayName": "Fire and Rescue NSW",
+      "id": "fireandrescuensw-da435c",
+      "locationSet": {
+        "include": ["au-nsw.geojson"]
+      },
+      "matchNames": [
+        "fire and rescue new south wales"
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Fire and Rescue NSW",
+        "operator:wikidata": "Q5451532"
+      }
+    },
+    {
+      "displayName": "Fire Rescue Victoria",
+      "id": "firerescuevictoria-1faece",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Fire Rescue Victoria",
+        "operator:wikidata": "Q30640483"
+      }
+    },
+    {
+      "displayName": "Freiwillige Feuerwehr der Samtgemeinde Thedinghausen",
+      "id": "freiwilligefeuerwehrdersamtgemeindethedinghausen-204ac7",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Freiwillige Feuerwehr der Samtgemeinde Thedinghausen"
+      }
+    },
+    {
+      "displayName": "Freiwillige Feuerwehr Mechernich",
+      "id": "freiwilligefeuerwehrmechernich-630125",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Freiwillige Feuerwehr Mechernich"
+      }
+    },
+    {
+      "displayName": "Gary Fire Department",
+      "id": "garyfiredepartment-3887dd",
+      "locationSet": {
+        "include": ["us-in.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Gary Fire Department",
+        "operator:wikidata": "Q130272338"
+      }
+    },
+    {
+      "displayName": "Gemeinde Gnarrenburg",
+      "id": "gemeindegnarrenburg-204ac7",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Gemeinde Gnarrenburg",
+        "operator:wikidata": "Q503947"
+      }
+    },
+    {
+      "displayName": "Gemeinde Loxstedt",
+      "id": "gemeindeloxstedt-204ac7",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Gemeinde Loxstedt",
+        "operator:wikidata": "Q509157"
+      }
+    },
+    {
+      "displayName": "Gloucestershire Fire and Rescue Service",
+      "id": "gloucestershirefireandrescueservice-ab1fb5",
+      "locationSet": {
+        "include": ["gb-south-west.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Gloucestershire Fire and Rescue Service",
+        "operator:wikidata": "Q5572109"
+      }
+    },
+    {
+      "displayName": "Greater Manchester Fire and Rescue Service",
+      "id": "greatermanchesterfireandrescueservice-9d4156",
+      "locationSet": {
+        "include": [
+          "gb-greater-manchester.geojson"
+        ]
+      },
+      "matchNames": ["gmfrs"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Greater Manchester Fire and Rescue Service",
+        "operator:wikidata": "Q5600639"
+      }
+    },
+    {
+      "displayName": "Halifax Regional Fire and Emergency",
+      "id": "halifaxregionalfireandemergency-d13411",
+      "locationSet": {
+        "include": ["ca-ns.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Halifax Regional Fire and Emergency",
+        "operator:wikidata": "Q5642228"
+      }
+    },
+    {
+      "displayName": "Hampshire & Isle of Wight Fire and Rescue Service",
+      "id": "hampshireandisleofwightfireandrescueservice-6145a7",
+      "locationSet": {
+        "include": ["gb-south-central.geojson"]
+      },
+      "matchNames": [
+        "hampshire fire and rescue service",
+        "hiwfrs",
+        "isle of wight fire and rescue service"
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Hampshire & Isle of Wight Fire and Rescue Service",
+        "operator:wikidata": "Q106317911"
+      }
+    },
+    {
+      "displayName": "Hasičský a záchranný zbor",
+      "id": "hasicskyazachrannyzbor-e10424",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Hasičský a záchranný zbor",
+        "operator:short": "HaZZ",
+        "operator:wikidata": "Q13417976"
+      }
+    },
+    {
+      "displayName": "Hereford and Worcester Fire and Rescue Service",
+      "id": "herefordandworcesterfireandrescueservice-794a68",
+      "locationSet": {
+        "include": ["gb-west-midlands.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Hereford and Worcester Fire and Rescue Service",
+        "operator:wikidata": "Q5738041"
+      }
+    },
+    {
+      "displayName": "Heroico Cuerpo de Bomberos de la Ciudad de México",
+      "id": "heroicocuerpodebomberosdelaciudaddemexico-c99019",
+      "locationSet": {
+        "include": ["mx-cmx.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Heroico Cuerpo de Bomberos de la Ciudad de México",
+        "operator:wikidata": "Q21057374"
+      }
+    },
+    {
+      "displayName": "Hertfordshire Fire and Rescue Service",
+      "id": "hertfordshirefireandrescueservice-61f16b",
+      "locationSet": {
+        "include": ["gb-east-england.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Hertfordshire Fire and Rescue Service",
+        "operator:wikidata": "Q5744781"
+      }
+    },
+    {
+      "displayName": "Hillsboro Fire & Rescue",
+      "id": "hillsborofireandrescue-b9064d",
+      "locationSet": {
+        "include": ["us-or.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Hillsboro Fire & Rescue",
+        "operator:wikidata": "Q16892322"
+      }
+    },
+    {
+      "displayName": "Horry County",
+      "id": "horrycounty-104978",
+      "locationSet": {
+        "include": ["us-sc.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Horry County",
+        "operator:wikidata": "Q502288"
+      }
+    },
+    {
+      "displayName": "Hulpverleningszone 1",
+      "id": "hulpverleningszone1-600c98",
+      "locationSet": {
+        "include": ["be-vwv.geojson"]
+      },
+      "matchNames": ["hulpverleningszone zone 1"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Hulpverleningszone 1",
+        "operator:wikidata": "Q16684022"
+      }
+    },
+    {
+      "displayName": "Hulpverleningszone Centrum",
+      "id": "hulpverleningszonecentrum-5f4af0",
+      "locationSet": {
+        "include": ["be-vov.geojson"]
+      },
+      "matchNames": ["brandweerzone centrum"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Hulpverleningszone Centrum",
+        "operator:wikidata": "Q16684024"
+      }
+    },
+    {
+      "displayName": "Hulpverleningszone Fluvia",
+      "id": "hulpverleningszonefluvia-600c98",
+      "locationSet": {
+        "include": ["be-vwv.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Hulpverleningszone Fluvia",
+        "operator:wikidata": "Q16684031"
+      }
+    },
+    {
+      "displayName": "Hulpverleningszone Rand",
+      "id": "hulpverleningszonerand-e61dbd",
+      "locationSet": {
+        "include": ["be-van.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Hulpverleningszone Rand",
+        "operator:wikidata": "Q16684055"
+      }
+    },
+    {
+      "displayName": "Hulpverleningszone Taxandria",
+      "id": "hulpverleningszonetaxandria-e61dbd",
+      "locationSet": {
+        "include": ["be-van.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Hulpverleningszone Taxandria",
+        "operator:wikidata": "Q16684060"
+      }
+    },
+    {
+      "displayName": "Humberside Fire and Rescue Service",
+      "id": "humbersidefireandrescueservice-6d4c94",
+      "locationSet": {
+        "include": ["gb-yorkshire.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Humberside Fire and Rescue Service",
+        "operator:wikidata": "Q12060600"
+      }
+    },
+    {
+      "displayName": "Indianapolis Fire Department",
+      "id": "indianapolisfiredepartment-d809d2",
+      "locationSet": {
+        "include": [[-86.14, 39.79]]
+      },
+      "matchNames": ["ifd"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Indianapolis Fire Department",
+        "operator:wikidata": "Q6023848"
+      }
+    },
+    {
+      "displayName": "INS",
+      "id": "ins-891e27",
+      "locationSet": {"include": ["cr"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "INS"
+      }
+    },
+    {
+      "displayName": "İstanbul Büyükşehir Belediyesi İtfaiye Daire Başkanlığı",
+      "id": "istanbulbuyuksehirbelediyesiitfaiyedairebaskanligi-65f4f7",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "İstanbul Büyükşehir Belediyesi İtfaiye Daire Başkanlığı"
+      }
+    },
+    {
+      "displayName": "İstanbul İtfaiyesi",
+      "id": "istanbulitfaiyesi-65f4f7",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "İstanbul İtfaiyesi",
+        "operator:wikidata": "Q118946594"
+      }
+    },
+    {
+      "displayName": "İzmir İtfaiyesi",
+      "id": "izmiritfaiyesi-65f4f7",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "İzmir İtfaiyesi"
+      }
+    },
+    {
+      "displayName": "JCFD3",
+      "id": "jacksoncountyfiredistrict3-b9064d",
+      "locationSet": {
+        "include": ["us-or.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Jackson County Fire District 3",
+        "operator:short": "JCFD3",
+        "operator:wikidata": "Q109389785"
+      }
+    },
+    {
+      "displayName": "Kansas City Fire Department",
+      "id": "kansascityfiredepartment-6af3e3",
+      "locationSet": {
+        "include": [[-94.58, 39.1, 32]],
+        "exclude": ["us-ks.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Kansas City Fire Department",
+        "operator:wikidata": "Q6364764"
+      }
+    },
+    {
+      "displayName": "Kent Fire and Rescue Service",
+      "id": "kentfireandrescueservice-ad6cf7",
+      "locationSet": {
+        "include": ["gb-south-east-coast.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Kent Fire and Rescue Service",
+        "operator:wikidata": "Q16995624"
+      }
+    },
+    {
+      "displayName": "Lafayette County Fire Department",
+      "id": "lafayettecountyfiredepartment-c14f55",
+      "locationSet": {
+        "include": ["us-ms.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Lafayette County Fire Department",
+        "operator:wikidata": "Q130272348"
+      }
+    },
+    {
+      "displayName": "Lancashire Fire and Rescue Service",
+      "id": "lancashirefireandrescueservice-5355cf",
+      "locationSet": {
+        "include": ["gb-north-west.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Lancashire Fire and Rescue Service",
+        "operator:wikidata": "Q6483015"
+      }
+    },
+    {
+      "displayName": "Landeshauptstadt Hannover",
+      "id": "landeshauptstadthannover-204ac7",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Landeshauptstadt Hannover",
+        "operator:wikidata": "Q1715"
+      }
+    },
+    {
+      "displayName": "Landeshauptstadt München",
+      "id": "landeshauptstadtmunchen-1f87b3",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Landeshauptstadt München",
+        "operator:wikidata": "Q1361384"
+      }
+    },
+    {
+      "displayName": "Leicestershire Fire and Rescue Service",
+      "id": "leicestershirefireandrescueservice-18a147",
+      "locationSet": {
+        "include": ["gb-east-midlands.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Leicestershire Fire and Rescue Service",
+        "operator:wikidata": "Q6427578"
+      }
+    },
+    {
+      "displayName": "Leon County Fire",
+      "id": "leoncountyfire-528b2f",
+      "locationSet": {
+        "include": ["us-fl.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Leon County Fire"
+      }
+    },
+    {
+      "displayName": "Lincoln Fire & Rescue",
+      "id": "lincolnfireandrescue-9a1d02",
+      "locationSet": {
+        "include": ["us-ne.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Lincoln Fire & Rescue",
+        "operator:wikidata": "Q130272379"
+      }
+    },
+    {
+      "displayName": "Lincolnshire Fire and Rescue",
+      "id": "lincolnshirefireandrescue-18a147",
+      "locationSet": {
+        "include": ["gb-east-midlands.geojson"]
+      },
+      "matchNames": ["lfr"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Lincolnshire Fire and Rescue",
+        "operator:wikidata": "Q6551247"
+      }
+    },
+    {
+      "displayName": "London Fire Brigade",
+      "id": "londonfirebrigade-459fd1",
+      "locationSet": {
+        "include": ["gb-lon.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "London Fire Brigade",
+        "operator:wikidata": "Q3091309"
+      }
+    },
+    {
+      "displayName": "Los Angeles County Fire Department",
+      "id": "losangelescountyfiredepartment-baa277",
+      "locationSet": {
+        "include": [[-118.28, 33.84, 123]]
+      },
+      "matchNames": ["lacfd", "lacofd"],
+      "note": "This is the 'county' fire dept (differernt from the one listed below).",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Los Angeles County Fire Department",
+        "operator:wikidata": "Q5621865"
+      }
+    },
+    {
+      "displayName": "Los Angeles Fire Department",
+      "id": "losangelesfiredepartment-a95892",
+      "locationSet": {
+        "include": [[-118.39, 34, 39]]
+      },
+      "matchNames": [
+        "la city fire",
+        "lafd",
+        "los angeles city fire"
+      ],
+      "note": "This is not the 'county' fire dept (listed above).",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Los Angeles Fire Department",
+        "operator:wikidata": "Q3122786"
+      }
+    },
+    {
+      "displayName": "Mayo County Fire Service",
+      "id": "mayocountyfireservice-868cf9",
+      "locationSet": {
+        "include": ["ie-c.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Mayo County Fire Service"
+      }
+    },
+    {
+      "displayName": "Merseyside Fire and Rescue Service",
+      "id": "merseysidefireandrescueservice-5355cf",
+      "locationSet": {
+        "include": ["gb-north-west.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Merseyside Fire and Rescue Service",
+        "operator:wikidata": "Q6820576"
+      }
+    },
+    {
+      "displayName": "Mid and West Wales Fire and Rescue Service",
+      "id": "midandwestwalesfireandrescueservice-6e80d5",
+      "locationSet": {"include": ["gb-wls"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Mid and West Wales Fire and Rescue Service",
+        "operator:cy": "Gwasanaeth Tân ac Achub Canolbarth a Gorllewin Cymru",
+        "operator:en": "Mid and West Wales Fire and Rescue Service",
+        "operator:wikidata": "Q6841065"
+      }
+    },
+    {
+      "displayName": "Midt-Hedmark brann-og redningsvesen IKS",
+      "id": "midthedmarkbrannogredningsveseniks-ac32fd",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Midt-Hedmark brann-og redningsvesen IKS"
+      }
+    },
+    {
+      "displayName": "Milwaukee Fire Department",
+      "id": "milwaukeefiredepartment-37838a",
+      "locationSet": {
+        "include": [[-87.98, 43.06, 17]]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Milwaukee Fire Department",
+        "operator:wikidata": "Q6861740"
+      }
+    },
+    {
+      "displayName": "Ministère de l'Intérieur (Algérie)",
+      "id": "ministeredelinterieur-6eb318",
+      "locationSet": {"include": ["dz"]},
+      "matchNames": [
+        "ministère de l'intérieur et des collectivités locales"
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Ministère de l'Intérieur",
+        "operator:wikidata": "Q3315224"
+      }
+    },
+    {
+      "displayName": "Ministerstvo vnútra Slovenskej republiky",
+      "id": "ministerstvovnutraslovenskejrepubliky-e10424",
+      "locationSet": {"include": ["sk"]},
+      "matchNames": ["ministerstvo vnútra sr"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Ministerstvo vnútra Slovenskej republiky",
+        "operator:short": "MV SR",
+        "operator:wikidata": "Q13450147"
+      }
+    },
+    {
+      "displayName": "Ministry of National Security",
+      "id": "ministryofnationalsecurity-b3d5f5",
+      "locationSet": {"include": ["tt"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Ministry of National Security"
+      }
+    },
+    {
+      "displayName": "Minneapolis Fire Department",
+      "id": "minneapolisfiredepartment-496a8f",
+      "locationSet": {
+        "include": [[-93.27, 44.97, 10]]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Minneapolis Fire Department",
+        "operator:wikidata": "Q6867982"
+      }
+    },
+    {
+      "displayName": "Naperville Fire Department",
+      "id": "napervillefiredepartment-67e5e3",
+      "locationSet": {
+        "include": ["us-il.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Naperville Fire Department",
+        "operator:wikidata": "Q17082395"
+      }
+    },
+    {
+      "displayName": "National Fire Authority",
+      "id": "nationalfireauthority-9e7fa3",
+      "locationSet": {"include": ["fj"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "National Fire Authority"
+      }
+    },
+    {
+      "displayName": "New York City Fire Department",
+      "id": "newyorkcityfiredepartment-bff363",
+      "locationSet": {
+        "include": ["us-ny-new_york_city.geojson"]
+      },
+      "matchNames": [
+        "fdny",
+        "fire department of the city of new york",
+        "nycfd"
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "New York City Fire Department",
+        "operator:wikidata": "Q283207"
+      }
+    },
+    {
+      "displayName": "Norfolk Fire and Rescue Service",
+      "id": "norfolkfireandrescueservice-61f16b",
+      "locationSet": {
+        "include": ["gb-east-england.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Norfolk Fire and Rescue Service",
+        "operator:wikidata": "Q7051035"
+      }
+    },
+    {
+      "displayName": "North Wales Fire and Rescue Service",
+      "id": "northwalesfireandrescueservice-6e80d5",
+      "locationSet": {"include": ["gb-wls"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "North Wales Fire and Rescue Service",
+        "operator:cy": "Gwasanaeth Tân ac Achub Gogledd Cymru",
+        "operator:en": "North Wales Fire and Rescue Service",
+        "operator:wikidata": "Q2841722"
+      }
+    },
+    {
+      "displayName": "North Yorkshire Fire and Rescue Service",
+      "id": "northyorkshirefireandrescueservice-6d4c94",
+      "locationSet": {
+        "include": ["gb-yorkshire.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "North Yorkshire Fire and Rescue Service",
+        "operator:wikidata": "Q7057460"
+      }
+    },
+    {
+      "displayName": "Northamptonshire Fire and Rescue Service",
+      "id": "northamptonshirefireandrescueservice-18a147",
+      "locationSet": {
+        "include": ["gb-east-midlands.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Northamptonshire Fire and Rescue Service",
+        "operator:wikidata": "Q7057675"
+      }
+    },
+    {
+      "displayName": "Northern Ireland Fire & Rescue Service",
+      "id": "northernirelandfireandrescueservice-5d3b39",
+      "locationSet": {"include": ["gb-nir"]},
+      "matchNames": [
+        "nifrs",
+        "northern ireland fire brigade"
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Northern Ireland Fire & Rescue Service",
+        "operator:wikidata": "Q12859215"
+      }
+    },
+    {
+      "displayName": "Northumberland Fire and Rescue Service",
+      "id": "northumberlandfireandrescueservice-c946be",
+      "locationSet": {
+        "include": ["gb-north-east.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Northumberland Fire and Rescue Service",
+        "operator:wikidata": "Q7059807"
+      }
+    },
+    {
+      "displayName": "Nottinghamshire Fire and Rescue Service",
+      "id": "nottinghamshirefireandrescueservice-18a147",
+      "locationSet": {
+        "include": ["gb-east-midlands.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Nottinghamshire Fire and Rescue Service",
+        "operator:wikidata": "Q7063742"
+      }
+    },
+    {
+      "displayName": "NSW Rural Fire Service",
+      "id": "nswruralfireservice-da435c",
+      "locationSet": {
+        "include": ["au-nsw.geojson"]
+      },
+      "matchNames": [
+        "new south wales rural fire service"
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "NSW Rural Fire Service",
+        "operator:wikidata": "Q7011777"
+      }
+    },
+    {
+      "displayName": "NT Fire and Rescue Service",
+      "id": "ntfireandrescueservice-bb2a08",
+      "locationSet": {
+        "include": ["au-nt.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "NT Fire and Rescue Service",
+        "operator:wikidata": "Q17018175"
+      }
+    },
+    {
+      "displayName": "Orange City Fire Department",
+      "id": "orangecityfiredepartment-cc9388",
+      "locationSet": {
+        "include": ["us-ca-orange_county.geojson"]
+      },
+      "matchNames": ["city of orange fire"],
+      "note": "This is not the 'county' fire dept.",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Orange City Fire Department",
+        "operator:wikidata": "Q7099617"
+      }
+    },
+    {
+      "displayName": "Orange County Fire Authority",
+      "id": "orangecountyfireauthority-cc9388",
+      "locationSet": {
+        "include": ["us-ca-orange_county.geojson"]
+      },
+      "matchNames": ["ocfa"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Orange County Fire Authority",
+        "operator:wikidata": "Q7099566"
+      }
+    },
+    {
+      "displayName": "Orange County Fire Rescue",
+      "id": "orangecountyfirerescue-528b2f",
+      "locationSet": {
+        "include": ["us-fl.geojson"]
+      },
+      "matchNames": ["ocfr"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Orange County Fire Rescue",
+        "operator:wikidata": "Q7099567"
+      }
+    },
+    {
+      "displayName": "Orlando Fire Department",
+      "id": "orlandofiredepartment-528b2f",
+      "locationSet": {
+        "include": ["us-fl.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Orlando Fire Department",
+        "operator:wikidata": "Q85791246"
+      }
+    },
+    {
+      "displayName": "Østjyllands Brandvæsen",
+      "id": "ostjyllandsbrandvaesen-dc888e",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Østjyllands Brandvæsen"
+      }
+    },
+    {
+      "displayName": "Ottawa Fire Services",
+      "id": "ottawafireservices-ec8456",
+      "locationSet": {
+        "include": ["ca-on.geojson"]
+      },
+      "matchNames": ["ottawa"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Ottawa Fire Services",
+        "operator:wikidata": "Q3480415"
+      }
+    },
+    {
+      "displayName": "Oxfordshire Fire and Rescue Service",
+      "id": "oxfordshirefireandrescueservice-6145a7",
+      "locationSet": {
+        "include": ["gb-south-central.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Oxfordshire Fire and Rescue Service",
+        "operator:wikidata": "Q7115591"
+      }
+    },
+    {
+      "displayName": "Päästeamet",
+      "id": "paasteamet-26aa01",
+      "locationSet": {"include": ["ee"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Päästeamet",
+        "operator:wikidata": "Q5401628"
+      }
+    },
+    {
+      "displayName": "Państwowa Straż Pożarna",
+      "id": "panstwowastrazpozarna-a9e71c",
+      "locationSet": {"include": ["pl"]},
+      "matchNames": ["psp"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Państwowa Straż Pożarna",
+        "operator:wikidata": "Q11815208"
+      }
+    },
+    {
+      "displayName": "Pasco County Fire Rescue",
+      "id": "pascocountyfirerescue-528b2f",
+      "locationSet": {
+        "include": ["us-fl.geojson"]
+      },
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Pasco County Fire Rescue",
+        "operator:wikidata": "Q125146421"
+      }
+    },
+    {
+      "displayName": "Policía de la Provincia de Misiones",
+      "id": "policiadelaprovinciademisiones-2eeaa2",
+      "locationSet": {
+        "include": ["ar-n.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Policía de la Provincia de Misiones",
+        "operator:wikidata": "Q6081702"
+      }
+    },
+    {
+      "displayName": "Portland Fire & Rescue",
+      "id": "portlandfireandrescue-b9064d",
+      "locationSet": {
+        "include": ["us-or.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Portland Fire & Rescue",
+        "operator:wikidata": "Q25001404"
+      }
+    },
+    {
+      "displayName": "Queensland Fire and Emergency Services",
+      "id": "queenslandfireandemergencyservices-cc314a",
+      "locationSet": {
+        "include": ["au-qld.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Queensland Fire and Emergency Services",
+        "operator:short": "QFES",
+        "operator:wikidata": "Q7270940"
+      }
+    },
+    {
+      "displayName": "Räddningstjänsten Fyrbodal",
+      "id": "raddningstjanstenfyrbodal-89a3f3",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Räddningstjänsten Fyrbodal"
+      }
+    },
+    {
+      "displayName": "Räddningstjänsten Östra Blekinge",
+      "id": "raddningstjanstenostrablekinge-89a3f3",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Räddningstjänsten Östra Blekinge",
+        "operator:wikidata": "Q116761069"
+      }
+    },
+    {
+      "displayName": "Räddningstjänsten Storgöteborg",
+      "id": "raddningstjanstenstorgoteborg-89a3f3",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Räddningstjänsten Storgöteborg"
+      }
+    },
+    {
+      "displayName": "Räddningstjänsten Syd",
+      "id": "raddningstjanstensyd-89a3f3",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Räddningstjänsten Syd",
+        "operator:wikidata": "Q10658399"
+      }
+    },
+    {
+      "displayName": "Rio Arriba County Fire Department",
+      "id": "rioarribacountyfiredepartment-ee0f4a",
+      "locationSet": {
+        "include": ["us-nm.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Rio Arriba County Fire Department",
+        "operator:short": "RACFD",
+        "operator:wikidata": "Q130273360"
+      }
+    },
+    {
+      "displayName": "Rochester Fire Department (New York)",
+      "id": "rochesterfiredepartment-606e7c",
+      "locationSet": {
+        "include": ["us-ny.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Rochester Fire Department",
+        "operator:wikidata": "Q133748042"
+      }
+    },
+    {
+      "displayName": "Rogaland brann og redning IKS",
+      "id": "rogalandbrannogredningiks-ac32fd",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Rogaland brann og redning IKS"
+      }
+    },
+    {
+      "displayName": "Royal Berkshire Fire and Rescue Service",
+      "id": "royalberkshirefireandrescueservice-6145a7",
+      "locationSet": {
+        "include": ["gb-south-central.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Royal Berkshire Fire and Rescue Service",
+        "operator:wikidata": "Q7373807"
+      }
+    },
+    {
+      "displayName": "RU-BEL",
+      "id": "rubel-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-BEL",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-BEL"
+      }
+    },
+    {
+      "displayName": "RU-BRY",
+      "id": "rubry-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-BRY",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-BRY"
+      }
+    },
+    {
+      "displayName": "RU-CR",
+      "id": "rucr-906824",
+      "locationSet": {"include": ["crimea"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-CR"
+      }
+    },
+    {
+      "displayName": "RU-KDA-1",
+      "id": "rukda1-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-KDA",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-KDA-1"
+      }
+    },
+    {
+      "displayName": "RU-KDA-10",
+      "id": "rukda10-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-KDA",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-KDA-10"
+      }
+    },
+    {
+      "displayName": "RU-KLU",
+      "id": "ruklu-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-KLU",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-KLU"
+      }
+    },
+    {
+      "displayName": "RU-KR",
+      "id": "rukr-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-KR",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-KR"
+      }
+    },
+    {
+      "displayName": "RU-LIP",
+      "id": "rulip-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-LIP",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-LIP"
+      }
+    },
+    {
+      "displayName": "RU-MOS",
+      "id": "rumos-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-MOS",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-MOS"
+      }
+    },
+    {
+      "displayName": "RU-MOW",
+      "id": "rumow-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-MOW",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-MOW"
+      }
+    },
+    {
+      "displayName": "RU-MUR",
+      "id": "rumur-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-MUR",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-MUR"
+      }
+    },
+    {
+      "displayName": "RU-NGR",
+      "id": "rungr-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-NGR",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-NGR"
+      }
+    },
+    {
+      "displayName": "RU-NIZ",
+      "id": "runiz-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-NIZ",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-NIZ"
+      }
+    },
+    {
+      "displayName": "RU-ORL",
+      "id": "ruorl-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-ORL",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-ORL"
+      }
+    },
+    {
+      "displayName": "RU-PSK-1",
+      "id": "rupsk1-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-PSK",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-PSK-1"
+      }
+    },
+    {
+      "displayName": "RU-ROS",
+      "id": "ruros-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-ROS",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-ROS"
+      }
+    },
+    {
+      "displayName": "RU-STA",
+      "id": "rusta-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-STA",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-STA"
+      }
+    },
+    {
+      "displayName": "RU-TA-7",
+      "id": "ruta7-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-TA",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-TA-7"
+      }
+    },
+    {
+      "displayName": "RU-TUL",
+      "id": "rutul-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-TUL",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-TUL"
+      }
+    },
+    {
+      "displayName": "RU-TVE",
+      "id": "rutve-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-TVE",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-TVE"
+      }
+    },
+    {
+      "displayName": "RU-VGG",
+      "id": "ruvgg-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-VGG",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-VGG"
+      }
+    },
+    {
+      "displayName": "RU-VGG-9",
+      "id": "ruvgg9-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-VGG",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-VGG-9"
+      }
+    },
+    {
+      "displayName": "RU-VGG-9-28",
+      "id": "ruvgg928-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-VGG",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-VGG-9-28"
+      }
+    },
+    {
+      "displayName": "RU-VGG-9-35",
+      "id": "ruvgg935-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-VGG",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-VGG-9-35"
+      }
+    },
+    {
+      "displayName": "RU-VOR",
+      "id": "ruvor-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-VOR",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "RU-VOR"
+      }
+    },
+    {
+      "displayName": "Sacramento Metropolitan Fire District",
+      "id": "sacramentometropolitanfiredistrict-8a59ad",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Sacramento Metropolitan Fire District",
+        "operator:wikidata": "Q7396999"
+      }
+    },
+    {
+      "displayName": "Saint Paul Fire Department",
+      "id": "saintpaulfiredepartment-6b79bb",
+      "locationSet": {
+        "include": ["us-mn.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Saint Paul Fire Department",
+        "operator:wikidata": "Q17108712"
+      }
+    },
+    {
+      "displayName": "Salten Brann IKS",
+      "id": "saltenbranniks-ac32fd",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Salten Brann IKS",
+        "operator:wikidata": "Q28718965"
+      }
+    },
+    {
+      "displayName": "Samtgemeinde Geestequelle",
+      "id": "samtgemeindegeestequelle-204ac7",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Samtgemeinde Geestequelle",
+        "operator:wikidata": "Q486771"
+      }
+    },
+    {
+      "displayName": "Samtgemeinde Grafschaft Hoya",
+      "id": "samtgemeindegrafschafthoya-204ac7",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Samtgemeinde Grafschaft Hoya",
+        "operator:wikidata": "Q486777"
+      }
+    },
+    {
+      "displayName": "Samtgemeinde Selsingen",
+      "id": "samtgemeindeselsingen-204ac7",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Samtgemeinde Selsingen",
+        "operator:wikidata": "Q488786"
+      }
+    },
+    {
+      "displayName": "Samtgemeinde Tostedt",
+      "id": "samtgemeindetostedt-204ac7",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Samtgemeinde Tostedt",
+        "operator:wikidata": "Q460518"
+      }
+    },
+    {
+      "displayName": "Samtgemeinde Uchte",
+      "id": "samtgemeindeuchte-204ac7",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Samtgemeinde Uchte",
+        "operator:wikidata": "Q461179"
+      }
+    },
+    {
+      "displayName": "San Antonio Fire Department",
+      "id": "sanantoniofiredepartment-3bf6a6",
+      "locationSet": {
+        "include": ["us-tx.geojson"]
+      },
+      "matchNames": [
+        "city of san antonio",
+        "safd"
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "San Antonio Fire Department",
+        "operator:wikidata": "Q7413325"
+      }
+    },
+    {
+      "displayName": "San Bernardino County Fire Protection District",
+      "id": "sanbernardinocountyfireprotectiondistrict-8a59ad",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "San Bernardino County Fire Protection District",
+        "operator:short": "SBCoFD",
+        "operator:wikidata": "Q55632465"
+      }
+    },
+    {
+      "displayName": "San Francisco Fire Department",
+      "id": "sanfranciscofiredepartment-e783e7",
+      "locationSet": {
+        "include": [[-122.45, 37.71, 17]]
+      },
+      "matchNames": ["sffd"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "San Francisco Fire Department",
+        "operator:wikidata": "Q7414030"
+      }
+    },
+    {
+      "displayName": "San Jose Fire Department",
+      "id": "sanjosefiredepartment-f2f943",
+      "locationSet": {
+        "include": [[-121.88, 37.33, 16]]
+      },
+      "matchNames": ["sjfd"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "San Jose Fire Department",
+        "operator:wikidata": "Q15733936"
+      }
+    },
+    {
+      "displayName": "Sandoval County Fire Department",
+      "id": "sandovalcountyfiredepartment-ee0f4a",
+      "locationSet": {
+        "include": ["us-nm.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Sandoval County Fire Department",
+        "operator:short": "SCFD",
+        "operator:wikidata": "Q130273364"
+      }
+    },
+    {
+      "displayName": "Santa Clara County Fire Department",
+      "id": "santaclaracountyfiredepartment-461f66",
+      "locationSet": {
+        "include": [[-121.7, 37.2, 51]]
+      },
+      "matchNames": ["sccfd"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Santa Clara County Fire Department",
+        "operator:wikidata": "Q20050604"
+      }
+    },
+    {
+      "displayName": "Santa Fe County Fire Department",
+      "id": "santafecountyfiredepartment-ee0f4a",
+      "locationSet": {
+        "include": ["us-nm.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Santa Fe County Fire Department",
+        "operator:short": "SFCFD",
+        "operator:wikidata": "Q134520320"
+      }
+    },
+    {
+      "displayName": "Scottish Fire and Rescue Service",
+      "id": "scottishfireandrescueservice-12e6fd",
+      "locationSet": {"include": ["gb-sct"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Scottish Fire and Rescue Service",
+        "operator:wikidata": "Q7437729"
+      }
+    },
+    {
+      "displayName": "SDIS 01",
+      "id": "sdis01-3ba645",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 01",
+        "operator:wikidata": "Q64975940"
+      }
+    },
+    {
+      "displayName": "SDIS 02",
+      "id": "sdis02-4a37ed",
+      "locationSet": {
+        "include": ["fr-hdf.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 02",
+        "operator:wikidata": "Q88685498"
+      }
+    },
+    {
+      "displayName": "SDIS 03",
+      "id": "sdis03-3ba645",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 03",
+        "operator:wikidata": "Q88685516"
+      }
+    },
+    {
+      "displayName": "SDIS 04",
+      "id": "sdis04-2fa295",
+      "locationSet": {
+        "include": ["fr-pac.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 04",
+        "operator:wikidata": "Q88685546"
+      }
+    },
+    {
+      "displayName": "SDIS 05",
+      "id": "sdis05-2fa295",
+      "locationSet": {
+        "include": ["fr-pac.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 05",
+        "operator:wikidata": "Q88685591"
+      }
+    },
+    {
+      "displayName": "SDIS 06",
+      "id": "sdis06-2fa295",
+      "locationSet": {
+        "include": ["fr-pac.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 06",
+        "operator:wikidata": "Q61455650"
+      }
+    },
+    {
+      "displayName": "SDIS 07",
+      "id": "sdis07-3ba645",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 07",
+        "operator:wikidata": "Q88685633"
+      }
+    },
+    {
+      "displayName": "SDIS 08",
+      "id": "sdis08-345308",
+      "locationSet": {
+        "include": ["fr-ges.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 08",
+        "operator:wikidata": "Q64532759"
+      }
+    },
+    {
+      "displayName": "SDIS 09",
+      "id": "sdis09-713fa8",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 09",
+        "operator:wikidata": "Q88685692"
+      }
+    },
+    {
+      "displayName": "SDIS 10",
+      "id": "sdis10-345308",
+      "locationSet": {
+        "include": ["fr-ges.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 10",
+        "operator:wikidata": "Q88685712"
+      }
+    },
+    {
+      "displayName": "SDIS 11",
+      "id": "sdis11-713fa8",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 11",
+        "operator:wikidata": "Q88685742"
+      }
+    },
+    {
+      "displayName": "SDIS 12",
+      "id": "sdis12-713fa8",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 12",
+        "operator:wikidata": "Q88685784"
+      }
+    },
+    {
+      "displayName": "SDIS 13",
+      "id": "sdis13-2fa295",
+      "locationSet": {
+        "include": ["fr-pac.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 13",
+        "operator:wikidata": "Q61455675"
+      }
+    },
+    {
+      "displayName": "SDIS 14",
+      "id": "sdis14-23cba8",
+      "locationSet": {
+        "include": ["fr-nor.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 14",
+        "operator:wikidata": "Q88685822"
+      }
+    },
+    {
+      "displayName": "SDIS 15",
+      "id": "sdis15-3ba645",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 15",
+        "operator:wikidata": "Q88685859"
+      }
+    },
+    {
+      "displayName": "SDIS 16",
+      "id": "sdis16-a24b9d",
+      "locationSet": {
+        "include": ["fr-naq.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 16",
+        "operator:wikidata": "Q88685902"
+      }
+    },
+    {
+      "displayName": "SDIS 17",
+      "id": "sdis17-a24b9d",
+      "locationSet": {
+        "include": ["fr-naq.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 17",
+        "operator:wikidata": "Q88754892"
+      }
+    },
+    {
+      "displayName": "SDIS 18",
+      "id": "sdis18-fa3f5a",
+      "locationSet": {
+        "include": ["fr-cvl.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 18",
+        "operator:wikidata": "Q88755006"
+      }
+    },
+    {
+      "displayName": "SDIS 19",
+      "id": "sdis19-a24b9d",
+      "locationSet": {
+        "include": ["fr-naq.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 19",
+        "operator:wikidata": "Q88755154"
+      }
+    },
+    {
+      "displayName": "SDIS 21",
+      "id": "sdis21-d2ef74",
+      "locationSet": {
+        "include": ["fr-bfc.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 21",
+        "operator:wikidata": "Q88755278"
+      }
+    },
+    {
+      "displayName": "SDIS 22",
+      "id": "sdis22-40194a",
+      "locationSet": {
+        "include": ["fr-bre.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 22",
+        "operator:wikidata": "Q88755366"
+      }
+    },
+    {
+      "displayName": "SDIS 23",
+      "id": "sdis23-a24b9d",
+      "locationSet": {
+        "include": ["fr-naq.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 23",
+        "operator:wikidata": "Q88755470"
+      }
+    },
+    {
+      "displayName": "SDIS 24",
+      "id": "sdis24-a24b9d",
+      "locationSet": {
+        "include": ["fr-naq.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 24",
+        "operator:wikidata": "Q88755567"
+      }
+    },
+    {
+      "displayName": "SDIS 25",
+      "id": "sdis25-d2ef74",
+      "locationSet": {
+        "include": ["fr-bfc.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 25",
+        "operator:wikidata": "Q65456012"
+      }
+    },
+    {
+      "displayName": "SDIS 26",
+      "id": "sdis26-3ba645",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 26",
+        "operator:wikidata": "Q88757183"
+      }
+    },
+    {
+      "displayName": "SDIS 27",
+      "id": "sdis27-23cba8",
+      "locationSet": {
+        "include": ["fr-nor.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 27",
+        "operator:wikidata": "Q88760032"
+      }
+    },
+    {
+      "displayName": "SDIS 28",
+      "id": "sdis28-fa3f5a",
+      "locationSet": {
+        "include": ["fr-cvl.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 28",
+        "operator:wikidata": "Q88760105"
+      }
+    },
+    {
+      "displayName": "SDIS 29",
+      "id": "sdis29-40194a",
+      "locationSet": {
+        "include": ["fr-bre.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 29",
+        "operator:wikidata": "Q88760201"
+      }
+    },
+    {
+      "displayName": "SDIS 30",
+      "id": "sdis30-713fa8",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 30",
+        "operator:wikidata": "Q63076894"
+      }
+    },
+    {
+      "displayName": "SDIS 31",
+      "id": "sdis31-713fa8",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 31",
+        "operator:wikidata": "Q64692408"
+      }
+    },
+    {
+      "displayName": "SDIS 32",
+      "id": "sdis32-713fa8",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 32",
+        "operator:wikidata": "Q88760258"
+      }
+    },
+    {
+      "displayName": "SDIS 33",
+      "id": "sdis33-a24b9d",
+      "locationSet": {
+        "include": ["fr-naq.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 33",
+        "operator:wikidata": "Q61455687"
+      }
+    },
+    {
+      "displayName": "SDIS 34",
+      "id": "sdis34-713fa8",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 34",
+        "operator:wikidata": "Q61455703"
+      }
+    },
+    {
+      "displayName": "SDIS 35",
+      "id": "sdis35-40194a",
+      "locationSet": {
+        "include": ["fr-bre.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 35",
+        "operator:wikidata": "Q88760350"
+      }
+    },
+    {
+      "displayName": "SDIS 36",
+      "id": "sdis36-fa3f5a",
+      "locationSet": {
+        "include": ["fr-cvl.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 36",
+        "operator:wikidata": "Q64777735"
+      }
+    },
+    {
+      "displayName": "SDIS 37",
+      "id": "sdis37-fa3f5a",
+      "locationSet": {
+        "include": ["fr-cvl.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 37",
+        "operator:wikidata": "Q88760505"
+      }
+    },
+    {
+      "displayName": "SDIS 38",
+      "id": "sdis38-3ba645",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 38",
+        "operator:wikidata": "Q61455722"
+      }
+    },
+    {
+      "displayName": "SDIS 39",
+      "id": "sdis39-d2ef74",
+      "locationSet": {
+        "include": ["fr-bfc.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 39",
+        "operator:wikidata": "Q88763669"
+      }
+    },
+    {
+      "displayName": "SDIS 40",
+      "id": "sdis40-a24b9d",
+      "locationSet": {
+        "include": ["fr-naq.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 40",
+        "operator:wikidata": "Q88763799"
+      }
+    },
+    {
+      "displayName": "SDIS 41",
+      "id": "sdis41-fa3f5a",
+      "locationSet": {
+        "include": ["fr-cvl.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 41",
+        "operator:wikidata": "Q88763870"
+      }
+    },
+    {
+      "displayName": "SDIS 42",
+      "id": "sdis42-3ba645",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 42",
+        "operator:wikidata": "Q88763913"
+      }
+    },
+    {
+      "displayName": "SDIS 43",
+      "id": "sdis43-3ba645",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 43",
+        "operator:wikidata": "Q88764119"
+      }
+    },
+    {
+      "displayName": "SDIS 44",
+      "id": "sdis44-610da5",
+      "locationSet": {
+        "include": ["fr-pdl.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 44",
+        "operator:wikidata": "Q61455757"
+      }
+    },
+    {
+      "displayName": "SDIS 45",
+      "id": "sdis45-fa3f5a",
+      "locationSet": {
+        "include": ["fr-cvl.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 45",
+        "operator:wikidata": "Q88764186"
+      }
+    },
+    {
+      "displayName": "SDIS 46",
+      "id": "sdis46-713fa8",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 46",
+        "operator:wikidata": "Q88764260"
+      }
+    },
+    {
+      "displayName": "SDIS 47",
+      "id": "sdis47-a24b9d",
+      "locationSet": {
+        "include": ["fr-naq.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 47",
+        "operator:wikidata": "Q88764329"
+      }
+    },
+    {
+      "displayName": "SDIS 48",
+      "id": "sdis48-713fa8",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 48",
+        "operator:wikidata": "Q88764407"
+      }
+    },
+    {
+      "displayName": "SDIS 49",
+      "id": "sdis49-610da5",
+      "locationSet": {
+        "include": ["fr-pdl.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 49",
+        "operator:wikidata": "Q64482679"
+      }
+    },
+    {
+      "displayName": "SDIS 50",
+      "id": "sdis50-23cba8",
+      "locationSet": {
+        "include": ["fr-nor.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 50",
+        "operator:wikidata": "Q88764472"
+      }
+    },
+    {
+      "displayName": "SDIS 51",
+      "id": "sdis51-345308",
+      "locationSet": {
+        "include": ["fr-ges.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 51",
+        "operator:wikidata": "Q88764575"
+      }
+    },
+    {
+      "displayName": "SDIS 52",
+      "id": "sdis52-345308",
+      "locationSet": {
+        "include": ["fr-ges.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 52",
+        "operator:wikidata": "Q88764660"
+      }
+    },
+    {
+      "displayName": "SDIS 53",
+      "id": "sdis53-610da5",
+      "locationSet": {
+        "include": ["fr-pdl.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 53",
+        "operator:wikidata": "Q88764859"
+      }
+    },
+    {
+      "displayName": "SDIS 54",
+      "id": "sdis54-345308",
+      "locationSet": {
+        "include": ["fr-ges.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 54",
+        "operator:wikidata": "Q88764933"
+      }
+    },
+    {
+      "displayName": "SDIS 55",
+      "id": "sdis55-345308",
+      "locationSet": {
+        "include": ["fr-ges.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 55",
+        "operator:wikidata": "Q88765063"
+      }
+    },
+    {
+      "displayName": "SDIS 56",
+      "id": "sdis56-40194a",
+      "locationSet": {
+        "include": ["fr-bre.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 56",
+        "operator:wikidata": "Q88765139"
+      }
+    },
+    {
+      "displayName": "SDIS 57",
+      "id": "sdis57-345308",
+      "locationSet": {
+        "include": ["fr-ges.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 57",
+        "operator:wikidata": "Q88765212"
+      }
+    },
+    {
+      "displayName": "SDIS 58",
+      "id": "sdis58-d2ef74",
+      "locationSet": {
+        "include": ["fr-bfc.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 58",
+        "operator:wikidata": "Q88765292"
+      }
+    },
+    {
+      "displayName": "SDIS 59",
+      "id": "sdis59-4a37ed",
+      "locationSet": {
+        "include": ["fr-hdf.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 59",
+        "operator:wikidata": "Q21778937"
+      }
+    },
+    {
+      "displayName": "SDIS 60",
+      "id": "sdis60-4a37ed",
+      "locationSet": {
+        "include": ["fr-hdf.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 60",
+        "operator:wikidata": "Q88765347"
+      }
+    },
+    {
+      "displayName": "SDIS 61",
+      "id": "sdis61-23cba8",
+      "locationSet": {
+        "include": ["fr-nor.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 61",
+        "operator:wikidata": "Q88765658"
+      }
+    },
+    {
+      "displayName": "SDIS 62",
+      "id": "sdis62-4a37ed",
+      "locationSet": {
+        "include": ["fr-hdf.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 62",
+        "operator:wikidata": "Q61455805"
+      }
+    },
+    {
+      "displayName": "SDIS 63",
+      "id": "sdis63-3ba645",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 63",
+        "operator:wikidata": "Q88765700"
+      }
+    },
+    {
+      "displayName": "SDIS 64",
+      "id": "sdis64-a24b9d",
+      "locationSet": {
+        "include": ["fr-naq.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 64",
+        "operator:wikidata": "Q88765752"
+      }
+    },
+    {
+      "displayName": "SDIS 65",
+      "id": "sdis65-713fa8",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 65",
+        "operator:wikidata": "Q88765816"
+      }
+    },
+    {
+      "displayName": "SDIS 66",
+      "id": "sdis66-713fa8",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 66",
+        "operator:wikidata": "Q88765856"
+      }
+    },
+    {
+      "displayName": "SDIS 67",
+      "id": "sdis67-345308",
+      "locationSet": {
+        "include": ["fr-ges.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 67",
+        "operator:wikidata": "Q52162492"
+      }
+    },
+    {
+      "displayName": "SDIS 68",
+      "id": "sdis68-345308",
+      "locationSet": {
+        "include": ["fr-ges.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 68",
+        "operator:wikidata": "Q88765908"
+      }
+    },
+    {
+      "displayName": "SDIS 70",
+      "id": "sdis70-d2ef74",
+      "locationSet": {
+        "include": ["fr-bfc.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 70",
+        "operator:wikidata": "Q88765969"
+      }
+    },
+    {
+      "displayName": "SDIS 71",
+      "id": "sdis71-d2ef74",
+      "locationSet": {
+        "include": ["fr-bfc.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 71",
+        "operator:wikidata": "Q88766472"
+      }
+    },
+    {
+      "displayName": "SDIS 72",
+      "id": "sdis72-610da5",
+      "locationSet": {
+        "include": ["fr-pdl.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 72",
+        "operator:wikidata": "Q88766528"
+      }
+    },
+    {
+      "displayName": "SDIS 73",
+      "id": "sdis73-3ba645",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 73",
+        "operator:wikidata": "Q88766586"
+      }
+    },
+    {
+      "displayName": "SDIS 74",
+      "id": "sdis74-3ba645",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 74",
+        "operator:wikidata": "Q88766652"
+      }
+    },
+    {
+      "displayName": "SDIS 76",
+      "id": "sdis76-23cba8",
+      "locationSet": {
+        "include": ["fr-nor.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 76",
+        "operator:wikidata": "Q61455857"
+      }
+    },
+    {
+      "displayName": "SDIS 77",
+      "id": "sdis77-9a45cb",
+      "locationSet": {
+        "include": ["fr-idf.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 77",
+        "operator:wikidata": "Q61455875"
+      }
+    },
+    {
+      "displayName": "SDIS 78",
+      "id": "sdis78-9a45cb",
+      "locationSet": {
+        "include": ["fr-idf.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 78",
+        "operator:wikidata": "Q61455899"
+      }
+    },
+    {
+      "displayName": "SDIS 79",
+      "id": "sdis79-a24b9d",
+      "locationSet": {
+        "include": ["fr-naq.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 79",
+        "operator:wikidata": "Q88766708"
+      }
+    },
+    {
+      "displayName": "SDIS 80",
+      "id": "sdis80-4a37ed",
+      "locationSet": {
+        "include": ["fr-hdf.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 80",
+        "operator:wikidata": "Q88766768"
+      }
+    },
+    {
+      "displayName": "SDIS 81",
+      "id": "sdis81-713fa8",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 81",
+        "operator:wikidata": "Q64915549"
+      }
+    },
+    {
+      "displayName": "SDIS 82",
+      "id": "sdis82-713fa8",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 82",
+        "operator:wikidata": "Q88766841"
+      }
+    },
+    {
+      "displayName": "SDIS 83",
+      "id": "sdis83-2fa295",
+      "locationSet": {
+        "include": ["fr-pac.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 83",
+        "operator:wikidata": "Q61455924"
+      }
+    },
+    {
+      "displayName": "SDIS 84",
+      "id": "sdis84-2fa295",
+      "locationSet": {
+        "include": ["fr-pac.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 84",
+        "operator:wikidata": "Q88766905"
+      }
+    },
+    {
+      "displayName": "SDIS 85",
+      "id": "sdis85-610da5",
+      "locationSet": {
+        "include": ["fr-pdl.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 85",
+        "operator:wikidata": "Q88767021"
+      }
+    },
+    {
+      "displayName": "SDIS 86",
+      "id": "sdis86-a24b9d",
+      "locationSet": {
+        "include": ["fr-naq.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 86",
+        "operator:wikidata": "Q88767082"
+      }
+    },
+    {
+      "displayName": "SDIS 87",
+      "id": "sdis87-a24b9d",
+      "locationSet": {
+        "include": ["fr-naq.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 87",
+        "operator:wikidata": "Q88767139"
+      }
+    },
+    {
+      "displayName": "SDIS 88",
+      "id": "sdis88-345308",
+      "locationSet": {
+        "include": ["fr-ges.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 88",
+        "operator:wikidata": "Q64604865"
+      }
+    },
+    {
+      "displayName": "SDIS 89",
+      "id": "sdis89-d2ef74",
+      "locationSet": {
+        "include": ["fr-bfc.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 89",
+        "operator:wikidata": "Q88767239"
+      }
+    },
+    {
+      "displayName": "SDIS 90",
+      "id": "sdis90-d2ef74",
+      "locationSet": {
+        "include": ["fr-bfc.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 90",
+        "operator:wikidata": "Q88767285"
+      }
+    },
+    {
+      "displayName": "SDIS 91",
+      "id": "sdis91-9a45cb",
+      "locationSet": {
+        "include": ["fr-idf.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 91",
+        "operator:wikidata": "Q61455931"
+      }
+    },
+    {
+      "displayName": "SDIS 95",
+      "id": "sdis95-9a45cb",
+      "locationSet": {
+        "include": ["fr-idf.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 95",
+        "operator:wikidata": "Q61455938"
+      }
+    },
+    {
+      "displayName": "SDIS 973",
+      "id": "sdis973-83d53f",
+      "locationSet": {"include": ["gf"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 973",
+        "operator:wikidata": "Q88767503"
+      }
+    },
+    {
+      "displayName": "SDIS 974",
+      "id": "sdis974-2b6cf2",
+      "locationSet": {"include": ["re"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 974",
+        "operator:wikidata": "Q88767557"
+      }
+    },
+    {
+      "displayName": "SDMIS",
+      "id": "sdmis-3ba645",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "matchNames": ["sdis 69"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDMIS",
+        "operator:wikidata": "Q61455835"
+      }
+    },
+    {
+      "displayName": "Secretaria da Segurança Pública do Estado de São Paulo",
+      "id": "secretariadasegurancapublicadoestadodesaopaulo-ee4c4c",
+      "locationSet": {
+        "include": ["br-sp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Secretaria da Segurança Pública do Estado de São Paulo"
+      }
+    },
+    {
+      "displayName": "Service de protection contre l'incendie de Québec",
+      "id": "servicedeprotectioncontrelincendiedequebec-841560",
+      "locationSet": {
+        "include": ["ca-qc.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Service de protection contre l'incendie de Québec"
+      }
+    },
+    {
+      "displayName": "Shropshire Fire and Rescue Service",
+      "id": "shropshirefireandrescueservice-794a68",
+      "locationSet": {
+        "include": ["gb-west-midlands.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Shropshire Fire and Rescue Service",
+        "operator:wikidata": "Q7504252"
+      }
+    },
+    {
+      "displayName": "SIS 2A",
+      "id": "sis2a-46b3a4",
+      "locationSet": {
+        "include": ["fr-20r.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SIS 2A",
+        "operator:wikidata": "Q88767670"
+      }
+    },
+    {
+      "displayName": "SIS 2B",
+      "id": "sis2b-46b3a4",
+      "locationSet": {
+        "include": ["fr-20r.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SIS 2B",
+        "operator:wikidata": "Q88767749"
+      }
+    },
+    {
+      "displayName": "Södra Älvsborgs Räddningstjänstförbund",
+      "id": "sodraalvsborgsraddningstjanstforbund-89a3f3",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Södra Älvsborgs Räddningstjänstförbund",
+        "operator:wikidata": "Q18333770"
+      }
+    },
+    {
+      "displayName": "Sogn brann og redning IKS",
+      "id": "sognbrannogredningiks-ac32fd",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Sogn brann og redning IKS"
+      }
+    },
+    {
+      "displayName": "South Australian Country Fire Service",
+      "id": "southaustraliancountryfireservice-f58103",
+      "locationSet": {
+        "include": ["au-sa.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "South Australian Country Fire Service",
+        "operator:wikidata": "Q7566104"
+      }
+    },
+    {
+      "displayName": "South Australian Metropolitan Fire Service",
+      "id": "southaustralianmetropolitanfireservice-f58103",
+      "locationSet": {
+        "include": ["au-sa.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "South Australian Metropolitan Fire Service",
+        "operator:wikidata": "Q7566124"
+      }
+    },
+    {
+      "displayName": "South Metro Fire Rescue",
+      "id": "southmetrofirerescue-631c9b",
+      "locationSet": {
+        "include": ["us-co.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "South Metro Fire Rescue",
+        "operator:short": "SMFR",
+        "operator:wikidata": "Q96406078"
+      }
+    },
+    {
+      "displayName": "South Wales Fire and Rescue Service",
+      "id": "southwalesfireandrescueservice-6e80d5",
+      "locationSet": {"include": ["gb-wls"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "South Wales Fire and Rescue Service",
+        "operator:cy": "Gwasanaeth Tân ac Achub De Cymru",
+        "operator:en": "South Wales Fire and Rescue Service",
+        "operator:wikidata": "Q7568770"
+      }
+    },
+    {
+      "displayName": "South Yorkshire Fire & Rescue",
+      "id": "southyorkshirefireandrescue-6d4c94",
+      "locationSet": {
+        "include": ["gb-yorkshire.geojson"]
+      },
+      "matchNames": ["syfire", "syfr"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "South Yorkshire Fire & Rescue",
+        "operator:wikidata": "Q7568999"
+      }
+    },
+    {
+      "displayName": "Springfield Fire Department (Illinois)",
+      "id": "springfieldfiredepartment-67e5e3",
+      "locationSet": {
+        "include": ["us-il.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Springfield Fire Department",
+        "operator:wikidata": "Q113623343"
+      }
+    },
+    {
+      "displayName": "Springfield Fire Department (Massachusetts)",
+      "id": "springfieldfiredepartment-905134",
+      "locationSet": {
+        "include": ["us-ma.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Springfield Fire Department",
+        "operator:wikidata": "Q20050605"
+      }
+    },
+    {
+      "displayName": "Springfield Fire Department (Missouri)",
+      "id": "springfieldfiredepartment-66adb9",
+      "locationSet": {
+        "include": ["us-mo.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Springfield Fire Department",
+        "operator:wikidata": "Q65118845"
+      }
+    },
+    {
+      "displayName": "Stadt Aachen - FB 37/Feuerwehr",
+      "id": "stadtaachenfb37feuerwehr-630125",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Stadt Aachen - FB 37/Feuerwehr",
+        "operator:wikidata": "Q1409833"
+      }
+    },
+    {
+      "displayName": "Stadt Bremervörde",
+      "id": "stadtbremervorde-204ac7",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Stadt Bremervörde",
+        "operator:wikidata": "Q501875"
+      }
+    },
+    {
+      "displayName": "Stadt Butzbach",
+      "id": "stadtbutzbach-8eb808",
+      "locationSet": {
+        "include": ["de-he.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Stadt Butzbach",
+        "operator:wikidata": "Q569680"
+      }
+    },
+    {
+      "displayName": "Stadt Goslar",
+      "id": "stadtgoslar-204ac7",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Stadt Goslar",
+        "operator:wikidata": "Q3896"
+      }
+    },
+    {
+      "displayName": "Stadt Homberg (Ohm)",
+      "id": "stadthombergohm-8eb808",
+      "locationSet": {
+        "include": ["de-he.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Stadt Homberg (Ohm)",
+        "operator:wikidata": "Q624176"
+      }
+    },
+    {
+      "displayName": "Stadt Horb",
+      "id": "stadthorb-3f63b8",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Stadt Horb",
+        "operator:wikidata": "Q82690"
+      }
+    },
+    {
+      "displayName": "Stadt Höxter",
+      "id": "stadthoxter-630125",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Stadt Höxter",
+        "operator:wikidata": "Q16107"
+      }
+    },
+    {
+      "displayName": "Stadt Jena",
+      "id": "stadtjena-e7e7a1",
+      "locationSet": {
+        "include": ["de-th.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Stadt Jena",
+        "operator:wikidata": "Q102218183"
+      }
+    },
+    {
+      "displayName": "Stadt Langelsheim",
+      "id": "stadtlangelsheim-204ac7",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Stadt Langelsheim",
+        "operator:wikidata": "Q628260"
+      }
+    },
+    {
+      "displayName": "Stadt Oberzent",
+      "id": "stadtoberzent-8eb808",
+      "locationSet": {
+        "include": ["de-he.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Stadt Oberzent",
+        "operator:wikidata": "Q1682542"
+      }
+    },
+    {
+      "displayName": "Stadt Seelze",
+      "id": "stadtseelze-204ac7",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Stadt Seelze",
+        "operator:wikidata": "Q16052"
+      }
+    },
+    {
+      "displayName": "Stadt Trier",
+      "id": "stadttrier-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Stadt Trier",
+        "operator:wikidata": "Q1409919"
+      }
+    },
+    {
+      "displayName": "Stadt Uebigau-Wahrenbrück",
+      "id": "stadtuebigauwahrenbruck-c95b65",
+      "locationSet": {
+        "include": ["de-bb.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Stadt Uebigau-Wahrenbrück",
+        "operator:wikidata": "Q516707"
+      }
+    },
+    {
+      "displayName": "Stadt Uslar",
+      "id": "stadtuslar-204ac7",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Stadt Uslar",
+        "operator:wikidata": "Q159814"
+      }
+    },
+    {
+      "displayName": "Staffordshire Fire and Rescue Service",
+      "id": "staffordshirefireandrescueservice-794a68",
+      "locationSet": {
+        "include": ["gb-west-midlands.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Staffordshire Fire and Rescue Service",
+        "operator:wikidata": "Q7596700"
+      }
+    },
+    {
+      "displayName": "STIS 67",
+      "id": "stis67-345308",
+      "locationSet": {
+        "include": ["fr-ges.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "STIS 67"
+      }
+    },
+    {
+      "displayName": "STIS 972",
+      "id": "stis972-40677f",
+      "locationSet": {"include": ["mq"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "STIS 972",
+        "operator:wikidata": "Q88767433"
+      }
+    },
+    {
+      "displayName": "Suffolk Fire and Rescue Service",
+      "id": "suffolkfireandrescueservice-61f16b",
+      "locationSet": {
+        "include": ["gb-east-england.geojson"]
+      },
+      "matchNames": ["sfrs"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Suffolk Fire and Rescue Service",
+        "operator:wikidata": "Q7634566"
+      }
+    },
+    {
+      "displayName": "Surrey Fire and Rescue Service",
+      "id": "surreyfireandrescueservice-ad6cf7",
+      "locationSet": {
+        "include": ["gb-south-east-coast.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Surrey Fire and Rescue Service",
+        "operator:wikidata": "Q7646803"
+      }
+    },
+    {
+      "displayName": "Tacoma Fire Department",
+      "id": "tacomafiredepartment-c0ee6d",
+      "locationSet": {
+        "include": ["us-wa.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Tacoma Fire Department",
+        "operator:wikidata": "Q130272442"
+      }
+    },
+    {
+      "displayName": "Tasmanian Fire Service",
+      "id": "tasmanianfireservice-6b676e",
+      "locationSet": {"include": ["au-tas"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Tasmanian Fire Service",
+        "operator:wikidata": "Q7687412"
+      }
+    },
+    {
+      "displayName": "Trøndelag brann- og redningstjeneste IKS",
+      "id": "trondelagbrannogredningstjenesteiks-ac32fd",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Trøndelag brann- og redningstjeneste IKS"
+      }
+    },
+    {
+      "displayName": "Tualatin Valley Fire & Rescue",
+      "id": "tualatinvalleyfireandrescue-b9064d",
+      "locationSet": {
+        "include": ["us-or.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Tualatin Valley Fire & Rescue",
+        "operator:short": "TVF&R",
+        "operator:wikidata": "Q16902012"
+      }
+    },
+    {
+      "displayName": "Tulare County Fire Department",
+      "id": "tularecountyfiredepartment-8a59ad",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Tulare County Fire Department",
+        "operator:wikidata": "Q123589802"
+      }
+    },
+    {
+      "displayName": "Tyne and Wear Fire and Rescue Service",
+      "id": "tyneandwearfireandrescueservice-c946be",
+      "locationSet": {
+        "include": ["gb-north-east.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Tyne and Wear Fire and Rescue Service",
+        "operator:wikidata": "Q7860504"
+      }
+    },
+    {
+      "displayName": "Unified Fire Authority",
+      "id": "unifiedfireauthority-7e1920",
+      "locationSet": {
+        "include": ["us-ut.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Unified Fire Authority",
+        "operator:wikidata": "Q7884928"
+      }
+    },
+    {
+      "displayName": "United States Forest Service",
+      "id": "unitedstatesforestservice-92f26a",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "United States Forest Service",
+        "operator:short": "USFS",
+        "operator:wikidata": "Q1891156"
+      }
+    },
+    {
+      "displayName": "Valencia County Fire Department",
+      "id": "valenciacountyfiredepartment-ee0f4a",
+      "locationSet": {
+        "include": ["us-nm.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Valencia County Fire Department",
+        "operator:short": "VCFD",
+        "operator:wikidata": "Q130272394"
+      }
+    },
+    {
+      "displayName": "Vancouver Fire and Rescue Services",
+      "id": "vancouverfireandrescueservices-46a900",
+      "locationSet": {
+        "include": ["ca-bc.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Vancouver Fire and Rescue Services",
+        "operator:wikidata": "Q7914180"
+      }
+    },
+    {
+      "displayName": "Vancouver Fire Department (Washington)",
+      "id": "vancouverfiredepartment-c0ee6d",
+      "locationSet": {
+        "include": ["us-wa.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Vancouver Fire Department",
+        "operator:wikidata": "Q17514285"
+      }
+    },
+    {
+      "displayName": "Veiligheids- en Gezondheidsregio Gelderland-Midden",
+      "id": "veiligheidsengezondheidsregiogelderlandmidden-0004ee",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Veiligheids- en Gezondheidsregio Gelderland-Midden",
+        "operator:short": "VGGM",
+        "operator:wikidata": "Q2262637"
+      }
+    },
+    {
+      "displayName": "Veiligheidsregio Brabant-Noord",
+      "id": "veiligheidsregiobrabantnoord-0004ee",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Veiligheidsregio Brabant-Noord",
+        "operator:wikidata": "Q2175393"
+      }
+    },
+    {
+      "displayName": "Veiligheidsregio Brabant-Zuidoost",
+      "id": "veiligheidsregiobrabantzuidoost-0004ee",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Veiligheidsregio Brabant-Zuidoost",
+        "operator:wikidata": "Q1811925"
+      }
+    },
+    {
+      "displayName": "Veiligheidsregio Gelderland-Zuid",
+      "id": "veiligheidsregiogelderlandzuid-0004ee",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Veiligheidsregio Gelderland-Zuid",
+        "operator:wikidata": "Q3468248"
+      }
+    },
+    {
+      "displayName": "Veiligheidsregio Groningen",
+      "id": "veiligheidsregiogroningen-0004ee",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Veiligheidsregio Groningen",
+        "operator:wikidata": "Q2749099"
+      }
+    },
+    {
+      "displayName": "Veiligheidsregio Limburg-Noord",
+      "id": "veiligheidsregiolimburgnoord-0004ee",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Veiligheidsregio Limburg-Noord",
+        "operator:wikidata": "Q2148178"
+      }
+    },
+    {
+      "displayName": "Veiligheidsregio Utrecht",
+      "id": "veiligheidsregioutrecht-0004ee",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Veiligheidsregio Utrecht",
+        "operator:wikidata": "Q14513199"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Aar-Einrich",
+      "id": "verbandsgemeindeaareinrich-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Aar-Einrich",
+        "operator:wikidata": "Q47507465"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Adenau",
+      "id": "verbandsgemeindeadenau-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Adenau",
+        "operator:wikidata": "Q559351"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Altenahr",
+      "id": "verbandsgemeindealtenahr-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Altenahr",
+        "operator:wikidata": "Q559976"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Arzfeld",
+      "id": "verbandsgemeindearzfeld-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Arzfeld",
+        "operator:wikidata": "Q660540"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Bad Ems-Nassau",
+      "id": "verbandsgemeindebademsnassau-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Bad Ems-Nassau",
+        "operator:wikidata": "Q54867485"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Bernkastel-Kues",
+      "id": "verbandsgemeindebernkastelkues-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Bernkastel-Kues",
+        "operator:wikidata": "Q643228"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Birkenfeld",
+      "id": "verbandsgemeindebirkenfeld-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Birkenfeld",
+        "operator:wikidata": "Q510356"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Bitburger Land",
+      "id": "verbandsgemeindebitburgerland-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Bitburger Land",
+        "operator:wikidata": "Q15852576"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Brohltal",
+      "id": "verbandsgemeindebrohltal-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Brohltal",
+        "operator:wikidata": "Q634710"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Cochem",
+      "id": "verbandsgemeindecochem-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Cochem",
+        "operator:wikidata": "Q511057"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Daun",
+      "id": "verbandsgemeindedaun-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Daun",
+        "operator:wikidata": "Q548918"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Gerolstein",
+      "id": "verbandsgemeindegerolstein-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Gerolstein",
+        "operator:wikidata": "Q52404118"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Hunsrück-Mittelrhein",
+      "id": "verbandsgemeindehunsruckmittelrhein-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Hunsrück-Mittelrhein",
+        "operator:wikidata": "Q56245014"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Kelberg",
+      "id": "verbandsgemeindekelberg-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Kelberg",
+        "operator:wikidata": "Q519319"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Kirchberg",
+      "id": "verbandsgemeindekirchberg-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Kirchberg",
+        "operator:wikidata": "Q559333"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Kirner Land",
+      "id": "verbandsgemeindekirnerland-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Kirner Land",
+        "operator:wikidata": "Q65952810"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Konz",
+      "id": "verbandsgemeindekonz-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Konz",
+        "operator:wikidata": "Q559360"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Kusel-Altenglan",
+      "id": "verbandsgemeindekuselaltenglan-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Kusel-Altenglan",
+        "operator:wikidata": "Q23787022"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Landstuhl",
+      "id": "verbandsgemeindelandstuhl-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Landstuhl",
+        "operator:wikidata": "Q22694416"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Langenlonsheim-Stromberg",
+      "id": "verbandsgemeindelangenlonsheimstromberg-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Langenlonsheim-Stromberg",
+        "operator:wikidata": "Q60029517"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Maifeld",
+      "id": "verbandsgemeindemaifeld-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Maifeld",
+        "operator:wikidata": "Q559849"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Nahe-Glan",
+      "id": "verbandsgemeindenaheglan-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Nahe-Glan",
+        "operator:wikidata": "Q59775090"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Nordpfälzer Land",
+      "id": "verbandsgemeindenordpfalzerland-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Nordpfälzer Land",
+        "operator:wikidata": "Q60029520"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Prüm",
+      "id": "verbandsgemeindeprum-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Prüm",
+        "operator:wikidata": "Q822400"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Rengsdorf-Waldbreitbach",
+      "id": "verbandsgemeinderengsdorfwaldbreitbach-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Rengsdorf-Waldbreitbach",
+        "operator:wikidata": "Q28498732"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Rhein-Mosel",
+      "id": "verbandsgemeinderheinmosel-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Rhein-Mosel",
+        "operator:wikidata": "Q2514009"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Rhein-Selz",
+      "id": "verbandsgemeinderheinselz-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Rhein-Selz",
+        "operator:wikidata": "Q15852580"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Rüdesheim",
+      "id": "verbandsgemeinderudesheim-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Rüdesheim",
+        "operator:wikidata": "Q591068"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Ruwer",
+      "id": "verbandsgemeinderuwer-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Ruwer",
+        "operator:wikidata": "Q705104"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Saarburg-Kell",
+      "id": "verbandsgemeindesaarburgkell-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Saarburg-Kell",
+        "operator:wikidata": "Q51349043"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Schweich",
+      "id": "verbandsgemeindeschweich-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Schweich",
+        "operator:wikidata": "Q559355"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Simmern-Rheinböllen",
+      "id": "verbandsgemeindesimmernrheinbollen-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Simmern-Rheinböllen",
+        "operator:wikidata": "Q54867486"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Südeifel",
+      "id": "verbandsgemeindesudeifel-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Südeifel",
+        "operator:wikidata": "Q15852582"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Thalfang am Erbeskopf",
+      "id": "verbandsgemeindethalfangamerbeskopf-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Thalfang am Erbeskopf",
+        "operator:wikidata": "Q559872"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Traben-Trarbach",
+      "id": "verbandsgemeindetrabentrarbach-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Traben-Trarbach",
+        "operator:wikidata": "Q15734385"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Trier-Land",
+      "id": "verbandsgemeindetrierland-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Trier-Land",
+        "operator:wikidata": "Q641340"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Vordereifel",
+      "id": "verbandsgemeindevordereifel-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Vordereifel",
+        "operator:wikidata": "Q481543"
+      }
+    },
+    {
+      "displayName": "Verbandsgemeinde Wittlich-Land",
+      "id": "verbandsgemeindewittlichland-83d42d",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Verbandsgemeinde Wittlich-Land",
+        "operator:wikidata": "Q17300305"
+      }
+    },
+    {
+      "displayName": "Vest-Telemark brannvesen",
+      "id": "vesttelemarkbrannvesen-ac32fd",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Vest-Telemark brannvesen"
+      }
+    },
+    {
+      "displayName": "Vestsjællands Brandvæsen",
+      "id": "vestsjaellandsbrandvaesen-dc888e",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Vestsjællands Brandvæsen",
+        "operator:wikidata": "Q47001996"
+      }
+    },
+    {
+      "displayName": "Vigili del Fuoco",
+      "id": "vigilidelfuoco-783fb8",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Vigili del Fuoco"
+      }
+    },
+    {
+      "displayName": "Ville de Montréal",
+      "id": "villedemontreal-841560",
+      "locationSet": {
+        "include": ["ca-qc.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Ville de Montréal",
+        "operator:wikidata": "Q340"
+      }
+    },
+    {
+      "displayName": "VNOG",
+      "id": "veiligheidsregionoordenoostgelderland-0004ee",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Veiligheidsregio Noord- en Oost-Gelderland",
+        "operator:short": "VNOG",
+        "operator:wikidata": "Q2588318"
+      }
+    },
+    {
+      "displayName": "Warwickshire Fire and Rescue Service",
+      "id": "warwickshirefireandrescueservice-794a68",
+      "locationSet": {
+        "include": ["gb-west-midlands.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Warwickshire Fire and Rescue Service",
+        "operator:wikidata": "Q7971234"
+      }
+    },
+    {
+      "displayName": "Waterford Fire Service",
+      "id": "waterfordfireservice-7d298d",
+      "locationSet": {
+        "include": ["ie-m.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Waterford Fire Service"
+      }
+    },
+    {
+      "displayName": "West Midlands Fire Service",
+      "id": "westmidlandsfireservice-794a68",
+      "locationSet": {
+        "include": ["gb-west-midlands.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "West Midlands Fire Service",
+        "operator:wikidata": "Q7985942"
+      }
+    },
+    {
+      "displayName": "West Sussex Fire and Rescue Service",
+      "id": "westsussexfireandrescueservice-ad6cf7",
+      "locationSet": {
+        "include": ["gb-south-east-coast.geojson"]
+      },
+      "matchNames": ["wsfrs"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "West Sussex Fire and Rescue Service",
+        "operator:wikidata": "Q7986615"
+      }
+    },
+    {
+      "displayName": "West Yorkshire Fire and Rescue Service",
+      "id": "westyorkshirefireandrescueservice-6d4c94",
+      "locationSet": {
+        "include": ["gb-yorkshire.geojson"]
+      },
+      "matchNames": ["wyfrs"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "West Yorkshire Fire and Rescue Service",
+        "operator:wikidata": "Q7987037"
+      }
+    },
+    {
+      "displayName": "Zone de secours DINAPHI",
+      "id": "zonedesecoursdinaphi-e05ec0",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Zone de secours DINAPHI"
+      }
+    },
+    {
+      "displayName": "Zone de Secours Luxembourg",
+      "id": "zonedesecoursluxembourg-1d5b26",
+      "locationSet": {
+        "include": ["be-wlx.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Zone de Secours Luxembourg",
+        "operator:wikidata": "Q3575880"
+      }
+    },
+    {
+      "displayName": "Πυροσβεστική Υπηρεσία",
+      "id": "c73a6c-67b14d",
+      "locationSet": {"include": ["cy"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Πυροσβεστική Υπηρεσία"
+      }
+    },
+    {
+      "displayName": "ГКУ ПО \"Управление ОД в ЧС\"",
+      "id": "ede306-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-PSK",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "ГКУ ПО \"Управление ОД в ЧС\""
+      }
+    },
+    {
+      "displayName": "Департамент по предупреждению и ликвидации чрезвычайных ситуаций Ростовской области",
+      "id": "ad7b1b-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-ROS",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Департамент по предупреждению и ликвидации чрезвычайных ситуаций Ростовской области"
+      }
+    },
+    {
+      "displayName": "Державна служба України з надзвичайних ситуацій",
+      "id": "8aac0c-41cc36",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["мчс"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Державна служба України з надзвичайних ситуацій"
+      }
+    },
+    {
+      "displayName": "Министерство на вътрешните работи",
+      "id": "8bb510-1d8548",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": ["мвр"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Министерство на вътрешните работи",
+        "operator:wikidata": "Q2594388"
+      }
+    },
+    {
+      "displayName": "МНС Беларусі",
+      "id": "ba8d14-e7dafd",
+      "locationSet": {"include": ["by"]},
+      "matchNames": ["мчс"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "МНС Беларусі",
+        "operator:be": "МНС Беларусі",
+        "operator:ru": "МЧС Беларуси",
+        "operator:wikidata": "Q3315400"
+      }
+    },
+    {
+      "displayName": "МЧС России",
+      "id": "483d4b-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "matchNames": ["мчс"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "МЧС России",
+        "operator:wikidata": "Q2624171"
+      }
+    },
+    {
+      "displayName": "Областное государственное учреждение «Противопожарная служба Челябинской области»",
+      "id": "874d3d-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-CHE",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Областное государственное учреждение «Противопожарная служба Челябинской области»"
+      }
+    },
+    {
+      "displayName": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Восточно-Сибирская железная дорога)",
+      "id": "b85f60-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-BU, RU-IRK, RU-ZAB",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Восточно-Сибирская железная дорога)"
+      }
+    },
+    {
+      "displayName": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Горьковская железная дорога)",
+      "id": "d52300-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Горьковская железная дорога)"
+      }
+    },
+    {
+      "displayName": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Дальневосточная железная дорога)",
+      "id": "118d42-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-PRI, RU-YEV, RU-KHA, RU-AMU, RU-SA",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Дальневосточная железная дорога)"
+      }
+    },
+    {
+      "displayName": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Забайкальская железная дорога)",
+      "id": "77b3be-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-AMU, RU-ZAB",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Забайкальская железная дорога)"
+      }
+    },
+    {
+      "displayName": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Западно-Сибирская железная дорога)",
+      "id": "39446e-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-ALT, RU-KEM, RU-TOM, RU-NVS, RU-OMS",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Западно-Сибирская железная дорога)"
+      }
+    },
+    {
+      "displayName": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Красноярская железная дорога)",
+      "id": "88b9ff-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-KEM, RU-KK, RU-KYA",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Красноярская железная дорога)"
+      }
+    },
+    {
+      "displayName": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Куйбышевской железная дорога)",
+      "id": "43a2bb-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Куйбышевской железная дорога)"
+      }
+    },
+    {
+      "displayName": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Московская железная дорога)",
+      "id": "6032ae-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Московская железная дорога)"
+      }
+    },
+    {
+      "displayName": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Октябрьская железная дорога)",
+      "id": "c49b99-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Октябрьская железная дорога)"
+      }
+    },
+    {
+      "displayName": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Свердловская железная дорога)",
+      "id": "82fdc3-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-PER, RU-SVE, RU-TYU, RU-KHM, RU-YAN",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Свердловская железная дорога)"
+      }
+    },
+    {
+      "displayName": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Северная железная дорога)",
+      "id": "36301c-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Северная железная дорога)"
+      }
+    },
+    {
+      "displayName": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Северо-Кавказская железная дорога)",
+      "id": "ca6378-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Северо-Кавказская железная дорога)"
+      }
+    },
+    {
+      "displayName": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Юго-Восточная железная дорога)",
+      "id": "e7a6f2-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Юго-Восточная железная дорога)"
+      }
+    },
+    {
+      "displayName": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Южно-Уральская железная дорога)",
+      "id": "4c2126-ea0501",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-ORE, RU-CHE, RU-KGN",
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "ФГП «Ведомственная охрана железнодорожного транспорта Российской Федерации» (Южно-Уральская железная дорога)"
+      }
+    },
+    {
+      "displayName": "الحماية المدنية الجزائرية",
+      "id": "604fbb-6eb318",
+      "locationSet": {"include": ["dz"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "الحماية المدنية الجزائرية"
+      }
+    },
+    {
+      "displayName": "سازمان آتش‌نشانی و خدمات ایمنی شهرداری اراک",
+      "id": "arakmunicipalityfireandsafetyservices-ef0f37",
+      "locationSet": {"include": ["ir"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "سازمان آتش‌نشانی و خدمات ایمنی شهرداری اراک",
+        "operator:en": "Arak Municipality Fire and Safety Services",
+        "operator:fa": "سازمان آتش‌نشانی و خدمات ایمنی شهرداری اراک"
+      }
+    },
+    {
+      "displayName": "وزارة الداخلية والجماعات المحلية والتهيئة العمراني",
+      "id": "843c83-6eb318",
+      "locationSet": {"include": ["dz"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "وزارة الداخلية والجماعات المحلية والتهيئة العمراني"
+      }
+    },
+    {
+      "displayName": "وزارة الداخلية والجماعات المحلية والتهيئة العمرانية الجزائرية",
+      "id": "f3dfb7-6eb318",
+      "locationSet": {"include": ["dz"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "وزارة الداخلية والجماعات المحلية والتهيئة العمرانية الجزائرية"
+      }
+    },
+    {
+      "displayName": "中国消防",
+      "id": "be7fd9-1157b6",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "matchNames": ["消防局", "消防队"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "应急管理部消防救援局",
+        "operator:wikidata": "Q60573921",
+        "operator:zh": "应急管理部消防救援局"
+      }
+    },
+    {
+      "displayName": "佐賀中部広域連合",
+      "id": "4ad5c7-e2e749",
+      "locationSet": {
+        "include": ["jp-41.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "佐賀中部広域連合",
+        "operator:wikidata": "Q11384615"
+      }
+    },
+    {
+      "displayName": "埼玉東部消防組合",
+      "id": "aad553-bce399",
+      "locationSet": {
+        "include": ["jp-11.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "埼玉東部消防組合",
+        "operator:wikidata": "Q11426528"
+      }
+    },
+    {
+      "displayName": "埼玉西部消防組合",
+      "id": "0fa1bb-bce399",
+      "locationSet": {
+        "include": ["jp-11.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "埼玉西部消防組合",
+        "operator:wikidata": "Q11427154"
+      }
+    },
+    {
+      "displayName": "宜蘭縣政府消防局",
+      "id": "b66768-2d0bd2",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "宜蘭縣政府消防局",
+        "operator:wikidata": "Q131169079"
+      }
+    },
+    {
+      "displayName": "尼崎市消防団",
+      "id": "218eb7-b080ca",
+      "locationSet": {
+        "include": ["jp-28.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "尼崎市消防団"
+      }
+    },
+    {
+      "displayName": "新竹市消防局",
+      "id": "7be2e0-2d0bd2",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "新竹市消防局",
+        "operator:wikidata": "Q131169252"
+      }
+    },
+    {
+      "displayName": "新竹縣政府消防局",
+      "id": "88b514-2d0bd2",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "新竹縣政府消防局",
+        "operator:wikidata": "Q131169255"
+      }
+    },
+    {
+      "displayName": "札幌市消防局",
+      "id": "e3431b-ebf034",
+      "locationSet": {
+        "include": ["jp-01.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "札幌市消防局",
+        "operator:wikidata": "Q11521276"
+      }
+    },
+    {
+      "displayName": "東京消防庁第八消防方面本部",
+      "id": "tokyofiredepartment-47ba6b",
+      "locationSet": {
+        "include": ["jp-13.geojson"]
+      },
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "東京消防庁第八消防方面本部",
+        "operator:en": "Tokyo Fire Department",
+        "operator:ja": "東京消防庁第八消防方面本部",
+        "operator:wikidata": "Q1162928"
+      }
+    },
+    {
+      "displayName": "桃園市政府消防局",
+      "id": "a3d2d9-2d0bd2",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "桃園市政府消防局",
+        "operator:wikidata": "Q15917916"
+      }
+    },
+    {
+      "displayName": "澳門消防局 Corpo de Bombeiros de Macau",
+      "id": "macaofireservicesbureau-2187d2",
+      "locationSet": {"include": ["mo"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "澳門消防局 Corpo de Bombeiros de Macau",
+        "operator:en": "Macao Fire Services Bureau",
+        "operator:pt": "Corpo de Bombeiros de Macau",
+        "operator:short:en": "FSM",
+        "operator:short:pt": "CB",
+        "operator:wikidata": "Q3133076",
+        "operator:zh": "澳門消防局"
+      }
+    },
+    {
+      "displayName": "臺中市政府消防局",
+      "id": "8c1992-2d0bd2",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "臺中市政府消防局",
+        "operator:wikidata": "Q15909995"
+      }
+    },
+    {
+      "displayName": "香港消防處 Hong Kong Fire Services Department",
+      "id": "hongkongfireservicesdepartment-ac17f0",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "香港消防處 Hong Kong Fire Services Department",
+        "operator:en": "Hong Kong Fire Services Department",
+        "operator:short": "HKFSD",
+        "operator:wikidata": "Q1595073",
+        "operator:zh": "香港消防處",
+        "operator:zh-Hans": "香港消防处",
+        "operator:zh-Hant": "香港消防處"
+      }
+    },
+    {
+      "displayName": "高雄市政府消防局",
+      "id": "f83b14-2d0bd2",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "高雄市政府消防局",
+        "operator:wikidata": "Q15920569"
+      }
+    }
+  ]
+}

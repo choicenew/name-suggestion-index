@@ -1,0 +1,24 @@
+{
+  "properties": {
+    "path": "transit/route/walking_bus",
+    "exclude": {
+      "generic": ["^walking bus$"],
+      "named": [
+        "^(city|international|local|mtb|municipal|national|rail|regional|urban)$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Pédibus",
+      "id": "pedibus-db0f1c",
+      "locationSet": {
+        "include": ["fr-idf.geojson"]
+      },
+      "tags": {
+        "network": "Pédibus",
+        "route": "walking_bus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "properties": {
+    "path": "brands/office/lawyer",
+    "exclude": {
+      "generic": [
+        "^(law firm|despacho juridico)$",
+        "^(lawyer|abogados?|avocat)$",
+        "^адвокаты?$",
+        "^нотар[иі]ус$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "AGN Avocats",
+      "id": "agnavocats-0624be",
+      "locationSet": {"include": ["ae", "fr"]},
+      "tags": {
+        "brand": "AGN Avocats",
+        "brand:wikidata": "Q141355112",
+        "name": "AGN Avocats",
+        "office": "lawyer"
+      }
+    },
+    {
+      "displayName": "Becker Büttner Held",
+      "id": "beckerbuttnerheld-8a02aa",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Becker Büttner Held",
+        "brand:wikidata": "Q22910047",
+        "name": "Becker Büttner Held",
+        "office": "lawyer",
+        "short_name": "BBH"
+      }
+    },
+    {
+      "displayName": "Dentons",
+      "id": "dentons-0fb954",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Dentons",
+        "brand:wikidata": "Q13633888",
+        "name": "Dentons",
+        "office": "lawyer"
+      }
+    },
+    {
+      "displayName": "Fisher & Phillips",
+      "id": "fisherphillips-b93f35",
+      "locationSet": {"include": ["mx", "us"]},
+      "tags": {
+        "brand": "Fisher & Phillips",
+        "brand:wikidata": "Q16993410",
+        "name": "Fisher Phillips",
+        "office": "lawyer",
+        "official_name": "Fisher & Phillips"
+      }
+    },
+    {
+      "displayName": "Foley",
+      "id": "foley-2b4d11",
+      "locationSet": {
+        "include": ["be", "jp", "mx", "us"]
+      },
+      "tags": {
+        "brand": "Foley",
+        "brand:wikidata": "Q5464319",
+        "name": "Foley",
+        "office": "lawyer",
+        "official_name": "Foley & Lardner LLP"
+      }
+    },
+    {
+      "displayName": "Görg",
+      "id": "gorg-8a02aa",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Görg",
+        "brand:wikidata": "Q105094171",
+        "name": "Görg",
+        "office": "lawyer"
+      }
+    },
+    {
+      "displayName": "GSK Stockmann",
+      "id": "gskstockmann-8a02aa",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "GSK Stockmann",
+        "brand:wikidata": "Q1486954",
+        "name": "GSK Stockmann",
+        "office": "lawyer"
+      }
+    },
+    {
+      "displayName": "Morgan & Morgan",
+      "id": "morganandmorgan-1353b6",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Morgan & Morgan",
+        "brand:wikidata": "Q111597979",
+        "name": "Morgan & Morgan",
+        "office": "lawyer"
+      }
+    },
+    {
+      "displayName": "Shine Lawyers",
+      "id": "shinelawyers-22d653",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Shine Lawyers",
+        "brand:wikidata": "Q17033391",
+        "name": "Shine Lawyers",
+        "office": "lawyer"
+      }
+    },
+    {
+      "displayName": "ФЦБ",
+      "id": "83196e-004ff8",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "ФЦБ",
+        "name": "ФЦБ",
+        "office": "lawyer"
+      }
+    },
+    {
+      "displayName": "Чистый лист",
+      "id": "725b40-004ff8",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Чистый лист",
+        "name": "Чистый лист",
+        "office": "lawyer"
+      }
+    }
+  ]
+}

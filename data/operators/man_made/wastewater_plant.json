@@ -1,0 +1,1460 @@
+{
+  "properties": {
+    "path": "operators/man_made/wastewater_plant",
+    "exclude": {"generic": ["^wastewater plant$"]}
+  },
+  "items": [
+    {
+      "displayName": "Águas do Algarve",
+      "id": "aguasdoalgarve-674fcc",
+      "locationSet": {
+        "include": ["pt-08.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Águas do Algarve"
+      }
+    },
+    {
+      "displayName": "Águas do Norte",
+      "id": "aguasdonorte-9ed6d8",
+      "locationSet": {"include": ["pt"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Águas do Norte"
+      }
+    },
+    {
+      "displayName": "Águas do Tejo Atlântico",
+      "id": "aguasdotejoatlantico-f1a3cc",
+      "locationSet": {
+        "include": [
+          "pt-10.geojson",
+          "pt-11.geojson",
+          "pt-14.geojson"
+        ]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Águas do Tejo Atlântico"
+      }
+    },
+    {
+      "displayName": "Águas Públicas do Alentejo",
+      "id": "aguaspublicasdoalentejo-c3a72d",
+      "locationSet": {
+        "include": [
+          "pt-02.geojson",
+          "pt-07.geojson",
+          "pt-15.geojson"
+        ]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Águas Públicas do Alentejo"
+      }
+    },
+    {
+      "displayName": "Aguas y Residuos del Campo de Gibraltar, S. A.",
+      "id": "aguasyresiduosdelcampodegibraltarsa-fc4a0b",
+      "locationSet": {
+        "include": ["es-ca.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Aguas y Residuos del Campo de Gibraltar, S. A."
+      }
+    },
+    {
+      "displayName": "ALFÖLDVÍZ Zrt.",
+      "id": "alfoldvizzrt-931b06",
+      "locationSet": {"include": ["hu"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ALFÖLDVÍZ Zrt."
+      }
+    },
+    {
+      "displayName": "Anglian Water",
+      "id": "anglianwater-3c939b",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Anglian Water",
+        "operator:wikidata": "Q4763422"
+      }
+    },
+    {
+      "displayName": "Aquafin",
+      "id": "aquafin-2214b4",
+      "locationSet": {"include": ["be"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Aquafin",
+        "operator:wikidata": "Q1826608"
+      }
+    },
+    {
+      "displayName": "Aqualter Exploitation - Assainissement",
+      "id": "aqualterexploitationassainissement-798128",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Aqualter Exploitation - Assainissement"
+      }
+    },
+    {
+      "displayName": "Asteo",
+      "id": "asteo-798128",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Asteo"
+      }
+    },
+    {
+      "displayName": "Autoridad de Acueductos y Alcantarillados",
+      "id": "autoridaddeacueductosyalcantarillados-e33c0e",
+      "locationSet": {"include": ["pr"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Autoridad de Acueductos y Alcantarillados",
+        "operator:wikidata": "Q7258674"
+      }
+    },
+    {
+      "displayName": "Bangalore Water Supply and Sewerage Board",
+      "id": "bangalorewatersupplyandsewerageboard-b9df44",
+      "locationSet": {
+        "include": ["in-ka.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Bangalore Water Supply and Sewerage Board",
+        "operator:short": "BWSSB",
+        "operator:wikidata": "Q4855083"
+      }
+    },
+    {
+      "displayName": "Barwon Water",
+      "id": "barwonwater-9409a2",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Barwon Water",
+        "operator:wikidata": "Q4865988"
+      }
+    },
+    {
+      "displayName": "Bergisch-Rheinischer Wasserverband",
+      "id": "bergischrheinischerwasserverband-ea0c8b",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "matchNames": [
+        "bergisch-rheinischer wasserverband - brw haan"
+      ],
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Bergisch-Rheinischer Wasserverband",
+        "operator:short": "BRW",
+        "operator:wikidata": "Q130247180"
+      }
+    },
+    {
+      "displayName": "Berliner Wasserbetriebe",
+      "id": "berlinerwasserbetriebe-96557d",
+      "locationSet": {
+        "include": ["de-be.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Berliner Wasserbetriebe",
+        "operator:short": "BWB",
+        "operator:wikidata": "Q821856"
+      }
+    },
+    {
+      "displayName": "Canal de Isabel II",
+      "id": "canaldeisabelii-982fff",
+      "locationSet": {
+        "include": [
+          "es-gu.geojson",
+          "es-m.geojson"
+        ]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Canal de Isabel II",
+        "operator:short": "CYII",
+        "operator:wikidata": "Q2407104"
+      }
+    },
+    {
+      "displayName": "Central Highlands Water",
+      "id": "centralhighlandswater-9409a2",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Central Highlands Water",
+        "operator:wikidata": "Q16858671"
+      }
+    },
+    {
+      "displayName": "Clean Harbors",
+      "id": "cleanharbors-0761ed",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Clean Harbors",
+        "operator:wikidata": "Q5130494"
+      }
+    },
+    {
+      "displayName": "Clean Water Services",
+      "id": "cleanwaterservices-3ab24f",
+      "locationSet": {
+        "include": ["us-or.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Clean Water Services",
+        "operator:short": "CWS",
+        "operator:wikidata": "Q5130533"
+      }
+    },
+    {
+      "displayName": "Coliban Water",
+      "id": "colibanwater-9409a2",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Coliban Water",
+        "operator:wikidata": "Q5144809"
+      }
+    },
+    {
+      "displayName": "Communauté de communes du Clermontais",
+      "id": "communautedecommunesduclermontais-798128",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Communauté de communes du Clermontais",
+        "operator:wikidata": "Q2988384"
+      }
+    },
+    {
+      "displayName": "Communauté de communes du Grand Pic Saint-Loup",
+      "id": "communautedecommunesdugrandpicsaintloup-798128",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Communauté de communes du Grand Pic Saint-Loup",
+        "operator:wikidata": "Q2988424"
+      }
+    },
+    {
+      "displayName": "Communauté de communes Les Avant-Monts",
+      "id": "communautedecommuneslesavantmonts-798128",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Communauté de communes Les Avant-Monts",
+        "operator:wikidata": "Q14126458"
+      }
+    },
+    {
+      "displayName": "Communauté de communes Vallée de l'Hérault",
+      "id": "communautedecommunesvalleedelherault-798128",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Communauté de communes Vallée de l'Hérault",
+        "operator:wikidata": "Q1117464"
+      }
+    },
+    {
+      "displayName": "Companhia de Água e Esgoto do Ceará",
+      "id": "companhiadeaguaeesgotodoceara-11a6e3",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Companhia de Água e Esgoto do Ceará",
+        "operator:short": "Cagece",
+        "operator:wikidata": "Q19609168"
+      }
+    },
+    {
+      "displayName": "Compesa",
+      "id": "compesa-11a6e3",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Compesa",
+        "operator:wikidata": "Q9830582"
+      }
+    },
+    {
+      "displayName": "Copasa",
+      "id": "copasa-11a6e3",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Copasa",
+        "operator:wikidata": "Q9831814"
+      }
+    },
+    {
+      "displayName": "Delhi Jal Board",
+      "id": "delhijalboard-358b63",
+      "locationSet": {
+        "include": ["in-dl.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Delhi Jal Board",
+        "operator:wikidata": "Q5253772"
+      }
+    },
+    {
+      "displayName": "Durance Luberon Verdon Agglomération",
+      "id": "duranceluberonverdonagglomeration-1cb922",
+      "locationSet": {
+        "include": ["fr-pac.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Durance Luberon Verdon Agglomération",
+        "operator:short": "DLVA",
+        "operator:wikidata": "Q2986893"
+      }
+    },
+    {
+      "displayName": "Dŵr Cymru - Welsh Water",
+      "id": "dwrcymruwelshwater-1ebfd6",
+      "locationSet": {
+        "include": ["gb-eng", "gb-wls"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Dŵr Cymru - Welsh Water",
+        "operator:cy": "Dŵr Cymru",
+        "operator:en": "Welsh Water",
+        "operator:wikidata": "Q7982011"
+      }
+    },
+    {
+      "displayName": "East Gippsland Water",
+      "id": "eastgippslandwater-9409a2",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "East Gippsland Water",
+        "operator:wikidata": "Q111142849"
+      }
+    },
+    {
+      "displayName": "Entsorgungsverband Saar",
+      "id": "entsorgungsverbandsaar-ae41e9",
+      "locationSet": {
+        "include": ["de-sl.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Entsorgungsverband Saar",
+        "operator:short": "EVS",
+        "operator:wikidata": "Q1345464"
+      }
+    },
+    {
+      "displayName": "Erftverband",
+      "id": "erftverband-ea0c8b",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Erftverband",
+        "operator:wikidata": "Q1350161"
+      }
+    },
+    {
+      "displayName": "Gippsland Water",
+      "id": "gippslandwater-9409a2",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Gippsland Water",
+        "operator:wikidata": "Q111142865"
+      }
+    },
+    {
+      "displayName": "Goulburn Valley Water",
+      "id": "goulburnvalleywater-9409a2",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Goulburn Valley Water",
+        "operator:wikidata": "Q111142877"
+      }
+    },
+    {
+      "displayName": "Grampians Wimmera Mallee Water",
+      "id": "grampianswimmeramalleewater-9409a2",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Grampians Wimmera Mallee Water",
+        "operator:wikidata": "Q111143122"
+      }
+    },
+    {
+      "displayName": "Grand Strand Water & Sewer Authority",
+      "id": "grandstrandwaterandsewerauthority-dc93ff",
+      "locationSet": {
+        "include": ["us-sc.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Grand Strand Water & Sewer Authority"
+      }
+    },
+    {
+      "displayName": "Greater Western Water",
+      "id": "greaterwesternwater-9409a2",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Greater Western Water",
+        "operator:wikidata": "Q111142722"
+      }
+    },
+    {
+      "displayName": "Hafren Dyfrdwy Cyfyngedig",
+      "id": "hafrendyfrdwycyfyngedig-9a5141",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Hafren Dyfrdwy Cyfyngedig",
+        "operator:wikidata": "Q5249959"
+      }
+    },
+    {
+      "displayName": "Hoogheemraadschap Hollands Noorderkwartier",
+      "id": "hoogheemraadschaphollandsnoorderkwartier-addada",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Hoogheemraadschap Hollands Noorderkwartier",
+        "operator:wikidata": "Q4469762"
+      }
+    },
+    {
+      "displayName": "Hoogheemraadschap van Rijnland",
+      "id": "hoogheemraadschapvanrijnland-addada",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Hoogheemraadschap van Rijnland",
+        "operator:wikidata": "Q2619632"
+      }
+    },
+    {
+      "displayName": "Hunter Water",
+      "id": "hunterwater-3a15ac",
+      "locationSet": {
+        "include": ["au-nsw.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Hunter Water",
+        "operator:wikidata": "Q24185434"
+      }
+    },
+    {
+      "displayName": "Icon Water",
+      "id": "iconwater-98f006",
+      "locationSet": {
+        "include": [
+          "au-act.geojson",
+          "au-nsw.geojson"
+        ]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Icon Water",
+        "operator:wikidata": "Q288778"
+      }
+    },
+    {
+      "displayName": "INASEP",
+      "id": "inasep-db5479",
+      "locationSet": {
+        "include": [
+          "be-wlg.geojson",
+          "be-wna.geojson"
+        ]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "INASEP"
+      }
+    },
+    {
+      "displayName": "Indah Water",
+      "id": "indahwater-36d0a3",
+      "locationSet": {"include": ["my"]},
+      "matchNames": ["indah water konsortium"],
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Indah Water",
+        "operator:short": "IWK",
+        "operator:wikidata": "Q6015650"
+      }
+    },
+    {
+      "displayName": "Iren Emilia",
+      "id": "irenemilia-94afab",
+      "locationSet": {
+        "include": ["it-45.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Iren Emilia"
+      }
+    },
+    {
+      "displayName": "Irish Water",
+      "id": "irishwater-cd7865",
+      "locationSet": {"include": ["ie"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Irish Water",
+        "operator:en": "Irish Water",
+        "operator:ga": "Uisce Éireann",
+        "operator:wikidata": "Q18352148"
+      }
+    },
+    {
+      "displayName": "İZSU",
+      "id": "izsu-ec1879",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "İZSU",
+        "operator:wikidata": "Q105942628"
+      }
+    },
+    {
+      "displayName": "Jacksonville Electric Authority",
+      "id": "jacksonvilleelectricauthority-750319",
+      "locationSet": {
+        "include": [[-81.66, 30.34, 40]]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Jacksonville Electric Authority",
+        "operator:short": "JEA",
+        "operator:wikidata": "Q17068270"
+      }
+    },
+    {
+      "displayName": "KOSIT, a.s.",
+      "id": "kositas-48394e",
+      "locationSet": {
+        "include": ["sk-ki.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "KOSIT, a.s.",
+        "operator:wikidata": "Q96129857"
+      }
+    },
+    {
+      "displayName": "LADWP",
+      "id": "losangelesdepartmentofwaterandpower-f08e14",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Los Angeles Department of Water and Power",
+        "operator:short": "LADWP",
+        "operator:wikidata": "Q3259704"
+      }
+    },
+    {
+      "displayName": "Lower Murray Water",
+      "id": "lowermurraywater-9409a2",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Lower Murray Water",
+        "operator:wikidata": "Q111143226"
+      }
+    },
+    {
+      "displayName": "Mancomunidad Comarca de Pamplona/Iruñerriko Mankomunitatea",
+      "id": "mancomunidadcomarcadepamplonairunerrikomankomunitatea-4b64db",
+      "locationSet": {
+        "include": ["es-na.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Mancomunidad Comarca de Pamplona/Iruñerriko Mankomunitatea",
+        "operator:wikidata": "Q3297794"
+      }
+    },
+    {
+      "displayName": "Maynilad Water Services",
+      "id": "mayniladwaterservices-9ef527",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": ["maynilad"],
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Maynilad Water Services",
+        "operator:wikidata": "Q6797462"
+      }
+    },
+    {
+      "displayName": "Melbourne Water",
+      "id": "melbournewater-9409a2",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Melbourne Water",
+        "operator:wikidata": "Q6811920"
+      }
+    },
+    {
+      "displayName": "MWRD",
+      "id": "metropolitanwaterreclamationdistrictofgreaterchicago-eb5ed3",
+      "locationSet": {
+        "include": ["us-il.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Metropolitan Water Reclamation District of Greater Chicago",
+        "operator:short": "MWRD",
+        "operator:wikidata": "Q6825322"
+      }
+    },
+    {
+      "displayName": "Niersverband",
+      "id": "niersverband-ea0c8b",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Niersverband",
+        "operator:wikidata": "Q1989293"
+      }
+    },
+    {
+      "displayName": "North East Water",
+      "id": "northeastwater-9409a2",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "North East Water",
+        "operator:wikidata": "Q111143408"
+      }
+    },
+    {
+      "displayName": "Northern Ireland Water",
+      "id": "northernirelandwater-4ab999",
+      "locationSet": {"include": ["gb-nir"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Northern Ireland Water",
+        "operator:wikidata": "Q7058537"
+      }
+    },
+    {
+      "displayName": "Northumbrian Water",
+      "id": "northumbrianwater-9a5141",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Northumbrian Water",
+        "operator:wikidata": "Q7059853"
+      }
+    },
+    {
+      "displayName": "ONAS (Senegal)",
+      "id": "onas-9154d6",
+      "locationSet": {"include": ["sn"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ONAS",
+        "operator:wikidata": "Q30268305"
+      }
+    },
+    {
+      "displayName": "ONAS (Tunisia)",
+      "id": "onas-5fcb3a",
+      "locationSet": {"include": ["tn"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ONAS",
+        "operator:wikidata": "Q3349645"
+      }
+    },
+    {
+      "displayName": "Power and Water",
+      "id": "powerandwater-e69d8a",
+      "locationSet": {
+        "include": ["au-nt.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Power and Water",
+        "operator:wikidata": "Q7236467"
+      }
+    },
+    {
+      "displayName": "Rodez Agglomération",
+      "id": "rodezagglomeration-798128",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Rodez Agglomération",
+        "operator:wikidata": "Q2986995"
+      }
+    },
+    {
+      "displayName": "Ruhrverband",
+      "id": "ruhrverband-ea0c8b",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Ruhrverband",
+        "operator:short": "RV",
+        "operator:wikidata": "Q2175142"
+      }
+    },
+    {
+      "displayName": "SA Water",
+      "id": "sawater-12f4ae",
+      "locationSet": {
+        "include": ["au-sa.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "SA Water",
+        "operator:wikidata": "Q7388895"
+      }
+    },
+    {
+      "displayName": "Sabesp",
+      "id": "sabesp-220197",
+      "locationSet": {
+        "include": ["br-sp.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Sabesp",
+        "operator:wikidata": "Q183184"
+      }
+    },
+    {
+      "displayName": "SAUR",
+      "id": "saur-ea08bf",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "SAUR",
+        "operator:wikidata": "Q3117550"
+      }
+    },
+    {
+      "displayName": "Scottish Water",
+      "id": "scottishwater-4f92d3",
+      "locationSet": {"include": ["gb-sct"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Scottish Water",
+        "operator:wikidata": "Q7438022"
+      }
+    },
+    {
+      "displayName": "Seattle Public Utilities",
+      "id": "seattlepublicutilities-0ed09f",
+      "locationSet": {
+        "include": ["us-wa.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Seattle Public Utilities",
+        "operator:short": "SPU",
+        "operator:type": "public",
+        "operator:wikidata": "Q7442159"
+      }
+    },
+    {
+      "displayName": "Seqwater",
+      "id": "seqwater-b109db",
+      "locationSet": {
+        "include": ["au-qld.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Seqwater",
+        "operator:wikidata": "Q7452585"
+      }
+    },
+    {
+      "displayName": "Severn Trent",
+      "id": "severntrent-3c939b",
+      "locationSet": {"include": ["gb-eng"]},
+      "matchNames": ["severn trent water"],
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Severn Trent",
+        "operator:wikidata": "Q503077"
+      }
+    },
+    {
+      "displayName": "Simarsul",
+      "id": "simarsul-ed5d24",
+      "locationSet": {
+        "include": ["pt-15.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Simarsul"
+      }
+    },
+    {
+      "displayName": "SIMDOURO",
+      "id": "simdouro-56d0e4",
+      "locationSet": {
+        "include": [
+          "pt-01.geojson",
+          "pt-13.geojson",
+          "pt-18.geojson"
+        ]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "SIMDOURO"
+      }
+    },
+    {
+      "displayName": "South East Water",
+      "id": "southeastwater-9409a2",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "South East Water",
+        "operator:wikidata": "Q7567145"
+      }
+    },
+    {
+      "displayName": "South Gippsland Water",
+      "id": "southgippslandwater-9409a2",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "South Gippsland Water",
+        "operator:wikidata": "Q111143421"
+      }
+    },
+    {
+      "displayName": "South West Water",
+      "id": "southwestwater-2a6f9d",
+      "locationSet": {
+        "include": ["gb-south-west.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "South West Water",
+        "operator:wikidata": "Q7568898"
+      }
+    },
+    {
+      "displayName": "Southern Water",
+      "id": "southernwater-3c939b",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Southern Water",
+        "operator:wikidata": "Q7570621"
+      }
+    },
+    {
+      "displayName": "Suez Eau France",
+      "id": "suezeaufrance-ea08bf",
+      "locationSet": {"include": ["fx"]},
+      "matchNames": ["suez"],
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Suez Eau France",
+        "operator:wikidata": "Q3269667"
+      }
+    },
+    {
+      "displayName": "Sydney Water",
+      "id": "sydneywater-3a15ac",
+      "locationSet": {
+        "include": ["au-nsw.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Sydney Water",
+        "operator:wikidata": "Q14476248"
+      }
+    },
+    {
+      "displayName": "TasWater",
+      "id": "taswater-24f6df",
+      "locationSet": {"include": ["au-tas"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "TasWater",
+        "operator:wikidata": "Q19879818"
+      }
+    },
+    {
+      "displayName": "Thames Water",
+      "id": "thameswater-3c939b",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Thames Water",
+        "operator:wikidata": "Q2408951"
+      }
+    },
+    {
+      "displayName": "United Utilities",
+      "id": "unitedutilities-9a5141",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "United Utilities",
+        "operator:wikidata": "Q503038"
+      }
+    },
+    {
+      "displayName": "Véolia",
+      "id": "veolia-ea08bf",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Véolia",
+        "operator:wikidata": "Q1632461"
+      }
+    },
+    {
+      "displayName": "Vichy Communauté",
+      "id": "vichycommunaute-292a84",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Vichy Communauté",
+        "operator:wikidata": "Q28088238"
+      }
+    },
+    {
+      "displayName": "Wannon Water",
+      "id": "wannonwater-9409a2",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Wannon Water",
+        "operator:wikidata": "Q111143433"
+      }
+    },
+    {
+      "displayName": "Wasserverband Eifel-Rur",
+      "id": "wasserverbandeifelrur-ea0c8b",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Wasserverband Eifel-Rur",
+        "operator:short": "WVER",
+        "operator:wikidata": "Q2551890"
+      }
+    },
+    {
+      "displayName": "Water Corporation",
+      "id": "watercorporation-c76c40",
+      "locationSet": {
+        "include": ["au-wa.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Water Corporation",
+        "operator:wikidata": "Q17058890"
+      }
+    },
+    {
+      "displayName": "Watercare",
+      "id": "watercare-0e93fe",
+      "locationSet": {
+        "include": ["nz-auk.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Watercare",
+        "operator:wikidata": "Q96414325"
+      }
+    },
+    {
+      "displayName": "Waterschap Hollandse Delta",
+      "id": "waterschaphollandsedelta-addada",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Waterschap Hollandse Delta",
+        "operator:wikidata": "Q3079910"
+      }
+    },
+    {
+      "displayName": "Waterschap Rivierenland",
+      "id": "waterschaprivierenland-addada",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Waterschap Rivierenland",
+        "operator:wikidata": "Q2273075"
+      }
+    },
+    {
+      "displayName": "Waterschap Scheldestromen",
+      "id": "waterschapscheldestromen-addada",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Waterschap Scheldestromen",
+        "operator:wikidata": "Q2422832"
+      }
+    },
+    {
+      "displayName": "Wessex Water",
+      "id": "wessexwater-2a6f9d",
+      "locationSet": {
+        "include": ["gb-south-west.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Wessex Water",
+        "operator:wikidata": "Q7984154"
+      }
+    },
+    {
+      "displayName": "Westernport Water",
+      "id": "westernportwater-9409a2",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Westernport Water",
+        "operator:wikidata": "Q111143439"
+      }
+    },
+    {
+      "displayName": "Wetterskip Fryslân",
+      "id": "wetterskipfryslan-addada",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Wetterskip Fryslân",
+        "operator:wikidata": "Q1970347"
+      }
+    },
+    {
+      "displayName": "Wupperverband",
+      "id": "wupperverband-ea0c8b",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Wupperverband",
+        "operator:wikidata": "Q2595186"
+      }
+    },
+    {
+      "displayName": "Yarra Valley Water",
+      "id": "yarravalleywater-9409a2",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Yarra Valley Water",
+        "operator:wikidata": "Q8049513"
+      }
+    },
+    {
+      "displayName": "Yorkshire Water",
+      "id": "yorkshirewater-9a5141",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Yorkshire Water",
+        "operator:wikidata": "Q8055763"
+      }
+    },
+    {
+      "displayName": "ВиК Благоевград",
+      "id": "b7d6cd-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Благоевград",
+        "operator:wikidata": "Q113588831"
+      }
+    },
+    {
+      "displayName": "ВиК Бургас",
+      "id": "04e09c-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Бургас",
+        "operator:wikidata": "Q113588987"
+      }
+    },
+    {
+      "displayName": "ВиК Варна",
+      "id": "7efdd8-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Варна",
+        "operator:wikidata": "Q113588992"
+      }
+    },
+    {
+      "displayName": "ВиК Видин",
+      "id": "8ff433-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Видин",
+        "operator:wikidata": "Q64785053"
+      }
+    },
+    {
+      "displayName": "ВиК Враца",
+      "id": "bd05a8-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Враца",
+        "operator:wikidata": "Q113588748"
+      }
+    },
+    {
+      "displayName": "ВиК Габрово",
+      "id": "c2d9d3-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Габрово",
+        "operator:wikidata": "Q113588824"
+      }
+    },
+    {
+      "displayName": "ВиК Добрич",
+      "id": "fca690-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Добрич",
+        "operator:wikidata": "Q113588994"
+      }
+    },
+    {
+      "displayName": "ВиК Йовковци (Велико Търново)",
+      "id": "c2f01b-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Йовковци",
+        "operator:wikidata": "Q113611510"
+      }
+    },
+    {
+      "displayName": "ВиК Кърджали",
+      "id": "92d36e-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Кърджали",
+        "operator:wikidata": "Q113588980"
+      }
+    },
+    {
+      "displayName": "ВиК Ловеч",
+      "id": "7620d6-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Ловеч",
+        "operator:wikidata": "Q113588800"
+      }
+    },
+    {
+      "displayName": "ВиК Монтана",
+      "id": "ea2fe0-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Монтана",
+        "operator:wikidata": "Q113588745"
+      }
+    },
+    {
+      "displayName": "ВиК Пазарджик",
+      "id": "13156c-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Пазарджик",
+        "operator:wikidata": "Q113588836"
+      }
+    },
+    {
+      "displayName": "ВиК Перник",
+      "id": "960625-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Перник",
+        "operator:wikidata": "Q113588978"
+      }
+    },
+    {
+      "displayName": "ВиК Плевен",
+      "id": "0736fe-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Плевен",
+        "operator:wikidata": "Q113588761"
+      }
+    },
+    {
+      "displayName": "ВиК Пловдив",
+      "id": "d609e6-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Пловдив",
+        "operator:wikidata": "Q113588952"
+      }
+    },
+    {
+      "displayName": "ВиК Разград",
+      "id": "28b8e9-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Разград",
+        "operator:wikidata": "Q113588990"
+      }
+    },
+    {
+      "displayName": "ВиК Русе",
+      "id": "0ae57d-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Русе",
+        "operator:wikidata": "Q113611512"
+      }
+    },
+    {
+      "displayName": "ВиК Силистра",
+      "id": "4448c6-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Силистра",
+        "operator:wikidata": "Q127693837"
+      }
+    },
+    {
+      "displayName": "ВиК Сливен",
+      "id": "1f80e1-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Сливен",
+        "operator:wikidata": "Q113588985"
+      }
+    },
+    {
+      "displayName": "ВиК Смолян",
+      "id": "909eab-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Смолян",
+        "operator:wikidata": "Q113588934"
+      }
+    },
+    {
+      "displayName": "ВиК София област",
+      "id": "423877-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК София област",
+        "operator:wikidata": "Q113588713"
+      }
+    },
+    {
+      "displayName": "ВиК Стара Загора",
+      "id": "f8ff0f-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Стара Загора",
+        "operator:wikidata": "Q113588955"
+      }
+    },
+    {
+      "displayName": "ВиК Търговище",
+      "id": "f5e9ca-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Търговище",
+        "operator:wikidata": "Q113588988"
+      }
+    },
+    {
+      "displayName": "ВиК Хасково",
+      "id": "1ed3c2-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Хасково",
+        "operator:wikidata": "Q113588961"
+      }
+    },
+    {
+      "displayName": "ВиК Шумен",
+      "id": "2be4ff-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Шумен",
+        "operator:wikidata": "Q113588991"
+      }
+    },
+    {
+      "displayName": "ВиК Ямбол",
+      "id": "460ece-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "ВиК Ямбол",
+        "operator:wikidata": "Q113588986"
+      }
+    },
+    {
+      "displayName": "Кюстендилска вода",
+      "id": "bcb696-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Кюстендилска вода",
+        "operator:wikidata": "Q113588828"
+      }
+    },
+    {
+      "displayName": "Софийска вода",
+      "id": "938062-bcdd97",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "Софийска вода",
+        "operator:wikidata": "Q113588707"
+      }
+    },
+    {
+      "displayName": "成都市排水有限责任公司",
+      "id": "chengdudrainagecoltd-96de96",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "note": "ISO 3166-2 CN-SC",
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "成都市排水有限责任公司",
+        "operator:en": "Chengdu Drainage Co.,LTD.",
+        "operator:wikidata": "Q113625102",
+        "operator:zh": "成都市排水有限责任公司"
+      }
+    },
+    {
+      "displayName": "渠務署 Drainage Services Department",
+      "id": "drainageservicesdepartment-942386",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "man_made": "wastewater_plant",
+        "operator": "渠務署 Drainage Services Department",
+        "operator:en": "Drainage Services Department",
+        "operator:type": "government",
+        "operator:wikidata": "Q11703256",
+        "operator:zh": "渠務署"
+      }
+    }
+  ]
+}

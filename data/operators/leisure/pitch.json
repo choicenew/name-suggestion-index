@@ -1,0 +1,1328 @@
+{
+  "properties": {
+    "path": "operators/leisure/pitch",
+    "exclude": {
+      "generic": ["^military$", "^pitch$"],
+      "named": ["^sícoris club$"]
+    }
+  },
+  "items": [
+    {
+      "displayName": "ACEMA",
+      "id": "acema-82c6fb",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "ACEMA"
+      }
+    },
+    {
+      "displayName": "Ailes du Bugey",
+      "id": "ailesdubugey-75a103",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Ailes du Bugey"
+      }
+    },
+    {
+      "displayName": "Aligers",
+      "id": "aligers-adbaf8",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Aligers"
+      }
+    },
+    {
+      "displayName": "B93",
+      "id": "b93-e67756",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "B93"
+      }
+    },
+    {
+      "displayName": "Besancon Vol Libre",
+      "id": "besanconvollibre-0a3ef5",
+      "locationSet": {
+        "include": ["fr-bfc.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Besancon Vol Libre"
+      }
+    },
+    {
+      "displayName": "Bonita Beach and Tennis Club",
+      "id": "bonitabeachandtennisclub-82f98a",
+      "locationSet": {
+        "include": ["us-fl.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Bonita Beach and Tennis Club"
+      }
+    },
+    {
+      "displayName": "Boston Primary School",
+      "id": "bostonprimaryschool-bb90fc",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Boston Primary School"
+      }
+    },
+    {
+      "displayName": "Bowling Green State University",
+      "id": "bowlinggreenstateuniversity-573bf6",
+      "locationSet": {
+        "include": ["us-oh.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Bowling Green State University",
+        "operator:short": "BGSU",
+        "operator:wikidata": "Q895457"
+      }
+    },
+    {
+      "displayName": "Broxtowe Borough Council",
+      "id": "broxtoweboroughcouncil-45fac9",
+      "locationSet": {
+        "include": ["gb-east-midlands.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Broxtowe Borough Council",
+        "operator:wikidata": "Q73072553"
+      }
+    },
+    {
+      "displayName": "Burke Centre Conservancy",
+      "id": "burkecentreconservancy-669006",
+      "locationSet": {
+        "include": ["us-va.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Burke Centre Conservancy"
+      }
+    },
+    {
+      "displayName": "Burroughs High School (Ridgecrest, CA)",
+      "id": "shermaneburroughshighschool-6d2462",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "matchNames": ["burroughs high school"],
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Sherman E. Burroughs High School",
+        "operator:wikidata": "Q7495163"
+      }
+    },
+    {
+      "displayName": "C.D.V.L. du Cantal",
+      "id": "cdvlducantal-75a103",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "C.D.V.L. du Cantal"
+      }
+    },
+    {
+      "displayName": "C.D.V.L. Puy-de-Dome",
+      "id": "cdvlpuydedome-75a103",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "C.D.V.L. Puy-de-Dome"
+      }
+    },
+    {
+      "displayName": "City of Alpena",
+      "id": "cityofalpena-fce86c",
+      "locationSet": {
+        "include": ["us-mi.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "City of Alpena",
+        "operator:wikidata": "Q1012455"
+      }
+    },
+    {
+      "displayName": "City of Calgary",
+      "id": "cityofcalgary-8d2a1d",
+      "locationSet": {
+        "include": ["ca-ab.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "City of Calgary",
+        "operator:wikidata": "Q135270647"
+      }
+    },
+    {
+      "displayName": "City of Dubuque",
+      "id": "cityofdubuque-3b2d57",
+      "locationSet": {
+        "include": ["us-ia.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "City of Dubuque",
+        "operator:wikidata": "Q493794"
+      }
+    },
+    {
+      "displayName": "City of Ottawa",
+      "id": "cityofottawa-272e42",
+      "locationSet": {
+        "include": ["ca-on.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "City of Ottawa",
+        "operator:wikidata": "Q5123850"
+      }
+    },
+    {
+      "displayName": "Club ou Gestionnaire du site non renséigné",
+      "id": "clubougestionnairedusitenonrenseigne-0ed13b",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Club ou Gestionnaire du site non renséigné"
+      }
+    },
+    {
+      "displayName": "Cluny s'envole",
+      "id": "clunysenvole-0a3ef5",
+      "locationSet": {
+        "include": ["fr-bfc.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Cluny s'envole"
+      }
+    },
+    {
+      "displayName": "Communauté de communes Côte Ouest Centre Manche",
+      "id": "communautedecommunescoteouestcentremanche-a99456",
+      "locationSet": {
+        "include": ["fr-nor.geojson"]
+      },
+      "matchNames": [
+        "cc côte ouest centre manche"
+      ],
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Communauté de communes Côte Ouest Centre Manche",
+        "operator:wikidata": "Q28494334"
+      }
+    },
+    {
+      "displayName": "Conselho Municipal de Maputo",
+      "id": "conselhomunicipaldemaputo-fe1461",
+      "locationSet": {"include": ["mz"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Conselho Municipal de Maputo"
+      }
+    },
+    {
+      "displayName": "Cotentin Vol Libre",
+      "id": "cotentinvollibre-a99456",
+      "locationSet": {
+        "include": ["fr-nor.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Cotentin Vol Libre"
+      }
+    },
+    {
+      "displayName": "D.W Fitness",
+      "id": "dwfitness-02a05d",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "D.W Fitness"
+      }
+    },
+    {
+      "displayName": "Decathlon",
+      "id": "decathlon-5bc672",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": [
+          "bg",
+          "hk",
+          "ru",
+          "tw",
+          "ua",
+          "us"
+        ]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Decathlon",
+        "operator:wikidata": "Q509349"
+      }
+    },
+    {
+      "displayName": "Dellinger Park",
+      "id": "dellingerpark-80b0d4",
+      "locationSet": {
+        "include": ["us-ga.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Dellinger Park",
+        "operator:wikidata": "Q49482671"
+      }
+    },
+    {
+      "displayName": "DJK Schweinfurt",
+      "id": "djkschweinfurt-d293c1",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "DJK Schweinfurt",
+        "operator:wikidata": "Q108964742"
+      }
+    },
+    {
+      "displayName": "Edinburgh Leisure",
+      "id": "edinburghleisure-139a55",
+      "locationSet": {"include": ["gb-sct"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Edinburgh Leisure"
+      }
+    },
+    {
+      "displayName": "Envol sud isere",
+      "id": "envolsudisere-75a103",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Envol sud isere"
+      }
+    },
+    {
+      "displayName": "Eur en ciel",
+      "id": "eurenciel-a99456",
+      "locationSet": {
+        "include": ["fr-nor.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Eur en ciel"
+      }
+    },
+    {
+      "displayName": "Europäische Schule",
+      "id": "europaischeschule-b87489",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Europäische Schule"
+      }
+    },
+    {
+      "displayName": "Fichtner Mainwaring Park",
+      "id": "fichtnermainwaringpark-da3f44",
+      "locationSet": {
+        "include": ["us-or.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Fichtner Mainwaring Park"
+      }
+    },
+    {
+      "displayName": "Florida Tennis Center",
+      "id": "floridatenniscenter-82f98a",
+      "locationSet": {
+        "include": ["us-fl.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Florida Tennis Center"
+      }
+    },
+    {
+      "displayName": "Fraser Public Schools",
+      "id": "fraserpublicschools-fce86c",
+      "locationSet": {
+        "include": ["us-mi.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Fraser Public Schools",
+        "operator:wikidata": "Q5493657"
+      }
+    },
+    {
+      "displayName": "Gemeinde Unterhaching",
+      "id": "gemeindeunterhaching-d293c1",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Gemeinde Unterhaching",
+        "operator:wikidata": "Q264899"
+      }
+    },
+    {
+      "displayName": "Hackney Tennis",
+      "id": "hackneytennis-bac174",
+      "locationSet": {
+        "include": ["gb-lon.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Hackney Tennis",
+        "operator:wikidata": "Q111630138",
+        "reservation": "required",
+        "sport": "tennis"
+      }
+    },
+    {
+      "displayName": "Harrison Park",
+      "id": "harrisonpark-80b0d4",
+      "locationSet": {
+        "include": ["us-ga.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Harrison Park"
+      }
+    },
+    {
+      "displayName": "Heidelberger Turnverein 1846 e.V.",
+      "id": "heidelbergerturnverein1846ev-54bad5",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Heidelberger Turnverein 1846 e.V.",
+        "operator:wikidata": "Q832774"
+      }
+    },
+    {
+      "displayName": "Holland Charter Township",
+      "id": "hollandchartertownship-fce86c",
+      "locationSet": {
+        "include": ["us-mi.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Holland Charter Township",
+        "operator:wikidata": "Q4244136"
+      }
+    },
+    {
+      "displayName": "Houston Parks and Recreation Department",
+      "id": "houstonparksandrecreationdepartment-bbc183",
+      "locationSet": {
+        "include": ["us-tx.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Houston Parks and Recreation Department",
+        "operator:short": "HPARD",
+        "operator:wikidata": "Q115018877",
+        "owner": "City of Houston",
+        "owner:wikidata": "Q16555"
+      }
+    },
+    {
+      "displayName": "Houston Racquet Club",
+      "id": "houstonracquetclub-bbc183",
+      "locationSet": {
+        "include": ["us-tx.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Houston Racquet Club"
+      }
+    },
+    {
+      "displayName": "Hrvatski akademski teniski klub Mladost",
+      "id": "hrvatskiakademskiteniskiklubmladost-dca74c",
+      "locationSet": {"include": ["hr"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Hrvatski akademski teniski klub Mladost"
+      }
+    },
+    {
+      "displayName": "Institut für Sport und Sportwissenschaft",
+      "id": "institutfursportundsportwissenschaft-2afa8b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Institut für Sport und Sportwissenschaft"
+      }
+    },
+    {
+      "displayName": "Jones County Junior College",
+      "id": "jonescountyjuniorcollege-5d0479",
+      "locationSet": {
+        "include": ["us-ms.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Jones County Junior College",
+        "operator:wikidata": "Q6275177"
+      }
+    },
+    {
+      "displayName": "Journey at Pechanga",
+      "id": "journeyatpechanga-6d2462",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Journey at Pechanga"
+      }
+    },
+    {
+      "displayName": "Joy Jaagpad",
+      "id": "joyjaagpad-cc7be6",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Joy Jaagpad"
+      }
+    },
+    {
+      "displayName": "Karlsruher TV e.V.",
+      "id": "karlsruhertvev-54bad5",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Karlsruher TV e.V.",
+        "operator:wikidata": "Q106087730"
+      }
+    },
+    {
+      "displayName": "Kouvolan kaupunki",
+      "id": "kouvolankaupunki-8c67a7",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Kouvolan kaupunki",
+        "operator:wikidata": "Q204382"
+      }
+    },
+    {
+      "displayName": "Kuopion kaupunki",
+      "id": "kuopionkaupunki-8c67a7",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Kuopion kaupunki",
+        "operator:wikidata": "Q162279"
+      }
+    },
+    {
+      "displayName": "Les Archers du Mont-Aiguille",
+      "id": "lesarchersdumontaiguille-75a103",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Les Archers du Mont-Aiguille"
+      }
+    },
+    {
+      "displayName": "Les gratte-ciel",
+      "id": "lesgratteciel-75a103",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Les gratte-ciel"
+      }
+    },
+    {
+      "displayName": "Les loups volants",
+      "id": "lesloupsvolants-a06f09",
+      "locationSet": {
+        "include": ["fr-pac.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Les loups volants"
+      }
+    },
+    {
+      "displayName": "Les Milans du Crêt d'Eau",
+      "id": "lesmilansducretdeau-75a103",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Les Milans du Crêt d'Eau"
+      }
+    },
+    {
+      "displayName": "Ligue de vol libre de Corse",
+      "id": "liguedevollibredecorse-303fbf",
+      "locationSet": {
+        "include": ["fr-20r.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Ligue de vol libre de Corse"
+      }
+    },
+    {
+      "displayName": "Ligue de vol libre de La Reunion",
+      "id": "liguedevollibredelareunion-dc8eb4",
+      "locationSet": {"include": ["re"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Ligue de vol libre de La Reunion"
+      }
+    },
+    {
+      "displayName": "Ligue de vol libre Occitanie",
+      "id": "liguedevollibreoccitanie-adbaf8",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Ligue de vol libre Occitanie"
+      }
+    },
+    {
+      "displayName": "Maine School Administrative District 06",
+      "id": "maineschooladministrativedistrict06-a40c57",
+      "locationSet": {
+        "include": ["us-me.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Maine School Administrative District 06",
+        "operator:wikidata": "Q14715234"
+      }
+    },
+    {
+      "displayName": "Mairie de Saint-Paul-lès-Dax",
+      "id": "mairiedesaintpaullesdax-794434",
+      "locationSet": {
+        "include": ["fr-naq.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Mairie de Saint-Paul-lès-Dax",
+        "operator:wikidata": "Q118555096"
+      }
+    },
+    {
+      "displayName": "Mairie de Villenave-d'Ornon",
+      "id": "mairiedevillenavedornon-794434",
+      "locationSet": {
+        "include": ["fr-naq.geojson"]
+      },
+      "matchNames": ["villenave-d'ornon"],
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Mairie de Villenave-d'Ornon",
+        "operator:wikidata": "Q118555147"
+      }
+    },
+    {
+      "displayName": "Marquette Area Public Schools",
+      "id": "marquetteareapublicschools-fce86c",
+      "locationSet": {
+        "include": ["us-mi.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Marquette Area Public Schools",
+        "operator:wikidata": "Q101483358"
+      }
+    },
+    {
+      "displayName": "Mierlose Tennis Vereniging",
+      "id": "mierlosetennisvereniging-cc7be6",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Mierlose Tennis Vereniging"
+      }
+    },
+    {
+      "displayName": "Missouri Department of Conservation",
+      "id": "missouridepartmentofconservation-da9cf4",
+      "locationSet": {
+        "include": ["us-mo.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Missouri Department of Conservation",
+        "operator:wikidata": "Q6879553"
+      }
+    },
+    {
+      "displayName": "MMCB",
+      "id": "magistratmestaceskebudejovice-1f8777",
+      "locationSet": {
+        "include": ["cz-31.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Magistrát města České Budějovice",
+        "operator:short": "MMCB",
+        "operator:wikidata": "Q16506"
+      }
+    },
+    {
+      "displayName": "mTrade Park",
+      "id": "mtradepark-5d0479",
+      "locationSet": {
+        "include": ["us-ms.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "mTrade Park"
+      }
+    },
+    {
+      "displayName": "Município de Maputo",
+      "id": "municipiodemaputo-fe1461",
+      "locationSet": {"include": ["mz"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Município de Maputo",
+        "operator:wikidata": "Q3889"
+      }
+    },
+    {
+      "displayName": "Muuramen kunta / liikuntatoimi",
+      "id": "muuramenkuntaliikuntatoimi-8c67a7",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Muuramen kunta / liikuntatoimi"
+      }
+    },
+    {
+      "displayName": "Newport City Council",
+      "id": "newportcitycouncil-1a17df",
+      "locationSet": {"include": ["gb-wls"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Newport City Council",
+        "operator:wikidata": "Q16998902"
+      }
+    },
+    {
+      "displayName": "Newry, Mourne and Down District Council",
+      "id": "newrymourneanddowndistrictcouncil-a4a9b2",
+      "locationSet": {"include": ["gb-nir"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Newry, Mourne and Down District Council",
+        "operator:wikidata": "Q16998911"
+      }
+    },
+    {
+      "displayName": "Noonday Creek Park",
+      "id": "noondaycreekpark-80b0d4",
+      "locationSet": {
+        "include": ["us-ga.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Noonday Creek Park",
+        "operator:wikidata": "Q7049756"
+      }
+    },
+    {
+      "displayName": "Norman Public Schools",
+      "id": "normanpublicschools-da33c9",
+      "locationSet": {
+        "include": ["us-ok.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Norman Public Schools",
+        "operator:wikidata": "Q14708640"
+      }
+    },
+    {
+      "displayName": "O.L.T.C.",
+      "id": "oltc-cc7be6",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "O.L.T.C."
+      }
+    },
+    {
+      "displayName": "Oslo kommune Bymiljøetaten",
+      "id": "oslokommunebymiljoetaten-9e31f9",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Oslo kommune Bymiljøetaten"
+      }
+    },
+    {
+      "displayName": "PadelCity",
+      "id": "padelcity-b87489",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "PadelCity",
+        "operator:wikidata": "Q139622987",
+        "sport": "padel"
+      }
+    },
+    {
+      "displayName": "Paintball-Wesenberg",
+      "id": "paintballwesenberg-b87489",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Paintball-Wesenberg"
+      }
+    },
+    {
+      "displayName": "Palm Beach Polo and Hunt Club",
+      "id": "palmbeachpoloandhuntclub-82f98a",
+      "locationSet": {
+        "include": ["us-fl.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Palm Beach Polo and Hunt Club"
+      }
+    },
+    {
+      "displayName": "Pamukkale Belediyesi",
+      "id": "pamukkalebelediyesi-74f08e",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Pamukkale Belediyesi"
+      }
+    },
+    {
+      "displayName": "Parapente club de haute tarentaise",
+      "id": "parapenteclubdehautetarentaise-75a103",
+      "locationSet": {
+        "include": ["fr-ara.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Parapente club de haute tarentaise"
+      }
+    },
+    {
+      "displayName": "Parapentes de la ste victoire",
+      "id": "parapentesdelastevictoire-a06f09",
+      "locationSet": {
+        "include": ["fr-pac.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Parapentes de la ste victoire"
+      }
+    },
+    {
+      "displayName": "Phillips Exeter Academy",
+      "id": "phillipsexeteracademy-7a66c5",
+      "locationSet": {
+        "include": ["us-nh.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Phillips Exeter Academy",
+        "operator:wikidata": "Q1426464"
+      }
+    },
+    {
+      "displayName": "Poupet vol libre",
+      "id": "poupetvollibre-0a3ef5",
+      "locationSet": {
+        "include": ["fr-bfc.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Poupet vol libre"
+      }
+    },
+    {
+      "displayName": "Putzbrunner SV",
+      "id": "putzbrunnersv-d293c1",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Putzbrunner SV",
+        "operator:wikidata": "Q122948694"
+      }
+    },
+    {
+      "displayName": "Redhawk Golf Course",
+      "id": "redhawkgolfcourse-6d2462",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Redhawk Golf Course"
+      }
+    },
+    {
+      "displayName": "Rohan Regional Recreation Center",
+      "id": "rohanregionalrecreationcenter-82f98a",
+      "locationSet": {
+        "include": ["us-fl.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Rohan Regional Recreation Center"
+      }
+    },
+    {
+      "displayName": "Secretaria de Estado de Educação de Minas Gerais",
+      "id": "secretariadeestadodeeducacaodeminasgerais-8e6589",
+      "locationSet": {
+        "include": ["br-mg.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Secretaria de Estado de Educação de Minas Gerais",
+        "operator:wikidata": "Q61612780"
+      }
+    },
+    {
+      "displayName": "Servicio Departamental de Deporte Cochabamba",
+      "id": "serviciodepartamentaldedeportecochabamba-4754ec",
+      "locationSet": {"include": ["bo"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Servicio Departamental de Deporte Cochabamba"
+      }
+    },
+    {
+      "displayName": "Sharp Recrean",
+      "id": "sharprecrean-b5831f",
+      "locationSet": {
+        "include": ["be-vov.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Sharp Recrean"
+      }
+    },
+    {
+      "displayName": "Shaw Park",
+      "id": "shawpark-2afa8b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Shaw Park"
+      }
+    },
+    {
+      "displayName": "Slippery Rock University",
+      "id": "slipperyrockuniversity-b14250",
+      "locationSet": {
+        "include": ["us-pa.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Slippery Rock University",
+        "operator:wikidata": "Q1799642"
+      }
+    },
+    {
+      "displayName": "Sportski park Mladost",
+      "id": "sportskiparkmladost-dca74c",
+      "locationSet": {"include": ["hr"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Sportski park Mladost",
+        "operator:wikidata": "Q116474020"
+      }
+    },
+    {
+      "displayName": "Sportzentrum Rif",
+      "id": "sportzentrumrif-52047b",
+      "locationSet": {
+        "include": ["at-5.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Sportzentrum Rif"
+      }
+    },
+    {
+      "displayName": "Springfield Park District",
+      "id": "springfieldparkdistrict-c70cfb",
+      "locationSet": {
+        "include": ["us-il.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Springfield Park District",
+        "operator:wikidata": "Q23073350"
+      }
+    },
+    {
+      "displayName": "SSC Karlsruhe e.V.",
+      "id": "ssckarlsruheev-54bad5",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "SSC Karlsruhe e.V.",
+        "operator:wikidata": "Q61050562"
+      }
+    },
+    {
+      "displayName": "Stadt Bonn",
+      "id": "stadtbonn-d74e32",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Stadt Bonn",
+        "operator:wikidata": "Q586"
+      }
+    },
+    {
+      "displayName": "Stadt Freising",
+      "id": "stadtfreising-d293c1",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Stadt Freising",
+        "operator:wikidata": "Q6998"
+      }
+    },
+    {
+      "displayName": "Stadt Gießen",
+      "id": "stadtgiessen-10ccb2",
+      "locationSet": {
+        "include": ["de-he.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Stadt Gießen",
+        "operator:wikidata": "Q3874"
+      }
+    },
+    {
+      "displayName": "Stadt Heidelberg",
+      "id": "stadtheidelberg-54bad5",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Stadt Heidelberg",
+        "operator:wikidata": "Q2966"
+      }
+    },
+    {
+      "displayName": "Stadt Karlsruhe",
+      "id": "stadtkarlsruhe-54bad5",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Stadt Karlsruhe",
+        "operator:wikidata": "Q1040"
+      }
+    },
+    {
+      "displayName": "Stadt Neuss",
+      "id": "stadtneuss-d74e32",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Stadt Neuss",
+        "operator:wikidata": "Q2948"
+      }
+    },
+    {
+      "displayName": "Stadt Witten",
+      "id": "stadtwitten-d74e32",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Stadt Witten",
+        "operator:wikidata": "Q3764"
+      }
+    },
+    {
+      "displayName": "Stadt Zürich, SSD, Sportamt",
+      "id": "stadtzurichssdsportamt-962b4a",
+      "locationSet": {
+        "include": ["ch-zh.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Stadt Zürich, SSD, Sportamt"
+      }
+    },
+    {
+      "displayName": "TC Rot-Blau Regensburg e.V.",
+      "id": "tcrotblauregensburgev-d293c1",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "TC Rot-Blau Regensburg e.V.",
+        "operator:wikidata": "Q28367418"
+      }
+    },
+    {
+      "displayName": "TC Valkenswaard",
+      "id": "tcvalkenswaard-cc7be6",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "TC Valkenswaard"
+      }
+    },
+    {
+      "displayName": "Tennis Club du Bassin de Lons-le-Saunier",
+      "id": "tennisclubdubassindelonslesaunier-0a3ef5",
+      "locationSet": {
+        "include": ["fr-bfc.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Tennis Club du Bassin de Lons-le-Saunier"
+      }
+    },
+    {
+      "displayName": "Tennis- und Ski-Club (TSC) Göttingen e. V.",
+      "id": "tennisundskiclubtscgottingenev-b87489",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Tennis- und Ski-Club (TSC) Göttingen e. V."
+      }
+    },
+    {
+      "displayName": "Tennisclub Herford",
+      "id": "tennisclubherford-b87489",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Tennisclub Herford"
+      }
+    },
+    {
+      "displayName": "THC Horn-Hamm",
+      "id": "thchornhamm-b87489",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "THC Horn-Hamm"
+      }
+    },
+    {
+      "displayName": "The Manor Golf & Country Club",
+      "id": "themanorgolfandcountryclub-80b0d4",
+      "locationSet": {
+        "include": ["us-ga.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "The Manor Golf & Country Club"
+      }
+    },
+    {
+      "displayName": "The Raquet Club of Hattiesburg",
+      "id": "theraquetclubofhattiesburg-5d0479",
+      "locationSet": {
+        "include": ["us-ms.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "The Raquet Club of Hattiesburg"
+      }
+    },
+    {
+      "displayName": "The Tejas Pradip Patel Tennis Center",
+      "id": "thetejaspradippateltenniscenter-82f98a",
+      "locationSet": {
+        "include": ["us-fl.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "The Tejas Pradip Patel Tennis Center"
+      }
+    },
+    {
+      "displayName": "Todtglüsinger Sportverein",
+      "id": "todtglusingersportverein-b87489",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Todtglüsinger Sportverein"
+      }
+    },
+    {
+      "displayName": "Tower Hamlets Tennis",
+      "id": "towerhamletstennis-bac174",
+      "locationSet": {
+        "include": ["gb-lon.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Tower Hamlets Tennis",
+        "operator:wikidata": "Q111671345",
+        "reservation": "required",
+        "sport": "tennis"
+      }
+    },
+    {
+      "displayName": "Turngemeinde Schweinfurt 1848 e.V.",
+      "id": "turngemeindeschweinfurt1848ev-d293c1",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Turngemeinde Schweinfurt 1848 e.V.",
+        "operator:wikidata": "Q15851735"
+      }
+    },
+    {
+      "displayName": "TV Valkenswaard",
+      "id": "tvvalkenswaard-cc7be6",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "TV Valkenswaard"
+      }
+    },
+    {
+      "displayName": "University of Minnesota",
+      "id": "universityofminnesota-8586be",
+      "locationSet": {
+        "include": ["us-mn.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "University of Minnesota",
+        "operator:wikidata": "Q238101"
+      }
+    },
+    {
+      "displayName": "Ville d'Anglet",
+      "id": "villedanglet-794434",
+      "locationSet": {
+        "include": ["fr-naq.geojson"]
+      },
+      "matchNames": ["commune d'anglet"],
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Ville d'Anglet",
+        "operator:wikidata": "Q115918089"
+      }
+    },
+    {
+      "displayName": "Ville de Lons-le-Saunier",
+      "id": "villedelonslesaunier-0a3ef5",
+      "locationSet": {
+        "include": ["fr-bfc.geojson"]
+      },
+      "matchNames": [
+        "commune de lons-le-saunier"
+      ],
+      "tags": {
+        "leisure": "pitch",
+        "operator": "Ville de Lons-le-Saunier",
+        "operator:wikidata": "Q87134745"
+      }
+    },
+    {
+      "displayName": "WTC",
+      "id": "wtc-cc7be6",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "WTC"
+      }
+    },
+    {
+      "displayName": "ООО\"ССК НЕВСКИЙ\"",
+      "id": "535547-126718",
+      "locationSet": {
+        "include": ["ru-len.geojson"]
+      },
+      "tags": {
+        "leisure": "pitch",
+        "operator": "ООО\"ССК НЕВСКИЙ\""
+      }
+    },
+    {
+      "displayName": "انجمن ورزشهای هوایی ایران",
+      "id": "b2742d-fcb937",
+      "locationSet": {"include": ["ir"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "انجمن ورزشهای هوایی ایران"
+      }
+    },
+    {
+      "displayName": "桃園市立桃園高級中等學校",
+      "id": "296ea1-fd3831",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "leisure": "pitch",
+        "operator": "桃園市立桃園高級中等學校"
+      }
+    }
+  ]
+}

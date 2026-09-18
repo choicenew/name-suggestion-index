@@ -1,0 +1,39 @@
+{
+  "trees": {
+    "brands": {
+      "emoji": "🍔",
+      "mainTag": "brand:wikidata",
+      "sourceTags": ["brand", "name"],
+      "nameTags": {
+        "primary": "^(name|name:[\\w-]+)$",
+        "alternate": "^(brand|brand:[\\w-]+|brand:short:[\\w-]+|operator|operator:[\\w-]+|operator:short:[\\w-]+|\\w+_name|\\w+_name:[\\w-]+)$"
+      }
+    },
+    "flags": {
+      "emoji": "🚩",
+      "mainTag": "flag:wikidata",
+      "nameTags": {
+        "primary": "^(flag:name|flag:name:[\\w-]+)$",
+        "alternate": "^(country|country:[\\w-]+|flag|flag:[\\w-]+|subject|subject:[\\w-]+)$"
+      }
+    },
+    "operators": {
+      "emoji": "💼",
+      "mainTag": "operator:wikidata",
+      "sourceTags": ["operator"],
+      "nameTags": {
+        "primary": "^(name|name:[\\w-]+|operator|operator:[\\w-]+)$",
+        "alternate": "^(brand|brand:[\\w-]+|brand:short:[\\w-]+|operator:short:[\\w-]+|\\w+_name|\\w+_name:[\\w-]+)$"
+      }
+    },
+    "transit": {
+      "emoji": "🚇",
+      "mainTag": "network:wikidata",
+      "sourceTags": ["network"],
+      "nameTags": {
+        "primary": "^network$",
+        "alternate": "^(operator|operator:[\\w-]+|operator:short:[\\w-]+|network:[\\w-]+|network:short:[\\w-]+|\\w+_name|\\w+_name:[\\w-]+)$"
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "properties": {
+    "path": "brands/shop/printer_ink",
+    "exclude": {"generic": ["^printer ink$"]}
+  },
+  "items": [
+    {
+      "displayName": "Cartridge World",
+      "id": "cartridgeworld-0b7bd3",
+      "locationSet": {"include": ["001"]},
+      "matchTags": ["shop/computer"],
+      "tags": {
+        "brand": "Cartridge World",
+        "brand:wikidata": "Q5047439",
+        "name": "Cartridge World",
+        "shop": "printer_ink"
+      }
+    },
+    {
+      "displayName": "Eco Store",
+      "id": "ecostore-e7fccc",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "Eco Store",
+        "brand:wikidata": "Q126483871",
+        "name": "Eco Store",
+        "shop": "printer_ink"
+      }
+    },
+    {
+      "displayName": "Prink",
+      "id": "prink-5f927f",
+      "locationSet": {"include": ["150"]},
+      "tags": {
+        "brand": "Prink",
+        "brand:wikidata": "Q5484016",
+        "name": "Prink",
+        "shop": "printer_ink"
+      }
+    }
+  ]
+}

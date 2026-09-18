@@ -1,0 +1,58 @@
+{
+  "properties": {
+    "path": "brands/craft/plumber",
+    "exclude": {"generic": ["^plumber$"]}
+  },
+  "items": [
+    {
+      "displayName": "Bademiljø",
+      "id": "bademiljo-8a50ba",
+      "issues": [5500],
+      "locationSet": {"include": ["no"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Bademiljø",
+        "brand:wikidata": "Q129941627",
+        "craft": "plumber",
+        "name": "Bademiljø"
+      }
+    },
+    {
+      "displayName": "Comfort",
+      "id": "comfort-8a50ba",
+      "issues": [5500],
+      "locationSet": {"include": ["no"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Comfort",
+        "craft": "plumber",
+        "name": "Comfort"
+      }
+    },
+    {
+      "displayName": "Mr. Rooter",
+      "id": "mrrooter-a0d14d",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "alt_name": "Mister Rooter",
+        "brand": "Mr. Rooter",
+        "brand:wikidata": "Q6929145",
+        "craft": "plumber",
+        "name": "Mr. Rooter",
+        "official_name": "Mr. Rooter Plumbing"
+      }
+    },
+    {
+      "displayName": "Varme & Bad",
+      "id": "varmeandbad-8a50ba",
+      "issues": [5500],
+      "locationSet": {"include": ["no"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Varme & Bad",
+        "craft": "plumber",
+        "name": "Varme & Bad"
+      }
+    }
+  ]
+}

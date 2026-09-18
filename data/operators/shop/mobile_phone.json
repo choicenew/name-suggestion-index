@@ -1,0 +1,65 @@
+{
+  "properties": {
+    "path": "operators/shop/mobile_phone",
+    "exclude": {
+      "generic": [
+        "^(cell|mobile|wireless)?\\s?phone$",
+        "^télécentre$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Cellular Sales (Verizon Authorized Retailer)",
+      "id": "cellularsales-89d4ad",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "operator": "Cellular Sales",
+        "operator:wikidata": "Q5058345",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "displayName": "Russell Cellular (Verizon Authorized Retailer)",
+      "id": "russellcellular-89d4ad",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "operator": "Russell Cellular",
+        "operator:wikidata": "Q125523800",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "displayName": "TCC (Verizon Authorized Retailer)",
+      "id": "thecellularconnection-89d4ad",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "operator": "The Cellular Connection",
+        "operator:short": "TCC",
+        "operator:wikidata": "Q121336519",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "displayName": "Victra (Verizon Authorized Retailer)",
+      "id": "victra-89d4ad",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["a wireless"],
+      "tags": {
+        "operator": "Victra",
+        "operator:wikidata": "Q118402656",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "displayName": "Wireless Zone (Verizon Authorized Retailer)",
+      "id": "wirelesszone-89d4ad",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "operator": "Wireless Zone",
+        "operator:wikidata": "Q122517436",
+        "shop": "mobile_phone"
+      }
+    }
+  ]
+}

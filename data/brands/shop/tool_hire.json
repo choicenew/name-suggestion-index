@@ -1,0 +1,232 @@
+{
+  "properties": {
+    "path": "brands/shop/tool_hire",
+    "exclude": {"generic": ["^tool hire$"]}
+  },
+  "items": [
+    {
+      "displayName": "Bo-rent",
+      "id": "borent-0c2a29",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "Bo-rent",
+        "brand:wikidata": "Q126919301",
+        "name": "Bo-rent",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Boels",
+      "id": "boels-d0c09f",
+      "issues": [8264],
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "ch",
+          "cz",
+          "de",
+          "gb",
+          "it",
+          "lu",
+          "nl",
+          "pl",
+          "sk"
+        ]
+      },
+      "matchNames": ["boels rental"],
+      "tags": {
+        "brand": "Boels",
+        "brand:wikidata": "Q19901961",
+        "name": "Boels",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Brandon Hire Station",
+      "id": "brandonhirestation-92549b",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["brandon tool hire"],
+      "tags": {
+        "brand": "Brandon Hire Station",
+        "brand:wikidata": "Q111578673",
+        "name": "Brandon Hire Station",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Casa do Construtor",
+      "id": "casadoconstrutor-a76fcc",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "brand": "Casa do Construtor",
+        "brand:wikidata": "Q118672258",
+        "name": "Casa do Construtor",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Cramo",
+      "id": "cramo-707df9",
+      "locationSet": {
+        "include": [
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "no",
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Cramo",
+        "brand:wikidata": "Q10460958",
+        "name": "Cramo",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Hirebase",
+      "id": "hirebase-92549b",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Hirebase",
+        "brand:wikidata": "Q100297859",
+        "name": "Hirebase",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "HSS Hire",
+      "id": "hsshire-a3cdb3",
+      "locationSet": {"include": ["gb", "ie"]},
+      "matchNames": ["hss hire shop"],
+      "tags": {
+        "brand": "HSS Hire",
+        "brand:wikidata": "Q5636000",
+        "name": "HSS Hire",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Kiloutou",
+      "id": "kiloutou-d6c674",
+      "locationSet": {
+        "include": ["de", "es", "fr", "it", "pl"]
+      },
+      "tags": {
+        "brand": "Kiloutou",
+        "brand:wikidata": "Q3196672",
+        "name": "Kiloutou",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Library of Things",
+      "id": "libraryofthings-4198b8",
+      "locationSet": {
+        "include": ["gb-lon.geojson"]
+      },
+      "tags": {
+        "brand": "Library of Things",
+        "brand:wikidata": "Q111034265",
+        "name": "Library of Things",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Loxam",
+      "id": "loxam-a4cd21",
+      "issues": [10915, 8264],
+      "locationSet": {
+        "include": [
+          "ae",
+          "be",
+          "bh",
+          "br",
+          "ch",
+          "co",
+          "de",
+          "dk",
+          "es",
+          "fr",
+          "gb",
+          "ie",
+          "it",
+          "kw",
+          "lu",
+          "ma",
+          "nl",
+          "om",
+          "pt",
+          "qa",
+          "sa"
+        ]
+      },
+      "tags": {
+        "brand": "Loxam",
+        "brand:wikidata": "Q3264407",
+        "name": "Loxam",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Ramirent",
+      "id": "ramirent-66b57e",
+      "issues": [10915],
+      "locationSet": {
+        "include": [
+          "cz",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "no",
+          "pl",
+          "se",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Ramirent",
+        "brand:wikidata": "Q11890005",
+        "name": "Ramirent",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Rentas",
+      "id": "rentas-6e38b5",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Rentas",
+        "brand:wikidata": "Q108602539",
+        "name": "Rentas",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Speedy Hire Centre",
+      "id": "speedyhirecentre-92549b",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["speedy hire centres"],
+      "tags": {
+        "brand": "Speedy",
+        "brand:wikidata": "Q7575722",
+        "name": "Speedy Hire Centre",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Talisman Hire",
+      "id": "talismanhire-9933c6",
+      "locationSet": {"include": ["na", "za"]},
+      "tags": {
+        "brand": "Talisman Hire",
+        "brand:wikidata": "Q120885726",
+        "name": "Talisman Hire",
+        "shop": "tool_hire"
+      }
+    }
+  ]
+}

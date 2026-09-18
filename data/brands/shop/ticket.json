@@ -1,0 +1,235 @@
+{
+  "properties": {
+    "path": "brands/shop/ticket",
+    "exclude": {
+      "generic": [
+        "^(проездные )?билет(ы)?$",
+        "^boleter[ií]a$",
+        "^ticket( office)?$",
+        "^tickets$",
+        "^касса$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Boutique Grandes Lignes",
+      "id": "boutiquegrandeslignes-b7c783",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Boutique Grandes Lignes",
+        "brand:wikidata": "Q13646",
+        "name": "Boutique Grandes Lignes",
+        "shop": "ticket"
+      }
+    },
+    {
+      "displayName": "České dráhy",
+      "id": "ceskedrahy-b28c15",
+      "locationSet": {"include": ["cz"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "České dráhy",
+        "brand:short": "ČD",
+        "brand:wikidata": "Q304944",
+        "name": "České dráhy",
+        "operator": "České dráhy",
+        "operator:short": "ČD",
+        "operator:type": "public",
+        "operator:wikidata": "Q304944",
+        "shop": "ticket"
+      }
+    },
+    {
+      "displayName": "DB Reisezentrum",
+      "id": "dbreisezentrum-6b8984",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["reisezentrum"],
+      "tags": {
+        "brand": "Deutsche Bahn",
+        "brand:wikidata": "Q9322",
+        "name": "DB Reisezentrum",
+        "shop": "ticket"
+      }
+    },
+    {
+      "displayName": "Guichet Transilien",
+      "id": "guichettransilien-b7c783",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Guichet Transilien",
+        "brand:wikidata": "Q389554",
+        "name": "Guichet Transilien",
+        "shop": "ticket"
+      }
+    },
+    {
+      "displayName": "Kassir.ru",
+      "id": "kassirru-72dd33",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Kassir.ru",
+        "name": "Kassir.ru",
+        "shop": "ticket"
+      }
+    },
+    {
+      "displayName": "RegioJet",
+      "id": "regiojet-6be98b",
+      "locationSet": {
+        "include": ["at", "cz", "sk"]
+      },
+      "tags": {
+        "brand": "RegioJet",
+        "brand:short": "RJ",
+        "brand:wikidata": "Q221186",
+        "name": "RegioJet",
+        "operator": "RegioJet",
+        "operator:short": "RJ",
+        "operator:type": "private",
+        "operator:wikidata": "Q221186",
+        "shop": "ticket"
+      }
+    },
+    {
+      "displayName": "Ticketmaster",
+      "id": "ticketmaster-9f0b74",
+      "locationSet": {
+        "include": [
+          "ae",
+          "at",
+          "au",
+          "be",
+          "ca",
+          "ch",
+          "cy",
+          "cz",
+          "de",
+          "dk",
+          "es",
+          "fi",
+          "fr",
+          "gb",
+          "gr",
+          "ie",
+          "it",
+          "mx",
+          "nl",
+          "no",
+          "nz",
+          "pl",
+          "se",
+          "sg",
+          "tr",
+          "tw",
+          "za"
+        ]
+      },
+      "matchNames": ["live nation"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Ticketmaster",
+        "brand:wikidata": "Q2609162",
+        "name": "Ticketmaster",
+        "shop": "ticket"
+      }
+    },
+    {
+      "displayName": "Železničná spoločnosť Slovensko",
+      "id": "zeleznicnaspolocnostslovensko-954ab0",
+      "locationSet": {"include": ["sk"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Železničná spoločnosť Slovensko",
+        "brand:short": "ZSSK",
+        "brand:wikidata": "Q393557",
+        "name": "Železničná spoločnosť Slovensko",
+        "operator": "Železničná spoločnosť Slovensko",
+        "operator:short": "ZSSK",
+        "operator:type": "public",
+        "operator:wikidata": "Q393557",
+        "shop": "ticket"
+      }
+    },
+    {
+      "displayName": "Авиакасса",
+      "id": "360f73-7d3a48",
+      "locationSet": {
+        "include": ["kg", "kz", "ru", "tm", "uz"]
+      },
+      "tags": {
+        "brand": "Авиакасса",
+        "name": "Авиакасса",
+        "shop": "ticket"
+      }
+    },
+    {
+      "displayName": "Автолюкс",
+      "id": "autolux-61cb58",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["ecolines"],
+      "matchTags": ["amenity/post_office"],
+      "tags": {
+        "brand": "Автолюкс",
+        "brand:en": "Autolux",
+        "brand:uk": "Автолюкс",
+        "brand:wikidata": "Q12075972",
+        "name": "Автолюкс",
+        "name:en": "Autolux",
+        "name:uk": "Автолюкс",
+        "shop": "ticket"
+      }
+    },
+    {
+      "displayName": "Минсктранс",
+      "id": "minsktrans-8ce589",
+      "locationSet": {"include": ["by"]},
+      "tags": {
+        "brand": "Минсктранс",
+        "name": "Минсктранс",
+        "name:en": "Minsktrans",
+        "name:mn": "Минсктранс",
+        "shop": "ticket"
+      }
+    },
+    {
+      "displayName": "Център за градска мобилност",
+      "id": "fdbb92-14de12",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": ["скгт"],
+      "tags": {
+        "brand": "Център за градска мобилност",
+        "brand:wikidata": "Q7553668",
+        "shop": "ticket",
+        "short_name": "ЦГМ",
+        "short_name:bg": "ЦГМ",
+        "short_name:en": "SUMC"
+      }
+    },
+    {
+      "displayName": "みどりの窓口",
+      "id": "jrticketoffice-c4f22d",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "みどりの窓口",
+        "brand:en": "Midori-no-madoguchi",
+        "brand:ja": "みどりの窓口",
+        "brand:wikidata": "Q11279064",
+        "name": "みどりの窓口",
+        "name:en": "JR Ticket Office",
+        "name:ja": "みどりの窓口",
+        "shop": "ticket"
+      }
+    },
+    {
+      "displayName": "售票处",
+      "id": "859b5b-be9ab5",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "售票处",
+        "name": "售票处",
+        "shop": "ticket"
+      }
+    }
+  ]
+}

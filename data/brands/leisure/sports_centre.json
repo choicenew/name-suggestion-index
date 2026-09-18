@@ -1,0 +1,569 @@
+{
+  "properties": {
+    "path": "brands/leisure/sports_centre",
+    "preserveTags": ["^name"],
+    "exclude": {
+      "generic": [
+        "^(complejo|pabell[oó]n)( municipal)? de deportes$",
+        "^(mehrzweck|reit|turn|schulsport|sport)halle?$",
+        "^(sports cent(er|re)|piscine|centro sportivo|stadium|stadion)$",
+        "^(سالن|مجموعه) ورزشی$",
+        "^academia ao ar livre$",
+        "^boulodrome$",
+        "^col(i|os)seo$",
+        "^complexe sportif$",
+        "^gimnasio( municipal)?$",
+        "^ginásio de esportes?$",
+        "^gym(nase|nasium)?$",
+        "^hala sportowa?$",
+        "^hallenbad$",
+        "^modellflugplatz$",
+        "^palazzetto dello sport?$",
+        "^palestra( comunale)?$",
+        "^piscin(a|e) (municipal|municipale)?$",
+        "^piscinas municipales$",
+        "^polideportivo( municipal)?$",
+        "^salle (omnisport|polyvalente|des sports)$",
+        "^schützenhaus$",
+        "^sport(csarnok|platz)$",
+        "^sportovní hala$",
+        "^terrain de baseball( \\d)?$",
+        "^бассейн$",
+        "^дюсш$",
+        "^ледовый дворец$",
+        "^спорт(зал|комплекс)$",
+        "^фок$",
+        "^体育[館馆]$"
+      ],
+      "named": [
+        "^(piscina comunale|sokolovna)$",
+        "^(poliesportiu|stade) municipal$",
+        "^orlik$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Aqua-Tots Swim Schools",
+      "id": "aquatotsswimschools-ce9814",
+      "locationSet": {
+        "include": [
+          "ca",
+          "kw",
+          "lb",
+          "mx",
+          "om",
+          "pa",
+          "qa",
+          "sa",
+          "th",
+          "tr",
+          "us",
+          "vn"
+        ]
+      },
+      "tags": {
+        "brand": "Aqua-Tots Swim Schools",
+        "brand:wikidata": "Q121333463",
+        "leisure": "sports_centre",
+        "name": "Aqua-Tots Swim Schools",
+        "sport": "swimming"
+      }
+    },
+    {
+      "displayName": "Associação Atlética Banco do Brasil",
+      "id": "associacaoatleticabancodobrasil-d2fb77",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "brand": "Associação Atlética Banco do Brasil",
+        "brand:short": "AABB",
+        "brand:wikidata": "Q9633503",
+        "leisure": "sports_centre",
+        "name": "Associação Atlética Banco do Brasil",
+        "name:en": "Banco do Brasil Athletic Association",
+        "name:pt": "Associação Atlética Banco do Brasil"
+      }
+    },
+    {
+      "displayName": "Bear Paddle Swim School",
+      "id": "bearpaddleswimschool-f2066e",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Bear Paddle Swim School",
+        "brand:wikidata": "Q121333406",
+        "leisure": "sports_centre",
+        "name": "Bear Paddle Swim School",
+        "sport": "swimming"
+      }
+    },
+    {
+      "displayName": "Better (Greenwich Leisure Limited)",
+      "id": "better-2b43d7",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["better leisure centres"],
+      "tags": {
+        "brand": "Better",
+        "brand:wikidata": "Q109721926",
+        "fee": "yes",
+        "leisure": "sports_centre",
+        "operator": "Greenwich Leisure Limited",
+        "operator:type": "cooperative",
+        "operator:wikidata": "Q5604859"
+      }
+    },
+    {
+      "displayName": "Big Blue Swim School",
+      "id": "bigblueswimschool-f2066e",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Big Blue Swim School",
+        "brand:wikidata": "Q121333491",
+        "leisure": "sports_centre",
+        "name": "Big Blue Swim School",
+        "sport": "swimming"
+      }
+    },
+    {
+      "displayName": "David Lloyd Clubs",
+      "id": "davidlloydclubs-2b43d7",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["david lloyd"],
+      "tags": {
+        "brand": "David Lloyd Clubs",
+        "brand:wikidata": "Q5236716",
+        "leisure": "sports_centre",
+        "name": "David Lloyd Clubs"
+      }
+    },
+    {
+      "displayName": "Emler Swim School",
+      "id": "emlerswimschool-f2066e",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Emler Swim School",
+        "brand:wikidata": "Q121333184",
+        "leisure": "sports_centre",
+        "name": "Emler Swim School",
+        "sport": "swimming"
+      }
+    },
+    {
+      "displayName": "Everyone Active",
+      "id": "everyoneactive-2b43d7",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": [
+        "sports and leisure management ltd"
+      ],
+      "tags": {
+        "brand": "Everyone Active",
+        "brand:wikidata": "Q113562737",
+        "fee": "yes",
+        "leisure": "sports_centre"
+      }
+    },
+    {
+      "displayName": "Foss Swim School",
+      "id": "fossswimschool-f2066e",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Foss Swim School",
+        "brand:wikidata": "Q121333435",
+        "leisure": "sports_centre",
+        "name": "Foss Swim School",
+        "sport": "swimming"
+      }
+    },
+    {
+      "displayName": "Goals",
+      "id": "goals-2b43d7",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Goals",
+        "brand:wikidata": "Q111480472",
+        "leisure": "sports_centre",
+        "name": "Goals",
+        "sport": "soccer"
+      }
+    },
+    {
+      "displayName": "Goldfish Swim School",
+      "id": "goldfishswimschool-f2066e",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Goldfish Swim School",
+        "brand:wikidata": "Q121332561",
+        "leisure": "sports_centre",
+        "name": "Goldfish Swim School",
+        "sport": "swimming"
+      }
+    },
+    {
+      "displayName": "Hapik",
+      "id": "hapik-91203a",
+      "locationSet": {
+        "include": ["de", "fr", "us"]
+      },
+      "matchNames": [
+        "rock up",
+        "the hapik group"
+      ],
+      "tags": {
+        "brand": "Hapik",
+        "brand:wikidata": "Q135729937",
+        "leisure": "sports_centre",
+        "name": "Hapik",
+        "sport": "climbing"
+      }
+    },
+    {
+      "displayName": "Happy Fish Swim School",
+      "id": "happyfishswimschool-ef46fc",
+      "locationSet": {"include": ["my", "sg"]},
+      "tags": {
+        "brand": "Happy Fish Swim School",
+        "brand:wikidata": "Q121333621",
+        "leisure": "sports_centre",
+        "name": "Happy Fish Swim School",
+        "sport": "swimming"
+      }
+    },
+    {
+      "displayName": "iFLY",
+      "id": "ifly-ba45e1",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "iFLY",
+        "brand:wikidata": "Q64767105",
+        "leisure": "sports_centre",
+        "name": "iFLY",
+        "sport": "indoor_skydiving"
+      }
+    },
+    {
+      "displayName": "K1 Speed",
+      "id": "k1speed-fb63c7",
+      "locationSet": {
+        "include": [
+          "ca",
+          "cn",
+          "do",
+          "fx",
+          "it",
+          "kr",
+          "kw",
+          "mx",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "K1 Speed",
+        "brand:wikidata": "Q105615897",
+        "leisure": "sports_centre",
+        "name": "K1 Speed",
+        "sport": "karting"
+      }
+    },
+    {
+      "displayName": "Kids First Swim Schools",
+      "id": "kidsfirstswimschool-f2066e",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Kids First Swim Schools",
+        "brand:wikidata": "Q121332985",
+        "leisure": "sports_centre",
+        "name": "Kids First Swim School",
+        "sport": "swimming"
+      }
+    },
+    {
+      "displayName": "Laser Quest",
+      "id": "laserquest-2b43d7",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Laser Quest",
+        "brand:wikidata": "Q6493011",
+        "leisure": "sports_centre",
+        "name": "Laser Quest",
+        "sport": "laser_tag"
+      }
+    },
+    {
+      "displayName": "Le Five",
+      "id": "lefive-b9c700",
+      "locationSet": {"include": ["fr", "us"]},
+      "matchNames": ["five"],
+      "matchTags": ["leisure/pitch"],
+      "tags": {
+        "brand": "Le Five",
+        "brand:wikidata": "Q130256689",
+        "leisure": "sports_centre",
+        "sport": "five-a-side"
+      }
+    },
+    {
+      "displayName": "Places Leisure",
+      "id": "placesleisure-2b43d7",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Places Leisure",
+        "brand:wikidata": "Q130223830",
+        "leisure": "sports_centre"
+      }
+    },
+    {
+      "displayName": "Poliesportiu Municipal",
+      "id": "poliesportiumunicipal-b5508a",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "brand": "Poliesportiu Municipal",
+        "leisure": "sports_centre",
+        "name": "Poliesportiu Municipal"
+      }
+    },
+    {
+      "displayName": "Premier Martial Arts",
+      "id": "premiermartialarts-f2066e",
+      "locationSet": {"include": ["us"]},
+      "matchTags": ["amenity/dojo"],
+      "tags": {
+        "brand": "Premier Martial Arts",
+        "brand:wikidata": "Q120717448",
+        "leisure": "sports_centre",
+        "name": "Premier Martial Arts",
+        "sport": "martial_arts"
+      }
+    },
+    {
+      "displayName": "Rock Up",
+      "id": "rockup-5569d4",
+      "locationSet": {"include": ["gb-eng"]},
+      "matchNames": ["hapik", "the hapik group"],
+      "tags": {
+        "brand": "Rock Up",
+        "brand:wikidata": "Q136225524",
+        "leisure": "sports_centre",
+        "name": "Rock Up",
+        "sport": "climbing"
+      }
+    },
+    {
+      "displayName": "SafeSplash Swim School",
+      "id": "safesplashswimschool-f2066e",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "SafeSplash Swim School",
+        "brand:wikidata": "Q120506893",
+        "leisure": "sports_centre",
+        "name": "SafeSplash Swim School",
+        "sport": "swimming"
+      }
+    },
+    {
+      "displayName": "Shapland Swim Schools",
+      "id": "shaplandswimschool-8761a7",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Shapland Swim Schools",
+        "brand:wikidata": "Q121333635",
+        "leisure": "sports_centre",
+        "name": "Shapland Swim School",
+        "sport": "swimming"
+      }
+    },
+    {
+      "displayName": "Spor İstanbul",
+      "id": "sporistanbul-62337f",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "brand": "Spor İstanbul",
+        "brand:wikidata": "Q106802907",
+        "leisure": "sports_centre"
+      }
+    },
+    {
+      "displayName": "SwimLabs Swim School",
+      "id": "swimlabsswimschool-f2066e",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "SwimLabs Swim School",
+        "brand:wikidata": "Q121333649",
+        "leisure": "sports_centre",
+        "name": "SwimLabs Swim School",
+        "sport": "swimming"
+      }
+    },
+    {
+      "displayName": "TeamSport Karting",
+      "id": "teamsportkarting-2b43d7",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "TeamSport Go Karting",
+        "brand:wikidata": "Q7691413",
+        "club": "sport",
+        "leisure": "sports_centre",
+        "name": "TeamSport Karting",
+        "sport": "karting"
+      }
+    },
+    {
+      "displayName": "Topgolf",
+      "id": "topgolf-9025ef",
+      "locationSet": {
+        "include": [
+          "ae",
+          "au",
+          "cn",
+          "de",
+          "gb",
+          "mx",
+          "th",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "golf/clubhouse",
+        "golf/driving_range",
+        "leisure/golf_course",
+        "leisure/miniature_golf",
+        "leisure/pitch",
+        "tourism/attraction"
+      ],
+      "tags": {
+        "brand": "Topgolf",
+        "brand:wikidata": "Q7824379",
+        "leisure": "sports_centre",
+        "name": "Topgolf",
+        "sport": "golf"
+      }
+    },
+    {
+      "displayName": "United Taekwondo Center",
+      "id": "unitedtaekwondocenter-250e2d",
+      "locationSet": {
+        "include": [
+          "us-nj.geojson",
+          "us-ny-new_york_city.geojson"
+        ]
+      },
+      "matchTags": ["amenity/dojo"],
+      "tags": {
+        "brand": "United Taekwondo Center",
+        "brand:wikidata": "Q132744193",
+        "leisure": "sports_centre",
+        "name": "United Taekwondo Center",
+        "sport": "taekwondo"
+      }
+    },
+    {
+      "displayName": "VillaSport",
+      "id": "villasport-f2066e",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "VillaSport",
+        "brand:wikidata": "Q107655692",
+        "leisure": "sports_centre",
+        "name": "VillaSport"
+      }
+    },
+    {
+      "displayName": "X Golf",
+      "id": "xgolf-8a88af",
+      "locationSet": {
+        "include": [
+          "us-al.geojson",
+          "us-co.geojson",
+          "us-ga.geojson",
+          "us-il.geojson",
+          "us-in.geojson",
+          "us-ks.geojson",
+          "us-ma.geojson",
+          "us-me.geojson",
+          "us-mi.geojson",
+          "us-mn.geojson",
+          "us-mo.geojson",
+          "us-nd.geojson",
+          "us-ne.geojson",
+          "us-ny.geojson",
+          "us-oh.geojson",
+          "us-or.geojson",
+          "us-pa.geojson",
+          "us-ri.geojson",
+          "us-sc.geojson",
+          "us-sd.geojson",
+          "us-ut.geojson",
+          "us-va.geojson",
+          "us-wa.geojson",
+          "us-wi.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "X Golf",
+        "brand:wikidata": "Q111585369",
+        "indoor": "yes",
+        "leisure": "sports_centre",
+        "name": "X Golf",
+        "sport": "golf"
+      }
+    },
+    {
+      "displayName": "YMCA",
+      "id": "ymca-ba45e1",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "YMCA",
+        "brand:wikidata": "Q157169",
+        "leisure": "sports_centre",
+        "name": "YMCA"
+      }
+    },
+    {
+      "displayName": "Лыжная база",
+      "id": "418e3d-88dc80",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Лыжная база",
+        "leisure": "sports_centre",
+        "name": "Лыжная база"
+      }
+    },
+    {
+      "displayName": "Олимп",
+      "id": "b3e0be-3369f9",
+      "locationSet": {"include": ["kz", "ru"]},
+      "tags": {
+        "brand": "Олимп",
+        "leisure": "sports_centre",
+        "name": "Олимп"
+      }
+    },
+    {
+      "displayName": "Физкультурно-оздоровительный комплекс",
+      "id": "6a43e9-50a27d",
+      "locationSet": {
+        "include": ["kg", "kz", "ru"]
+      },
+      "tags": {
+        "brand": "Физкультурно-оздоровительный комплекс",
+        "leisure": "sports_centre",
+        "name": "Физкультурно-оздоровительный комплекс"
+      }
+    },
+    {
+      "displayName": "연합태권도",
+      "id": "unitedtaekwondocenter-e878de",
+      "locationSet": {"include": ["kr"]},
+      "matchTags": ["amenity/dojo"],
+      "tags": {
+        "brand": "연합태권도",
+        "brand:en": "United Taekwondo Center",
+        "brand:ko": "연합태권도",
+        "brand:wikidata": "Q132744193",
+        "leisure": "sports_centre",
+        "name": "연합태권도",
+        "name:en": "United Taekwondo Center",
+        "name:ko": "연합태권도",
+        "sport": "taekwondo"
+      }
+    }
+  ]
+}

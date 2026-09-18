@@ -1,0 +1,268 @@
+{
+  "properties": {
+    "path": "brands/shop/florist",
+    "exclude": {
+      "generic": [
+        "^(blütenzauber|fleuriste|virágbolt)$",
+        "^blumen\\s?(laden)?$",
+        "^flor(ărie|ist)$",
+        "^květiny$",
+        "^kwia(ciarnia|ty)$",
+        "^квіти$",
+        "^цвет(овик|очный|ы)( магазин)?$"
+      ],
+      "named": [
+        "^(мир цветов|орхидея)$",
+        "^the flower shop$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Blume 2000",
+      "id": "blume2000-ba57f4",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Blume 2000",
+        "brand:wikidata": "Q886166",
+        "name": "Blume 2000",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Blumen B&B",
+      "id": "blumenbandb-bec75c",
+      "locationSet": {"include": ["at"]},
+      "tags": {
+        "brand": "Blumen B&B",
+        "brand:wikidata": "Q130570437",
+        "name": "Blumen B&B",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Blumen Risse",
+      "id": "blumenrisse-ba57f4",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Blumen Risse",
+        "brand:wikidata": "Q886177",
+        "name": "Blumen Risse",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Central Coop Florist",
+      "id": "centralcoopflorist-7c660b",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Central England Co-operative",
+        "brand:wikidata": "Q16986583",
+        "name": "Central Coop Florist",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Flamengo",
+      "id": "flamengo-95ef9a",
+      "locationSet": {"include": ["cz", "sk"]},
+      "tags": {
+        "brand": "Flamengo",
+        "brand:wikidata": "Q58511348",
+        "name": "Flamengo",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Holland Blumen Mark",
+      "id": "hollandblumenmark-bec75c",
+      "locationSet": {"include": ["at"]},
+      "matchNames": ["holland blumen"],
+      "tags": {
+        "brand": "Holland Blumen Mark",
+        "brand:wikidata": "Q1624739",
+        "name": "Holland Blumen Mark",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Interflora",
+      "id": "interflora-6ef878",
+      "locationSet": {
+        "include": ["fr", "gb", "no", "se"]
+      },
+      "tags": {
+        "brand": "Interflora",
+        "brand:wikidata": "Q692179",
+        "name": "Interflora",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Kvety Victor",
+      "id": "kvetyvictor-36bd0b",
+      "locationSet": {"include": ["sk"]},
+      "matchNames": ["victor kvety"],
+      "tags": {
+        "brand": "Kvety Victor",
+        "brand:wikidata": "Q107986280",
+        "name": "Kvety Victor",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Mester grønn",
+      "id": "mestergronn-3ef364",
+      "locationSet": {"include": ["no"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Mester grønn",
+        "brand:wikidata": "Q19381396",
+        "name": "Mester grønn",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Monceau Fleurs",
+      "id": "monceaufleurs-486692",
+      "locationSet": {"include": ["be", "fr"]},
+      "tags": {
+        "brand": "Monceau Fleurs",
+        "brand:wikidata": "Q17629431",
+        "name": "Monceau Fleurs",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Азалия",
+      "id": "06d348-b65c94",
+      "locationSet": {
+        "include": ["by", "kg", "kz", "ru"]
+      },
+      "tags": {
+        "brand": "Азалия",
+        "name": "Азалия",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Букет столицы",
+      "id": "62a335-1841ed",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Букет столицы",
+        "name": "Букет столицы",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Клумба",
+      "id": "cdc4c9-ea5e6d",
+      "locationSet": {"include": ["by", "ru"]},
+      "tags": {
+        "brand": "Клумба",
+        "name": "Клумба",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Мосцветторг",
+      "id": "04679a-1841ed",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Мосцветторг",
+        "brand:wikidata": "Q110253943",
+        "name": "Мосцветторг",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Оранж",
+      "id": "dfec3b-1841ed",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Оранж",
+        "brand:wikidata": "Q110253936",
+        "name": "Оранж",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Цветовик",
+      "id": "307c8d-1841ed",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Цветовик",
+        "brand:wikidata": "Q110253962",
+        "name": "Цветовик",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Цветомания",
+      "id": "beb11a-1841ed",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Цветомания",
+        "name": "Цветомания",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "ЦветОптТорг",
+      "id": "c46356-1841ed",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "ЦветОптТорг",
+        "brand:wikidata": "Q110254004",
+        "name": "ЦветОптТорг",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Цветочная база",
+      "id": "730fca-1841ed",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Цветочная база",
+        "name": "Цветочная база",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Цветы 24",
+      "id": "73baf0-1841ed",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Цветы 24",
+        "name": "Цветы 24",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "Цветы Голландии",
+      "id": "20ea9a-1841ed",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Цветы Голландии",
+        "name": "Цветы Голландии",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "青山フラワーマーケット",
+      "id": "aoyamaflowermarket-727799",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "青山フラワーマーケット",
+        "brand:en": "Aoyama Flower Market",
+        "brand:ja": "青山フラワーマーケット",
+        "brand:wikidata": "Q87743579",
+        "name": "青山フラワーマーケット",
+        "name:en": "Aoyama Flower Market",
+        "name:ja": "青山フラワーマーケット",
+        "shop": "florist"
+      }
+    }
+  ]
+}

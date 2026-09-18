@@ -1,0 +1,326 @@
+{
+  "properties": {
+    "path": "brands/club/scout",
+    "exclude": {
+      "generic": [
+        "^(scout|guide|ranger)(s|ing)?$",
+        "^speider(e|ne|gruppe)?$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Associação de Escuteiros de Angola",
+      "id": "associacaodeescuteirosdeangola-110cb7",
+      "locationSet": {"include": ["ao"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Associação de Escuteiros de Angola",
+        "brand:wikidata": "Q4810279",
+        "club": "scout"
+      }
+    },
+    {
+      "displayName": "Bund der Pfadfinder*innen",
+      "id": "bundderpfadfinderinnen-9e77d2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "bdp",
+        "bund der pfadfinderinnen und pfadfinder"
+      ],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Bund der Pfadfinder*innen",
+        "brand:wikidata": "Q1005225",
+        "club": "scout"
+      }
+    },
+    {
+      "displayName": "Bund Muslimischer Pfadfinderinnen und Pfadfinder Deutschlands",
+      "id": "bundmuslimischerpfadfinderinnenundpfadfinderdeutschlands-9e77d2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["bmppd"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Bund Muslimischer Pfadfinderinnen und Pfadfinder Deutschlands",
+        "brand:wikidata": "Q16318690",
+        "club": "scout"
+      }
+    },
+    {
+      "displayName": "Deutsche Pfadfinder*innenschaft Sankt Georg",
+      "id": "deutschepfadfinderinnenschaftsanktgeorg-9e77d2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "deutsche pfadfinderschaft sankt georg",
+        "dpsg"
+      ],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Deutsche Pfadfinder*innenschaft Sankt Georg",
+        "brand:wikidata": "Q1203670",
+        "club": "scout"
+      }
+    },
+    {
+      "displayName": "Girl Scouts",
+      "id": "girlscouts-c1b996",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Girl Scouts",
+        "brand:wikidata": "Q2576280",
+        "club": "scout",
+        "name": "Girl Scouts"
+      }
+    },
+    {
+      "displayName": "Norges KFUK-KFUM-speidere",
+      "id": "norgeskfukkfumspeidere-964e52",
+      "locationSet": {"include": ["no"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Norges KFUK-KFUM-speidere",
+        "brand:wikidata": "Q8046067",
+        "club": "scout"
+      }
+    },
+    {
+      "displayName": "Norges speiderforbund",
+      "id": "norgesspeiderforbund-964e52",
+      "locationSet": {"include": ["no"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Norges speiderforbund",
+        "brand:wikidata": "Q1769346",
+        "club": "scout"
+      }
+    },
+    {
+      "displayName": "Pfadfinder und Pfadfinderinnen Österreichs",
+      "id": "pfadfinderundpfadfinderinnenosterreichs-2ccad9",
+      "locationSet": {"include": ["at"]},
+      "tags": {
+        "brand": "Pfadfinder und Pfadfinderinnen Österreichs",
+        "brand:short": "PPÖ",
+        "brand:wikidata": "Q2081986",
+        "club": "scout"
+      }
+    },
+    {
+      "displayName": "Pfadfinderbund Weltenbummler",
+      "id": "pfadfinderbundweltenbummler-9e77d2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["pbw"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Pfadfinderbund Weltenbummler",
+        "brand:wikidata": "Q1755705",
+        "club": "scout"
+      }
+    },
+    {
+      "displayName": "Pfadfinderinnenschaft St. Georg",
+      "id": "pfadfinderinnenschaftstgeorg-9e77d2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["psg"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Pfadfinderinnenschaft St. Georg",
+        "brand:wikidata": "Q2081993",
+        "club": "scout"
+      }
+    },
+    {
+      "displayName": "Royal Rangers",
+      "id": "royalrangers-c1517b",
+      "locationSet": {
+        "include": [
+          "al",
+          "ar",
+          "at",
+          "au",
+          "be",
+          "bg",
+          "bo",
+          "br",
+          "bs",
+          "bz",
+          "ch",
+          "cl",
+          "co",
+          "cr",
+          "cw",
+          "cz",
+          "de",
+          "dk",
+          "do",
+          "ec",
+          "es",
+          "fi",
+          "fj",
+          "fr",
+          "gb",
+          "gh",
+          "gt",
+          "hn",
+          "hr",
+          "hu",
+          "id",
+          "is",
+          "it",
+          "jp",
+          "ke",
+          "lk",
+          "lt",
+          "lv",
+          "md",
+          "mg",
+          "mk",
+          "mn",
+          "mw",
+          "mx",
+          "my",
+          "ng",
+          "ni",
+          "nl",
+          "no",
+          "np",
+          "nz",
+          "pa",
+          "pg",
+          "ph",
+          "pl",
+          "py",
+          "ro",
+          "rs",
+          "ru",
+          "sb",
+          "se",
+          "sg",
+          "si",
+          "sk",
+          "sv",
+          "tg",
+          "tz",
+          "ua",
+          "uy",
+          "ve",
+          "vu",
+          "za",
+          "zm"
+        ]
+      },
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Royal Rangers",
+        "brand:wikidata": "Q453731",
+        "club": "scout"
+      }
+    },
+    {
+      "displayName": "Scoutisme Béninois",
+      "id": "scoutismebeninois-7b4b06",
+      "locationSet": {"include": ["bj"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Scoutisme Béninois",
+        "brand:wikidata": "Q13534588",
+        "club": "scout"
+      }
+    },
+    {
+      "displayName": "Scouts de Argentina Asociación Civil",
+      "id": "scoutsdeargentinaasociacioncivil-81c5c4",
+      "locationSet": {"include": ["ar"]},
+      "matchNames": [
+        "saac",
+        "scouts de argentina"
+      ],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Scouts de Argentina Asociación Civil",
+        "brand:wikidata": "Q7438649",
+        "club": "scout"
+      }
+    },
+    {
+      "displayName": "Scouts South Africa",
+      "id": "scoutssouthafrica-c3326c",
+      "locationSet": {"include": ["za"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Scouts South Africa",
+        "brand:wikidata": "Q7565791",
+        "club": "scout"
+      }
+    },
+    {
+      "displayName": "The Botswana Scouts Association",
+      "id": "thebotswanascoutsassociation-96bced",
+      "locationSet": {"include": ["bw"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "The Botswana Scouts Association",
+        "brand:wikidata": "Q7719478",
+        "club": "scout"
+      }
+    },
+    {
+      "displayName": "The Scout Association",
+      "id": "thescoutassociation-d2f01b",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["scouts"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "The Scout Association",
+        "brand:wikidata": "Q849740",
+        "club": "scout",
+        "name": "The Scout Association"
+      }
+    },
+    {
+      "displayName": "Verband Christlicher Pfadfinder*innen",
+      "id": "verbandchristlicherpfadfinderinnen-9e77d2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["vcp"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Verband Christlicher Pfadfinder*innen",
+        "brand:wikidata": "Q1316309",
+        "club": "scout"
+      }
+    },
+    {
+      "displayName": "香港女童軍總會 Hong Kong Girl Guides Association",
+      "id": "hongkonggirlguidesassociation-d7bac8",
+      "locationSet": {"include": ["hk"]},
+      "matchNames": ["女童軍"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "香港女童軍總會",
+        "brand:en": "Hong Kong Girl Guides Association",
+        "brand:wikidata": "Q5894627",
+        "brand:zh": "香港女童軍總會",
+        "brand:zh-Hans": "香港女童军总会",
+        "brand:zh-Hant": "香港女童軍總會",
+        "club": "scout"
+      }
+    },
+    {
+      "displayName": "香港童軍總會 Scout Association of Hong Kong",
+      "id": "scoutassociationofhongkong-d7bac8",
+      "locationSet": {"include": ["hk"]},
+      "matchNames": ["scouts", "童軍"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "香港童軍總會 Scout Association of Hong Kong",
+        "brand:en": "Scout Association of Hong Kong",
+        "brand:wikidata": "Q1883585",
+        "brand:zh": "香港童軍總會",
+        "brand:zh-Hans": "香港童军总会",
+        "brand:zh-Hant": "香港童軍總會",
+        "club": "scout"
+      }
+    }
+  ]
+}

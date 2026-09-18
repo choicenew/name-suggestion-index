@@ -1,0 +1,2786 @@
+{
+  "properties": {
+    "path": "operators/amenity/kindergarten",
+    "skipCollection": true,
+    "exclude": {
+      "generic": [
+        "^(evangelische|katholische) kirche(ngemeinde)?$",
+        "^(幼儿园|托儿所)$",
+        "^association$",
+        "^county government$",
+        "^gmina$",
+        "^kindergar(d|t)en$",
+        "^montessori$",
+        "^民間$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Adelby 1",
+      "id": "adelby1-41f292",
+      "locationSet": {
+        "include": ["de-sh.geojson"]
+      },
+      "matchNames": [
+        "adelby 1 kinder- und jugenddienste ggmbh"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Adelby 1",
+        "operator:type": "private",
+        "operator:wikidata": "Q130004826"
+      }
+    },
+    {
+      "displayName": "Agrupamento de Escolas de Celorico de Basto",
+      "id": "agrupamentodeescolasdeceloricodebasto-d303f7",
+      "locationSet": {
+        "include": ["pt-03.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Agrupamento de Escolas de Celorico de Basto",
+        "operator:type": "public",
+        "operator:wikidata": "Q131463151"
+      }
+    },
+    {
+      "displayName": "Agrupamento de Escolas de Tondela Cândido de Figueiredo",
+      "id": "agrupamentodeescolasdetondelacandidodefigueiredo-64d503",
+      "locationSet": {
+        "include": ["pt-18.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Agrupamento de Escolas de Tondela Cândido de Figueiredo",
+        "operator:type": "public",
+        "operator:wikidata": "Q131463152"
+      }
+    },
+    {
+      "displayName": "Ajuntament de Barcelona",
+      "id": "ajuntamentdebarcelona-bf7a11",
+      "locationSet": {
+        "include": ["es-b.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Ajuntament de Barcelona",
+        "operator:type": "government",
+        "operator:wikidata": "Q3129773"
+      }
+    },
+    {
+      "displayName": "Akasia barnehage AS",
+      "id": "akasiabarnehageas-04f073",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Akasia barnehage AS",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Arbeiterwohlfahrt Kreisverband Düren e. V.",
+      "id": "arbeiterwohlfahrtkreisverbanddurenev-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Arbeiterwohlfahrt Kreisverband Düren e. V.",
+        "operator:type": "charitable"
+      }
+    },
+    {
+      "displayName": "Arbeiterwohlfahrt Region Hannover e.V.",
+      "id": "arbeiterwohlfahrtregionhannoverev-b371e3",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Arbeiterwohlfahrt Region Hannover e.V.",
+        "operator:type": "charitable"
+      }
+    },
+    {
+      "displayName": "Association des Maisons de quartier de Reims",
+      "id": "associationdesmaisonsdequartierdereims-94d05d",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Association des Maisons de quartier de Reims",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "AWO Familienglobus",
+      "id": "awofamilienglobus-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "matchNames": [
+        "awo familienglobus ggmbh, liststr. 2, 40470 düsseldorf"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "AWO Familienglobus",
+        "operator:type": "charitable",
+        "operator:wikidata": "Q130138619"
+      }
+    },
+    {
+      "displayName": "AWO Regionalverband Rhein-Erft & Euskirchen",
+      "id": "aworegionalverbandrheinerftandeuskirchen-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "matchNames": [
+        "awo regionalverband rhein-erft & euskirchen e.v."
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "AWO Regionalverband Rhein-Erft & Euskirchen",
+        "operator:type": "charitable",
+        "operator:wikidata": "Q130139109"
+      }
+    },
+    {
+      "displayName": "AWO Soziale Dienste gemeinnützige GmbH",
+      "id": "awosozialedienstegemeinnutzigegmbh-747d0f",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "AWO Soziale Dienste gemeinnützige GmbH",
+        "operator:type": "charitable"
+      }
+    },
+    {
+      "displayName": "AWO Unterbezirk Dortmund",
+      "id": "awounterbezirkdortmund-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "AWO Unterbezirk Dortmund",
+        "operator:type": "charitable"
+      }
+    },
+    {
+      "displayName": "Ayuntamiento de Valladolid",
+      "id": "ayuntamientodevalladolid-e633b6",
+      "locationSet": {
+        "include": ["es-va.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Ayuntamiento de Valladolid",
+        "operator:type": "government",
+        "operator:wikidata": "Q8210810"
+      }
+    },
+    {
+      "displayName": "Bayerisches Rotes Kreuz",
+      "id": "bayerischesroteskreuz-fd062c",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Bayerisches Rotes Kreuz",
+        "operator:short": "BRK",
+        "operator:type": "charitable",
+        "operator:wikidata": "Q812433"
+      }
+    },
+    {
+      "displayName": "Białołęka",
+      "id": "bialoleka-d9c326",
+      "locationSet": {
+        "include": ["pl-14.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Białołęka",
+        "operator:type": "government",
+        "operator:wikidata": "Q855983"
+      }
+    },
+    {
+      "displayName": "Bielany",
+      "id": "bielany-d9c326",
+      "locationSet": {
+        "include": ["pl-14.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Bielany",
+        "operator:type": "government",
+        "operator:wikidata": "Q857304"
+      }
+    },
+    {
+      "displayName": "BKJ Eschweiler",
+      "id": "bkjeschweiler-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "matchNames": [
+        "bkj betreungseinrichtungen für kinder und jugendliche der stadt eschweiler / aör"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "BKJ Eschweiler",
+        "operator:type": "public",
+        "operator:wikidata": "Q133799884"
+      }
+    },
+    {
+      "displayName": "BVZ",
+      "id": "bvz-17b2fe",
+      "locationSet": {
+        "include": ["de-he.geojson"]
+      },
+      "matchNames": ["bvz gmbh"],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "BVZ",
+        "operator:type": "private",
+        "operator:wikidata": "Q129769452"
+      }
+    },
+    {
+      "displayName": "Caritasverband Dortmund",
+      "id": "caritasverbanddortmund-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "matchNames": [
+        "caritasverband dortmund e.v."
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Caritasverband Dortmund",
+        "operator:type": "religious",
+        "operator:wikidata": "Q130140255"
+      }
+    },
+    {
+      "displayName": "Caritasverband Hannover e.V.",
+      "id": "caritasverbandhannoverev-b371e3",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Caritasverband Hannover e.V.",
+        "operator:type": "religious"
+      }
+    },
+    {
+      "displayName": "CC Porte de DrômArdèche",
+      "id": "ccportededromardeche-94d05d",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "CC Porte de DrômArdèche",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Centre Communal d'Action Sociale",
+      "id": "centrecommunaldactionsociale-f44571",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Centre Communal d'Action Sociale",
+        "operator:type": "public",
+        "operator:wikidata": "Q2944984"
+      }
+    },
+    {
+      "displayName": "Chicago Public Schools",
+      "id": "chicagopublicschools-d33682",
+      "locationSet": {
+        "include": ["us-il-cook_county.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Chicago Public Schools",
+        "operator:short": "CPS",
+        "operator:type": "public",
+        "operator:wikidata": "Q2963340"
+      }
+    },
+    {
+      "displayName": "CompaNanny",
+      "id": "compananny-1b10f3",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "CompaNanny",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Comune di Bologna",
+      "id": "comunedibologna-624c08",
+      "locationSet": {
+        "include": ["it-45.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Comune di Bologna",
+        "operator:type": "government",
+        "operator:wikidata": "Q1891"
+      }
+    },
+    {
+      "displayName": "Comune di Milano",
+      "id": "comunedimilano-9d73a4",
+      "locationSet": {
+        "include": ["it-25.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Comune di Milano",
+        "operator:type": "government",
+        "operator:wikidata": "Q106225029"
+      }
+    },
+    {
+      "displayName": "Comune di Modena",
+      "id": "comunedimodena-624c08",
+      "locationSet": {
+        "include": ["it-45.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Comune di Modena",
+        "operator:type": "government",
+        "operator:wikidata": "Q126392322"
+      }
+    },
+    {
+      "displayName": "Denk mit! Kinderbetreuungseinrichtungen",
+      "id": "denkmitkinderbetreuungseinrichtungen-fd062c",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "matchNames": [
+        "denk mit! kinderbetreuungseinrichtungen gmbh & co. kg"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Denk mit! Kinderbetreuungseinrichtungen",
+        "operator:type": "private",
+        "operator:wikidata": "Q130141041"
+      }
+    },
+    {
+      "displayName": "Deutscher Kinderschutzbund Ortsverband Essen",
+      "id": "deutscherkinderschutzbundortsverbandessen-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "matchNames": [
+        "deutscher kinderschutzbund ortsverband essen e.v."
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Deutscher Kinderschutzbund Ortsverband Essen",
+        "operator:type": "charitable",
+        "operator:wikidata": "Q133799977"
+      }
+    },
+    {
+      "displayName": "Deutsches Rotes Kreuz Region Hannover e.V.",
+      "id": "deutschesroteskreuzregionhannoverev-b371e3",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Deutsches Rotes Kreuz Region Hannover e.V.",
+        "operator:type": "charitable",
+        "operator:wikidata": "Q104537423"
+      }
+    },
+    {
+      "displayName": "Diakoniewerk Essen",
+      "id": "diakoniewerkessen-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Diakoniewerk Essen",
+        "operator:type": "religious",
+        "operator:wikidata": "Q1208293"
+      }
+    },
+    {
+      "displayName": "Diakonisches Werk – Stadtmission Bayreuth",
+      "id": "diakonischeswerkstadtmissionbayreuth-fd062c",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "matchNames": [
+        "diakonisches werk – stadtmission bayreuth e. v."
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Diakonisches Werk – Stadtmission Bayreuth",
+        "operator:type": "religious",
+        "operator:wikidata": "Q133800075"
+      }
+    },
+    {
+      "displayName": "Dirección General de Educación Inicial y Primaria",
+      "id": "direcciongeneraldeeducacioninicialyprimaria-3e78b4",
+      "locationSet": {"include": ["uy"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Dirección General de Educación Inicial y Primaria",
+        "operator:type": "government",
+        "operator:wikidata": "Q5783994"
+      }
+    },
+    {
+      "displayName": "DRK-Kreisverband Städteregion Aachen e.V.",
+      "id": "drkkreisverbandstadteregionaachenev-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "DRK-Kreisverband Städteregion Aachen e.V.",
+        "operator:type": "charitable"
+      }
+    },
+    {
+      "displayName": "Eigenbetrieb Kindertageseinrichtungen Dresden",
+      "id": "eigenbetriebkindertageseinrichtungendresden-05384f",
+      "locationSet": {
+        "include": ["de-sn.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Eigenbetrieb Kindertageseinrichtungen Dresden",
+        "operator:type": "public",
+        "operator:wikidata": "Q130005166"
+      }
+    },
+    {
+      "displayName": "Eigenbetrieb Kindertagesstätten der Stadt Halle (Saale)",
+      "id": "eigenbetriebkindertagesstattenderstadthallesaale-ba3488",
+      "locationSet": {
+        "include": ["de-st.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Eigenbetrieb Kindertagesstätten der Stadt Halle (Saale)",
+        "operator:type": "public",
+        "operator:wikidata": "Q130141451"
+      }
+    },
+    {
+      "displayName": "Elbkinder Vereinigung Hamburger Kitas gGmbH",
+      "id": "elbkindervereinigunghamburgerkitasggmbh-595700",
+      "locationSet": {
+        "include": ["de-hh.geojson"]
+      },
+      "matchNames": [
+        "vereinigung hamburger kindertagesstätten"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Elbkinder Vereinigung Hamburger Kitas gGmbH",
+        "operator:type": "private",
+        "operator:wikidata": "Q126896525"
+      }
+    },
+    {
+      "displayName": "Elterninitiative",
+      "id": "elterninitiative-747d0f",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Elterninitiative",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Esbjerg Kommune",
+      "id": "esbjergkommune-d0c2f5",
+      "locationSet": {
+        "include": ["dk-83.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Esbjerg Kommune",
+        "operator:type": "government",
+        "operator:wikidata": "Q645747"
+      }
+    },
+    {
+      "displayName": "Espoon kaupunki",
+      "id": "espoonkaupunki-f5d7fd",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Espoon kaupunki",
+        "operator:type": "government",
+        "operator:wikidata": "Q47034"
+      }
+    },
+    {
+      "displayName": "Evangelisch-lutherischer Kirchenkreis Hannover",
+      "id": "evangelischlutherischerkirchenkreishannover-b371e3",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Evangelisch-lutherischer Kirchenkreis Hannover",
+        "operator:type": "religious"
+      }
+    },
+    {
+      "displayName": "Evangelischer Kirchenkreis Dortmund",
+      "id": "evangelischerkirchenkreisdortmund-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "matchNames": ["ev. kirchenkreis dortmund"],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Evangelischer Kirchenkreis Dortmund",
+        "operator:type": "religious",
+        "operator:wikidata": "Q47462077"
+      }
+    },
+    {
+      "displayName": "Evangelischer Kirchenkreis Hamm",
+      "id": "evangelischerkirchenkreishamm-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Evangelischer Kirchenkreis Hamm",
+        "operator:type": "religious",
+        "operator:wikidata": "Q47462166"
+      }
+    },
+    {
+      "displayName": "Evangelischer Kirchenkreisverband für Kindertageseinrichtungen Berlin Mitte-Nord",
+      "id": "evangelischerkirchenkreisverbandfurkindertageseinrichtungenberlinmittenord-4ea051",
+      "locationSet": {
+        "include": ["de-be.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Evangelischer Kirchenkreisverband für Kindertageseinrichtungen Berlin Mitte-Nord",
+        "operator:type": "religious",
+        "operator:wikidata": "Q130405005"
+      }
+    },
+    {
+      "displayName": "FABIDO",
+      "id": "fabido-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "FABIDO",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Florencia Benavidez",
+      "id": "florenciabenavidez-9214f7",
+      "locationSet": {
+        "include": ["ar-x.geojson"]
+      },
+      "note": "this might be the name of an officeholder, not the office/operator",
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Florencia Benavidez",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "FRÖBEL Bildung und Erziehung",
+      "id": "frobelbildungunderziehung-747d0f",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "fröbel",
+        "fröbel bildung und erziehung ggmbh",
+        "fröbel e.v."
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "FRÖBEL Bildung und Erziehung",
+        "operator:type": "private",
+        "operator:wikidata": "Q1471720"
+      }
+    },
+    {
+      "displayName": "Fundación Integra",
+      "id": "fundacionintegra-6a0b6a",
+      "locationSet": {"include": ["cl"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Fundación Integra",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Gemeinde Hohe Börde",
+      "id": "gemeindehoheborde-ba3488",
+      "locationSet": {
+        "include": ["de-st.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Gemeinde Hohe Börde",
+        "operator:type": "government",
+        "operator:wikidata": "Q689996"
+      }
+    },
+    {
+      "displayName": "Generalitat Valenciana",
+      "id": "generalitatvalenciana-0f6363",
+      "locationSet": {
+        "include": [
+          "es-a.geojson",
+          "es-cs.geojson",
+          "es-v.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Generalitat Valenciana",
+        "operator:type": "public",
+        "operator:wikidata": "Q2477285"
+      }
+    },
+    {
+      "displayName": "Gesamtverband der Katholischen Kirchengemeinden in der Region Hannover",
+      "id": "gesamtverbandderkatholischenkirchengemeindeninderregionhannover-b371e3",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Gesamtverband der Katholischen Kirchengemeinden in der Region Hannover",
+        "operator:type": "religious",
+        "operator:wikidata": "Q110728711"
+      }
+    },
+    {
+      "displayName": "Gmina Lublin",
+      "id": "gminalublin-ee8ecc",
+      "locationSet": {
+        "include": ["pl-06.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Gmina Lublin",
+        "operator:type": "government",
+        "operator:wikidata": "Q37333"
+      }
+    },
+    {
+      "displayName": "Gmina Miasto Rzeszów",
+      "id": "gminamiastorzeszow-6b0035",
+      "locationSet": {"include": ["pl"]},
+      "note": "ISO 3166-2 PL-18",
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Gmina Miasto Rzeszów",
+        "operator:type": "government",
+        "operator:wikidata": "Q598"
+      }
+    },
+    {
+      "displayName": "Goodstart Early Learning",
+      "id": "goodstartearlylearning-6f7323",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Goodstart Early Learning",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Gradski ured za obrazovanje",
+      "id": "gradskiuredzaobrazovanje-e0fcf6",
+      "locationSet": {"include": ["hr"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Gradski ured za obrazovanje",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Hå kommune",
+      "id": "hakommune-04f073",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Hå kommune",
+        "operator:type": "government",
+        "operator:wikidata": "Q485608"
+      }
+    },
+    {
+      "displayName": "Helsingin kaupunki",
+      "id": "helsinginkaupunki-f5d7fd",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Helsingin kaupunki",
+        "operator:type": "government",
+        "operator:wikidata": "Q20251620"
+      }
+    },
+    {
+      "displayName": "INA.KINDER.GARTEN",
+      "id": "inakindergarten-4ea051",
+      "locationSet": {
+        "include": ["de-be.geojson"]
+      },
+      "matchNames": ["ina.kinder.garten ggmbh"],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "INA.KINDER.GARTEN",
+        "operator:type": "private",
+        "operator:wikidata": "Q130141833"
+      }
+    },
+    {
+      "displayName": "Instituto del Niño y Adolescente del Uruguay",
+      "id": "institutodelninoyadolescentedeluruguay-3e78b4",
+      "locationSet": {"include": ["uy"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Instituto del Niño y Adolescente del Uruguay",
+        "operator:short": "INAU",
+        "operator:type": "public",
+        "operator:wikidata": "Q5918413"
+      }
+    },
+    {
+      "displayName": "Internationaler Bund",
+      "id": "internationalerbund-747d0f",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Internationaler Bund",
+        "operator:type": "association",
+        "operator:wikidata": "Q1363596"
+      }
+    },
+    {
+      "displayName": "Järvenpään kaupunki",
+      "id": "jarvenpaankaupunki-f5d7fd",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Järvenpään kaupunki",
+        "operator:type": "government",
+        "operator:wikidata": "Q208293"
+      }
+    },
+    {
+      "displayName": "Javna Predškolska Ustanova “Đina Vrbica”",
+      "id": "javnapredskolskaustanovadinavrbica-b4099e",
+      "locationSet": {"include": ["me"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Javna Predškolska Ustanova “Đina Vrbica”",
+        "operator:type": "public"
+      }
+    },
+    {
+      "displayName": "Johanniter-Unfall-Hilfe e.V.",
+      "id": "johanniterunfallhilfeev-747d0f",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "die johanniter",
+        "johanniter"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Johanniter-Unfall-Hilfe e.V.",
+        "operator:type": "ngo",
+        "operator:wikidata": "Q14751117"
+      }
+    },
+    {
+      "displayName": "JU Centar za predškolsko vaspitanje i obrazovanje Banja Luka",
+      "id": "jucentarzapredskolskovaspitanjeiobrazovanjebanjaluka-2bdb40",
+      "locationSet": {"include": ["ba"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "JU Centar za predškolsko vaspitanje i obrazovanje Banja Luka",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Jugend- und Sozialwerk",
+      "id": "jugendundsozialwerk-747d0f",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "jugend- und sozialwerk gemeinnützige gmbh"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Jugend- und Sozialwerk",
+        "operator:short": "JuS",
+        "operator:type": "private",
+        "operator:wikidata": "Q31837620"
+      }
+    },
+    {
+      "displayName": "Jugendamt Landeshauptstadt Düsseldorf, Willi-Becker-Allee 7, 40227 Düsseldorf",
+      "id": "jugendamtlandeshauptstadtdusseldorfwillibeckerallee740227dusseldorf-747d0f",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Jugendamt Landeshauptstadt Düsseldorf, Willi-Becker-Allee 7, 40227 Düsseldorf",
+        "operator:type": "government"
+      }
+    },
+    {
+      "displayName": "Jugendamt Stadt Essen",
+      "id": "jugendamtstadtessen-747d0f",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Jugendamt Stadt Essen",
+        "operator:type": "government"
+      }
+    },
+    {
+      "displayName": "JUL",
+      "id": "jul-747d0f",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "jul gemeinnützige gmbh",
+        "jul ggmbh"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "JUL",
+        "operator:type": "private",
+        "operator:wikidata": "Q129851119"
+      }
+    },
+    {
+      "displayName": "Junji",
+      "id": "junji-6a0b6a",
+      "locationSet": {"include": ["cl"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Junji",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Karlshamns kommun",
+      "id": "karlshamnskommun-b6a588",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Karlshamns kommun",
+        "operator:type": "government",
+        "operator:wikidata": "Q510223"
+      }
+    },
+    {
+      "displayName": "Karlskrona kommun",
+      "id": "karlskronakommun-b6a588",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Karlskrona kommun",
+        "operator:type": "government",
+        "operator:wikidata": "Q1128384"
+      }
+    },
+    {
+      "displayName": "Kath. Kindertageseinrichtungen Hellweg",
+      "id": "kathkindertageseinrichtungenhellweg-747d0f",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kath. Kindertageseinrichtungen Hellweg",
+        "operator:type": "religious",
+        "operator:wikidata": "Q130003751"
+      }
+    },
+    {
+      "displayName": "Kath. Kindertageseinrichtungen Östliches Ruhrgebiet gGmbH",
+      "id": "kathkindertageseinrichtungenostlichesruhrgebietggmbh-747d0f",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kath. Kindertageseinrichtungen Östliches Ruhrgebiet gGmbH",
+        "operator:type": "religious",
+        "operator:wikidata": "Q130003454"
+      }
+    },
+    {
+      "displayName": "Katholische Gesamtkirchengemeinde Ravensburg",
+      "id": "katholischegesamtkirchengemeinderavensburg-747d0f",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Katholische Gesamtkirchengemeinde Ravensburg",
+        "operator:type": "religious"
+      }
+    },
+    {
+      "displayName": "Katholische Kindertageseinrichtungen Hochstift",
+      "id": "katholischekindertageseinrichtungenhochstift-747d0f",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "kath. kindertageseinrichtungen hochstift gem. gmbh, paderborn",
+        "katholische kindertageseinrichtugen hochstift gem. gmbh"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Katholische Kindertageseinrichtungen Hochstift",
+        "operator:type": "religious",
+        "operator:wikidata": "Q136275714"
+      }
+    },
+    {
+      "displayName": "Katholische KiTa gGmbH Saarland",
+      "id": "katholischekitaggmbhsaarland-7a6925",
+      "locationSet": {
+        "include": [
+          "de-rp.geojson",
+          "de-sl.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Katholische KiTa gGmbH Saarland",
+        "operator:type": "religious",
+        "operator:wikidata": "Q129978765"
+      }
+    },
+    {
+      "displayName": "Katholische KiTa gGmbH Trier",
+      "id": "katholischekitaggmbhtrier-df3d5e",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "matchNames": [
+        "gemeinnützige trägergesellschaft katholischer kindertageseinrichtungen im raum trier mbh"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Katholische KiTa gGmbH Trier",
+        "operator:type": "religious",
+        "operator:wikidata": "Q115861118"
+      }
+    },
+    {
+      "displayName": "Kidsa barnehager AS",
+      "id": "kidsabarnehageras-04f073",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kidsa barnehager AS",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Kinder im Kiez",
+      "id": "kinderimkiez-4ea051",
+      "locationSet": {
+        "include": ["de-be.geojson"]
+      },
+      "matchNames": ["kinder im kiez gmbh"],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kinder im Kiez",
+        "operator:type": "private",
+        "operator:wikidata": "Q130142390"
+      }
+    },
+    {
+      "displayName": "Kinder in Wien",
+      "id": "kinderinwien-7d90b0",
+      "locationSet": {
+        "include": ["at-9.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kinder in Wien",
+        "operator:type": "ngo",
+        "operator:wikidata": "Q18628160"
+      }
+    },
+    {
+      "displayName": "Kinderfreunde",
+      "id": "kinderfreunde-7bcf1a",
+      "locationSet": {"include": ["at"]},
+      "matchNames": [
+        "die kinderfreunde",
+        "österreichische kinderfreunde"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kinderfreunde",
+        "operator:type": "private",
+        "operator:wikidata": "Q303525"
+      }
+    },
+    {
+      "displayName": "Kindergärten City",
+      "id": "kindergartencity-4ea051",
+      "locationSet": {
+        "include": ["de-be.geojson"]
+      },
+      "matchNames": [
+        "kindergärten city, eigenbetrieb von berlin"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kindergärten City",
+        "operator:type": "public",
+        "operator:wikidata": "Q129782901"
+      }
+    },
+    {
+      "displayName": "Kindergärten NordOst",
+      "id": "kindergartennordost-4ea051",
+      "locationSet": {
+        "include": ["de-be.geojson"]
+      },
+      "matchNames": [
+        "kindergärten nordost, eigenbetrieb von berlin"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kindergärten NordOst",
+        "operator:type": "public",
+        "operator:wikidata": "Q129783186"
+      }
+    },
+    {
+      "displayName": "Kinderhaus e. V.",
+      "id": "kinderhausev-b371e3",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kinderhaus e. V.",
+        "operator:type": "private",
+        "operator:wikidata": "Q130143047"
+      }
+    },
+    {
+      "displayName": "Kindertagesbetreuung Kreismäuse",
+      "id": "kindertagesbetreuungkreismause-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "matchNames": [
+        "kindertagesbetreuung kreismäuse aör"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kindertagesbetreuung Kreismäuse",
+        "operator:type": "public",
+        "operator:wikidata": "Q133778634"
+      }
+    },
+    {
+      "displayName": "Kindertagesstätten Berlin Süd-West",
+      "id": "kindertagesstattenberlinsudwest-4ea051",
+      "locationSet": {
+        "include": ["de-be.geojson"]
+      },
+      "matchNames": [
+        "kindertagesstätten berlin süd-west, eigenbetrieb von berlin"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kindertagesstätten Berlin Süd-West",
+        "operator:type": "public",
+        "operator:wikidata": "Q129852054"
+      }
+    },
+    {
+      "displayName": "Kindertagesstätten Nordwest",
+      "id": "kindertagesstattennordwest-4ea051",
+      "locationSet": {
+        "include": ["de-be.geojson"]
+      },
+      "matchNames": [
+        "kindergärten nordwest, eigenbetrieb von berlin",
+        "kindertagesstätten nordwest eigenbetrieb von berlin"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kindertagesstätten Nordwest",
+        "operator:type": "public",
+        "operator:wikidata": "Q129783766"
+      }
+    },
+    {
+      "displayName": "Kindertagesstätten SüdOst",
+      "id": "kindertagesstattensudost-4ea051",
+      "locationSet": {
+        "include": ["de-be.geojson"]
+      },
+      "matchNames": [
+        "kindertagesstätten südost, eigenbetrieb von berlin"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kindertagesstätten SüdOst",
+        "operator:type": "public",
+        "operator:wikidata": "Q129784257"
+      }
+    },
+    {
+      "displayName": "Kinderzentren Kunterbunt",
+      "id": "kinderzentrenkunterbunt-747d0f",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "kinderzentren kunterbunt ggmbh"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kinderzentren Kunterbunt",
+        "operator:type": "private",
+        "operator:wikidata": "Q130144000"
+      }
+    },
+    {
+      "displayName": "KiTa Bremen",
+      "id": "kitabremen-f9b96a",
+      "locationSet": {
+        "include": ["de-hb.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "KiTa Bremen",
+        "operator:type": "public",
+        "operator:wikidata": "Q129772069"
+      }
+    },
+    {
+      "displayName": "Kita Frankfurt",
+      "id": "kitafrankfurt-17b2fe",
+      "locationSet": {
+        "include": ["de-he.geojson"]
+      },
+      "matchNames": [
+        "der magistrat der stadt",
+        "stadt frankfurt am main"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kita Frankfurt",
+        "operator:type": "public",
+        "operator:wikidata": "Q129771625"
+      }
+    },
+    {
+      "displayName": "Kitaverband Diepholz",
+      "id": "kitaverbanddiepholz-b371e3",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "matchNames": [
+        "ev.-luth. kindertagesstättenverband grafschaft diepholz"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kitaverband Diepholz",
+        "operator:type": "religious",
+        "operator:wikidata": "Q129849272"
+      }
+    },
+    {
+      "displayName": "Klax Berlin",
+      "id": "klaxberlin-4ea051",
+      "locationSet": {
+        "include": ["de-be.geojson"]
+      },
+      "matchNames": ["klax berlin ggmbh"],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Klax Berlin",
+        "operator:type": "private",
+        "operator:wikidata": "Q130144334"
+      }
+    },
+    {
+      "displayName": "Klepp kommune",
+      "id": "kleppkommune-04f073",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Klepp kommune",
+        "operator:type": "government",
+        "operator:wikidata": "Q500223"
+      }
+    },
+    {
+      "displayName": "Kolding Kommune",
+      "id": "koldingkommune-d0c2f5",
+      "locationSet": {
+        "include": ["dk-83.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kolding Kommune",
+        "operator:type": "government",
+        "operator:wikidata": "Q21101"
+      }
+    },
+    {
+      "displayName": "Kungsbacka kommun",
+      "id": "kungsbackakommun-b6a588",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Kungsbacka kommun",
+        "operator:type": "government",
+        "operator:wikidata": "Q499380"
+      }
+    },
+    {
+      "displayName": "La Maison Bleue",
+      "id": "lamaisonbleue-94d05d",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "La Maison Bleue",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Læringsverkstedet AS",
+      "id": "laeringsverkstedetas-04f073",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Læringsverkstedet AS",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Land Niederösterreich",
+      "id": "landniederosterreich-4694b0",
+      "locationSet": {
+        "include": ["at-3.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Land Niederösterreich",
+        "operator:type": "government",
+        "operator:wikidata": "Q33121933"
+      }
+    },
+    {
+      "displayName": "Landeshauptstadt Hannover",
+      "id": "landeshauptstadthannover-b371e3",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Landeshauptstadt Hannover",
+        "operator:type": "government",
+        "operator:wikidata": "Q1715"
+      }
+    },
+    {
+      "displayName": "Landeshauptstadt Stuttgart",
+      "id": "landeshauptstadtstuttgart-df1e7e",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Landeshauptstadt Stuttgart",
+        "operator:type": "government",
+        "operator:wikidata": "Q108315630"
+      }
+    },
+    {
+      "displayName": "Lillehammer kommune",
+      "id": "lillehammerkommune-04f073",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Lillehammer kommune",
+        "operator:type": "government",
+        "operator:wikidata": "Q16896781"
+      }
+    },
+    {
+      "displayName": "Luleå kommun",
+      "id": "luleakommun-b6a588",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Luleå kommun",
+        "operator:type": "government",
+        "operator:wikidata": "Q177019"
+      }
+    },
+    {
+      "displayName": "Mairie de Paris",
+      "id": "mairiedeparis-452f91",
+      "locationSet": {
+        "include": ["fr-idf.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Mairie de Paris",
+        "operator:type": "government",
+        "operator:wikidata": "Q3278478"
+      }
+    },
+    {
+      "displayName": "Mairie de Toulouse",
+      "id": "mairiedetoulouse-ed7f0d",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Mairie de Toulouse",
+        "operator:type": "government",
+        "operator:wikidata": "Q59916588"
+      }
+    },
+    {
+      "displayName": "Malmö stad",
+      "id": "malmostad-b6a588",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Malmö stad",
+        "operator:type": "government",
+        "operator:wikidata": "Q503361"
+      }
+    },
+    {
+      "displayName": "Maschseekinder gGmbH",
+      "id": "maschseekinderggmbh-b371e3",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Maschseekinder gGmbH",
+        "operator:type": "private_non_profit"
+      }
+    },
+    {
+      "displayName": "Město Kladno",
+      "id": "mestokladno-934c9c",
+      "locationSet": {
+        "include": ["cz-20.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Město Kladno",
+        "operator:type": "government",
+        "operator:wikidata": "Q155993"
+      }
+    },
+    {
+      "displayName": "Mokotów",
+      "id": "mokotow-d9c326",
+      "locationSet": {
+        "include": ["pl-14.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Mokotów",
+        "operator:type": "government",
+        "operator:wikidata": "Q1634585"
+      }
+    },
+    {
+      "displayName": "Moravskoslezský kraj",
+      "id": "moravskoslezskykraj-481e4b",
+      "locationSet": {
+        "include": ["cz-80.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Moravskoslezský kraj",
+        "operator:type": "government",
+        "operator:wikidata": "Q190550"
+      }
+    },
+    {
+      "displayName": "Mumm-Familienservice",
+      "id": "mummfamilienservice-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "matchNames": [
+        "mumm-familienservice ggmbh"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Mumm-Familienservice",
+        "operator:type": "private",
+        "operator:wikidata": "Q133800083"
+      }
+    },
+    {
+      "displayName": "Nachbarschaftsheim Schöneberg",
+      "id": "nachbarschaftsheimschoneberg-4ea051",
+      "locationSet": {
+        "include": ["de-be.geojson"]
+      },
+      "matchNames": [
+        "nachbarschaftsheim schöneberg e.v."
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Nachbarschaftsheim Schöneberg",
+        "operator:type": "charitable",
+        "operator:wikidata": "Q130145053"
+      }
+    },
+    {
+      "displayName": "Narvik kommune",
+      "id": "narvikkommune-04f073",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Narvik kommune",
+        "operator:type": "government",
+        "operator:wikidata": "Q1215658"
+      }
+    },
+    {
+      "displayName": "Norlandia",
+      "id": "norlandia-768407",
+      "locationSet": {"include": ["fi", "se"]},
+      "note": "the Finnish and Swedish schools are separate networks, but neither one currently has a QID",
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Norlandia",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Norrköpings kommun",
+      "id": "norrkopingskommun-b6a588",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Norrköpings kommun",
+        "operator:type": "government",
+        "operator:wikidata": "Q504676"
+      }
+    },
+    {
+      "displayName": "Nurmijärven kunta",
+      "id": "nurmijarvenkunta-f5d7fd",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Nurmijärven kunta",
+        "operator:type": "government",
+        "operator:wikidata": "Q597156"
+      }
+    },
+    {
+      "displayName": "Ochota",
+      "id": "ochota-d9c326",
+      "locationSet": {
+        "include": ["pl-14.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Ochota",
+        "operator:type": "government",
+        "operator:wikidata": "Q1017790"
+      }
+    },
+    {
+      "displayName": "Ogólnopolski Operator Oświaty",
+      "id": "ogolnopolskioperatoroswiaty-3eadb5",
+      "locationSet": {
+        "include": ["pl-02.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Ogólnopolski Operator Oświaty",
+        "operator:type": "ngo",
+        "operator:wikidata": "Q133132572"
+      }
+    },
+    {
+      "displayName": "Örebro kommun",
+      "id": "orebrokommun-b6a588",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Örebro kommun",
+        "operator:type": "government",
+        "operator:wikidata": "Q297718"
+      }
+    },
+    {
+      "displayName": "Orte für Kinder",
+      "id": "ortefurkinder-4ea051",
+      "locationSet": {
+        "include": ["de-be.geojson"]
+      },
+      "matchNames": ["orte für kinder gmbh"],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Orte für Kinder",
+        "operator:type": "private",
+        "operator:wikidata": "Q130145367"
+      }
+    },
+    {
+      "displayName": "Oslo kommune",
+      "id": "oslokommune-04f073",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Oslo kommune",
+        "operator:type": "government",
+        "operator:wikidata": "Q5245991"
+      }
+    },
+    {
+      "displayName": "Outlaw",
+      "id": "outlaw-747d0f",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["outlaw ggmbh"],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Outlaw",
+        "operator:type": "private",
+        "operator:wikidata": "Q129978745"
+      }
+    },
+    {
+      "displayName": "Paritätischer Hannover gGmbH",
+      "id": "paritatischerhannoverggmbh-b371e3",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Paritätischer Hannover gGmbH",
+        "operator:type": "charitable"
+      }
+    },
+    {
+      "displayName": "Partou",
+      "id": "partou-1b10f3",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Partou",
+        "operator:type": "private",
+        "operator:wikidata": "Q126717450"
+      }
+    },
+    {
+      "displayName": "Pfefferwerk Stadtkultur",
+      "id": "pfefferwerkstadtkultur-4ea051",
+      "locationSet": {
+        "include": ["de-be.geojson"]
+      },
+      "matchNames": [
+        "pfefferwerk stadtkultur ggmbh"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Pfefferwerk Stadtkultur",
+        "operator:type": "private",
+        "operator:wikidata": "Q130145579"
+      }
+    },
+    {
+      "displayName": "Pilke päiväkodit Oy",
+      "id": "pilkepaivakoditoy-f5d7fd",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Pilke päiväkodit Oy",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Pinal Gila Community Child Services",
+      "id": "pinalgilacommunitychildservices-c40154",
+      "locationSet": {
+        "include": ["us-az.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Pinal Gila Community Child Services",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "pme Familienservice GmbH",
+      "id": "pmefamilienservicegmbh-747d0f",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "pme Familienservice GmbH",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Postillion",
+      "id": "postillion-df1e7e",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "matchNames": ["postillion e.v."],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Postillion",
+        "operator:type": "private",
+        "operator:wikidata": "Q130146073"
+      }
+    },
+    {
+      "displayName": "Praga-Północ",
+      "id": "pragapolnoc-d9c326",
+      "locationSet": {
+        "include": ["pl-14.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Praga-Północ",
+        "operator:type": "government",
+        "operator:wikidata": "Q2107497"
+      }
+    },
+    {
+      "displayName": "Praga-Południe",
+      "id": "pragapoludnie-d9c326",
+      "locationSet": {
+        "include": ["pl-14.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Praga-Południe",
+        "operator:type": "government",
+        "operator:wikidata": "Q2107492"
+      }
+    },
+    {
+      "displayName": "Prefeitura do Rio de Janeiro",
+      "id": "prefeituradoriodejaneiro-53a359",
+      "locationSet": {
+        "include": ["br-rj.geojson"]
+      },
+      "matchNames": ["prefeitura do rio"],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Prefeitura do Rio de Janeiro",
+        "operator:type": "government",
+        "operator:wikidata": "Q53930899"
+      }
+    },
+    {
+      "displayName": "Prefeitura Municipal de Blumenau",
+      "id": "prefeituramunicipaldeblumenau-b3185a",
+      "locationSet": {
+        "include": ["br-sc.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Prefeitura Municipal de Blumenau",
+        "operator:type": "government",
+        "operator:wikidata": "Q56450064"
+      }
+    },
+    {
+      "displayName": "Prefeitura Municipal de Florianópolis",
+      "id": "prefeituramunicipaldeflorianopolis-b3185a",
+      "locationSet": {
+        "include": ["br-sc.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Prefeitura Municipal de Florianópolis",
+        "operator:type": "government",
+        "operator:wikidata": "Q56450028"
+      }
+    },
+    {
+      "displayName": "Prefeitura Municipal de Itajaí",
+      "id": "prefeituramunicipaldeitajai-b3185a",
+      "locationSet": {
+        "include": ["br-sc.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Prefeitura Municipal de Itajaí",
+        "operator:type": "government",
+        "operator:wikidata": "Q123351765"
+      }
+    },
+    {
+      "displayName": "pro futura",
+      "id": "profutura-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "matchNames": ["pro futura ggmbh"],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "pro futura",
+        "operator:type": "religious",
+        "operator:wikidata": "Q129978730"
+      }
+    },
+    {
+      "displayName": "pro multis",
+      "id": "promultis-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "matchNames": ["pro multis ggmbh"],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "pro multis",
+        "operator:type": "religious",
+        "operator:wikidata": "Q129978722"
+      }
+    },
+    {
+      "displayName": "Profinos",
+      "id": "profinos-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "matchNames": ["profinos ggmbh"],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Profinos",
+        "operator:type": "religious",
+        "operator:wikidata": "Q133800099"
+      }
+    },
+    {
+      "displayName": "QRMSHBM",
+      "id": "qrmshbm-637abd",
+      "locationSet": {"include": ["uz"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "QRMSHBM",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Reykjavíkurborg",
+      "id": "reykjavikurborg-a012b0",
+      "locationSet": {"include": ["is"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Reykjavíkurborg",
+        "operator:type": "government",
+        "operator:wikidata": "Q1675663"
+      }
+    },
+    {
+      "displayName": "Rīgas pašvaldība",
+      "id": "rigaspasvaldiba-e433d7",
+      "locationSet": {"include": ["lv"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Rīgas pašvaldība",
+        "operator:type": "government",
+        "operator:wikidata": "Q2089528"
+      }
+    },
+    {
+      "displayName": "Ronneby kommun",
+      "id": "ronnebykommun-b6a588",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Ronneby kommun",
+        "operator:type": "government",
+        "operator:wikidata": "Q515373"
+      }
+    },
+    {
+      "displayName": "Samtgemeinde Tostedt",
+      "id": "samtgemeindetostedt-b371e3",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Samtgemeinde Tostedt",
+        "operator:type": "government",
+        "operator:wikidata": "Q460518"
+      }
+    },
+    {
+      "displayName": "San José Unified School District",
+      "id": "sanjoseunifiedschooldistrict-2a3fae",
+      "locationSet": {
+        "include": [[-121.88, 37.28, 15]]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "San José Unified School District",
+        "operator:short": "SJUSD",
+        "operator:type": "public",
+        "operator:wikidata": "Q7414497"
+      }
+    },
+    {
+      "displayName": "Santa Casa da Misericórdia",
+      "id": "santacasadamisericordia-f382f5",
+      "locationSet": {"include": ["pt"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Santa Casa da Misericórdia",
+        "operator:type": "charitable",
+        "operator:wikidata": "Q3122827"
+      }
+    },
+    {
+      "displayName": "Save the Children",
+      "id": "savethechildren-0ff93d",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Save the Children",
+        "operator:type": "ngo",
+        "operator:wikidata": "Q215934"
+      }
+    },
+    {
+      "displayName": "Sinne",
+      "id": "sinne-1b10f3",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Sinne",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Sistema Estatal Para El Desarrollo Integral De La Familia",
+      "id": "sistemaestatalparaeldesarrollointegraldelafamilia-cbe62e",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Sistema Estatal Para El Desarrollo Integral De La Familia",
+        "operator:type": "public"
+      }
+    },
+    {
+      "displayName": "Skövde kommun",
+      "id": "skovdekommun-b6a588",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Skövde kommun",
+        "operator:type": "government",
+        "operator:wikidata": "Q501452"
+      }
+    },
+    {
+      "displayName": "SKOzoK",
+      "id": "skozok-1b10f3",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "SKOzoK",
+        "operator:type": "private",
+        "operator:wikidata": "Q121770112"
+      }
+    },
+    {
+      "displayName": "Sogndal kommune",
+      "id": "sogndalkommune-04f073",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Sogndal kommune",
+        "operator:type": "government",
+        "operator:wikidata": "Q490923"
+      }
+    },
+    {
+      "displayName": "Sozialpädagogischer Verein",
+      "id": "sozialpadagogischerverein-17b2fe",
+      "locationSet": {
+        "include": ["de-he.geojson"]
+      },
+      "matchNames": [
+        "sozialpädagogischer verein zur familienergänzenden erziehung e.v."
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Sozialpädagogischer Verein",
+        "operator:type": "private",
+        "operator:wikidata": "Q129978693"
+      }
+    },
+    {
+      "displayName": "Stadt Dietikon",
+      "id": "stadtdietikon-af761c",
+      "locationSet": {
+        "include": ["ch-zh.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Dietikon",
+        "operator:type": "government",
+        "operator:wikidata": "Q64070"
+      }
+    },
+    {
+      "displayName": "Stadt Freising",
+      "id": "stadtfreising-fd062c",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Freising",
+        "operator:type": "government",
+        "operator:wikidata": "Q6998"
+      }
+    },
+    {
+      "displayName": "Stadt Gelsenkirchen",
+      "id": "stadtgelsenkirchen-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Gelsenkirchen",
+        "operator:type": "government",
+        "operator:wikidata": "Q2765"
+      }
+    },
+    {
+      "displayName": "Stadt Graz",
+      "id": "stadtgraz-0a8f8a",
+      "locationSet": {
+        "include": ["at-6.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Graz",
+        "operator:type": "government",
+        "operator:wikidata": "Q13298"
+      }
+    },
+    {
+      "displayName": "Stadt Hanau",
+      "id": "stadthanau-17b2fe",
+      "locationSet": {
+        "include": ["de-he.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Hanau",
+        "operator:type": "government",
+        "operator:wikidata": "Q3802"
+      }
+    },
+    {
+      "displayName": "Stadt Herne",
+      "id": "stadtherne-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Herne",
+        "operator:type": "government",
+        "operator:wikidata": "Q2904"
+      }
+    },
+    {
+      "displayName": "Stadt Köln",
+      "id": "stadtkoln-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Köln",
+        "operator:type": "government",
+        "operator:wikidata": "Q365"
+      }
+    },
+    {
+      "displayName": "Stadt Krefeld",
+      "id": "stadtkrefeld-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Krefeld",
+        "operator:type": "government",
+        "operator:wikidata": "Q2805"
+      }
+    },
+    {
+      "displayName": "Stadt Leipzig - Amt für Jugend und Familie",
+      "id": "stadtleipzigamtfurjugendundfamilie-05384f",
+      "locationSet": {
+        "include": ["de-sn.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Leipzig - Amt für Jugend und Familie",
+        "operator:type": "government"
+      }
+    },
+    {
+      "displayName": "Stadt Leverkusen",
+      "id": "stadtleverkusen-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Leverkusen",
+        "operator:type": "government",
+        "operator:wikidata": "Q2938"
+      }
+    },
+    {
+      "displayName": "Stadt Lünen",
+      "id": "stadtlunen-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Lünen",
+        "operator:type": "government",
+        "operator:wikidata": "Q3822"
+      }
+    },
+    {
+      "displayName": "Stadt Mannheim",
+      "id": "stadtmannheim-df1e7e",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Mannheim",
+        "operator:type": "government",
+        "operator:wikidata": "Q2119"
+      }
+    },
+    {
+      "displayName": "Stadt Metzingen",
+      "id": "stadtmetzingen-df1e7e",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Metzingen",
+        "operator:type": "government",
+        "operator:wikidata": "Q82881"
+      }
+    },
+    {
+      "displayName": "Stadt Mörfelden-Walldorf",
+      "id": "stadtmorfeldenwalldorf-17b2fe",
+      "locationSet": {
+        "include": ["de-he.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Mörfelden-Walldorf",
+        "operator:type": "government",
+        "operator:wikidata": "Q16007"
+      }
+    },
+    {
+      "displayName": "Stadt Mössingen",
+      "id": "stadtmossingen-df1e7e",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Mössingen",
+        "operator:type": "government",
+        "operator:wikidata": "Q525575"
+      }
+    },
+    {
+      "displayName": "Stadt München",
+      "id": "stadtmunchen-fd062c",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt München",
+        "operator:type": "government",
+        "operator:wikidata": "Q1726"
+      }
+    },
+    {
+      "displayName": "Stadt Paderborn",
+      "id": "stadtpaderborn-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Paderborn",
+        "operator:type": "government",
+        "operator:wikidata": "Q2971"
+      }
+    },
+    {
+      "displayName": "Stadt Rodgau",
+      "id": "stadtrodgau-17b2fe",
+      "locationSet": {
+        "include": ["de-he.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Rodgau",
+        "operator:type": "government",
+        "operator:wikidata": "Q7053"
+      }
+    },
+    {
+      "displayName": "Stadt Ronnenberg",
+      "id": "stadtronnenberg-b371e3",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Ronnenberg",
+        "operator:type": "government",
+        "operator:wikidata": "Q555643"
+      }
+    },
+    {
+      "displayName": "Stadt Rüsselsheim am Main",
+      "id": "stadtrusselsheimammain-17b2fe",
+      "locationSet": {
+        "include": ["de-he.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Rüsselsheim am Main",
+        "operator:type": "government",
+        "operator:wikidata": "Q4031"
+      }
+    },
+    {
+      "displayName": "Stadt Singen",
+      "id": "stadtsingen-df1e7e",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Singen",
+        "operator:type": "government",
+        "operator:wikidata": "Q6979"
+      }
+    },
+    {
+      "displayName": "Stadt Speyer",
+      "id": "stadtspeyer-df3d5e",
+      "locationSet": {
+        "include": ["de-rp.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Speyer",
+        "operator:type": "government",
+        "operator:wikidata": "Q6829"
+      }
+    },
+    {
+      "displayName": "Stadt Steyr",
+      "id": "stadtsteyr-0e4679",
+      "locationSet": {
+        "include": ["at-4.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Steyr",
+        "operator:type": "government",
+        "operator:wikidata": "Q260320"
+      }
+    },
+    {
+      "displayName": "Stadt Troisdorf",
+      "id": "stadttroisdorf-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Troisdorf",
+        "operator:type": "government",
+        "operator:wikidata": "Q3900"
+      }
+    },
+    {
+      "displayName": "Stadt Ulm",
+      "id": "stadtulm-df1e7e",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Ulm",
+        "operator:type": "government",
+        "operator:wikidata": "Q3012"
+      }
+    },
+    {
+      "displayName": "Stadt Weinstadt",
+      "id": "stadtweinstadt-df1e7e",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Weinstadt",
+        "operator:type": "government",
+        "operator:wikidata": "Q82911"
+      }
+    },
+    {
+      "displayName": "Stadt Winnenden",
+      "id": "stadtwinnenden-df1e7e",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Winnenden",
+        "operator:type": "government",
+        "operator:wikidata": "Q82741"
+      }
+    },
+    {
+      "displayName": "Stadt Wolfenbüttel",
+      "id": "stadtwolfenbuttel-b371e3",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stadt Wolfenbüttel",
+        "operator:type": "government",
+        "operator:wikidata": "Q4122"
+      }
+    },
+    {
+      "displayName": "Stiftelsen Kanvas",
+      "id": "stiftelsenkanvas-04f073",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stiftelsen Kanvas",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Stockholms kommun",
+      "id": "stockholmskommun-b6a588",
+      "locationSet": {"include": ["se"]},
+      "matchNames": ["stockholms stad"],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Stockholms kommun",
+        "operator:type": "government",
+        "operator:wikidata": "Q506250"
+      }
+    },
+    {
+      "displayName": "Středočeský kraj",
+      "id": "stredoceskykraj-934c9c",
+      "locationSet": {
+        "include": ["cz-20.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Středočeský kraj",
+        "operator:type": "government",
+        "operator:wikidata": "Q188399"
+      }
+    },
+    {
+      "displayName": "Sundsvalls kommun",
+      "id": "sundsvallskommun-b6a588",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Sundsvalls kommun",
+        "operator:type": "government",
+        "operator:wikidata": "Q504994"
+      }
+    },
+    {
+      "displayName": "Szeged Megyei Jogú Város Önkormányzata Óvodák Igazgatósága",
+      "id": "szegedmegyeijoguvarosonkormanyzataovodakigazgatosaga-389d8b",
+      "locationSet": {"include": ["hu"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Szeged Megyei Jogú Város Önkormányzata Óvodák Igazgatósága",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Tallinna Haridusamet",
+      "id": "tallinnaharidusamet-22285e",
+      "locationSet": {"include": ["ee"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Tallinna Haridusamet",
+        "operator:type": "public",
+        "operator:wikidata": "Q25514682"
+      }
+    },
+    {
+      "displayName": "Tampereen kaupunki",
+      "id": "tampereenkaupunki-f5d7fd",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Tampereen kaupunki",
+        "operator:type": "government",
+        "operator:wikidata": "Q40840"
+      }
+    },
+    {
+      "displayName": "Targówek",
+      "id": "targowek-d9c326",
+      "locationSet": {
+        "include": ["pl-14.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Targówek",
+        "operator:type": "government",
+        "operator:wikidata": "Q1247360"
+      }
+    },
+    {
+      "displayName": "Terminal for Kids",
+      "id": "terminalforkids-747d0f",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["terminal for kids ggmbh"],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Terminal for Kids",
+        "operator:type": "private",
+        "operator:wikidata": "Q133800155"
+      }
+    },
+    {
+      "displayName": "Touhula",
+      "id": "touhula-f5d7fd",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Touhula",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Trägergemeinschaft TfK im Ev. KK Gütersloh",
+      "id": "tragergemeinschafttfkimevkkgutersloh-747d0f",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Trägergemeinschaft TfK im Ev. KK Gütersloh",
+        "operator:type": "religious"
+      }
+    },
+    {
+      "displayName": "Trondhjems Asylselskap",
+      "id": "trondhjemsasylselskap-04f073",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Trondhjems Asylselskap",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Ullensvang kommune",
+      "id": "ullensvangkommune-04f073",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Ullensvang kommune",
+        "operator:type": "government",
+        "operator:wikidata": "Q80678654"
+      }
+    },
+    {
+      "displayName": "Ursus",
+      "id": "ursus-d9c326",
+      "locationSet": {
+        "include": ["pl-14.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Ursus",
+        "operator:type": "government",
+        "operator:wikidata": "Q1851596"
+      }
+    },
+    {
+      "displayName": "Ursynów",
+      "id": "ursynow-d9c326",
+      "locationSet": {
+        "include": ["pl-14.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Ursynów",
+        "operator:type": "government",
+        "operator:wikidata": "Q1280107"
+      }
+    },
+    {
+      "displayName": "Urząd Dzielnicy Bemowo M.st.warszawy",
+      "id": "urzaddzielnicybemowomstwarszawy-d9c326",
+      "locationSet": {
+        "include": ["pl-14.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Urząd Dzielnicy Bemowo M.st.warszawy",
+        "operator:type": "public"
+      }
+    },
+    {
+      "displayName": "Vantaan kaupunki",
+      "id": "vantaankaupunki-f5d7fd",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Vantaan kaupunki",
+        "operator:type": "government",
+        "operator:wikidata": "Q127623"
+      }
+    },
+    {
+      "displayName": "Värnamo kommun",
+      "id": "varnamokommun-b6a588",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Värnamo kommun",
+        "operator:type": "government",
+        "operator:wikidata": "Q280562"
+      }
+    },
+    {
+      "displayName": "Vihdin kunta",
+      "id": "vihdinkunta-f5d7fd",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Vihdin kunta",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Ville d'Amiens",
+      "id": "villedamiens-0d93d5",
+      "locationSet": {
+        "include": ["fr-hdf.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Ville d'Amiens",
+        "operator:type": "government",
+        "operator:wikidata": "Q87071093"
+      }
+    },
+    {
+      "displayName": "Ville de Montpellier",
+      "id": "villedemontpellier-ed7f0d",
+      "locationSet": {
+        "include": ["fr-occ.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Ville de Montpellier",
+        "operator:type": "government",
+        "operator:wikidata": "Q86688720"
+      }
+    },
+    {
+      "displayName": "Volkssolidarität Leipziger Land/Muldental e.V.",
+      "id": "volkssolidaritatleipzigerlandmuldentalev-747d0f",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Volkssolidarität Leipziger Land/Muldental e.V.",
+        "operator:type": "charitable"
+      }
+    },
+    {
+      "displayName": "Włochy",
+      "id": "wlochy-d9c326",
+      "locationSet": {
+        "include": ["pl-14.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Włochy",
+        "operator:type": "government",
+        "operator:wikidata": "Q1671187"
+      }
+    },
+    {
+      "displayName": "Wola",
+      "id": "wola-d9c326",
+      "locationSet": {
+        "include": ["pl-14.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Wola",
+        "operator:type": "government",
+        "operator:wikidata": "Q1020136"
+      }
+    },
+    {
+      "displayName": "Zespół Żłobków Miasta Stołecznego Warszawy",
+      "id": "zespolzlobkowmiastastolecznegowarszawy-d9c326",
+      "locationSet": {
+        "include": ["pl-14.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Zespół Żłobków Miasta Stołecznego Warszawy",
+        "operator:type": "public"
+      }
+    },
+    {
+      "displayName": "Żoliborz",
+      "id": "zoliborz-d9c326",
+      "locationSet": {
+        "include": ["pl-14.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Żoliborz",
+        "operator:type": "government",
+        "operator:wikidata": "Q127098"
+      }
+    },
+    {
+      "displayName": "Zweckverband Katholische Tageseinrichtungen für Kinder im Bistum Essen",
+      "id": "zweckverbandkatholischetageseinrichtungenfurkinderimbistumessen-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Zweckverband Katholische Tageseinrichtungen für Kinder im Bistum Essen",
+        "operator:type": "religious"
+      }
+    },
+    {
+      "displayName": "Δήμος Κοζάνης",
+      "id": "d63e83-e2f441",
+      "locationSet": {"include": ["gr"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Δήμος Κοζάνης",
+        "operator:type": "government",
+        "operator:wikidata": "Q3560056"
+      }
+    },
+    {
+      "displayName": "Διεύθυνση Πρωτοβάθμιας Εκπαίδευσης Δυτικής Θεσσαλονίκης",
+      "id": "5fd828-461a37",
+      "locationSet": {
+        "include": ["gr-b.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Διεύθυνση Πρωτοβάθμιας Εκπαίδευσης Δυτικής Θεσσαλονίκης",
+        "operator:type": "government"
+      }
+    },
+    {
+      "displayName": "Администрация Ленинского района муниципального образования «Город Саратов»",
+      "id": "c4030e-ecdee8",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-SAR",
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Администрация Ленинского района муниципального образования «Город Саратов»",
+        "operator:type": "government"
+      }
+    },
+    {
+      "displayName": "ГБОУ Школа №1598",
+      "id": "5050ce-ecdee8",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-MOW",
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "ГБОУ Школа №1598",
+        "operator:type": "government"
+      }
+    },
+    {
+      "displayName": "Житомирська міська рада",
+      "id": "351435-64283a",
+      "locationSet": {"include": ["ua"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Житомирська міська рада",
+        "operator:type": "government"
+      }
+    },
+    {
+      "displayName": "Международный общественный фонд (МОФ) “Инициатива Розы Отунбаевой”",
+      "id": "412652-2246ab",
+      "locationSet": {"include": ["kg"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Международный общественный фонд (МОФ) “Инициатива Розы Отунбаевой”",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Міністерство освіти і науки",
+      "id": "693a7d-64283a",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": [
+        "мiнiстерство освiти i науки"
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Міністерство освіти і науки",
+        "operator:type": "government"
+      }
+    },
+    {
+      "displayName": "Предшколска установа „Дечја радост“",
+      "id": "8bf48c-916082",
+      "locationSet": {"include": ["rs"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Предшколска установа „Дечја радост“",
+        "operator:type": "private"
+      }
+    },
+    {
+      "displayName": "Столична община",
+      "id": "4c66bf-563fb8",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Столична община",
+        "operator:type": "public",
+        "operator:wikidata": "Q4442915"
+      }
+    },
+    {
+      "displayName": "Управление образования Агаповского муниципального района",
+      "id": "e8dfcb-ecdee8",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Управление образования Агаповского муниципального района",
+        "operator:type": "government"
+      }
+    },
+    {
+      "displayName": "ბათუმის საბავშვო ბაღების გაერთიანება",
+      "id": "76bdc0-4599e1",
+      "locationSet": {"include": ["ge"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "ბათუმის საბავშვო ბაღების გაერთიანება",
+        "operator:type": "association"
+      }
+    },
+    {
+      "displayName": "რუსთავის საბავშვო ბაგა–ბაღების გაერთიანება",
+      "id": "9cb403-4599e1",
+      "locationSet": {"include": ["ge"]},
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "რუსთავის საბავშვო ბაგა–ბაღების გაერთიანება",
+        "operator:type": "association"
+      }
+    },
+    {
+      "displayName": "那覇市",
+      "id": "030961-86bb4b",
+      "locationSet": {
+        "include": ["jp-47.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "那覇市",
+        "operator:type": "government",
+        "operator:wikidata": "Q181966"
+      }
+    },
+    {
+      "displayName": "飯田市",
+      "id": "05b6da-87494a",
+      "locationSet": {
+        "include": ["jp-20.geojson"]
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "飯田市",
+        "operator:type": "government",
+        "operator:wikidata": "Q841129"
+      }
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "properties": {
+    "path": "operators/amenity/vending_machine",
+    "skipCollection": true,
+    "exclude": {"generic": ["^vending machine$"]}
+  },
+  "items": [
+    {
+      "displayName": "ALIAE péage",
+      "id": "aliae-187795",
+      "locationSet": {"include": ["fx"]},
+      "matchNames": ["eiffage"],
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "ALIAE",
+        "operator:wikidata": "Q113461951",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "vending": "toll"
+      }
+    },
+    {
+      "displayName": "ASEC (ZTM Warszawa)",
+      "id": "asec-7bef08",
+      "locationSet": {
+        "include": [
+          "pl-10.geojson",
+          "pl-14.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "vending_machine",
+        "currency:PLN": "yes",
+        "network": "ZTM Warszawa",
+        "network:wikidata": "Q8066998",
+        "operator": "ASEC",
+        "operator:wikidata": "Q115014416",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:mastercard_electronic": "yes",
+        "payment:notes": "yes",
+        "payment:v_pay": "yes",
+        "payment:visa": "yes",
+        "payment:visa_electron": "yes",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "displayName": "AT HOP Top-Up Machine",
+      "id": "at-7f6a8f",
+      "locationSet": {
+        "include": [
+          "nz-auk.geojson",
+          "nz-wko.geojson"
+        ]
+      },
+      "matchNames": ["auckland transport"],
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "AT",
+        "operator:wikidata": "Q4819567",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "displayName": "CapMetro",
+      "id": "capmetro-8fcf5c",
+      "locationSet": {
+        "include": ["us-tx.geojson"]
+      },
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "CapMetro",
+        "operator:wikidata": "Q587830",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "displayName": "České dráhy",
+      "id": "ceskedrahy-b6edac",
+      "locationSet": {"include": ["cz"]},
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "České dráhy",
+        "operator:short": "ČD",
+        "operator:type": "public",
+        "operator:wikidata": "Q304944",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "displayName": "Ferrocarrils de la Generalitat de Catalunya",
+      "id": "ferrocarrilsdelageneralitatdecatalunya-d94bff",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "Ferrocarrils de la Generalitat de Catalunya",
+        "operator:short": "FGC",
+        "operator:wikidata": "Q83819",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "displayName": "Geile Warenautomaten",
+      "id": "geilewarenautomaten-3aec70",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["geile warenautomaten gmbh"],
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "Geile Warenautomaten",
+        "operator:wikidata": "Q141404805"
+      }
+    },
+    {
+      "displayName": "Mennica Polska (ZTM Warszawa)",
+      "id": "mennicapolska-7bef08",
+      "locationSet": {
+        "include": [
+          "pl-10.geojson",
+          "pl-14.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "vending_machine",
+        "currency:PLN": "yes",
+        "network": "ZTM Warszawa",
+        "network:wikidata": "Q8066998",
+        "operator": "Mennica Polska",
+        "operator:wikidata": "Q4371256",
+        "payment:coins": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:v_pay": "yes",
+        "payment:visa": "yes",
+        "payment:visa_electron": "yes",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "displayName": "Mera-Serwis SGL (ZTM Warszawa)",
+      "id": "meraserwissgl-32b662",
+      "locationSet": {
+        "include": ["pl-14.geojson"]
+      },
+      "tags": {
+        "amenity": "vending_machine",
+        "currency:PLN": "yes",
+        "network": "ZTM Warszawa",
+        "network:wikidata": "Q8066998",
+        "operator": "Mera-Serwis SGL",
+        "operator:wikidata": "Q115014490",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "displayName": "Mesto Košice",
+      "id": "mestokosice-3eae11",
+      "locationSet": {
+        "include": ["sk-ki.geojson"]
+      },
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "Mesto Košice",
+        "operator:type": "public",
+        "operator:wikidata": "Q25409",
+        "vending": "parking_tickets"
+      }
+    },
+    {
+      "displayName": "Metra",
+      "id": "metra-342c43",
+      "locationSet": {
+        "include": ["us-il.geojson"]
+      },
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "Metra",
+        "operator:wikidata": "Q1814208",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "displayName": "Nederlandse Spoorwegen",
+      "id": "nederlandsespoorwegen-36ca54",
+      "issues": [21351],
+      "locationSet": {"include": ["nl"]},
+      "matchNames": ["ns"],
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "Nederlandse Spoorwegen",
+        "operator:wikidata": "Q23076",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "displayName": "Pharmaself24",
+      "id": "pharmaself24-44db7a",
+      "locationSet": {
+        "include": [
+          "au",
+          "be",
+          "gb",
+          "nl",
+          "no",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "Pharmaself24",
+        "operator:wikidata": "Q131228616",
+        "vending": "pharmacy"
+      }
+    },
+    {
+      "displayName": "Renfe",
+      "id": "renfe-d94bff",
+      "locationSet": {"include": ["es"]},
+      "matchNames": ["renfe operadora"],
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "Renfe",
+        "operator:wikidata": "Q2476154",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "displayName": "RetuRO",
+      "id": "returo-33f2a6",
+      "locationSet": {"include": ["ro"]},
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "RetuRO",
+        "operator:wikidata": "Q123704028",
+        "payment:token": "yes",
+        "recycling:refund_bottles": "yes",
+        "vending": "bottle_return"
+      }
+    },
+    {
+      "displayName": "Rhein-Neckar-Verkehr",
+      "id": "rheinneckarverkehrgmbh-1d057f",
+      "locationSet": {
+        "include": [
+          "de-bw.geojson",
+          "de-he.geojson",
+          "de-rp.geojson"
+        ]
+      },
+      "matchNames": ["rnv", "vrn"],
+      "tags": {
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "operator": "Rhein-Neckar-Verkehr GmbH",
+        "operator:wikidata": "Q1650863",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "displayName": "Rīgas satiksme",
+      "id": "rigassatiksme-3c36b4",
+      "locationSet": {"include": ["lv"]},
+      "matchNames": ["e-talon"],
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "Rīgas satiksme",
+        "operator:wikidata": "Q2280274",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "displayName": "RingGo",
+      "id": "ringgo-6fe21e",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "RingGo",
+        "operator:wikidata": "Q7334684",
+        "vending": "parking_tickets"
+      }
+    },
+    {
+      "displayName": "SANEF péage",
+      "id": "sanef-dc912e",
+      "locationSet": {
+        "include": [
+          "fr-idf.geojson",
+          "fr-nor.geojson"
+        ]
+      },
+      "matchNames": ["abertis", "sapn"],
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "SANEF",
+        "operator:wikidata": "Q1474126",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "vending": "toll"
+      }
+    },
+    {
+      "displayName": "Somerset Council",
+      "id": "somersetcouncil-ef1a8e",
+      "locationSet": {
+        "include": ["gb-som.geojson"]
+      },
+      "matchNames": [
+        "mendip district council",
+        "sedgemoor district council",
+        "somerset county council",
+        "somerset west and taunton council",
+        "south somerset district council"
+      ],
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "Somerset Council",
+        "operator:type": "government",
+        "operator:wikidata": "Q6386270",
+        "vending": "parking_tickets"
+      }
+    },
+    {
+      "displayName": "Translink (Queensland)",
+      "id": "translink-b39439",
+      "locationSet": {
+        "include": ["au-qld.geojson"]
+      },
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "Translink",
+        "operator:wikidata": "Q7833625",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "displayName": "БГ Тол",
+      "id": "bgtoll-c8e53b",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": ["винетка", "винетки"],
+      "tags": {
+        "amenity": "vending_machine",
+        "name": "БГ Тол",
+        "name:bg": "БГ Тол",
+        "name:en": "BG Toll",
+        "operator": "БГ Тол",
+        "operator:wikidata": "Q118964623",
+        "vending": "toll"
+      }
+    },
+    {
+      "displayName": "Метрополитен",
+      "id": "184e0b-c8e53b",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "Метрополитен",
+        "operator:wikidata": "Q234707",
+        "payment:cards": "no",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "displayName": "入樽機先導計劃 Reverse Vending Machine Pilot Scheme",
+      "id": "environmentalprotectiondepartment-7b8b38",
+      "locationSet": {"include": ["hk"]},
+      "matchNames": ["rvmps"],
+      "tags": {
+        "amenity": "vending_machine",
+        "name": "入樽機先導計劃 Reverse Vending Machine Pilot Scheme",
+        "name:en": "Reverse Vending Machine Pilot Scheme",
+        "name:zh": "入樽機先導計劃",
+        "operator": "環境保護署 Environmental Protection Department",
+        "operator:en": "Environmental Protection Department",
+        "operator:wikidata": "Q841892",
+        "operator:zh": "環境保護署",
+        "payment:alipay_HK": "yes",
+        "payment:octopus": "yes",
+        "recycling:plastic_bottles": "yes",
+        "vending": "bottle_return"
+      }
+    }
+  ]
+}

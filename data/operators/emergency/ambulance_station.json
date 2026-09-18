@@ -1,0 +1,795 @@
+{
+  "properties": {
+    "path": "operators/emergency/ambulance_station",
+    "exclude": {
+      "generic": ["^ambulance( station)?$"],
+      "named": [
+        "^(london ambulance service nhs trust|national health service|nhs)$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "ADAC Luftrettung gGmbH",
+      "id": "adacluftrettungggmbh-d077c2",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "ADAC Luftrettung gGmbH",
+        "operator:wikidata": "Q55517308"
+      }
+    },
+    {
+      "displayName": "Alberta Health Services",
+      "id": "albertahealthservices-bd06e5",
+      "locationSet": {
+        "include": ["ca-ab.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Alberta Health Services",
+        "operator:short": "AHS",
+        "operator:wikidata": "Q4711650"
+      }
+    },
+    {
+      "displayName": "Ambulance IJsselland",
+      "id": "ambulanceijsselland-851507",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Ambulance IJsselland",
+        "operator:wikidata": "Q130250731"
+      }
+    },
+    {
+      "displayName": "Ambulance Oost",
+      "id": "ambulanceoost-851507",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Ambulance Oost",
+        "operator:wikidata": "Q130250740"
+      }
+    },
+    {
+      "displayName": "Ambulance Victoria",
+      "id": "ambulancevictoria-6651b8",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Ambulance Victoria",
+        "operator:wikidata": "Q4741949"
+      }
+    },
+    {
+      "displayName": "American Medical Response",
+      "id": "americanmedicalresponse-1fc346",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "American Medical Response",
+        "operator:wikidata": "Q3614084"
+      }
+    },
+    {
+      "displayName": "Ayuntamiento de Madrid",
+      "id": "ayuntamientodemadrid-b3e350",
+      "locationSet": {
+        "include": ["es-m.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Ayuntamiento de Madrid",
+        "operator:wikidata": "Q3773976"
+      }
+    },
+    {
+      "displayName": "BC Ambulance Service",
+      "id": "bcambulanceservice-ffbb04",
+      "locationSet": {
+        "include": ["ca-bc.geojson"]
+      },
+      "matchNames": [
+        "british columbia ambulance service"
+      ],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "BC Ambulance Service",
+        "operator:wikidata": "Q4969671"
+      }
+    },
+    {
+      "displayName": "Berliner Feuerwehr",
+      "id": "berlinerfeuerwehr-4125a2",
+      "locationSet": {
+        "include": ["de-be.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Berliner Feuerwehr",
+        "operator:wikidata": "Q821517"
+      }
+    },
+    {
+      "displayName": "crued",
+      "id": "crued-fa4f03",
+      "locationSet": {"include": ["co"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "crued"
+      }
+    },
+    {
+      "displayName": "DRK-Rettungsdienst Mittelhessen",
+      "id": "drkrettungsdienstmittelhessen-843991",
+      "locationSet": {
+        "include": [
+          "de-he.geojson",
+          "de-ni.geojson"
+        ]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "DRK-Rettungsdienst Mittelhessen",
+        "operator:wikidata": "Q130156202"
+      }
+    },
+    {
+      "displayName": "East Midlands Ambulance Service",
+      "id": "eastmidlandsambulanceservice-4d00c7",
+      "locationSet": {
+        "include": ["gb-east-midlands.geojson"]
+      },
+      "matchNames": [
+        "national health service",
+        "nhs"
+      ],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "East Midlands Ambulance Service",
+        "operator:wikidata": "Q5328979"
+      }
+    },
+    {
+      "displayName": "East of England Ambulance Service",
+      "id": "eastofenglandambulanceservice-ccb804",
+      "locationSet": {
+        "include": ["gb-east-england.geojson"]
+      },
+      "matchNames": [
+        "national health service",
+        "nhs"
+      ],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "East of England Ambulance Service",
+        "operator:wikidata": "Q5329757"
+      }
+    },
+    {
+      "displayName": "EHS Nova Scotia",
+      "id": "ehsnovascotia-36afdf",
+      "locationSet": {
+        "include": ["ca-ns.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "EHS Nova Scotia"
+      }
+    },
+    {
+      "displayName": "Falck Notfallrettung und Krankentransport GmbH",
+      "id": "falcknotfallrettungundkrankentransportgmbh-d077c2",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Falck Notfallrettung und Krankentransport GmbH"
+      }
+    },
+    {
+      "displayName": "Feuerwehr Hamburg",
+      "id": "feuerwehrhamburg-cc534f",
+      "locationSet": {
+        "include": ["de-hh.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Feuerwehr Hamburg",
+        "operator:wikidata": "Q1409871"
+      }
+    },
+    {
+      "displayName": "Gemeinnützige Herzogtum Lauenburg Rettungsdienstgesellschaft mbH",
+      "id": "gemeinnutzigeherzogtumlauenburgrettungsdienstgesellschaftmbh-86bca7",
+      "locationSet": {
+        "include": ["de-sh.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Gemeinnützige Herzogtum Lauenburg Rettungsdienstgesellschaft mbH",
+        "operator:short": "HLM",
+        "operator:wikidata": "Q130192020"
+      }
+    },
+    {
+      "displayName": "Hamilton County EMS",
+      "id": "hamiltoncountyems-85c4c7",
+      "locationSet": {
+        "include": ["us-tn.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Hamilton County EMS"
+      }
+    },
+    {
+      "displayName": "HSE National Ambulance Service",
+      "id": "hsenationalambulanceservice-55b9ac",
+      "locationSet": {"include": ["ie"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "HSE National Ambulance Service",
+        "operator:wikidata": "Q5635955"
+      }
+    },
+    {
+      "displayName": "Isle of Wight NHS Trust",
+      "id": "isleofwightnhstrust-071b94",
+      "locationSet": {
+        "include": ["gb-iow.geojson"]
+      },
+      "matchNames": [
+        "national health service",
+        "nhs"
+      ],
+      "note": "Located on the  Isle of Wight (gb-iow), England (gb-eng)",
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Isle of Wight NHS Trust",
+        "operator:wikidata": "Q16995139"
+      }
+    },
+    {
+      "displayName": "Johnston County Emergency Services",
+      "id": "johnstoncountyemergencyservices-d2a2b5",
+      "locationSet": {
+        "include": ["us-nc.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Johnston County Emergency Services"
+      }
+    },
+    {
+      "displayName": "Kreis Nordfriesland",
+      "id": "kreisnordfriesland-86bca7",
+      "locationSet": {
+        "include": ["de-sh.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Kreis Nordfriesland",
+        "operator:wikidata": "Q2937"
+      }
+    },
+    {
+      "displayName": "Landesrettungsverein Weißes Kreuz",
+      "id": "landesrettungsvereinweisseskreuz-d63413",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Landesrettungsverein Weißes Kreuz",
+        "operator:wikidata": "Q1724186"
+      }
+    },
+    {
+      "displayName": "London Ambulance Service",
+      "id": "londonambulanceservice-aece76",
+      "locationSet": {
+        "include": ["gb-lon.geojson"]
+      },
+      "matchNames": [
+        "london ambulance service nhs trust",
+        "national health service",
+        "nhs"
+      ],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "London Ambulance Service",
+        "operator:wikidata": "Q1794466"
+      }
+    },
+    {
+      "displayName": "Lotnicze Pogotowie Ratunkowe",
+      "id": "lotniczepogotowieratunkowe-a78dca",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Lotnicze Pogotowie Ratunkowe",
+        "operator:wikidata": "Q4043199"
+      }
+    },
+    {
+      "displayName": "North East Ambulance Service",
+      "id": "northeastambulanceservice-5ff189",
+      "locationSet": {
+        "include": ["gb-north-east.geojson"]
+      },
+      "matchNames": [
+        "national health service",
+        "nhs"
+      ],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "North East Ambulance Service",
+        "operator:wikidata": "Q16258059"
+      }
+    },
+    {
+      "displayName": "North West Ambulance Service",
+      "id": "northwestambulanceservice-ab716a",
+      "locationSet": {
+        "include": ["gb-north-west.geojson"]
+      },
+      "matchNames": [
+        "national health service",
+        "nhs"
+      ],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "North West Ambulance Service",
+        "operator:wikidata": "Q7057220"
+      }
+    },
+    {
+      "displayName": "Northern Ireland Ambulance Service",
+      "id": "northernirelandambulanceservice-578b54",
+      "locationSet": {"include": ["gb-nir"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Northern Ireland Ambulance Service",
+        "operator:wikidata": "Q7058462"
+      }
+    },
+    {
+      "displayName": "NSW Ambulance",
+      "id": "nswambulance-2fb321",
+      "locationSet": {
+        "include": ["au-nsw.geojson"]
+      },
+      "matchNames": [
+        "ambulance service of nsw",
+        "new south wales ambulance"
+      ],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "NSW Ambulance",
+        "operator:wikidata": "Q4741948"
+      }
+    },
+    {
+      "displayName": "Országos Mentőszolgálat",
+      "id": "orszagosmentoszolgalat-9ab0cd",
+      "locationSet": {"include": ["hu"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Országos Mentőszolgálat",
+        "operator:wikidata": "Q98404980"
+      }
+    },
+    {
+      "displayName": "Österreichisches Rotes Kreuz, Landesverband Burgenland",
+      "id": "osterreichischesroteskreuzlandesverbandburgenland-a0ed90",
+      "locationSet": {
+        "include": ["at-1.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Burgenland",
+        "operator:wikidata": "Q105580734"
+      }
+    },
+    {
+      "displayName": "Österreichisches Rotes Kreuz, Landesverband Kärnten",
+      "id": "osterreichischesroteskreuzlandesverbandkarnten-4d3418",
+      "locationSet": {
+        "include": ["at-2.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Kärnten",
+        "operator:wikidata": "Q105580616"
+      }
+    },
+    {
+      "displayName": "Österreichisches Rotes Kreuz, Landesverband Niederösterreich",
+      "id": "osterreichischesroteskreuzlandesverbandniederosterreich-d0862d",
+      "locationSet": {
+        "include": ["at-3.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Niederösterreich",
+        "operator:wikidata": "Q61950913"
+      }
+    },
+    {
+      "displayName": "Österreichisches Rotes Kreuz, Landesverband Salzburg",
+      "id": "osterreichischesroteskreuzlandesverbandsalzburg-ae68c2",
+      "locationSet": {
+        "include": ["at-5.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Salzburg",
+        "operator:wikidata": "Q105577291"
+      }
+    },
+    {
+      "displayName": "Österreichisches Rotes Kreuz, Landesverband Steiermark",
+      "id": "osterreichischesroteskreuzlandesverbandsteiermark-f52f0f",
+      "locationSet": {
+        "include": ["at-6.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Österreichisches Rotes Kreuz, Landesverband Steiermark"
+      }
+    },
+    {
+      "displayName": "Queensland Ambulance Service",
+      "id": "queenslandambulanceservice-958c13",
+      "locationSet": {
+        "include": ["au-qld.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Queensland Ambulance Service",
+        "operator:wikidata": "Q7270899"
+      }
+    },
+    {
+      "displayName": "RAV Brabant Midden-West-Noord",
+      "id": "ravbrabantmiddenwestnoord-851507",
+      "locationSet": {"include": ["nl"]},
+      "matchNames": ["brabant-midden-west"],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "RAV Brabant Midden-West-Noord",
+        "operator:wikidata": "Q130250646"
+      }
+    },
+    {
+      "displayName": "RAV Hollands Midden",
+      "id": "ravhollandsmidden-851507",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "RAV Hollands Midden",
+        "operator:wikidata": "Q18089037"
+      }
+    },
+    {
+      "displayName": "Rettungsdienst Landkreis Barnim GmbH",
+      "id": "rettungsdienstlandkreisbarnimgmbh-eff076",
+      "locationSet": {
+        "include": ["de-bb.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Rettungsdienst Landkreis Barnim GmbH",
+        "operator:wikidata": "Q130192035"
+      }
+    },
+    {
+      "displayName": "Rettungsdienst Tirol gGmbH",
+      "id": "rettungsdiensttirolggmbh-f76ab2",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Rettungsdienst Tirol gGmbH"
+      }
+    },
+    {
+      "displayName": "Rettungsdienst-Kooperation in Schleswig-Holstein",
+      "id": "rettungsdienstkooperationinschleswigholstein-86bca7",
+      "locationSet": {
+        "include": ["de-sh.geojson"]
+      },
+      "matchNames": [
+        "rettungsdienst-kooperation in schleswig-holstein ggmbh"
+      ],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Rettungsdienst-Kooperation in Schleswig-Holstein",
+        "operator:short": "RKiSH",
+        "operator:wikidata": "Q2124309"
+      }
+    },
+    {
+      "displayName": "SA Ambulance Service",
+      "id": "saambulanceservice-78af57",
+      "locationSet": {
+        "include": ["au-sa.geojson"]
+      },
+      "matchNames": [
+        "south australia ambulance service"
+      ],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "SA Ambulance Service",
+        "operator:wikidata": "Q7388884"
+      }
+    },
+    {
+      "displayName": "SAMU 192",
+      "id": "samu192-01b57c",
+      "locationSet": {"include": ["br"]},
+      "matchNames": ["samu"],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "SAMU 192",
+        "operator:wikidata": "Q104713679"
+      }
+    },
+    {
+      "displayName": "Scottish Ambulance Service",
+      "id": "scottishambulanceservice-402965",
+      "locationSet": {"include": ["gb-sct"]},
+      "matchNames": [
+        "national health service",
+        "nhs"
+      ],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Scottish Ambulance Service",
+        "operator:wikidata": "Q2411102"
+      }
+    },
+    {
+      "displayName": "South Central Ambulance Service",
+      "id": "southcentralambulanceservice-5ae902",
+      "locationSet": {
+        "include": ["gb-south-central.geojson"],
+        "exclude": ["gb-iow.geojson"]
+      },
+      "matchNames": [
+        "national health service",
+        "nhs"
+      ],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "South Central Ambulance Service",
+        "operator:wikidata": "Q7566742"
+      }
+    },
+    {
+      "displayName": "South East Coast Ambulance Service",
+      "id": "southeastcoastambulanceservice-ebeb10",
+      "locationSet": {
+        "include": ["gb-south-east-coast.geojson"]
+      },
+      "matchNames": [
+        "national health service",
+        "nhs"
+      ],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "South East Coast Ambulance Service",
+        "operator:wikidata": "Q7567104"
+      }
+    },
+    {
+      "displayName": "South Western Ambulance Service",
+      "id": "southwesternambulanceservice-bba5ce",
+      "locationSet": {
+        "include": ["gb-south-west.geojson"]
+      },
+      "matchNames": [
+        "national health service",
+        "nhs"
+      ],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "South Western Ambulance Service",
+        "operator:wikidata": "Q7568903"
+      }
+    },
+    {
+      "displayName": "St John Ambulance (England)",
+      "id": "stjohnambulance-88fc80",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "St John Ambulance",
+        "operator:wikidata": "Q7593637"
+      }
+    },
+    {
+      "displayName": "St John Ambulance (Ireland)",
+      "id": "stjohnambulance-55b9ac",
+      "locationSet": {"include": ["ie"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "St John Ambulance",
+        "operator:wikidata": "Q7588873"
+      }
+    },
+    {
+      "displayName": "St John Ambulance (New Zealand)",
+      "id": "stjohnambulance-ec65c5",
+      "locationSet": {"include": ["nz"]},
+      "matchNames": ["saint john"],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "St John Ambulance",
+        "operator:wikidata": "Q7593661"
+      }
+    },
+    {
+      "displayName": "St John Ambulance (Northern Ireland)",
+      "id": "stjohnambulance-578b54",
+      "locationSet": {"include": ["gb-nir"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "St John Ambulance",
+        "operator:wikidata": "Q96406384"
+      }
+    },
+    {
+      "displayName": "St John Ambulance (Wales)",
+      "id": "stjohnambulance-aa98c4",
+      "locationSet": {"include": ["gb-wls"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "St John Ambulance",
+        "operator:wikidata": "Q7593645"
+      }
+    },
+    {
+      "displayName": "St John Ambulance NT",
+      "id": "stjohnambulancent-94c74e",
+      "locationSet": {
+        "include": ["au-nt.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "St John Ambulance NT",
+        "operator:wikidata": "Q104876452"
+      }
+    },
+    {
+      "displayName": "St John Ambulance WA",
+      "id": "stjohnambulancewa-1d2a42",
+      "locationSet": {
+        "include": ["au-wa.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "St John Ambulance WA",
+        "operator:wikidata": "Q27958344"
+      }
+    },
+    {
+      "displayName": "Welsh Ambulance Service",
+      "id": "welshambulanceservice-aa98c4",
+      "locationSet": {"include": ["gb-wls"]},
+      "matchNames": [
+        "national health service",
+        "nhs"
+      ],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Welsh Ambulance Service",
+        "operator:cy": "Gwasanaeth Ambiwlans Cymru",
+        "operator:en": "Welsh Ambulance Service",
+        "operator:wikidata": "Q7981848"
+      }
+    },
+    {
+      "displayName": "West Midlands Ambulance Service",
+      "id": "westmidlandsambulanceservice-514458",
+      "locationSet": {
+        "include": ["gb-west-midlands.geojson"]
+      },
+      "matchNames": [
+        "national health service",
+        "nhs"
+      ],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "West Midlands Ambulance Service",
+        "operator:wikidata": "Q7985932"
+      }
+    },
+    {
+      "displayName": "Wiener Berufsrettung",
+      "id": "wienerberufsrettung-804f9e",
+      "locationSet": {
+        "include": ["at-9.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Wiener Berufsrettung",
+        "operator:wikidata": "Q74346929"
+      }
+    },
+    {
+      "displayName": "Wojewódzka Stacja Pogotowia Ratunkowego w Szczecinie",
+      "id": "wojewodzkastacjapogotowiaratunkowegowszczecinie-952aa1",
+      "locationSet": {
+        "include": ["pl-32.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Wojewódzka Stacja Pogotowia Ratunkowego w Szczecinie"
+      }
+    },
+    {
+      "displayName": "Yorkshire Ambulance Service",
+      "id": "yorkshireambulanceservice-396bc7",
+      "locationSet": {
+        "include": ["gb-yorkshire.geojson"]
+      },
+      "matchNames": [
+        "national health service",
+        "nhs",
+        "yas"
+      ],
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Yorkshire Ambulance Service",
+        "operator:wikidata": "Q8055673"
+      }
+    },
+    {
+      "displayName": "Zdravotnická záchranná služba Plzeňského kraje",
+      "id": "zdravotnickazachrannasluzbaplzenskehokraje-d305cd",
+      "locationSet": {
+        "include": ["cz-32.geojson"]
+      },
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Zdravotnická záchranná služba Plzeňského kraje",
+        "operator:wikidata": "Q10857912"
+      }
+    },
+    {
+      "displayName": "ССМП",
+      "id": "9cfa26-54fc4b",
+      "locationSet": {"include": ["ru"]},
+      "note": "ISO 3166-2 RU-SVE",
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "ССМП"
+      }
+    },
+    {
+      "displayName": "الهلال الأحمر السعودي",
+      "id": "96ca9e-7ef6c2",
+      "locationSet": {"include": ["sa"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "الهلال الأحمر السعودي"
+      }
+    },
+    {
+      "displayName": "香港消防處 Hong Kong Fire Services Department",
+      "id": "hongkongfireservicesdepartment-921c7f",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "香港消防處 Hong Kong Fire Services Department",
+        "operator:en": "Hong Kong Fire Services Department",
+        "operator:short": "HKFSD",
+        "operator:wikidata": "Q1595073",
+        "operator:zh": "香港消防處",
+        "operator:zh-Hans": "香港消防处",
+        "operator:zh-Hant": "香港消防處"
+      }
+    }
+  ]
+}
