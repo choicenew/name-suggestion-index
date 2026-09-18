@@ -1,0 +1,84 @@
+{
+  "properties": {
+    "path": "brands/amenity/food_sharing",
+    "exclude": {
+      "generic": [
+        "^food sharing$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "foodsharing.de Fairteiler",
+      "id": "foodsharingde-bca860",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de"
+        ]
+      },
+      "matchNames": [
+        "foodsharing.de fairteiler"
+      ],
+      "tags": {
+        "amenity": "food_sharing",
+        "brand": "foodsharing.de",
+        "brand:wikidata": "Q15809935",
+        "name": "foodsharing.de"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Foodsharing-Logo_dunkel_Gabel.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foodsharingde-bca860.png",
+      "local_logo_path": "localbrand/logo/foodsharingde-bca860.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/16/Foodsharing-Logo_dunkel_Gabel.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foodsharingde-bca860.png"
+      }
+    },
+    {
+      "displayName": "Little Free Pantry",
+      "id": "littlefreepantry-f0545b",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "food_sharing",
+        "brand": "Little Free Pantry",
+        "brand:wikidata": "Q113799242",
+        "name": "Little Free Pantry"
+      },
+      "original_logo_url": "https://graph.facebook.com/littlefreepantry/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/littlefreepantry-f0545b.jpg",
+      "local_logo_path": "localbrand/logo/littlefreepantry-f0545b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/littlefreepantry/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/littlefreepantry-f0545b.jpg"
+      }
+    },
+    {
+      "displayName": "Madame Frigo",
+      "id": "madamefrigo-7b9f77",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "amenity": "food_sharing",
+        "brand": "Madame Frigo",
+        "brand:wikidata": "Q122664134",
+        "fridge": "yes",
+        "name": "Madame Frigo"
+      },
+      "original_logo_url": "https://graph.facebook.com/madamefrigo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/madamefrigo-7b9f77.jpg",
+      "local_logo_path": "localbrand/logo/madamefrigo-7b9f77.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/madamefrigo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/madamefrigo-7b9f77.jpg"
+      }
+    }
+  ]
+}

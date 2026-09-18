@@ -1,0 +1,304 @@
+{
+  "properties": {
+    "path": "brands/shop/bathroom_furnishing",
+    "exclude": {
+      "generic": [
+        "^bathroom( furnishing)?$",
+        "^сантехника$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Easy Bathrooms",
+      "id": "easybathrooms-72592f",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchTags": [
+        "shop/kitchen"
+      ],
+      "tags": {
+        "brand": "Easy Bathrooms",
+        "brand:wikidata": "Q114348566",
+        "name": "Easy Bathrooms",
+        "shop": "bathroom_furnishing"
+      },
+      "original_logo_url": "https://graph.facebook.com/easybathroomshop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easybathrooms-72592f.jpg",
+      "local_logo_path": "localbrand/logo/easybathrooms-72592f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/easybathroomshop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easybathrooms-72592f.jpg"
+      }
+    },
+    {
+      "displayName": "Frank Webb Home",
+      "id": "frankwebbhome-f64940",
+      "locationSet": {
+        "include": [
+          "us-ct.geojson",
+          "us-ma.geojson",
+          "us-me.geojson",
+          "us-nh.geojson",
+          "us-nj.geojson",
+          "us-ny.geojson",
+          "us-pa.geojson",
+          "us-ri.geojson",
+          "us-vt.geojson"
+        ]
+      },
+      "matchNames": [
+        "f.w. webb home",
+        "frank webb's bath center"
+      ],
+      "matchTags": [
+        "shop/kitchen",
+        "shop/lighting"
+      ],
+      "tags": {
+        "brand": "Frank Webb Home",
+        "brand:wikidata": "Q135303526",
+        "name": "Frank Webb Home",
+        "shop": "bathroom_furnishing"
+      },
+      "original_logo_url": "https://graph.facebook.com/frankwebbhome/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/frankwebbhome-f64940.jpg",
+      "local_logo_path": "localbrand/logo/frankwebbhome-f64940.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/frankwebbhome/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/frankwebbhome-f64940.jpg"
+      }
+    },
+    {
+      "displayName": "Kohler",
+      "id": "kohler-89347c",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/kitchen"
+      ],
+      "tags": {
+        "brand": "Kohler",
+        "brand:wikidata": "Q6426036",
+        "name": "Kohler",
+        "shop": "bathroom_furnishing"
+      },
+      "original_logo_url": "https://graph.facebook.com/KohlerTaiwan/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kohler-89347c.jpg",
+      "local_logo_path": "localbrand/logo/kohler-89347c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KohlerTaiwan/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kohler-89347c.jpg"
+      }
+    },
+    {
+      "displayName": "Ptáček",
+      "id": "ptacek-c15e11",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Ptáček",
+        "brand:wikidata": "Q58195153",
+        "name": "Ptáček",
+        "shop": "bathroom_furnishing"
+      },
+      "original_logo_url": "https://graph.facebook.com/ptacek.cz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ptacek-c15e11.png",
+      "local_logo_path": "localbrand/logo/ptacek-c15e11.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ptacek.cz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ptacek-c15e11.png"
+      }
+    },
+    {
+      "displayName": "Richardson",
+      "id": "richardson-8d633f",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "matchTags": [
+        "craft/plumber",
+        "shop/furniture",
+        "shop/kitchen"
+      ],
+      "tags": {
+        "brand": "Richardson",
+        "brand:wikidata": "Q3415192",
+        "name": "Richardson",
+        "shop": "bathroom_furnishing"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Logo-RICHARDSON.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/richardson-8d633f.jpg",
+      "local_logo_path": "localbrand/logo/richardson-8d633f.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Logo-RICHARDSON.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/richardson-8d633f.jpg"
+      }
+    },
+    {
+      "displayName": "Richter+Frenzel",
+      "id": "richterfrenzel-098dcf",
+      "locationSet": {
+        "include": [
+          "cz",
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Richter+Frenzel",
+        "brand:wikidata": "Q2151266",
+        "name": "Richter+Frenzel",
+        "shop": "bathroom_furnishing"
+      },
+      "original_logo_url": "https://graph.facebook.com/richterfrenzel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/richterfrenzel-098dcf.jpg",
+      "local_logo_path": "localbrand/logo/richterfrenzel-098dcf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/richterfrenzel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/richterfrenzel-098dcf.jpg"
+      }
+    },
+    {
+      "displayName": "Sani-Dump",
+      "id": "sanidump-ac38ee",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Sani-Dump",
+        "brand:wikidata": "Q123249250",
+        "name": "Sani-Dump",
+        "shop": "bathroom_furnishing"
+      },
+      "original_logo_url": "https://graph.facebook.com/sanidumpnederland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sanidump-ac38ee.png",
+      "local_logo_path": "localbrand/logo/sanidump-ac38ee.png",
+      "logos": {
+        "original": "https://graph.facebook.com/sanidumpnederland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sanidump-ac38ee.png"
+      }
+    },
+    {
+      "displayName": "Sanidirect",
+      "id": "sanidirect-c2f578",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Sanidirect",
+        "brand:wikidata": "Q123511078",
+        "name": "Sanidirect",
+        "shop": "bathroom_furnishing"
+      },
+      "original_logo_url": "https://graph.facebook.com/Sanidirectnl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sanidirect-c2f578.png",
+      "local_logo_path": "localbrand/logo/sanidirect-c2f578.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Sanidirectnl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sanidirect-c2f578.png"
+      }
+    },
+    {
+      "displayName": "X2O",
+      "id": "x2o-caedbb",
+      "locationSet": {
+        "include": [
+          "be"
+        ]
+      },
+      "matchNames": [
+        "x²o",
+        "x2o badkamers"
+      ],
+      "matchTags": [
+        "shop/furniture",
+        "shop/kitchen"
+      ],
+      "tags": {
+        "brand": "X2O",
+        "brand:wikidata": "Q126165101",
+        "name": "X2O",
+        "shop": "bathroom_furnishing"
+      },
+      "original_logo_url": "https://graph.facebook.com/X2Obadkamers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/x2o-caedbb.jpg",
+      "local_logo_path": "localbrand/logo/x2o-caedbb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/X2Obadkamers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/x2o-caedbb.jpg"
+      }
+    },
+    {
+      "displayName": "Баня Стил",
+      "id": "d84984-ac38ee",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Баня Стил",
+        "brand:wikidata": "Q123002946",
+        "name": "Баня Стил",
+        "shop": "bathroom_furnishing"
+      },
+      "original_logo_url": "https://graph.facebook.com/baniastil.bg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/d84984-ac38ee.jpg",
+      "local_logo_path": "localbrand/logo/d84984-ac38ee.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/baniastil.bg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/d84984-ac38ee.jpg"
+      }
+    },
+    {
+      "displayName": "Роскедр",
+      "id": "fb8660-1e460e",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Роскедр",
+        "name": "Роскедр",
+        "shop": "bathroom_furnishing"
+      }
+    },
+    {
+      "displayName": "Сантехника-Онлайн",
+      "id": "74b471-1e460e",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Сантехника-Онлайн",
+        "name": "Сантехника-Онлайн",
+        "shop": "bathroom_furnishing"
+      }
+    }
+  ]
+}

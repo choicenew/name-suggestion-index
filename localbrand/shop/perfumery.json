@@ -1,0 +1,703 @@
+{
+  "properties": {
+    "path": "brands/shop/perfumery",
+    "exclude": {
+      "generic": [
+        "^perfumery$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Adopt'",
+      "id": "adopt-6637a2",
+      "locationSet": {
+        "include": [
+          "be",
+          "fr",
+          "lu"
+        ]
+      },
+      "tags": {
+        "brand": "Adopt'",
+        "brand:wikidata": "Q104649177",
+        "name": "Adopt'",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/adoptparfumsdeFrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adopt-6637a2.jpg",
+      "local_logo_path": "localbrand/logo/adopt-6637a2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/adoptparfumsdeFrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adopt-6637a2.jpg"
+      }
+    },
+    {
+      "displayName": "Ahmed Al Maghribi",
+      "id": "ahmedalmaghribi-e40920",
+      "locationSet": {
+        "include": [
+          "145"
+        ]
+      },
+      "tags": {
+        "brand": "Ahmed Al Maghribi",
+        "name": "Ahmed Al Maghribi",
+        "shop": "perfumery"
+      }
+    },
+    {
+      "displayName": "Arthur Ford",
+      "id": "arthurford-f5d3fd",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Arthur Ford",
+        "brand:wikidata": "Q140696469",
+        "name": "Arthur Ford",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/arthurfordperfume/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arthurford-f5d3fd.jpg",
+      "local_logo_path": "localbrand/logo/arthurford-f5d3fd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/arthurfordperfume/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arthurford-f5d3fd.jpg"
+      }
+    },
+    {
+      "displayName": "Brocard",
+      "id": "brocard-a7cafb",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "брокард"
+      ],
+      "tags": {
+        "brand": "Brocard",
+        "brand:wikidata": "Q106109055",
+        "name": "Brocard",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/brocard.ua/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brocard-a7cafb.jpg",
+      "local_logo_path": "localbrand/logo/brocard-a7cafb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/brocard.ua/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brocard-a7cafb.jpg"
+      }
+    },
+    {
+      "displayName": "Diptyque'",
+      "id": "diptyque-024293",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Diptyque'",
+        "brand:wikidata": "Q1227345",
+        "name": "Diptyque'",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/diptyque/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/diptyque-024293.jpg",
+      "local_logo_path": "localbrand/logo/diptyque-024293.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/diptyque/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/diptyque-024293.jpg"
+      }
+    },
+    {
+      "displayName": "Douglas",
+      "id": "douglas-4ed3c9",
+      "locationSet": {
+        "include": [
+          "ad",
+          "at",
+          "be",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "ee",
+          "es",
+          "hr",
+          "hu",
+          "it",
+          "lt",
+          "lv",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "si",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Douglas",
+        "brand:wikidata": "Q2052213",
+        "name": "Douglas",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/DouglasDeutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/douglas-4ed3c9.jpg",
+      "local_logo_path": "localbrand/logo/douglas-4ed3c9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DouglasDeutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/douglas-4ed3c9.jpg"
+      }
+    },
+    {
+      "displayName": "Druni",
+      "id": "druni-b209c1",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "tags": {
+        "brand": "Druni",
+        "brand:wikidata": "Q116166915",
+        "name": "Druni",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/PerfumeriasDruni/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/druni-b209c1.png",
+      "local_logo_path": "localbrand/logo/druni-b209c1.png",
+      "logos": {
+        "original": "https://graph.facebook.com/PerfumeriasDruni/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/druni-b209c1.png"
+      }
+    },
+    {
+      "displayName": "Equivalenza",
+      "id": "equivalenza-59ad61",
+      "locationSet": {
+        "include": [
+          "ad",
+          "ao",
+          "at",
+          "be",
+          "ca",
+          "cv",
+          "de",
+          "do",
+          "es",
+          "fr",
+          "gb",
+          "gr",
+          "gt",
+          "ie",
+          "it",
+          "mx",
+          "mz",
+          "nl",
+          "pe",
+          "pt",
+          "ro",
+          "tn"
+        ]
+      },
+      "tags": {
+        "brand": "Equivalenza",
+        "brand:wikidata": "Q104649798",
+        "name": "Equivalenza",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/EquivalenzaFrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/equivalenza-59ad61.jpg",
+      "local_logo_path": "localbrand/logo/equivalenza-59ad61.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EquivalenzaFrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/equivalenza-59ad61.jpg"
+      }
+    },
+    {
+      "displayName": "Etib Parfum",
+      "id": "etibparfum-10839f",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "tags": {
+        "brand": "Etib Parfum",
+        "name": "Etib Parfum",
+        "shop": "perfumery"
+      }
+    },
+    {
+      "displayName": "FAnn",
+      "id": "fann-21bb40",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "FAnn",
+        "brand:wikidata": "Q62391353",
+        "name": "FAnn",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/fann.cz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fann-21bb40.png",
+      "local_logo_path": "localbrand/logo/fann-21bb40.png",
+      "logos": {
+        "original": "https://graph.facebook.com/fann.cz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fann-21bb40.png"
+      }
+    },
+    {
+      "displayName": "Fraiche",
+      "id": "fraiche-e8b35c",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Fraiche",
+        "brand:wikidata": "Q126708952",
+        "name": "Fraiche",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/FraicheMexico/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fraiche-e8b35c.jpg",
+      "local_logo_path": "localbrand/logo/fraiche-e8b35c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FraicheMexico/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fraiche-e8b35c.jpg"
+      }
+    },
+    {
+      "displayName": "Granado",
+      "id": "granado-b6177e",
+      "locationSet": {
+        "include": [
+          "br",
+          "fr",
+          "gb",
+          "pt",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Granado",
+        "brand:wikidata": "Q9698089",
+        "name": "Granado",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/GranadoPharmacias1870/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/granado-b6177e.jpg",
+      "local_logo_path": "localbrand/logo/granado-b6177e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GranadoPharmacias1870/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/granado-b6177e.jpg"
+      }
+    },
+    {
+      "displayName": "ICI PARIS XL",
+      "id": "iciparisxl-07c28e",
+      "locationSet": {
+        "include": [
+          "be",
+          "lu",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "ICI PARIS XL",
+        "brand:wikidata": "Q769749",
+        "name": "ICI PARIS XL",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/iciparisxlbe/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iciparisxl-07c28e.png",
+      "local_logo_path": "localbrand/logo/iciparisxl-07c28e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/iciparisxlbe/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iciparisxl-07c28e.png"
+      }
+    },
+    {
+      "displayName": "Import Parfumerie",
+      "id": "importparfumerie-5a7a8c",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "brand": "Import Parfumerie",
+        "brand:wikidata": "Q1660352",
+        "name": "Import Parfumerie",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_Import_Parfumerie.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/importparfumerie-5a7a8c.svg",
+      "local_logo_path": "localbrand/logo/importparfumerie-5a7a8c.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_Import_Parfumerie.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/importparfumerie-5a7a8c.svg"
+      }
+    },
+    {
+      "displayName": "Jo Malone",
+      "id": "jomalone-024293",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Jo Malone",
+        "brand:wikidata": "Q28940761",
+        "name": "Jo Malone",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/JoMaloneLondon/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jomalone-024293.jpg",
+      "local_logo_path": "localbrand/logo/jomalone-024293.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JoMaloneLondon/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jomalone-024293.jpg"
+      }
+    },
+    {
+      "displayName": "Marionnaud",
+      "id": "marionnaud-c9f458",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "cz",
+          "es",
+          "fr",
+          "hu",
+          "it",
+          "ma",
+          "ro",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Marionnaud",
+        "brand:wikidata": "Q1129073",
+        "name": "Marionnaud",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/Marionnaud.France/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marionnaud-c9f458.jpg",
+      "local_logo_path": "localbrand/logo/marionnaud-c9f458.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Marionnaud.France/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marionnaud-c9f458.jpg"
+      }
+    },
+    {
+      "displayName": "Naïma",
+      "id": "naima-c99cc6",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Naïma",
+        "brand:wikidata": "Q128205270",
+        "name": "Naïma",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/NaimaBeautyDestination/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/naima-c99cc6.jpg",
+      "local_logo_path": "localbrand/logo/naima-c99cc6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NaimaBeautyDestination/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/naima-c99cc6.jpg"
+      }
+    },
+    {
+      "displayName": "O Boticário",
+      "id": "oboticario-40d28a",
+      "locationSet": {
+        "include": [
+          "ao",
+          "br",
+          "co",
+          "jp",
+          "mz",
+          "pt",
+          "py",
+          "sa",
+          "us",
+          "ve"
+        ]
+      },
+      "tags": {
+        "brand": "O Boticário",
+        "brand:wikidata": "Q7073219",
+        "name": "O Boticário",
+        "shop": "perfumery"
+      }
+    },
+    {
+      "displayName": "Parfümerie Becker",
+      "id": "parfumeriebecker-fc8b1e",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Parfümerie Becker",
+        "brand:wikidata": "Q99689169",
+        "name": "Parfümerie Becker",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/parfuemeriebecker/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parfumeriebecker-fc8b1e.jpg",
+      "local_logo_path": "localbrand/logo/parfumeriebecker-fc8b1e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/parfuemeriebecker/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parfumeriebecker-fc8b1e.jpg"
+      }
+    },
+    {
+      "displayName": "Parfümerie Pieper",
+      "id": "parfumeriepieper-fc8b1e",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "stadtparfümerie pieper"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Parfümerie Pieper",
+        "brand:wikidata": "Q107190915",
+        "name": "Parfümerie Pieper",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/Parfuemerie.Pieper/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parfumeriepieper-fc8b1e.jpg",
+      "local_logo_path": "localbrand/logo/parfumeriepieper-fc8b1e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Parfuemerie.Pieper/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parfumeriepieper-fc8b1e.jpg"
+      }
+    },
+    {
+      "displayName": "Perfumania",
+      "id": "perfumania-4a4434",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Perfumania",
+        "brand:wikidata": "Q72983916",
+        "name": "Perfumania",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/perfumania/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/perfumania-4a4434.jpg",
+      "local_logo_path": "localbrand/logo/perfumania-4a4434.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/perfumania/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/perfumania-4a4434.jpg"
+      }
+    },
+    {
+      "displayName": "Pinalli",
+      "id": "pinalli-c99cc6",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Pinalli",
+        "brand:wikidata": "Q113291240",
+        "name": "Pinalli",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/profumeriepinalli/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pinalli-c99cc6.jpg",
+      "local_logo_path": "localbrand/logo/pinalli-c99cc6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/profumeriepinalli/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pinalli-c99cc6.jpg"
+      }
+    },
+    {
+      "displayName": "Refan",
+      "id": "refan-eaeb24",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Refan",
+        "brand:wikidata": "Q136764761",
+        "name": "Refan",
+        "shop": "perfumery"
+      }
+    },
+    {
+      "displayName": "Schuback",
+      "id": "schuback-fc8b1e",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "schuback parfümerien"
+      ],
+      "tags": {
+        "brand": "Schuback",
+        "brand:wikidata": "Q96606851",
+        "name": "Schuback",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/ParfuemerieSchuback/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/schuback-fc8b1e.jpg",
+      "local_logo_path": "localbrand/logo/schuback-fc8b1e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ParfuemerieSchuback/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/schuback-fc8b1e.jpg"
+      }
+    },
+    {
+      "displayName": "Sister's Aroma",
+      "id": "sistersaroma-20926e",
+      "locationSet": {
+        "include": [
+          "kz",
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "сістерс арома"
+      ],
+      "tags": {
+        "brand": "Sister's Aroma",
+        "brand:wikidata": "Q110635099",
+        "name": "Sister's Aroma",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/sistersaroma/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sistersaroma-20926e.jpg",
+      "local_logo_path": "localbrand/logo/sistersaroma-20926e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sistersaroma/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sistersaroma-20926e.jpg"
+      }
+    },
+    {
+      "displayName": "The Fragrance Shop",
+      "id": "thefragranceshop-2906d0",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "The Fragrance Shop",
+        "brand:wikidata": "Q105337125",
+        "name": "The Fragrance Shop",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/FragranceShopUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thefragranceshop-2906d0.jpg",
+      "local_logo_path": "localbrand/logo/thefragranceshop-2906d0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FragranceShopUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thefragranceshop-2906d0.jpg"
+      }
+    },
+    {
+      "displayName": "The Perfume Garden",
+      "id": "theperfumegarden-f5d3fd",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "The Perfume Garden",
+        "brand:wikidata": "Q116462359",
+        "name": "The Perfume Garden",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/perfumegardenSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theperfumegarden-f5d3fd.jpg",
+      "local_logo_path": "localbrand/logo/theperfumegarden-f5d3fd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/perfumegardenSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theperfumegarden-f5d3fd.jpg"
+      }
+    },
+    {
+      "displayName": "The Perfume Shop",
+      "id": "theperfumeshop-2906d0",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "The Perfume Shop",
+        "brand:wikidata": "Q7756719",
+        "name": "The Perfume Shop",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/theperfumeshoponline/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theperfumeshop-2906d0.jpg",
+      "local_logo_path": "localbrand/logo/theperfumeshop-2906d0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/theperfumeshoponline/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theperfumeshop-2906d0.jpg"
+      }
+    },
+    {
+      "displayName": "Une Heure Pour Soi",
+      "id": "uneheurepoursoi-856056",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Une Heure Pour Soi",
+        "brand:wikidata": "Q1273376",
+        "name": "Une Heure Pour Soi",
+        "shop": "perfumery"
+      },
+      "original_logo_url": "https://graph.facebook.com/E.Leclerc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uneheurepoursoi-856056.jpg",
+      "local_logo_path": "localbrand/logo/uneheurepoursoi-856056.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/E.Leclerc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uneheurepoursoi-856056.jpg"
+      }
+    }
+  ]
+}

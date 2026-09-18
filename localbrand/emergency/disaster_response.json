@@ -1,0 +1,68 @@
+{
+  "properties": {
+    "path": "brands/emergency/disaster_response",
+    "exclude": {
+      "generic": [
+        "^disaster response$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Civil Defence",
+      "id": "civildefence-75c8ff",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "matchNames": [
+        "cdem",
+        "emergency management",
+        "national emergency management",
+        "nema"
+      ],
+      "tags": {
+        "brand": "Civil Defence",
+        "brand:wikidata": "Q6866662",
+        "emergency": "disaster_response",
+        "operator": "National Emergency Management Agency",
+        "operator:wikidata": "Q6866662"
+      },
+      "original_logo_url": "https://graph.facebook.com/NzCivilDefence/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/civildefence-75c8ff.png",
+      "local_logo_path": "localbrand/logo/civildefence-75c8ff.png",
+      "logos": {
+        "original": "https://graph.facebook.com/NzCivilDefence/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/civildefence-75c8ff.png"
+      }
+    },
+    {
+      "displayName": "New Zealand Response Team",
+      "id": "newzealandresponseteams-75c8ff",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "matchNames": [
+        "nz response team",
+        "nzrt"
+      ],
+      "tags": {
+        "brand": "New Zealand Response Teams",
+        "brand:wikidata": "Q140248378",
+        "emergency": "disaster_response",
+        "operator": "National Emergency Management Agency",
+        "operator:wikidata": "Q6866662"
+      },
+      "original_logo_url": "https://graph.facebook.com/NZResponseTeams/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/newzealandresponseteams-75c8ff.jpg",
+      "local_logo_path": "localbrand/logo/newzealandresponseteams-75c8ff.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NZResponseTeams/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/newzealandresponseteams-75c8ff.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "properties": {
+    "path": "brands/shop/agrarian",
+    "exclude": {
+      "generic": [
+        "^agrarian$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "AFGRI Equipment",
+      "id": "afgriequipment-e0de78",
+      "locationSet": {
+        "include": [
+          "au",
+          "bw",
+          "na",
+          "za",
+          "zw"
+        ]
+      },
+      "tags": {
+        "brand": "AFGRI Equipment",
+        "brand:wikidata": "Q119264464",
+        "name": "AFGRI Equipment",
+        "shop": "agrarian"
+      },
+      "original_logo_url": "https://graph.facebook.com/AFGRIAU/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/afgriequipment-e0de78.jpg",
+      "local_logo_path": "localbrand/logo/afgriequipment-e0de78.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AFGRIAU/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/afgriequipment-e0de78.jpg"
+      }
+    },
+    {
+      "displayName": "Agroland",
+      "id": "Agroland",
+      "locationSet": {
+        "include": [
+          "ro"
+        ]
+      },
+      "tags": {
+        "shop": "agrarian",
+        "name": "Agroland",
+        "brand": "Agroland",
+        "brand:wikidata": "Q141462072"
+      },
+      "original_logo_url": "https://graph.facebook.com/Agroland1Romania/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/Agroland.jpg",
+      "local_logo_path": "localbrand/logo/Agroland.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Agroland1Romania/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/Agroland.jpg"
+      }
+    },
+    {
+      "displayName": "AG Warehouse",
+      "id": "agwarehouse-4034ae",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "AG Warehouse",
+        "brand:wikidata": "Q119261591",
+        "name": "AG Warehouse",
+        "shop": "agrarian"
+      }
+    },
+    {
+      "displayName": "Agrimark",
+      "id": "agrimark-ed1376",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Agrimark",
+        "brand:wikidata": "Q141238019",
+        "name": "Agrimark",
+        "shop": "agrarian"
+      },
+      "original_logo_url": "https://graph.facebook.com/agrimark/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agrimark-ed1376.jpg",
+      "local_logo_path": "localbrand/logo/agrimark-ed1376.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/agrimark/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agrimark-ed1376.jpg"
+      }
+    },
+    {
+      "displayName": "Coastals",
+      "id": "coastals-ed1376",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Coastals",
+        "brand:wikidata": "Q122964329",
+        "name": "Coastals",
+        "shop": "agrarian"
+      },
+      "original_logo_url": "https://graph.facebook.com/coastalfarmers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coastals-ed1376.jpg",
+      "local_logo_path": "localbrand/logo/coastals-ed1376.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/coastalfarmers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coastals-ed1376.jpg"
+      }
+    },
+    {
+      "displayName": "Elders",
+      "id": "elders-4034ae",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Elders",
+        "brand:wikidata": "Q5353983",
+        "name": "Elders",
+        "shop": "agrarian"
+      },
+      "original_logo_url": "https://graph.facebook.com/EldersRuralServices/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elders-4034ae.jpg",
+      "local_logo_path": "localbrand/logo/elders-4034ae.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EldersRuralServices/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elders-4034ae.jpg"
+      }
+    },
+    {
+      "displayName": "Felleskjøpet",
+      "id": "felleskjopet-461c53",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Felleskjøpet",
+        "brand:wikidata": "Q5442461",
+        "name": "Felleskjøpet",
+        "shop": "agrarian"
+      },
+      "original_logo_url": "https://graph.facebook.com/felleskjopet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/felleskjopet-461c53.jpg",
+      "local_logo_path": "localbrand/logo/felleskjopet-461c53.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/felleskjopet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/felleskjopet-461c53.jpg"
+      }
+    },
+    {
+      "displayName": "Grene",
+      "id": "grene-1828a7",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Grene",
+        "name": "Grene",
+        "shop": "agrarian"
+      }
+    },
+    {
+      "displayName": "Southern States",
+      "id": "southernstates-0f40aa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "agrarian": "seed;feed;tools",
+        "brand": "Southern States",
+        "brand:wikidata": "Q7570508",
+        "name": "Southern States",
+        "official_name": "Southern States Cooperative",
+        "shop": "agrarian"
+      },
+      "original_logo_url": "https://graph.facebook.com/SouthernStatesCoop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/southernstates-0f40aa.png",
+      "local_logo_path": "localbrand/logo/southernstates-0f40aa.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SouthernStatesCoop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/southernstates-0f40aa.png"
+      }
+    },
+    {
+      "displayName": "UFA",
+      "id": "ufa-700bc3",
+      "locationSet": {
+        "include": [
+          "ca-ab.geojson"
+        ]
+      },
+      "matchNames": [
+        "united farmers of alberta"
+      ],
+      "tags": {
+        "brand": "UFA",
+        "brand:wikidata": "Q1809831",
+        "name": "UFA",
+        "shop": "agrarian"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/United_Farmers_of_Alberta_Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ufa-700bc3.svg",
+      "local_logo_path": "localbrand/logo/ufa-700bc3.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/c/c0/United_Farmers_of_Alberta_Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ufa-700bc3.svg"
+      }
+    },
+    {
+      "displayName": "Wilco",
+      "id": "wilco-25b295",
+      "locationSet": {
+        "include": [
+          "us-ca.geojson",
+          "us-or.geojson",
+          "us-wa.geojson"
+        ]
+      },
+      "tags": {
+        "alt_name": "Wilco Farm Stores",
+        "brand": "Wilco",
+        "brand:wikidata": "Q8000290",
+        "name": "Wilco",
+        "shop": "agrarian"
+      },
+      "original_logo_url": "https://graph.facebook.com/wilcostores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wilco-25b295.jpg",
+      "local_logo_path": "localbrand/logo/wilco-25b295.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/wilcostores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wilco-25b295.jpg"
+      }
+    },
+    {
+      "displayName": "ZG Raiffeisen Agrar",
+      "id": "zgraiffeisenagrar-a7a5a6",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "ZG Raiffeisen",
+        "brand:wikidata": "Q136135",
+        "name": "ZG Raiffeisen Agrar",
+        "shop": "agrarian"
+      },
+      "original_logo_url": "https://graph.facebook.com/zgraiffeisen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zgraiffeisenagrar-a7a5a6.jpg",
+      "local_logo_path": "localbrand/logo/zgraiffeisenagrar-a7a5a6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/zgraiffeisen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zgraiffeisenagrar-a7a5a6.jpg"
+      }
+    },
+    {
+      "displayName": "ZG Raiffeisen Technik",
+      "id": "zgraiffeisentechnik-a7a5a6",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "agrarian": "machine_parts",
+        "brand": "ZG Raiffeisen",
+        "brand:wikidata": "Q136135",
+        "name": "ZG Raiffeisen Technik",
+        "shop": "agrarian"
+      },
+      "original_logo_url": "https://graph.facebook.com/zgraiffeisen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zgraiffeisentechnik-a7a5a6.jpg",
+      "local_logo_path": "localbrand/logo/zgraiffeisentechnik-a7a5a6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/zgraiffeisen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zgraiffeisentechnik-a7a5a6.jpg"
+      }
+    }
+  ]
+}

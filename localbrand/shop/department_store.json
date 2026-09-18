@@ -1,0 +1,3081 @@
+{
+  "properties": {
+    "path": "brands/shop/department_store",
+    "exclude": {
+      "generic": [
+        "^(セルフ)?デパート$",
+        "^[eé]pic(erie|ier)( بقال)?$",
+        "^department store$",
+        "^универ(маг|сам)$",
+        "^універмаг$"
+      ],
+      "named": [
+        "otto's"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Åhléns",
+      "id": "ahlens-2c114a",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Åhléns",
+        "brand:wikidata": "Q270851",
+        "name": "Åhléns",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/ahlens/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ahlens-2c114a.jpg",
+      "local_logo_path": "localbrand/logo/ahlens-2c114a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ahlens/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ahlens-2c114a.jpg"
+      }
+    },
+    {
+      "displayName": "American Freight",
+      "id": "americanfreight-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "sears outlet",
+        "sears outlet store",
+        "sears outlet stores"
+      ],
+      "tags": {
+        "brand": "American Freight",
+        "brand:wikidata": "Q94360971",
+        "name": "American Freight",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/AmericanFreightFurniture/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/americanfreight-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/americanfreight-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AmericanFreightFurniture/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/americanfreight-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Armazém Paraíba",
+      "id": "armazemparaiba-7a47e3",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Armazém Paraíba",
+        "brand:wikidata": "Q9629505",
+        "name": "Armazém Paraíba",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/armazemparaiba/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/armazemparaiba-7a47e3.jpg",
+      "local_logo_path": "localbrand/logo/armazemparaiba-7a47e3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/armazemparaiba/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/armazemparaiba-7a47e3.jpg"
+      }
+    },
+    {
+      "displayName": "Asda Living",
+      "id": "asdaliving-b626d5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Asda",
+        "brand:wikidata": "Q297410",
+        "name": "Asda Living",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Asda/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/asdaliving-b626d5.jpg",
+      "local_logo_path": "localbrand/logo/asdaliving-b626d5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Asda/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/asdaliving-b626d5.jpg"
+      }
+    },
+    {
+      "displayName": "Barneys New York",
+      "id": "barneysnewyork-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "barneys"
+      ],
+      "tags": {
+        "brand": "Barneys New York",
+        "brand:wikidata": "Q59465",
+        "name": "Barneys New York",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/BarneysNY/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barneysnewyork-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/barneysnewyork-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BarneysNY/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barneysnewyork-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Beales",
+      "id": "beales-b626d5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Beales",
+        "brand:wikidata": "Q4876141",
+        "name": "Beales",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/LoveBeales/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beales-b626d5.jpg",
+      "local_logo_path": "localbrand/logo/beales-b626d5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LoveBeales/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beales-b626d5.jpg"
+      }
+    },
+    {
+      "displayName": "Bealls (Florida-based)",
+      "id": "bealls-834cda",
+      "locationSet": {
+        "include": [
+          "us-az.geojson",
+          "us-fl.geojson",
+          "us-ga.geojson"
+        ]
+      },
+      "matchNames": [
+        "bealls outlet",
+        "bealls outlets"
+      ],
+      "tags": {
+        "brand": "Bealls",
+        "brand:wikidata": "Q4876153",
+        "name": "Bealls",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/BeallsCorp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bealls-834cda.jpg",
+      "local_logo_path": "localbrand/logo/bealls-834cda.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BeallsCorp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bealls-834cda.jpg"
+      }
+    },
+    {
+      "displayName": "Belk",
+      "id": "belk-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Belk",
+        "brand:wikidata": "Q127428",
+        "name": "Belk",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Belk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/belk-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/belk-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Belk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/belk-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Bi-Mart",
+      "id": "bimart-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Bi-Mart",
+        "brand:wikidata": "Q4902331",
+        "name": "Bi-Mart",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/BiMart.Membership.Discount.Stores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bimart-592fe0.png",
+      "local_logo_path": "localbrand/logo/bimart-592fe0.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BiMart.Membership.Discount.Stores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bimart-592fe0.png"
+      }
+    },
+    {
+      "displayName": "Big Lots",
+      "id": "biglots-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/variety_store"
+      ],
+      "tags": {
+        "brand": "Big Lots",
+        "brand:wikidata": "Q4905973",
+        "name": "Big Lots",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/biglots/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biglots-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/biglots-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/biglots/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biglots-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Big W",
+      "id": "bigw-c93bbd",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "name": "Big W",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/BIGWaustralia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigw-c93bbd.png",
+      "local_logo_path": "localbrand/logo/bigw-c93bbd.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BIGWaustralia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigw-c93bbd.png"
+      }
+    },
+    {
+      "displayName": "Billion",
+      "id": "billion-4d0884",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "brand": "Billion",
+        "brand:en": "Billion",
+        "brand:wikidata": "Q106989381",
+        "brand:zh": "万顺",
+        "name": "Billion",
+        "name:en": "Billion",
+        "name:zh": "万顺",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/billiongroup.com.my/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/billion-4d0884.jpg",
+      "local_logo_path": "localbrand/logo/billion-4d0884.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/billiongroup.com.my/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/billion-4d0884.jpg"
+      }
+    },
+    {
+      "displayName": "Bloomingdale's",
+      "id": "bloomingdales-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Bloomingdale's",
+        "brand:wikidata": "Q283383",
+        "name": "Bloomingdale's",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Bloomingdales/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bloomingdales-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/bloomingdales-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Bloomingdales/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bloomingdales-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Boscov's",
+      "id": "boscovs-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Boscov's",
+        "brand:wikidata": "Q4947190",
+        "name": "Boscov's",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/boscovs/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boscovs-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/boscovs-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/boscovs/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boscovs-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Boyes",
+      "id": "boyes-b626d5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Boyes",
+        "brand:wikidata": "Q7958471",
+        "name": "Boyes",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/boyesstores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boyes-b626d5.jpg",
+      "local_logo_path": "localbrand/logo/boyes-b626d5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/boyesstores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boyes-b626d5.jpg"
+      }
+    },
+    {
+      "displayName": "BrightHouse",
+      "id": "brighthouse-b626d5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "BrightHouse",
+        "brand:wikidata": "Q4967357",
+        "name": "BrightHouse",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/BrightHouseUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brighthouse-b626d5.jpg",
+      "local_logo_path": "localbrand/logo/brighthouse-b626d5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BrightHouseUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brighthouse-b626d5.jpg"
+      }
+    },
+    {
+      "displayName": "Burlington",
+      "id": "burlington-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "burlington stores"
+      ],
+      "tags": {
+        "alt_name": "Burlington Coat Factory",
+        "brand": "Burlington",
+        "brand:wikidata": "Q4999220",
+        "name": "Burlington",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/BurlingtonStores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/burlington-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/burlington-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BurlingtonStores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/burlington-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Canadian Tire",
+      "id": "canadiantire-63d0ba",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchTags": [
+        "shop/doityourself"
+      ],
+      "tags": {
+        "brand": "Canadian Tire",
+        "brand:wikidata": "Q1032400",
+        "name": "Canadian Tire",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Canadiantire/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/canadiantire-63d0ba.jpg",
+      "local_logo_path": "localbrand/logo/canadiantire-63d0ba.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Canadiantire/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/canadiantire-63d0ba.jpg"
+      }
+    },
+    {
+      "displayName": "Casas Bahia",
+      "id": "casasbahia-7a47e3",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Casas Bahia",
+        "brand:wikidata": "Q5048048",
+        "name": "Casas Bahia",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/CasasBahia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/casasbahia-7a47e3.jpg",
+      "local_logo_path": "localbrand/logo/casasbahia-7a47e3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CasasBahia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/casasbahia-7a47e3.jpg"
+      }
+    },
+    {
+      "displayName": "Central Department Store",
+      "id": "centraldepartmentstore-10be9f",
+      "locationSet": {
+        "include": [
+          "id",
+          "th"
+        ]
+      },
+      "tags": {
+        "brand": "Central Department Store",
+        "brand:en": "Central Department Store",
+        "brand:th": "สรรพสินค้าเซ็นทรัล",
+        "brand:wikidata": "Q5060703",
+        "brand:zh": "尚泰",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/CentralDepartmentStore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/centraldepartmentstore-10be9f.jpg",
+      "local_logo_path": "localbrand/logo/centraldepartmentstore-10be9f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CentralDepartmentStore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/centraldepartmentstore-10be9f.jpg"
+      }
+    },
+    {
+      "displayName": "Coin",
+      "id": "coin-b0f55b",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Coin",
+        "brand:wikidata": "Q1107215",
+        "name": "Coin",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/coinstore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coin-b0f55b.jpg",
+      "local_logo_path": "localbrand/logo/coin-b0f55b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/coinstore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coin-b0f55b.jpg"
+      }
+    },
+    {
+      "displayName": "Coin Excelsior",
+      "id": "coinexcelsior-b0f55b",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Coin",
+        "brand:wikidata": "Q1107215",
+        "name": "Coin Excelsior",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/coinstore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coinexcelsior-b0f55b.jpg",
+      "local_logo_path": "localbrand/logo/coinexcelsior-b0f55b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/coinstore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coinexcelsior-b0f55b.jpg"
+      }
+    },
+    {
+      "displayName": "Coop City",
+      "id": "coopcity-66d8a4",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Coop City",
+        "brand:wikidata": "Q120492050",
+        "name": "Coop City",
+        "shop": "department_store"
+      }
+    },
+    {
+      "displayName": "Coppel",
+      "id": "coppel-a1f638",
+      "locationSet": {
+        "include": [
+          "ar",
+          "br",
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Coppel",
+        "brand:wikidata": "Q2497795",
+        "name": "Coppel",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/tiendascoppel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coppel-a1f638.jpg",
+      "local_logo_path": "localbrand/logo/coppel-a1f638.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tiendascoppel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coppel-a1f638.jpg"
+      }
+    },
+    {
+      "displayName": "David Jones",
+      "id": "davidjones-c93bbd",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "David Jones",
+        "brand:wikidata": "Q5235753",
+        "name": "David Jones",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/davidjonesstore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/davidjones-c93bbd.png",
+      "local_logo_path": "localbrand/logo/davidjones-c93bbd.png",
+      "logos": {
+        "original": "https://graph.facebook.com/davidjonesstore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/davidjones-c93bbd.png"
+      }
+    },
+    {
+      "displayName": "dd's Discounts",
+      "id": "ddsdiscounts-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "dd's"
+      ],
+      "matchTags": [
+        "shop/variety_store"
+      ],
+      "tags": {
+        "brand": "dd's Discounts",
+        "brand:wikidata": "Q83743863",
+        "name": "dd's Discounts",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/ddsdiscounts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ddsdiscounts-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/ddsdiscounts-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ddsdiscounts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ddsdiscounts-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Debenhams",
+      "id": "debenhams-a29e63",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "Debenhams",
+        "brand:wikidata": "Q1181484",
+        "name": "Debenhams",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Debenhams/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/debenhams-a29e63.jpg",
+      "local_logo_path": "localbrand/logo/debenhams-a29e63.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Debenhams/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/debenhams-a29e63.jpg"
+      }
+    },
+    {
+      "displayName": "Del Sol",
+      "id": "delsol-4c18c3",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Del Sol",
+        "brand:wikidata": "Q113207674",
+        "name": "Del Sol",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/DelSol.com.mx/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/delsol-4c18c3.jpg",
+      "local_logo_path": "localbrand/logo/delsol-4c18c3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DelSol.com.mx/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/delsol-4c18c3.jpg"
+      }
+    },
+    {
+      "displayName": "Dillard's",
+      "id": "dillards-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Dillard's",
+        "brand:wikidata": "Q844805",
+        "name": "Dillard's",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Dillards/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dillards-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/dillards-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Dillards/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dillards-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Dimmeys",
+      "id": "dimmeys-c93bbd",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Dimmeys",
+        "brand:wikidata": "Q17003075",
+        "name": "Dimmeys",
+        "shop": "department_store"
+      }
+    },
+    {
+      "displayName": "Dufry",
+      "id": "dufry-03e633",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Dufry",
+        "brand:wikidata": "Q1264020",
+        "name": "Dufry",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Avolta_Logo_2023.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dufry-03e633.svg",
+      "local_logo_path": "localbrand/logo/dufry-03e633.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Avolta_Logo_2023.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dufry-03e633.svg"
+      }
+    },
+    {
+      "displayName": "Dunnes Stores",
+      "id": "dunnesstores-7a9c59",
+      "locationSet": {
+        "include": [
+          "es",
+          "gb-nir",
+          "ie"
+        ]
+      },
+      "preserveTags": [
+        "^shop"
+      ],
+      "tags": {
+        "brand": "Dunnes Stores",
+        "brand:wikidata": "Q1266203",
+        "name": "Dunnes Stores",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/DunnesStores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dunnesstores-7a9c59.jpg",
+      "local_logo_path": "localbrand/logo/dunnesstores-7a9c59.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DunnesStores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dunnesstores-7a9c59.jpg"
+      }
+    },
+    {
+      "displayName": "Duty Free Americas",
+      "id": "dutyfreeamericas-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Duty Free Americas",
+        "brand:wikidata": "Q129811729",
+        "name": "Duty Free Americas",
+        "shop": "department_store"
+      }
+    },
+    {
+      "displayName": "Edgars",
+      "id": "edgars-34fd38",
+      "locationSet": {
+        "include": [
+          "bw",
+          "gh",
+          "ls",
+          "na",
+          "sz",
+          "za",
+          "zm"
+        ]
+      },
+      "tags": {
+        "brand": "Edgars",
+        "brand:wikidata": "Q97276073",
+        "name": "Edgars",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/EdgarsFashion/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edgars-34fd38.jpg",
+      "local_logo_path": "localbrand/logo/edgars-34fd38.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EdgarsFashion/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edgars-34fd38.jpg"
+      }
+    },
+    {
+      "displayName": "El Corte Inglés",
+      "id": "elcorteingles-5888bf",
+      "locationSet": {
+        "include": [
+          "es",
+          "pt"
+        ]
+      },
+      "matchNames": [
+        "corte ingles"
+      ],
+      "tags": {
+        "brand": "El Corte Inglés",
+        "brand:wikidata": "Q623133",
+        "name": "El Corte Inglés",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/elcorteingles/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elcorteingles-5888bf.jpg",
+      "local_logo_path": "localbrand/logo/elcorteingles-5888bf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/elcorteingles/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elcorteingles-5888bf.jpg"
+      }
+    },
+    {
+      "displayName": "Elektra",
+      "id": "elektra-95a469",
+      "locationSet": {
+        "include": [
+          "gt",
+          "hn",
+          "mx",
+          "pa",
+          "pe",
+          "sv"
+        ]
+      },
+      "tags": {
+        "brand": "Elektra",
+        "brand:wikidata": "Q1142753",
+        "name": "Elektra",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Elektra.mx/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elektra-95a469.jpg",
+      "local_logo_path": "localbrand/logo/elektra-95a469.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Elektra.mx/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elektra-95a469.jpg"
+      }
+    },
+    {
+      "displayName": "Éxito",
+      "id": "exito-96a609",
+      "locationSet": {
+        "include": [
+          "co"
+        ]
+      },
+      "tags": {
+        "brand": "Éxito",
+        "brand:wikidata": "Q106463667",
+        "name": "Éxito",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/exito/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/exito-96a609.jpg",
+      "local_logo_path": "localbrand/logo/exito-96a609.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/exito/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/exito-96a609.jpg"
+      }
+    },
+    {
+      "displayName": "Falabella",
+      "id": "falabella-f2bfac",
+      "locationSet": {
+        "include": [
+          "ar",
+          "cl",
+          "co",
+          "pe"
+        ]
+      },
+      "matchNames": [
+        "saga falabella"
+      ],
+      "tags": {
+        "brand": "Falabella",
+        "brand:wikidata": "Q5135229",
+        "name": "Falabella",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/falabellachile/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/falabella-f2bfac.jpg",
+      "local_logo_path": "localbrand/logo/falabella-f2bfac.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/falabellachile/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/falabella-f2bfac.jpg"
+      }
+    },
+    {
+      "displayName": "Famsa",
+      "id": "famsa-4c18c3",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Famsa",
+        "brand:wikidata": "Q5612214",
+        "name": "Famsa",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/TiendasFamsaOficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/famsa-4c18c3.jpg",
+      "local_logo_path": "localbrand/logo/famsa-4c18c3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TiendasFamsaOficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/famsa-4c18c3.jpg"
+      }
+    },
+    {
+      "displayName": "Farmers",
+      "id": "farmers-98a4a8",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Farmers",
+        "brand:wikidata": "Q5435806",
+        "name": "Farmers",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/FarmersNZ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/farmers-98a4a8.jpg",
+      "local_logo_path": "localbrand/logo/farmers-98a4a8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FarmersNZ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/farmers-98a4a8.jpg"
+      }
+    },
+    {
+      "displayName": "Fast Shop",
+      "id": "fastshop-7a47e3",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Fast Shop",
+        "brand:wikidata": "Q10280251",
+        "name": "Fast Shop",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/FastShopOficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastshop-7a47e3.jpg",
+      "local_logo_path": "localbrand/logo/fastshop-7a47e3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FastShopOficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastshop-7a47e3.jpg"
+      }
+    },
+    {
+      "displayName": "Forman Mills",
+      "id": "formanmills-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Forman Mills",
+        "brand:wikidata": "Q19604400",
+        "name": "Forman Mills",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/FormanMills/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/formanmills-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/formanmills-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FormanMills/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/formanmills-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Galeria",
+      "id": "galeria-ca042d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "galeria kaufhof",
+        "galeria kaufhof gmbh",
+        "karstadt",
+        "karstadt kaufhof",
+        "karstadt warenhaus",
+        "karstadt warenhaus gmbh"
+      ],
+      "tags": {
+        "brand": "Galeria",
+        "brand:wikidata": "Q80220059",
+        "name": "Galeria",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Galeria_Karstadt_Kaufhof_Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/galeria-ca042d.svg",
+      "local_logo_path": "localbrand/logo/galeria-ca042d.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Galeria_Karstadt_Kaufhof_Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/galeria-ca042d.svg"
+      }
+    },
+    {
+      "displayName": "Galeries Lafayette",
+      "id": "galerieslafayette-b7f45a",
+      "locationSet": {
+        "include": [
+          "ae",
+          "cn",
+          "de",
+          "fr",
+          "id",
+          "lu",
+          "qa",
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Galeries Lafayette",
+        "brand:wikidata": "Q3094686",
+        "name": "Galeries Lafayette",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/galerieslafayette/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/galerieslafayette-b7f45a.jpg",
+      "local_logo_path": "localbrand/logo/galerieslafayette-b7f45a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/galerieslafayette/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/galerieslafayette-b7f45a.jpg"
+      }
+    },
+    {
+      "displayName": "Giant Tiger",
+      "id": "gianttiger-07b2aa",
+      "locationSet": {
+        "include": [
+          "ca"
+        ],
+        "exclude": [
+          "ca-qc.geojson"
+        ]
+      },
+      "matchNames": [
+        "tigre geant"
+      ],
+      "tags": {
+        "brand": "Giant Tiger",
+        "brand:wikidata": "Q5558429",
+        "name": "Giant Tiger",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/GiantTiger/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gianttiger-07b2aa.jpg",
+      "local_logo_path": "localbrand/logo/gianttiger-07b2aa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GiantTiger/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gianttiger-07b2aa.jpg"
+      }
+    },
+    {
+      "displayName": "Goody's",
+      "id": "goodys-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Goody's",
+        "brand:wikidata": "Q5583733",
+        "name": "Goody's",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Goodys/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goodys-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/goodys-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Goodys/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goodys-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Gordmans",
+      "id": "gordmans-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Gordmans",
+        "brand:wikidata": "Q5584725",
+        "name": "Gordmans",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/gordmans/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gordmans-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/gordmans-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/gordmans/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gordmans-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Harris Scarfe",
+      "id": "harrisscarfe-c93bbd",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Harris Scarfe",
+        "brand:wikidata": "Q5665029",
+        "name": "Harris Scarfe",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/harrisscarfe/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harrisscarfe-c93bbd.jpg",
+      "local_logo_path": "localbrand/logo/harrisscarfe-c93bbd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/harrisscarfe/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harrisscarfe-c93bbd.jpg"
+      }
+    },
+    {
+      "displayName": "Harvey Norman",
+      "id": "harveynorman-b73e73",
+      "locationSet": {
+        "include": [
+          "au",
+          "gb-nir",
+          "ie",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "name": "Harvey Norman",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/HarveyNormanAU/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harveynorman-b73e73.jpg",
+      "local_logo_path": "localbrand/logo/harveynorman-b73e73.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HarveyNormanAU/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harveynorman-b73e73.jpg"
+      }
+    },
+    {
+      "displayName": "Havan",
+      "id": "havan-7a47e3",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Havan",
+        "brand:wikidata": "Q10294065",
+        "name": "Havan",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Havanoficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/havan-7a47e3.jpg",
+      "local_logo_path": "localbrand/logo/havan-7a47e3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Havanoficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/havan-7a47e3.jpg"
+      }
+    },
+    {
+      "displayName": "Hellenic Duty Free Shops",
+      "id": "hellenicdutyfreeshops-ef1e16",
+      "locationSet": {
+        "include": [
+          "gr"
+        ]
+      },
+      "tags": {
+        "brand": "Hellenic Duty Free Shops",
+        "brand:wikidata": "Q5707214",
+        "name": "Hellenic Duty Free Shops",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/HDFS.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hellenicdutyfreeshops-ef1e16.jpg",
+      "local_logo_path": "localbrand/logo/hellenicdutyfreeshops-ef1e16.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/8/8d/HDFS.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hellenicdutyfreeshops-ef1e16.jpg"
+      }
+    },
+    {
+      "displayName": "HEMA",
+      "id": "hema-e99f95",
+      "locationSet": {
+        "include": [
+          "ae",
+          "at",
+          "be",
+          "de",
+          "es",
+          "fr",
+          "gb",
+          "lu",
+          "nl",
+          "qa"
+        ]
+      },
+      "matchNames": [
+        "hema b.v."
+      ],
+      "tags": {
+        "brand": "HEMA",
+        "brand:wikidata": "Q903805",
+        "name": "HEMA",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/hema/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hema-e99f95.jpg",
+      "local_logo_path": "localbrand/logo/hema-e99f95.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hema/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hema-e99f95.jpg"
+      }
+    },
+    {
+      "displayName": "Homeplus",
+      "id": "homeplus-84c155",
+      "locationSet": {
+        "include": [
+          "kr"
+        ]
+      },
+      "tags": {
+        "brand": "Homeplus",
+        "brand:en": "Homeplus",
+        "brand:ko": "홈플러스",
+        "brand:wikidata": "Q5889167",
+        "name": "Homeplus",
+        "name:en": "Homeplus",
+        "name:ko": "홈플러스",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Homeplus_BI.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/homeplus-84c155.png",
+      "local_logo_path": "localbrand/logo/homeplus-84c155.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Homeplus_BI.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/homeplus-84c155.png"
+      }
+    },
+    {
+      "displayName": "House of Fraser",
+      "id": "houseoffraser-b626d5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "House of Fraser",
+        "brand:wikidata": "Q5928422",
+        "name": "House of Fraser",
+        "shop": "department_store"
+      }
+    },
+    {
+      "displayName": "Hudson's Bay",
+      "id": "hudsonsbay-8749a9",
+      "locationSet": {
+        "include": [
+          "ca",
+          "nl"
+        ]
+      },
+      "tags": {
+        "alt_name": "The Bay",
+        "brand": "Hudson's Bay",
+        "brand:wikidata": "Q641129",
+        "name": "Hudson's Bay",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/hudsonsbay/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hudsonsbay-8749a9.jpg",
+      "local_logo_path": "localbrand/logo/hudsonsbay-8749a9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hudsonsbay/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hudsonsbay-8749a9.jpg"
+      }
+    },
+    {
+      "displayName": "Inno",
+      "id": "inno-323268",
+      "locationSet": {
+        "include": [
+          "be"
+        ]
+      },
+      "matchNames": [
+        "galeria inno",
+        "innovation"
+      ],
+      "tags": {
+        "brand": "Inno",
+        "brand:wikidata": "Q300632",
+        "name": "Inno",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/INNOstorebe/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/inno-323268.jpg",
+      "local_logo_path": "localbrand/logo/inno-323268.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/INNOstorebe/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/inno-323268.jpg"
+      }
+    },
+    {
+      "displayName": "JCPenney",
+      "id": "jcpenney-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "jcpenny"
+      ],
+      "tags": {
+        "brand": "JCPenney",
+        "brand:wikidata": "Q920037",
+        "name": "JCPenney",
+        "official_name": "J.C. Penney Company",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/jcp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jcpenney-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/jcpenney-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/jcp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jcpenney-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "John Lewis",
+      "id": "johnlewis-b626d5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "John Lewis",
+        "brand:wikidata": "Q1918981",
+        "name": "John Lewis",
+        "official_name": "John Lewis & Partners",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/johnlewisretail/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johnlewis-b626d5.jpg",
+      "local_logo_path": "localbrand/logo/johnlewis-b626d5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/johnlewisretail/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johnlewis-b626d5.jpg"
+      }
+    },
+    {
+      "displayName": "K Hub",
+      "id": "khub-c93bbd",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "name": "K Hub",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/KmartAustralia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/khub-c93bbd.png",
+      "local_logo_path": "localbrand/logo/khub-c93bbd.png",
+      "logos": {
+        "original": "https://graph.facebook.com/KmartAustralia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/khub-c93bbd.png"
+      }
+    },
+    {
+      "displayName": "Kaufhaus Stolz",
+      "id": "kaufhausstolz-ca042d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Kaufhaus Stolz",
+        "brand:wikidata": "Q108556278",
+        "name": "Kaufhaus Stolz",
+        "shop": "department_store",
+        "short_name": "Stolz"
+      },
+      "original_logo_url": "https://graph.facebook.com/Kaufhaus.Stolz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kaufhausstolz-ca042d.jpg",
+      "local_logo_path": "localbrand/logo/kaufhausstolz-ca042d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Kaufhaus.Stolz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kaufhausstolz-ca042d.jpg"
+      }
+    },
+    {
+      "displayName": "Kmart (Oceania)",
+      "id": "kmart-2e4a6e",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "name": "Kmart",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/KmartAustralia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kmart-2e4a6e.png",
+      "local_logo_path": "localbrand/logo/kmart-2e4a6e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/KmartAustralia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kmart-2e4a6e.png"
+      }
+    },
+    {
+      "displayName": "Kmart (USA)",
+      "id": "kmart-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Kmart",
+        "brand:wikidata": "Q1753080",
+        "name": "Kmart",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/kmart/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kmart-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/kmart-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kmart/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kmart-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Kohl's",
+      "id": "kohls-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "kohl's department store"
+      ],
+      "tags": {
+        "brand": "Kohl's",
+        "brand:wikidata": "Q967265",
+        "name": "Kohl's",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/kohls/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kohls-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/kohls-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kohls/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kohls-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "La Rinascente",
+      "id": "larinascente-b0f55b",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "La Rinascente",
+        "brand:wikidata": "Q1050061",
+        "name": "La Rinascente",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Rinascente_logo_black_new.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/larinascente-b0f55b.jpg",
+      "local_logo_path": "localbrand/logo/larinascente-b0f55b.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/9/93/Rinascente_logo_black_new.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/larinascente-b0f55b.jpg"
+      }
+    },
+    {
+      "displayName": "Le Biscuit",
+      "id": "lebiscuit-7a47e3",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Le Biscuit",
+        "brand:wikidata": "Q10316700",
+        "name": "Le Biscuit",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/LeBiscuitOficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lebiscuit-7a47e3.jpg",
+      "local_logo_path": "localbrand/logo/lebiscuit-7a47e3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LeBiscuitOficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lebiscuit-7a47e3.jpg"
+      }
+    },
+    {
+      "displayName": "Leader",
+      "id": "leader-7a47e3",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Leader",
+        "brand:wikidata": "Q10316732",
+        "name": "Leader",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/lojasleader/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leader-7a47e3.png",
+      "local_logo_path": "localbrand/logo/leader-7a47e3.png",
+      "logos": {
+        "original": "https://graph.facebook.com/lojasleader/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leader-7a47e3.png"
+      }
+    },
+    {
+      "displayName": "Liverpool",
+      "id": "liverpool-4c18c3",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Liverpool",
+        "brand:wikidata": "Q1143318",
+        "name": "Liverpool",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/liverpoolmexico/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/liverpool-4c18c3.jpg",
+      "local_logo_path": "localbrand/logo/liverpool-4c18c3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/liverpoolmexico/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/liverpool-4c18c3.jpg"
+      }
+    },
+    {
+      "displayName": "Lojas Americanas",
+      "id": "lojasamericanas-7a47e3",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Americanas",
+        "brand:wikidata": "Q3064093",
+        "name": "Lojas Americanas",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/lojasamericanas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lojasamericanas-7a47e3.jpg",
+      "local_logo_path": "localbrand/logo/lojasamericanas-7a47e3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lojasamericanas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lojasamericanas-7a47e3.jpg"
+      }
+    },
+    {
+      "displayName": "Lojas Colombo",
+      "id": "lojascolombo-7a47e3",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "matchNames": [
+        "colombo"
+      ],
+      "tags": {
+        "brand": "Lojas Colombo",
+        "brand:wikidata": "Q10319581",
+        "name": "Lojas Colombo",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/LojasColombo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lojascolombo-7a47e3.png",
+      "local_logo_path": "localbrand/logo/lojascolombo-7a47e3.png",
+      "logos": {
+        "original": "https://graph.facebook.com/LojasColombo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lojascolombo-7a47e3.png"
+      }
+    },
+    {
+      "displayName": "Lotte Department Store",
+      "id": "lottedepartmentstore-96d9bf",
+      "locationSet": {
+        "include": [
+          "cn",
+          "id",
+          "ru",
+          "vn"
+        ]
+      },
+      "matchNames": [
+        "lotte"
+      ],
+      "tags": {
+        "brand": "Lotte Department Store",
+        "brand:wikidata": "Q489905",
+        "name": "Lotte Department Store",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/LOTTEshopping/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lottedepartmentstore-96d9bf.jpg",
+      "local_logo_path": "localbrand/logo/lottedepartmentstore-96d9bf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LOTTEshopping/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lottedepartmentstore-96d9bf.jpg"
+      }
+    },
+    {
+      "displayName": "Lotte Duty Free",
+      "id": "lottedutyfree-8352b8",
+      "locationSet": {
+        "include": [
+          "au",
+          "gu",
+          "jp",
+          "kr",
+          "nz",
+          "th",
+          "vn"
+        ]
+      },
+      "tags": {
+        "brand": "Lotte Duty Free",
+        "brand:wikidata": "Q12594196",
+        "duty_free": "yes",
+        "name": "Lotte Duty Free",
+        "name:en": "Lotte Duty Free",
+        "name:ja": "ロッテ免税",
+        "name:ko": "롯데면세점",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/LOTTEDFSen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lottedutyfree-8352b8.png",
+      "local_logo_path": "localbrand/logo/lottedutyfree-8352b8.png",
+      "logos": {
+        "original": "https://graph.facebook.com/LOTTEDFSen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lottedutyfree-8352b8.png"
+      }
+    },
+    {
+      "displayName": "M&S Outlet",
+      "id": "mandsoutlet-5323eb",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "cz",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "marks & spencer outlet"
+      ],
+      "tags": {
+        "brand": "Marks & Spencer",
+        "brand:short": "M&S",
+        "brand:wikidata": "Q714491",
+        "name": "M&S Outlet",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/MarksandSpencer/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mandsoutlet-5323eb.png",
+      "local_logo_path": "localbrand/logo/mandsoutlet-5323eb.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MarksandSpencer/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mandsoutlet-5323eb.png"
+      }
+    },
+    {
+      "displayName": "Macy's",
+      "id": "macys-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Macy's",
+        "brand:wikidata": "Q629269",
+        "name": "Macy's",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Macys/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/macys-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/macys-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Macys/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/macys-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Macy's Backstage",
+      "id": "macysbackstage-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Macy's Backstage",
+        "brand:wikidata": "Q122914589",
+        "name": "Macy's Backstage",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Macysbackstage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/macysbackstage-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/macysbackstage-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Macysbackstage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/macysbackstage-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Magazine Luiza",
+      "id": "magazineluiza-7a47e3",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "matchNames": [
+        "magalu"
+      ],
+      "tags": {
+        "brand": "Magazine Luiza",
+        "brand:wikidata": "Q6729763",
+        "name": "Magazine Luiza",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/magazineluiza/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/magazineluiza-7a47e3.jpg",
+      "local_logo_path": "localbrand/logo/magazineluiza-7a47e3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/magazineluiza/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/magazineluiza-7a47e3.jpg"
+      }
+    },
+    {
+      "displayName": "Manor",
+      "id": "manor-66d8a4",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "brand": "Manor",
+        "brand:wikidata": "Q382686",
+        "name": "Manor",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Manor/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manor-66d8a4.jpg",
+      "local_logo_path": "localbrand/logo/manor-66d8a4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Manor/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manor-66d8a4.jpg"
+      }
+    },
+    {
+      "displayName": "Manufactum",
+      "id": "manufactum-ca042d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Manufactum",
+        "brand:wikidata": "Q1694737",
+        "name": "Manufactum",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/manufactum/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manufactum-ca042d.jpg",
+      "local_logo_path": "localbrand/logo/manufactum-ca042d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/manufactum/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manufactum-ca042d.jpg"
+      }
+    },
+    {
+      "displayName": "Marden's",
+      "id": "mardens-28650f",
+      "locationSet": {
+        "include": [
+          "us-me.geojson"
+        ]
+      },
+      "matchTags": [
+        "shop/discount",
+        "shop/variety"
+      ],
+      "tags": {
+        "brand": "Marden's",
+        "brand:wikidata": "Q96391944",
+        "name": "Marden's",
+        "official_name": "Marden's Surplus and Salvage",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/mardens/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mardens-28650f.jpg",
+      "local_logo_path": "localbrand/logo/mardens-28650f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mardens/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mardens-28650f.jpg"
+      }
+    },
+    {
+      "displayName": "Marks & Spencer",
+      "id": "marksandspencer-3de0e9",
+      "locationSet": {
+        "include": [
+          "cy",
+          "cz",
+          "gb",
+          "gr",
+          "ie",
+          "in"
+        ]
+      },
+      "matchNames": [
+        "маркс и спенсер"
+      ],
+      "tags": {
+        "brand": "Marks & Spencer",
+        "brand:short": "M&S",
+        "brand:wikidata": "Q714491",
+        "name": "Marks & Spencer",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/MarksandSpencer/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marksandspencer-3de0e9.png",
+      "local_logo_path": "localbrand/logo/marksandspencer-3de0e9.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MarksandSpencer/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marksandspencer-3de0e9.png"
+      }
+    },
+    {
+      "displayName": "Marshalls",
+      "id": "marshalls-53f9e5",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Marshalls",
+        "brand:wikidata": "Q15903261",
+        "name": "Marshalls",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Marshalls/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marshalls-53f9e5.jpg",
+      "local_logo_path": "localbrand/logo/marshalls-53f9e5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Marshalls/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marshalls-53f9e5.jpg"
+      }
+    },
+    {
+      "displayName": "Metro Department Store",
+      "id": "metrodepartmentstore-2ae798",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "matchNames": [
+        "metro gaisano"
+      ],
+      "tags": {
+        "brand": "Metro Department Store",
+        "brand:wikidata": "Q23808789",
+        "name": "Metro Department Store",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/TheMetroStores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metrodepartmentstore-2ae798.jpg",
+      "local_logo_path": "localbrand/logo/metrodepartmentstore-2ae798.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TheMetroStores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metrodepartmentstore-2ae798.jpg"
+      }
+    },
+    {
+      "displayName": "Monge",
+      "id": "monge-f3a415",
+      "locationSet": {
+        "include": [
+          "cr"
+        ]
+      },
+      "tags": {
+        "brand": "Monge",
+        "brand:wikidata": "Q130527490",
+        "name": "Monge",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/TiendaMonge/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monge-f3a415.jpg",
+      "local_logo_path": "localbrand/logo/monge-f3a415.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TiendaMonge/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monge-f3a415.jpg"
+      }
+    },
+    {
+      "displayName": "Muji",
+      "id": "muji-5ebe4b",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "ch",
+          "de",
+          "es",
+          "fi",
+          "fr",
+          "gb",
+          "ie",
+          "it",
+          "my",
+          "ph",
+          "pl",
+          "pt",
+          "se",
+          "sg",
+          "tr",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/variety_store"
+      ],
+      "tags": {
+        "brand": "Muji",
+        "brand:en": "Muji",
+        "brand:ja": "無印良品",
+        "brand:wikidata": "Q708789",
+        "name": "Muji",
+        "name:en": "Muji",
+        "name:ja": "無印良品",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/MUJI_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muji-5ebe4b.svg",
+      "local_logo_path": "localbrand/logo/muji-5ebe4b.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/6/60/MUJI_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muji-5ebe4b.svg"
+      }
+    },
+    {
+      "displayName": "Myer",
+      "id": "myer-c93bbd",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Myer",
+        "brand:wikidata": "Q1110323",
+        "name": "Myer",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/myer/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/myer-c93bbd.jpg",
+      "local_logo_path": "localbrand/logo/myer-c93bbd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/myer/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/myer-c93bbd.jpg"
+      }
+    },
+    {
+      "displayName": "Navy Exchange",
+      "id": "navyexchange-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Navy Exchange",
+        "brand:wikidata": "Q22023369",
+        "name": "Navy Exchange",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/NavyExchange/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/navyexchange-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/navyexchange-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NavyExchange/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/navyexchange-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Neiman Marcus",
+      "id": "neimanmarcus-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Neiman Marcus",
+        "brand:wikidata": "Q743497",
+        "name": "Neiman Marcus",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/neimanmarcus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/neimanmarcus-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/neimanmarcus-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/neimanmarcus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/neimanmarcus-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Nordstrom",
+      "id": "nordstrom-53f9e5",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Nordstrom",
+        "brand:wikidata": "Q174310",
+        "name": "Nordstrom",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Nordstrom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nordstrom-53f9e5.jpg",
+      "local_logo_path": "localbrand/logo/nordstrom-53f9e5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Nordstrom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nordstrom-53f9e5.jpg"
+      }
+    },
+    {
+      "displayName": "Nuance",
+      "id": "nuance-03e633",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Nuance",
+        "brand:wikidata": "Q650593",
+        "name": "Nuance",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/The_Nuance_Group_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nuance-03e633.svg",
+      "local_logo_path": "localbrand/logo/nuance-03e633.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/29/The_Nuance_Group_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nuance-03e633.svg"
+      }
+    },
+    {
+      "displayName": "Oechsle",
+      "id": "oechsle-5dd0d8",
+      "locationSet": {
+        "include": [
+          "pe"
+        ]
+      },
+      "tags": {
+        "brand": "Oechsle",
+        "brand:wikidata": "Q6049096",
+        "name": "Oechsle",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/tiendasoechsle/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oechsle-5dd0d8.jpg",
+      "local_logo_path": "localbrand/logo/oechsle-5dd0d8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tiendasoechsle/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oechsle-5dd0d8.jpg"
+      }
+    },
+    {
+      "displayName": "Omar Effendi",
+      "id": "omareffendi-6a6e97",
+      "locationSet": {
+        "include": [
+          "eg"
+        ]
+      },
+      "tags": {
+        "brand": "Omar Effendi",
+        "brand:wikidata": "Q6818793",
+        "name": "Omar Effendi",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/omareffendieg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/omareffendi-6a6e97.png",
+      "local_logo_path": "localbrand/logo/omareffendi-6a6e97.png",
+      "logos": {
+        "original": "https://graph.facebook.com/omareffendieg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/omareffendi-6a6e97.png"
+      }
+    },
+    {
+      "displayName": "Palacio de Hierro",
+      "id": "palaciodehierro-4c18c3",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Palacio de Hierro",
+        "brand:wikidata": "Q5351735",
+        "name": "Palacio de Hierro",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/ElPalaciodeHierro/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/palaciodehierro-4c18c3.jpg",
+      "local_logo_path": "localbrand/logo/palaciodehierro-4c18c3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ElPalaciodeHierro/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/palaciodehierro-4c18c3.jpg"
+      }
+    },
+    {
+      "displayName": "Pantai Timor",
+      "id": "pantaitimor-4d0884",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "alt_name": "Billion",
+        "brand": "Pantai Timor",
+        "brand:en": "Pantai Timor",
+        "brand:ms-Arab": "ڤنتاي تيمور",
+        "brand:wikidata": "Q106989381",
+        "brand:zh": "东海岸",
+        "name": "Pantai Timor",
+        "name:en": "Pantai Timor",
+        "name:ms-Arab": "ڤنتاي تيمور",
+        "name:zh": "东海岸",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/billiongroup.com.my/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pantaitimor-4d0884.jpg",
+      "local_logo_path": "localbrand/logo/pantaitimor-4d0884.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/billiongroup.com.my/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pantaitimor-4d0884.jpg"
+      }
+    },
+    {
+      "displayName": "París",
+      "id": "paris-f81fcb",
+      "locationSet": {
+        "include": [
+          "cl",
+          "pe"
+        ]
+      },
+      "tags": {
+        "brand": "París",
+        "brand:wikidata": "Q20812805",
+        "name": "París",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/TiendasParis/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paris-f81fcb.jpg",
+      "local_logo_path": "localbrand/logo/paris-f81fcb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TiendasParis/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paris-f81fcb.jpg"
+      }
+    },
+    {
+      "displayName": "Parkson",
+      "id": "parkson-6dcedc",
+      "locationSet": {
+        "include": [
+          "id",
+          "la",
+          "mm",
+          "my",
+          "vn"
+        ]
+      },
+      "tags": {
+        "brand": "Parkson",
+        "brand:en": "Parkson",
+        "brand:wikidata": "Q835145",
+        "brand:zh": "百盛",
+        "name": "Parkson",
+        "name:en": "Parkson",
+        "name:zh": "百盛",
+        "shop": "department_store"
+      }
+    },
+    {
+      "displayName": "Pernambucanas",
+      "id": "pernambucanas-7a47e3",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Pernambucanas",
+        "brand:wikidata": "Q10348714",
+        "name": "Pernambucanas",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/pernambucanas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pernambucanas-7a47e3.jpg",
+      "local_logo_path": "localbrand/logo/pernambucanas-7a47e3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pernambucanas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pernambucanas-7a47e3.jpg"
+      }
+    },
+    {
+      "displayName": "Printemps",
+      "id": "printemps-b3d693",
+      "locationSet": {
+        "include": [
+          "ad",
+          "cn",
+          "fr",
+          "jp",
+          "sa"
+        ]
+      },
+      "tags": {
+        "brand": "Printemps",
+        "brand:wikidata": "Q1535260",
+        "name": "Printemps",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Printemps/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/printemps-b3d693.jpg",
+      "local_logo_path": "localbrand/logo/printemps-b3d693.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Printemps/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/printemps-b3d693.jpg"
+      }
+    },
+    {
+      "displayName": "Ripley",
+      "id": "ripley-f81fcb",
+      "locationSet": {
+        "include": [
+          "cl",
+          "pe"
+        ]
+      },
+      "tags": {
+        "brand": "Ripley",
+        "brand:wikidata": "Q3433040",
+        "name": "Ripley",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/ripleychile/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ripley-f81fcb.jpg",
+      "local_logo_path": "localbrand/logo/ripley-f81fcb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ripleychile/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ripley-f81fcb.jpg"
+      }
+    },
+    {
+      "displayName": "Robinson (Thailand)",
+      "id": "robinsondepartmentstore-bf6532",
+      "locationSet": {
+        "include": [
+          "th"
+        ]
+      },
+      "tags": {
+        "brand": "Robinson Department Store",
+        "brand:en": "Robinson Department Store",
+        "brand:th": "ห้างสรรพสินค้าโรบินสัน",
+        "brand:wikidata": "Q6642534",
+        "operator": "Central Department Store",
+        "operator:en": "Central Department Store",
+        "operator:th": "สรรพสินค้าเซ็นทรัล",
+        "operator:wikidata": "Q5060703",
+        "operator:zh": "尚泰",
+        "shop": "department_store"
+      }
+    },
+    {
+      "displayName": "Ross",
+      "id": "ross-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Ross",
+        "brand:wikidata": "Q3442791",
+        "name": "Ross",
+        "official_name": "Ross Dress for Less",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/RossDressforLess/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ross-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/ross-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RossDressforLess/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ross-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Runnings",
+      "id": "runnings-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "r. p. home & harvest",
+        "stock+field"
+      ],
+      "matchTags": [
+        "shop/country_store"
+      ],
+      "tags": {
+        "brand": "Runnings",
+        "brand:wikidata": "Q125924536",
+        "name": "Runnings",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/myrunnings/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/runnings-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/runnings-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/myrunnings/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/runnings-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Saks Fifth Avenue",
+      "id": "saksfifthavenue-53f9e5",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Saks Fifth Avenue",
+        "brand:wikidata": "Q2723882",
+        "name": "Saks Fifth Avenue",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/saks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saksfifthavenue-53f9e5.jpg",
+      "local_logo_path": "localbrand/logo/saksfifthavenue-53f9e5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/saks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saksfifthavenue-53f9e5.jpg"
+      }
+    },
+    {
+      "displayName": "Saks Off 5th",
+      "id": "saksoff5th-53f9e5",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Saks Off 5th",
+        "brand:wikidata": "Q28659083",
+        "name": "Saks Off 5th",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/saksoff5th/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saksoff5th-53f9e5.jpg",
+      "local_logo_path": "localbrand/logo/saksoff5th-53f9e5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/saksoff5th/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saksoff5th-53f9e5.jpg"
+      }
+    },
+    {
+      "displayName": "Sanborns",
+      "id": "sanborns-4c18c3",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Sanborns",
+        "brand:wikidata": "Q113206386",
+        "name": "Sanborns",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/solosanborns/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sanborns-4c18c3.jpg",
+      "local_logo_path": "localbrand/logo/sanborns-4c18c3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/solosanborns/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sanborns-4c18c3.jpg"
+      }
+    },
+    {
+      "displayName": "Sears",
+      "id": "sears-ce56c0",
+      "locationSet": {
+        "include": [
+          "mx",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/appliance"
+      ],
+      "tags": {
+        "brand": "Sears",
+        "brand:wikidata": "Q6499202",
+        "name": "Sears",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/sears/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sears-ce56c0.jpg",
+      "local_logo_path": "localbrand/logo/sears-ce56c0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sears/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sears-ce56c0.jpg"
+      }
+    },
+    {
+      "displayName": "Sears Hometown",
+      "id": "searshometown-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "sears hometown store",
+        "sears hometown stores"
+      ],
+      "tags": {
+        "brand": "Sears Hometown",
+        "brand:wikidata": "Q69926963",
+        "name": "Sears Hometown",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/SearsHometownStores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/searshometown-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/searshometown-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SearsHometownStores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/searshometown-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Shinsegae",
+      "id": "shinsegae-84c155",
+      "locationSet": {
+        "include": [
+          "kr"
+        ]
+      },
+      "tags": {
+        "brand": "Shinsegae",
+        "brand:en": "Shinsegae",
+        "brand:ko": "신세계",
+        "brand:wikidata": "Q490787",
+        "name": "Shinsegae",
+        "name:en": "Shinsegae",
+        "name:ko": "신세계",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Shinsegae_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shinsegae-84c155.svg",
+      "local_logo_path": "localbrand/logo/shinsegae-84c155.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Shinsegae_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shinsegae-84c155.svg"
+      }
+    },
+    {
+      "displayName": "Shopko",
+      "id": "shopko-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Shopko",
+        "brand:wikidata": "Q7501155",
+        "name": "Shopko",
+        "shop": "department_store"
+      }
+    },
+    {
+      "displayName": "Shoppers Stop",
+      "id": "shoppersstop-d45fb2",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Shoppers Stop",
+        "brand:wikidata": "Q7501182",
+        "name": "Shoppers Stop",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/shoppersstopindia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shoppersstop-d45fb2.jpg",
+      "local_logo_path": "localbrand/logo/shoppersstop-d45fb2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/shoppersstopindia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shoppersstop-d45fb2.jpg"
+      }
+    },
+    {
+      "displayName": "Smiths City",
+      "id": "smithscity-98a4a8",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Smiths City",
+        "brand:wikidata": "Q104865291",
+        "name": "Smiths City",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/SmithsCity/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smithscity-98a4a8.png",
+      "local_logo_path": "localbrand/logo/smithscity-98a4a8.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SmithsCity/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smithscity-98a4a8.png"
+      }
+    },
+    {
+      "displayName": "Stein Mart",
+      "id": "steinmart-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Stein Mart",
+        "brand:wikidata": "Q7606770",
+        "name": "Stein Mart",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/SteinMart/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/steinmart-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/steinmart-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SteinMart/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/steinmart-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Stockmann",
+      "id": "stockmann-da3317",
+      "locationSet": {
+        "include": [
+          "fi"
+        ]
+      },
+      "tags": {
+        "brand": "Stockmann",
+        "brand:wikidata": "Q1543093",
+        "name": "Stockmann",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/StockmannCOM/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stockmann-da3317.jpg",
+      "local_logo_path": "localbrand/logo/stockmann-da3317.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/StockmannCOM/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stockmann-da3317.jpg"
+      }
+    },
+    {
+      "displayName": "Target (Australia)",
+      "id": "target-c93bbd",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "name": "Target",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/targetaus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/target-c93bbd.jpg",
+      "local_logo_path": "localbrand/logo/target-c93bbd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/targetaus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/target-c93bbd.jpg"
+      }
+    },
+    {
+      "displayName": "Target (USA)",
+      "id": "target-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Target",
+        "brand:wikidata": "Q1046951",
+        "name": "Target",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/target/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/target-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/target-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/target/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/target-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "Teso Life",
+      "id": "tesolife-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Teso Life",
+        "brand:wikidata": "Q139731915",
+        "name": "Teso Life",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/TESOLIFEUS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tesolife-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/tesolife-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TESOLIFEUS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tesolife-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "The Warehouse",
+      "id": "thewarehouse-98a4a8",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "The Warehouse",
+        "brand:wikidata": "Q110205200",
+        "name": "The Warehouse",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/TheWarehouseNZ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thewarehouse-98a4a8.png",
+      "local_logo_path": "localbrand/logo/thewarehouse-98a4a8.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TheWarehouseNZ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thewarehouse-98a4a8.png"
+      }
+    },
+    {
+      "displayName": "Tigre Géant",
+      "id": "tigregeant-f68020",
+      "locationSet": {
+        "include": [
+          "ca-qc.geojson"
+        ]
+      },
+      "matchNames": [
+        "giant tiger"
+      ],
+      "tags": {
+        "brand": "Tigre Géant",
+        "brand:wikidata": "Q5558429",
+        "name": "Tigre Géant",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/GiantTiger/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tigregeant-f68020.jpg",
+      "local_logo_path": "localbrand/logo/tigregeant-f68020.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GiantTiger/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tigregeant-f68020.jpg"
+      }
+    },
+    {
+      "displayName": "TJ Maxx",
+      "id": "tjmaxx-592fe0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "TJ Maxx",
+        "brand:wikidata": "Q10860683",
+        "name": "TJ Maxx",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/tjmaxx/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tjmaxx-592fe0.jpg",
+      "local_logo_path": "localbrand/logo/tjmaxx-592fe0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tjmaxx/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tjmaxx-592fe0.jpg"
+      }
+    },
+    {
+      "displayName": "TK Maxx",
+      "id": "tkmaxx-d02268",
+      "locationSet": {
+        "include": [
+          "at",
+          "au",
+          "de",
+          "gb",
+          "ie",
+          "nl",
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "TK Maxx",
+        "brand:wikidata": "Q23823668",
+        "name": "TK Maxx",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/tkmaxx/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tkmaxx-d02268.jpg",
+      "local_logo_path": "localbrand/logo/tkmaxx-d02268.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tkmaxx/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tkmaxx-d02268.jpg"
+      }
+    },
+    {
+      "displayName": "Trafic",
+      "id": "trafic-323268",
+      "locationSet": {
+        "include": [
+          "be"
+        ]
+      },
+      "tags": {
+        "brand": "Trafic",
+        "brand:wikidata": "Q20732590",
+        "name": "Trafic",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/MagasinsTrafic/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/trafic-323268.jpg",
+      "local_logo_path": "localbrand/logo/trafic-323268.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MagasinsTrafic/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/trafic-323268.jpg"
+      }
+    },
+    {
+      "displayName": "Upim",
+      "id": "upim-b0f55b",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Upim",
+        "brand:wikidata": "Q1414836",
+        "name": "Upim",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/UpimItalia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/upim-b0f55b.jpg",
+      "local_logo_path": "localbrand/logo/upim-b0f55b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/UpimItalia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/upim-b0f55b.jpg"
+      }
+    },
+    {
+      "displayName": "Walmart",
+      "id": "walmart-36cadd",
+      "locationSet": {
+        "include": [
+          "ca",
+          "in",
+          "mx",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/walmart/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/walmart-36cadd.jpg",
+      "local_logo_path": "localbrand/logo/walmart-36cadd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/walmart/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/walmart-36cadd.jpg"
+      }
+    },
+    {
+      "displayName": "Winners",
+      "id": "winners-c81e81",
+      "locationSet": {
+        "include": [
+          "ca",
+          "es"
+        ]
+      },
+      "tags": {
+        "brand": "Winners",
+        "brand:wikidata": "Q845257",
+        "name": "Winners",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Winners/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/winners-c81e81.jpg",
+      "local_logo_path": "localbrand/logo/winners-c81e81.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Winners/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/winners-c81e81.jpg"
+      }
+    },
+    {
+      "displayName": "Woolworth (Del Sol)",
+      "id": "woolworth-4c18c3",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Del Sol",
+        "brand:wikidata": "Q113207674",
+        "name": "Woolworth",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/DelSol.com.mx/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woolworth-4c18c3.jpg",
+      "local_logo_path": "localbrand/logo/woolworth-4c18c3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DelSol.com.mx/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woolworth-4c18c3.jpg"
+      }
+    },
+    {
+      "displayName": "Woolworth (Deutschland)",
+      "id": "woolworth-de286a",
+      "locationSet": {
+        "include": [
+          "at",
+          "cz",
+          "de",
+          "pl",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Woolworth",
+        "brand:wikidata": "Q183538",
+        "name": "Woolworth",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/WoolworthDeutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woolworth-de286a.png",
+      "local_logo_path": "localbrand/logo/woolworth-de286a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/WoolworthDeutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woolworth-de286a.png"
+      }
+    },
+    {
+      "displayName": "World Duty Free",
+      "id": "worlddutyfree-03e633",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "World Duty Free",
+        "brand:wikidata": "Q15911908",
+        "name": "World Duty Free",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/DutyFreeUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/worlddutyfree-03e633.jpg",
+      "local_logo_path": "localbrand/logo/worlddutyfree-03e633.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DutyFreeUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/worlddutyfree-03e633.jpg"
+      }
+    },
+    {
+      "displayName": "Zema",
+      "id": "zema-7a47e3",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Zema",
+        "brand:wikidata": "Q123166034",
+        "name": "Zema",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/zemapravc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zema-7a47e3.jpg",
+      "local_logo_path": "localbrand/logo/zema-7a47e3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/zemapravc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zema-7a47e3.jpg"
+      }
+    },
+    {
+      "displayName": "롯데백화점",
+      "id": "lottedepartmentstore-84c155",
+      "locationSet": {
+        "include": [
+          "kr"
+        ]
+      },
+      "tags": {
+        "brand": "롯데백화점",
+        "brand:en": "Lotte Department Store",
+        "brand:ko": "롯데백화점",
+        "brand:wikidata": "Q489905",
+        "name": "롯데백화점",
+        "name:en": "Lotte Department Store",
+        "name:ko": "롯데백화점",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/LOTTEshopping/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lottedepartmentstore-84c155.jpg",
+      "local_logo_path": "localbrand/logo/lottedepartmentstore-84c155.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LOTTEshopping/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lottedepartmentstore-84c155.jpg"
+      }
+    },
+    {
+      "displayName": "현대백화점",
+      "id": "hyundai-84c155",
+      "locationSet": {
+        "include": [
+          "kr"
+        ]
+      },
+      "tags": {
+        "brand": "현대백화점",
+        "brand:en": "Hyundai Department Store",
+        "brand:ko": "현대백화점",
+        "brand:wikidata": "Q624388",
+        "name": "현대",
+        "name:en": "Hyundai",
+        "name:ko": "현대",
+        "operator": "현대백화점그룹",
+        "operator:en": "Hyundai Department Store Group",
+        "operator:ko": "현대백화점그룹",
+        "operator:wikidata": "Q5962584",
+        "shop": "department_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/eHYUNDAI/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hyundai-84c155.jpg",
+      "local_logo_path": "localbrand/logo/hyundai-84c155.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/eHYUNDAI/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hyundai-84c155.jpg"
+      }
+    },
+    {
+      "displayName": "百盛百货",
+      "id": "parkson-05ca83",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "百盛",
+        "brand:en": "Parkson",
+        "brand:wikidata": "Q835145",
+        "brand:zh": "百盛",
+        "name": "百盛百货",
+        "name:en": "Parkson",
+        "name:zh": "百盛百货",
+        "shop": "department_store"
+      }
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "properties": {
+    "path": "brands/amenity/childcare",
+    "exclude": {
+      "generic": [
+        "^(childcare|day\\s?care( center)?|어린이집)$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Anganvady",
+      "id": "anganvady-115c62",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "amenity": "childcare",
+        "brand": "Anganvady",
+        "name": "Anganvady"
+      }
+    },
+    {
+      "displayName": "Anganwadi",
+      "id": "anganwadi-115c62",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "matchNames": [
+        "anganavadi",
+        "anganawadi",
+        "anganawady",
+        "anganvadi"
+      ],
+      "tags": {
+        "amenity": "childcare",
+        "brand": "Anganwadi",
+        "brand:en": "Anganwadi",
+        "brand:hi": "आँगनवाडी",
+        "brand:pa": "ਆਂਗਣਵਾੜੀ",
+        "brand:pnb": "آنگن واڑی",
+        "brand:ur": "آنگن واڑی",
+        "brand:wikidata": "Q16251231",
+        "name": "Anganwadi",
+        "name:en": "Anganwadi",
+        "name:hi": "आँगनवाडी",
+        "name:pa": "ਆਂਗਣਵਾੜੀ",
+        "name:pnb": "آنگن واڑی",
+        "name:ur": "آنگن واڑی"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Anganwadi_Centre_-_Budhibili_-_Dandadhar_Road_-_Dhenkanal_2018-01-25_9601.JPG",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/anganwadi-115c62.jpg",
+      "local_logo_path": "localbrand/logo/anganwadi-115c62.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Anganwadi_Centre_-_Budhibili_-_Dandadhar_Road_-_Dhenkanal_2018-01-25_9601.JPG",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/anganwadi-115c62.jpg"
+      }
+    },
+    {
+      "displayName": "Arbeiterwohlfahrt",
+      "id": "arbeiterwohlfahrt-284c2e",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "awo"
+      ],
+      "tags": {
+        "amenity": "childcare",
+        "brand": "Arbeiterwohlfahrt",
+        "brand:wikidata": "Q627256"
+      }
+    },
+    {
+      "displayName": "Busy Bees",
+      "id": "busybees-e7c9ca",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "childcare",
+        "brand": "Busy Bees",
+        "brand:wikidata": "Q28134563",
+        "name": "Busy Bees"
+      },
+      "original_logo_url": "https://graph.facebook.com/busybeesuk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/busybees-e7c9ca.jpg",
+      "local_logo_path": "localbrand/logo/busybees-e7c9ca.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/busybeesuk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/busybees-e7c9ca.jpg"
+      }
+    },
+    {
+      "displayName": "CEN-CINAI",
+      "id": "cencinai-299b2d",
+      "locationSet": {
+        "include": [
+          "cr"
+        ]
+      },
+      "tags": {
+        "amenity": "childcare",
+        "brand": "CEN-CINAI",
+        "name": "CEN-CINAI"
+      }
+    },
+    {
+      "displayName": "Deutsches Rotes Kreuz",
+      "id": "deutschesroteskreuz-284c2e",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "drk"
+      ],
+      "tags": {
+        "amenity": "childcare",
+        "brand": "Deutsches Rotes Kreuz",
+        "brand:wikidata": "Q694104"
+      },
+      "original_logo_url": "https://graph.facebook.com/67003546475/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deutschesroteskreuz-284c2e.jpg",
+      "local_logo_path": "localbrand/logo/deutschesroteskreuz-284c2e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/67003546475/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deutschesroteskreuz-284c2e.jpg"
+      }
+    },
+    {
+      "displayName": "Kidango",
+      "id": "kidango-fd7b3f",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "childcare",
+        "brand": "Kidango",
+        "brand:wikidata": "Q105378193",
+        "name": "Kidango"
+      },
+      "original_logo_url": "https://graph.facebook.com/Kidango/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kidango-fd7b3f.jpg",
+      "local_logo_path": "localbrand/logo/kidango-fd7b3f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Kidango/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kidango-fd7b3f.jpg"
+      }
+    },
+    {
+      "displayName": "Kids 'R' Kids",
+      "id": "kidsrkids-fd7b3f",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "kids are kids"
+      ],
+      "tags": {
+        "after_school": "yes",
+        "amenity": "childcare",
+        "brand": "Kids 'R' Kids",
+        "brand:wikidata": "Q65560342",
+        "grades": "PK",
+        "name": "Kids 'R' Kids",
+        "nursery": "yes",
+        "official_name": "Kids 'R' Kids Learning Academies",
+        "preschool": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/kidsrkidscorporate/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kidsrkids-fd7b3f.jpg",
+      "local_logo_path": "localbrand/logo/kidsrkids-fd7b3f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kidsrkidscorporate/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kidsrkids-fd7b3f.jpg"
+      }
+    },
+    {
+      "displayName": "Merryhill Preschool",
+      "id": "merryhillpreschool-fd7b3f",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "childcare",
+        "brand": "Merryhill Preschool",
+        "brand:wikidata": "Q6820493",
+        "name": "Merryhill Preschool"
+      },
+      "original_logo_url": "https://graph.facebook.com/MerryhillSchool/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/merryhillpreschool-fd7b3f.jpg",
+      "local_logo_path": "localbrand/logo/merryhillpreschool-fd7b3f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MerryhillSchool/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/merryhillpreschool-fd7b3f.jpg"
+      }
+    },
+    {
+      "displayName": "N. Family Club",
+      "id": "nfamilyclub-de54b7",
+      "locationSet": {
+        "include": [
+          "gb-eng"
+        ]
+      },
+      "tags": {
+        "amenity": "childcare",
+        "brand": "N. Family Club",
+        "brand:wikidata": "Q123476376",
+        "name": "N. Family Club"
+      },
+      "original_logo_url": "https://graph.facebook.com/NFamilyClubUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nfamilyclub-de54b7.jpg",
+      "local_logo_path": "localbrand/logo/nfamilyclub-de54b7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NFamilyClubUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nfamilyclub-de54b7.jpg"
+      }
+    },
+    {
+      "displayName": "YMCA Child Care",
+      "id": "ymcachildcare-fd7b3f",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "ymca child care center"
+      ],
+      "tags": {
+        "amenity": "childcare",
+        "brand": "YMCA",
+        "brand:wikidata": "Q157169",
+        "name": "YMCA Child Care"
+      },
+      "original_logo_url": "https://graph.facebook.com/ymcas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ymcachildcare-fd7b3f.png",
+      "local_logo_path": "localbrand/logo/ymcachildcare-fd7b3f.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ymcas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ymcachildcare-fd7b3f.png"
+      }
+    },
+    {
+      "displayName": "Бэби-клуб",
+      "id": "babyclub-22863f",
+      "locationSet": {
+        "include": [
+          "cz",
+          "kz",
+          "ru"
+        ]
+      },
+      "tags": {
+        "amenity": "childcare",
+        "brand": "Бэби-клуб",
+        "brand:en": "Baby-Club",
+        "brand:ru": "Бэби-клуб",
+        "name": "Бэби-клуб",
+        "name:en": "Baby-Club",
+        "name:ru": "Бэби-клуб"
+      }
+    },
+    {
+      "displayName": "グローバルキッズ",
+      "id": "globalkids-46ae55",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "childcare",
+        "brand": "グローバルキッズ",
+        "brand:en": "Global Kids",
+        "brand:ja": "グローバルキッズ",
+        "brand:wikidata": "Q91950777",
+        "name": "グローバルキッズ",
+        "name:en": "Global Kids",
+        "name:ja": "グローバルキッズ"
+      },
+      "original_logo_url": "https://graph.facebook.com/Gkidsbook/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/globalkids-46ae55.jpg",
+      "local_logo_path": "localbrand/logo/globalkids-46ae55.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Gkidsbook/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/globalkids-46ae55.jpg"
+      }
+    },
+    {
+      "displayName": "ちびっこランド",
+      "id": "chibikkoland-46ae55",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "childcare",
+        "brand": "ちびっこランド",
+        "brand:en": "Chibikko Land",
+        "brand:ja": "ちびっこランド",
+        "brand:wikidata": "Q91948998",
+        "name": "ちびっこランド",
+        "name:en": "Chibikko Land",
+        "name:ja": "ちびっこランド"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Chibikko_Land_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chibikkoland-46ae55.png",
+      "local_logo_path": "localbrand/logo/chibikkoland-46ae55.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Chibikko_Land_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chibikkoland-46ae55.png"
+      }
+    },
+    {
+      "displayName": "ポポラー",
+      "id": "popolar-46ae55",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "childcare",
+        "brand": "ポポラー",
+        "brand:en": "Popolar",
+        "brand:ja": "ポポラー",
+        "brand:wikidata": "Q91945087",
+        "name": "ポポラー",
+        "name:en": "Popolar",
+        "name:ja": "ポポラー"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Popolar_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/popolar-46ae55.png",
+      "local_logo_path": "localbrand/logo/popolar-46ae55.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Popolar_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/popolar-46ae55.png"
+      }
+    }
+  ]
+}

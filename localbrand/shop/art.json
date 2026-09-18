@@ -1,0 +1,110 @@
+{
+  "properties": {
+    "path": "brands/shop/art",
+    "exclude": {
+      "generic": [
+        "^art$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Castle Fine Art",
+      "id": "castlefineart-27d03f",
+      "locationSet": {
+        "include": [
+          "gb-eng",
+          "gb-sct",
+          "gb-wls"
+        ]
+      },
+      "tags": {
+        "brand": "Castle Fine Art",
+        "brand:wikidata": "Q136092887",
+        "name": "Castle Fine Art",
+        "shop": "art"
+      },
+      "original_logo_url": "https://graph.facebook.com/CastleFineArtHQ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/castlefineart-27d03f.jpg",
+      "local_logo_path": "localbrand/logo/castlefineart-27d03f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CastleFineArtHQ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/castlefineart-27d03f.jpg"
+      }
+    },
+    {
+      "displayName": "DeSerres",
+      "id": "deserres-52ba64",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "DeSerres",
+        "brand:wikidata": "Q3020049",
+        "name": "DeSerres",
+        "shop": "art"
+      },
+      "original_logo_url": "https://graph.facebook.com/DeSerresCanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deserres-52ba64.jpg",
+      "local_logo_path": "localbrand/logo/deserres-52ba64.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DeSerresCanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deserres-52ba64.jpg"
+      }
+    },
+    {
+      "displayName": "Lumas",
+      "id": "lumas-60f999",
+      "locationSet": {
+        "include": [
+          "at",
+          "au",
+          "ca",
+          "ch",
+          "de",
+          "fr",
+          "gb-eng",
+          "hu",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Lumas",
+        "brand:wikidata": "Q1452381",
+        "name": "Lumas",
+        "shop": "art"
+      },
+      "original_logo_url": "https://graph.facebook.com/LUMAS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lumas-60f999.jpg",
+      "local_logo_path": "localbrand/logo/lumas-60f999.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LUMAS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lumas-60f999.jpg"
+      }
+    },
+    {
+      "displayName": "YellowKorner",
+      "id": "yellowkorner-160161",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "YellowKorner",
+        "brand:wikidata": "Q3572115",
+        "name": "YellowKorner",
+        "shop": "art"
+      },
+      "original_logo_url": "https://graph.facebook.com/YellowKorner/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yellowkorner-160161.jpg",
+      "local_logo_path": "localbrand/logo/yellowkorner-160161.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/YellowKorner/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yellowkorner-160161.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1299 @@
+{
+  "properties": {
+    "path": "brands/amenity/car_rental",
+    "exclude": {
+      "generic": [
+        "^(car rental|rent a car)$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "99rent",
+      "id": "99rent-f36412",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "99rent",
+        "brand:wikidata": "Q126194789",
+        "name": "99rent"
+      },
+      "original_logo_url": "https://graph.facebook.com/99rent/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/99rent-f36412.png",
+      "local_logo_path": "localbrand/logo/99rent-f36412.png",
+      "logos": {
+        "original": "https://graph.facebook.com/99rent/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/99rent-f36412.png"
+      }
+    },
+    {
+      "displayName": "ADA",
+      "id": "ada-d9531a",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "ADA",
+        "brand:wikidata": "Q57313774",
+        "name": "ADA"
+      },
+      "original_logo_url": "https://graph.facebook.com/ADALocationdevehicules/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ada-d9531a.jpg",
+      "local_logo_path": "localbrand/logo/ada-d9531a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ADALocationdevehicules/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ada-d9531a.jpg"
+      }
+    },
+    {
+      "displayName": "Alamo",
+      "id": "alamo-d9531a",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Alamo",
+        "brand:wikidata": "Q1429287",
+        "name": "Alamo"
+      },
+      "original_logo_url": "https://graph.facebook.com/AlamoRentACar/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alamo-d9531a.jpg",
+      "local_logo_path": "localbrand/logo/alamo-d9531a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AlamoRentACar/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alamo-d9531a.jpg"
+      }
+    },
+    {
+      "displayName": "Apex",
+      "id": "apex-f8249a",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Apex",
+        "brand:wikidata": "Q113312731",
+        "name": "Apex"
+      },
+      "original_logo_url": "https://graph.facebook.com/341306772568883/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/apex-f8249a.png",
+      "local_logo_path": "localbrand/logo/apex-f8249a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/341306772568883/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/apex-f8249a.png"
+      }
+    },
+    {
+      "displayName": "Arnold Clark Car & Van Rental",
+      "id": "arnoldclarkcarandvanrental-94e308",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Arnold Clark",
+        "brand:wikidata": "Q29344371",
+        "name": "Arnold Clark Car & Van Rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/ArnoldClark/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arnoldclarkcarandvanrental-94e308.jpg",
+      "local_logo_path": "localbrand/logo/arnoldclarkcarandvanrental-94e308.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ArnoldClark/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arnoldclarkcarandvanrental-94e308.jpg"
+      }
+    },
+    {
+      "displayName": "Autohopper",
+      "id": "autohopper-76827b",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Autohopper",
+        "brand:wikidata": "Q124398113",
+        "name": "Autohopper"
+      },
+      "original_logo_url": "https://graph.facebook.com/Autohopper/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autohopper-76827b.jpg",
+      "local_logo_path": "localbrand/logo/autohopper-76827b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Autohopper/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autohopper-76827b.jpg"
+      }
+    },
+    {
+      "displayName": "Avis",
+      "id": "avis-d9531a",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Avis",
+        "brand:wikidata": "Q791136",
+        "name": "Avis",
+        "official_name": "Avis Car Rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/avis/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/avis-d9531a.jpg",
+      "local_logo_path": "localbrand/logo/avis-d9531a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/avis/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/avis-d9531a.jpg"
+      }
+    },
+    {
+      "displayName": "Buchbinder",
+      "id": "buchbinder-407895",
+      "locationSet": {
+        "include": [
+          "at",
+          "de"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Buchbinder",
+        "brand:wikidata": "Q89432097",
+        "name": "Buchbinder"
+      }
+    },
+    {
+      "displayName": "Budget",
+      "id": "budget-d9531a",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "budget car rental"
+      ],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Budget",
+        "brand:wikidata": "Q1001437",
+        "name": "Budget",
+        "official_name": "Budget Rent a Car"
+      },
+      "original_logo_url": "https://graph.facebook.com/Budget/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/budget-d9531a.jpg",
+      "local_logo_path": "localbrand/logo/budget-d9531a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Budget/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/budget-d9531a.jpg"
+      }
+    },
+    {
+      "displayName": "Budget Truck Rental",
+      "id": "budgettruckrental-d50162",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Budget Truck Rental",
+        "brand:wikidata": "Q4985029",
+        "name": "Budget Truck Rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/budgettruck/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/budgettruckrental-d50162.jpg",
+      "local_logo_path": "localbrand/logo/budgettruckrental-d50162.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/budgettruck/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/budgettruckrental-d50162.jpg"
+      }
+    },
+    {
+      "displayName": "CarGo",
+      "id": "cargo-8fb45c",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "CarGo",
+        "brand:wikidata": "Q117662226",
+        "name": "CarGo"
+      },
+      "original_logo_url": "https://graph.facebook.com/cargo.location.vehicules/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cargo-8fb45c.png",
+      "local_logo_path": "localbrand/logo/cargo-8fb45c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/cargo.location.vehicules/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cargo-8fb45c.png"
+      }
+    },
+    {
+      "displayName": "CICAR",
+      "id": "cicar-d3ef0c",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "matchNames": [
+        "cabrera medina",
+        "canary islands car"
+      ],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "CICAR",
+        "brand:wikidata": "Q126181047",
+        "name": "CICAR"
+      }
+    },
+    {
+      "displayName": "Dollar Car Rental",
+      "id": "dollarcarrental-d9531a",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "dollar",
+        "dollar rent a car"
+      ],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Dollar Car Rental",
+        "brand:wikidata": "Q1235661",
+        "name": "Dollar Car Rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/DollarCarRental/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dollarcarrental-d9531a.jpg",
+      "local_logo_path": "localbrand/logo/dollarcarrental-d9531a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DollarCarRental/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dollarcarrental-d9531a.jpg"
+      }
+    },
+    {
+      "displayName": "E.Leclerc Location",
+      "id": "eleclerclocation-8fb45c",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "E.Leclerc Location",
+        "brand:wikidata": "Q1273376",
+        "name": "E.Leclerc Location"
+      },
+      "original_logo_url": "https://graph.facebook.com/E.Leclerc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eleclerclocation-8fb45c.jpg",
+      "local_logo_path": "localbrand/logo/eleclerclocation-8fb45c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/E.Leclerc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eleclerclocation-8fb45c.jpg"
+      }
+    },
+    {
+      "displayName": "Enterprise",
+      "id": "enterprise-d9531a",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "enterprise car rental"
+      ],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Enterprise",
+        "brand:wikidata": "Q17085454",
+        "name": "Enterprise",
+        "official_name": "Enterprise Rent-A-Car"
+      },
+      "original_logo_url": "https://graph.facebook.com/Enterprise/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/enterprise-d9531a.jpg",
+      "local_logo_path": "localbrand/logo/enterprise-d9531a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Enterprise/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/enterprise-d9531a.jpg"
+      }
+    },
+    {
+      "displayName": "Enterprise GO",
+      "id": "enterprisego-145c5e",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "matchNames": [
+        "enterprise car rental"
+      ],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Enterprise GO",
+        "brand:wikidata": "Q130467239",
+        "operator": "Helvetic Motion AG",
+        "supervised": "no"
+      }
+    },
+    {
+      "displayName": "Euromobil",
+      "id": "euromobil-76827b",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Euromobil",
+        "brand:wikidata": "Q1375118",
+        "name": "Euromobil"
+      }
+    },
+    {
+      "displayName": "Europcar",
+      "id": "europcar-802794",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "dk",
+          "fi",
+          "no",
+          "se"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Europcar",
+        "brand:wikidata": "Q1376256",
+        "name": "Europcar"
+      },
+      "original_logo_url": "https://graph.facebook.com/europcar/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/europcar-802794.jpg",
+      "local_logo_path": "localbrand/logo/europcar-802794.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/europcar/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/europcar-802794.jpg"
+      }
+    },
+    {
+      "displayName": "Europcar (Scandinavia)",
+      "id": "europcar-95cde7",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "dk",
+          "fi",
+          "no",
+          "se"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Europcar",
+        "brand:wikidata": "Q1376256",
+        "name": "Europcar"
+      },
+      "original_logo_url": "https://graph.facebook.com/europcar/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/europcar-95cde7.jpg",
+      "local_logo_path": "localbrand/logo/europcar-95cde7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/europcar/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/europcar-95cde7.jpg"
+      }
+    },
+    {
+      "displayName": "GarentaDAY",
+      "id": "garentaday-48a8d7",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "matchNames": [
+        "garenta"
+      ],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "GarentaDAY",
+        "brand:wikidata": "Q106801676",
+        "name": "GarentaDAY"
+      },
+      "original_logo_url": "https://graph.facebook.com/Garenta/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/garentaday-48a8d7.jpg",
+      "local_logo_path": "localbrand/logo/garentaday-48a8d7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Garenta/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/garentaday-48a8d7.jpg"
+      }
+    },
+    {
+      "displayName": "Green Motion",
+      "id": "greenmotion-d9531a",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "green motion car rental"
+      ],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Green Motion",
+        "brand:wikidata": "Q65315691",
+        "name": "Green Motion"
+      },
+      "original_logo_url": "https://graph.facebook.com/GreenMotionInternational/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greenmotion-d9531a.jpg",
+      "local_logo_path": "localbrand/logo/greenmotion-d9531a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GreenMotionInternational/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greenmotion-d9531a.jpg"
+      }
+    },
+    {
+      "displayName": "Hertz",
+      "id": "hertz-d9531a",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "hertz car rental",
+        "hertz rent a car"
+      ],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Hertz",
+        "brand:wikidata": "Q1543874",
+        "name": "Hertz"
+      },
+      "original_logo_url": "https://graph.facebook.com/hertz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hertz-d9531a.jpg",
+      "local_logo_path": "localbrand/logo/hertz-d9531a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hertz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hertz-d9531a.jpg"
+      }
+    },
+    {
+      "displayName": "Jucy",
+      "id": "jucy-fde8ea",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Jucy",
+        "brand:wikidata": "Q22032112",
+        "name": "Jucy"
+      },
+      "original_logo_url": "https://graph.facebook.com/jucyworld/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jucy-fde8ea.jpg",
+      "local_logo_path": "localbrand/logo/jucy-fde8ea.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/jucyworld/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jucy-fde8ea.jpg"
+      }
+    },
+    {
+      "displayName": "Jネットレンタカー",
+      "id": "1887c1-f05847",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Jネットレンタカー",
+        "brand:ja": "Jネットレンタカー",
+        "brand:wikidata": "Q11227092",
+        "name": "Jネットレンタカー",
+        "name:ja": "Jネットレンタカー"
+      },
+      "original_logo_url": "https://graph.facebook.com/257784541000024/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/1887c1-f05847.jpg",
+      "local_logo_path": "localbrand/logo/1887c1-f05847.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/257784541000024/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/1887c1-f05847.jpg"
+      }
+    },
+    {
+      "displayName": "Localiza",
+      "id": "localiza-d9531a",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Localiza",
+        "brand:wikidata": "Q10319490",
+        "name": "Localiza"
+      },
+      "original_logo_url": "https://graph.facebook.com/Localiza/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/localiza-d9531a.png",
+      "local_logo_path": "localbrand/logo/localiza-d9531a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Localiza/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/localiza-d9531a.png"
+      }
+    },
+    {
+      "displayName": "Movida",
+      "id": "movida-7721c7",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Movida",
+        "brand:wikidata": "Q106632587",
+        "name": "Movida"
+      },
+      "original_logo_url": "https://graph.facebook.com/MovidaRentaCar/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/movida-7721c7.jpg",
+      "local_logo_path": "localbrand/logo/movida-7721c7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MovidaRentaCar/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/movida-7721c7.jpg"
+      }
+    },
+    {
+      "displayName": "National",
+      "id": "national-d9531a",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "National",
+        "brand:wikidata": "Q1424142",
+        "name": "National",
+        "official_name": "National Car Rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/NationalCarRental/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/national-d9531a.jpg",
+      "local_logo_path": "localbrand/logo/national-d9531a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NationalCarRental/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/national-d9531a.jpg"
+      }
+    },
+    {
+      "displayName": "Opel Rent",
+      "id": "opelrent-608338",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Opel Rent",
+        "brand:wikidata": "Q40966",
+        "name": "Opel Rent"
+      },
+      "original_logo_url": "https://graph.facebook.com/OpelDE/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/opelrent-608338.jpg",
+      "local_logo_path": "localbrand/logo/opelrent-608338.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OpelDE/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/opelrent-608338.jpg"
+      }
+    },
+    {
+      "displayName": "Payless",
+      "id": "payless-d9531a",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Payless",
+        "brand:wikidata": "Q17084987",
+        "name": "Payless"
+      }
+    },
+    {
+      "displayName": "Practical",
+      "id": "practical-9ff876",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "matchNames": [
+        "practical car & van rental"
+      ],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Practical",
+        "brand:wikidata": "Q121435266",
+        "name": "Practical"
+      },
+      "original_logo_url": "https://graph.facebook.com/PracticalHQ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/practical-9ff876.jpg",
+      "local_logo_path": "localbrand/logo/practical-9ff876.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PracticalHQ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/practical-9ff876.jpg"
+      }
+    },
+    {
+      "displayName": "Redspot Car Rentals",
+      "id": "redspotcarrentals-ba918c",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Redspot Car Rentals",
+        "brand:wikidata": "Q7306270",
+        "name": "Redspot Car Rentals"
+      },
+      "original_logo_url": "https://graph.facebook.com/RedspotCarRentals/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/redspotcarrentals-ba918c.jpg",
+      "local_logo_path": "localbrand/logo/redspotcarrentals-ba918c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RedspotCarRentals/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/redspotcarrentals-ba918c.jpg"
+      }
+    },
+    {
+      "displayName": "Rent A Car",
+      "id": "rentacar-8fb45c",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Rent A Car",
+        "brand:wikidata": "Q3425574",
+        "name": "Rent A Car"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo-hd-rent-a-car.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rentacar-8fb45c.png",
+      "local_logo_path": "localbrand/logo/rentacar-8fb45c.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo-hd-rent-a-car.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rentacar-8fb45c.png"
+      }
+    },
+    {
+      "displayName": "Sixt",
+      "id": "sixt-d9531a",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "sixt rent a car"
+      ],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Sixt",
+        "brand:wikidata": "Q705664",
+        "name": "Sixt"
+      },
+      "original_logo_url": "https://graph.facebook.com/sixt.rentacar.usa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sixt-d9531a.jpg",
+      "local_logo_path": "localbrand/logo/sixt-d9531a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sixt.rentacar.usa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sixt-d9531a.jpg"
+      }
+    },
+    {
+      "displayName": "SK렌터카",
+      "id": "skrentacar-1f06f0",
+      "locationSet": {
+        "include": [
+          "kr"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "SK렌터카",
+        "brand:en": "SK rent-a-car",
+        "brand:ko": "SK렌터카",
+        "brand:wikidata": "Q121294762",
+        "name": "SK렌터카",
+        "name:en": "SK rent-a-car",
+        "name:ko": "SK렌터카"
+      },
+      "original_logo_url": "https://graph.facebook.com/SKRentacarsns/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skrentacar-1f06f0.png",
+      "local_logo_path": "localbrand/logo/skrentacar-1f06f0.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SKRentacarsns/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skrentacar-1f06f0.png"
+      }
+    },
+    {
+      "displayName": "STARCAR",
+      "id": "starcar-608338",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "STARCAR",
+        "brand:wikidata": "Q123031847",
+        "name": "STARCAR"
+      }
+    },
+    {
+      "displayName": "Thrifty",
+      "id": "thrifty-d9531a",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "thrifty car rental"
+      ],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Thrifty",
+        "brand:wikidata": "Q2429546",
+        "name": "Thrifty"
+      },
+      "original_logo_url": "https://graph.facebook.com/ThriftyCarRental/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thrifty-d9531a.jpg",
+      "local_logo_path": "localbrand/logo/thrifty-d9531a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ThriftyCarRental/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thrifty-d9531a.jpg"
+      }
+    },
+    {
+      "displayName": "U-Save",
+      "id": "usave-c212fd",
+      "locationSet": {
+        "include": [
+          "cr",
+          "do",
+          "jm",
+          "mt",
+          "mx",
+          "nl",
+          "ro",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "U-Save",
+        "brand:wikidata": "Q123005345",
+        "name": "U-Save",
+        "official_name": "U-Save Car & Truck Rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/USaveRental/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/usave-c212fd.jpg",
+      "local_logo_path": "localbrand/logo/usave-c212fd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/USaveRental/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/usave-c212fd.jpg"
+      }
+    },
+    {
+      "displayName": "Ucar",
+      "id": "ucar-8fb45c",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Ucar",
+        "brand:wikidata": "Q128907127",
+        "name": "Ucar"
+      },
+      "original_logo_url": "https://graph.facebook.com/UCAR.location/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ucar-8fb45c.jpg",
+      "local_logo_path": "localbrand/logo/ucar-8fb45c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/UCAR.location/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ucar-8fb45c.jpg"
+      }
+    },
+    {
+      "displayName": "Unidas",
+      "id": "unidas-7721c7",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Unidas",
+        "brand:wikidata": "Q97377626",
+        "name": "Unidas"
+      },
+      "original_logo_url": "https://graph.facebook.com/unidasoficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unidas-7721c7.jpg",
+      "local_logo_path": "localbrand/logo/unidas-7721c7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/unidasoficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unidas-7721c7.jpg"
+      }
+    },
+    {
+      "displayName": "롯데렌터카",
+      "id": "lotterentacar-1f06f0",
+      "locationSet": {
+        "include": [
+          "kr"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "롯데렌터카",
+        "brand:en": "Lotte rent-a-car",
+        "brand:ko": "롯데렌터카",
+        "brand:wikidata": "Q121294865",
+        "name": "롯데렌터카",
+        "name:en": "Lotte rent-a-car",
+        "name:ko": "롯데렌터카"
+      },
+      "original_logo_url": "https://graph.facebook.com/official.lotterental/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lotterentacar-1f06f0.jpg",
+      "local_logo_path": "localbrand/logo/lotterentacar-1f06f0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/official.lotterental/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lotterentacar-1f06f0.jpg"
+      }
+    },
+    {
+      "displayName": "オリックスレンタカー",
+      "id": "orixrentacar-f05847",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "オリックスレンタカー",
+        "brand:en": "ORIX Rent-A-Car",
+        "brand:ja": "オリックスレンタカー",
+        "brand:wikidata": "Q11123021",
+        "name": "オリックスレンタカー",
+        "name:en": "ORIX Rent a Car",
+        "name:ja": "オリックスレンタカー"
+      },
+      "original_logo_url": "https://graph.facebook.com/227957351080226/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orixrentacar-f05847.jpg",
+      "local_logo_path": "localbrand/logo/orixrentacar-f05847.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/227957351080226/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orixrentacar-f05847.jpg"
+      }
+    },
+    {
+      "displayName": "ガッツレンタカー",
+      "id": "gutsrentacar-f05847",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "ガッツレンタカー",
+        "brand:en": "Guts Rent-a-car",
+        "brand:ja": "ガッツレンタカー",
+        "brand:wikidata": "Q30928585",
+        "name": "ガッツレンタカー",
+        "name:en": "Guts Rent-a-car",
+        "name:ja": "ガッツレンタカー"
+      },
+      "original_logo_url": "https://graph.facebook.com/guts.rentacar/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gutsrentacar-f05847.jpg",
+      "local_logo_path": "localbrand/logo/gutsrentacar-f05847.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/guts.rentacar/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gutsrentacar-f05847.jpg"
+      }
+    },
+    {
+      "displayName": "ジャパンレンタカー",
+      "id": "japanrentacar-f05847",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "ジャパンレンタカー",
+        "brand:en": "Japan Rent a Car",
+        "brand:ja": "ジャパンレンタカー",
+        "brand:wikidata": "Q33123382",
+        "name": "ジャパンレンタカー",
+        "name:en": "Japan Rent a Car",
+        "name:ja": "ジャパンレンタカー"
+      }
+    },
+    {
+      "displayName": "トヨタレンタカー",
+      "id": "toyotarentacar-f05847",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "トヨタレンタリース"
+      ],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "トヨタレンタカー",
+        "brand:en": "TOYOTA Rent a Car",
+        "brand:ja": "トヨタレンタカー",
+        "brand:wikidata": "Q11321580",
+        "name": "トヨタレンタカー",
+        "name:en": "Toyota Rent a Car",
+        "name:ja": "トヨタレンタカー"
+      },
+      "original_logo_url": "https://graph.facebook.com/rentacarjapan/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/toyotarentacar-f05847.jpg",
+      "local_logo_path": "localbrand/logo/toyotarentacar-f05847.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rentacarjapan/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/toyotarentacar-f05847.jpg"
+      }
+    },
+    {
+      "displayName": "ニコニコレンタカー",
+      "id": "niconicorentacar-f05847",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "ニコニコレンタカー",
+        "brand:en": "NICONICO RENTACAR",
+        "brand:ja": "ニコニコレンタカー",
+        "brand:wikidata": "Q11324230",
+        "name": "ニコニコレンタカー",
+        "name:en": "Niconico Rentacar",
+        "name:ja": "ニコニコレンタカー"
+      },
+      "original_logo_url": "https://graph.facebook.com/2525rentacar/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/niconicorentacar-f05847.jpg",
+      "local_logo_path": "localbrand/logo/niconicorentacar-f05847.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/2525rentacar/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/niconicorentacar-f05847.jpg"
+      }
+    },
+    {
+      "displayName": "ニッポンレンタカー",
+      "id": "nipponrentacar-f05847",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "ニッポンレンタカー",
+        "brand:en": "NIPPON Rent-A-Car",
+        "brand:ja": "ニッポンレンタカー",
+        "brand:wikidata": "Q11086533",
+        "name": "ニッポンレンタカー",
+        "name:en": "Nippon Rent-A-Car",
+        "name:ja": "ニッポンレンタカー"
+      },
+      "original_logo_url": "https://graph.facebook.com/115494788561573/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nipponrentacar-f05847.png",
+      "local_logo_path": "localbrand/logo/nipponrentacar-f05847.png",
+      "logos": {
+        "original": "https://graph.facebook.com/115494788561573/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nipponrentacar-f05847.png"
+      }
+    },
+    {
+      "displayName": "中租租車",
+      "id": "chailease-9fc5e0",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "中租租車",
+        "brand:en": "Chailease",
+        "brand:wikidata": "Q10921690",
+        "brand:zh": "中租租車",
+        "name": "中租租車",
+        "name:en": "Chailease",
+        "name:zh": "中租租車"
+      },
+      "original_logo_url": "https://graph.facebook.com/easyrentclub/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chailease-9fc5e0.jpg",
+      "local_logo_path": "localbrand/logo/chailease-9fc5e0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/easyrentclub/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chailease-9fc5e0.jpg"
+      }
+    },
+    {
+      "displayName": "和運租車",
+      "id": "hotaileasing-9fc5e0",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "和運租車",
+        "brand:en": "Hotai Leasing",
+        "brand:wikidata": "Q10921690",
+        "brand:zh": "和運租車",
+        "name": "和運租車",
+        "name:en": "Hotai Leasing",
+        "name:zh": "和運租車"
+      },
+      "original_logo_url": "https://graph.facebook.com/easyrentclub/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hotaileasing-9fc5e0.jpg",
+      "local_logo_path": "localbrand/logo/hotaileasing-9fc5e0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/easyrentclub/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hotaileasing-9fc5e0.jpg"
+      }
+    },
+    {
+      "displayName": "小馬租車",
+      "id": "ponyrentacar-9fc5e0",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "小馬租車",
+        "brand:en": "Pony Rent a Car",
+        "brand:wikidata": "Q123891039",
+        "brand:zh": "小馬租車",
+        "name": "小馬租車",
+        "name:en": "Pony Rent a Car",
+        "name:zh": "小馬租車"
+      },
+      "original_logo_url": "https://graph.facebook.com/Ponyrent/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ponyrentacar-9fc5e0.png",
+      "local_logo_path": "localbrand/logo/ponyrentacar-9fc5e0.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Ponyrent/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ponyrentacar-9fc5e0.png"
+      }
+    },
+    {
+      "displayName": "愛旺租車",
+      "id": "iwsrentacar-9fc5e0",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "愛旺租車",
+        "brand:en": "IWS Rent a Car",
+        "brand:wikidata": "Q123893253",
+        "brand:zh": "愛旺租車",
+        "name": "愛旺租車",
+        "name:en": "IWS Rent a Car",
+        "name:zh": "愛旺租車"
+      }
+    },
+    {
+      "displayName": "日産レンタカー",
+      "id": "nissanrentacar-f05847",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "日産レンタカー",
+        "brand:en": "NISSAN RENT A CAR",
+        "brand:ja": "日産レンタカー",
+        "brand:wikidata": "Q11086838",
+        "name": "日産レンタカー",
+        "name:en": "Nissan Rent a Car",
+        "name:ja": "日産レンタカー"
+      },
+      "original_logo_url": "https://graph.facebook.com/231926140196841/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nissanrentacar-f05847.jpg",
+      "local_logo_path": "localbrand/logo/nissanrentacar-f05847.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/231926140196841/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nissanrentacar-f05847.jpg"
+      }
+    },
+    {
+      "displayName": "格上租車",
+      "id": "carplus-9fc5e0",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "格上租車",
+        "brand:en": "CarPlus",
+        "brand:wikidata": "Q11111040",
+        "brand:zh": "格上租車",
+        "name": "格上租車",
+        "name:en": "CarPlus",
+        "name:zh": "格上租車"
+      },
+      "original_logo_url": "https://graph.facebook.com/carplus.tw/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carplus-9fc5e0.jpg",
+      "local_logo_path": "localbrand/logo/carplus-9fc5e0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/carplus.tw/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carplus-9fc5e0.jpg"
+      }
+    },
+    {
+      "displayName": "直航租車",
+      "id": "chihhangcarrental-9fc5e0",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "直航租車",
+        "brand:en": "Chih Hang Car Rental",
+        "brand:wikidata": "Q123900045",
+        "brand:zh": "直航租車",
+        "name": "直航租車",
+        "name:en": "Chih Hang Car Rental",
+        "name:zh": "直航租車"
+      },
+      "original_logo_url": "https://graph.facebook.com/anycarpupu/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chihhangcarrental-9fc5e0.jpg",
+      "local_logo_path": "localbrand/logo/chihhangcarrental-9fc5e0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/anycarpupu/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chihhangcarrental-9fc5e0.jpg"
+      }
+    },
+    {
+      "displayName": "神州租车",
+      "id": "carinc-bc1c71",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "神州租车",
+        "brand:en": "CAR Inc.",
+        "brand:wikidata": "Q18091357",
+        "brand:zh": "神州租车",
+        "name": "神州租车",
+        "name:en": "CAR Inc.",
+        "name:zh": "神州租车"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/%E5%A4%A9%E6%B4%A5%E8%87%AA%E8%B4%B8%E5%8C%BA%E6%9C%BA%E5%9C%BA%E7%89%87%E5%8C%BA%E7%A5%9E%E5%B7%9E%E7%A7%9F%E8%BD%A6%E6%80%BB%E9%83%A8%E5%A4%A7%E6%A5%BC.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carinc-bc1c71.jpg",
+      "local_logo_path": "localbrand/logo/carinc-bc1c71.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/d/db/%E5%A4%A9%E6%B4%A5%E8%87%AA%E8%B4%B8%E5%8C%BA%E6%9C%BA%E5%9C%BA%E7%89%87%E5%8C%BA%E7%A5%9E%E5%B7%9E%E7%A7%9F%E8%BD%A6%E6%80%BB%E9%83%A8%E5%A4%A7%E6%A5%BC.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carinc-bc1c71.jpg"
+      }
+    },
+    {
+      "displayName": "聯邦租車",
+      "id": "unionrentalcar-9fc5e0",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "聯邦租車",
+        "brand:en": "Union Rental Car",
+        "brand:wikidata": "Q123900118",
+        "brand:zh": "聯邦租車",
+        "name": "聯邦租車",
+        "name:en": "Union Rental Car",
+        "name:zh": "聯邦租車"
+      }
+    }
+  ]
+}

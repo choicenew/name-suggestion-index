@@ -1,0 +1,49 @@
+{
+  "properties": {
+    "path": "brands/amenity/mortuary",
+    "exclude": {
+      "generic": [
+        "^(mortuary)$",
+        "^морг$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Icebolethu Funerals",
+      "id": "icebolethufunerals-27942e",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "amenity": "mortuary",
+        "brand": "Icebolethu Funerals",
+        "brand:wikidata": "Q122594408",
+        "name": "Icebolethu Funerals"
+      },
+      "original_logo_url": "https://graph.facebook.com/IcebolethuGroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/icebolethufunerals-27942e.jpg",
+      "local_logo_path": "localbrand/logo/icebolethufunerals-27942e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IcebolethuGroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/icebolethufunerals-27942e.jpg"
+      }
+    },
+    {
+      "displayName": "Vežica",
+      "id": "vezica-223b64",
+      "locationSet": {
+        "include": [
+          "si"
+        ]
+      },
+      "tags": {
+        "amenity": "mortuary",
+        "brand": "Vežica",
+        "name": "Vežica"
+      }
+    }
+  ]
+}

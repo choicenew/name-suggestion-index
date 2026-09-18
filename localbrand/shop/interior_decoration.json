@@ -1,0 +1,795 @@
+{
+  "properties": {
+    "path": "brands/shop/interior_decoration",
+    "exclude": {
+      "generic": [
+        "^interior decoration$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Ambiance & Styles",
+      "id": "ambianceandstyles-c45f99",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "matchNames": [
+        "ambiance styles",
+        "ambiances et styles"
+      ],
+      "tags": {
+        "brand": "Ambiance & Styles",
+        "brand:wikidata": "Q141345963",
+        "name": "Ambiance & Styles",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/ambianceetstyles/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ambianceandstyles-c45f99.jpg",
+      "local_logo_path": "localbrand/logo/ambianceandstyles-c45f99.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ambianceetstyles/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ambianceandstyles-c45f99.jpg"
+      }
+    },
+    {
+      "displayName": "Bouclair",
+      "id": "bouclair-aa1ae6",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Bouclair",
+        "brand:wikidata": "Q20638837",
+        "name": "Bouclair",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bouclair_Home_Latest_Logo.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bouclair-aa1ae6.jpg",
+      "local_logo_path": "localbrand/logo/bouclair-aa1ae6.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bouclair_Home_Latest_Logo.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bouclair-aa1ae6.jpg"
+      }
+    },
+    {
+      "displayName": "Bouclair Home",
+      "id": "bouclairhome-8155e5",
+      "locationSet": {
+        "include": [
+          "ca"
+        ],
+        "exclude": [
+          "ca-qc.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Bouclair",
+        "brand:wikidata": "Q20638837",
+        "name": "Bouclair Home",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bouclair_Home_Latest_Logo.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bouclairhome-8155e5.jpg",
+      "local_logo_path": "localbrand/logo/bouclairhome-8155e5.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bouclair_Home_Latest_Logo.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bouclairhome-8155e5.jpg"
+      }
+    },
+    {
+      "displayName": "Bouclair Maison",
+      "id": "bouclairmaison-531f1a",
+      "locationSet": {
+        "include": [
+          "ca-qc.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Bouclair",
+        "brand:wikidata": "Q20638837",
+        "name": "Bouclair Maison",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bouclair_Home_Latest_Logo.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bouclairmaison-531f1a.jpg",
+      "local_logo_path": "localbrand/logo/bouclairmaison-531f1a.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bouclair_Home_Latest_Logo.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bouclairmaison-531f1a.jpg"
+      }
+    },
+    {
+      "displayName": "Butlers",
+      "id": "butlers-85b078",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de",
+          "es",
+          "gb",
+          "hu",
+          "lu",
+          "mt",
+          "ua"
+        ]
+      },
+      "tags": {
+        "brand": "Butlers",
+        "brand:wikidata": "Q1017972",
+        "name": "Butlers",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/butlers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/butlers-85b078.jpg",
+      "local_logo_path": "localbrand/logo/butlers-85b078.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/butlers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/butlers-85b078.jpg"
+      }
+    },
+    {
+      "displayName": "CASA",
+      "id": "casa-48e009",
+      "locationSet": {
+        "include": [
+          "be",
+          "ch",
+          "es",
+          "fx",
+          "it",
+          "lu",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "CASA",
+        "brand:wikidata": "Q1991755",
+        "name": "CASA",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/casashops.fr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/casa-48e009.jpg",
+      "local_logo_path": "localbrand/logo/casa-48e009.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/casashops.fr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/casa-48e009.jpg"
+      }
+    },
+    {
+      "displayName": "Centrakor",
+      "id": "centrakor-c45f99",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "matchTags": [
+        "shop/variety_store"
+      ],
+      "tags": {
+        "brand": "Centrakor",
+        "brand:wikidata": "Q64079345",
+        "name": "Centrakor",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/Centrakor/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/centrakor-c45f99.jpg",
+      "local_logo_path": "localbrand/logo/centrakor-c45f99.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Centrakor/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/centrakor-c45f99.jpg"
+      }
+    },
+    {
+      "displayName": "Coincasa",
+      "id": "coincasa-368f99",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "matchTags": [
+        "shop/furniture"
+      ],
+      "tags": {
+        "brand": "Coin",
+        "brand:wikidata": "Q1107215",
+        "name": "Coincasa",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/coinstore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coincasa-368f99.jpg",
+      "local_logo_path": "localbrand/logo/coincasa-368f99.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/coinstore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coincasa-368f99.jpg"
+      }
+    },
+    {
+      "displayName": "Decokay",
+      "id": "decokay-b0e1d1",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Decokay",
+        "brand:wikidata": "Q134972480",
+        "name": "Decokay",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/Decokay/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/decokay-b0e1d1.jpg",
+      "local_logo_path": "localbrand/logo/decokay-b0e1d1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Decokay/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/decokay-b0e1d1.jpg"
+      }
+    },
+    {
+      "displayName": "Demmoksi",
+      "id": "demmoksi-9e51b3",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Demmoksi",
+        "name": "Demmoksi",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Depot",
+      "id": "depot-5f264c",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Depot",
+        "brand:wikidata": "Q1191740",
+        "name": "Depot",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/DEPOTonline/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/depot-5f264c.jpg",
+      "local_logo_path": "localbrand/logo/depot-5f264c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DEPOTonline/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/depot-5f264c.jpg"
+      }
+    },
+    {
+      "displayName": "Dunelm",
+      "id": "dunelm-839895",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "dunelm mill"
+      ],
+      "tags": {
+        "brand": "Dunelm",
+        "brand:wikidata": "Q5315020",
+        "name": "Dunelm",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/DunelmUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dunelm-839895.jpg",
+      "local_logo_path": "localbrand/logo/dunelm-839895.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DunelmUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dunelm-839895.jpg"
+      }
+    },
+    {
+      "displayName": "English Home",
+      "id": "englishhome-1ef949",
+      "locationSet": {
+        "include": [
+          "ba",
+          "bg",
+          "ch",
+          "kw",
+          "ro",
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "English Home",
+        "brand:wikidata": "Q106803513",
+        "name": "English Home",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/EnglishHome/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/englishhome-1ef949.jpg",
+      "local_logo_path": "localbrand/logo/englishhome-1ef949.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EnglishHome/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/englishhome-1ef949.jpg"
+      }
+    },
+    {
+      "displayName": "Feel",
+      "id": "feel-d55252",
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "tags": {
+        "brand": "Feel",
+        "brand:wikidata": "Q127920019",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/feelnorge/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/feel-d55252.jpg",
+      "local_logo_path": "localbrand/logo/feel-d55252.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/feelnorge/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/feel-d55252.jpg"
+      }
+    },
+    {
+      "displayName": "Fired Earth",
+      "id": "firedearth-839895",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchTags": [
+        "shop/bathroom_furnishing",
+        "shop/tiles"
+      ],
+      "tags": {
+        "brand": "Fired Earth",
+        "brand:wikidata": "Q20594569",
+        "name": "Fired Earth",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/FiredEarth/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/firedearth-839895.jpg",
+      "local_logo_path": "localbrand/logo/firedearth-839895.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FiredEarth/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/firedearth-839895.jpg"
+      }
+    },
+    {
+      "displayName": "Gato Preto",
+      "id": "gatopreto-22474f",
+      "locationSet": {
+        "include": [
+          "es",
+          "fx",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "Gato Preto",
+        "brand:wikidata": "Q112673244",
+        "name": "Gato Preto",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/gatopretolivingspaces/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gatopreto-22474f.jpg",
+      "local_logo_path": "localbrand/logo/gatopreto-22474f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/gatopretolivingspaces/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gatopreto-22474f.jpg"
+      }
+    },
+    {
+      "displayName": "Granit",
+      "id": "granit-bf4f5c",
+      "locationSet": {
+        "include": [
+          "de",
+          "fi",
+          "no",
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Granit",
+        "brand:wikidata": "Q131904693",
+        "name": "Granit",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/Granitdeutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/granit-bf4f5c.jpg",
+      "local_logo_path": "localbrand/logo/granit-bf4f5c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Granitdeutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/granit-bf4f5c.jpg"
+      }
+    },
+    {
+      "displayName": "H&M HOME",
+      "id": "handmhome-0f41f2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/furniture"
+      ],
+      "tags": {
+        "brand": "H&M HOME",
+        "brand:wikidata": "Q110226474",
+        "name": "H&M HOME",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/HmHomeOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/handmhome-0f41f2.jpg",
+      "local_logo_path": "localbrand/logo/handmhome-0f41f2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HmHomeOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/handmhome-0f41f2.jpg"
+      }
+    },
+    {
+      "displayName": "Harry Corry",
+      "id": "harrycorry-567cc8",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "Harry Corry",
+        "brand:wikidata": "Q5668069",
+        "name": "Harry Corry",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/harrycorryltd/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harrycorry-567cc8.jpg",
+      "local_logo_path": "localbrand/logo/harrycorry-567cc8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/harrycorryltd/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harrycorry-567cc8.jpg"
+      }
+    },
+    {
+      "displayName": "HAY",
+      "id": "hay-0f41f2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "HAY",
+        "brand:wikidata": "Q124332948",
+        "name": "HAY",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/hay.nl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hay-0f41f2.jpg",
+      "local_logo_path": "localbrand/logo/hay-0f41f2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hay.nl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hay-0f41f2.jpg"
+      }
+    },
+    {
+      "displayName": "Hemtex",
+      "id": "hemtex-056dae",
+      "locationSet": {
+        "include": [
+          "ee",
+          "fi",
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Hemtex",
+        "brand:wikidata": "Q10521868",
+        "name": "Hemtex",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/hemtex/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hemtex-056dae.jpg",
+      "local_logo_path": "localbrand/logo/hemtex-056dae.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hemtex/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hemtex-056dae.jpg"
+      }
+    },
+    {
+      "displayName": "home&you",
+      "id": "homeandyou-e9ee18",
+      "locationSet": {
+        "include": [
+          "cz",
+          "pl",
+          "sk"
+        ]
+      },
+      "matchTags": [
+        "shop/furniture"
+      ],
+      "tags": {
+        "brand": "home&you",
+        "brand:wikidata": "Q116884264",
+        "name": "home&you",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/homeandyouofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/homeandyou-e9ee18.jpg",
+      "local_logo_path": "localbrand/logo/homeandyou-e9ee18.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/homeandyouofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/homeandyou-e9ee18.jpg"
+      }
+    },
+    {
+      "displayName": "HomeSense",
+      "id": "homesense-d842e9",
+      "locationSet": {
+        "include": [
+          "ca",
+          "gb",
+          "ie",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store",
+        "shop/furniture"
+      ],
+      "tags": {
+        "brand": "HomeSense",
+        "brand:wikidata": "Q16844433",
+        "name": "HomeSense",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/HomeSenseCanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/homesense-d842e9.jpg",
+      "local_logo_path": "localbrand/logo/homesense-d842e9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HomeSenseCanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/homesense-d842e9.jpg"
+      }
+    },
+    {
+      "displayName": "Iittala",
+      "id": "iittala-a7e00a",
+      "locationSet": {
+        "include": [
+          "be",
+          "de",
+          "fi",
+          "nl",
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Iittala",
+        "brand:wikidata": "Q1658018",
+        "name": "Iittala",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/Iittala/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iittala-a7e00a.jpg",
+      "local_logo_path": "localbrand/logo/iittala-a7e00a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Iittala/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iittala-a7e00a.jpg"
+      }
+    },
+    {
+      "displayName": "Kid interiør",
+      "id": "kidinterior-d55252",
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "matchTags": [
+        "shop/household_linen"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Kid interiør",
+        "brand:wikidata": "Q109628199",
+        "name": "Kid interiør",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/kid/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kidinterior-d55252.png",
+      "local_logo_path": "localbrand/logo/kidinterior-d55252.png",
+      "logos": {
+        "original": "https://graph.facebook.com/kid/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kidinterior-d55252.png"
+      }
+    },
+    {
+      "displayName": "Kirkland's",
+      "id": "kirklands-18147c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "kirklands home"
+      ],
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "Kirkland's",
+        "brand:wikidata": "Q6415714",
+        "name": "Kirkland's",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/Kirklands/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kirklands-18147c.jpg",
+      "local_logo_path": "localbrand/logo/kirklands-18147c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Kirklands/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kirklands-18147c.jpg"
+      }
+    },
+    {
+      "displayName": "Kremmerhuset",
+      "id": "kremmerhuset-d55252",
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "tags": {
+        "brand": "Kremmerhuset",
+        "brand:wikidata": "Q127921048",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Madura",
+      "id": "madura-1550f8",
+      "locationSet": {
+        "include": [
+          "be",
+          "fx",
+          "lu",
+          "tn"
+        ]
+      },
+      "matchTags": [
+        "shop/curtain",
+        "shop/furniture"
+      ],
+      "tags": {
+        "brand": "Madura",
+        "brand:wikidata": "Q3276259",
+        "name": "Madura",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/madura/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/madura-1550f8.jpg",
+      "local_logo_path": "localbrand/logo/madura-1550f8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/madura/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/madura-1550f8.jpg"
+      }
+    },
+    {
+      "displayName": "Søstrene Grene",
+      "id": "sostrenegrene-0f41f2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Søstrene Grene",
+        "brand:wikidata": "Q10730152",
+        "name": "Søstrene Grene",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Ten Thousand Villages",
+      "id": "tenthousandvillages-10e33c",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "10 thousand villages",
+        "10,000 villages"
+      ],
+      "matchTags": [
+        "shop/boutique",
+        "shop/gift"
+      ],
+      "tags": {
+        "brand": "Ten Thousand Villages",
+        "brand:wikidata": "Q2403252",
+        "fair_trade": "only",
+        "name": "Ten Thousand Villages",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "World Market",
+      "id": "worldmarket-18147c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "cost plus"
+      ],
+      "matchTags": [
+        "shop/department_store",
+        "shop/furniture",
+        "shop/supermarket"
+      ],
+      "tags": {
+        "brand": "World Market",
+        "brand:wikidata": "Q5174750",
+        "name": "World Market",
+        "official_name": "Cost Plus World Market",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/worldmarket/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/worldmarket-18147c.jpg",
+      "local_logo_path": "localbrand/logo/worldmarket-18147c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/worldmarket/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/worldmarket-18147c.jpg"
+      }
+    },
+    {
+      "displayName": "Zara Home",
+      "id": "zarahome-0f41f2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store",
+        "shop/furniture"
+      ],
+      "tags": {
+        "brand": "Zara Home",
+        "brand:wikidata": "Q3114054",
+        "name": "Zara Home",
+        "shop": "interior_decoration"
+      },
+      "original_logo_url": "https://graph.facebook.com/zarahome/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zarahome-0f41f2.jpg",
+      "local_logo_path": "localbrand/logo/zarahome-0f41f2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/zarahome/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zarahome-0f41f2.jpg"
+      }
+    }
+  ]
+}

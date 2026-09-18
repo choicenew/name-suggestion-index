@@ -1,0 +1,321 @@
+{
+  "properties": {
+    "path": "brands/shop/funeral_directors",
+    "exclude": {
+      "generic": [
+        "^(funeral directors?|funeraria|tanatorio|ритуальні послуги)$",
+        "^памятники$",
+        "^ритуал(ьные услуги)?$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Amathole Funerals",
+      "id": "amatholefunerals-c8108b",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Amathole Funerals",
+        "brand:wikidata": "Q122593900",
+        "name": "Amathole Funerals",
+        "shop": "funeral_directors"
+      },
+      "original_logo_url": "https://graph.facebook.com/amatholefuneralsSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amatholefunerals-c8108b.jpg",
+      "local_logo_path": "localbrand/logo/amatholefunerals-c8108b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/amatholefuneralsSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amatholefunerals-c8108b.jpg"
+      }
+    },
+    {
+      "displayName": "Antea Bestattungen",
+      "id": "anteabestattungen-e9affe",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Antea Bestattungen",
+        "name": "Antea Bestattungen",
+        "shop": "funeral_directors"
+      }
+    },
+    {
+      "displayName": "Dignity",
+      "id": "dignity-e90732",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "dignity funerals",
+        "dignity plc"
+      ],
+      "matchTags": [
+        "office/company"
+      ],
+      "tags": {
+        "brand": "Dignity",
+        "brand:wikidata": "Q5276343",
+        "shop": "funeral_directors"
+      },
+      "original_logo_url": "https://graph.facebook.com/DignityFuneralsUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dignity-e90732.jpg",
+      "local_logo_path": "localbrand/logo/dignity-e90732.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DignityFuneralsUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dignity-e90732.jpg"
+      }
+    },
+    {
+      "displayName": "Grieneisen Bestattungen",
+      "id": "grieneisenbestattungen-e9affe",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Grieneisen Bestattungen",
+        "name": "Grieneisen Bestattungen",
+        "shop": "funeral_directors"
+      }
+    },
+    {
+      "displayName": "Großhamburger Bestattungsinstitut",
+      "id": "grosshamburgerbestattungsinstitut-e9affe",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Großhamburger Bestattungsinstitut",
+        "brand:wikidata": "Q30988432",
+        "name": "Großhamburger Bestattungsinstitut",
+        "shop": "funeral_directors",
+        "short_name": "GBI"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/GBI_logo.gif",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grosshamburgerbestattungsinstitut-e9affe.png",
+      "local_logo_path": "localbrand/logo/grosshamburgerbestattungsinstitut-e9affe.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/c/c7/GBI_logo.gif",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grosshamburgerbestattungsinstitut-e9affe.png"
+      }
+    },
+    {
+      "displayName": "Icebolethu Funerals",
+      "id": "icebolethufunerals-c8108b",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Icebolethu Funerals",
+        "brand:wikidata": "Q122594408",
+        "name": "Icebolethu Funerals",
+        "shop": "funeral_directors"
+      },
+      "original_logo_url": "https://graph.facebook.com/IcebolethuGroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/icebolethufunerals-c8108b.jpg",
+      "local_logo_path": "localbrand/logo/icebolethufunerals-c8108b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IcebolethuGroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/icebolethufunerals-c8108b.jpg"
+      }
+    },
+    {
+      "displayName": "PFG",
+      "id": "pfg-d4c5bf",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "PFG",
+        "brand:wikidata": "Q3396087",
+        "name": "PFG",
+        "official_name": "Pompes Funèbres Générales",
+        "shop": "funeral_directors"
+      }
+    },
+    {
+      "displayName": "Roblot",
+      "id": "roblot-d4c5bf",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Roblot",
+        "brand:wikidata": "Q63247414",
+        "name": "Roblot",
+        "shop": "funeral_directors"
+      },
+      "original_logo_url": "https://graph.facebook.com/522928887844420/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roblot-d4c5bf.png",
+      "local_logo_path": "localbrand/logo/roblot-d4c5bf.png",
+      "logos": {
+        "original": "https://graph.facebook.com/522928887844420/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roblot-d4c5bf.png"
+      }
+    },
+    {
+      "displayName": "Roc-Eclerc",
+      "id": "roceclerc-259041",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Roc-Eclerc",
+        "brand:wikidata": "Q62558102",
+        "name": "Roc-Eclerc",
+        "shop": "funeral_directors"
+      },
+      "original_logo_url": "https://graph.facebook.com/grouperoceclerc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roceclerc-259041.jpg",
+      "local_logo_path": "localbrand/logo/roceclerc-259041.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/grouperoceclerc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roceclerc-259041.jpg"
+      }
+    },
+    {
+      "displayName": "The Co-operative Funeralcare",
+      "id": "thecooperativefuneralcare-e90732",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "co-op funeralcare",
+        "the co-operative group"
+      ],
+      "matchTags": [
+        "office/company"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "The Co-operative Funeralcare",
+        "brand:wikidata": "Q7726521",
+        "name": "The Co-operative Funeralcare",
+        "shop": "funeral_directors"
+      },
+      "original_logo_url": "https://graph.facebook.com/coopfuneralcare/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thecooperativefuneralcare-e90732.png",
+      "local_logo_path": "localbrand/logo/thecooperativefuneralcare-e90732.png",
+      "logos": {
+        "original": "https://graph.facebook.com/coopfuneralcare/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thecooperativefuneralcare-e90732.png"
+      }
+    },
+    {
+      "displayName": "Trauerhilfe Denk",
+      "id": "trauerhilfedenk-e9affe",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Trauerhilfe Denk",
+        "name": "Trauerhilfe Denk",
+        "shop": "funeral_directors"
+      }
+    },
+    {
+      "displayName": "セレマ",
+      "id": "cerema-224737",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "セレマ",
+        "brand:en": "Cerema",
+        "brand:ja": "セレマ",
+        "brand:wikidata": "Q65240269",
+        "name": "セレマ",
+        "name:en": "Cerema",
+        "name:ja": "セレマ",
+        "shop": "funeral_directors"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/%E3%82%BB%E3%83%AC%E3%83%9E%E3%83%AD%E3%82%B4.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cerema-224737.png",
+      "local_logo_path": "localbrand/logo/cerema-224737.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/ad/%E3%82%BB%E3%83%AC%E3%83%9E%E3%83%AD%E3%82%B4.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cerema-224737.png"
+      }
+    },
+    {
+      "displayName": "ティア",
+      "id": "tear-224737",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ティア",
+        "brand:en": "Tear",
+        "brand:ja": "ティア",
+        "brand:wikidata": "Q11318901",
+        "name": "ティア",
+        "name:en": "Tear",
+        "name:ja": "ティア",
+        "shop": "funeral_directors"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Tear_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tear-224737.svg",
+      "local_logo_path": "localbrand/logo/tear-224737.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Tear_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tear-224737.svg"
+      }
+    },
+    {
+      "displayName": "公益社",
+      "id": "koekisha-224737",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "公益社",
+        "brand:en": "Koekisha",
+        "brand:ja": "公益社",
+        "brand:wikidata": "Q93128848",
+        "name": "公益社",
+        "name:en": "Koekisha",
+        "name:ja": "公益社",
+        "shop": "funeral_directors"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Koekisha_text_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/koekisha-224737.svg",
+      "local_logo_path": "localbrand/logo/koekisha-224737.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Koekisha_text_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/koekisha-224737.svg"
+      }
+    }
+  ]
+}

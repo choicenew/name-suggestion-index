@@ -1,0 +1,662 @@
+{
+  "properties": {
+    "path": "brands/shop/baby_goods",
+    "exclude": {
+      "generic": [
+        "^baby goods$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Aubert",
+      "id": "aubert-e62f20",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "matchTags": [
+        "shop/clothes"
+      ],
+      "tags": {
+        "brand": "Aubert",
+        "brand:wikidata": "Q62964657",
+        "name": "Aubert",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/Aubert/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aubert-e62f20.jpg",
+      "local_logo_path": "localbrand/logo/aubert-e62f20.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Aubert/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aubert-e62f20.jpg"
+      }
+    },
+    {
+      "displayName": "Autour de Bébé",
+      "id": "autourdebebe-e7ec7f",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "matchTags": [
+        "shop/clothes"
+      ],
+      "tags": {
+        "brand": "Autour de Bébé",
+        "brand:wikidata": "Q117842411",
+        "name": "Autour de Bébé",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/autourdebebe.fr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autourdebebe-e7ec7f.jpg",
+      "local_logo_path": "localbrand/logo/autourdebebe-e7ec7f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/autourdebebe.fr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autourdebebe-e7ec7f.jpg"
+      }
+    },
+    {
+      "displayName": "Babies R Us (Canada)",
+      "id": "babiesrus-caece2",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Babies R Us",
+        "brand:wikidata": "Q17232036",
+        "name": "Babies R Us",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/babiesrus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/babiesrus-caece2.jpg",
+      "local_logo_path": "localbrand/logo/babiesrus-caece2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/babiesrus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/babiesrus-caece2.jpg"
+      }
+    },
+    {
+      "displayName": "Babies R Us (Southern Africa)",
+      "id": "babiesrus-005aaa",
+      "locationSet": {
+        "include": [
+          "bw",
+          "na",
+          "za",
+          "zm"
+        ]
+      },
+      "tags": {
+        "brand": "Babies R Us",
+        "brand:wikidata": "Q130461555",
+        "name": "Babies R Us",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/BabiesRUs.SouthAfrica/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/babiesrus-005aaa.jpg",
+      "local_logo_path": "localbrand/logo/babiesrus-005aaa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BabiesRUs.SouthAfrica/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/babiesrus-005aaa.jpg"
+      }
+    },
+    {
+      "displayName": "Baby Bunting",
+      "id": "babybunting-124709",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Baby Bunting",
+        "brand:wikidata": "Q109626935",
+        "name": "Baby Bunting",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/BabyBuntingAus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/babybunting-124709.jpg",
+      "local_logo_path": "localbrand/logo/babybunting-124709.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BabyBuntingAus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/babybunting-124709.jpg"
+      }
+    },
+    {
+      "displayName": "Baby City",
+      "id": "babycity-27991d",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Baby City",
+        "brand:wikidata": "Q116732888",
+        "name": "Baby City",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/BabyCity.SouthAfrica/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/babycity-27991d.jpg",
+      "local_logo_path": "localbrand/logo/babycity-27991d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BabyCity.SouthAfrica/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/babycity-27991d.jpg"
+      }
+    },
+    {
+      "displayName": "baby-walz",
+      "id": "babywalz-162756",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "baby-walz",
+        "brand:wikidata": "Q108004413",
+        "name": "baby-walz",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/babywalz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/babywalz-162756.png",
+      "local_logo_path": "localbrand/logo/babywalz-162756.png",
+      "logos": {
+        "original": "https://graph.facebook.com/babywalz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/babywalz-162756.png"
+      }
+    },
+    {
+      "displayName": "BabyOne",
+      "id": "babyone-162756",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "BabyOne",
+        "brand:wikidata": "Q57540408",
+        "name": "BabyOne",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/BabyOne/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/babyone-162756.jpg",
+      "local_logo_path": "localbrand/logo/babyone-162756.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BabyOne/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/babyone-162756.jpg"
+      }
+    },
+    {
+      "displayName": "Bébé 9",
+      "id": "bebe9-e7ec7f",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Bébé 9",
+        "name": "Bébé 9",
+        "shop": "baby_goods"
+      }
+    },
+    {
+      "displayName": "Buy Buy Baby",
+      "id": "buybuybaby-a2ffc9",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Buy Buy Baby",
+        "brand:wikidata": "Q5003352",
+        "name": "Buy Buy Baby",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/buybuyBABY/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buybuybaby-a2ffc9.jpg",
+      "local_logo_path": "localbrand/logo/buybuybaby-a2ffc9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/buybuyBABY/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buybuybaby-a2ffc9.jpg"
+      }
+    },
+    {
+      "displayName": "Chicco",
+      "id": "chicco-0b3f29",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Chicco",
+        "brand:wikidata": "Q27897515",
+        "name": "Chicco",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/ChiccoUSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chicco-0b3f29.jpg",
+      "local_logo_path": "localbrand/logo/chicco-0b3f29.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ChiccoUSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chicco-0b3f29.jpg"
+      }
+    },
+    {
+      "displayName": "Dreambaby",
+      "id": "dreambaby-c0a64f",
+      "locationSet": {
+        "include": [
+          "be"
+        ]
+      },
+      "tags": {
+        "brand": "Dreambaby",
+        "brand:wikidata": "Q116460054",
+        "name": "Dreambaby",
+        "shop": "baby_goods"
+      }
+    },
+    {
+      "displayName": "ebebek",
+      "id": "ebebek-ec78ad",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "ebebek",
+        "brand:wikidata": "Q106803057",
+        "name": "ebebek",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/ebebek/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ebebek-ec78ad.jpg",
+      "local_logo_path": "localbrand/logo/ebebek-ec78ad.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ebebek/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ebebek-ec78ad.jpg"
+      }
+    },
+    {
+      "displayName": "Mamas & Papas",
+      "id": "mamasandpapas-9c51ce",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchTags": [
+        "shop/clothes"
+      ],
+      "tags": {
+        "brand": "Mamas & Papas",
+        "brand:wikidata": "Q6745447",
+        "name": "Mamas & Papas",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/mamasandpapasuk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mamasandpapas-9c51ce.jpg",
+      "local_logo_path": "localbrand/logo/mamasandpapas-9c51ce.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mamasandpapasuk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mamasandpapas-9c51ce.jpg"
+      }
+    },
+    {
+      "displayName": "Mothercare",
+      "id": "mothercare-0b3f29",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/clothes"
+      ],
+      "tags": {
+        "brand": "Mothercare",
+        "brand:wikidata": "Q136738",
+        "name": "Mothercare",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/mothercareuk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mothercare-0b3f29.jpg",
+      "local_logo_path": "localbrand/logo/mothercare-0b3f29.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mothercareuk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mothercare-0b3f29.jpg"
+      }
+    },
+    {
+      "displayName": "Natalys",
+      "id": "natalys-e62f20",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "matchTags": [
+        "shop/clothes"
+      ],
+      "tags": {
+        "brand": "Natalys",
+        "brand:wikidata": "Q3336439",
+        "name": "Natalys",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_natalys.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/natalys-e62f20.svg",
+      "local_logo_path": "localbrand/logo/natalys-e62f20.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_natalys.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/natalys-e62f20.svg"
+      }
+    },
+    {
+      "displayName": "Prénatal",
+      "id": "prenatal-5eb52b",
+      "locationSet": {
+        "include": [
+          "es",
+          "fr",
+          "gr",
+          "it",
+          "nl",
+          "pt"
+        ]
+      },
+      "matchTags": [
+        "shop/clothes"
+      ],
+      "tags": {
+        "brand": "Prénatal",
+        "brand:wikidata": "Q105961413",
+        "name": "Prénatal",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/prenatalitalia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prenatal-5eb52b.jpg",
+      "local_logo_path": "localbrand/logo/prenatal-5eb52b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/prenatalitalia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prenatal-5eb52b.jpg"
+      }
+    },
+    {
+      "displayName": "Shilav",
+      "id": "shilav-e06f21",
+      "locationSet": {
+        "include": [
+          "il"
+        ]
+      },
+      "tags": {
+        "brand": "Shilav",
+        "brand:wikidata": "Q7496633",
+        "name": "שילב",
+        "name:en": "Shilav",
+        "name:he": "שילב",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/shilav.baby/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shilav-e06f21.jpg",
+      "local_logo_path": "localbrand/logo/shilav-e06f21.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/shilav.baby/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shilav-e06f21.jpg"
+      }
+    },
+    {
+      "displayName": "Suavinex",
+      "id": "suavinex-a2e0f6",
+      "locationSet": {
+        "include": [
+          "ae",
+          "al",
+          "ao",
+          "au",
+          "be",
+          "ch",
+          "cl",
+          "cn",
+          "co",
+          "cr",
+          "cy",
+          "cz",
+          "do",
+          "dz",
+          "ec",
+          "es",
+          "fr",
+          "ge",
+          "gq",
+          "gr",
+          "il",
+          "iq",
+          "ir",
+          "it",
+          "kr",
+          "lb",
+          "lu",
+          "me",
+          "mt",
+          "mx",
+          "my",
+          "nl",
+          "no",
+          "pa",
+          "pl",
+          "pt",
+          "ro",
+          "rs",
+          "sa",
+          "sg",
+          "sk",
+          "tr",
+          "uy",
+          "vn"
+        ]
+      },
+      "tags": {
+        "brand": "Suavinex",
+        "brand:wikidata": "Q122258837",
+        "name": "Suavinex",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/SuavinexSpain/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suavinex-a2e0f6.png",
+      "local_logo_path": "localbrand/logo/suavinex-a2e0f6.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SuavinexSpain/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suavinex-a2e0f6.png"
+      }
+    },
+    {
+      "displayName": "The Baby Factory",
+      "id": "thebabyfactory-42c98b",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "matchNames": [
+        "baby factory"
+      ],
+      "tags": {
+        "brand": "The Baby Factory",
+        "brand:wikidata": "Q110298660",
+        "name": "The Baby Factory",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/thebabyfactorynz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thebabyfactory-42c98b.jpg",
+      "local_logo_path": "localbrand/logo/thebabyfactory-42c98b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/thebabyfactorynz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thebabyfactory-42c98b.jpg"
+      }
+    },
+    {
+      "displayName": "Zippy",
+      "id": "zippy-e93d5f",
+      "locationSet": {
+        "include": [
+          "es",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "Zippy",
+        "brand:wikidata": "Q10395161",
+        "name": "Zippy",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/zykidstore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zippy-e93d5f.jpg",
+      "local_logo_path": "localbrand/logo/zippy-e93d5f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/zykidstore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zippy-e93d5f.jpg"
+      }
+    },
+    {
+      "displayName": "Детки",
+      "id": "d8a277-94eb10",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Детки",
+        "brand:wikidata": "Q110290787",
+        "name": "Детки",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/detkishopcom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/d8a277-94eb10.jpg",
+      "local_logo_path": "localbrand/logo/d8a277-94eb10.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/detkishopcom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/d8a277-94eb10.jpg"
+      }
+    },
+    {
+      "displayName": "Детский мир",
+      "id": "detskiymir-7b1c28",
+      "locationSet": {
+        "include": [
+          "by",
+          "kz",
+          "ru"
+        ]
+      },
+      "matchTags": [
+        "shop/clothes",
+        "shop/toys"
+      ],
+      "tags": {
+        "brand": "Детский мир",
+        "brand:en": "Detskiy Mir",
+        "brand:ru": "Детский мир",
+        "brand:wikidata": "Q16643324",
+        "name": "Детский мир",
+        "name:en": "Detskiy Mir",
+        "name:ru": "Детский мир",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/detmir/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/detskiymir-7b1c28.jpg",
+      "local_logo_path": "localbrand/logo/detskiymir-7b1c28.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/detmir/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/detskiymir-7b1c28.jpg"
+      }
+    },
+    {
+      "displayName": "Дочки-сыночки",
+      "id": "462766-2eddbc",
+      "locationSet": {
+        "include": [
+          "by",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Дочки-сыночки",
+        "brand:wikidata": "Q110290698",
+        "name": "Дочки-сыночки",
+        "shop": "baby_goods"
+      }
+    },
+    {
+      "displayName": "アカチャンホンポ",
+      "id": "akachanhonpo-60a866",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "alt_name": "赤ちゃん本舗",
+        "brand": "アカチャンホンポ",
+        "brand:en": "Akachan Honpo",
+        "brand:ja": "アカチャンホンポ",
+        "brand:wikidata": "Q11257015",
+        "name": "アカチャンホンポ",
+        "name:en": "Akachan Honpo",
+        "name:ja": "アカチャンホンポ",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/akachanhonpo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/akachanhonpo-60a866.jpg",
+      "local_logo_path": "localbrand/logo/akachanhonpo-60a866.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/akachanhonpo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/akachanhonpo-60a866.jpg"
+      }
+    },
+    {
+      "displayName": "西松屋",
+      "id": "nishimatsuya-60a866",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchTags": [
+        "shop/clothes"
+      ],
+      "tags": {
+        "brand": "西松屋",
+        "brand:en": "Nishimatsuya",
+        "brand:ja": "西松屋",
+        "brand:wikidata": "Q11628761",
+        "name": "西松屋",
+        "name:en": "Nishimatsuya",
+        "name:ja": "西松屋",
+        "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/nishimatsuya.official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nishimatsuya-60a866.jpg",
+      "local_logo_path": "localbrand/logo/nishimatsuya-60a866.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/nishimatsuya.official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nishimatsuya-60a866.jpg"
+      }
+    }
+  ]
+}

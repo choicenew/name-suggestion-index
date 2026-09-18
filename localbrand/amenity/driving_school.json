@@ -1,0 +1,101 @@
+{
+  "properties": {
+    "path": "brands/amenity/driving_school",
+    "exclude": {
+      "generic": [
+        "^driving school$",
+        "^автодром$",
+        "^автошкола$"
+      ],
+      "named": [
+        "^автошкола досааф$",
+        "^досааф$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "École de Conduite Française",
+      "id": "ecf-7fb17b",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "amenity": "driving_school",
+        "brand": "ECF",
+        "brand:wikidata": "Q114870266",
+        "name": "ECF"
+      },
+      "original_logo_url": "https://graph.facebook.com/groupe.ecf/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecf-7fb17b.png",
+      "local_logo_path": "localbrand/logo/ecf-7fb17b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/groupe.ecf/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecf-7fb17b.png"
+      }
+    },
+    {
+      "displayName": "Galadari",
+      "id": "galadari-aa822b",
+      "locationSet": {
+        "include": [
+          "ae"
+        ]
+      },
+      "tags": {
+        "amenity": "driving_school",
+        "brand": "Galadari",
+        "name": "Galadari"
+      }
+    },
+    {
+      "displayName": "Pointcode",
+      "id": "pointcode-50cd0e",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "amenity": "driving_school",
+        "brand": "Pointcode",
+        "brand:wikidata": "Q126912107",
+        "name": "Pointcode"
+      },
+      "original_logo_url": "https://graph.facebook.com/pointcodefr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pointcode-50cd0e.jpg",
+      "local_logo_path": "localbrand/logo/pointcode-50cd0e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pointcodefr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pointcode-50cd0e.jpg"
+      }
+    },
+    {
+      "displayName": "Young Drivers of Canada",
+      "id": "youngdriversofcanada-b5a395",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "young drivers"
+      ],
+      "tags": {
+        "amenity": "driving_school",
+        "brand": "Young Drivers of Canada",
+        "brand:wikidata": "Q28163093",
+        "name": "Young Drivers of Canada"
+      },
+      "original_logo_url": "https://graph.facebook.com/youngdriversofcanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/youngdriversofcanada-b5a395.jpg",
+      "local_logo_path": "localbrand/logo/youngdriversofcanada-b5a395.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/youngdriversofcanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/youngdriversofcanada-b5a395.jpg"
+      }
+    }
+  ]
+}

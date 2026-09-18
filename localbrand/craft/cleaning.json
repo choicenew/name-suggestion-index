@@ -1,0 +1,185 @@
+{
+  "properties": {
+    "path": "brands/craft/cleaning",
+    "exclude": {
+      "generic": [
+        "^cleaning$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Merry Maids",
+      "id": "merrymaids-7432ef",
+      "locationSet": {
+        "include": [
+          "ca",
+          "gb",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Merry Maids",
+        "brand:wikidata": "Q6820461",
+        "craft": "cleaning",
+        "name": "Merry Maids"
+      },
+      "original_logo_url": "https://graph.facebook.com/MerryMaids/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/merrymaids-7432ef.png",
+      "local_logo_path": "localbrand/logo/merrymaids-7432ef.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MerryMaids/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/merrymaids-7432ef.png"
+      }
+    },
+    {
+      "displayName": "Molly Maid",
+      "id": "mollymaid-90fa14",
+      "locationSet": {
+        "include": [
+          "ca",
+          "gb",
+          "jp",
+          "pt",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Molly Maid",
+        "brand:wikidata": "Q6896624",
+        "craft": "cleaning",
+        "name": "Molly Maid"
+      },
+      "original_logo_url": "https://graph.facebook.com/MollyMaid/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mollymaid-90fa14.jpg",
+      "local_logo_path": "localbrand/logo/mollymaid-90fa14.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MollyMaid/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mollymaid-90fa14.jpg"
+      }
+    },
+    {
+      "displayName": "Onet",
+      "id": "onet-ecf61b",
+      "locationSet": {
+        "include": [
+          "br",
+          "es",
+          "fr",
+          "jp",
+          "lu",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "groupe onet"
+      ],
+      "tags": {
+        "brand": "Onet",
+        "brand:wikidata": "Q3352707",
+        "craft": "cleaning",
+        "name": "Onet"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Onet.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/onet-ecf61b.svg",
+      "local_logo_path": "localbrand/logo/onet-ecf61b.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Onet.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/onet-ecf61b.svg"
+      }
+    },
+    {
+      "displayName": "ServiceMaster",
+      "id": "servicemaster-2dac42",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "ServiceMaster",
+        "brand:wikidata": "Q17080199",
+        "craft": "cleaning",
+        "name": "ServiceMaster"
+      },
+      "original_logo_url": "https://graph.facebook.com/ServiceMasterClean/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/servicemaster-2dac42.png",
+      "local_logo_path": "localbrand/logo/servicemaster-2dac42.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ServiceMasterClean/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/servicemaster-2dac42.png"
+      }
+    },
+    {
+      "displayName": "Servpro",
+      "id": "servpro-2dac42",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Servpro",
+        "brand:wikidata": "Q7455937",
+        "craft": "cleaning",
+        "name": "Servpro"
+      },
+      "original_logo_url": "https://graph.facebook.com/SERVPRO/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/servpro-2dac42.jpg",
+      "local_logo_path": "localbrand/logo/servpro-2dac42.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SERVPRO/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/servpro-2dac42.jpg"
+      }
+    },
+    {
+      "displayName": "Shiva",
+      "id": "shiva-0ba6c8",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Shiva",
+        "brand:wikidata": "Q114463983",
+        "craft": "cleaning",
+        "name": "Shiva"
+      },
+      "original_logo_url": "https://graph.facebook.com/Shiva.fr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shiva-0ba6c8.jpg",
+      "local_logo_path": "localbrand/logo/shiva-0ba6c8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Shiva.fr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shiva-0ba6c8.jpg"
+      }
+    },
+    {
+      "displayName": "Stanley Steemer",
+      "id": "stanleysteemer-f0dc25",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "stanley steamer"
+      ],
+      "tags": {
+        "brand": "Stanley Steemer",
+        "brand:wikidata": "Q7599966",
+        "craft": "cleaning",
+        "name": "Stanley Steemer"
+      },
+      "original_logo_url": "https://graph.facebook.com/stanleysteemer/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stanleysteemer-f0dc25.jpg",
+      "local_logo_path": "localbrand/logo/stanleysteemer-f0dc25.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/stanleysteemer/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stanleysteemer-f0dc25.jpg"
+      }
+    }
+  ]
+}

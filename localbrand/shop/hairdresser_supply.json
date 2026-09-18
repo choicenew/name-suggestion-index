@@ -1,0 +1,328 @@
+{
+  "properties": {
+    "path": "brands/shop/hairdresser_supply",
+    "exclude": {
+      "generic": [
+        "^hairdresser supply$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Beauty Supply Outlet",
+      "id": "beautysupplyoutlet-9b3dcd",
+      "locationSet": {
+        "include": [
+          "ca-on.geojson"
+        ]
+      },
+      "matchTags": [
+        "shop/cosmetics"
+      ],
+      "tags": {
+        "brand": "Beauty Supply Outlet",
+        "brand:wikidata": "Q133255648",
+        "name": "Beauty Supply Outlet",
+        "shop": "hairdresser_supply"
+      },
+      "original_logo_url": "https://graph.facebook.com/BeautySupplyOutlet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beautysupplyoutlet-9b3dcd.png",
+      "local_logo_path": "localbrand/logo/beautysupplyoutlet-9b3dcd.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BeautySupplyOutlet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beautysupplyoutlet-9b3dcd.png"
+      }
+    },
+    {
+      "displayName": "beautyhairshop",
+      "id": "beautyhairshop-9c3c03",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchTags": [
+        "shop/hairdresser"
+      ],
+      "tags": {
+        "brand": "beautyhairshop",
+        "name": "beautyhairshop",
+        "shop": "hairdresser_supply"
+      }
+    },
+    {
+      "displayName": "Bleu Libellule",
+      "id": "bleulibellule-b5b92b",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Bleu Libellule",
+        "brand:wikidata": "Q101830610",
+        "name": "Bleu Libellule",
+        "shop": "hairdresser_supply"
+      },
+      "original_logo_url": "https://graph.facebook.com/bleulibellule/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bleulibellule-b5b92b.jpg",
+      "local_logo_path": "localbrand/logo/bleulibellule-b5b92b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bleulibellule/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bleulibellule-b5b92b.jpg"
+      }
+    },
+    {
+      "displayName": "Cosmo",
+      "id": "cosmo-9c3c03",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchTags": [
+        "shop/hairdresser"
+      ],
+      "tags": {
+        "brand": "Cosmo",
+        "brand:wikidata": "Q116214796",
+        "name": "Cosmo",
+        "shop": "hairdresser_supply"
+      },
+      "original_logo_url": "https://graph.facebook.com/cosmohairshop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cosmo-9c3c03.jpg",
+      "local_logo_path": "localbrand/logo/cosmo-9c3c03.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/cosmohairshop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cosmo-9c3c03.jpg"
+      }
+    },
+    {
+      "displayName": "CosmoProf",
+      "id": "cosmoprof-5f23b6",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/cosmetics"
+      ],
+      "tags": {
+        "brand": "CosmoProf",
+        "brand:wikidata": "Q109570386",
+        "name": "CosmoProf",
+        "shop": "hairdresser_supply"
+      },
+      "original_logo_url": "https://graph.facebook.com/cosmoprofbeauty/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cosmoprof-5f23b6.png",
+      "local_logo_path": "localbrand/logo/cosmoprof-5f23b6.png",
+      "logos": {
+        "original": "https://graph.facebook.com/cosmoprofbeauty/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cosmoprof-5f23b6.png"
+      }
+    },
+    {
+      "displayName": "Hairhouse",
+      "id": "hairhouse-6fcfbc",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Hairhouse",
+        "brand:wikidata": "Q118383855",
+        "name": "Hairhouse",
+        "shop": "hairdresser_supply"
+      },
+      "original_logo_url": "https://graph.facebook.com/HairhouseAustralia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hairhouse-6fcfbc.jpg",
+      "local_logo_path": "localbrand/logo/hairhouse-6fcfbc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HairhouseAustralia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hairhouse-6fcfbc.jpg"
+      }
+    },
+    {
+      "displayName": "Klier Hair World",
+      "id": "klierhairworld-9c3c03",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchTags": [
+        "shop/cosmetics",
+        "shop/hairdresser"
+      ],
+      "tags": {
+        "brand": "Klier Hair World",
+        "brand:wikidata": "Q121888344",
+        "name": "Klier Hair World",
+        "shop": "hairdresser_supply"
+      },
+      "original_logo_url": "https://graph.facebook.com/klierhairworld/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/klierhairworld-9c3c03.jpg",
+      "local_logo_path": "localbrand/logo/klierhairworld-9c3c03.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/klierhairworld/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/klierhairworld-9c3c03.jpg"
+      }
+    },
+    {
+      "displayName": "La Boutique du Coiffeur",
+      "id": "laboutiqueducoiffeur-03b17e",
+      "locationSet": {
+        "include": [
+          "fx",
+          "lu"
+        ]
+      },
+      "tags": {
+        "brand": "La Boutique du Coiffeur",
+        "brand:wikidata": "Q104600156",
+        "name": "La Boutique du Coiffeur",
+        "shop": "hairdresser_supply"
+      },
+      "original_logo_url": "https://graph.facebook.com/LBDCoiffeur/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laboutiqueducoiffeur-03b17e.png",
+      "local_logo_path": "localbrand/logo/laboutiqueducoiffeur-03b17e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/LBDCoiffeur/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laboutiqueducoiffeur-03b17e.png"
+      }
+    },
+    {
+      "displayName": "Price Attack",
+      "id": "priceattack-6fcfbc",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Price Attack",
+        "brand:wikidata": "Q117747512",
+        "name": "Price Attack",
+        "shop": "hairdresser_supply"
+      },
+      "original_logo_url": "https://graph.facebook.com/PriceAttackHair/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/priceattack-6fcfbc.png",
+      "local_logo_path": "localbrand/logo/priceattack-6fcfbc.png",
+      "logos": {
+        "original": "https://graph.facebook.com/PriceAttackHair/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/priceattack-6fcfbc.png"
+      }
+    },
+    {
+      "displayName": "ROMA Friseurbedarf",
+      "id": "roma-00412a",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch"
+        ]
+      },
+      "matchNames": [
+        "roma friseurbedarf"
+      ],
+      "tags": {
+        "brand": "ROMA",
+        "brand:wikidata": "Q130570318",
+        "name": "ROMA",
+        "shop": "hairdresser_supply"
+      },
+      "original_logo_url": "https://graph.facebook.com/ROMAFriseurbedarf/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roma-00412a.jpg",
+      "local_logo_path": "localbrand/logo/roma-00412a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ROMAFriseurbedarf/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roma-00412a.jpg"
+      }
+    },
+    {
+      "displayName": "Sally Beauty",
+      "id": "sallybeauty-2abc62",
+      "locationSet": {
+        "include": [
+          "be",
+          "ca",
+          "cl",
+          "de",
+          "es",
+          "fr",
+          "gb",
+          "ie",
+          "mx",
+          "nl",
+          "pe",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/cosmetics"
+      ],
+      "tags": {
+        "alt_name": "Sally Beauty Supply",
+        "brand": "Sally Beauty",
+        "brand:wikidata": "Q7405065",
+        "name": "Sally Beauty",
+        "shop": "hairdresser_supply"
+      },
+      "original_logo_url": "https://graph.facebook.com/sallybeauty/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sallybeauty-2abc62.jpg",
+      "local_logo_path": "localbrand/logo/sallybeauty-2abc62.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sallybeauty/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sallybeauty-2abc62.jpg"
+      }
+    },
+    {
+      "displayName": "SalonCentric",
+      "id": "saloncentric-bc397b",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "SalonCentric",
+        "brand:wikidata": "Q124339481",
+        "name": "SalonCentric",
+        "shop": "hairdresser_supply"
+      },
+      "original_logo_url": "https://graph.facebook.com/saloncentric/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saloncentric-bc397b.jpg",
+      "local_logo_path": "localbrand/logo/saloncentric-bc397b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/saloncentric/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saloncentric-bc397b.jpg"
+      }
+    },
+    {
+      "displayName": "Shaver Shop",
+      "id": "shavershop-b81096",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Shaver Shop",
+        "brand:wikidata": "Q119443589",
+        "name": "Shaver Shop",
+        "shop": "hairdresser_supply"
+      },
+      "original_logo_url": "https://graph.facebook.com/shavershop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shavershop-b81096.jpg",
+      "local_logo_path": "localbrand/logo/shavershop-b81096.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/shavershop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shavershop-b81096.jpg"
+      }
+    }
+  ]
+}

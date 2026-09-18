@@ -1,0 +1,367 @@
+{
+  "properties": {
+    "path": "brands/shop/craft",
+    "exclude": {
+      "generic": [
+        "^craft$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "A.C. Moore",
+      "id": "acmoore-94ee6e",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "A.C. Moore",
+        "brand:wikidata": "Q4647066",
+        "name": "A.C. Moore",
+        "shop": "craft"
+      },
+      "original_logo_url": "https://graph.facebook.com/acmoore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/acmoore-94ee6e.png",
+      "local_logo_path": "localbrand/logo/acmoore-94ee6e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/acmoore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/acmoore-94ee6e.png"
+      }
+    },
+    {
+      "displayName": "Boesner",
+      "id": "boesner-1cc9f4",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de",
+          "dk",
+          "fr",
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Boesner",
+        "brand:wikidata": "Q890317",
+        "name": "Boesner",
+        "shop": "craft"
+      },
+      "original_logo_url": "https://graph.facebook.com/555070134526670/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boesner-1cc9f4.png",
+      "local_logo_path": "localbrand/logo/boesner-1cc9f4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/555070134526670/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boesner-1cc9f4.png"
+      }
+    },
+    {
+      "displayName": "Fantasías Miguel",
+      "id": "fantasiasmiguel-d01445",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Fantasías Miguel",
+        "brand:wikidata": "Q134440671",
+        "name": "Fantasías Miguel",
+        "shop": "craft"
+      },
+      "original_logo_url": "https://graph.facebook.com/FantasiasMiguel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fantasiasmiguel-d01445.jpg",
+      "local_logo_path": "localbrand/logo/fantasiasmiguel-d01445.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FantasiasMiguel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fantasiasmiguel-d01445.jpg"
+      }
+    },
+    {
+      "displayName": "Hobby Lobby",
+      "id": "hobbylobby-3a570b",
+      "locationSet": {
+        "include": [
+          "in",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Hobby Lobby",
+        "brand:wikidata": "Q5874938",
+        "name": "Hobby Lobby",
+        "shop": "craft"
+      },
+      "original_logo_url": "https://graph.facebook.com/HobbyLobby/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hobbylobby-3a570b.jpg",
+      "local_logo_path": "localbrand/logo/hobbylobby-3a570b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HobbyLobby/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hobbylobby-3a570b.jpg"
+      }
+    },
+    {
+      "displayName": "Hobbycraft",
+      "id": "hobbycraft-25f394",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchTags": [
+        "shop/art",
+        "shop/toys"
+      ],
+      "tags": {
+        "brand": "Hobbycraft",
+        "brand:wikidata": "Q16984508",
+        "name": "Hobbycraft",
+        "shop": "craft"
+      },
+      "original_logo_url": "https://graph.facebook.com/HobbycraftUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hobbycraft-25f394.jpg",
+      "local_logo_path": "localbrand/logo/hobbycraft-25f394.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HobbycraftUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hobbycraft-25f394.jpg"
+      }
+    },
+    {
+      "displayName": "HobbyTown",
+      "id": "hobbytown-94ee6e",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "HobbyTown",
+        "brand:wikidata": "Q5874921",
+        "name": "HobbyTown",
+        "shop": "craft"
+      },
+      "original_logo_url": "https://graph.facebook.com/hobbytown/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hobbytown-94ee6e.png",
+      "local_logo_path": "localbrand/logo/hobbytown-94ee6e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/hobbytown/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hobbytown-94ee6e.png"
+      }
+    },
+    {
+      "displayName": "JOANN Fabrics and Crafts",
+      "id": "joannfabricsandcrafts-94ee6e",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "jo-ann stores",
+        "joann fabric and craft stores",
+        "joann fabric and crafts"
+      ],
+      "tags": {
+        "brand": "JOANN Fabrics and Crafts",
+        "brand:wikidata": "Q6203968",
+        "name": "JOANN Fabrics and Crafts",
+        "shop": "craft",
+        "short_name": "JOANN"
+      },
+      "original_logo_url": "https://graph.facebook.com/JoAnn/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/joannfabricsandcrafts-94ee6e.jpg",
+      "local_logo_path": "localbrand/logo/joannfabricsandcrafts-94ee6e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JoAnn/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/joannfabricsandcrafts-94ee6e.jpg"
+      }
+    },
+    {
+      "displayName": "Kaisercraft",
+      "id": "kaisercraft-27cf5c",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Kaisercraft",
+        "brand:wikidata": "Q118342651",
+        "name": "Kaisercraft",
+        "shop": "craft"
+      },
+      "original_logo_url": "https://graph.facebook.com/Kaisercraft/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kaisercraft-27cf5c.jpg",
+      "local_logo_path": "localbrand/logo/kaisercraft-27cf5c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Kaisercraft/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kaisercraft-27cf5c.jpg"
+      }
+    },
+    {
+      "displayName": "Michaels",
+      "id": "michaels-9d4726",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "michaels stores"
+      ],
+      "tags": {
+        "brand": "Michaels",
+        "brand:wikidata": "Q6835667",
+        "name": "Michaels",
+        "shop": "craft"
+      },
+      "original_logo_url": "https://graph.facebook.com/Michaels/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/michaels-9d4726.png",
+      "local_logo_path": "localbrand/logo/michaels-9d4726.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Michaels/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/michaels-9d4726.png"
+      }
+    },
+    {
+      "displayName": "Monpacie",
+      "id": "monpacie-27a2aa",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "монпасьє"
+      ],
+      "tags": {
+        "brand": "Monpacie",
+        "brand:wikidata": "Q136142102",
+        "name": "Monpacie",
+        "shop": "craft"
+      },
+      "original_logo_url": "https://graph.facebook.com/monpacie.shop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monpacie-27a2aa.jpg",
+      "local_logo_path": "localbrand/logo/monpacie-27a2aa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/monpacie.shop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monpacie-27a2aa.jpg"
+      }
+    },
+    {
+      "displayName": "Panduro",
+      "id": "panduro-329313",
+      "locationSet": {
+        "include": [
+          "dk",
+          "no",
+          "se"
+        ]
+      },
+      "matchNames": [
+        "panduro hobby"
+      ],
+      "matchTags": [
+        "shop/doityourself",
+        "shop/hobby"
+      ],
+      "tags": {
+        "brand": "Panduro",
+        "brand:wikidata": "Q265941",
+        "name": "Panduro",
+        "shop": "craft"
+      },
+      "original_logo_url": "https://graph.facebook.com/pandurohobby.se/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/panduro-329313.jpg",
+      "local_logo_path": "localbrand/logo/panduro-329313.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pandurohobby.se/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/panduro-329313.jpg"
+      }
+    },
+    {
+      "displayName": "pipoos",
+      "id": "pipoos-d918ce",
+      "locationSet": {
+        "include": [
+          "be",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "pipoos",
+        "brand:wikidata": "Q106581278",
+        "name": "pipoos",
+        "shop": "craft"
+      },
+      "original_logo_url": "https://graph.facebook.com/pipooshobby/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pipoos-d918ce.jpg",
+      "local_logo_path": "localbrand/logo/pipoos-d918ce.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pipooshobby/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pipoos-d918ce.jpg"
+      }
+    },
+    {
+      "displayName": "Woodcraft",
+      "id": "woodcraft-94ee6e",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "craft/carpenter",
+        "shop/doityourself",
+        "shop/hardware",
+        "shop/hobby"
+      ],
+      "tags": {
+        "brand": "Woodcraft",
+        "brand:wikidata": "Q22026341",
+        "name": "Woodcraft",
+        "shop": "craft"
+      },
+      "original_logo_url": "https://graph.facebook.com/WoodcraftWoodworking/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woodcraft-94ee6e.jpg",
+      "local_logo_path": "localbrand/logo/woodcraft-94ee6e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WoodcraftWoodworking/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woodcraft-94ee6e.jpg"
+      }
+    },
+    {
+      "displayName": "Леонардо",
+      "id": "f57608-3615c7",
+      "locationSet": {
+        "include": [
+          "by",
+          "kz",
+          "ru"
+        ]
+      },
+      "matchTags": [
+        "craft/carpenter",
+        "shop/doityourself",
+        "shop/hardware",
+        "shop/hobby"
+      ],
+      "tags": {
+        "brand": "Леонардо",
+        "brand:wikidata": "Q110138162",
+        "name": "Леонардо",
+        "shop": "craft"
+      },
+      "original_logo_url": "https://graph.facebook.com/leonardogroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/f57608-3615c7.jpg",
+      "local_logo_path": "localbrand/logo/f57608-3615c7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/leonardogroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/f57608-3615c7.jpg"
+      }
+    }
+  ]
+}

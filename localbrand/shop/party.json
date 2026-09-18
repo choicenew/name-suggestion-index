@@ -1,0 +1,81 @@
+{
+  "properties": {
+    "path": "brands/shop/party",
+    "exclude": {
+      "generic": [
+        "^party$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Party City",
+      "id": "partycity-d4351a",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Party City",
+        "brand:wikidata": "Q7140896",
+        "name": "Party City",
+        "shop": "party"
+      },
+      "original_logo_url": "https://graph.facebook.com/PartyCity/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/partycity-d4351a.jpg",
+      "local_logo_path": "localbrand/logo/partycity-d4351a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PartyCity/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/partycity-d4351a.jpg"
+      }
+    },
+    {
+      "displayName": "SoLow",
+      "id": "solow-f95d27",
+      "locationSet": {
+        "include": [
+          "be",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "SoLow",
+        "brand:wikidata": "Q114243473",
+        "name": "SoLow",
+        "shop": "party"
+      },
+      "original_logo_url": "https://graph.facebook.com/solowwinkels/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/solow-f95d27.jpg",
+      "local_logo_path": "localbrand/logo/solow-f95d27.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/solowwinkels/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/solow-f95d27.jpg"
+      }
+    },
+    {
+      "displayName": "Spirit Halloween",
+      "id": "spirithalloween-d4351a",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Spirit Halloween",
+        "brand:wikidata": "Q25212133",
+        "name": "Spirit Halloween",
+        "shop": "party"
+      },
+      "original_logo_url": "https://graph.facebook.com/spirithalloween/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spirithalloween-d4351a.jpg",
+      "local_logo_path": "localbrand/logo/spirithalloween-d4351a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/spirithalloween/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spirithalloween-d4351a.jpg"
+      }
+    }
+  ]
+}

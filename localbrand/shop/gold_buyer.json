@@ -1,0 +1,96 @@
+{
+  "properties": {
+    "path": "brands/shop/gold_buyer",
+    "exclude": {
+      "generic": [
+        "^gold buyer$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Godot & Fils",
+      "id": "godotandfils-9fda9d",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Godot & Fils",
+        "name": "Godot & Fils",
+        "shop": "gold_buyer"
+      }
+    },
+    {
+      "displayName": "Goudwisselkantoor",
+      "id": "goudwisselkantoor-f36319",
+      "locationSet": {
+        "include": [
+          "be",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Goudwisselkantoor",
+        "brand:wikidata": "Q123943113",
+        "name": "Goudwisselkantoor",
+        "shop": "gold_buyer"
+      },
+      "original_logo_url": "https://graph.facebook.com/goudwisselkantoor/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goudwisselkantoor-f36319.jpg",
+      "local_logo_path": "localbrand/logo/goudwisselkantoor-f36319.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/goudwisselkantoor/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goudwisselkantoor-f36319.jpg"
+      }
+    },
+    {
+      "displayName": "Or en Cash",
+      "id": "orencash-357486",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "matchNames": [
+        "or en ca$h"
+      ],
+      "tags": {
+        "brand": "Or en Cash",
+        "brand:wikidata": "Q115088395",
+        "name": "Or en Cash",
+        "shop": "gold_buyer"
+      },
+      "original_logo_url": "https://graph.facebook.com/orencash/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orencash-357486.jpg",
+      "local_logo_path": "localbrand/logo/orencash-357486.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/orencash/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orencash-357486.jpg"
+      }
+    },
+    {
+      "displayName": "OroCash",
+      "id": "orocash-24b738",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "OroCash",
+        "brand:wikidata": "Q127363029",
+        "name": "OroCash",
+        "shop": "gold_buyer"
+      },
+      "original_logo_url": "https://graph.facebook.com/orocashofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orocash-24b738.jpg",
+      "local_logo_path": "localbrand/logo/orocash-24b738.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/orocashofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orocash-24b738.jpg"
+      }
+    }
+  ]
+}

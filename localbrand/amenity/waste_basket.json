@@ -1,0 +1,84 @@
+{
+  "properties": {
+    "path": "brands/amenity/waste_basket",
+    "exclude": {
+      "generic": [
+        "^(waste basket|litter|垃圾桶)$",
+        "^fixed$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "BigBelly Solar Compactor",
+      "id": "bigbelly-4695b1",
+      "locationSet": {
+        "include": [
+          "de",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "big belly solar"
+      ],
+      "tags": {
+        "amenity": "waste_basket",
+        "brand": "BigBelly",
+        "brand:wikidata": "Q4904855"
+      },
+      "original_logo_url": "https://graph.facebook.com/discover.bigbelly/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigbelly-4695b1.jpg",
+      "local_logo_path": "localbrand/logo/bigbelly-4695b1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/discover.bigbelly/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigbelly-4695b1.jpg"
+      }
+    },
+    {
+      "displayName": "Dog-Station",
+      "id": "dogstation-f2bd8e",
+      "locationSet": {
+        "include": [
+          "at",
+          "de"
+        ]
+      },
+      "tags": {
+        "amenity": "waste_basket",
+        "brand": "Dog-Station",
+        "brand:wikidata": "Q63720061",
+        "waste": "dog_excrement"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Dog_station%2C_avenue_de_la_Libert%C3%A9%2C_D%C3%A9ifferdeng.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dogstation-f2bd8e.jpg",
+      "local_logo_path": "localbrand/logo/dogstation-f2bd8e.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/5/54/Dog_station%2C_avenue_de_la_Libert%C3%A9%2C_D%C3%A9ifferdeng.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dogstation-f2bd8e.jpg"
+      }
+    },
+    {
+      "displayName": "Robidog",
+      "id": "robidog-253083",
+      "locationSet": {
+        "include": [
+          "ch",
+          "de"
+        ]
+      },
+      "tags": {
+        "amenity": "waste_basket",
+        "brand": "Robidog",
+        "brand:wikidata": "Q2159689",
+        "waste": "dog_excrement"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Robidog.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/robidog-253083.svg",
+      "local_logo_path": "localbrand/logo/robidog-253083.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/5/53/Robidog.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/robidog-253083.svg"
+      }
+    }
+  ]
+}

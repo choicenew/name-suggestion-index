@@ -1,0 +1,278 @@
+{
+  "properties": {
+    "path": "brands/tourism/caravan_site",
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^(camping|caravan site)$",
+        "^a la ferme$",
+        "^aire cc (gratuite|payante|privée)$",
+        "^aire de (camping-car|pique nique|repos|services sans parking)$",
+        "^área de autocaravanas$",
+        "^lieu en pleine nature$",
+        "^parking jour (et nuit|uniquement)$",
+        "^tout terrain (4x4)$",
+        "^wohnmobilstellplatz$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Big 4 Holiday Parks",
+      "id": "big4holidayparks-50f355",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Big 4 Holiday Parks",
+        "brand:short": "Big4",
+        "brand:wikidata": "Q18636678",
+        "name": "BIG4 Holiday Parks",
+        "tourism": "caravan_site"
+      },
+      "original_logo_url": "https://graph.facebook.com/BIG4HolidayParks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/big4holidayparks-50f355.jpg",
+      "local_logo_path": "localbrand/logo/big4holidayparks-50f355.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BIG4HolidayParks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/big4holidayparks-50f355.jpg"
+      }
+    },
+    {
+      "displayName": "Camping-Car Park",
+      "id": "",
+      "locationSet": {
+        "include": [
+          "fr",
+          "es",
+          "pt",
+          "de",
+          "be",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Camping-Car Park",
+        "brand:wikidata": "Q127751797",
+        "name": "Camping-Car Park",
+        "tourism": "caravan_site"
+      }
+    },
+    {
+      "displayName": "KOA Holiday",
+      "id": "koaholiday-c4d1c5",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "KOA",
+        "brand:wikidata": "Q16988635",
+        "name": "KOA Holiday",
+        "tourism": "caravan_site"
+      },
+      "original_logo_url": "https://graph.facebook.com/KOAKampgrounds/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/koaholiday-c4d1c5.jpg",
+      "local_logo_path": "localbrand/logo/koaholiday-c4d1c5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KOAKampgrounds/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/koaholiday-c4d1c5.jpg"
+      }
+    },
+    {
+      "displayName": "KOA Journey",
+      "id": "koajourney-c4d1c5",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "KOA",
+        "brand:wikidata": "Q16988635",
+        "name": "KOA Journey",
+        "tourism": "caravan_site"
+      },
+      "original_logo_url": "https://graph.facebook.com/KOAKampgrounds/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/koajourney-c4d1c5.jpg",
+      "local_logo_path": "localbrand/logo/koajourney-c4d1c5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KOAKampgrounds/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/koajourney-c4d1c5.jpg"
+      }
+    },
+    {
+      "displayName": "KOA Kampground",
+      "id": "koakampground-c4d1c5",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "kampgrounds of america"
+      ],
+      "tags": {
+        "alt_name": "KOA Campground",
+        "brand": "KOA",
+        "brand:wikidata": "Q16988635",
+        "name": "KOA Kampground",
+        "tourism": "caravan_site"
+      },
+      "original_logo_url": "https://graph.facebook.com/KOAKampgrounds/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/koakampground-c4d1c5.jpg",
+      "local_logo_path": "localbrand/logo/koakampground-c4d1c5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KOAKampgrounds/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/koakampground-c4d1c5.jpg"
+      }
+    },
+    {
+      "displayName": "KOA Resort",
+      "id": "koaresort-c4d1c5",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "KOA",
+        "brand:wikidata": "Q16988635",
+        "name": "KOA Resort",
+        "tourism": "caravan_site"
+      },
+      "original_logo_url": "https://graph.facebook.com/KOAKampgrounds/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/koaresort-c4d1c5.jpg",
+      "local_logo_path": "localbrand/logo/koaresort-c4d1c5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KOAKampgrounds/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/koaresort-c4d1c5.jpg"
+      }
+    },
+    {
+      "displayName": "Love's RV Hookup",
+      "id": "lovesrvhookup-fbab9d",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Love's",
+        "brand:wikidata": "Q1872496",
+        "name": "Love's RV Hookup",
+        "tourism": "caravan_site"
+      },
+      "original_logo_url": "https://graph.facebook.com/lovestravelstops/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lovesrvhookup-fbab9d.png",
+      "local_logo_path": "localbrand/logo/lovesrvhookup-fbab9d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/lovestravelstops/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lovesrvhookup-fbab9d.png"
+      }
+    },
+    {
+      "displayName": "Parkdean Resorts",
+      "id": "parkdeanresorts-74ea6b",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Parkdean Resorts",
+        "brand:wikidata": "Q7138226",
+        "tourism": "caravan_site"
+      },
+      "original_logo_url": "https://graph.facebook.com/ParkdeanResorts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parkdeanresorts-74ea6b.jpg",
+      "local_logo_path": "localbrand/logo/parkdeanresorts-74ea6b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ParkdeanResorts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parkdeanresorts-74ea6b.jpg"
+      }
+    },
+    {
+      "displayName": "Quality RV Resorts",
+      "id": "qualityrvresorts-e116b4",
+      "locationSet": {
+        "include": [
+          "us-tx.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Quality RV Resorts",
+        "brand:short": "QRV",
+        "brand:wikidata": "Q135210285",
+        "name": "Quality RV Resorts",
+        "tourism": "caravan_site"
+      },
+      "original_logo_url": "https://graph.facebook.com/QualityRVResorts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/qualityrvresorts-e116b4.jpg",
+      "local_logo_path": "localbrand/logo/qualityrvresorts-e116b4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/QualityRVResorts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/qualityrvresorts-e116b4.jpg"
+      }
+    },
+    {
+      "displayName": "Thousand Trails",
+      "id": "thousandtrails-fbab9d",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "tourism/hotel"
+      ],
+      "tags": {
+        "brand": "Thousand Trails",
+        "brand:wikidata": "Q7797073",
+        "name": "Thousand Trails",
+        "tourism": "caravan_site"
+      },
+      "original_logo_url": "https://graph.facebook.com/ThousandTrails/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thousandtrails-fbab9d.jpg",
+      "local_logo_path": "localbrand/logo/thousandtrails-fbab9d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ThousandTrails/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thousandtrails-fbab9d.jpg"
+      }
+    },
+    {
+      "displayName": "Yogi Bear's Jellystone Park",
+      "id": "yogibearsjellystonepark-c4d1c5",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Yogi Bear's Jellystone Park",
+        "brand:wikidata": "Q8054389",
+        "name": "Yogi Bear's Jellystone Park",
+        "official_name": "Yogi Bear's Jellystone Park Camp-Resorts",
+        "tourism": "caravan_site"
+      },
+      "original_logo_url": "https://graph.facebook.com/campjellystone/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yogibearsjellystonepark-c4d1c5.jpg",
+      "local_logo_path": "localbrand/logo/yogibearsjellystonepark-c4d1c5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/campjellystone/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yogibearsjellystonepark-c4d1c5.jpg"
+      }
+    }
+  ]
+}

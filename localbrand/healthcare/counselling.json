@@ -1,0 +1,86 @@
+{
+  "properties": {
+    "path": "brands/healthcare/counselling",
+    "exclude": {
+      "generic": [
+        "^counselling$",
+        "^поликлиника$",
+        "^поліклініка$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "dietplus",
+      "id": "dietplus-444f3f",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "dietplus",
+        "brand:wikidata": "Q140161175",
+        "healthcare": "counselling",
+        "healthcare:counselling": "dietitian",
+        "healthcare:speciality": "weight_loss",
+        "name": "dietplus"
+      },
+      "original_logo_url": "https://graph.facebook.com/dplusfrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dietplus-444f3f.jpg",
+      "local_logo_path": "localbrand/logo/dietplus-444f3f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dplusfrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dietplus-444f3f.jpg"
+      }
+    },
+    {
+      "displayName": "Jenny Craig",
+      "id": "jennycraig-364e20",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "nz",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Jenny Craig",
+        "brand:wikidata": "Q6179221",
+        "healthcare": "counselling",
+        "healthcare:counselling": "dietitian",
+        "healthcare:speciality": "weight_loss",
+        "name": "Jenny Craig"
+      },
+      "original_logo_url": "https://graph.facebook.com/jennycraig/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jennycraig-364e20.jpg",
+      "local_logo_path": "localbrand/logo/jennycraig-364e20.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/jennycraig/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jennycraig-364e20.jpg"
+      }
+    },
+    {
+      "displayName": "WW Studio",
+      "id": "wwstudio-da5d0f",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "ww"
+      ],
+      "tags": {
+        "alt_name": "Weight Watchers",
+        "brand": "WW Studio",
+        "brand:wikidata": "Q1929466",
+        "healthcare": "counselling",
+        "healthcare:counselling": "dietitian",
+        "healthcare:speciality": "weight_loss",
+        "name": "WW Studio"
+      }
+    }
+  ]
+}

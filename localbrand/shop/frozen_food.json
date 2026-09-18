@@ -1,0 +1,341 @@
+{
+  "properties": {
+    "path": "brands/shop/frozen_food",
+    "exclude": {
+      "generic": [
+        "^frozen food$",
+        "^заморожена їжа$"
+      ],
+      "named": [
+        "^домашні напівфабрикати$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Cook",
+      "id": "cook-d47c9b",
+      "locationSet": {
+        "include": [
+          "gb",
+          "gg"
+        ]
+      },
+      "matchTags": [
+        "shop/convenience"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Cook",
+        "brand:wikidata": "Q113457474",
+        "name": "Cook",
+        "shop": "frozen_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/thecookkitchen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cook-d47c9b.jpg",
+      "local_logo_path": "localbrand/logo/cook-d47c9b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/thecookkitchen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cook-d47c9b.jpg"
+      }
+    },
+    {
+      "displayName": "Dream Dinners",
+      "id": "dreamdinners-98e558",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "amenity/fast_food",
+        "amenity/restaurant"
+      ],
+      "preserveTags": [
+        "^opening_hours"
+      ],
+      "tags": {
+        "brand": "Dream Dinners",
+        "brand:wikidata": "Q5306355",
+        "name": "Dream Dinners",
+        "opening_hours": "\"by appointment\"",
+        "shop": "frozen_food"
+      }
+    },
+    {
+      "displayName": "Écomiam",
+      "id": "ecomiam-e0768d",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "matchTags": [
+        "shop/convenience"
+      ],
+      "tags": {
+        "brand": "Écomiam",
+        "brand:wikidata": "Q130215661",
+        "name": "Écomiam",
+        "shop": "frozen_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/ecomiam/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecomiam-e0768d.jpg",
+      "local_logo_path": "localbrand/logo/ecomiam-e0768d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ecomiam/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecomiam-e0768d.jpg"
+      }
+    },
+    {
+      "displayName": "Farmfoods",
+      "id": "farmfoods-b6d6f9",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchTags": [
+        "shop/convenience"
+      ],
+      "tags": {
+        "brand": "Farmfoods",
+        "brand:wikidata": "Q5435841",
+        "name": "Farmfoods",
+        "shop": "frozen_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/147382588630890/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/farmfoods-b6d6f9.png",
+      "local_logo_path": "localbrand/logo/farmfoods-b6d6f9.png",
+      "logos": {
+        "original": "https://graph.facebook.com/147382588630890/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/farmfoods-b6d6f9.png"
+      }
+    },
+    {
+      "displayName": "Iceland",
+      "id": "iceland-0c2cb7",
+      "locationSet": {
+        "include": [
+          "cz",
+          "gb",
+          "ie"
+        ]
+      },
+      "matchNames": [
+        "iceland foods"
+      ],
+      "matchTags": [
+        "shop/convenience"
+      ],
+      "tags": {
+        "brand": "Iceland",
+        "brand:wikidata": "Q721810",
+        "name": "Iceland",
+        "shop": "frozen_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/icelandfoods/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iceland-0c2cb7.jpg",
+      "local_logo_path": "localbrand/logo/iceland-0c2cb7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/icelandfoods/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iceland-0c2cb7.jpg"
+      }
+    },
+    {
+      "displayName": "La Sirena",
+      "id": "lasirena-2e85e0",
+      "locationSet": {
+        "include": [
+          "ad",
+          "es"
+        ]
+      },
+      "tags": {
+        "brand": "La Sirena",
+        "brand:wikidata": "Q21034458",
+        "name": "La Sirena",
+        "shop": "frozen_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/LaSirena/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lasirena-2e85e0.jpg",
+      "local_logo_path": "localbrand/logo/lasirena-2e85e0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LaSirena/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lasirena-2e85e0.jpg"
+      }
+    },
+    {
+      "displayName": "M&M Food Market",
+      "id": "mandmfoodmarket-3f4a2c",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "m&m meats"
+      ],
+      "matchTags": [
+        "shop/butcher"
+      ],
+      "tags": {
+        "brand": "M&M Food Market",
+        "brand:wikidata": "Q6711827",
+        "name": "M&M Food Market",
+        "shop": "frozen_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/mandmfoodmarket/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mandmfoodmarket-3f4a2c.jpg",
+      "local_logo_path": "localbrand/logo/mandmfoodmarket-3f4a2c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mandmfoodmarket/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mandmfoodmarket-3f4a2c.jpg"
+      }
+    },
+    {
+      "displayName": "Picard",
+      "id": "picard-fd35ee",
+      "locationSet": {
+        "include": [
+          "be",
+          "fr",
+          "lu"
+        ]
+      },
+      "matchNames": [
+        "picard sa",
+        "picard surgelés"
+      ],
+      "tags": {
+        "brand": "Picard",
+        "brand:wikidata": "Q3382454",
+        "name": "Picard",
+        "shop": "frozen_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/picardsurgeles/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/picard-fd35ee.jpg",
+      "local_logo_path": "localbrand/logo/picard-fd35ee.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/picardsurgeles/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/picard-fd35ee.jpg"
+      }
+    },
+    {
+      "displayName": "Thiriet",
+      "id": "thiriet-c153b7",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Thiriet",
+        "brand:wikidata": "Q3524695",
+        "name": "Thiriet",
+        "shop": "frozen_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/maison.thiriet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thiriet-c153b7.jpg",
+      "local_logo_path": "localbrand/logo/thiriet-c153b7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/maison.thiriet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thiriet-c153b7.jpg"
+      }
+    },
+    {
+      "displayName": "Wesoła Pani",
+      "id": "wesolapani-ec5a92",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Wesoła Pani",
+        "brand:wikidata": "Q123240454",
+        "shop": "frozen_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/107394614905166/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wesolapani-ec5a92.jpg",
+      "local_logo_path": "localbrand/logo/wesolapani-ec5a92.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/107394614905166/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wesolapani-ec5a92.jpg"
+      }
+    },
+    {
+      "displayName": "Галя Балувана",
+      "id": "538c69-b89636",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "galia baluvana",
+        "halia baluvana",
+        "балувана галя",
+        "домашні напівфабрикати галя балувана"
+      ],
+      "tags": {
+        "brand": "Галя Балувана",
+        "brand:wikidata": "Q117744813",
+        "name": "Галя Балувана",
+        "shop": "frozen_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/HaliaBaluvana/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/538c69-b89636.jpg",
+      "local_logo_path": "localbrand/logo/538c69-b89636.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HaliaBaluvana/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/538c69-b89636.jpg"
+      }
+    },
+    {
+      "displayName": "Елікатні радощі життя!",
+      "id": "elikatniproducts-b89636",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "elika",
+        "еліка",
+        "єліка"
+      ],
+      "tags": {
+        "brand": "Elikatni Products",
+        "brand:en": "Elikatni Products",
+        "brand:uk": "Елікатні продукти",
+        "brand:wikidata": "Q123848582",
+        "name": "Елікатні радощі життя!",
+        "shop": "frozen_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/elikatniproducts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elikatniproducts-b89636.jpg",
+      "local_logo_path": "localbrand/logo/elikatniproducts-b89636.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/elikatniproducts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elikatniproducts-b89636.jpg"
+      }
+    },
+    {
+      "displayName": "Ермолино",
+      "id": "b8e49f-785417",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Ермолино",
+        "name": "Ермолино",
+        "shop": "frozen_food"
+      }
+    }
+  ]
+}

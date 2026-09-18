@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Первая полоса old.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="67.581702"
+     inkscape:cy="45.203343"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(72.949402,-118.97321)">
+    <path
+       style="fill:#da261d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -64.478772,122.8739 c 1.244849,-0.34348 2.43982,-0.83659 3.419872,-1.97446 h 3.963447 v 21.58536 h 2.33861 v 0.83522 h -9.721929 v -0.7684 h 2.338607 v -19.21 c -0.568261,0.36104 -1.159497,0.71552 -2.338607,0.90204 z"
+       id="path826"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+    <text
+       transform="rotate(-90)"
+       id="text830"
+       y="-54.690601"
+       x="-142.34198"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944451px;line-height:0.26458332px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:-0.23283331px;word-spacing:0px;fill:#d8271e;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       xml:space="preserve"><tspan
+         id="tspan832"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#d8271e;fill-opacity:1;stroke-width:0.26458332;letter-spacing:-0.23283331px;word-spacing:0px;"
+         y="-54.690601"
+         x="-142.34198"
+         sodipodi:role="line">ПЕРВАЯ <tspan
+   style="fill:black;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;letter-spacing:-0.23283331px;word-spacing:0px;"
+   id="tspan852">ПОЛОСА</tspan></tspan><tspan
+         id="tspan834"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#d8271e;fill-opacity:1;stroke-width:0.26458332;letter-spacing:-0.23283331px;word-spacing:0px;"
+         y="-54.426018"
+         x="-142.34198"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944451px;line-height:0.26458332px;font-family:'Sans Uralic';-inkscape-font-specification:'Sans Uralic Bold';letter-spacing:0px;word-spacing:0px;fill:white;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="121.46911"
+       y="-57.525425"
+       id="text860"
+       transform="matrix(0,1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         x="121.46911"
+         y="-57.525425"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0px;font-family:'Sans Uralic';-inkscape-font-specification:'Sans Uralic Bold';fill:white;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan858">®</tspan></text>
+  </g>
+</svg>

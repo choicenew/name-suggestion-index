@@ -1,0 +1,42 @@
+{
+  "properties": {
+    "path": "brands/amenity/telephone",
+    "skipCollection": true,
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^-$",
+        "^(tele)?phone$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "NTT",
+      "id": "ntt-cd9a04",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "telephone",
+        "brand": "NTT",
+        "brand:en": "Nippon Telegraph and Telephone",
+        "brand:ja": "日本電信電話株式会社",
+        "brand:short": "NTT",
+        "brand:wikidata": "Q1054787",
+        "name": "NTT"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/NTT_2025.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ntt-cd9a04.svg",
+      "local_logo_path": "localbrand/logo/ntt-cd9a04.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/d/d8/NTT_2025.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ntt-cd9a04.svg"
+      }
+    }
+  ]
+}

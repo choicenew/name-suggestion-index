@@ -1,0 +1,216 @@
+{
+  "properties": {
+    "path": "brands/amenity/doctors",
+    "skipCollection": true,
+    "exclude": {
+      "generic": [
+        "^(consultorio )?médico$",
+        "^doctors?$",
+        "^амбулатор[иі]я$",
+        "^поликлиника$",
+        "^поліклініка$",
+        "^фап$",
+        "^фельдшерско-акушерский пункт$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Medbase",
+      "id": "medbase-798e42",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "amenity": "doctors",
+        "brand": "medbase",
+        "brand:wikidata": "Q50038690",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "medbase"
+      },
+      "original_logo_url": "https://graph.facebook.com/medbasecommunication/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/medbase-798e42.png",
+      "local_logo_path": "localbrand/logo/medbase-798e42.png",
+      "logos": {
+        "original": "https://graph.facebook.com/medbasecommunication/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/medbase-798e42.png"
+      }
+    },
+    {
+      "displayName": "MinuteClinic",
+      "id": "minuteclinic-e57666",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "doctors",
+        "brand": "MinuteClinic",
+        "brand:wikidata": "Q6871141",
+        "healthcare": "doctor",
+        "healthcare:speciality": "community",
+        "name": "MinuteClinic"
+      },
+      "original_logo_url": "https://graph.facebook.com/minuteclinic/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/minuteclinic-e57666.png",
+      "local_logo_path": "localbrand/logo/minuteclinic-e57666.png",
+      "logos": {
+        "original": "https://graph.facebook.com/minuteclinic/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/minuteclinic-e57666.png"
+      }
+    },
+    {
+      "displayName": "Point Vision",
+      "id": "pointvision-0fcd2d",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "amenity": "doctors",
+        "brand": "Point Vision",
+        "brand:wikidata": "Q131370559",
+        "healthcare": "doctor",
+        "healthcare:speciality": "ophthalmology",
+        "name": "Point Vision"
+      },
+      "original_logo_url": "https://graph.facebook.com/GrpPointVision/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pointvision-0fcd2d.jpg",
+      "local_logo_path": "localbrand/logo/pointvision-0fcd2d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GrpPointVision/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pointvision-0fcd2d.jpg"
+      }
+    },
+    {
+      "displayName": "RediClinic",
+      "id": "rediclinic-e57666",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "doctors",
+        "brand": "RediClinic",
+        "brand:wikidata": "Q64138408",
+        "healthcare": "doctor",
+        "healthcare:speciality": "community",
+        "name": "RediClinic"
+      },
+      "original_logo_url": "https://graph.facebook.com/rediclinicofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rediclinic-e57666.jpg",
+      "local_logo_path": "localbrand/logo/rediclinic-e57666.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rediclinicofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rediclinic-e57666.jpg"
+      }
+    },
+    {
+      "displayName": "Sentara Healthcare",
+      "id": "sentara-b1bdb7",
+      "locationSet": {
+        "include": [
+          "us-nc.geojson",
+          "us-va.geojson"
+        ]
+      },
+      "matchNames": [
+        "sentara health",
+        "sentara healthcare"
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "brand": "Sentara",
+        "brand:wikidata": "Q7451179",
+        "healthcare": "doctor",
+        "name": "Sentara"
+      },
+      "original_logo_url": "https://graph.facebook.com/sentarahealth/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sentara-b1bdb7.jpg",
+      "local_logo_path": "localbrand/logo/sentara-b1bdb7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sentarahealth/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sentara-b1bdb7.jpg"
+      }
+    },
+    {
+      "displayName": "Sutter Walk-In Care",
+      "id": "sutterwalkincare-b04fc4",
+      "locationSet": {
+        "include": [
+          "us-ca.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "doctors",
+        "brand": "Sutter Health",
+        "brand:wikidata": "Q7650154",
+        "healthcare": "doctor",
+        "healthcare:speciality": "community",
+        "name": "Sutter Walk-In Care"
+      },
+      "original_logo_url": "https://graph.facebook.com/SutterHealth/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sutterwalkincare-b04fc4.jpg",
+      "local_logo_path": "localbrand/logo/sutterwalkincare-b04fc4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SutterHealth/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sutterwalkincare-b04fc4.jpg"
+      }
+    },
+    {
+      "displayName": "The Little Clinic",
+      "id": "thelittleclinic-e57666",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "little clinic"
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "brand": "The Little Clinic",
+        "brand:wikidata": "Q64138262",
+        "healthcare": "doctor",
+        "healthcare:speciality": "community",
+        "name": "The Little Clinic"
+      }
+    },
+    {
+      "displayName": "Walgreens Healthcare Clinic",
+      "id": "walgreenshealthcareclinic-e57666",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "healthcare clinic",
+        "takecare",
+        "takecare clinic"
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "brand": "Walgreens",
+        "brand:wikidata": "Q1591889",
+        "healthcare": "doctor",
+        "healthcare:speciality": "community",
+        "name": "Walgreens Healthcare Clinic"
+      },
+      "original_logo_url": "https://graph.facebook.com/walgreens/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/walgreenshealthcareclinic-e57666.png",
+      "local_logo_path": "localbrand/logo/walgreenshealthcareclinic-e57666.png",
+      "logos": {
+        "original": "https://graph.facebook.com/walgreens/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/walgreenshealthcareclinic-e57666.png"
+      }
+    }
+  ]
+}

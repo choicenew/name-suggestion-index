@@ -1,0 +1,66 @@
+{
+  "properties": {
+    "path": "brands/shop/swimming_pool",
+    "exclude": {
+      "generic": [
+        "^swimming pool$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Leslie's Pool Supplies",
+      "id": "lesliespoolsupplies-1e1b6d",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "leslies pool supply",
+        "leslies swimming pool supplies"
+      ],
+      "matchTags": [
+        "shop/outdoor",
+        "shop/pool",
+        "shop/water_sports"
+      ],
+      "tags": {
+        "brand": "Leslie's Pool Supplies",
+        "brand:wikidata": "Q6530568",
+        "name": "Leslie's Pool Supplies",
+        "official_name": "Leslie's Pool Supplies Service & Repair",
+        "shop": "swimming_pool"
+      },
+      "original_logo_url": "https://graph.facebook.com/lesliespoolcare/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lesliespoolsupplies-1e1b6d.png",
+      "local_logo_path": "localbrand/logo/lesliespoolsupplies-1e1b6d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/lesliespoolcare/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lesliespoolsupplies-1e1b6d.png"
+      }
+    },
+    {
+      "displayName": "Pinch A Penny",
+      "id": "pinchapenny-1e1b6d",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Pinch A Penny",
+        "brand:wikidata": "Q121436109",
+        "name": "Pinch A Penny",
+        "shop": "swimming_pool"
+      },
+      "original_logo_url": "https://graph.facebook.com/PinchAPennyPool/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pinchapenny-1e1b6d.jpg",
+      "local_logo_path": "localbrand/logo/pinchapenny-1e1b6d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PinchAPennyPool/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pinchapenny-1e1b6d.jpg"
+      }
+    }
+  ]
+}

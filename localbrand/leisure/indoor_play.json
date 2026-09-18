@@ -1,0 +1,190 @@
+{
+  "properties": {
+    "path": "brands/leisure/indoor_play",
+    "exclude": {
+      "generic": [
+        "^indoor play$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "IKEA Småland",
+      "id": "smaland-06dcc1",
+      "locationSet": {
+        "include": [
+          "ae",
+          "au",
+          "ca",
+          "ch",
+          "cn",
+          "cz",
+          "de",
+          "dk",
+          "eg",
+          "es",
+          "fi",
+          "gb",
+          "hr",
+          "hu",
+          "ie",
+          "in",
+          "it",
+          "jp",
+          "kr",
+          "kw",
+          "my",
+          "no",
+          "nz",
+          "ph",
+          "pl",
+          "pt",
+          "qa",
+          "ro",
+          "rs",
+          "se",
+          "sg",
+          "si",
+          "sk",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "amenity/childcare",
+        "amenity/kindergarten",
+        "leisure/playground"
+      ],
+      "tags": {
+        "brand": "IKEA",
+        "brand:wikidata": "Q54078",
+        "leisure": "indoor_play",
+        "name": "Småland"
+      },
+      "original_logo_url": "https://graph.facebook.com/IKEA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smaland-06dcc1.jpg",
+      "local_logo_path": "localbrand/logo/smaland-06dcc1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IKEA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smaland-06dcc1.jpg"
+      }
+    },
+    {
+      "displayName": "Kids Empire",
+      "id": "kidsempire-351ccd",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Kids Empire",
+        "brand:wikidata": "Q134489648",
+        "fee": "yes",
+        "leisure": "indoor_play",
+        "name": "Kids Empire"
+      },
+      "original_logo_url": "https://graph.facebook.com/KidsEmpireUSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kidsempire-351ccd.jpg",
+      "local_logo_path": "localbrand/logo/kidsempire-351ccd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KidsEmpireUSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kidsempire-351ccd.jpg"
+      }
+    },
+    {
+      "displayName": "Monkey Town",
+      "id": "monkeytown-f9368f",
+      "locationSet": {
+        "include": [
+          "ch",
+          "de",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Monkey Town",
+        "brand:wikidata": "Q138426657",
+        "fee": "yes",
+        "leisure": "indoor_play",
+        "name": "Monkey Town"
+      },
+      "original_logo_url": "https://graph.facebook.com/MonkeyTownNederland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monkeytown-f9368f.jpg",
+      "local_logo_path": "localbrand/logo/monkeytown-f9368f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MonkeyTownNederland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monkeytown-f9368f.jpg"
+      }
+    },
+    {
+      "displayName": "My Gym",
+      "id": "mygym-42a60f",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "My Gym",
+        "brand:wikidata": "Q6945604",
+        "fee": "yes",
+        "leisure": "indoor_play",
+        "name": "My Gym",
+        "official_name": "My Gym Children's Fitness Center"
+      },
+      "original_logo_url": "https://graph.facebook.com/mygymfun/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mygym-42a60f.png",
+      "local_logo_path": "localbrand/logo/mygym-42a60f.png",
+      "logos": {
+        "original": "https://graph.facebook.com/mygymfun/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mygym-42a60f.png"
+      }
+    },
+    {
+      "displayName": "The Little Gym",
+      "id": "thelittlegym-42a60f",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "The Little Gym",
+        "brand:wikidata": "Q7747618",
+        "fee": "yes",
+        "leisure": "indoor_play",
+        "name": "The Little Gym"
+      },
+      "original_logo_url": "https://graph.facebook.com/thelittlegym/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thelittlegym-42a60f.jpg",
+      "local_logo_path": "localbrand/logo/thelittlegym-42a60f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/thelittlegym/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thelittlegym-42a60f.jpg"
+      }
+    },
+    {
+      "displayName": "Wacky Warehouse",
+      "id": "wackywarehouse-6e0ce7",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Wacky Warehouse",
+        "brand:wikidata": "Q104215014",
+        "fee": "yes",
+        "leisure": "indoor_play",
+        "name": "Wacky Warehouse"
+      },
+      "original_logo_url": "https://graph.facebook.com/wackywarehouse/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wackywarehouse-6e0ce7.png",
+      "local_logo_path": "localbrand/logo/wackywarehouse-6e0ce7.png",
+      "logos": {
+        "original": "https://graph.facebook.com/wackywarehouse/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wackywarehouse-6e0ce7.png"
+      }
+    }
+  ]
+}

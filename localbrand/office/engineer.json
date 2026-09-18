@@ -1,0 +1,80 @@
+{
+  "properties": {
+    "path": "brands/office/engineer",
+    "exclude": {
+      "generic": [
+        "^engineer"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Alstom",
+      "id": "alstom-3739d4",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Alstom",
+        "brand:wikidata": "Q309084",
+        "name": "Alstom",
+        "office": "engineer"
+      },
+      "original_logo_url": "https://graph.facebook.com/ALSTOM/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alstom-3739d4.jpg",
+      "local_logo_path": "localbrand/logo/alstom-3739d4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ALSTOM/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alstom-3739d4.jpg"
+      }
+    },
+    {
+      "displayName": "Kimley-Horn",
+      "id": "kimleyhornandassociates-2c4a94",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Kimley-Horn",
+        "brand:wikidata": "Q53129145",
+        "name": "Kimley-Horn and Associates",
+        "office": "engineer"
+      },
+      "original_logo_url": "https://graph.facebook.com/KimleyHorn/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kimleyhornandassociates-2c4a94.jpg",
+      "local_logo_path": "localbrand/logo/kimleyhornandassociates-2c4a94.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KimleyHorn/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kimleyhornandassociates-2c4a94.jpg"
+      }
+    },
+    {
+      "displayName": "WSP",
+      "id": "wsp-2c4a94",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "WSP",
+        "brand:wikidata": "Q1333162",
+        "name": "WSP",
+        "office": "engineer"
+      },
+      "original_logo_url": "https://graph.facebook.com/WSPglobal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wsp-2c4a94.png",
+      "local_logo_path": "localbrand/logo/wsp-2c4a94.png",
+      "logos": {
+        "original": "https://graph.facebook.com/WSPglobal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wsp-2c4a94.png"
+      }
+    }
+  ]
+}

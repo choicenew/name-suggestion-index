@@ -1,0 +1,302 @@
+{
+  "properties": {
+    "path": "brands/healthcare/blood_donation",
+    "exclude": {
+      "generic": [
+        "^blood donation$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "American Red Cross",
+      "id": "americanredcross-cf4bd7",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "amenity/clinic"
+      ],
+      "tags": {
+        "brand": "American Red Cross",
+        "brand:wikidata": "Q470110",
+        "donation:compensation": "no",
+        "healthcare": "blood_donation",
+        "name": "American Red Cross",
+        "official_name": "The American National Red Cross",
+        "short_name": "Red Cross"
+      },
+      "original_logo_url": "https://graph.facebook.com/redcross/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/americanredcross-cf4bd7.png",
+      "local_logo_path": "localbrand/logo/americanredcross-cf4bd7.png",
+      "logos": {
+        "original": "https://graph.facebook.com/redcross/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/americanredcross-cf4bd7.png"
+      }
+    },
+    {
+      "displayName": "Australian Red Cross Blood Service",
+      "id": "australianredcrossbloodservice-ed38a1",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Australian Red Cross Blood Service",
+        "brand:wikidata": "Q4824602",
+        "donation:compensation": "no",
+        "healthcare": "blood_donation",
+        "name": "Australian Red Cross Blood Service",
+        "short_name": "Blood Service"
+      },
+      "original_logo_url": "https://graph.facebook.com/lifebloodau/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/australianredcrossbloodservice-ed38a1.png",
+      "local_logo_path": "localbrand/logo/australianredcrossbloodservice-ed38a1.png",
+      "logos": {
+        "original": "https://graph.facebook.com/lifebloodau/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/australianredcrossbloodservice-ed38a1.png"
+      }
+    },
+    {
+      "displayName": "AVIS",
+      "id": "avis-749faf",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "blood:plasma": "yes",
+        "brand": "AVIS",
+        "brand:wikidata": "Q3627251",
+        "donation:compensation": "no",
+        "healthcare": "blood_donation",
+        "name": "AVIS"
+      },
+      "original_logo_url": "https://graph.facebook.com/avisnazionale/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/avis-749faf.png",
+      "local_logo_path": "localbrand/logo/avis-749faf.png",
+      "logos": {
+        "original": "https://graph.facebook.com/avisnazionale/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/avis-749faf.png"
+      }
+    },
+    {
+      "displayName": "Canadian Blood Services",
+      "id": "canadianbloodservices-cbadc5",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Canadian Blood Services",
+        "brand:wikidata": "Q609192",
+        "healthcare": "blood_donation"
+      },
+      "original_logo_url": "https://graph.facebook.com/CanadasLifeline/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/canadianbloodservices-cbadc5.png",
+      "local_logo_path": "localbrand/logo/canadianbloodservices-cbadc5.png",
+      "logos": {
+        "original": "https://graph.facebook.com/CanadasLifeline/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/canadianbloodservices-cbadc5.png"
+      }
+    },
+    {
+      "displayName": "CSL Plasma",
+      "id": "cslplasma-cf4bd7",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "blood:plasma": "yes",
+        "brand": "CSL Plasma",
+        "brand:wikidata": "Q64173589",
+        "donation:compensation": "yes",
+        "healthcare": "blood_donation",
+        "name": "CSL Plasma"
+      },
+      "original_logo_url": "https://graph.facebook.com/CSLPlasmaInc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cslplasma-cf4bd7.jpg",
+      "local_logo_path": "localbrand/logo/cslplasma-cf4bd7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CSLPlasmaInc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cslplasma-cf4bd7.jpg"
+      }
+    },
+    {
+      "displayName": "EFS",
+      "id": "efs-81b8df",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "EFS",
+        "brand:wikidata": "Q3591543",
+        "donation:compensation": "no",
+        "healthcare": "blood_donation",
+        "name": "EFS",
+        "official_name": "Établissement français du sang"
+      },
+      "original_logo_url": "https://graph.facebook.com/EtablissementFrancaisduSang/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/efs-81b8df.jpg",
+      "local_logo_path": "localbrand/logo/efs-81b8df.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EtablissementFrancaisduSang/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/efs-81b8df.jpg"
+      }
+    },
+    {
+      "displayName": "Fratres",
+      "id": "fratres-749faf",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "blood:plasma": "yes",
+        "brand": "Fratres",
+        "brand:wikidata": "Q3752459",
+        "donation:compensation": "no",
+        "healthcare": "blood_donation"
+      }
+    },
+    {
+      "displayName": "San Diego Blood Bank",
+      "id": "sandiegobloodbank-cf4bd7",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "San Diego Blood Bank",
+        "brand:wikidata": "Q87770169",
+        "healthcare": "blood_donation",
+        "name": "San Diego Blood Bank",
+        "short_name": "SDBB"
+      },
+      "original_logo_url": "https://graph.facebook.com/sdbloodbank/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sandiegobloodbank-cf4bd7.png",
+      "local_logo_path": "localbrand/logo/sandiegobloodbank-cf4bd7.png",
+      "logos": {
+        "original": "https://graph.facebook.com/sdbloodbank/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sandiegobloodbank-cf4bd7.png"
+      }
+    },
+    {
+      "displayName": "Thai Red Cross Society",
+      "id": "thairedcrosssociety-1f63d6",
+      "locationSet": {
+        "include": [
+          "th"
+        ]
+      },
+      "tags": {
+        "brand": "Thai Red Cross Society",
+        "brand:wikidata": "Q4922087",
+        "donation:compensation": "no",
+        "healthcare": "blood_donation",
+        "name": "Thai Red Cross Society",
+        "short_name": "Thai Red Cross"
+      },
+      "original_logo_url": "https://graph.facebook.com/ThaiRedCrossSociety/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thairedcrosssociety-1f63d6.jpg",
+      "local_logo_path": "localbrand/logo/thairedcrosssociety-1f63d6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ThaiRedCrossSociety/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thairedcrosssociety-1f63d6.jpg"
+      }
+    },
+    {
+      "displayName": "Türk Kızılayı",
+      "id": "turkkizilayi-52e991",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Türk Kızılayı",
+        "brand:wikidata": "Q1059602",
+        "healthcare": "blood_donation",
+        "name": "Türk Kızılayı",
+        "official_name": "Türkiye Kızılay Derneği",
+        "short_name": "Kızılay"
+      },
+      "original_logo_url": "https://graph.facebook.com/kizilay/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/turkkizilayi-52e991.jpg",
+      "local_logo_path": "localbrand/logo/turkkizilayi-52e991.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kizilay/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/turkkizilayi-52e991.jpg"
+      }
+    },
+    {
+      "displayName": "Vitalant",
+      "id": "vitalant-cf4bd7",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "blood systems",
+        "united blood services"
+      ],
+      "tags": {
+        "brand": "Vitalant",
+        "brand:wikidata": "Q7887528",
+        "healthcare": "blood_donation",
+        "name": "Vitalant"
+      },
+      "original_logo_url": "https://graph.facebook.com/Vitalant/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vitalant-cf4bd7.jpg",
+      "local_logo_path": "localbrand/logo/vitalant-cf4bd7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Vitalant/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vitalant-cf4bd7.jpg"
+      }
+    },
+    {
+      "displayName": "香港紅十字會 Hong Kong Red Cross",
+      "id": "hongkongredcross-d0af39",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "matchNames": [
+        "紅十字",
+        "紅十字會"
+      ],
+      "tags": {
+        "brand": "香港紅十字會 Hong Kong Red Cross",
+        "brand:en": "Hong Kong Red Cross",
+        "brand:wikidata": "Q840469",
+        "brand:zh": "香港紅十字會",
+        "brand:zh-Hans": "香港红十字会",
+        "brand:zh-Hant": "香港紅十字會",
+        "healthcare": "blood_donation"
+      },
+      "original_logo_url": "https://graph.facebook.com/HKRC.Health/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hongkongredcross-d0af39.png",
+      "local_logo_path": "localbrand/logo/hongkongredcross-d0af39.png",
+      "logos": {
+        "original": "https://graph.facebook.com/HKRC.Health/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hongkongredcross-d0af39.png"
+      }
+    }
+  ]
+}

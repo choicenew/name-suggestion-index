@@ -1,0 +1,1178 @@
+{
+  "properties": {
+    "path": "brands/shop/outdoor",
+    "exclude": {
+      "generic": [
+        "^outdoor$",
+        "^рыболов$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "A.S.Adventure",
+      "id": "asadventure-718831",
+      "locationSet": {
+        "include": [
+          "be",
+          "fx",
+          "lu",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "A.S.Adventure",
+        "brand:wikidata": "Q1815008",
+        "name": "A.S.Adventure",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/ASAdventure/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/asadventure-718831.jpg",
+      "local_logo_path": "localbrand/logo/asadventure-718831.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ASAdventure/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/asadventure-718831.jpg"
+      }
+    },
+    {
+      "displayName": "Anaconda",
+      "id": "anaconda-a827df",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Anaconda",
+        "brand:wikidata": "Q105981238",
+        "name": "Anaconda",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/AnacondaStores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/anaconda-a827df.png",
+      "local_logo_path": "localbrand/logo/anaconda-a827df.png",
+      "logos": {
+        "original": "https://graph.facebook.com/AnacondaStores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/anaconda-a827df.png"
+      }
+    },
+    {
+      "displayName": "ANWB",
+      "id": "anwbwinkel-88720f",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "ANWB",
+        "brand:wikidata": "Q2646455",
+        "name": "ANWB winkel",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/anwb/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/anwbwinkel-88720f.png",
+      "local_logo_path": "localbrand/logo/anwbwinkel-88720f.png",
+      "logos": {
+        "original": "https://graph.facebook.com/anwb/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/anwbwinkel-88720f.png"
+      }
+    },
+    {
+      "displayName": "Au vieux campeur",
+      "id": "auvieuxcampeur-6bb650",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Au vieux campeur",
+        "brand:wikidata": "Q2409646",
+        "name": "Au vieux campeur",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/AuVieuxCampeurSociete/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/auvieuxcampeur-6bb650.jpg",
+      "local_logo_path": "localbrand/logo/auvieuxcampeur-6bb650.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AuVieuxCampeurSociete/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/auvieuxcampeur-6bb650.jpg"
+      }
+    },
+    {
+      "displayName": "Aussie Disposals",
+      "id": "aussiedisposals-a827df",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Aussie Disposals",
+        "brand:wikidata": "Q117847729",
+        "name": "Aussie Disposals",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Bass Pro Shops",
+      "id": "bassproshops-069867",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Bass Pro Shops",
+        "brand:wikidata": "Q4867953",
+        "name": "Bass Pro Shops",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/bassproshops/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bassproshops-069867.jpg",
+      "local_logo_path": "localbrand/logo/bassproshops-069867.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bassproshops/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bassproshops-069867.jpg"
+      }
+    },
+    {
+      "displayName": "BCF",
+      "id": "bcf-a827df",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "BCF",
+        "brand:wikidata": "Q16246527",
+        "name": "BCF",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/BCFAustralia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bcf-a827df.jpg",
+      "local_logo_path": "localbrand/logo/bcf-a827df.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BCFAustralia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bcf-a827df.jpg"
+      }
+    },
+    {
+      "displayName": "Bever",
+      "id": "bever-88720f",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Bever",
+        "brand:wikidata": "Q123596881",
+        "name": "Bever",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/BeverNL/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bever-88720f.jpg",
+      "local_logo_path": "localbrand/logo/bever-88720f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BeverNL/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bever-88720f.jpg"
+      }
+    },
+    {
+      "displayName": "Bivouac Outdoor",
+      "id": "bivouacoutdoor-f40221",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Bivouac Outdoor",
+        "brand:wikidata": "Q111019114",
+        "name": "Bivouac Outdoor",
+        "shop": "outdoor",
+        "short_name": "Bivouac"
+      },
+      "original_logo_url": "https://graph.facebook.com/bivouacoutdoor/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bivouacoutdoor-f40221.jpg",
+      "local_logo_path": "localbrand/logo/bivouacoutdoor-f40221.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bivouacoutdoor/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bivouacoutdoor-f40221.jpg"
+      }
+    },
+    {
+      "displayName": "Blacks",
+      "id": "blacks-f55d12",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Blacks",
+        "brand:wikidata": "Q64822933",
+        "name": "Blacks",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/blacksonline/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blacks-f55d12.jpg",
+      "local_logo_path": "localbrand/logo/blacks-f55d12.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/blacksonline/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blacks-f55d12.jpg"
+      }
+    },
+    {
+      "displayName": "Cabela's",
+      "id": "cabelas-069867",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Cabela's",
+        "brand:wikidata": "Q2793714",
+        "name": "Cabela's",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/Cabelas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cabelas-069867.jpg",
+      "local_logo_path": "localbrand/logo/cabelas-069867.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Cabelas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cabelas-069867.jpg"
+      }
+    },
+    {
+      "displayName": "Cape Union Mart",
+      "id": "capeunionmart-fb8ccb",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Cape Union Mart",
+        "brand:wikidata": "Q110085683",
+        "name": "Cape Union Mart",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/capeunionmart/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/capeunionmart-fb8ccb.jpg",
+      "local_logo_path": "localbrand/logo/capeunionmart-fb8ccb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/capeunionmart/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/capeunionmart-fb8ccb.jpg"
+      }
+    },
+    {
+      "displayName": "Cotswold Outdoor",
+      "id": "cotswoldoutdoor-f55d12",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "cotswold"
+      ],
+      "tags": {
+        "brand": "Cotswold Outdoor",
+        "brand:wikidata": "Q5175488",
+        "name": "Cotswold Outdoor",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/CotswoldOutdoor/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cotswoldoutdoor-f55d12.png",
+      "local_logo_path": "localbrand/logo/cotswoldoutdoor-f55d12.png",
+      "logos": {
+        "original": "https://graph.facebook.com/CotswoldOutdoor/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cotswoldoutdoor-f55d12.png"
+      }
+    },
+    {
+      "displayName": "Eastern Mountain Sports",
+      "id": "easternmountainsports-d32658",
+      "locationSet": {
+        "include": [
+          "us-ct.geojson",
+          "us-ma.geojson",
+          "us-me.geojson",
+          "us-nh.geojson",
+          "us-nj.geojson",
+          "us-ny.geojson",
+          "us-pa.geojson",
+          "us-vt.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Eastern Mountain Sports",
+        "brand:wikidata": "Q5330322",
+        "name": "Eastern Mountain Sports",
+        "shop": "outdoor",
+        "short_name": "EMS"
+      },
+      "original_logo_url": "https://graph.facebook.com/easternmntnsports/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easternmountainsports-d32658.jpg",
+      "local_logo_path": "localbrand/logo/easternmountainsports-d32658.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/easternmntnsports/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easternmountainsports-d32658.jpg"
+      }
+    },
+    {
+      "displayName": "Eiger",
+      "id": "eiger-19c913",
+      "locationSet": {
+        "include": [
+          "id"
+        ]
+      },
+      "tags": {
+        "brand": "Eiger",
+        "brand:wikidata": "Q25471361",
+        "name": "Eiger",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/eigeradventure/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eiger-19c913.jpg",
+      "local_logo_path": "localbrand/logo/eiger-19c913.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/eigeradventure/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eiger-19c913.jpg"
+      }
+    },
+    {
+      "displayName": "Ekosport",
+      "id": "ekosport-6bb650",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Ekosport",
+        "brand:wikidata": "Q130221125",
+        "name": "Ekosport",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/ekosport.fr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ekosport-6bb650.jpg",
+      "local_logo_path": "localbrand/logo/ekosport-6bb650.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ekosport.fr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ekosport-6bb650.jpg"
+      }
+    },
+    {
+      "displayName": "Espace Montagne",
+      "id": "espacemontagne-6bb650",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Espace Montagne",
+        "brand:wikidata": "Q130221137",
+        "name": "Espace Montagne",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/espacemontagnefrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/espacemontagne-6bb650.jpg",
+      "local_logo_path": "localbrand/logo/espacemontagne-6bb650.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/espacemontagnefrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/espacemontagne-6bb650.jpg"
+      }
+    },
+    {
+      "displayName": "Fjällräven",
+      "id": "fjallraven-748e5d",
+      "locationSet": {
+        "include": [
+          "ca",
+          "ch",
+          "pl",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Fjällräven",
+        "brand:wikidata": "Q1422481",
+        "name": "Fjällräven",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/Fjallraven/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fjallraven-748e5d.jpg",
+      "local_logo_path": "localbrand/logo/fjallraven-748e5d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Fjallraven/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fjallraven-748e5d.jpg"
+      }
+    },
+    {
+      "displayName": "Fritz Berger",
+      "id": "fritzberger-00734f",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Fritz Berger",
+        "brand:wikidata": "Q107636665",
+        "name": "Fritz Berger",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/campingberger/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fritzberger-00734f.jpg",
+      "local_logo_path": "localbrand/logo/fritzberger-00734f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/campingberger/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fritzberger-00734f.jpg"
+      }
+    },
+    {
+      "displayName": "Gander Outdoors",
+      "id": "ganderoutdoors-a7317e",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "gander mountain"
+      ],
+      "tags": {
+        "brand": "Gander Outdoors",
+        "brand:wikidata": "Q5520637",
+        "name": "Gander Outdoors",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Globetrotter",
+      "id": "globetrotter-00734f",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Globetrotter",
+        "brand:wikidata": "Q1531763",
+        "name": "Globetrotter",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/globetrotter.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/globetrotter-00734f.jpg",
+      "local_logo_path": "localbrand/logo/globetrotter-00734f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/globetrotter.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/globetrotter-00734f.jpg"
+      }
+    },
+    {
+      "displayName": "Go Outdoors",
+      "id": "gooutdoors-f55d12",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Go Outdoors",
+        "brand:wikidata": "Q75293941",
+        "dog": "yes",
+        "name": "Go Outdoors",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/GOoutdoorsUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gooutdoors-f55d12.jpg",
+      "local_logo_path": "localbrand/logo/gooutdoors-f55d12.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GOoutdoorsUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gooutdoors-f55d12.jpg"
+      }
+    },
+    {
+      "displayName": "Go Outdoors Express",
+      "id": "gooutdoorsexpress-f55d12",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Go Outdoors Express",
+        "brand:wikidata": "Q131862654",
+        "dog": "yes",
+        "name": "Go Outdoors Express",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/GOoutdoorsUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gooutdoorsexpress-f55d12.jpg",
+      "local_logo_path": "localbrand/logo/gooutdoorsexpress-f55d12.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GOoutdoorsUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gooutdoorsexpress-f55d12.jpg"
+      }
+    },
+    {
+      "displayName": "Husky",
+      "id": "husky-240bcf",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Husky",
+        "brand:wikidata": "Q54973467",
+        "name": "Husky",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/huskycz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/husky-240bcf.jpg",
+      "local_logo_path": "localbrand/logo/husky-240bcf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/huskycz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/husky-240bcf.jpg"
+      }
+    },
+    {
+      "displayName": "Jack Wolfskin",
+      "id": "jackwolfskin-d66c75",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "ch",
+          "de",
+          "fx",
+          "gb",
+          "it",
+          "nl",
+          "pl",
+          "ua"
+        ]
+      },
+      "tags": {
+        "brand": "Jack Wolfskin",
+        "brand:wikidata": "Q536133",
+        "name": "Jack Wolfskin",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/JACKWOLFSKINofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jackwolfskin-d66c75.jpg",
+      "local_logo_path": "localbrand/logo/jackwolfskin-d66c75.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JACKWOLFSKINofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jackwolfskin-d66c75.jpg"
+      }
+    },
+    {
+      "displayName": "Kathmandu",
+      "id": "kathmandu-7b766e",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Kathmandu",
+        "brand:wikidata": "Q1736294",
+        "name": "Kathmandu",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/kathmandu/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kathmandu-7b766e.png",
+      "local_logo_path": "localbrand/logo/kathmandu-7b766e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/kathmandu/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kathmandu-7b766e.png"
+      }
+    },
+    {
+      "displayName": "L.L.Bean",
+      "id": "llbean-b092d8",
+      "locationSet": {
+        "include": [
+          "ca",
+          "jp",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "L.L.Bean",
+        "brand:wikidata": "Q6131944",
+        "name": "L.L.Bean",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/llbean/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/llbean-b092d8.jpg",
+      "local_logo_path": "localbrand/logo/llbean-b092d8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/llbean/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/llbean-b092d8.jpg"
+      }
+    },
+    {
+      "displayName": "Macpac",
+      "id": "macpac-7b766e",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Macpac",
+        "brand:wikidata": "Q6724943",
+        "name": "Macpac",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/macpac/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/macpac-7b766e.jpg",
+      "local_logo_path": "localbrand/logo/macpac-7b766e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/macpac/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/macpac-7b766e.jpg"
+      }
+    },
+    {
+      "displayName": "McTREK",
+      "id": "mctrek-00734f",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "McTREK",
+        "brand:wikidata": "Q110007506",
+        "name": "McTREK",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/mctrekoutdoorsports/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mctrek-00734f.jpg",
+      "local_logo_path": "localbrand/logo/mctrek-00734f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mctrekoutdoorsports/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mctrek-00734f.jpg"
+      }
+    },
+    {
+      "displayName": "MEC Mountain Equipment Company",
+      "id": "mecmountainequipmentcompany-388b66",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "mec",
+        "mec canada",
+        "mountain equipment company",
+        "mountain equipment coop"
+      ],
+      "tags": {
+        "brand": "MEC Mountain Equipment Company",
+        "brand:wikidata": "Q104867916",
+        "name": "MEC Mountain Equipment Company",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/mec/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mecmountainequipmentcompany-388b66.jpg",
+      "local_logo_path": "localbrand/logo/mecmountainequipmentcompany-388b66.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mec/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mecmountainequipmentcompany-388b66.jpg"
+      }
+    },
+    {
+      "displayName": "Millets",
+      "id": "millets-f55d12",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Millets",
+        "brand:wikidata": "Q64822903",
+        "name": "Millets",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/milletsonlinefans/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/millets-f55d12.png",
+      "local_logo_path": "localbrand/logo/millets-f55d12.png",
+      "logos": {
+        "original": "https://graph.facebook.com/milletsonlinefans/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/millets-f55d12.png"
+      }
+    },
+    {
+      "displayName": "Mountain Warehouse",
+      "id": "mountainwarehouse-19caf6",
+      "locationSet": {
+        "include": [
+          "at",
+          "ca",
+          "de",
+          "gb",
+          "ie",
+          "nz",
+          "pl",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Mountain Warehouse",
+        "brand:wikidata": "Q6925414",
+        "name": "Mountain Warehouse",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/MountainWarehouse/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mountainwarehouse-19caf6.jpg",
+      "local_logo_path": "localbrand/logo/mountainwarehouse-19caf6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MountainWarehouse/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mountainwarehouse-19caf6.jpg"
+      }
+    },
+    {
+      "displayName": "Nature & Découvertes",
+      "id": "natureanddecouvertes-fb7405",
+      "locationSet": {
+        "include": [
+          "be",
+          "ch",
+          "fr",
+          "lu",
+          "pt"
+        ]
+      },
+      "matchNames": [
+        "nature et découvertes"
+      ],
+      "tags": {
+        "brand": "Nature & Découvertes",
+        "brand:wikidata": "Q3337111",
+        "name": "Nature & Découvertes",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/natureetdecouvertes/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/natureanddecouvertes-fb7405.jpg",
+      "local_logo_path": "localbrand/logo/natureanddecouvertes-fb7405.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/natureetdecouvertes/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/natureanddecouvertes-fb7405.jpg"
+      }
+    },
+    {
+      "displayName": "Naturkompaniet",
+      "id": "naturkompaniet-ab6c4a",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Naturkompaniet",
+        "brand:wikidata": "Q10594975",
+        "name": "Naturkompaniet",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/naturkompaniet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/naturkompaniet-ab6c4a.png",
+      "local_logo_path": "localbrand/logo/naturkompaniet-ab6c4a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/naturkompaniet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/naturkompaniet-ab6c4a.png"
+      }
+    },
+    {
+      "displayName": "Outdoor Warehouse",
+      "id": "outdoorwarehouse-fb8ccb",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Outdoor Warehouse",
+        "brand:wikidata": "Q130485369",
+        "name": "Outdoor Warehouse",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/OutdoorW/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/outdoorwarehouse-fb8ccb.jpg",
+      "local_logo_path": "localbrand/logo/outdoorwarehouse-fb8ccb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OutdoorW/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/outdoorwarehouse-fb8ccb.jpg"
+      }
+    },
+    {
+      "displayName": "Regatta Great Outdoors",
+      "id": "regattagreatoutdoors-d45246",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Regatta Great Outdoors",
+        "brand:wikidata": "Q9305279",
+        "name": "Regatta Great Outdoors",
+        "shop": "outdoor",
+        "short_name": "Regatta"
+      },
+      "original_logo_url": "https://graph.facebook.com/RegattaOutdoors/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/regattagreatoutdoors-d45246.jpg",
+      "local_logo_path": "localbrand/logo/regattagreatoutdoors-d45246.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RegattaOutdoors/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/regattagreatoutdoors-d45246.jpg"
+      }
+    },
+    {
+      "displayName": "REI",
+      "id": "rei-72e82e",
+      "locationSet": {
+        "include": [
+          "id",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "REI",
+        "brand:wikidata": "Q3414933",
+        "name": "REI",
+        "official_name": "Recreational Equipment, Inc.",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/9062006483/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rei-72e82e.jpg",
+      "local_logo_path": "localbrand/logo/rei-72e82e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/9062006483/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rei-72e82e.jpg"
+      }
+    },
+    {
+      "displayName": "Rock Point",
+      "id": "rockpoint-8604ab",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "Rock Point",
+        "brand:wikidata": "Q58604820",
+        "name": "Rock Point",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/Rock.Point/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rockpoint-8604ab.jpg",
+      "local_logo_path": "localbrand/logo/rockpoint-8604ab.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Rock.Point/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rockpoint-8604ab.jpg"
+      }
+    },
+    {
+      "displayName": "Sierra",
+      "id": "sierra-a7317e",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "alt_name": "Sierra Trading Post",
+        "brand": "Sierra",
+        "brand:wikidata": "Q7511598",
+        "name": "Sierra",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/sierraofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sierra-a7317e.png",
+      "local_logo_path": "localbrand/logo/sierra-a7317e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/sierraofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sierra-a7317e.png"
+      }
+    },
+    {
+      "displayName": "Snow+Rock",
+      "id": "snowrock-f55d12",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "snow & rock"
+      ],
+      "tags": {
+        "brand": "Snow+Rock",
+        "brand:wikidata": "Q113556466",
+        "name": "Snow+Rock",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/snowandrock/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/snowrock-f55d12.png",
+      "local_logo_path": "localbrand/logo/snowrock-f55d12.png",
+      "logos": {
+        "original": "https://graph.facebook.com/snowandrock/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/snowrock-f55d12.png"
+      }
+    },
+    {
+      "displayName": "Sportsman's Warehouse",
+      "id": "sportsmanswarehouse-a7317e",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Sportsman's Warehouse",
+        "brand:wikidata": "Q7579979",
+        "name": "Sportsman's Warehouse",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/sportsmanswh/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sportsmanswarehouse-a7317e.jpg",
+      "local_logo_path": "localbrand/logo/sportsmanswarehouse-a7317e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sportsmanswh/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sportsmanswarehouse-a7317e.jpg"
+      }
+    },
+    {
+      "displayName": "TOG24",
+      "id": "tog24-911a4c",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "TOG24",
+        "brand:wikidata": "Q131273719",
+        "name": "TOG24",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/tog24official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tog24-911a4c.png",
+      "local_logo_path": "localbrand/logo/tog24-911a4c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/tog24official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tog24-911a4c.png"
+      }
+    },
+    {
+      "displayName": "Torpedo7",
+      "id": "torpedo7-f40221",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Torpedo7",
+        "brand:wikidata": "Q110221600",
+        "name": "Torpedo7",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/torpedo7/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/torpedo7-f40221.jpg",
+      "local_logo_path": "localbrand/logo/torpedo7-f40221.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/torpedo7/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/torpedo7-f40221.jpg"
+      }
+    },
+    {
+      "displayName": "Trespass",
+      "id": "trespass-0f1422",
+      "locationSet": {
+        "include": [
+          "fx",
+          "gb",
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "Trespass",
+        "brand:wikidata": "Q17035733",
+        "name": "Trespass",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/trespass/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/trespass-0f1422.jpg",
+      "local_logo_path": "localbrand/logo/trespass-0f1422.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/trespass/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/trespass-0f1422.jpg"
+      }
+    },
+    {
+      "displayName": "Vaude",
+      "id": "vaude-00734f",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Vaude",
+        "brand:wikidata": "Q322238",
+        "name": "Vaude",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/VAUDE.Sport/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vaude-00734f.jpg",
+      "local_logo_path": "localbrand/logo/vaude-00734f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/VAUDE.Sport/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vaude-00734f.jpg"
+      }
+    },
+    {
+      "displayName": "YETI",
+      "id": "yeti-a7317e",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "YETI",
+        "brand:wikidata": "Q22026369",
+        "name": "YETI",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/Yeti/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yeti-a7317e.jpg",
+      "local_logo_path": "localbrand/logo/yeti-a7317e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Yeti/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yeti-a7317e.jpg"
+      }
+    },
+    {
+      "displayName": "МдРегион",
+      "id": "9d80db-29bb69",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "МдРегион",
+        "name": "МдРегион",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "上州屋",
+      "id": "johshuya-c097b7",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "上州屋",
+        "brand:en": "Johshuya",
+        "brand:ja": "上州屋",
+        "brand:wikidata": "Q11358975",
+        "name": "上州屋",
+        "name:en": "Johshuya",
+        "name:ja": "上州屋",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/johshuya/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johshuya-c097b7.jpg",
+      "local_logo_path": "localbrand/logo/johshuya-c097b7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/johshuya/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johshuya-c097b7.jpg"
+      }
+    },
+    {
+      "displayName": "城市綠洲",
+      "id": "metrooasis-887a29",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "城市綠洲",
+        "brand:en": "Metro Oasis",
+        "brand:wikidata": "Q132360408",
+        "brand:zh": "城市綠洲",
+        "name": "城市綠洲",
+        "name:en": "Metro Oasis",
+        "name:zh": "城市綠洲",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/metroasis/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metrooasis-887a29.jpg",
+      "local_logo_path": "localbrand/logo/metrooasis-887a29.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/metroasis/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metrooasis-887a29.jpg"
+      }
+    },
+    {
+      "displayName": "歐都納",
+      "id": "atunas-887a29",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "歐都納",
+        "brand:en": "Atunas",
+        "brand:wikidata": "Q132360419",
+        "brand:zh": "歐都納",
+        "name": "歐都納",
+        "name:en": "Atunas",
+        "name:zh": "歐都納",
+        "shop": "outdoor"
+      },
+      "original_logo_url": "https://graph.facebook.com/atunas.taiwan/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/atunas-887a29.jpg",
+      "local_logo_path": "localbrand/logo/atunas-887a29.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/atunas.taiwan/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/atunas-887a29.jpg"
+      }
+    }
+  ]
+}

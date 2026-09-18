@@ -1,0 +1,599 @@
+{
+  "properties": {
+    "path": "brands/shop/beverages",
+    "exclude": {
+      "generic": [
+        "^(beverages|getränkemarkt)$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "alldrink",
+      "id": "alldrink-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "alldrink",
+        "brand:wikidata": "Q110155637",
+        "name": "alldrink",
+        "shop": "beverages"
+      },
+      "original_logo_url": "https://graph.facebook.com/alldrink.gmbh/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alldrink-c4cb62.jpg",
+      "local_logo_path": "localbrand/logo/alldrink-c4cb62.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/alldrink.gmbh/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alldrink-c4cb62.jpg"
+      }
+    },
+    {
+      "displayName": "Benz Wein- und Getränkemarkt",
+      "id": "benzweinundgetrankemarkt-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Benz Wein- und Getränkemarkt",
+        "brand:wikidata": "Q108885696",
+        "name": "Benz Wein- und Getränkemarkt",
+        "shop": "beverages"
+      }
+    },
+    {
+      "displayName": "bilgro",
+      "id": "bilgro-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "bilgro",
+        "brand:wikidata": "Q108029888",
+        "name": "bilgro",
+        "shop": "beverages"
+      },
+      "original_logo_url": "https://graph.facebook.com/bilgrogetraenke/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bilgro-c4cb62.jpg",
+      "local_logo_path": "localbrand/logo/bilgro-c4cb62.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bilgrogetraenke/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bilgro-c4cb62.jpg"
+      }
+    },
+    {
+      "displayName": "EDEKA Getränkemarkt",
+      "id": "edekagetrankemarkt-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "EDEKA",
+        "brand:wikidata": "Q57450576",
+        "name": "EDEKA Getränkemarkt",
+        "shop": "beverages"
+      },
+      "original_logo_url": "https://graph.facebook.com/EDEKA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edekagetrankemarkt-c4cb62.png",
+      "local_logo_path": "localbrand/logo/edekagetrankemarkt-c4cb62.png",
+      "logos": {
+        "original": "https://graph.facebook.com/EDEKA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edekagetrankemarkt-c4cb62.png"
+      }
+    },
+    {
+      "displayName": "Fiiz Drinks",
+      "id": "fiizdrinks-dd8a79",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Fiiz Drinks",
+        "brand:wikidata": "Q124327883",
+        "name": "Fiiz Drinks",
+        "shop": "beverages"
+      },
+      "original_logo_url": "https://graph.facebook.com/fiizdrinks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fiizdrinks-dd8a79.jpg",
+      "local_logo_path": "localbrand/logo/fiizdrinks-dd8a79.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fiizdrinks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fiizdrinks-dd8a79.jpg"
+      }
+    },
+    {
+      "displayName": "Finkbeiner",
+      "id": "finkbeiner-4a45fb",
+      "locationSet": {
+        "include": [
+          "de-bw.geojson",
+          "de-by.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Finkbeiner",
+        "brand:wikidata": "Q114116029",
+        "name": "Finkbeiner",
+        "shop": "beverages"
+      }
+    },
+    {
+      "displayName": "Fränky Getränkemarkt",
+      "id": "frankygetrankemarkt-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Fränky Getränkemarkt",
+        "brand:wikidata": "Q107356988",
+        "name": "Fränky Getränkemarkt",
+        "shop": "beverages"
+      }
+    },
+    {
+      "displayName": "Fristo",
+      "id": "fristo-650acc",
+      "locationSet": {
+        "include": [
+          "at",
+          "de"
+        ]
+      },
+      "matchNames": [
+        "fristo getränkemarkt"
+      ],
+      "matchTags": [
+        "shop/supermarket"
+      ],
+      "tags": {
+        "brand": "Fristo",
+        "brand:wikidata": "Q1465151",
+        "name": "Fristo",
+        "shop": "beverages"
+      },
+      "original_logo_url": "https://graph.facebook.com/848769365134665/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fristo-650acc.png",
+      "local_logo_path": "localbrand/logo/fristo-650acc.png",
+      "logos": {
+        "original": "https://graph.facebook.com/848769365134665/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fristo-650acc.png"
+      }
+    },
+    {
+      "displayName": "Getränke Arena",
+      "id": "getrankearena-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Getränke Arena",
+        "brand:wikidata": "Q107116272",
+        "name": "Getränke Arena",
+        "shop": "beverages"
+      }
+    },
+    {
+      "displayName": "Getränke City",
+      "id": "getrankecity-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Getränke City",
+        "brand:wikidata": "Q101480351",
+        "name": "Getränke City",
+        "shop": "beverages"
+      }
+    },
+    {
+      "displayName": "Getränke Hoffmann",
+      "id": "getrankehoffmann-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "dursty"
+      ],
+      "tags": {
+        "brand": "Getränke Hoffmann",
+        "brand:wikidata": "Q19284021",
+        "name": "Getränke Hoffmann",
+        "shop": "beverages"
+      },
+      "original_logo_url": "https://graph.facebook.com/getraenkehoffmann/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/getrankehoffmann-c4cb62.jpg",
+      "local_logo_path": "localbrand/logo/getrankehoffmann-c4cb62.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/getraenkehoffmann/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/getrankehoffmann-c4cb62.jpg"
+      }
+    },
+    {
+      "displayName": "Getränke Quelle",
+      "id": "getrankequelle-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Getränke Quelle",
+        "brand:wikidata": "Q111540507",
+        "name": "Getränke Quelle",
+        "shop": "beverages"
+      },
+      "original_logo_url": "https://graph.facebook.com/getraenkequelle.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/getrankequelle-c4cb62.jpg",
+      "local_logo_path": "localbrand/logo/getrankequelle-c4cb62.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/getraenkequelle.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/getrankequelle-c4cb62.jpg"
+      }
+    },
+    {
+      "displayName": "Getränkeland",
+      "id": "getrankeland-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Getränkeland",
+        "brand:wikidata": "Q62594849",
+        "name": "Getränkeland",
+        "shop": "beverages"
+      },
+      "original_logo_url": "https://graph.facebook.com/Getraenkeland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/getrankeland-c4cb62.jpg",
+      "local_logo_path": "localbrand/logo/getrankeland-c4cb62.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Getraenkeland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/getrankeland-c4cb62.jpg"
+      }
+    },
+    {
+      "displayName": "Getränkewelt",
+      "id": "getrankewelt-f24eb8",
+      "locationSet": {
+        "include": [
+          "de"
+        ],
+        "exclude": [
+          [
+            6.966,
+            51.66,
+            55
+          ]
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Getränkewelt",
+        "brand:wikidata": "Q19964998",
+        "name": "Getränkewelt",
+        "shop": "beverages"
+      }
+    },
+    {
+      "displayName": "Getränkewelt (HSE)",
+      "id": "getrankewelt-fe99b7",
+      "locationSet": {
+        "include": [
+          [
+            6.966,
+            51.66,
+            55
+          ]
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Getränkewelt",
+        "brand:wikidata": "Q107370287",
+        "name": "Getränkewelt",
+        "shop": "beverages"
+      }
+    },
+    {
+      "displayName": "Hol'ab",
+      "id": "holab-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Hol'ab",
+        "brand:wikidata": "Q57557270",
+        "name": "Hol'ab",
+        "shop": "beverages"
+      },
+      "original_logo_url": "https://graph.facebook.com/holab.getraenkemarkt/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/holab-c4cb62.png",
+      "local_logo_path": "localbrand/logo/holab-c4cb62.png",
+      "logos": {
+        "original": "https://graph.facebook.com/holab.getraenkemarkt/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/holab-c4cb62.png"
+      }
+    },
+    {
+      "displayName": "Hörl",
+      "id": "horl-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Hörl",
+        "brand:wikidata": "Q110258331",
+        "name": "Hörl",
+        "shop": "beverages"
+      }
+    },
+    {
+      "displayName": "logo Getränke-Fachmarkt",
+      "id": "logogetrankefachmarkt-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "logo",
+        "brand:wikidata": "Q28777575",
+        "name": "logo Getränke-Fachmarkt",
+        "shop": "beverages",
+        "short_name": "logo"
+      },
+      "original_logo_url": "https://graph.facebook.com/logogetraenke/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/logogetrankefachmarkt-c4cb62.jpg",
+      "local_logo_path": "localbrand/logo/logogetrankefachmarkt-c4cb62.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/logogetraenke/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/logogetrankefachmarkt-c4cb62.jpg"
+      }
+    },
+    {
+      "displayName": "Markgrafen Getränkemarkt",
+      "id": "markgrafengetrankemarkt-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "markgrafen getränkevertrieb",
+        "markgrafen getränkevertrieb gmbh"
+      ],
+      "tags": {
+        "brand": "Markgrafen Getränkemarkt",
+        "brand:wikidata": "Q100324493",
+        "name": "Markgrafen Getränkemarkt",
+        "shop": "beverages"
+      }
+    },
+    {
+      "displayName": "Netto Getränke-Discount",
+      "id": "nettogetrankediscount-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Netto Getränke-Discount",
+        "brand:wikidata": "Q879858",
+        "name": "Netto Getränke-Discount",
+        "shop": "beverages"
+      },
+      "original_logo_url": "https://graph.facebook.com/nettomarkendiscount/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nettogetrankediscount-c4cb62.png",
+      "local_logo_path": "localbrand/logo/nettogetrankediscount-c4cb62.png",
+      "logos": {
+        "original": "https://graph.facebook.com/nettomarkendiscount/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nettogetrankediscount-c4cb62.png"
+      }
+    },
+    {
+      "displayName": "Oasis",
+      "id": "oasis-bfd7dc",
+      "locationSet": {
+        "include": [
+          "bw",
+          "ls",
+          "na",
+          "sz",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Oasis",
+        "brand:wikidata": "Q126737349",
+        "name": "Oasis",
+        "shop": "beverages"
+      },
+      "original_logo_url": "https://graph.facebook.com/OasisWater/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oasis-bfd7dc.jpg",
+      "local_logo_path": "localbrand/logo/oasis-bfd7dc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OasisWater/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oasis-bfd7dc.jpg"
+      }
+    },
+    {
+      "displayName": "Orterer Getränkemarkt",
+      "id": "orterergetrankemarkt-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Orterer Getränkemarkt",
+        "brand:wikidata": "Q23787118",
+        "name": "Orterer Getränkemarkt",
+        "shop": "beverages"
+      },
+      "original_logo_url": "https://graph.facebook.com/360104644403824/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orterergetrankemarkt-c4cb62.png",
+      "local_logo_path": "localbrand/logo/orterergetrankemarkt-c4cb62.png",
+      "logos": {
+        "original": "https://graph.facebook.com/360104644403824/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orterergetrankemarkt-c4cb62.png"
+      }
+    },
+    {
+      "displayName": "REWE Getränkemarkt",
+      "id": "rewegetrankemarkt-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "REWE Getränkemarkt",
+        "brand:wikidata": "Q57519344",
+        "name": "REWE Getränkemarkt",
+        "shop": "beverages"
+      },
+      "original_logo_url": "https://graph.facebook.com/Rewe/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rewegetrankemarkt-c4cb62.jpg",
+      "local_logo_path": "localbrand/logo/rewegetrankemarkt-c4cb62.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Rewe/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rewegetrankemarkt-c4cb62.jpg"
+      }
+    },
+    {
+      "displayName": "Sagasser",
+      "id": "sagasser-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Sagasser",
+        "brand:wikidata": "Q30838417",
+        "name": "Sagasser",
+        "shop": "beverages"
+      },
+      "original_logo_url": "https://graph.facebook.com/SAGASSERgetraenke/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sagasser-c4cb62.jpg",
+      "local_logo_path": "localbrand/logo/sagasser-c4cb62.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SAGASSERgetraenke/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sagasser-c4cb62.jpg"
+      }
+    },
+    {
+      "displayName": "Sobi",
+      "id": "sobi-c4cb62",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Sobi",
+        "brand:wikidata": "Q98509159",
+        "name": "Sobi",
+        "shop": "beverages"
+      }
+    },
+    {
+      "displayName": "Trink & Spare",
+      "id": "trinkandspare-573561",
+      "locationSet": {
+        "include": [
+          "de-nw.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Trink & Spare",
+        "brand:wikidata": "Q99284521",
+        "name": "Trink & Spare",
+        "shop": "beverages"
+      },
+      "original_logo_url": "https://graph.facebook.com/trinkundspare/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/trinkandspare-573561.jpg",
+      "local_logo_path": "localbrand/logo/trinkandspare-573561.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/trinkundspare/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/trinkandspare-573561.jpg"
+      }
+    },
+    {
+      "displayName": "trinkgut",
+      "id": "trinkgut-fe02c7",
+      "locationSet": {
+        "include": [
+          "de-by.geojson",
+          "de-he.geojson",
+          "de-ni.geojson",
+          "de-nw.geojson",
+          "de-rp.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "trinkgut",
+        "brand:wikidata": "Q2453627",
+        "name": "trinkgut",
+        "shop": "beverages"
+      }
+    },
+    {
+      "displayName": "鴻福堂 Hung Fook Tong",
+      "id": "hungfooktong-71bf69",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "brand": "鴻福堂 Hung Fook Tong",
+        "brand:en": "Hung Fook Tong",
+        "brand:wikidata": "Q11173952",
+        "brand:zh": "鴻福堂",
+        "name": "鴻福堂 Hung Fook Tong",
+        "name:en": "Hung Fook Tong",
+        "name:zh": "鴻福堂",
+        "shop": "beverages"
+      },
+      "original_logo_url": "https://graph.facebook.com/HUNGFOOKTONGFANS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hungfooktong-71bf69.jpg",
+      "local_logo_path": "localbrand/logo/hungfooktong-71bf69.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HUNGFOOKTONGFANS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hungfooktong-71bf69.jpg"
+      }
+    }
+  ]
+}

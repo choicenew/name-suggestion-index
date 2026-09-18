@@ -1,0 +1,43 @@
+{
+  "properties": {
+    "path": "brands/amenity/trolley_bay",
+    "exclude": {
+      "generic": [
+        "^cart return$",
+        "^chariots?$",
+        "^trolley bay$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Smarte Carte",
+      "id": "smartecarte-0866fc",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "gb",
+          "nz",
+          "se",
+          "sg",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "trolley_bay",
+        "brand": "Smarte Carte",
+        "brand:wikidata": "Q7544098",
+        "fee": "yes",
+        "name": "Smarte Carte"
+      },
+      "original_logo_url": "https://graph.facebook.com/smartecarte/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smartecarte-0866fc.png",
+      "local_logo_path": "localbrand/logo/smartecarte-0866fc.png",
+      "logos": {
+        "original": "https://graph.facebook.com/smartecarte/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smartecarte-0866fc.png"
+      }
+    }
+  ]
+}

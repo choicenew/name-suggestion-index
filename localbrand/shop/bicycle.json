@@ -1,0 +1,980 @@
+{
+  "properties": {
+    "path": "brands/shop/bicycle",
+    "exclude": {
+      "generic": [
+        "^(bicycle|cykel)$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "99 Bikes",
+      "id": "99bikes-0d00fa",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "matchNames": [
+        "bike barn"
+      ],
+      "tags": {
+        "brand": "99 Bikes",
+        "brand:wikidata": "Q110288298",
+        "name": "99 Bikes",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/99bikes/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/99bikes-0d00fa.png",
+      "local_logo_path": "localbrand/logo/99bikes-0d00fa.png",
+      "logos": {
+        "original": "https://graph.facebook.com/99bikes/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/99bikes-0d00fa.png"
+      }
+    },
+    {
+      "displayName": "Alltricks",
+      "id": "alltricks-64ac44",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Alltricks",
+        "brand:wikidata": "Q28872992",
+        "name": "Alltricks",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/alltricks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alltricks-64ac44.jpg",
+      "local_logo_path": "localbrand/logo/alltricks-64ac44.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/alltricks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alltricks-64ac44.jpg"
+      }
+    },
+    {
+      "displayName": "Amslod Experience Center",
+      "id": "amslodexperiencecenter-a0a74d",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Amslod",
+        "brand:wikidata": "Q116172590",
+        "name": "Amslod Experience Center",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "displayName": "B.O.C.",
+      "id": "boc-b51da6",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "B.O.C.",
+        "brand:wikidata": "Q107103852",
+        "name": "B.O.C.",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "displayName": "Balfe's Bikes",
+      "id": "balfesbikes-e982e5",
+      "locationSet": {
+        "include": [
+          "gb-eng"
+        ]
+      },
+      "tags": {
+        "brand": "Balfe's Bikes",
+        "brand:wikidata": "Q113483414",
+        "name": "Balfe's Bikes",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/Balfesbikes/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/balfesbikes-e982e5.jpg",
+      "local_logo_path": "localbrand/logo/balfesbikes-e982e5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Balfesbikes/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/balfesbikes-e982e5.jpg"
+      }
+    },
+    {
+      "displayName": "Bike Totaal",
+      "id": "biketotaal-a0a74d",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Bike Totaal",
+        "brand:wikidata": "Q123536506",
+        "name": "Bike Totaal",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/BikeTotaal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biketotaal-a0a74d.jpg",
+      "local_logo_path": "localbrand/logo/biketotaal-a0a74d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BikeTotaal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biketotaal-a0a74d.jpg"
+      }
+    },
+    {
+      "displayName": "Bike&Co",
+      "id": "bikeandco-ff17d0",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "matchNames": [
+        "bike & ko",
+        "bike og co",
+        "bike og ko"
+      ],
+      "note": "preserve name as the brand is not primary visual identity of shops",
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Bike&Co",
+        "brand:wikidata": "Q138392067",
+        "name": "Bike&Co",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/bikeandco.dk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bikeandco-ff17d0.jpg",
+      "local_logo_path": "localbrand/logo/bikeandco-ff17d0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bikeandco.dk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bikeandco-ff17d0.jpg"
+      }
+    },
+    {
+      "displayName": "Bouticycle",
+      "id": "bouticycle-64ac44",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Bouticycle",
+        "brand:wikidata": "Q130216203",
+        "name": "Bouticycle",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "displayName": "Culture Vélo",
+      "id": "culturevelo-64ac44",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Culture Vélo",
+        "brand:wikidata": "Q130215001",
+        "name": "Culture Vélo",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/culturevelo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/culturevelo-64ac44.jpg",
+      "local_logo_path": "localbrand/logo/culturevelo-64ac44.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/culturevelo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/culturevelo-64ac44.jpg"
+      }
+    },
+    {
+      "displayName": "Cyclable",
+      "id": "cyclable-64ac44",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Cyclable",
+        "brand:wikidata": "Q130214989",
+        "name": "Cyclable",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/ReseauCyclable/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cyclable-64ac44.jpg",
+      "local_logo_path": "localbrand/logo/cyclable-64ac44.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ReseauCyclable/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cyclable-64ac44.jpg"
+      }
+    },
+    {
+      "displayName": "Cycle Lab",
+      "id": "cyclelab-d271c4",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Cycle Lab",
+        "brand:wikidata": "Q130487839",
+        "name": "Cycle Lab",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/CycleLab/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cyclelab-d271c4.jpg",
+      "local_logo_path": "localbrand/logo/cyclelab-d271c4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CycleLab/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cyclelab-d271c4.jpg"
+      }
+    },
+    {
+      "displayName": "Evans Cycles",
+      "id": "evanscycles-3697a8",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Evans Cycles",
+        "brand:wikidata": "Q5415901",
+        "name": "Evans Cycles",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/evanscycles/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/evanscycles-3697a8.jpg",
+      "local_logo_path": "localbrand/logo/evanscycles-3697a8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/evanscycles/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/evanscycles-3697a8.jpg"
+      }
+    },
+    {
+      "displayName": "Fahrrad XXL",
+      "id": "fahrradxxl-b51da6",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Fahrrad XXL",
+        "brand:wikidata": "Q99976386",
+        "name": "Fahrrad XXL",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/FahrradXXL/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fahrradxxl-b51da6.jpg",
+      "local_logo_path": "localbrand/logo/fahrradxxl-b51da6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FahrradXXL/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fahrradxxl-b51da6.jpg"
+      }
+    },
+    {
+      "displayName": "Fiets & Service",
+      "id": "fietsandservice-a0a74d",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Fiets & Service",
+        "brand:wikidata": "Q134972535",
+        "name": "Fiets & Service",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Fiets_%26_Service%2C_Groningen_Central_Station_%282018%29_03.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fietsandservice-a0a74d.jpg",
+      "local_logo_path": "localbrand/logo/fietsandservice-a0a74d.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Fiets_%26_Service%2C_Groningen_Central_Station_%282018%29_03.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fietsandservice-a0a74d.jpg"
+      }
+    },
+    {
+      "displayName": "Fietsenwinkel.nl",
+      "id": "fietsenwinkelnl-a0a74d",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Fietsenwinkel.nl",
+        "brand:wikidata": "Q116172638",
+        "name": "Fietsenwinkel.nl",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/Fietsenwinkel.nl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fietsenwinkelnl-a0a74d.jpg",
+      "local_logo_path": "localbrand/logo/fietsenwinkelnl-a0a74d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Fietsenwinkel.nl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fietsenwinkelnl-a0a74d.jpg"
+      }
+    },
+    {
+      "displayName": "Fietswereld",
+      "id": "fietswereld-a0a74d",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Fietswereld",
+        "brand:wikidata": "Q116172680",
+        "name": "Fietswereld",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "displayName": "Fri BikeShop",
+      "id": "fribikeshop-ff17d0",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "Fri BikeShop",
+        "brand:wikidata": "Q80575447",
+        "name": "Fri BikeShop",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/fribikeshopdk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fribikeshop-ff17d0.jpg",
+      "local_logo_path": "localbrand/logo/fribikeshop-ff17d0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fribikeshopdk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fribikeshop-ff17d0.jpg"
+      }
+    },
+    {
+      "displayName": "Giant",
+      "id": "giant-258fb3",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "mainland china"
+        ]
+      },
+      "tags": {
+        "brand": "Giant",
+        "brand:wikidata": "Q703557",
+        "name": "Giant",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/giantbicycles/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/giant-258fb3.jpg",
+      "local_logo_path": "localbrand/logo/giant-258fb3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/giantbicycles/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/giant-258fb3.jpg"
+      }
+    },
+    {
+      "displayName": "Little John Bikes",
+      "id": "littlejohnbikes-b51da6",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Little John Bikes",
+        "brand:wikidata": "Q99976320",
+        "name": "Little John Bikes",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/littlejohnbikes/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/littlejohnbikes-b51da6.jpg",
+      "local_logo_path": "localbrand/logo/littlejohnbikes-b51da6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/littlejohnbikes/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/littlejohnbikes-b51da6.jpg"
+      }
+    },
+    {
+      "displayName": "m-way",
+      "id": "mway-dfdabf",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "brand": "m-way",
+        "brand:wikidata": "Q136486907",
+        "name": "m-way",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/m.way/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mway-dfdabf.jpg",
+      "local_logo_path": "localbrand/logo/mway-dfdabf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/m.way/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mway-dfdabf.jpg"
+      }
+    },
+    {
+      "displayName": "Mantel",
+      "id": "mantel-a0a74d",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Mantel",
+        "brand:wikidata": "Q138028950",
+        "name": "Mantel",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/MantelCom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mantel-a0a74d.png",
+      "local_logo_path": "localbrand/logo/mantel-a0a74d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MantelCom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mantel-a0a74d.png"
+      }
+    },
+    {
+      "displayName": "Materiel-velo.com",
+      "id": "materielvelocom-64ac44",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "matchNames": [
+        "matériel vélo"
+      ],
+      "tags": {
+        "brand": "Materiel-velo.com",
+        "brand:wikidata": "Q130216224",
+        "name": "Materiel-velo.com",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/materielvelo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/materielvelocom-64ac44.jpg",
+      "local_logo_path": "localbrand/logo/materielvelocom-64ac44.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/materielvelo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/materielvelocom-64ac44.jpg"
+      }
+    },
+    {
+      "displayName": "Mondovélo",
+      "id": "mondovelo-64ac44",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Mondovélo",
+        "brand:wikidata": "Q130216213",
+        "name": "Mondovélo",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/MondoveloFrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mondovelo-64ac44.jpg",
+      "local_logo_path": "localbrand/logo/mondovelo-64ac44.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MondoveloFrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mondovelo-64ac44.jpg"
+      }
+    },
+    {
+      "displayName": "Planet Bike",
+      "id": "planetbike-556b25",
+      "locationSet": {
+        "include": [
+          "me",
+          "mk",
+          "rs"
+        ]
+      },
+      "tags": {
+        "brand": "Planet Bike",
+        "brand:wikidata": "Q134562435",
+        "name": "Planet Bike",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/PlanetBikeSerbia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/planetbike-556b25.jpg",
+      "local_logo_path": "localbrand/logo/planetbike-556b25.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PlanetBikeSerbia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/planetbike-556b25.jpg"
+      }
+    },
+    {
+      "displayName": "Profile",
+      "id": "profile-a0a74d",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Profile",
+        "brand:wikidata": "Q124339994",
+        "name": "Profile",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/profiledefietsspecialist/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/profile-a0a74d.png",
+      "local_logo_path": "localbrand/logo/profile-a0a74d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/profiledefietsspecialist/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/profile-a0a74d.png"
+      }
+    },
+    {
+      "displayName": "Pure Electric",
+      "id": "pureelectric-3697a8",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Pure Electric",
+        "brand:wikidata": "Q100998855",
+        "name": "Pure Electric",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/RidePureElectric/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pureelectric-3697a8.jpg",
+      "local_logo_path": "localbrand/logo/pureelectric-3697a8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RidePureElectric/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pureelectric-3697a8.jpg"
+      }
+    },
+    {
+      "displayName": "Rad Power Bikes",
+      "id": "radpowerbikes-ed6fad",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Rad Power Bikes",
+        "brand:wikidata": "Q115136785",
+        "name": "Rad Power Bikes",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/radpowerbikes/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/radpowerbikes-ed6fad.jpg",
+      "local_logo_path": "localbrand/logo/radpowerbikes-ed6fad.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/radpowerbikes/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/radpowerbikes-ed6fad.jpg"
+      }
+    },
+    {
+      "displayName": "Specialized",
+      "id": "specialized-3628a9",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Specialized",
+        "brand:wikidata": "Q124966655",
+        "name": "Specialized",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/SpecializedDE/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/specialized-3628a9.jpg",
+      "local_logo_path": "localbrand/logo/specialized-3628a9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SpecializedDE/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/specialized-3628a9.jpg"
+      }
+    },
+    {
+      "displayName": "Stella",
+      "id": "stella-75e76c",
+      "locationSet": {
+        "include": [
+          "be",
+          "de",
+          "nl"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Stella",
+        "brand:wikidata": "Q98299138",
+        "name": "Stella",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/stellafietsen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stella-75e76c.jpg",
+      "local_logo_path": "localbrand/logo/stella-75e76c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/stellafietsen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stella-75e76c.jpg"
+      }
+    },
+    {
+      "displayName": "tokyobike",
+      "id": "tokyobike-1c47bc",
+      "locationSet": {
+        "include": [
+          "de",
+          "gb-lon.geojson",
+          "jp",
+          "mx",
+          "th"
+        ]
+      },
+      "tags": {
+        "brand": "tokyobike",
+        "brand:wikidata": "Q113486193",
+        "name": "tokyobike",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/tokyobike.jp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tokyobike-1c47bc.jpg",
+      "local_logo_path": "localbrand/logo/tokyobike-1c47bc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tokyobike.jp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tokyobike-1c47bc.jpg"
+      }
+    },
+    {
+      "displayName": "Trek",
+      "id": "trek-3628a9",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "bike gallery",
+        "treck",
+        "trek bicycle"
+      ],
+      "tags": {
+        "alt_name": "Trek Bicycle Store",
+        "brand": "Trek",
+        "brand:wikidata": "Q1067617",
+        "name": "Trek",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/TrekBicycle/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/trek-3628a9.png",
+      "local_logo_path": "localbrand/logo/trek-3628a9.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TrekBicycle/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/trek-3628a9.png"
+      }
+    },
+    {
+      "displayName": "Wim",
+      "id": "wim-ae2479",
+      "locationSet": {
+        "include": [
+          "id"
+        ]
+      },
+      "tags": {
+        "brand": "Wim",
+        "name": "Wim",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "displayName": "Zweirad-Center Stadler",
+      "id": "zweiradcenterstadler-d06ca0",
+      "locationSet": {
+        "include": [
+          "at",
+          "de"
+        ]
+      },
+      "matchNames": [
+        "stadler"
+      ],
+      "tags": {
+        "brand": "Zweirad-Center Stadler",
+        "brand:wikidata": "Q27225809",
+        "name": "Zweirad-Center Stadler",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/ZweiradStadler/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zweiradcenterstadler-d06ca0.jpg",
+      "local_logo_path": "localbrand/logo/zweiradcenterstadler-d06ca0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ZweiradStadler/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zweiradcenterstadler-d06ca0.jpg"
+      }
+    },
+    {
+      "displayName": "Веломарка",
+      "id": "0d5775-20b41a",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Веломарка",
+        "name": "Веломарка",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "displayName": "イオンバイク",
+      "id": "aeonbike-1d9d0f",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "イオンバイク",
+        "brand:en": "Aeon Bike",
+        "brand:ja": "イオンバイク",
+        "brand:wikidata": "Q11286054",
+        "name": "イオンバイク",
+        "name:en": "Aeon Bike",
+        "name:ja": "イオンバイク",
+        "official_name": "イオンサイクルショップ",
+        "official_name:en": "Aeon Bike Shop",
+        "official_name:ja": "イオンサイクルショップ",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/aeonbike/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aeonbike-1d9d0f.jpg",
+      "local_logo_path": "localbrand/logo/aeonbike-1d9d0f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/aeonbike/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aeonbike-1d9d0f.jpg"
+      }
+    },
+    {
+      "displayName": "サイクルスポット",
+      "id": "cyclespot-1d9d0f",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "サイクルスポット",
+        "brand:en": "Cycle Spot",
+        "brand:ja": "サイクルスポット",
+        "brand:wikidata": "Q93620124",
+        "name": "サイクルスポット",
+        "name:en": "Cycle Spot",
+        "name:ja": "サイクルスポット",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/cyclespot/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cyclespot-1d9d0f.jpg",
+      "local_logo_path": "localbrand/logo/cyclespot-1d9d0f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/cyclespot/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cyclespot-1d9d0f.jpg"
+      }
+    },
+    {
+      "displayName": "サイクルベースあさひ",
+      "id": "cyclebaseasahi-1d9d0f",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "サイクルベースあさひ",
+        "brand:en": "Cycle Base Asahi",
+        "brand:ja": "サイクルベースあさひ",
+        "brand:wikidata": "Q11257202",
+        "name": "サイクルベースあさひ",
+        "name:en": "Cycle Base Asahi",
+        "name:ja": "サイクルベースあさひ",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/cbasahi/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cyclebaseasahi-1d9d0f.jpg",
+      "local_logo_path": "localbrand/logo/cyclebaseasahi-1d9d0f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/cbasahi/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cyclebaseasahi-1d9d0f.jpg"
+      }
+    },
+    {
+      "displayName": "ダイワサイクル",
+      "id": "daiwacycle-1d9d0f",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ダイワサイクル",
+        "brand:en": "Daiwa Cycle",
+        "brand:ja": "ダイワサイクル",
+        "brand:wikidata": "Q109598687",
+        "name": "ダイワサイクル",
+        "name:en": "Daiwa Cycle",
+        "name:ja": "ダイワサイクル",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Daiwa_Cycle_Ikuno_Osaka_%281%29.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daiwacycle-1d9d0f.jpg",
+      "local_logo_path": "localbrand/logo/daiwacycle-1d9d0f.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/d/db/Daiwa_Cycle_Ikuno_Osaka_%281%29.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daiwacycle-1d9d0f.jpg"
+      }
+    },
+    {
+      "displayName": "上海永久",
+      "id": "forever-88c22b",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "上海永久",
+        "brand:en": "Forever",
+        "brand:wikidata": "Q19851515",
+        "brand:zh": "上海永久",
+        "name": "上海永久",
+        "name:en": "Forever",
+        "name:zh": "上海永久",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "displayName": "喜德盛",
+      "id": "xds-88c22b",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "喜德盛",
+        "brand:en": "XDS",
+        "brand:wikidata": "Q130705074",
+        "brand:zh": "喜德盛",
+        "name": "喜德盛",
+        "name:en": "XDS",
+        "name:zh": "喜德盛",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/GD_%E5%BB%A3%E6%9D%B1_Guangdong_DG_%E6%9D%B1%E8%8E%9E_DongGuan_%E8%90%AC%E6%B1%9F_WanJiang_%E4%B8%8B%E4%BA%AD%E6%B1%9F%E6%BF%B1%E8%B7%AF_XiaTing_JiangBin_Road_December_2024_R12S_15.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xds-88c22b.jpg",
+      "local_logo_path": "localbrand/logo/xds-88c22b.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/3/31/GD_%E5%BB%A3%E6%9D%B1_Guangdong_DG_%E6%9D%B1%E8%8E%9E_DongGuan_%E8%90%AC%E6%B1%9F_WanJiang_%E4%B8%8B%E4%BA%AD%E6%B1%9F%E6%BF%B1%E8%B7%AF_XiaTing_JiangBin_Road_December_2024_R12S_15.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xds-88c22b.jpg"
+      }
+    },
+    {
+      "displayName": "捷安特",
+      "id": "giant-88c22b",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "捷安特",
+        "brand:en": "Giant",
+        "brand:wikidata": "Q703557",
+        "brand:zh": "捷安特",
+        "name": "捷安特",
+        "name:en": "Giant",
+        "name:zh": "捷安特",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/giantbicycles/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/giant-88c22b.jpg",
+      "local_logo_path": "localbrand/logo/giant-88c22b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/giantbicycles/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/giant-88c22b.jpg"
+      }
+    },
+    {
+      "displayName": "美利达",
+      "id": "merida-88c22b",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "美利达",
+        "brand:en": "Merida",
+        "brand:wikidata": "Q619230",
+        "brand:zh": "美利达",
+        "name": "美利达",
+        "name:en": "Merida",
+        "name:zh": "美利达",
+        "shop": "bicycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/meridabike.taiwan/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/merida-88c22b.jpg",
+      "local_logo_path": "localbrand/logo/merida-88c22b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/meridabike.taiwan/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/merida-88c22b.jpg"
+      }
+    }
+  ]
+}

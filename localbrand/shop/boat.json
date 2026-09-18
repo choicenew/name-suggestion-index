@@ -1,0 +1,84 @@
+{
+  "properties": {
+    "path": "brands/shop/boat",
+    "exclude": {
+      "generic": [
+        "^boat$",
+        "^港口$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Burnsco",
+      "id": "burnsco-bc4d2d",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Burnsco",
+        "brand:wikidata": "Q116825899",
+        "name": "Burnsco",
+        "seamark:small_craft_facility:category": "chandler",
+        "seamark:type": "small_craft_facility",
+        "shop": "boat"
+      },
+      "original_logo_url": "https://graph.facebook.com/Burnsco/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/burnsco-bc4d2d.png",
+      "local_logo_path": "localbrand/logo/burnsco-bc4d2d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Burnsco/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/burnsco-bc4d2d.png"
+      }
+    },
+    {
+      "displayName": "MarineMax",
+      "id": "marinemax-db06dd",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "MarineMax",
+        "brand:wikidata": "Q119140995",
+        "name": "MarineMax",
+        "shop": "boat"
+      },
+      "original_logo_url": "https://graph.facebook.com/MarineMaxLeisure/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marinemax-db06dd.png",
+      "local_logo_path": "localbrand/logo/marinemax-db06dd.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MarineMaxLeisure/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marinemax-db06dd.png"
+      }
+    },
+    {
+      "displayName": "West Marine",
+      "id": "westmarine-db06dd",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "West Marine",
+        "brand:wikidata": "Q7985852",
+        "name": "West Marine",
+        "seamark:small_craft_facility:category": "chandler",
+        "seamark:type": "small_craft_facility",
+        "shop": "boat"
+      },
+      "original_logo_url": "https://graph.facebook.com/WestMarine/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/westmarine-db06dd.jpg",
+      "local_logo_path": "localbrand/logo/westmarine-db06dd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WestMarine/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/westmarine-db06dd.jpg"
+      }
+    }
+  ]
+}

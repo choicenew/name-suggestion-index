@@ -1,0 +1,451 @@
+{
+  "properties": {
+    "path": "brands/shop/chocolate",
+    "exclude": {
+      "generic": [
+        "^chocolate$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Cacau Show",
+      "id": "cacaushow-634f60",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Cacau Show",
+        "brand:wikidata": "Q9671713",
+        "name": "Cacau Show",
+        "shop": "chocolate"
+      },
+      "original_logo_url": "https://graph.facebook.com/CacauShow/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cacaushow-634f60.png",
+      "local_logo_path": "localbrand/logo/cacaushow-634f60.png",
+      "logos": {
+        "original": "https://graph.facebook.com/CacauShow/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cacaushow-634f60.png"
+      }
+    },
+    {
+      "displayName": "Chocolates Brasil Cacau",
+      "id": "chocolatesbrasilcacau-634f60",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Chocolates Brasil Cacau",
+        "brand:wikidata": "Q9750569",
+        "name": "Chocolates Brasil Cacau",
+        "shop": "chocolate",
+        "short_name": "Brasil Cacau"
+      },
+      "original_logo_url": "https://graph.facebook.com/ChocolatesBrasilCacau/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chocolatesbrasilcacau-634f60.jpg",
+      "local_logo_path": "localbrand/logo/chocolatesbrasilcacau-634f60.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ChocolatesBrasilCacau/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chocolatesbrasilcacau-634f60.jpg"
+      }
+    },
+    {
+      "displayName": "De Neuville",
+      "id": "deneuville-b0e734",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "De Neuville",
+        "brand:wikidata": "Q106353063",
+        "name": "De Neuville",
+        "shop": "chocolate"
+      },
+      "original_logo_url": "https://graph.facebook.com/deneuvillefrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deneuville-b0e734.png",
+      "local_logo_path": "localbrand/logo/deneuville-b0e734.png",
+      "logos": {
+        "original": "https://graph.facebook.com/deneuvillefrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deneuville-b0e734.png"
+      }
+    },
+    {
+      "displayName": "Dufoux Chocolats",
+      "id": "dufouxchocolats-b0e734",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Dufoux Chocolats",
+        "brand:wikidata": "Q115796729",
+        "name": "Dufoux Chocolats",
+        "shop": "chocolate"
+      },
+      "original_logo_url": "https://graph.facebook.com/maison.dufoux/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dufouxchocolats-b0e734.jpg",
+      "local_logo_path": "localbrand/logo/dufouxchocolats-b0e734.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/maison.dufoux/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dufouxchocolats-b0e734.jpg"
+      }
+    },
+    {
+      "displayName": "Fannie May",
+      "id": "fanniemay-0e6ae0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Fannie May",
+        "brand:wikidata": "Q5433964",
+        "name": "Fannie May",
+        "shop": "chocolate"
+      },
+      "original_logo_url": "https://graph.facebook.com/FannieMayChocolates/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fanniemay-0e6ae0.jpg",
+      "local_logo_path": "localbrand/logo/fanniemay-0e6ae0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FannieMayChocolates/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fanniemay-0e6ae0.jpg"
+      }
+    },
+    {
+      "displayName": "Gertrude Hawk Chocolates",
+      "id": "gertrudehawkchocolates-0e6ae0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Gertrude Hawk Chocolates",
+        "brand:wikidata": "Q5553326",
+        "name": "Gertrude Hawk Chocolates",
+        "shop": "chocolate",
+        "short_name": "Gertrude Hawk"
+      },
+      "original_logo_url": "https://graph.facebook.com/gertrudehawkchocolates/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gertrudehawkchocolates-0e6ae0.jpg",
+      "local_logo_path": "localbrand/logo/gertrudehawkchocolates-0e6ae0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/gertrudehawkchocolates/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gertrudehawkchocolates-0e6ae0.jpg"
+      }
+    },
+    {
+      "displayName": "Godiva",
+      "id": "godiva-63b8e9",
+      "locationSet": {
+        "include": [
+          "au",
+          "gb",
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "Godiva",
+        "brand:wikidata": "Q931084",
+        "name": "Godiva",
+        "shop": "chocolate"
+      },
+      "original_logo_url": "https://graph.facebook.com/Godiva/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/godiva-63b8e9.jpg",
+      "local_logo_path": "localbrand/logo/godiva-63b8e9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Godiva/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/godiva-63b8e9.jpg"
+      }
+    },
+    {
+      "displayName": "I.M. Frellsen",
+      "id": "imfrellsen-9675fe",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "I.M. Frellsen",
+        "brand:wikidata": "Q12342297",
+        "name": "I.M. Frellsen",
+        "operator": "I.M. Frellsen",
+        "operator:wikidata": "Q12342297",
+        "shop": "chocolate"
+      },
+      "original_logo_url": "https://graph.facebook.com/frellsenchokolade/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/imfrellsen-9675fe.jpg",
+      "local_logo_path": "localbrand/logo/imfrellsen-9675fe.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/frellsenchokolade/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/imfrellsen-9675fe.jpg"
+      }
+    },
+    {
+      "displayName": "Jeff de Bruges",
+      "id": "jeffdebruges-bc7364",
+      "locationSet": {
+        "include": [
+          "at",
+          "bg",
+          "ca",
+          "cz",
+          "de",
+          "ee",
+          "es",
+          "fr",
+          "gb",
+          "it",
+          "jo",
+          "lu",
+          "ma",
+          "om",
+          "sa",
+          "sk",
+          "sn",
+          "tn"
+        ]
+      },
+      "tags": {
+        "brand": "Jeff de Bruges",
+        "brand:wikidata": "Q3176626",
+        "name": "Jeff de Bruges",
+        "shop": "chocolate"
+      },
+      "original_logo_url": "https://graph.facebook.com/JeffdeBrugesofficiel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jeffdebruges-bc7364.png",
+      "local_logo_path": "localbrand/logo/jeffdebruges-bc7364.png",
+      "logos": {
+        "original": "https://graph.facebook.com/JeffdeBrugesofficiel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jeffdebruges-bc7364.png"
+      }
+    },
+    {
+      "displayName": "Kopenhagen",
+      "id": "kopenhagen-634f60",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Kopenhagen",
+        "brand:wikidata": "Q10314624",
+        "name": "Kopenhagen",
+        "shop": "chocolate"
+      },
+      "original_logo_url": "https://graph.facebook.com/ChocolatesKopenhagen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kopenhagen-634f60.jpg",
+      "local_logo_path": "localbrand/logo/kopenhagen-634f60.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ChocolatesKopenhagen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kopenhagen-634f60.jpg"
+      }
+    },
+    {
+      "displayName": "Läderach",
+      "id": "laderach-dbe1d4",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Läderach",
+        "brand:wikidata": "Q1437143",
+        "name": "Läderach",
+        "shop": "chocolate"
+      }
+    },
+    {
+      "displayName": "Laura Secord",
+      "id": "laurasecord-a30910",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Laura Secord",
+        "brand:wikidata": "Q6499418",
+        "name": "Laura Secord",
+        "shop": "chocolate"
+      },
+      "original_logo_url": "https://graph.facebook.com/laurasecord.ca/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laurasecord-a30910.jpg",
+      "local_logo_path": "localbrand/logo/laurasecord-a30910.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/laurasecord.ca/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laurasecord-a30910.jpg"
+      }
+    },
+    {
+      "displayName": "Le Chocolat Alain Ducasse",
+      "id": "lechocolatalainducasse-ad9b7e",
+      "locationSet": {
+        "include": [
+          "de",
+          "fx",
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Le Chocolat Alain Ducasse",
+        "brand:wikidata": "Q114374063",
+        "name": "Le Chocolat Alain Ducasse",
+        "shop": "chocolate"
+      },
+      "original_logo_url": "https://graph.facebook.com/chocolatalainducasse/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lechocolatalainducasse-ad9b7e.jpg",
+      "local_logo_path": "localbrand/logo/lechocolatalainducasse-ad9b7e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/chocolatalainducasse/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lechocolatalainducasse-ad9b7e.jpg"
+      }
+    },
+    {
+      "displayName": "Leonidas",
+      "id": "leonidas-dbe1d4",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Leonidas",
+        "brand:wikidata": "Q80335",
+        "name": "Leonidas",
+        "shop": "chocolate"
+      },
+      "original_logo_url": "https://graph.facebook.com/Leonidas.Official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leonidas-dbe1d4.jpg",
+      "local_logo_path": "localbrand/logo/leonidas-dbe1d4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Leonidas.Official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leonidas-dbe1d4.jpg"
+      }
+    },
+    {
+      "displayName": "Lindt",
+      "id": "lindt-dbe1d4",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Lindt",
+        "brand:wikidata": "Q152822",
+        "name": "Lindt",
+        "shop": "chocolate"
+      },
+      "original_logo_url": "https://graph.facebook.com/lindtchocolateusa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lindt-dbe1d4.jpg",
+      "local_logo_path": "localbrand/logo/lindt-dbe1d4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lindtchocolateusa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lindt-dbe1d4.jpg"
+      }
+    },
+    {
+      "displayName": "Neuhaus",
+      "id": "neuhaus-04c57d",
+      "locationSet": {
+        "include": [
+          "be",
+          "de",
+          "lu",
+          "nl",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Neuhaus",
+        "brand:wikidata": "Q1813801",
+        "name": "Neuhaus",
+        "shop": "chocolate"
+      },
+      "original_logo_url": "https://graph.facebook.com/neuhaus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/neuhaus-04c57d.png",
+      "local_logo_path": "localbrand/logo/neuhaus-04c57d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/neuhaus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/neuhaus-04c57d.png"
+      }
+    },
+    {
+      "displayName": "Purdys Chocolatier",
+      "id": "purdyschocolatier-a30910",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchTags": [
+        "craft/confectionery"
+      ],
+      "tags": {
+        "brand": "Purdys Chocolatier",
+        "brand:wikidata": "Q7261007",
+        "name": "Purdys Chocolatier",
+        "shop": "chocolate"
+      },
+      "original_logo_url": "https://graph.facebook.com/PurdysChocolatier/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/purdyschocolatier-a30910.png",
+      "local_logo_path": "localbrand/logo/purdyschocolatier-a30910.png",
+      "logos": {
+        "original": "https://graph.facebook.com/PurdysChocolatier/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/purdyschocolatier-a30910.png"
+      }
+    },
+    {
+      "displayName": "Voisin",
+      "id": "voisin-b0e734",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Voisin",
+        "brand:wikidata": "Q3562373",
+        "name": "Voisin",
+        "shop": "chocolate"
+      },
+      "original_logo_url": "https://graph.facebook.com/chocolatsvoisin/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/voisin-b0e734.jpg",
+      "local_logo_path": "localbrand/logo/voisin-b0e734.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/chocolatsvoisin/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/voisin-b0e734.jpg"
+      }
+    },
+    {
+      "displayName": "Yves Thuriès",
+      "id": "yvesthuries-c71a51",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "matchNames": [
+        "les chocolats yves thuriès"
+      ],
+      "tags": {
+        "brand": "Yves Thuriès",
+        "brand:wikidata": "Q141037098",
+        "name": "Yves Thuriès",
+        "shop": "chocolate"
+      }
+    }
+  ]
+}

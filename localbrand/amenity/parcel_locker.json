@@ -1,0 +1,2808 @@
+{
+  "properties": {
+    "path": "brands/amenity/parcel_locker",
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^parcel locker$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "5post",
+      "id": "5post-c00268",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "5post",
+        "name": "5post"
+      }
+    },
+    {
+      "displayName": "Allegro One Box",
+      "id": "allegroonebox-ce4e28",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "matchNames": [
+        "allegro"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Allegro One Box",
+        "brand:wikidata": "Q110738715"
+      },
+      "original_logo_url": "https://graph.facebook.com/onebyallegrocz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allegroonebox-ce4e28.jpg",
+      "local_logo_path": "localbrand/logo/allegroonebox-ce4e28.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/onebyallegrocz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allegroonebox-ce4e28.jpg"
+      }
+    },
+    {
+      "displayName": "AlzaBox",
+      "id": "alzabox-bee63b",
+      "locationSet": {
+        "include": [
+          "at",
+          "cz",
+          "hu",
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "AlzaBox",
+        "brand:wikidata": "Q115254158",
+        "name": "AlzaBox"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Hostiva%C5%99%2C_%C5%A0vehlova%2C_AlzaBox.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alzabox-bee63b.jpg",
+      "local_logo_path": "localbrand/logo/alzabox-bee63b.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/20/Hostiva%C5%99%2C_%C5%A0vehlova%2C_AlzaBox.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alzabox-bee63b.jpg"
+      }
+    },
+    {
+      "displayName": "Amazon Hub Locker",
+      "id": "amazonhub-f85b1f",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "cn",
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "amazon"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub",
+        "brand:wikidata": "Q100274430"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Amazon_Hub.webp",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amazonhub-f85b1f.webp",
+      "local_logo_path": "localbrand/logo/amazonhub-f85b1f.webp",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/77/Amazon_Hub.webp",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amazonhub-f85b1f.webp"
+      }
+    },
+    {
+      "displayName": "Amazon Hub ロッカー",
+      "id": "amazonhublocker-5c1de3",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "amazon ロッカー",
+        "アマゾン・ハブ・ロッカー"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Hub ロッカー",
+        "brand:en": "Amazon Hub Locker",
+        "brand:ja": "Amazon Hub ロッカー",
+        "brand:wikidata": "Q100274430",
+        "name": "Amazon Hub ロッカー",
+        "name:en": "Amazon Hub Locker",
+        "name:ja": "Amazon Hub ロッカー"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Amazon_Hub.webp",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amazonhublocker-5c1de3.webp",
+      "local_logo_path": "localbrand/logo/amazonhublocker-5c1de3.webp",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/77/Amazon_Hub.webp",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amazonhublocker-5c1de3.webp"
+      }
+    },
+    {
+      "displayName": "Amazon Locker",
+      "id": "amazonlocker-f85b1f",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "cn",
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Amazon Locker",
+        "brand:wikidata": "Q16974764"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Amazonlocker.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amazonlocker-f85b1f.png",
+      "local_logo_path": "localbrand/logo/amazonlocker-f85b1f.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/8/83/Amazonlocker.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amazonlocker-f85b1f.png"
+      }
+    },
+    {
+      "displayName": "Appkomat InPost",
+      "id": "appkomatinpost-ce4e28",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "app_operated": "only",
+        "brand": "Appkomat InPost",
+        "brand:wikidata": "Q130375314",
+        "operator": "InPost",
+        "operator:wikidata": "Q3182097"
+      },
+      "original_logo_url": "https://graph.facebook.com/paczkomatkurier/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/appkomatinpost-ce4e28.jpg",
+      "local_logo_path": "localbrand/logo/appkomatinpost-ce4e28.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/paczkomatkurier/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/appkomatinpost-ce4e28.jpg"
+      }
+    },
+    {
+      "displayName": "Australia Post Parcel Locker",
+      "id": "australiapostparcellocker-a2f344",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Australia Post",
+        "brand:wikidata": "Q1142936",
+        "name": "Australia Post Parcel Locker"
+      },
+      "original_logo_url": "https://graph.facebook.com/australiapost/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/australiapostparcellocker-a2f344.jpg",
+      "local_logo_path": "localbrand/logo/australiapostparcellocker-a2f344.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/australiapost/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/australiapostparcellocker-a2f344.jpg"
+      }
+    },
+    {
+      "displayName": "automat przesyłkowy AliExpress",
+      "id": "aliexpress-ce4e28",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "AliExpress",
+        "brand:wikidata": "Q29904317"
+      },
+      "original_logo_url": "https://graph.facebook.com/AliExpress/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aliexpress-ce4e28.jpg",
+      "local_logo_path": "localbrand/logo/aliexpress-ce4e28.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AliExpress/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aliexpress-ce4e28.jpg"
+      }
+    },
+    {
+      "displayName": "BalíkoBOX",
+      "id": "balikobox-cda9c4",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "BalíkoBOX",
+        "brand:wikidata": "Q131136953",
+        "name": "BalíkoBOX",
+        "operator": "Slovenská pošta",
+        "operator:wikidata": "Q1191849"
+      },
+      "original_logo_url": "https://graph.facebook.com/slovenskaposta/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/balikobox-cda9c4.png",
+      "local_logo_path": "localbrand/logo/balikobox-cda9c4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/slovenskaposta/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/balikobox-cda9c4.png"
+      }
+    },
+    {
+      "displayName": "balíkovo box",
+      "id": "balikovobox-cda9c4",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "balíkovo box",
+        "brand:wikidata": "Q132188077",
+        "name": "balíkovo box",
+        "operator": "Slovak Parcel Service",
+        "operator:wikidata": "Q132187919"
+      },
+      "original_logo_url": "https://graph.facebook.com/slovakparcelservice/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/balikovobox-cda9c4.jpg",
+      "local_logo_path": "localbrand/logo/balikovobox-cda9c4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/slovakparcelservice/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/balikovobox-cda9c4.jpg"
+      }
+    },
+    {
+      "displayName": "Bob Box",
+      "id": "bobbox-6115c3",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Bob Box",
+        "brand:wikidata": "Q141276676",
+        "name": "Bob Box"
+      }
+    },
+    {
+      "displayName": "Box Now (Hrvatska)",
+      "id": "boxnow-30ebd7",
+      "locationSet": {
+        "include": [
+          "hr"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Box Now",
+        "brand:wikidata": "Q117195375"
+      },
+      "original_logo_url": "https://graph.facebook.com/boxnow.hr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boxnow-30ebd7.png",
+      "local_logo_path": "localbrand/logo/boxnow-30ebd7.png",
+      "logos": {
+        "original": "https://graph.facebook.com/boxnow.hr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boxnow-30ebd7.png"
+      }
+    },
+    {
+      "displayName": "Box Now (Ελλάδα)",
+      "id": "boxnow-510af3",
+      "locationSet": {
+        "include": [
+          "gr"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Box Now",
+        "brand:wikidata": "Q117195376"
+      },
+      "original_logo_url": "https://graph.facebook.com/100083301244281/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boxnow-510af3.jpg",
+      "local_logo_path": "localbrand/logo/boxnow-510af3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/100083301244281/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boxnow-510af3.jpg"
+      }
+    },
+    {
+      "displayName": "Box Now (България)",
+      "id": "boxnow-8234c4",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Box Now",
+        "brand:wikidata": "Q117195372"
+      },
+      "original_logo_url": "https://graph.facebook.com/boxnowbg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boxnow-8234c4.jpg",
+      "local_logo_path": "localbrand/logo/boxnow-8234c4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/boxnowbg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boxnow-8234c4.jpg"
+      }
+    },
+    {
+      "displayName": "bpost",
+      "id": "bpost-a3df6a",
+      "locationSet": {
+        "include": [
+          "be"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "bpost",
+        "brand:wikidata": "Q740553"
+      },
+      "original_logo_url": "https://graph.facebook.com/bpost.official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bpost-a3df6a.jpg",
+      "local_logo_path": "localbrand/logo/bpost-a3df6a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bpost.official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bpost-a3df6a.jpg"
+      }
+    },
+    {
+      "displayName": "Budbee",
+      "id": "budbee-8c9d85",
+      "locationSet": {
+        "include": [
+          "be",
+          "dk",
+          "fi",
+          "nl",
+          "se"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Budbee",
+        "brand:wikidata": "Q123582538",
+        "name": "Budbee"
+      },
+      "original_logo_url": "https://graph.facebook.com/budbeecom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/budbee-8c9d85.jpg",
+      "local_logo_path": "localbrand/logo/budbee-8c9d85.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/budbeecom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/budbee-8c9d85.jpg"
+      }
+    },
+    {
+      "displayName": "CityPaq",
+      "id": "citypaq-0d29dc",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "CityPaq",
+        "brand:wikidata": "Q110748819",
+        "name": "CityPaq",
+        "operator": "Correos",
+        "operator:wikidata": "Q776605"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Cajeros_autom%C3%A1ticos_de_paqueter%C3%ADa_en_los_mercados_de_Madrid_%2801%29.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/citypaq-0d29dc.jpg",
+      "local_logo_path": "localbrand/logo/citypaq-0d29dc.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/71/Cajeros_autom%C3%A1ticos_de_paqueter%C3%ADa_en_los_mercados_de_Madrid_%2801%29.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/citypaq-0d29dc.jpg"
+      }
+    },
+    {
+      "displayName": "Costco.com",
+      "id": "costcocom-b3da58",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Costco",
+        "brand:wikidata": "Q715583",
+        "name": "Costco.com"
+      }
+    },
+    {
+      "displayName": "de Buren",
+      "id": "deburen-476b76",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "de Buren",
+        "brand:wikidata": "Q119648956",
+        "name": "de Buren",
+        "operator": "de Buren",
+        "operator:wikidata": "Q119648956"
+      },
+      "original_logo_url": "https://graph.facebook.com/DeBurenAfhaalwanden/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deburen-476b76.jpg",
+      "local_logo_path": "localbrand/logo/deburen-476b76.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DeBurenAfhaalwanden/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deburen-476b76.jpg"
+      }
+    },
+    {
+      "displayName": "DeinFach",
+      "id": "deinfach-83cc4d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "DeinFach",
+        "brand:wikidata": "Q134622119"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/DeinFach_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deinfach-83cc4d.png",
+      "local_logo_path": "localbrand/logo/deinfach-83cc4d.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/DeinFach_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deinfach-83cc4d.png"
+      }
+    },
+    {
+      "displayName": "Deutsche Post",
+      "id": "deutschepost-83cc4d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "deutsche post ag"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Deutsche Post",
+        "brand:wikidata": "Q157645"
+      },
+      "original_logo_url": "https://graph.facebook.com/deutschepost/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deutschepost-83cc4d.jpg",
+      "local_logo_path": "localbrand/logo/deutschepost-83cc4d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/deutschepost/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deutschepost-83cc4d.jpg"
+      }
+    },
+    {
+      "displayName": "DExpress",
+      "id": "dexpress-a2bd5c",
+      "locationSet": {
+        "include": [
+          "rs"
+        ]
+      },
+      "matchNames": [
+        "parcel shop - dexpress"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "DExpress",
+        "name": "DExpress"
+      }
+    },
+    {
+      "displayName": "DHL",
+      "id": "dhl-476b76",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "matchNames": [
+        "dhl pakketautomaat"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "DHL",
+        "brand:wikidata": "Q489815"
+      },
+      "original_logo_url": "https://graph.facebook.com/dhl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dhl-476b76.jpg",
+      "local_logo_path": "localbrand/logo/dhl-476b76.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dhl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dhl-476b76.jpg"
+      }
+    },
+    {
+      "displayName": "DHL BOX 24/7",
+      "id": "dhlbox247-ce4e28",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "matchNames": [
+        "dhl pop box"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "DHL BOX 24/7",
+        "brand:wikidata": "Q115568785"
+      },
+      "original_logo_url": "https://graph.facebook.com/dhl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dhlbox247-ce4e28.jpg",
+      "local_logo_path": "localbrand/logo/dhlbox247-ce4e28.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dhl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dhlbox247-ce4e28.jpg"
+      }
+    },
+    {
+      "displayName": "DHL csomagautomata",
+      "id": "dhl-68603c",
+      "locationSet": {
+        "include": [
+          "hu"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "DHL",
+        "brand:wikidata": "Q131712019"
+      }
+    },
+    {
+      "displayName": "DHL Packstation",
+      "id": "dhlpackstation-83cc4d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "packstation"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "DHL Packstation",
+        "brand:wikidata": "Q1766703"
+      }
+    },
+    {
+      "displayName": "DHL Paketbox",
+      "id": "dhlpaketbox-83cc4d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Paketbox",
+        "brand:wikidata": "Q2046604",
+        "name": "DHL Paketbox"
+      }
+    },
+    {
+      "displayName": "DHL Poststation",
+      "id": "dhlpoststation-83cc4d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "poststation"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "DHL Poststation",
+        "brand:wikidata": "Q123120984"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/DHL_Poststation_%282022%29.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dhlpoststation-83cc4d.png",
+      "local_logo_path": "localbrand/logo/dhlpoststation-83cc4d.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/DHL_Poststation_%282022%29.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dhlpoststation-83cc4d.png"
+      }
+    },
+    {
+      "displayName": "DPD",
+      "id": "dpd-e45cee",
+      "locationSet": {
+        "include": [
+          "lv"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "DPD",
+        "brand:wikidata": "Q541030",
+        "operator": "DPD Latvia",
+        "operator:wikidata": "Q125973085"
+      },
+      "original_logo_url": "https://graph.facebook.com/350375105088695/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpd-e45cee.png",
+      "local_logo_path": "localbrand/logo/dpd-e45cee.png",
+      "logos": {
+        "original": "https://graph.facebook.com/350375105088695/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpd-e45cee.png"
+      }
+    },
+    {
+      "displayName": "DPD Pickup Box",
+      "id": "dpdpickupbox-48c9bb",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "DPD Pickup Box",
+        "brand:wikidata": "Q114273730",
+        "name": "DPD Pickup Box",
+        "operator": "Direct Parcel Distribution CZ",
+        "operator:wikidata": "Q58550406"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/DPD_logo_%282015%29.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupbox-48c9bb.svg",
+      "local_logo_path": "localbrand/logo/dpdpickupbox-48c9bb.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/DPD_logo_%282015%29.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupbox-48c9bb.svg"
+      }
+    },
+    {
+      "displayName": "DPD Pickup Station",
+      "id": "dpdpickupstation-5c8577",
+      "locationSet": {
+        "include": [
+          "ar",
+          "at",
+          "be",
+          "by",
+          "ch",
+          "cn",
+          "de",
+          "ee",
+          "fr",
+          "gb",
+          "hr",
+          "hu",
+          "ie",
+          "kz",
+          "lt",
+          "lu",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "si",
+          "sk",
+          "za"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "DPD Pickup Station",
+        "brand:wikidata": "Q114273730"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/DPD_logo_%282015%29.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupstation-5c8577.svg",
+      "local_logo_path": "localbrand/logo/dpdpickupstation-5c8577.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/DPD_logo_%282015%29.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupstation-5c8577.svg"
+      }
+    },
+    {
+      "displayName": "Dr. Max Box",
+      "id": "drmaxbox-48c9bb",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Dr. Max Box",
+        "brand:wikidata": "Q133275002",
+        "operator": "Dr. Max",
+        "operator:wikidata": "Q56317371"
+      }
+    },
+    {
+      "displayName": "DSV Locker",
+      "id": "dsvlocker-6115c3",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "matchNames": [
+        "dsv"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "DSV Locker",
+        "brand:wikidata": "Q1155771"
+      }
+    },
+    {
+      "displayName": "easybox",
+      "id": "easybox-cd92a3",
+      "locationSet": {
+        "include": [
+          "bg",
+          "hu",
+          "ro"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "easybox",
+        "brand:wikidata": "Q114496224",
+        "payment:cash": "no",
+        "payment:contactless": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:mastercard_contactless": "yes",
+        "payment:mastercard_electronic": "yes",
+        "payment:visa": "yes",
+        "payment:visa_electron": "yes"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Sameday_easybox_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easybox-cd92a3.svg",
+      "local_logo_path": "localbrand/logo/easybox-cd92a3.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/3/39/Sameday_easybox_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easybox-cd92a3.svg"
+      }
+    },
+    {
+      "displayName": "Evri",
+      "id": "evri-ad77d0",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "hermes",
+        "hermes locker"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Evri",
+        "brand:wikidata": "Q115200168"
+      },
+      "original_logo_url": "https://graph.facebook.com/evridelivery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/evri-ad77d0.jpg",
+      "local_logo_path": "localbrand/logo/evri-ad77d0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/evridelivery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/evri-ad77d0.jpg"
+      }
+    },
+    {
+      "displayName": "Express One (България)",
+      "id": "expressone-8234c4",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Express One",
+        "brand:wikidata": "Q115972319"
+      },
+      "original_logo_url": "https://graph.facebook.com/expressonebulgaria/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/expressone-8234c4.jpg",
+      "local_logo_path": "localbrand/logo/expressone-8234c4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/expressonebulgaria/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/expressone-8234c4.jpg"
+      }
+    },
+    {
+      "displayName": "Express One csomagpont",
+      "id": "expressone-68603c",
+      "locationSet": {
+        "include": [
+          "hu"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Express One",
+        "brand:wikidata": "Q131629851"
+      }
+    },
+    {
+      "displayName": "FANbox",
+      "id": "fanbox-ba4d23",
+      "locationSet": {
+        "include": [
+          "ro"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "FANbox",
+        "brand:wikidata": "Q115351090",
+        "name": "FANbox"
+      },
+      "original_logo_url": "https://graph.facebook.com/FANCourier/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fanbox-ba4d23.jpg",
+      "local_logo_path": "localbrand/logo/fanbox-ba4d23.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FANCourier/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fanbox-ba4d23.jpg"
+      }
+    },
+    {
+      "displayName": "Foxpost",
+      "id": "foxpost-68603c",
+      "locationSet": {
+        "include": [
+          "hu"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Foxpost",
+        "brand:wikidata": "Q126538316"
+      },
+      "original_logo_url": "https://graph.facebook.com/foxpostkft/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foxpost-68603c.jpg",
+      "local_logo_path": "localbrand/logo/foxpost-68603c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/foxpostkft/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foxpost-68603c.jpg"
+      }
+    },
+    {
+      "displayName": "Globbing",
+      "id": "globbing-1f20af",
+      "locationSet": {
+        "include": [
+          "am",
+          "kz"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Globbing",
+        "brand:wikidata": "Q138667393",
+        "name": "Globbing"
+      }
+    },
+    {
+      "displayName": "GLS",
+      "id": "gls-7f0db9",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "cz",
+          "hr",
+          "si",
+          "sk"
+        ]
+      },
+      "matchNames": [
+        "gls parcel locker"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "GLS",
+        "brand:wikidata": "Q366182"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/GLS_Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gls-7f0db9.svg",
+      "local_logo_path": "localbrand/logo/gls-7f0db9.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/a3/GLS_Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gls-7f0db9.svg"
+      }
+    },
+    {
+      "displayName": "GLS Balíkomat",
+      "id": "glsbalikomat-cda9c4",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "GLS Balíkomat",
+        "brand:wikidata": "Q366182",
+        "name": "GLS Balíkomat",
+        "operator": "GLS General Logistics Systems Slovakia",
+        "operator:wikidata": "Q133842648"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/GLS_Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/glsbalikomat-cda9c4.svg",
+      "local_logo_path": "localbrand/logo/glsbalikomat-cda9c4.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/a3/GLS_Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/glsbalikomat-cda9c4.svg"
+      }
+    },
+    {
+      "displayName": "GLS Paketomat",
+      "id": "glspaketomat-985bb3",
+      "locationSet": {
+        "include": [
+          "hr",
+          "si"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "GLS Paketomat",
+        "brand:wikidata": "Q366182",
+        "name": "GLS Paketomat"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/GLS_Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/glspaketomat-985bb3.svg",
+      "local_logo_path": "localbrand/logo/glspaketomat-985bb3.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/a3/GLS_Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/glspaketomat-985bb3.svg"
+      }
+    },
+    {
+      "displayName": "GLS Parcel Box",
+      "id": "glsparcelbox-48c9bb",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "matchNames": [
+        "gls"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "GLS Parcel Box",
+        "brand:wikidata": "Q366182",
+        "name": "GLS Parcel Box",
+        "operator": "General Logistics Systems Czech Republic",
+        "operator:wikidata": "Q135580045"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/GLS_Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/glsparcelbox-48c9bb.svg",
+      "local_logo_path": "localbrand/logo/glsparcelbox-48c9bb.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/a3/GLS_Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/glsparcelbox-48c9bb.svg"
+      }
+    },
+    {
+      "displayName": "Growing Communities",
+      "id": "growingcommunities-6089a2",
+      "locationSet": {
+        "include": [
+          "gb-lon.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Growing Communities",
+        "brand:wikidata": "Q109768523",
+        "name": "Growing Communities"
+      },
+      "original_logo_url": "https://graph.facebook.com/growingcommunitieshackney/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/growingcommunities-6089a2.jpg",
+      "local_logo_path": "localbrand/logo/growingcommunities-6089a2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/growingcommunitieshackney/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/growingcommunities-6089a2.jpg"
+      }
+    },
+    {
+      "displayName": "GymBeam Box",
+      "id": "gymbeambox-cda9c4",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "GymBeam Box",
+        "brand:wikidata": "Q138634327",
+        "name": "GymBeam Box"
+      },
+      "original_logo_url": "https://graph.facebook.com/GymBeamSk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gymbeambox-cda9c4.jpg",
+      "local_logo_path": "localbrand/logo/gymbeambox-cda9c4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GymBeamSk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gymbeambox-cda9c4.jpg"
+      }
+    },
+    {
+      "displayName": "IKEA csomagpont",
+      "id": "ikea-68603c",
+      "locationSet": {
+        "include": [
+          "hu"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "IKEA",
+        "brand:wikidata": "Q131629951"
+      }
+    },
+    {
+      "displayName": "Inboxx",
+      "id": "inboxx-83cc4d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Inboxx",
+        "brand:wikidata": "Q141392107"
+      }
+    },
+    {
+      "displayName": "InPost",
+      "id": "inpost-6b37ec",
+      "locationSet": {
+        "include": [
+          "be",
+          "es",
+          "fr",
+          "gb",
+          "it",
+          "lu",
+          "nl",
+          "pt"
+        ]
+      },
+      "matchNames": [
+        "locker inpost"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "InPost",
+        "brand:wikidata": "Q3182097"
+      }
+    },
+    {
+      "displayName": "Instabox",
+      "id": "instabox-f97fed",
+      "locationSet": {
+        "include": [
+          "de",
+          "dk",
+          "nl",
+          "no",
+          "se"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Instabox",
+        "brand:wikidata": "Q109923726",
+        "name": "Instabox"
+      }
+    },
+    {
+      "displayName": "i郵箱",
+      "id": "ibox-89f0e2",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "matchNames": [
+        "ezpost"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "i郵箱",
+        "brand:en": "iBox",
+        "brand:nan": "i-iû-siuⁿ",
+        "brand:nan-Hant": "i郵箱",
+        "brand:nan-Latn-pehoeji": "i-iû-siuⁿ",
+        "brand:nan-Latn-tailo": "i-iû-siunn",
+        "brand:wikidata": "Q4375439",
+        "brand:zh": "i郵箱",
+        "operator": "中華郵政",
+        "operator:en": "Chunghwa Post",
+        "operator:nan": "Tiong-hôa Iû-chèng",
+        "operator:nan-Hant": "中華郵政",
+        "operator:nan-Latn-pehoeji": "Tiong-hôa Iû-chèng",
+        "operator:nan-Latn-tailo": "Tiong-huâ Iû-tsìng",
+        "operator:wikidata": "Q709259",
+        "operator:zh": "中華郵政",
+        "operator:zh-Hans": "中华邮政",
+        "operator:zh-Hant": "中華郵政"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/TRA_Taipei_Station_%284%29_iBox_20190615.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ibox-89f0e2.jpg",
+      "local_logo_path": "localbrand/logo/ibox-89f0e2.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/71/TRA_Taipei_Station_%284%29_iBox_20190615.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ibox-89f0e2.jpg"
+      }
+    },
+    {
+      "displayName": "Latvijas Pasts",
+      "id": "latvijaspasts-e45cee",
+      "locationSet": {
+        "include": [
+          "lv"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Latvijas Pasts",
+        "brand:wikidata": "Q1807088",
+        "name": "Latvijas Pasts"
+      }
+    },
+    {
+      "displayName": "Locker.ge Parcel Locker",
+      "id": "lockerge-303b81",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Locker.ge",
+        "brand:ka": "Locker.ge",
+        "brand:wikidata": "Q131470040",
+        "name": "Locker.ge",
+        "name:en": "Locker.ge",
+        "name:ka": "Locker.ge"
+      }
+    },
+    {
+      "displayName": "LockerPost",
+      "id": "lockerpost-48b7ca",
+      "locationSet": {
+        "include": [
+          "uz"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "LockerPost"
+      }
+    },
+    {
+      "displayName": "Locky",
+      "id": "locky-eaeb86",
+      "locationSet": {
+        "include": [
+          "pt"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Locky",
+        "brand:wikidata": "Q127548459",
+        "operator": "CTT",
+        "operator:wikidata": "Q1024518"
+      },
+      "original_logo_url": "https://graph.facebook.com/lockycacifos/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/locky-eaeb86.jpg",
+      "local_logo_path": "localbrand/logo/locky-eaeb86.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lockycacifos/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/locky-eaeb86.jpg"
+      }
+    },
+    {
+      "displayName": "Lodówkomat InPost",
+      "id": "lodowkomatinpost-ce4e28",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Lodówkomat InPost",
+        "brand:wikidata": "Q126284966",
+        "operator": "InPost",
+        "operator:wikidata": "Q3182097"
+      }
+    },
+    {
+      "displayName": "LP Express",
+      "id": "lpexpress-e34866",
+      "locationSet": {
+        "include": [
+          "lt"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "LP Express",
+        "name": "LP Express"
+      }
+    },
+    {
+      "displayName": "Meest",
+      "id": "meest-7c151e",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "meest express",
+        "міст",
+        "міст експрес",
+        "поштомат meest",
+        "поштомат meest пошта"
+      ],
+      "matchTags": [
+        "amenity/post_box"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Meest",
+        "brand:wikidata": "Q25432124",
+        "name": "Meest"
+      },
+      "original_logo_url": "https://graph.facebook.com/MeestPoshta/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meest-7c151e.jpg",
+      "local_logo_path": "localbrand/logo/meest-7c151e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MeestPoshta/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meest-7c151e.jpg"
+      }
+    },
+    {
+      "displayName": "Mondial Relay",
+      "id": "mondialrelay-318f10",
+      "locationSet": {
+        "include": [
+          "be",
+          "fr"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Mondial Relay",
+        "brand:wikidata": "Q3320547"
+      },
+      "original_logo_url": "https://graph.facebook.com/MondialRelay/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mondialrelay-318f10.jpg",
+      "local_logo_path": "localbrand/logo/mondialrelay-318f10.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MondialRelay/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mondialrelay-318f10.jpg"
+      }
+    },
+    {
+      "displayName": "MPL (Magyar Posta Logisztika)",
+      "id": "mpl-68603c",
+      "locationSet": {
+        "include": [
+          "hu"
+        ]
+      },
+      "matchNames": [
+        "magyar posta logisztika",
+        "magyar posta logisztika (mpl)"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "MPL",
+        "brand:wikidata": "Q131431491"
+      }
+    },
+    {
+      "displayName": "My Post 24",
+      "id": "mypost24-237d95",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "My Post 24",
+        "brand:wikidata": "Q110748685",
+        "name": "My Post 24",
+        "operator": "Die Post",
+        "operator:de": "Die Post",
+        "operator:en": "Swiss Post",
+        "operator:fr": "La Poste",
+        "operator:it": "La Posta",
+        "operator:rm": "La Posta",
+        "operator:wikidata": "Q614803"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Schweizerische_Post_Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mypost24-237d95.svg",
+      "local_logo_path": "localbrand/logo/mypost24-237d95.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Schweizerische_Post_Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mypost24-237d95.svg"
+      }
+    },
+    {
+      "displayName": "myflexbox",
+      "id": "myflexbox-4d2310",
+      "locationSet": {
+        "include": [
+          "at",
+          "de"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "myflexbox",
+        "brand:wikidata": "Q117313525"
+      }
+    },
+    {
+      "displayName": "Nova Poshta",
+      "id": "novaposhta-abee27",
+      "locationSet": {
+        "include": [
+          "md"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Nova Poshta",
+        "brand:wikidata": "Q97191085",
+        "name": "Nova Poshta"
+      }
+    },
+    {
+      "displayName": "Omniva",
+      "id": "omniva-b4a3f3",
+      "locationSet": {
+        "include": [
+          "ee",
+          "lt",
+          "lv"
+        ]
+      },
+      "matchNames": [
+        "eesti post"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Omniva",
+        "brand:wikidata": "Q282457",
+        "name": "Omniva"
+      },
+      "original_logo_url": "https://graph.facebook.com/omniva.ee/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/omniva-b4a3f3.jpg",
+      "local_logo_path": "localbrand/logo/omniva-b4a3f3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/omniva.ee/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/omniva-b4a3f3.jpg"
+      }
+    },
+    {
+      "displayName": "One Box",
+      "id": "onebox-48c9bb",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "matchNames": [
+        "allegro one box",
+        "one box by allegro"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "One Box",
+        "brand:wikidata": "Q110738715",
+        "name": "One Box",
+        "operator": "Allegro Retail",
+        "operator:wikidata": "Q96265995"
+      },
+      "original_logo_url": "https://graph.facebook.com/onebyallegrocz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/onebox-48c9bb.jpg",
+      "local_logo_path": "localbrand/logo/onebox-48c9bb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/onebyallegrocz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/onebox-48c9bb.jpg"
+      }
+    },
+    {
+      "displayName": "Onex",
+      "id": "onex-a9f818",
+      "locationSet": {
+        "include": [
+          "am"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Onex",
+        "brand:wikidata": "Q107140362",
+        "name": "Onex"
+      }
+    },
+    {
+      "displayName": "Orlen Paczka",
+      "id": "orlenpaczka-ce4e28",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "matchTags": [
+        "amenity/post_box"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Orlen Paczka",
+        "brand:wikidata": "Q110457879",
+        "operator": "Orlen",
+        "operator:wikidata": "Q971649"
+      },
+      "original_logo_url": "https://graph.facebook.com/OrlenPaczka/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orlenpaczka-ce4e28.jpg",
+      "local_logo_path": "localbrand/logo/orlenpaczka-ce4e28.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OrlenPaczka/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orlenpaczka-ce4e28.jpg"
+      }
+    },
+    {
+      "displayName": "Overseas Express paketomat",
+      "id": "overseasexpresspaketomat-30ebd7",
+      "locationSet": {
+        "include": [
+          "hr"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Overseas Express Paketomat",
+        "brand:wikidata": "Q137765791",
+        "operator": "Overseas Express",
+        "operator:wikidata": "Q115972775"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Overseas_Express_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/overseasexpresspaketomat-30ebd7.png",
+      "local_logo_path": "localbrand/logo/overseasexpresspaketomat-30ebd7.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Overseas_Express_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/overseasexpresspaketomat-30ebd7.png"
+      }
+    },
+    {
+      "displayName": "Ozon Box",
+      "id": "ozonbox-c00268",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "matchNames": [
+        "постамат ozon box"
+      ],
+      "matchTags": [
+        "amenity/post_box"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Ozon Box",
+        "brand:wikidata": "Q2365235",
+        "name": "Ozon Box"
+      },
+      "original_logo_url": "https://graph.facebook.com/ozon.ru/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ozonbox-c00268.jpg",
+      "local_logo_path": "localbrand/logo/ozonbox-c00268.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ozon.ru/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ozonbox-c00268.jpg"
+      }
+    },
+    {
+      "displayName": "Paczkomat InPost",
+      "id": "paczkomatinpost-ce4e28",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Paczkomat InPost",
+        "brand:wikidata": "Q110970254",
+        "operator": "InPost",
+        "operator:wikidata": "Q3182097"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/InPost_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paczkomatinpost-ce4e28.svg",
+      "local_logo_path": "localbrand/logo/paczkomatinpost-ce4e28.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/InPost_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paczkomatinpost-ce4e28.svg"
+      }
+    },
+    {
+      "displayName": "Paket24 paketomat",
+      "id": "paket24-30ebd7",
+      "locationSet": {
+        "include": [
+          "hr"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Paket24",
+        "brand:wikidata": "Q110748166",
+        "operator": "Hrvatska pošta",
+        "operator:wikidata": "Q507289"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Paket24_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paket24-30ebd7.png",
+      "local_logo_path": "localbrand/logo/paket24-30ebd7.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Paket24_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paket24-30ebd7.png"
+      }
+    },
+    {
+      "displayName": "Pakkeboksen",
+      "id": "pakkeboksen-484cac",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Pakkeboksen",
+        "brand:wikidata": "Q12309164",
+        "name": "Pakkeboksen",
+        "operator": "PostNord Danmark",
+        "operator:wikidata": "Q1334647"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Doegnposten%2C_Lindholm_2010_%28ubt%29.jpeg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pakkeboksen-484cac.jpg",
+      "local_logo_path": "localbrand/logo/pakkeboksen-484cac.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/d/db/Doegnposten%2C_Lindholm_2010_%28ubt%29.jpeg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pakkeboksen-484cac.jpg"
+      }
+    },
+    {
+      "displayName": "Parcel Pending",
+      "id": "parcelpending-6a219a",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Parcel Pending",
+        "brand:wikidata": "Q127685418",
+        "operator": "Quadient",
+        "operator:wikidata": "Q70117211"
+      },
+      "original_logo_url": "https://graph.facebook.com/parcelpending/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parcelpending-6a219a.png",
+      "local_logo_path": "localbrand/logo/parcelpending-6a219a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/parcelpending/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parcelpending-6a219a.png"
+      }
+    },
+    {
+      "displayName": "Penguin Box",
+      "id": "penguinbox-7c84a0",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Penguin Box",
+        "brand:wikidata": "Q120022128"
+      },
+      "original_logo_url": "https://graph.facebook.com/PenguinBox/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/penguinbox-7c84a0.jpg",
+      "local_logo_path": "localbrand/logo/penguinbox-7c84a0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PenguinBox/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/penguinbox-7c84a0.jpg"
+      }
+    },
+    {
+      "displayName": "Pick",
+      "id": "pick-14a07a",
+      "locationSet": {
+        "include": [
+          "sg"
+        ]
+      },
+      "tags": {
+        "alt_name": "Shop 'n' Pick;Pick Locker",
+        "amenity": "parcel_locker",
+        "brand": "Pick",
+        "brand:wikidata": "Q120051152",
+        "name": "Pick",
+        "operator": "Pick Network",
+        "operator:wikidata": "Q120047262"
+      }
+    },
+    {
+      "displayName": "PickPoint",
+      "id": "pickpoint-c00268",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "PickPoint",
+        "brand:wikidata": "Q110276197",
+        "name": "PickPoint"
+      },
+      "original_logo_url": "https://graph.facebook.com/PickPoint/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pickpoint-c00268.jpg",
+      "local_logo_path": "localbrand/logo/pickpoint-c00268.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PickPoint/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pickpoint-c00268.jpg"
+      }
+    },
+    {
+      "displayName": "Pickup Station",
+      "id": "pickupstation-b94a6a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Pickup Station",
+        "brand:wikidata": "Q110748562",
+        "name": "Pickup Station",
+        "operator": "La Poste",
+        "operator:wikidata": "Q373724"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/La_Poste_%28Frankreich%29_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pickupstation-b94a6a.svg",
+      "local_logo_path": "localbrand/logo/pickupstation-b94a6a.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/a1/La_Poste_%28Frankreich%29_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pickupstation-b94a6a.svg"
+      }
+    },
+    {
+      "displayName": "Pigeon Express",
+      "id": "pigeonexpress-8234c4",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "matchNames": [
+        "пигеон експрес"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Pigeon Express",
+        "brand:wikidata": "Q138668232"
+      },
+      "original_logo_url": "https://graph.facebook.com/pigeonexpressbg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pigeonexpress-8234c4.jpg",
+      "local_logo_path": "localbrand/logo/pigeonexpress-8234c4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pigeonexpressbg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pigeonexpress-8234c4.jpg"
+      }
+    },
+    {
+      "displayName": "Pilulka Box",
+      "id": "pilulkabox-7c84a0",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Pilulka Box",
+        "brand:wikidata": "Q130684499",
+        "name": "Pilulka Box",
+        "operator": "Pilulka",
+        "operator:wikidata": "Q41960196"
+      }
+    },
+    {
+      "displayName": "Pocztex",
+      "id": "pocztex-ce4e28",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "preserveTags": [
+        "^opening_hours"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Pocztex",
+        "brand:wikidata": "Q127106701",
+        "opening_hours": "24/7",
+        "operator": "Poczta Polska",
+        "operator:wikidata": "Q168833"
+      },
+      "original_logo_url": "https://graph.facebook.com/pocztapolska/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pocztex-ce4e28.jpg",
+      "local_logo_path": "localbrand/logo/pocztex-ce4e28.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pocztapolska/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pocztex-ce4e28.jpg"
+      }
+    },
+    {
+      "displayName": "POPStation",
+      "id": "popstation-14a07a",
+      "locationSet": {
+        "include": [
+          "sg"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "POPStation",
+        "brand:wikidata": "Q120048216",
+        "name": "POPStation",
+        "operator": "Singapore Post",
+        "operator:wikidata": "Q4049531"
+      }
+    },
+    {
+      "displayName": "Post Abholstation",
+      "id": "postabholstation-82dce7",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Post Abholstation",
+        "brand:wikidata": "Q110748491",
+        "name": "Post Abholstation",
+        "operator": "Österreichische Post",
+        "operator:wikidata": "Q1763505"
+      }
+    },
+    {
+      "displayName": "POST PackUp",
+      "id": "packup-f54db3",
+      "locationSet": {
+        "include": [
+          "lu"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "POST Luxembourg",
+        "brand:wikidata": "Q1570910",
+        "name": "PackUp",
+        "operator": "POST Luxembourg"
+      },
+      "original_logo_url": "https://graph.facebook.com/POSTLuxembourg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/packup-f54db3.jpg",
+      "local_logo_path": "localbrand/logo/packup-f54db3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/POSTLuxembourg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/packup-f54db3.jpg"
+      }
+    },
+    {
+      "displayName": "PostNL",
+      "id": "postnl-476b76",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "matchNames": [
+        "postnl pakketautomaat"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "PostNL",
+        "brand:wikidata": "Q5921598"
+      },
+      "original_logo_url": "https://graph.facebook.com/PostNL/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postnl-476b76.jpg",
+      "local_logo_path": "localbrand/logo/postnl-476b76.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PostNL/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postnl-476b76.jpg"
+      }
+    },
+    {
+      "displayName": "PostNord",
+      "id": "postnord-aa986b",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "PostNord",
+        "brand:wikidata": "Q3181430",
+        "name": "PostNord"
+      },
+      "original_logo_url": "https://graph.facebook.com/postnordsverige/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postnord-aa986b.png",
+      "local_logo_path": "localbrand/logo/postnord-aa986b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/postnordsverige/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postnord-aa986b.png"
+      }
+    },
+    {
+      "displayName": "PPL Parcelbox",
+      "id": "pplparcelbox-48c9bb",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "matchNames": [
+        "ppl"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "PPL Parcelbox",
+        "brand:wikidata": "Q132131206",
+        "name": "PPL Parcelbox",
+        "operator": "PPL CZ",
+        "operator:wikidata": "Q12043470"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Ludge%C5%99ovice%2C_v%C3%BDdejn%C3%AD_boxy.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pplparcelbox-48c9bb.jpg",
+      "local_logo_path": "localbrand/logo/pplparcelbox-48c9bb.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/22/Ludge%C5%99ovice%2C_v%C3%BDdejn%C3%AD_boxy.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pplparcelbox-48c9bb.jpg"
+      }
+    },
+    {
+      "displayName": "PS Paketomat",
+      "id": "pspaketomat-8c1608",
+      "locationSet": {
+        "include": [
+          "si"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "PS Paketomat",
+        "brand:wikidata": "Q110748273",
+        "name": "PS Paketomat",
+        "operator": "Pošta Slovenije",
+        "operator:wikidata": "Q6522631"
+      }
+    },
+    {
+      "displayName": "PUDOステーション",
+      "id": "pudostation-5c1de3",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchTags": [
+        "amenity/post_box"
+      ],
+      "tags": {
+        "alt_name": "プドー・ステーション",
+        "amenity": "parcel_locker",
+        "brand": "プドー",
+        "brand:en": "PUDO",
+        "brand:ja": "プドー",
+        "brand:wikidata": "Q86738066",
+        "name": "PUDOステーション",
+        "name:en": "PUDO Station",
+        "name:ja": "PUDOステーション"
+      },
+      "original_logo_url": "https://graph.facebook.com/PUDOstation/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pudostation-5c1de3.jpg",
+      "local_logo_path": "localbrand/logo/pudostation-5c1de3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PUDOstation/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pudostation-5c1de3.jpg"
+      }
+    },
+    {
+      "displayName": "PuntoPoste",
+      "id": "puntoposte-9e279b",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "PuntoPoste",
+        "brand:wikidata": "Q110748322",
+        "name": "PuntoPoste",
+        "operator": "Poste Italiane",
+        "operator:wikidata": "Q495026"
+      }
+    },
+    {
+      "displayName": "Royal Mail",
+      "id": "royalmail-ad77d0",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Royal Mail",
+        "brand:wikidata": "Q638098"
+      },
+      "original_logo_url": "https://graph.facebook.com/RoyalMail/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/royalmail-ad77d0.jpg",
+      "local_logo_path": "localbrand/logo/royalmail-ad77d0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RoyalMail/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/royalmail-ad77d0.jpg"
+      }
+    },
+    {
+      "displayName": "Rozetka",
+      "id": "rozetka-7c151e",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "розетка"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Rozetka",
+        "brand:wikidata": "Q12072279",
+        "name": "Rozetka"
+      },
+      "original_logo_url": "https://graph.facebook.com/rozetka.ua/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rozetka-7c151e.jpg",
+      "local_logo_path": "localbrand/logo/rozetka-7c151e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rozetka.ua/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rozetka-7c151e.jpg"
+      }
+    },
+    {
+      "displayName": "Ship & Go",
+      "id": "cargusshipandgo-ba4d23",
+      "locationSet": {
+        "include": [
+          "ro"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Ship & Go",
+        "brand:wikidata": "Q117327750",
+        "name": "Cargus Ship & Go",
+        "operator": "Cargus",
+        "operator:wikidata": "Q12723442"
+      },
+      "original_logo_url": "https://graph.facebook.com/CargusRO/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cargusshipandgo-ba4d23.jpg",
+      "local_logo_path": "localbrand/logo/cargusshipandgo-ba4d23.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CargusRO/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cargusshipandgo-ba4d23.jpg"
+      }
+    },
+    {
+      "displayName": "Smartpost",
+      "id": "smartpost-0b87cc",
+      "locationSet": {
+        "include": [
+          "fi"
+        ]
+      },
+      "matchTags": [
+        "amenity/post_box"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Smartpost",
+        "brand:wikidata": "Q7543889",
+        "name": "Smartpost"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Smartpost_Itella_pakimajake.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smartpost-0b87cc.jpg",
+      "local_logo_path": "localbrand/logo/smartpost-0b87cc.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/5/53/Smartpost_Itella_pakimajake.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smartpost-0b87cc.jpg"
+      }
+    },
+    {
+      "displayName": "SmartPosti",
+      "id": "smartposti-b4a3f3",
+      "locationSet": {
+        "include": [
+          "ee",
+          "lt",
+          "lv"
+        ]
+      },
+      "matchNames": [
+        "itella",
+        "smartpost",
+        "smartpost itella"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "SmartPosti",
+        "brand:wikidata": "Q132157239"
+      }
+    },
+    {
+      "displayName": "Speedy",
+      "id": "speedy-8234c4",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Speedy",
+        "brand:wikidata": "Q131312685"
+      },
+      "original_logo_url": "https://graph.facebook.com/speedy.bg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedy-8234c4.png",
+      "local_logo_path": "localbrand/logo/speedy-8234c4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/speedy.bg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedy-8234c4.png"
+      }
+    },
+    {
+      "displayName": "Tamburi",
+      "id": "tamburi-82dce7",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Tamburi",
+        "brand:wikidata": "Q125176523"
+      }
+    },
+    {
+      "displayName": "The Courier Guy",
+      "id": "thecourierguy-6115c3",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "matchNames": [
+        "courier guy"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "The Courier Guy",
+        "brand:wikidata": "Q116753262"
+      },
+      "original_logo_url": "https://graph.facebook.com/TheCourierGuy/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thecourierguy-6115c3.jpg",
+      "local_logo_path": "localbrand/logo/thecourierguy-6115c3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TheCourierGuy/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thecourierguy-6115c3.jpg"
+      }
+    },
+    {
+      "displayName": "Venipak",
+      "id": "venipak-b4a3f3",
+      "locationSet": {
+        "include": [
+          "ee",
+          "lt",
+          "lv"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Venipak",
+        "brand:wikidata": "Q124379827"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Venipak_duty_vehicle_in_Jelgava.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/venipak-b4a3f3.jpg",
+      "local_logo_path": "localbrand/logo/venipak-b4a3f3.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Venipak_duty_vehicle_in_Jelgava.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/venipak-b4a3f3.jpg"
+      }
+    },
+    {
+      "displayName": "Vinted Go",
+      "id": "vintedgo-6a219a",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Vinted Go",
+        "name": "Vinted Go"
+      }
+    },
+    {
+      "displayName": "Yeep",
+      "id": "yeep-ad77d0",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "pick up, drop off",
+        "pudo"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Yeep",
+        "brand:wikidata": "Q123421114",
+        "name": "Yeep"
+      },
+      "original_logo_url": "https://graph.facebook.com/yeep.lockers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yeep-ad77d0.jpg",
+      "local_logo_path": "localbrand/logo/yeep-ad77d0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/yeep.lockers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yeep-ad77d0.jpg"
+      }
+    },
+    {
+      "displayName": "Z-Box (Packeta Slovakia)",
+      "id": "zbox-cda9c4",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "matchNames": [
+        "packeta",
+        "packeta z-box"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Z-Box",
+        "brand:wikidata": "Q121537464",
+        "name": "Z-Box",
+        "operator": "Packeta Slovakia",
+        "operator:wikidata": "Q102326776"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jabloneck%C3%A1_%28Prosek%29_IMG_8252.JPG",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zbox-cda9c4.jpg",
+      "local_logo_path": "localbrand/logo/zbox-cda9c4.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jabloneck%C3%A1_%28Prosek%29_IMG_8252.JPG",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zbox-cda9c4.jpg"
+      }
+    },
+    {
+      "displayName": "Z-Box (Packeta)",
+      "id": "zbox-e32bf4",
+      "locationSet": {
+        "include": [
+          "hu",
+          "ro"
+        ]
+      },
+      "matchNames": [
+        "packeta",
+        "packeta z-box"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Z-Box",
+        "brand:wikidata": "Q121537464",
+        "name": "Z-Box"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jabloneck%C3%A1_%28Prosek%29_IMG_8252.JPG",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zbox-e32bf4.jpg",
+      "local_logo_path": "localbrand/logo/zbox-e32bf4.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jabloneck%C3%A1_%28Prosek%29_IMG_8252.JPG",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zbox-e32bf4.jpg"
+      }
+    },
+    {
+      "displayName": "Z-Box (Zásilkovna)",
+      "id": "zbox-48c9bb",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Z-Box",
+        "brand:wikidata": "Q121537464",
+        "name": "Z-Box",
+        "operator": "Zásilkovna",
+        "operator:wikidata": "Q25454926"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jabloneck%C3%A1_%28Prosek%29_IMG_8252.JPG",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zbox-48c9bb.jpg",
+      "local_logo_path": "localbrand/logo/zbox-48c9bb.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jabloneck%C3%A1_%28Prosek%29_IMG_8252.JPG",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zbox-48c9bb.jpg"
+      }
+    },
+    {
+      "displayName": "Еконтомат",
+      "id": "econt-8234c4",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "alt_name": "Еконтомат",
+        "alt_name:bg": "Еконтомат",
+        "alt_name:en": "Econtomat",
+        "amenity": "parcel_locker",
+        "brand": "Еконт",
+        "brand:wikidata": "Q12279603",
+        "name": "Еконт",
+        "name:bg": "Еконт",
+        "name:en": "Econt"
+      },
+      "original_logo_url": "https://graph.facebook.com/EcontExpress/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/econt-8234c4.jpg",
+      "local_logo_path": "localbrand/logo/econt-8234c4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EcontExpress/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/econt-8234c4.jpg"
+      }
+    },
+    {
+      "displayName": "Епіцентр К",
+      "id": "13cf8e-7c151e",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "epicentr k",
+        "epitzentr",
+        "epizentr",
+        "епіцентр"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Епіцентр К",
+        "brand:wikidata": "Q4532244",
+        "name": "Епіцентр К"
+      },
+      "original_logo_url": "https://graph.facebook.com/epicentrkua/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/13cf8e-7c151e.jpg",
+      "local_logo_path": "localbrand/logo/13cf8e-7c151e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/epicentrkua/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/13cf8e-7c151e.jpg"
+      }
+    },
+    {
+      "displayName": "Қазпошта",
+      "id": "kazpost-a244bc",
+      "locationSet": {
+        "include": [
+          "kz"
+        ]
+      },
+      "matchNames": [
+        "казпошта",
+        "қазпочта"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Қазпошта",
+        "brand:en": "Kazpost",
+        "brand:kk": "Қазпошта",
+        "brand:ru": "Казпочта",
+        "brand:wikidata": "Q746263"
+      },
+      "original_logo_url": "https://graph.facebook.com/Kazpost/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kazpost-a244bc.jpg",
+      "local_logo_path": "localbrand/logo/kazpost-a244bc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Kazpost/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kazpost-a244bc.jpg"
+      }
+    },
+    {
+      "displayName": "Нова Пошта",
+      "id": "530f2c-7c151e",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "new post",
+        "nova poshta",
+        "nova post",
+        "поштомат нова пошта"
+      ],
+      "matchTags": [
+        "amenity/post_box"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Нова Пошта",
+        "brand:wikidata": "Q12133863",
+        "name": "Нова Пошта"
+      },
+      "original_logo_url": "https://graph.facebook.com/nova.poshta.official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/530f2c-7c151e.jpg",
+      "local_logo_path": "localbrand/logo/530f2c-7c151e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/nova.poshta.official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/530f2c-7c151e.jpg"
+      }
+    },
+    {
+      "displayName": "ОмниСДЭК",
+      "id": "omnicdek-c00268",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "ОмниСДЭК",
+        "brand:en": "OmniCEDK",
+        "brand:ru": "ОмниСДЭК",
+        "brand:wikidata": "Q110240113",
+        "name": "ОмниСДЭК",
+        "name:en": "OmniCDEK",
+        "name:ru": "ОмниСДЭК"
+      }
+    },
+    {
+      "displayName": "Почта России",
+      "id": "russianpost-c00268",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Почта России",
+        "brand:en": "Russian Post",
+        "brand:ru": "Почта России",
+        "brand:wikidata": "Q1502763",
+        "name": "Почта России",
+        "name:en": "Russian Post",
+        "name:ru": "Почта России"
+      },
+      "original_logo_url": "https://graph.facebook.com/ruspost/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/russianpost-c00268.png",
+      "local_logo_path": "localbrand/logo/russianpost-c00268.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ruspost/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/russianpost-c00268.png"
+      }
+    },
+    {
+      "displayName": "Поштин пакетомат",
+      "id": "postinpaketomat-a2bd5c",
+      "locationSet": {
+        "include": [
+          "rs"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Поштин пакетомат",
+        "name": "Поштин пакетомат",
+        "name:sr": "Поштин пакетомат",
+        "name:sr-Latn": "Poštin paketomat",
+        "operator": "Пошта Србије",
+        "operator:wikidata": "Q769311"
+      },
+      "original_logo_url": "https://graph.facebook.com/jp.posta.rs/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postinpaketomat-a2bd5c.jpg",
+      "local_logo_path": "localbrand/logo/postinpaketomat-a2bd5c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/jp.posta.rs/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postinpaketomat-a2bd5c.jpg"
+      }
+    },
+    {
+      "displayName": "Продуктомат Утконос",
+      "id": "fe7623-c00268",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Продуктомат Утконос",
+        "name": "Продуктомат Утконос"
+      }
+    },
+    {
+      "displayName": "СДЭК",
+      "id": "5ac048-c00268",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "СДЭК",
+        "name": "СДЭК"
+      }
+    },
+    {
+      "displayName": "Халва",
+      "id": "d62e3c-c00268",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Халва",
+        "name": "Халва"
+      }
+    },
+    {
+      "displayName": "Цайняо",
+      "id": "cainiao-c00268",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Цайняо",
+        "brand:en": "Cainiao",
+        "brand:ru": "Цайняо",
+        "brand:wikidata": "Q16947973",
+        "name": "Цайняо",
+        "name:en": "Cainiao",
+        "name:ru": "Цайняо"
+      },
+      "original_logo_url": "https://graph.facebook.com/OfficialCainiao/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cainiao-c00268.jpg",
+      "local_logo_path": "localbrand/logo/cainiao-c00268.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OfficialCainiao/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cainiao-c00268.jpg"
+      }
+    },
+    {
+      "displayName": "Яндекс.Маркет",
+      "id": "ac371d-c00268",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Яндекс.Маркет",
+        "name": "Яндекс.Маркет"
+      }
+    },
+    {
+      "displayName": "はこぽす",
+      "id": "hakopost-5c1de3",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchTags": [
+        "amenity/post_box"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "はこぽす",
+        "brand:en": "HAKO POST",
+        "brand:ja": "はこぽす",
+        "brand:wikidata": "Q117428085",
+        "name": "はこぽす",
+        "name:en": "Hako Post",
+        "name:ja": "はこぽす"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hako_Post_%28Aoba_Post_Office%29.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hakopost-5c1de3.jpg",
+      "local_logo_path": "localbrand/logo/hakopost-5c1de3.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hako_Post_%28Aoba_Post_Office%29.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hakopost-5c1de3.jpg"
+      }
+    },
+    {
+      "displayName": "ファミロッカー",
+      "id": "familocker-83187c",
+      "locationSet": {
+        "include": [
+          "ja"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "ファミロッカー",
+        "brand:en": "Fami Locker",
+        "brand:ja": "ファミロッカー",
+        "brand:wikidata": "Q135552919",
+        "name": "ファミロッカー",
+        "name:en": "Fami Locker",
+        "name:ja": "ファミロッカー",
+        "parcel_mail_in": "yes",
+        "parcel_pickup": "yes"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/FamiLocker_at_FamilyMart_in_Toshima_City.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/familocker-83187c.jpg",
+      "local_logo_path": "localbrand/logo/familocker-83187c.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/26/FamiLocker_at_FamilyMart_in_Toshima_City.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/familocker-83187c.jpg"
+      }
+    },
+    {
+      "displayName": "丰巢",
+      "id": "hivebox-a0c60b",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "matchNames": [
+        "丰巢快递柜",
+        "丰巢柜"
+      ],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "丰巢",
+        "brand:en": "Hive Box",
+        "brand:wikidata": "Q96076112",
+        "brand:zh": "丰巢",
+        "name": "丰巢",
+        "name:en": "Hive Box",
+        "name:zh": "丰巢"
+      }
+    },
+    {
+      "displayName": "智郵寄 iPostal Kiosk",
+      "id": "ipostalkiosk-a94f22",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "香港郵政 Hongkong Post",
+        "brand:en": "Hongkong Post",
+        "brand:wikidata": "Q196631",
+        "brand:zh": "香港郵政",
+        "name": "智郵寄 iPostal Kiosk",
+        "name:en": "iPostal Kiosk",
+        "name:zh": "智郵寄",
+        "operator": "香港郵政 Hongkong Post",
+        "operator:en": "Hongkong Post",
+        "operator:wikidata": "Q196631",
+        "operator:zh": "香港郵政"
+      },
+      "original_logo_url": "https://graph.facebook.com/hkpost.official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ipostalkiosk-a94f22.jpg",
+      "local_logo_path": "localbrand/logo/ipostalkiosk-a94f22.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hkpost.official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ipostalkiosk-a94f22.jpg"
+      }
+    },
+    {
+      "displayName": "智郵站 iPostal Station",
+      "id": "ipostalstation-a94f22",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "香港郵政 Hongkong Post",
+        "brand:en": "Hongkong Post",
+        "brand:wikidata": "Q196631",
+        "brand:zh": "香港郵政",
+        "name": "智郵站 iPostal Station",
+        "name:en": "iPostal Station",
+        "name:zh": "智郵站",
+        "operator": "香港郵政 Hongkong Post",
+        "operator:en": "Hongkong Post",
+        "operator:wikidata": "Q196631",
+        "operator:zh": "香港郵政"
+      },
+      "original_logo_url": "https://graph.facebook.com/hkpost.official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ipostalstation-a94f22.jpg",
+      "local_logo_path": "localbrand/logo/ipostalstation-a94f22.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hkpost.official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ipostalstation-a94f22.jpg"
+      }
+    },
+    {
+      "displayName": "菜鸟驿站",
+      "id": "cainiao-6dafef",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "菜鸟驿站",
+        "brand:en": "Cainiao",
+        "brand:wikidata": "Q16947973",
+        "brand:zh": "菜鸟驿站",
+        "name": "菜鸟驿站",
+        "name:en": "Cainiao",
+        "name:zh": "菜鸟驿站"
+      },
+      "original_logo_url": "https://graph.facebook.com/OfficialCainiao/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cainiao-6dafef.jpg",
+      "local_logo_path": "localbrand/logo/cainiao-6dafef.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OfficialCainiao/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cainiao-6dafef.jpg"
+      }
+    },
+    {
+      "displayName": "蝦皮店到店",
+      "id": "spxexpress-89f0e2",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "matchNames": [
+        "shopee express",
+        "shopee xpress",
+        "spx",
+        "蝦皮智取店",
+        "蝦皮門市"
+      ],
+      "note": "use `shop=convenience` for general stores",
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "蝦皮店到店",
+        "brand:en": "SPX Express",
+        "brand:wikidata": "Q109676747",
+        "brand:zh": "蝦皮店到店",
+        "name": "蝦皮店到店",
+        "name:en": "SPX Express",
+        "name:zh": "蝦皮店到店",
+        "name:zh-Hant": "蝦皮店到店"
+      }
+    },
+    {
+      "displayName": "順豐自助櫃 SF Locker",
+      "id": "sflocker-482a52",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "順豐速運 SF Express",
+        "brand:en": "SF Express",
+        "brand:wikidata": "Q7390019",
+        "brand:zh": "順豐速運",
+        "name": "順豐自助櫃 SF Locker",
+        "name:en": "SF Locker",
+        "name:zh": "順豐自助櫃",
+        "operator": "順豐速運 SF Express",
+        "operator:en": "SF Express",
+        "operator:wikidata": "Q7390019",
+        "operator:zh": "順豐速運"
+      },
+      "original_logo_url": "https://graph.facebook.com/TaiwanS.F.Express/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sflocker-482a52.jpg",
+      "local_logo_path": "localbrand/logo/sflocker-482a52.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TaiwanS.F.Express/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sflocker-482a52.jpg"
+      }
+    }
+  ]
+}

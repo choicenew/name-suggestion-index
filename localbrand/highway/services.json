@@ -1,0 +1,312 @@
+{
+  "properties": {
+    "path": "brands/highway/services",
+    "exclude": {
+      "generic": [
+        "^services$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Buc-ee's",
+      "id": "bucees-35c0ca",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Buc-ee's",
+        "brand:wikidata": "Q4982335",
+        "highway": "services",
+        "name": "Buc-ee's"
+      },
+      "original_logo_url": "https://graph.facebook.com/bucees/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bucees-35c0ca.png",
+      "local_logo_path": "localbrand/logo/bucees-35c0ca.png",
+      "logos": {
+        "original": "https://graph.facebook.com/bucees/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bucees-35c0ca.png"
+      }
+    },
+    {
+      "displayName": "Flying J Travel Center",
+      "id": "flyingjtravelcenter-13bea2",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Flying J",
+        "brand:wikidata": "Q64130592",
+        "highway": "services",
+        "name": "Flying J Travel Center"
+      },
+      "original_logo_url": "https://graph.facebook.com/pilottravelcenters/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flyingjtravelcenter-13bea2.jpg",
+      "local_logo_path": "localbrand/logo/flyingjtravelcenter-13bea2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pilottravelcenters/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flyingjtravelcenter-13bea2.jpg"
+      }
+    },
+    {
+      "displayName": "Love's Travel Stop",
+      "id": "lovestravelstop-35c0ca",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Love's",
+        "brand:wikidata": "Q1872496",
+        "highway": "services",
+        "name": "Love's Travel Stop"
+      },
+      "original_logo_url": "https://graph.facebook.com/lovestravelstops/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lovestravelstop-35c0ca.png",
+      "local_logo_path": "localbrand/logo/lovestravelstop-35c0ca.png",
+      "logos": {
+        "original": "https://graph.facebook.com/lovestravelstops/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lovestravelstop-35c0ca.png"
+      }
+    },
+    {
+      "displayName": "ONE9 Travel Center",
+      "id": "one9travelcenter-35c0ca",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "ONE9",
+        "highway": "services",
+        "name": "ONE9 Travel Center"
+      }
+    },
+    {
+      "displayName": "Onvo Travel Plaza",
+      "id": "onvotravelplaza-35c0ca",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Onvo",
+        "brand:wikidata": "Q112457014",
+        "highway": "services",
+        "name": "Onvo Travel Plaza"
+      },
+      "original_logo_url": "https://graph.facebook.com/tryonvo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/onvotravelplaza-35c0ca.jpg",
+      "local_logo_path": "localbrand/logo/onvotravelplaza-35c0ca.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tryonvo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/onvotravelplaza-35c0ca.jpg"
+      }
+    },
+    {
+      "displayName": "Petro Stopping Centers",
+      "id": "petrostoppingcenters-35c0ca",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Petro",
+        "brand:wikidata": "Q64051305",
+        "highway": "services",
+        "name": "Petro Stopping Centers"
+      },
+      "original_logo_url": "https://graph.facebook.com/TravelCentersOfAmerica/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petrostoppingcenters-35c0ca.jpg",
+      "local_logo_path": "localbrand/logo/petrostoppingcenters-35c0ca.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TravelCentersOfAmerica/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petrostoppingcenters-35c0ca.jpg"
+      }
+    },
+    {
+      "displayName": "Pilot Travel Center",
+      "id": "pilottravelcenter-35c0ca",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Pilot",
+        "brand:wikidata": "Q64128179",
+        "highway": "services",
+        "name": "Pilot Travel Center"
+      },
+      "original_logo_url": "https://graph.facebook.com/pilottravelcenters/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pilottravelcenter-35c0ca.jpg",
+      "local_logo_path": "localbrand/logo/pilottravelcenter-35c0ca.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pilottravelcenters/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pilottravelcenter-35c0ca.jpg"
+      }
+    },
+    {
+      "displayName": "Road Ranger",
+      "id": "roadranger-35c0ca",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Road Ranger",
+        "brand:wikidata": "Q7339377",
+        "highway": "services",
+        "name": "Road Ranger"
+      },
+      "original_logo_url": "https://graph.facebook.com/roadrangerusa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roadranger-35c0ca.jpg",
+      "local_logo_path": "localbrand/logo/roadranger-35c0ca.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/roadrangerusa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roadranger-35c0ca.jpg"
+      }
+    },
+    {
+      "displayName": "Roady's Truck Stops",
+      "id": "roadystruckstops-35c0ca",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Roady's",
+        "brand:wikidata": "Q7339701",
+        "highway": "services",
+        "name": "Roady's Truck Stops"
+      },
+      "original_logo_url": "https://graph.facebook.com/roadyshometowntruckstops/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roadystruckstops-35c0ca.png",
+      "local_logo_path": "localbrand/logo/roadystruckstops-35c0ca.png",
+      "logos": {
+        "original": "https://graph.facebook.com/roadyshometowntruckstops/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roadystruckstops-35c0ca.png"
+      }
+    },
+    {
+      "displayName": "Sapp Brothers Travel Center",
+      "id": "sappbrotherstravelcenter-35c0ca",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Sapp Bros.",
+        "brand:wikidata": "Q137965281",
+        "highway": "services",
+        "name": "Sapp Brothers Travel Center"
+      },
+      "original_logo_url": "https://graph.facebook.com/SappBrosInc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sappbrotherstravelcenter-35c0ca.png",
+      "local_logo_path": "localbrand/logo/sappbrotherstravelcenter-35c0ca.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SappBrosInc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sappbrotherstravelcenter-35c0ca.png"
+      }
+    },
+    {
+      "displayName": "Serways",
+      "id": "serways-86c4b3",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Serways",
+        "brand:wikidata": "Q111372965",
+        "highway": "services",
+        "operator": "Autobahn Tank & Rast Gruppe GmbH & Co. KG",
+        "operator:wikidata": "Q131898738"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Serways.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/serways-86c4b3.svg",
+      "local_logo_path": "localbrand/logo/serways-86c4b3.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Serways.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/serways-86c4b3.svg"
+      }
+    },
+    {
+      "displayName": "TA",
+      "id": "ta-35c0ca",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "ta travel center"
+      ],
+      "tags": {
+        "brand": "TA",
+        "brand:wikidata": "Q7835892",
+        "highway": "services",
+        "name": "TA",
+        "official_name": "TravelCenters of America"
+      },
+      "original_logo_url": "https://graph.facebook.com/TravelCentersOfAmerica/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ta-35c0ca.jpg",
+      "local_logo_path": "localbrand/logo/ta-35c0ca.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TravelCentersOfAmerica/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ta-35c0ca.jpg"
+      }
+    },
+    {
+      "displayName": "Tank & Rast",
+      "id": "tankandrast-86c4b3",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Tank & Rast",
+        "brand:wikidata": "Q2392800",
+        "highway": "services",
+        "operator": "Autobahn Tank & Rast Gruppe GmbH & Co. KG",
+        "operator:wikidata": "Q131898738"
+      },
+      "original_logo_url": "https://graph.facebook.com/TankundRast/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tankandrast-86c4b3.png",
+      "local_logo_path": "localbrand/logo/tankandrast-86c4b3.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TankundRast/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tankandrast-86c4b3.png"
+      }
+    },
+    {
+      "displayName": "Town Pump",
+      "id": "townpump-35c0ca",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "highway": "services",
+        "name": "Town Pump"
+      }
+    }
+  ]
+}

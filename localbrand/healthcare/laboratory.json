@@ -1,0 +1,1365 @@
+{
+  "properties": {
+    "path": "brands/healthcare/laboratory",
+    "exclude": {
+      "generic": [
+        "^laborato(ire|ry|rium|rie)( d'analyses médicales)?$",
+        "^sample collection?$",
+        "^поликлиника$",
+        "^поліклініка$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "a+ Medicina Diagnóstica",
+      "id": "amedicinadiagnostica-4627ab",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "matchNames": [
+        "a+ laboratórios",
+        "laboratório a+"
+      ],
+      "tags": {
+        "brand": "a+ Medicina Diagnóstica",
+        "brand:wikidata": "Q111392264",
+        "healthcare": "laboratory",
+        "name": "a+ Medicina Diagnóstica"
+      },
+      "original_logo_url": "https://graph.facebook.com/amaissaude/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amedicinadiagnostica-4627ab.jpg",
+      "local_logo_path": "localbrand/logo/amedicinadiagnostica-4627ab.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/amaissaude/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amedicinadiagnostica-4627ab.jpg"
+      }
+    },
+    {
+      "displayName": "Apollo Diagnostics",
+      "id": "apollodiagnostics-e99f45",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Apollo Diagnostics",
+        "brand:wikidata": "Q134885714",
+        "healthcare": "laboratory",
+        "name": "Apollo Diagnostics"
+      },
+      "original_logo_url": "https://graph.facebook.com/apollodiagnosticsindia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/apollodiagnostics-e99f45.png",
+      "local_logo_path": "localbrand/logo/apollodiagnostics-e99f45.png",
+      "logos": {
+        "original": "https://graph.facebook.com/apollodiagnosticsindia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/apollodiagnostics-e99f45.png"
+      }
+    },
+    {
+      "displayName": "Beo-lab",
+      "id": "beolab-ed8186",
+      "locationSet": {
+        "include": [
+          "rs"
+        ]
+      },
+      "tags": {
+        "brand": "beo-lab",
+        "brand:wikidata": "Q117891595",
+        "healthcare": "laboratory",
+        "name": "Beo-lab"
+      },
+      "original_logo_url": "https://graph.facebook.com/BeoLabLaboratorije/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beolab-ed8186.jpg",
+      "local_logo_path": "localbrand/logo/beolab-ed8186.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BeoLabLaboratorije/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beolab-ed8186.jpg"
+      }
+    },
+    {
+      "displayName": "Bio-Val",
+      "id": "bioval-d3c03e",
+      "locationSet": {
+        "include": [
+          "fr-ara.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Bio-Val",
+        "brand:wikidata": "Q106847325",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Bio-Val"
+      },
+      "original_logo_url": "https://graph.facebook.com/LaboratoireBioVal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bioval-d3c03e.png",
+      "local_logo_path": "localbrand/logo/bioval-d3c03e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/LaboratoireBioVal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bioval-d3c03e.png"
+      }
+    },
+    {
+      "displayName": "Bioaxiome",
+      "id": "bioaxiome-5f04dc",
+      "locationSet": {
+        "include": [
+          "fr-occ.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Bioaxiome",
+        "brand:wikidata": "Q106847577",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Bioaxiome"
+      }
+    },
+    {
+      "displayName": "Bioclinic",
+      "id": "bioclinic-35a89f",
+      "locationSet": {
+        "include": [
+          "fr-idf.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Bioclinic",
+        "brand:wikidata": "Q106768328",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Bioclinic"
+      }
+    },
+    {
+      "displayName": "Biofutur",
+      "id": "biofutur-35a89f",
+      "locationSet": {
+        "include": [
+          "fr-idf.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Biofutur",
+        "brand:wikidata": "Q106731038",
+        "healthcare": "laboratory",
+        "name": "Biofutur"
+      },
+      "original_logo_url": "https://graph.facebook.com/laboratoires.biofutur/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biofutur-35a89f.png",
+      "local_logo_path": "localbrand/logo/biofutur-35a89f.png",
+      "logos": {
+        "original": "https://graph.facebook.com/laboratoires.biofutur/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biofutur-35a89f.png"
+      }
+    },
+    {
+      "displayName": "Biogroup",
+      "id": "biogroup-d77f29",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Biogroup",
+        "brand:wikidata": "Q101559741",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Biogroup"
+      }
+    },
+    {
+      "displayName": "Biolab Avenir",
+      "id": "biolabavenir-5f04dc",
+      "locationSet": {
+        "include": [
+          "fr-occ.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Biolab Avenir",
+        "brand:wikidata": "Q106864248",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Biolab Avenir"
+      }
+    },
+    {
+      "displayName": "Biolaris",
+      "id": "biolaris-e88f3b",
+      "locationSet": {
+        "include": [
+          "fr-pdl.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Biolaris",
+        "brand:wikidata": "Q106834697",
+        "healthcare": "laboratory",
+        "name": "Biolaris"
+      }
+    },
+    {
+      "displayName": "Bioliance",
+      "id": "bioliance-e88f3b",
+      "locationSet": {
+        "include": [
+          "fr-pdl.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Bioliance",
+        "brand:wikidata": "Q106841108",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Bioliance"
+      }
+    },
+    {
+      "displayName": "BioneXt",
+      "id": "bionext-067987",
+      "locationSet": {
+        "include": [
+          "lu"
+        ]
+      },
+      "tags": {
+        "brand": "BioneXt",
+        "brand:wikidata": "Q99765528",
+        "healthcare": "laboratory",
+        "name": "BioneXt"
+      },
+      "original_logo_url": "https://graph.facebook.com/bionextlab/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bionext-067987.jpg",
+      "local_logo_path": "localbrand/logo/bionext-067987.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bionextlab/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bionext-067987.jpg"
+      }
+    },
+    {
+      "displayName": "Biopath (Hauts de France)",
+      "id": "biopath-dce716",
+      "locationSet": {
+        "include": [
+          "fr-hdf.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Biopath",
+        "brand:wikidata": "Q106731141",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Biopath"
+      },
+      "original_logo_url": "https://graph.facebook.com/biopathlaboratoires/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biopath-dce716.jpg",
+      "local_logo_path": "localbrand/logo/biopath-dce716.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/biopathlaboratoires/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biopath-dce716.jpg"
+      }
+    },
+    {
+      "displayName": "Biopath Unilabs (Île de France)",
+      "id": "biopathunilabs-35a89f",
+      "locationSet": {
+        "include": [
+          "fr-idf.geojson"
+        ]
+      },
+      "matchNames": [
+        "biopath"
+      ],
+      "tags": {
+        "brand": "Biopath Unilabs",
+        "brand:wikidata": "Q106767560",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Biopath Unilabs"
+      }
+    },
+    {
+      "displayName": "Biorylis",
+      "id": "biorylis-d77f29",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Biorylis",
+        "brand:wikidata": "Q106834873",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Biorylis"
+      }
+    },
+    {
+      "displayName": "Biosites",
+      "id": "biosites-e88f3b",
+      "locationSet": {
+        "include": [
+          "fr-pdl.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Biosites",
+        "brand:wikidata": "Q106834179",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Biosites"
+      }
+    },
+    {
+      "displayName": "Bodimed",
+      "id": "bodimed-59f78c",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Bodimed",
+        "brand:wikidata": "Q110583446",
+        "healthcare": "laboratory",
+        "name": "Bodimed",
+        "name:bg": "Бодимед",
+        "name:en": "Bodimed"
+      },
+      "original_logo_url": "https://graph.facebook.com/bodimed.laboratory/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bodimed-59f78c.jpg",
+      "local_logo_path": "localbrand/logo/bodimed-59f78c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bodimed.laboratory/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bodimed-59f78c.jpg"
+      }
+    },
+    {
+      "displayName": "Cedibio Unilabs",
+      "id": "cedibiounilabs-d77f29",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Cedibio Unilabs",
+        "brand:wikidata": "Q106864065",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Cedibio Unilabs"
+      }
+    },
+    {
+      "displayName": "Cerballiance",
+      "id": "cerballiance-c89743",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Cerballiance",
+        "brand:wikidata": "Q106686993",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Cerballiance"
+      },
+      "original_logo_url": "https://graph.facebook.com/Cerballiance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cerballiance-c89743.png",
+      "local_logo_path": "localbrand/logo/cerballiance-c89743.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Cerballiance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cerballiance-c89743.png"
+      }
+    },
+    {
+      "displayName": "Chopo",
+      "id": "chopo-fe7e70",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Chopo",
+        "brand:wikidata": "Q132213839",
+        "healthcare": "laboratory",
+        "name": "Chopo",
+        "official_name": "Laboratorio Médico del Chopo"
+      }
+    },
+    {
+      "displayName": "Cibalab",
+      "id": "cibalab-59f78c",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Cibalab",
+        "brand:wikidata": "Q110583364",
+        "healthcare": "laboratory",
+        "name": "Cibalab",
+        "name:bg": "Цибалаб",
+        "name:en": "Cibalab"
+      },
+      "original_logo_url": "https://graph.facebook.com/MdlCibalab/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cibalab-59f78c.jpg",
+      "local_logo_path": "localbrand/logo/cibalab-59f78c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MdlCibalab/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cibalab-59f78c.jpg"
+      }
+    },
+    {
+      "displayName": "CL Lab",
+      "id": "cllab-8e8a61",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "CL Lab",
+        "healthcare": "laboratory",
+        "name": "CL Lab"
+      }
+    },
+    {
+      "displayName": "Clinical Pathology Laboratories",
+      "id": "clinicalpathologylaboratories-9476e1",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Clinical Pathology Laboratories",
+        "brand:wikidata": "Q91911320",
+        "healthcare": "laboratory",
+        "name": "Clinical Pathology Laboratories"
+      }
+    },
+    {
+      "displayName": "CMD",
+      "id": "cmd-8e8a61",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "CMD",
+        "healthcare": "laboratory",
+        "name": "CMD"
+      }
+    },
+    {
+      "displayName": "Confiance Medicina Diagnóstica",
+      "id": "confiancemedicinadiagnostica-4627ab",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "matchNames": [
+        "confiance"
+      ],
+      "tags": {
+        "brand": "Confiance Medicina Diagnóstica",
+        "brand:wikidata": "Q130712591",
+        "healthcare": "laboratory",
+        "name": "Confiance Medicina Diagnóstica"
+      },
+      "original_logo_url": "https://graph.facebook.com/ConfianceMedicinaDiagnostica/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/confiancemedicinadiagnostica-4627ab.jpg",
+      "local_logo_path": "localbrand/logo/confiancemedicinadiagnostica-4627ab.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ConfianceMedicinaDiagnostica/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/confiancemedicinadiagnostica-4627ab.jpg"
+      }
+    },
+    {
+      "displayName": "Diagnostyka (laboratorium)",
+      "id": "diagnostyka-a4d57c",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Diagnostyka",
+        "brand:wikidata": "Q118442310",
+        "healthcare": "laboratory",
+        "name": "Diagnostyka"
+      },
+      "original_logo_url": "https://graph.facebook.com/diagnostyka.laboratoria/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/diagnostyka-a4d57c.jpg",
+      "local_logo_path": "localbrand/logo/diagnostyka-a4d57c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/diagnostyka.laboratoria/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/diagnostyka-a4d57c.jpg"
+      }
+    },
+    {
+      "displayName": "Dr Lal Path Labs",
+      "id": "drlalpathlabs-e99f45",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Dr Lal Path Labs",
+        "brand:wikidata": "Q23198401",
+        "healthcare": "laboratory"
+      },
+      "original_logo_url": "https://graph.facebook.com/lalpathlabs/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/drlalpathlabs-e99f45.png",
+      "local_logo_path": "localbrand/logo/drlalpathlabs-e99f45.png",
+      "logos": {
+        "original": "https://graph.facebook.com/lalpathlabs/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/drlalpathlabs-e99f45.png"
+      }
+    },
+    {
+      "displayName": "Dynacare",
+      "id": "dynacare-81e83d",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "gamma-dynacare"
+      ],
+      "tags": {
+        "brand": "Dynacare",
+        "brand:wikidata": "Q16981625",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "blood_check",
+        "name": "Dynacare"
+      },
+      "original_logo_url": "https://graph.facebook.com/DynacareCanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dynacare-81e83d.jpg",
+      "local_logo_path": "localbrand/logo/dynacare-81e83d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DynacareCanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dynacare-81e83d.jpg"
+      }
+    },
+    {
+      "displayName": "Dyomedea-Neolab",
+      "id": "dyomedeaneolab-d3c03e",
+      "locationSet": {
+        "include": [
+          "fr-ara.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Dyomedea-Neolab",
+        "brand:wikidata": "Q106686685",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Dyomedea-Neolab"
+      }
+    },
+    {
+      "displayName": "Eurofins Biolab",
+      "id": "eurofinsbiolab-d77f29",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Eurofins Biolab",
+        "brand:wikidata": "Q106841258",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Eurofins Biolab"
+      },
+      "original_logo_url": "https://graph.facebook.com/EurofinsBiologieMedicaleFR/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eurofinsbiolab-d77f29.jpg",
+      "local_logo_path": "localbrand/logo/eurofinsbiolab-d77f29.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EurofinsBiologieMedicaleFR/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eurofinsbiolab-d77f29.jpg"
+      }
+    },
+    {
+      "displayName": "Eylau Unilabs",
+      "id": "eylauunilabs-d77f29",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Eylau Unilabs",
+        "brand:wikidata": "Q106864306",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Eylau Unilabs"
+      }
+    },
+    {
+      "displayName": "IMD Berlin",
+      "id": "imdberlin-e049ab",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "IMD Berlin",
+        "brand:wikidata": "Q117890527",
+        "healthcare": "laboratory",
+        "name": "IMD Berlin"
+      },
+      "original_logo_url": "https://graph.facebook.com/110367568589327/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/imdberlin-e049ab.jpg",
+      "local_logo_path": "localbrand/logo/imdberlin-e049ab.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/110367568589327/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/imdberlin-e049ab.jpg"
+      }
+    },
+    {
+      "displayName": "Invivo (Қазақстан)",
+      "id": "invivo-88cd3b",
+      "locationSet": {
+        "include": [
+          "kz"
+        ]
+      },
+      "matchNames": [
+        "invivo (инвиво)"
+      ],
+      "tags": {
+        "brand": "Invivo",
+        "healthcare": "laboratory",
+        "name": "Invivo"
+      }
+    },
+    {
+      "displayName": "KDL",
+      "id": "kdl-8e8a61",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "KDL",
+        "healthcare": "laboratory",
+        "name": "KDL"
+      }
+    },
+    {
+      "displayName": "Ketterthill",
+      "id": "ketterthill-067987",
+      "locationSet": {
+        "include": [
+          "lu"
+        ]
+      },
+      "tags": {
+        "brand": "Ketterthill",
+        "brand:wikidata": "Q99765551",
+        "healthcare": "laboratory",
+        "name": "Ketterthill"
+      },
+      "original_logo_url": "https://graph.facebook.com/laboratoiresketterthill/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ketterthill-067987.jpg",
+      "local_logo_path": "localbrand/logo/ketterthill-067987.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/laboratoiresketterthill/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ketterthill-067987.jpg"
+      }
+    },
+    {
+      "displayName": "LabCorp",
+      "id": "labcorp-9476e1",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "LabCorp",
+        "brand:wikidata": "Q6466630",
+        "healthcare": "laboratory",
+        "name": "LabCorp"
+      },
+      "original_logo_url": "https://graph.facebook.com/Labcorp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/labcorp-9476e1.jpg",
+      "local_logo_path": "localbrand/logo/labcorp-9476e1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Labcorp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/labcorp-9476e1.jpg"
+      }
+    },
+    {
+      "displayName": "Laboratoire de biologie médicale",
+      "id": "laboratoiredebiologiemedicale-d77f29",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Laboratoire de biologie médicale",
+        "healthcare": "laboratory",
+        "name": "Laboratoire de biologie médicale"
+      }
+    },
+    {
+      "displayName": "Laboratoires Réunis",
+      "id": "laboratoiresreunis-067987",
+      "locationSet": {
+        "include": [
+          "lu"
+        ]
+      },
+      "tags": {
+        "brand": "Laboratoires Réunis",
+        "brand:wikidata": "Q99765607",
+        "healthcare": "laboratory",
+        "name": "Laboratoires Réunis"
+      },
+      "original_logo_url": "https://graph.facebook.com/laboreunis/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laboratoiresreunis-067987.jpg",
+      "local_logo_path": "localbrand/logo/laboratoiresreunis-067987.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/laboreunis/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laboratoiresreunis-067987.jpg"
+      }
+    },
+    {
+      "displayName": "Laborizon Maine Anjou",
+      "id": "laborizonmaineanjou-d77f29",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Laborizon Maine Anjous",
+        "brand:wikidata": "Q106834930",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Laborizon Maine Anjou"
+      }
+    },
+    {
+      "displayName": "Labouest",
+      "id": "labouest-d77f29",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Labouest",
+        "brand:wikidata": "Q106838618",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Labouest"
+      }
+    },
+    {
+      "displayName": "Labquest",
+      "id": "labquest-8e8a61",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Labquest",
+        "healthcare": "laboratory",
+        "name": "Labquest"
+      }
+    },
+    {
+      "displayName": "LifeLabs",
+      "id": "lifelabs-81e83d",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "LifeLabs",
+        "brand:wikidata": "Q109319451",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "blood_check",
+        "name": "LifeLabs"
+      },
+      "original_logo_url": "https://graph.facebook.com/LifeLabsLaboratory/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lifelabs-81e83d.jpg",
+      "local_logo_path": "localbrand/logo/lifelabs-81e83d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LifeLabsLaboratory/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lifelabs-81e83d.jpg"
+      }
+    },
+    {
+      "displayName": "Mirialis",
+      "id": "mirialis-d3c03e",
+      "locationSet": {
+        "include": [
+          "fr-ara.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Mirialis",
+        "brand:wikidata": "Q106844770",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Mirialis"
+      }
+    },
+    {
+      "displayName": "Oriade-Noviale",
+      "id": "oriadenoviale-d3c03e",
+      "locationSet": {
+        "include": [
+          "fr-ara.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Oriade-Noviale",
+        "brand:wikidata": "Q106844730",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Oriade-Noviale"
+      }
+    },
+    {
+      "displayName": "Picken Doheem",
+      "id": "pickendoheem-067987",
+      "locationSet": {
+        "include": [
+          "lu"
+        ]
+      },
+      "tags": {
+        "brand": "Picken Doheem",
+        "brand:wikidata": "Q99765634",
+        "healthcare": "laboratory",
+        "name": "Picken Doheem"
+      },
+      "original_logo_url": "https://graph.facebook.com/pickendoheem.lu/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pickendoheem-067987.jpg",
+      "local_logo_path": "localbrand/logo/pickendoheem-067987.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pickendoheem.lu/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pickendoheem-067987.jpg"
+      }
+    },
+    {
+      "displayName": "Quest Diagnostics",
+      "id": "questdiagnostics-7c8b3a",
+      "locationSet": {
+        "include": [
+          "br",
+          "mx",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Quest Diagnostics",
+        "brand:wikidata": "Q7271456",
+        "healthcare": "laboratory",
+        "name": "Quest Diagnostics"
+      },
+      "original_logo_url": "https://graph.facebook.com/questdiagnostics/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/questdiagnostics-7c8b3a.png",
+      "local_logo_path": "localbrand/logo/questdiagnostics-7c8b3a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/questdiagnostics/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/questdiagnostics-7c8b3a.png"
+      }
+    },
+    {
+      "displayName": "RRH Laboratories",
+      "id": "rochesterregionalhealthlaboratories-47d491",
+      "locationSet": {
+        "include": [
+          "us-ny.geojson"
+        ]
+      },
+      "matchNames": [
+        "rrh laboratories"
+      ],
+      "tags": {
+        "brand": "Rochester Regional Health Laboratories",
+        "brand:wikidata": "Q128000494",
+        "healthcare": "laboratory",
+        "name": "Rochester Regional Health Laboratories",
+        "operator": "Rochester Regional Health",
+        "operator:wikidata": "Q7353978"
+      }
+    },
+    {
+      "displayName": "Sabin",
+      "id": "sabin-4627ab",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Sabin",
+        "brand:wikidata": "Q97041295",
+        "healthcare": "laboratory",
+        "name": "Sabin"
+      },
+      "original_logo_url": "https://graph.facebook.com/sabindiagnosticoesaude/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sabin-4627ab.jpg",
+      "local_logo_path": "localbrand/logo/sabin-4627ab.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sabindiagnosticoesaude/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sabin-4627ab.jpg"
+      }
+    },
+    {
+      "displayName": "Salud Digna",
+      "id": "saluddigna-fe7e70",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Salud Digna",
+        "brand:wikidata": "Q113200677",
+        "healthcare": "laboratory",
+        "name": "Salud Digna"
+      },
+      "original_logo_url": "https://graph.facebook.com/SaludDignaMx/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saluddigna-fe7e70.jpg",
+      "local_logo_path": "localbrand/logo/saluddigna-fe7e70.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SaludDignaMx/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saluddigna-fe7e70.jpg"
+      }
+    },
+    {
+      "displayName": "Synevo (Moldova)",
+      "id": "synevo-e59e51",
+      "locationSet": {
+        "include": [
+          "md"
+        ]
+      },
+      "tags": {
+        "brand": "Synevo",
+        "brand:wikidata": "Q117891179",
+        "healthcare": "laboratory",
+        "name": "Synevo"
+      },
+      "original_logo_url": "https://graph.facebook.com/synevo.md/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synevo-e59e51.jpg",
+      "local_logo_path": "localbrand/logo/synevo-e59e51.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/synevo.md/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synevo-e59e51.jpg"
+      }
+    },
+    {
+      "displayName": "Synevo (Polska)",
+      "id": "synevo-a4d57c",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Synevo",
+        "brand:wikidata": "Q108474045",
+        "healthcare": "laboratory",
+        "name": "Synevo"
+      },
+      "original_logo_url": "https://graph.facebook.com/synevopl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synevo-a4d57c.jpg",
+      "local_logo_path": "localbrand/logo/synevo-a4d57c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/synevopl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synevo-a4d57c.jpg"
+      }
+    },
+    {
+      "displayName": "Synevo (România)",
+      "id": "synevo-80efe5",
+      "locationSet": {
+        "include": [
+          "ro"
+        ]
+      },
+      "tags": {
+        "brand": "Synevo",
+        "brand:wikidata": "Q85968400",
+        "healthcare": "laboratory",
+        "name": "Synevo"
+      },
+      "original_logo_url": "https://graph.facebook.com/synevo.ro/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synevo-80efe5.png",
+      "local_logo_path": "localbrand/logo/synevo-80efe5.png",
+      "logos": {
+        "original": "https://graph.facebook.com/synevo.ro/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synevo-80efe5.png"
+      }
+    },
+    {
+      "displayName": "Synevo (Türkiye)",
+      "id": "synevo-c2c658",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Synevo",
+        "brand:wikidata": "Q117890974",
+        "healthcare": "laboratory",
+        "name": "Synevo"
+      },
+      "original_logo_url": "https://graph.facebook.com/SynevoTR/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synevo-c2c658.jpg",
+      "local_logo_path": "localbrand/logo/synevo-c2c658.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SynevoTR/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synevo-c2c658.jpg"
+      }
+    },
+    {
+      "displayName": "Synlab",
+      "id": "synlab-deddc9",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Synlab",
+        "brand:wikidata": "Q2376015",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Synlab"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Synlab_Gruppe_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synlab-deddc9.svg",
+      "local_logo_path": "localbrand/logo/synlab-deddc9.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/79/Synlab_Gruppe_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synlab-deddc9.svg"
+      }
+    },
+    {
+      "displayName": "Unibio",
+      "id": "unibio-d77f29",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Unibio",
+        "brand:wikidata": "Q106686848",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Unibio"
+      },
+      "original_logo_url": "https://graph.facebook.com/UNIBIOLaboratoiredeBiologieMedicale/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unibio-d77f29.jpg",
+      "local_logo_path": "localbrand/logo/unibio-d77f29.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/UNIBIOLaboratoiredeBiologieMedicale/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unibio-d77f29.jpg"
+      }
+    },
+    {
+      "displayName": "Unilabs",
+      "id": "unilabs-99f3b6",
+      "locationSet": {
+        "include": [
+          "150",
+          "ae",
+          "pe"
+        ],
+        "exclude": [
+          "fx"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Unilabs",
+        "brand:wikidata": "Q1602925",
+        "healthcare": "laboratory",
+        "name": "Unilabs"
+      },
+      "original_logo_url": "https://graph.facebook.com/UnilabsGroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unilabs-99f3b6.png",
+      "local_logo_path": "localbrand/logo/unilabs-99f3b6.png",
+      "logos": {
+        "original": "https://graph.facebook.com/UnilabsGroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unilabs-99f3b6.png"
+      }
+    },
+    {
+      "displayName": "Unilabs BioCT",
+      "id": "unilabsbioct-d77f29",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Unilabs BioCT",
+        "brand:wikidata": "Q106864186",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Unilabs BioCT"
+      }
+    },
+    {
+      "displayName": "Unilians",
+      "id": "unilians-d3c03e",
+      "locationSet": {
+        "include": [
+          "fr-ara.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Unilians",
+        "brand:wikidata": "Q106842053",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Unilians"
+      }
+    },
+    {
+      "displayName": "UR Medicine Labs",
+      "id": "urmedicinelabs-47d491",
+      "locationSet": {
+        "include": [
+          "us-ny.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "UR Medicine Labs",
+        "brand:wikidata": "Q128000327",
+        "healthcare": "laboratory",
+        "name": "UR Medicine Labs",
+        "operator": "University of Rochester Medical Center",
+        "operator:short": "UR Medicine",
+        "operator:wikidata": "Q7896217"
+      }
+    },
+    {
+      "displayName": "Гемотест",
+      "id": "gemotest-8e8a61",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Гемотест",
+        "healthcare": "laboratory",
+        "name": "Гемотест",
+        "name:en": "Gemotest",
+        "name:ru": "Гемотест"
+      }
+    },
+    {
+      "displayName": "Инвитро",
+      "id": "invitro-7c30a4",
+      "locationSet": {
+        "include": [
+          "by",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Инвитро",
+        "brand:wikidata": "Q4200546",
+        "healthcare": "laboratory",
+        "name": "Инвитро",
+        "name:en": "Invitro",
+        "name:ru": "Инвитро"
+      },
+      "original_logo_url": "https://graph.facebook.com/invitro.ru/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/invitro-7c30a4.jpg",
+      "local_logo_path": "localbrand/logo/invitro-7c30a4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/invitro.ru/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/invitro-7c30a4.jpg"
+      }
+    },
+    {
+      "displayName": "Кандиларов",
+      "id": "b672aa-59f78c",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Кандиларов",
+        "brand:wikidata": "Q140195106",
+        "healthcare": "laboratory",
+        "name": "Кандиларов"
+      },
+      "original_logo_url": "https://graph.facebook.com/kandilarov.lab/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/b672aa-59f78c.jpg",
+      "local_logo_path": "localbrand/logo/b672aa-59f78c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kandilarov.lab/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/b672aa-59f78c.jpg"
+      }
+    },
+    {
+      "displayName": "Лаборатория Бонецкого",
+      "id": "4797e9-c7ac9a",
+      "locationSet": {
+        "include": [
+          "kg"
+        ]
+      },
+      "tags": {
+        "brand": "Лаборатория Бонецкого",
+        "healthcare": "laboratory",
+        "name": "Лаборатория Бонецкого"
+      }
+    },
+    {
+      "displayName": "МедЛабЭкспресс",
+      "id": "374d46-8e8a61",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "МедЛабЭкспресс",
+        "healthcare": "laboratory",
+        "name": "МедЛабЭкспресс"
+      }
+    },
+    {
+      "displayName": "Пикассо",
+      "id": "f69f63-8e8a61",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Пикассо",
+        "healthcare": "laboratory",
+        "name": "Пикассо"
+      }
+    },
+    {
+      "displayName": "Рамус",
+      "id": "ramus-59f78c",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Рамус",
+        "brand:wikidata": "Q110583347",
+        "healthcare": "laboratory",
+        "name": "Рамус",
+        "name:bg": "Рамус",
+        "name:en": "Ramus"
+      },
+      "original_logo_url": "https://graph.facebook.com/laboratoriaramus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ramus-59f78c.jpg",
+      "local_logo_path": "localbrand/logo/ramus-59f78c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/laboratoriaramus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ramus-59f78c.jpg"
+      }
+    },
+    {
+      "displayName": "Синево (България)",
+      "id": "synevo-59f78c",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Synevo",
+        "brand:wikidata": "Q110583425",
+        "healthcare": "laboratory",
+        "name": "Synevo",
+        "name:bg": "Синево",
+        "name:en": "Synevo"
+      },
+      "original_logo_url": "https://graph.facebook.com/synevo.bulgaria/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synevo-59f78c.png",
+      "local_logo_path": "localbrand/logo/synevo-59f78c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/synevo.bulgaria/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synevo-59f78c.png"
+      }
+    },
+    {
+      "displayName": "Ситилаб",
+      "id": "875d87-8e8a61",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Ситилаб",
+        "healthcare": "laboratory",
+        "name": "Ситилаб"
+      }
+    },
+    {
+      "displayName": "Хеликс",
+      "id": "helix-8e8a61",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Хеликс",
+        "brand:wikidata": "Q109717117",
+        "healthcare": "laboratory",
+        "name": "Хеликс",
+        "name:en": "Helix",
+        "name:ru": "Хеликс"
+      },
+      "original_logo_url": "https://graph.facebook.com/helixlab/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/helix-8e8a61.jpg",
+      "local_logo_path": "localbrand/logo/helix-8e8a61.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/helixlab/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/helix-8e8a61.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "properties": {
+    "path": "brands/shop/electrical",
+    "exclude": {
+      "generic": [
+        "^electrical$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Battery World",
+      "id": "batteryworld-31899b",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Battery World",
+        "brand:wikidata": "Q124003678",
+        "name": "Battery World",
+        "shop": "electrical"
+      },
+      "original_logo_url": "https://graph.facebook.com/batteryworldaustralia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/batteryworld-31899b.jpg",
+      "local_logo_path": "localbrand/logo/batteryworld-31899b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/batteryworldaustralia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/batteryworld-31899b.jpg"
+      }
+    },
+    {
+      "displayName": "CEF",
+      "id": "cef-7c8ef7",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "city electrical factors",
+        "city electrical factors / cef"
+      ],
+      "matchTags": [
+        "shop/electronics"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "CEF",
+        "brand:wikidata": "Q116495226",
+        "name": "CEF",
+        "shop": "electrical"
+      },
+      "original_logo_url": "https://graph.facebook.com/cityelectricalfactors/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cef-7c8ef7.jpg",
+      "local_logo_path": "localbrand/logo/cef-7c8ef7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/cityelectricalfactors/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cef-7c8ef7.jpg"
+      }
+    },
+    {
+      "displayName": "CGED",
+      "id": "cged-f76a8e",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "CGED",
+        "name": "CGED",
+        "shop": "electrical"
+      }
+    },
+    {
+      "displayName": "City Electric Supply",
+      "id": "cityelectricsupply-83ef7e",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "City Electric Supply",
+        "brand:wikidata": "Q121357206",
+        "name": "City Electric Supply",
+        "shop": "electrical"
+      },
+      "original_logo_url": "https://graph.facebook.com/cityelectricsupplyusa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cityelectricsupply-83ef7e.jpg",
+      "local_logo_path": "localbrand/logo/cityelectricsupply-83ef7e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/cityelectricsupplyusa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cityelectricsupply-83ef7e.jpg"
+      }
+    },
+    {
+      "displayName": "Denmans",
+      "id": "denmans-00236e",
+      "locationSet": {
+        "include": [
+          "gb-eng",
+          "gb-wls"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Denmans",
+        "brand:wikidata": "Q116508855",
+        "name": "Denmans",
+        "shop": "electrical"
+      },
+      "original_logo_url": "https://graph.facebook.com/DenmansElectricalWholesalers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/denmans-00236e.jpg",
+      "local_logo_path": "localbrand/logo/denmans-00236e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DenmansElectricalWholesalers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/denmans-00236e.jpg"
+      }
+    },
+    {
+      "displayName": "Hagard:Hal",
+      "id": "hagardhal-901985",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Hagard:Hal",
+        "brand:wikidata": "Q134268487",
+        "name": "Hagard:Hal",
+        "shop": "electrical"
+      },
+      "original_logo_url": "https://graph.facebook.com/hagardhal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hagardhal-901985.jpg",
+      "local_logo_path": "localbrand/logo/hagardhal-901985.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hagardhal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hagardhal-901985.jpg"
+      }
+    },
+    {
+      "displayName": "Rexel",
+      "id": "rexel-091354",
+      "locationSet": {
+        "include": [
+          "at",
+          "au",
+          "be",
+          "ca",
+          "ch",
+          "cn",
+          "de",
+          "es",
+          "fi",
+          "fr",
+          "gb",
+          "ie",
+          "in",
+          "it",
+          "lu",
+          "me",
+          "nl",
+          "no",
+          "nz",
+          "pt",
+          "se",
+          "si",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/electronics"
+      ],
+      "tags": {
+        "brand": "Rexel",
+        "brand:wikidata": "Q962489",
+        "name": "Rexel",
+        "shop": "electrical"
+      },
+      "original_logo_url": "https://graph.facebook.com/RexelFR/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rexel-091354.jpg",
+      "local_logo_path": "localbrand/logo/rexel-091354.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RexelFR/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rexel-091354.jpg"
+      }
+    },
+    {
+      "displayName": "Sonepar",
+      "id": "sonepar-bfcbb0",
+      "locationSet": {
+        "include": [
+          "ch",
+          "cz",
+          "de",
+          "fx",
+          "hu",
+          "it",
+          "lu"
+        ]
+      },
+      "tags": {
+        "brand": "Sonepar",
+        "brand:wikidata": "Q2301315",
+        "name": "Sonepar",
+        "shop": "electrical"
+      },
+      "original_logo_url": "https://graph.facebook.com/SoneparOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sonepar-bfcbb0.png",
+      "local_logo_path": "localbrand/logo/sonepar-bfcbb0.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SoneparOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sonepar-bfcbb0.png"
+      }
+    },
+    {
+      "displayName": "TMT",
+      "id": "tmt-16d2de",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "TMT",
+        "brand:wikidata": "Q136764745",
+        "name": "TMT",
+        "shop": "electrical"
+      }
+    },
+    {
+      "displayName": "Yesss Electrical",
+      "id": "yessselectrical-d3cc8c",
+      "locationSet": {
+        "include": [
+          "gb",
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Yesss Electrical",
+        "brand:wikidata": "Q91307483",
+        "name": "Yesss Electrical",
+        "shop": "electrical"
+      },
+      "original_logo_url": "https://graph.facebook.com/YesssElectrique/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yessselectrical-d3cc8c.jpg",
+      "local_logo_path": "localbrand/logo/yessselectrical-d3cc8c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/YesssElectrique/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yessselectrical-d3cc8c.jpg"
+      }
+    },
+    {
+      "displayName": "Yesss Électrique",
+      "id": "yessselectrique-21dd29",
+      "locationSet": {
+        "include": [
+          "fx",
+          "mc",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Yesss Électrique",
+        "brand:wikidata": "Q91307483",
+        "name": "Yesss Électrique",
+        "shop": "electrical"
+      },
+      "original_logo_url": "https://graph.facebook.com/YesssElectrique/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yessselectrique-21dd29.jpg",
+      "local_logo_path": "localbrand/logo/yessselectrique-21dd29.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/YesssElectrique/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yessselectrique-21dd29.jpg"
+      }
+    },
+    {
+      "displayName": "Yesss Elektro",
+      "id": "yessselektro-edc057",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Yesss Elektro",
+        "brand:wikidata": "Q91307483",
+        "name": "Yesss Elektro",
+        "shop": "electrical"
+      },
+      "original_logo_url": "https://graph.facebook.com/YesssElectrique/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yessselektro-edc057.jpg",
+      "local_logo_path": "localbrand/logo/yessselektro-edc057.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/YesssElectrique/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yessselektro-edc057.jpg"
+      }
+    },
+    {
+      "displayName": "Καυκάς / Kafkas",
+      "id": "kafkas-7ed04e",
+      "locationSet": {
+        "include": [
+          "gr"
+        ]
+      },
+      "tags": {
+        "brand": "Καυκάς",
+        "brand:el": "Καυκάς",
+        "brand:el-Latn": "Kafkas",
+        "brand:wikidata": "Q68201770",
+        "name": "Καυκάς",
+        "name:el": "Καυκάς",
+        "name:el-Latn": "Kafkas",
+        "shop": "electrical"
+      },
+      "original_logo_url": "https://graph.facebook.com/kafkas.gr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kafkas-7ed04e.jpg",
+      "local_logo_path": "localbrand/logo/kafkas-7ed04e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kafkas.gr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kafkas-7ed04e.jpg"
+      }
+    },
+    {
+      "displayName": "Теплэко",
+      "id": "224a16-f46408",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Теплэко",
+        "name": "Теплэко",
+        "shop": "electrical"
+      }
+    }
+  ]
+}

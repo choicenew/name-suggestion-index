@@ -1,0 +1,73 @@
+{
+  "properties": {
+    "path": "brands/shop/tailor",
+    "exclude": {
+      "generic": [
+        "^änderungsschneiderei$",
+        "^atelier de couture$",
+        "^couture\\s?(dame|homme|mixte)?$",
+        "^ladies tailoring$",
+        "^tail(or|leur)(ing)?( shop)?$",
+        "^ателье$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Stitch It",
+      "id": "stitchit-4c3848",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Stitch It",
+        "brand:wikidata": "Q133229153",
+        "name": "Stitch It",
+        "shop": "tailor"
+      },
+      "original_logo_url": "https://graph.facebook.com/StitchItFan/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stitchit-4c3848.jpg",
+      "local_logo_path": "localbrand/logo/stitchit-4c3848.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/StitchItFan/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stitchit-4c3848.jpg"
+      }
+    },
+    {
+      "displayName": "Ремонт одежды",
+      "id": "14b50c-697a2a",
+      "locationSet": {
+        "include": [
+          "by",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Ремонт одежды",
+        "name": "Ремонт одежды",
+        "shop": "tailor"
+      }
+    },
+    {
+      "displayName": "マジックミシン",
+      "id": "magicmachine-91405f",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "マジックミシン",
+        "brand:en": "Magic Machine",
+        "brand:ja": "マジックミシン",
+        "brand:wikidata": "Q96186506",
+        "name": "マジックミシン",
+        "name:en": "Magic Machine",
+        "name:ja": "マジックミシン",
+        "shop": "tailor"
+      }
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "properties": {
+    "path": "brands/shop/nuts",
+    "exclude": {
+      "generic": [
+        "^nuts?$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Mr. Almond",
+      "id": "mralmond-f85d29",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Mr. Almond",
+        "brand:wikidata": "Q130477385",
+        "name": "Mr. Almond",
+        "shop": "nuts"
+      },
+      "original_logo_url": "https://graph.facebook.com/mralmond.bg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mralmond-f85d29.jpg",
+      "local_logo_path": "localbrand/logo/mralmond-f85d29.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mralmond.bg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mralmond-f85d29.jpg"
+      }
+    },
+    {
+      "displayName": "Rois",
+      "id": "rois-f85d29",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Rois",
+        "brand:wikidata": "Q110399902",
+        "name": "Rois",
+        "name:bg": "Ройс",
+        "name:en": "Rois",
+        "shop": "nuts"
+      },
+      "original_logo_url": "https://graph.facebook.com/RoisNuts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rois-f85d29.png",
+      "local_logo_path": "localbrand/logo/rois-f85d29.png",
+      "logos": {
+        "original": "https://graph.facebook.com/RoisNuts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rois-f85d29.png"
+      }
+    },
+    {
+      "displayName": "Ядки Начев",
+      "id": "cedcc3-f85d29",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Начев",
+        "brand:wikidata": "Q130477366",
+        "name": "Начев",
+        "shop": "nuts"
+      },
+      "original_logo_url": "https://graph.facebook.com/190040411616744/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cedcc3-f85d29.jpg",
+      "local_logo_path": "localbrand/logo/cedcc3-f85d29.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/190040411616744/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cedcc3-f85d29.jpg"
+      }
+    },
+    {
+      "displayName": "三只松鼠",
+      "id": "threesquirrels-1d484f",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "三只松鼠",
+        "brand:en": "Three Squirrels",
+        "brand:wikidata": "Q54805303",
+        "brand:zh": "三只松鼠",
+        "name": "三只松鼠",
+        "name:en": "Three Squirrels",
+        "name:zh": "三只松鼠",
+        "shop": "nuts"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Three_Squirrels_store_at_Joy_Yard%2C_Beijing_%2820210805163640%29.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/threesquirrels-1d484f.jpg",
+      "local_logo_path": "localbrand/logo/threesquirrels-1d484f.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/b/be/Three_Squirrels_store_at_Joy_Yard%2C_Beijing_%2820210805163640%29.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/threesquirrels-1d484f.jpg"
+      }
+    },
+    {
+      "displayName": "琦王花生",
+      "id": "qiwangpeanuts-1d484f",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "琦王花生",
+        "brand:en": "Qiwang Peanuts",
+        "brand:wikidata": "Q141141938",
+        "brand:zh": "琦王花生",
+        "name": "琦王花生",
+        "name:en": "Qiwang Peanuts",
+        "name:zh": "琦王花生",
+        "shop": "nuts"
+      }
+    },
+    {
+      "displayName": "良品铺子",
+      "id": "bestore-1d484f",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "良品铺子",
+        "brand:en": "Bestore",
+        "brand:wikidata": "Q76382148",
+        "brand:zh": "良品铺子",
+        "name": "良品铺子",
+        "name:en": "Bestore",
+        "name:zh": "良品铺子",
+        "shop": "nuts"
+      }
+    }
+  ]
+}

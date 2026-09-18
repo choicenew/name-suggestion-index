@@ -1,0 +1,2729 @@
+{
+  "properties": {
+    "path": "brands/shop/trade",
+    "exclude": {
+      "generic": [
+        "^(trade|local shop)$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "84 Lumber",
+      "id": "84lumber-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "84",
+        "eighty-four lumber"
+      ],
+      "tags": {
+        "brand": "84 Lumber",
+        "brand:wikidata": "Q4644779",
+        "name": "84 Lumber",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/84lumber/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/84lumber-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/84lumber-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/84lumber/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/84lumber-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "ABC Supply",
+      "id": "abcsupply-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "abc supply company"
+      ],
+      "tags": {
+        "brand": "ABC Supply",
+        "brand:wikidata": "Q4650247",
+        "name": "ABC Supply",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/ABCSupplyCo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/abcsupply-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/abcsupply-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ABCSupplyCo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/abcsupply-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "Altorfer CAT",
+      "id": "altorfercat-786476",
+      "locationSet": {
+        "include": [
+          "us-ia.geojson",
+          "us-il.geojson",
+          "us-in.geojson",
+          "us-mo.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Altorfer CAT",
+        "brand:wikidata": "Q109616115",
+        "name": "Altorfer CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/AltorferCaterpillar/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/altorfercat-786476.jpg",
+      "local_logo_path": "localbrand/logo/altorfercat-786476.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AltorferCaterpillar/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/altorfercat-786476.jpg"
+      }
+    },
+    {
+      "displayName": "American Roofing Supply",
+      "id": "americanroofingsupply-930674",
+      "locationSet": {
+        "include": [
+          "us-az.geojson",
+          "us-co.geojson",
+          "us-id.geojson",
+          "us-il.geojson",
+          "us-in.geojson",
+          "us-mn.geojson",
+          "us-nd.geojson",
+          "us-ne.geojson",
+          "us-sd.geojson",
+          "us-wi.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "American Roofing Supply",
+        "brand:wikidata": "Q114515313",
+        "name": "American Roofing Supply",
+        "shop": "trade",
+        "trade": "roofing"
+      }
+    },
+    {
+      "displayName": "BigMat",
+      "id": "bigmat-80a59f",
+      "locationSet": {
+        "include": [
+          "be",
+          "cz",
+          "es",
+          "fr",
+          "it",
+          "pt",
+          "sk"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "BigMat",
+        "brand:wikidata": "Q101851862",
+        "name": "BigMat",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/BigMatFranceOfficiel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigmat-80a59f.png",
+      "local_logo_path": "localbrand/logo/bigmat-80a59f.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BigMatFranceOfficiel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigmat-80a59f.png"
+      }
+    },
+    {
+      "displayName": "BMN Bouwmaterialen",
+      "id": "bmnbouwmaterialen-0777cb",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "matchNames": [
+        "bmn",
+        "bouwmaterialen nederland"
+      ],
+      "tags": {
+        "brand": "BMN Bouwmaterialen",
+        "brand:wikidata": "Q124847343",
+        "name": "BMN Bouwmaterialen",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/BMNNederland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bmnbouwmaterialen-0777cb.jpg",
+      "local_logo_path": "localbrand/logo/bmnbouwmaterialen-0777cb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BMNNederland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bmnbouwmaterialen-0777cb.jpg"
+      }
+    },
+    {
+      "displayName": "Boyd CAT",
+      "id": "boydcat-d88071",
+      "locationSet": {
+        "include": [
+          "us-ky.geojson",
+          "us-oh.geojson"
+        ]
+      },
+      "matchNames": [
+        "walker machinery",
+        "whayne supply"
+      ],
+      "tags": {
+        "brand": "Boyd CAT",
+        "brand:wikidata": "Q115486292",
+        "name": "Boyd CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/boydcatcompany/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boydcat-d88071.jpg",
+      "local_logo_path": "localbrand/logo/boydcat-d88071.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/boydcatcompany/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boydcat-d88071.jpg"
+      }
+    },
+    {
+      "displayName": "Bradfords Building Supplies",
+      "id": "bradfordsbuildingsupplies-8a4d16",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Bradfords Building Supplies",
+        "brand:wikidata": "Q17986044",
+        "name": "Bradfords Building Supplies",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/BradfordsBuild/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bradfordsbuildingsupplies-8a4d16.jpg",
+      "local_logo_path": "localbrand/logo/bradfordsbuildingsupplies-8a4d16.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BradfordsBuild/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bradfordsbuildingsupplies-8a4d16.jpg"
+      }
+    },
+    {
+      "displayName": "Builders FirstSource",
+      "id": "buildersfirstsource-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Builders FirstSource",
+        "brand:wikidata": "Q27686100",
+        "name": "Builders FirstSource",
+        "shop": "trade",
+        "trade": "building_materials"
+      },
+      "original_logo_url": "https://graph.facebook.com/buildersfirstsource/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buildersfirstsource-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/buildersfirstsource-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/buildersfirstsource/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buildersfirstsource-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "Builders Trade Depot",
+      "id": "builderstradedepot-c685bf",
+      "locationSet": {
+        "include": [
+          "bw",
+          "ke",
+          "mz",
+          "za",
+          "zm"
+        ]
+      },
+      "tags": {
+        "brand": "Builders",
+        "brand:wikidata": "Q116819137",
+        "name": "Builders Trade Depot",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/BuildersSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/builderstradedepot-c685bf.png",
+      "local_logo_path": "localbrand/logo/builderstradedepot-c685bf.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BuildersSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/builderstradedepot-c685bf.png"
+      }
+    },
+    {
+      "displayName": "Butler CAT",
+      "id": "butlercat-39aa46",
+      "locationSet": {
+        "include": [
+          "us-nd.geojson",
+          "us-ne.geojson",
+          "us-sd.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Butler CAT",
+        "brand:wikidata": "Q109619534",
+        "name": "Butler CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/butlermachinery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/butlercat-39aa46.jpg",
+      "local_logo_path": "localbrand/logo/butlercat-39aa46.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/butlermachinery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/butlercat-39aa46.jpg"
+      }
+    },
+    {
+      "displayName": "Bygger'n",
+      "id": "byggern-db4f61",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Bygger'n",
+        "brand:wikidata": "Q11962715",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/Byggern/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/byggern-db4f61.png",
+      "local_logo_path": "localbrand/logo/byggern-db4f61.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Byggern/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/byggern-db4f61.png"
+      }
+    },
+    {
+      "displayName": "Byggmakker",
+      "id": "byggmakker-db4f61",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Byggmakker",
+        "brand:wikidata": "Q56404324",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/byggmakker/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/byggmakker-db4f61.jpg",
+      "local_logo_path": "localbrand/logo/byggmakker-db4f61.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/byggmakker/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/byggmakker-db4f61.jpg"
+      }
+    },
+    {
+      "displayName": "Byggtorget",
+      "id": "byggtorget-db4f61",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Byggtorget",
+        "brand:wikidata": "Q11962722",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/byggtorget/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/byggtorget-db4f61.png",
+      "local_logo_path": "localbrand/logo/byggtorget-db4f61.png",
+      "logos": {
+        "original": "https://graph.facebook.com/byggtorget/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/byggtorget-db4f61.png"
+      }
+    },
+    {
+      "displayName": "Capital Electric",
+      "id": "capitalelectric-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "capital electric supply"
+      ],
+      "tags": {
+        "brand": "Capital Electric",
+        "brand:wikidata": "Q109826234",
+        "name": "Capital Electric",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/CapitalElecSply/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/capitalelectric-4e950c.png",
+      "local_logo_path": "localbrand/logo/capitalelectric-4e950c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/CapitalElecSply/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/capitalelectric-4e950c.png"
+      }
+    },
+    {
+      "displayName": "City Plumbing",
+      "id": "cityplumbing-8a4d16",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "city plumbing supplies"
+      ],
+      "matchTags": [
+        "craft/plumbing",
+        "shop/kitchen"
+      ],
+      "tags": {
+        "brand": "City Plumbing",
+        "brand:wikidata": "Q105089893",
+        "name": "City Plumbing",
+        "shop": "trade",
+        "trade": "plumbing"
+      },
+      "original_logo_url": "https://graph.facebook.com/cityplumbinguk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cityplumbing-8a4d16.jpg",
+      "local_logo_path": "localbrand/logo/cityplumbing-8a4d16.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/cityplumbinguk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cityplumbing-8a4d16.jpg"
+      }
+    },
+    {
+      "displayName": "Codale",
+      "id": "codale-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "codale electric supply"
+      ],
+      "tags": {
+        "brand": "Codale",
+        "brand:wikidata": "Q109826274",
+        "name": "Codale",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/CodaleElectricSupply/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/codale-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/codale-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CodaleElectricSupply/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/codale-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "Cooper Electric",
+      "id": "cooperelectric-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Cooper Electric",
+        "brand:wikidata": "Q109826296",
+        "name": "Cooper Electric",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/ProsNeedPros/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cooperelectric-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/cooperelectric-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ProsNeedPros/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cooperelectric-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "Corys Electrical",
+      "id": "coryselectrical-49357c",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Corys Electrical",
+        "brand:wikidata": "Q113313384",
+        "name": "Corys Electrical",
+        "shop": "trade",
+        "trade": "electrical"
+      },
+      "original_logo_url": "https://graph.facebook.com/CorysElectrical/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coryselectrical-49357c.jpg",
+      "local_logo_path": "localbrand/logo/coryselectrical-49357c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CorysElectrical/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coryselectrical-49357c.jpg"
+      }
+    },
+    {
+      "displayName": "Crawford",
+      "id": "crawford-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "crawford electric supply"
+      ],
+      "tags": {
+        "brand": "Crawford",
+        "brand:wikidata": "Q109826311",
+        "name": "Crawford",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/crawfordelectricsupply/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crawford-4e950c.png",
+      "local_logo_path": "localbrand/logo/crawford-4e950c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/crawfordelectricsupply/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crawford-4e950c.png"
+      }
+    },
+    {
+      "displayName": "DEK",
+      "id": "dek-8ec304",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "matchNames": [
+        "dek stavebniny"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "DEK",
+        "brand:wikidata": "Q58205825",
+        "name": "DEK",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/115507848314642/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dek-8ec304.jpg",
+      "local_logo_path": "localbrand/logo/dek-8ec304.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/115507848314642/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dek-8ec304.jpg"
+      }
+    },
+    {
+      "displayName": "Echo Electric",
+      "id": "echoelectric-5a9be2",
+      "locationSet": {
+        "include": [
+          "us-il.geojson"
+        ]
+      },
+      "matchNames": [
+        "holt electrical",
+        "richards electric",
+        "springfield electric",
+        "springfield electric supply company"
+      ],
+      "tags": {
+        "brand": "Echo Electric",
+        "brand:wikidata": "Q109859496",
+        "name": "Echo Electric",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "displayName": "Edmundson Electrical",
+      "id": "edmundsonelectrical-8a4d16",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchTags": [
+        "shop/electronics"
+      ],
+      "tags": {
+        "brand": "Edmundson Electrical",
+        "brand:wikidata": "Q27958713",
+        "name": "Edmundson Electrical",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/edmundsonelectricalofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edmundsonelectrical-8a4d16.jpg",
+      "local_logo_path": "localbrand/logo/edmundsonelectrical-8a4d16.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/edmundsonelectricalofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edmundsonelectrical-8a4d16.jpg"
+      }
+    },
+    {
+      "displayName": "Empire CAT",
+      "id": "empirecat-e9f192",
+      "locationSet": {
+        "include": [
+          "us-az.geojson",
+          "us-ca.geojson",
+          "us-nv.geojson"
+        ]
+      },
+      "matchNames": [
+        "cashman cat"
+      ],
+      "tags": {
+        "brand": "Empire CAT",
+        "brand:wikidata": "Q109615341",
+        "name": "Empire CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/empirecat/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/empirecat-e9f192.jpg",
+      "local_logo_path": "localbrand/logo/empirecat-e9f192.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/empirecat/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/empirecat-e9f192.jpg"
+      }
+    },
+    {
+      "displayName": "Eurocell",
+      "id": "eurocell-8a4d16",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Eurocell",
+        "brand:wikidata": "Q115167169",
+        "name": "Eurocell",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/EurocellOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eurocell-8a4d16.jpg",
+      "local_logo_path": "localbrand/logo/eurocell-8a4d16.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EurocellOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eurocell-8a4d16.jpg"
+      }
+    },
+    {
+      "displayName": "F.W. Webb Company",
+      "id": "fwwebbcompany-b388bb",
+      "locationSet": {
+        "include": [
+          "us-ct.geojson",
+          "us-ma.geojson",
+          "us-me.geojson",
+          "us-nh.geojson",
+          "us-nj.geojson",
+          "us-ny.geojson",
+          "us-pa.geojson",
+          "us-ri.geojson",
+          "us-vt.geojson"
+        ]
+      },
+      "matchNames": [
+        "f.w. webb"
+      ],
+      "tags": {
+        "brand": "F.W. Webb Company",
+        "brand:wikidata": "Q5423791",
+        "name": "F.W. Webb Company",
+        "shop": "trade",
+        "trade": "hvac;plumbing"
+      },
+      "original_logo_url": "https://graph.facebook.com/fwwebbco/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fwwebbcompany-b388bb.jpg",
+      "local_logo_path": "localbrand/logo/fwwebbcompany-b388bb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fwwebbco/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fwwebbcompany-b388bb.jpg"
+      }
+    },
+    {
+      "displayName": "Fabick CAT",
+      "id": "fabickcat-755a12",
+      "locationSet": {
+        "include": [
+          "us-il.geojson",
+          "us-mi.geojson",
+          "us-mo.geojson",
+          "us-wi.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Fabick CAT",
+        "brand:wikidata": "Q109619462",
+        "name": "Fabick CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/FabickCat/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fabickcat-755a12.jpg",
+      "local_logo_path": "localbrand/logo/fabickcat-755a12.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FabickCat/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fabickcat-755a12.jpg"
+      }
+    },
+    {
+      "displayName": "Fastenal",
+      "id": "fastenal-e4a373",
+      "locationSet": {
+        "include": [
+          "ca",
+          "pa",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "fastenal company"
+      ],
+      "tags": {
+        "brand": "Fastenal",
+        "brand:wikidata": "Q3067119",
+        "name": "Fastenal",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/fastenalcompany/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastenal-e4a373.jpg",
+      "local_logo_path": "localbrand/logo/fastenal-e4a373.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fastenalcompany/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastenal-e4a373.jpg"
+      }
+    },
+    {
+      "displayName": "Felbermayr",
+      "id": "felbermayr-26d55f",
+      "locationSet": {
+        "include": [
+          "at",
+          "ba",
+          "bg",
+          "cz",
+          "de",
+          "hr",
+          "hu",
+          "it",
+          "pl",
+          "ro",
+          "rs",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Felbermayr",
+        "brand:wikidata": "Q19687619",
+        "name": "Felbermayr",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/felbermayr.cc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/felbermayr-26d55f.jpg",
+      "local_logo_path": "localbrand/logo/felbermayr-26d55f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/felbermayr.cc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/felbermayr-26d55f.jpg"
+      }
+    },
+    {
+      "displayName": "Ferguson",
+      "id": "ferguson-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Ferguson",
+        "brand:wikidata": "Q5444235",
+        "name": "Ferguson",
+        "shop": "trade",
+        "trade": "plumbing"
+      }
+    },
+    {
+      "displayName": "Finning CAT",
+      "id": "finningcat-4e6583",
+      "locationSet": {
+        "include": [
+          "ca-ab.geojson",
+          "ca-bc.geojson",
+          "ca-nt.geojson",
+          "ca-sk.geojson",
+          "ca-yt.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Finning CAT",
+        "brand:wikidata": "Q109619686",
+        "name": "Finning CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/FinningCA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/finningcat-4e6583.jpg",
+      "local_logo_path": "localbrand/logo/finningcat-4e6583.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FinningCA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/finningcat-4e6583.jpg"
+      }
+    },
+    {
+      "displayName": "Gap",
+      "id": "gap-8a4d16",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Gap",
+        "brand:wikidata": "Q125624088",
+        "name": "Gap",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/GAPLtd/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gap-8a4d16.jpg",
+      "local_logo_path": "localbrand/logo/gap-8a4d16.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GAPLtd/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gap-8a4d16.jpg"
+      }
+    },
+    {
+      "displayName": "Grainger",
+      "id": "grainger-d18c79",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "granger",
+        "w. w. grainger"
+      ],
+      "tags": {
+        "brand": "Grainger",
+        "brand:wikidata": "Q1627894",
+        "name": "Grainger",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/grainger/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grainger-d18c79.jpg",
+      "local_logo_path": "localbrand/logo/grainger-d18c79.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/grainger/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grainger-d18c79.jpg"
+      }
+    },
+    {
+      "displayName": "Graybar",
+      "id": "graybar-d18c79",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "greybar"
+      ],
+      "tags": {
+        "brand": "Graybar",
+        "brand:wikidata": "Q5598285",
+        "name": "Graybar",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/Graybar/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/graybar-d18c79.jpg",
+      "local_logo_path": "localbrand/logo/graybar-d18c79.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Graybar/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/graybar-d18c79.jpg"
+      }
+    },
+    {
+      "displayName": "Heating Plumbing Supplies",
+      "id": "heatingplumbingsupplies-cf8c4d",
+      "locationSet": {
+        "include": [
+          "gb-eng"
+        ]
+      },
+      "matchNames": [
+        "hps merchant"
+      ],
+      "tags": {
+        "brand": "Heating Plumbing Supplies",
+        "brand:wikidata": "Q105158745",
+        "name": "Heating Plumbing Supplies",
+        "shop": "trade",
+        "trade": "plumbing"
+      },
+      "original_logo_url": "https://graph.facebook.com/HPSMerchant/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/heatingplumbingsupplies-cf8c4d.jpg",
+      "local_logo_path": "localbrand/logo/heatingplumbingsupplies-cf8c4d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HPSMerchant/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/heatingplumbingsupplies-cf8c4d.jpg"
+      }
+    },
+    {
+      "displayName": "Holt CAT",
+      "id": "holtcat-f0929a",
+      "locationSet": {
+        "include": [
+          "us-tx.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Holt CAT",
+        "brand:wikidata": "Q109615985",
+        "name": "Holt CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      }
+    },
+    {
+      "displayName": "HTI Gruppe",
+      "id": "htigruppe-c82403",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "HTI Gruppe",
+        "brand:wikidata": "Q120862887",
+        "name": "HTI Gruppe",
+        "shop": "trade"
+      }
+    },
+    {
+      "displayName": "Huws Gray",
+      "id": "huwsgray-8a4d16",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "huws gray building materials centre"
+      ],
+      "tags": {
+        "brand": "Huws Gray",
+        "brand:wikidata": "Q16965780",
+        "name": "Huws Gray",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/huwsgray/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/huwsgray-8a4d16.jpg",
+      "local_logo_path": "localbrand/logo/huwsgray-8a4d16.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/huwsgray/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/huwsgray-8a4d16.jpg"
+      }
+    },
+    {
+      "displayName": "Independent Electric",
+      "id": "independentelectric-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "independent electric supply"
+      ],
+      "tags": {
+        "brand": "Independent Electric",
+        "brand:wikidata": "Q109832656",
+        "name": "Independent Electric",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/IndependentElectricSupply/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/independentelectric-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/independentelectric-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IndependentElectricSupply/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/independentelectric-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "Irby",
+      "id": "irby-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "irby co"
+      ],
+      "tags": {
+        "brand": "Irby",
+        "brand:wikidata": "Q109832749",
+        "name": "Irby",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/irbyco/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/irby-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/irby-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/irbyco/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/irby-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "ITM",
+      "id": "itm-49357c",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "note": "Stores can have unique name not based on location",
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "alt_name": "ITM",
+        "brand": "ITM",
+        "brand:wikidata": "Q110437159",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/ITMNZ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/itm-49357c.jpg",
+      "local_logo_path": "localbrand/logo/itm-49357c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ITMNZ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/itm-49357c.jpg"
+      }
+    },
+    {
+      "displayName": "J. A. Russel",
+      "id": "jarussel-49357c",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "J. A. Russel",
+        "brand:wikidata": "Q113313306",
+        "name": "J. A. Russel",
+        "shop": "trade",
+        "trade": "electrical"
+      },
+      "original_logo_url": "https://graph.facebook.com/jarussellltd/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jarussel-49357c.png",
+      "local_logo_path": "localbrand/logo/jarussel-49357c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/jarussellltd/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jarussel-49357c.png"
+      }
+    },
+    {
+      "displayName": "Jewson",
+      "id": "jewson-8a4d16",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "jewson limited",
+        "jewsons"
+      ],
+      "tags": {
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "name": "Jewson",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/jewsonuk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jewson-8a4d16.jpg",
+      "local_logo_path": "localbrand/logo/jewson-8a4d16.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/jewsonuk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jewson-8a4d16.jpg"
+      }
+    },
+    {
+      "displayName": "John Deere",
+      "id": "johndeere-4df98d",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/car",
+        "shop/farm",
+        "shop/tractor"
+      ],
+      "tags": {
+        "brand": "John Deere",
+        "brand:wikidata": "Q496302",
+        "name": "John Deere",
+        "shop": "trade",
+        "trade": "agricultural_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/JohnDeereUSCA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johndeere-4df98d.jpg",
+      "local_logo_path": "localbrand/logo/johndeere-4df98d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JohnDeereUSCA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johndeere-4df98d.jpg"
+      }
+    },
+    {
+      "displayName": "Johnstone Supply",
+      "id": "johnstonesupply-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Johnstone Supply",
+        "brand:wikidata": "Q119994221",
+        "name": "Johnstone Supply",
+        "shop": "trade",
+        "trade": "hvac"
+      },
+      "original_logo_url": "https://graph.facebook.com/JSHoustonTexas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johnstonesupply-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/johnstonesupply-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JSHoustonTexas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johnstonesupply-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "Keyline",
+      "id": "keyline-8a4d16",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Keyline",
+        "brand:wikidata": "Q100293785",
+        "name": "Keyline",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/KeylineCivils/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keyline-8a4d16.jpg",
+      "local_logo_path": "localbrand/logo/keyline-8a4d16.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KeylineCivils/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keyline-8a4d16.jpg"
+      }
+    },
+    {
+      "displayName": "Linde Welding Gas & Equipment Center",
+      "id": "lindeweldinggasandequipmentcenter-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "praxair"
+      ],
+      "tags": {
+        "brand": "Linde",
+        "brand:wikidata": "Q902780",
+        "name": "Linde Welding Gas & Equipment Center",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/PraxairInc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lindeweldinggasandequipmentcenter-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/lindeweldinggasandequipmentcenter-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PraxairInc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lindeweldinggasandequipmentcenter-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "Louisiana CAT",
+      "id": "louisianacat-052d4d",
+      "locationSet": {
+        "include": [
+          "us-la.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Louisiana CAT",
+        "brand:wikidata": "Q115486410",
+        "name": "Louisiana CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/LouisianaCat.official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/louisianacat-052d4d.jpg",
+      "local_logo_path": "localbrand/logo/louisianacat-052d4d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LouisianaCat.official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/louisianacat-052d4d.jpg"
+      }
+    },
+    {
+      "displayName": "MacAllister CAT",
+      "id": "macallistercat-d2d460",
+      "locationSet": {
+        "include": [
+          "us-in.geojson",
+          "us-mi.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "MacAllister CAT",
+        "brand:wikidata": "Q115486206",
+        "name": "MacAllister CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/macallistermachinery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/macallistercat-d2d460.jpg",
+      "local_logo_path": "localbrand/logo/macallistercat-d2d460.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/macallistermachinery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/macallistercat-d2d460.jpg"
+      }
+    },
+    {
+      "displayName": "Maxbo",
+      "id": "maxbo-db4f61",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Maxbo",
+        "brand:wikidata": "Q11988771",
+        "name": "Maxbo",
+        "shop": "trade"
+      }
+    },
+    {
+      "displayName": "Michigan CAT",
+      "id": "michigancat-1363ee",
+      "locationSet": {
+        "include": [
+          "us-mi.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Michigan CAT",
+        "brand:wikidata": "Q109616101",
+        "name": "Michigan CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/MichiganCAT/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/michigancat-1363ee.jpg",
+      "local_logo_path": "localbrand/logo/michigancat-1363ee.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MichiganCAT/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/michigancat-1363ee.jpg"
+      }
+    },
+    {
+      "displayName": "Middy's",
+      "id": "middys-0432d4",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Middy's",
+        "brand:wikidata": "Q117157352",
+        "name": "Middy's",
+        "shop": "trade",
+        "trade": "electrical"
+      },
+      "original_logo_url": "https://graph.facebook.com/MiddysElectrical/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/middys-0432d4.jpg",
+      "local_logo_path": "localbrand/logo/middys-0432d4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MiddysElectrical/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/middys-0432d4.jpg"
+      }
+    },
+    {
+      "displayName": "Montér",
+      "id": "monter-db4f61",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Montér",
+        "brand:wikidata": "Q11989912",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/monternorge/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monter-db4f61.jpg",
+      "local_logo_path": "localbrand/logo/monter-db4f61.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/monternorge/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monter-db4f61.jpg"
+      }
+    },
+    {
+      "displayName": "Munch's Supply",
+      "id": "munchssupply-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Munch's Supply",
+        "brand:wikidata": "Q117021522",
+        "name": "Munch's Supply",
+        "shop": "trade",
+        "trade": "hvac"
+      },
+      "original_logo_url": "https://graph.facebook.com/MunchSupply/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/munchssupply-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/munchssupply-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MunchSupply/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/munchssupply-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "Mustang CAT",
+      "id": "mustangcat-f0929a",
+      "locationSet": {
+        "include": [
+          "us-tx.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Mustang CAT",
+        "brand:wikidata": "Q109619495",
+        "name": "Mustang CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/MustangCat/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mustangcat-f0929a.jpg",
+      "local_logo_path": "localbrand/logo/mustangcat-f0929a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MustangCat/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mustangcat-f0929a.jpg"
+      }
+    },
+    {
+      "displayName": "N C Machinery",
+      "id": "ncmachinery-066ed1",
+      "locationSet": {
+        "include": [
+          "us-ak",
+          "us-wa.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "N C Machinery",
+        "brand:wikidata": "Q115486535",
+        "name": "N C Machinery",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/NCMachinery.Cat/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ncmachinery-066ed1.jpg",
+      "local_logo_path": "localbrand/logo/ncmachinery-066ed1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NCMachinery.Cat/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ncmachinery-066ed1.jpg"
+      }
+    },
+    {
+      "displayName": "NMC CAT",
+      "id": "nmccat-346f4e",
+      "locationSet": {
+        "include": [
+          "us-ia.geojson",
+          "us-ne.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "NMC CAT",
+        "brand:wikidata": "Q109619456",
+        "name": "NMC CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/nmccat/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nmccat-346f4e.jpg",
+      "local_logo_path": "localbrand/logo/nmccat-346f4e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/nmccat/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nmccat-346f4e.jpg"
+      }
+    },
+    {
+      "displayName": "North Coast",
+      "id": "northcoast-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "north coast electric"
+      ],
+      "tags": {
+        "brand": "North Coast",
+        "brand:wikidata": "Q109832848",
+        "name": "North Coast",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/ncelectric/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/northcoast-4e950c.png",
+      "local_logo_path": "localbrand/logo/northcoast-4e950c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ncelectric/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/northcoast-4e950c.png"
+      }
+    },
+    {
+      "displayName": "NorthEast Electrical",
+      "id": "northeastelectrical-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "needco"
+      ],
+      "tags": {
+        "brand": "NorthEast Electrical",
+        "brand:wikidata": "Q109832965",
+        "name": "NorthEast Electrical",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/northeastneedco/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/northeastelectrical-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/northeastelectrical-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/northeastneedco/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/northeastelectrical-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "Ohio CAT",
+      "id": "ohiocat-d88071",
+      "locationSet": {
+        "include": [
+          "us-ky.geojson",
+          "us-oh.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Ohio CAT",
+        "brand:wikidata": "Q115486235",
+        "name": "Ohio CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      }
+    },
+    {
+      "displayName": "OneSource",
+      "id": "onesource-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "1source"
+      ],
+      "tags": {
+        "brand": "OneSource",
+        "brand:wikidata": "Q109833084",
+        "name": "OneSource",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/onesourcedist/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/onesource-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/onesource-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/onesourcedist/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/onesource-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "Papé Machinery Agriculture & Turf",
+      "id": "papemachineryagricultureandturf-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Papé Machinery",
+        "brand:wikidata": "Q109615242",
+        "name": "Papé Machinery Agriculture & Turf",
+        "shop": "trade",
+        "trade": "agricultural_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/papegroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/papemachineryagricultureandturf-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/papemachineryagricultureandturf-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/papegroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/papemachineryagricultureandturf-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "Papé Machinery Construction & Forestry",
+      "id": "papemachineryconstructionandforestry-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Papé Machinery",
+        "brand:wikidata": "Q109615242",
+        "name": "Papé Machinery Construction & Forestry",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/papegroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/papemachineryconstructionandforestry-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/papemachineryconstructionandforestry-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/papegroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/papemachineryconstructionandforestry-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "Parr Lumber",
+      "id": "parrlumber-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Parr Lumber",
+        "brand:wikidata": "Q7139721",
+        "name": "Parr Lumber",
+        "shop": "trade",
+        "short_name": "Parr",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/parrlumberco/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parrlumber-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/parrlumber-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/parrlumberco/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parrlumber-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "Peterson CAT",
+      "id": "petersoncat-a2ce56",
+      "locationSet": {
+        "include": [
+          "us-ca.geojson",
+          "us-or.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Peterson CAT",
+        "brand:wikidata": "Q109615287",
+        "name": "Peterson CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/mypetersoncat/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petersoncat-a2ce56.jpg",
+      "local_logo_path": "localbrand/logo/petersoncat-a2ce56.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mypetersoncat/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petersoncat-a2ce56.jpg"
+      }
+    },
+    {
+      "displayName": "Plumbase",
+      "id": "plumbase-8a4d16",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Plumbase",
+        "brand:wikidata": "Q114349486",
+        "name": "Plumbase",
+        "shop": "trade",
+        "trade": "plumbing"
+      },
+      "original_logo_url": "https://graph.facebook.com/plumbaseuk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/plumbase-8a4d16.jpg",
+      "local_logo_path": "localbrand/logo/plumbase-8a4d16.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/plumbaseuk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/plumbase-8a4d16.jpg"
+      }
+    },
+    {
+      "displayName": "Pro-Doma",
+      "id": "prodoma-0d3493",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "matchNames": [
+        "pro-doma stavebniny"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Pro-Doma",
+        "brand:wikidata": "Q58218819",
+        "name": "Pro-Doma",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/prodoma/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prodoma-0d3493.jpg",
+      "local_logo_path": "localbrand/logo/prodoma-0d3493.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/prodoma/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prodoma-0d3493.jpg"
+      }
+    },
+    {
+      "displayName": "Ptáček",
+      "id": "ptacek-8ec304",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "matchNames": [
+        "instalatercentrum ptacek",
+        "instalaterske centrum ptacek",
+        "ptacek - kurenie, voda, plyn",
+        "ptacek - topeni, voda, plyn",
+        "ptacek instalatercentrum",
+        "ptacek instalaterske centrum"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Ptáček",
+        "brand:wikidata": "Q58195153",
+        "name": "Ptáček",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/ptacek.cz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ptacek-8ec304.png",
+      "local_logo_path": "localbrand/logo/ptacek-8ec304.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ptacek.cz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ptacek-8ec304.png"
+      }
+    },
+    {
+      "displayName": "Puckett CAT",
+      "id": "puckettcat-868049",
+      "locationSet": {
+        "include": [
+          "us-ms.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Puckett CAT",
+        "brand:wikidata": "Q115486402",
+        "name": "Puckett CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/puckettmachinery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/puckettcat-868049.jpg",
+      "local_logo_path": "localbrand/logo/puckettcat-868049.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/puckettmachinery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/puckettcat-868049.jpg"
+      }
+    },
+    {
+      "displayName": "QED",
+      "id": "qed-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "quality electrical distribution"
+      ],
+      "tags": {
+        "brand": "QED",
+        "brand:wikidata": "Q109859381",
+        "name": "QED",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/OfficialQEDelectric/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/qed-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/qed-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OfficialQEDelectric/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/qed-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "Quinn CAT",
+      "id": "quinncat-d6cd9f",
+      "locationSet": {
+        "include": [
+          "us-ca.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Quinn CAT",
+        "brand:wikidata": "Q109615328",
+        "name": "Quinn CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/quinncompany/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/quinncat-d6cd9f.jpg",
+      "local_logo_path": "localbrand/logo/quinncat-d6cd9f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/quinncompany/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/quinncat-d6cd9f.jpg"
+      }
+    },
+    {
+      "displayName": "Raab Karcher",
+      "id": "raabkarcher-c82403",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Raab Karcher",
+        "brand:wikidata": "Q1682043",
+        "name": "Raab Karcher",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Raab_Karcher_Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/raabkarcher-c82403.svg",
+      "local_logo_path": "localbrand/logo/raabkarcher-c82403.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Raab_Karcher_Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/raabkarcher-c82403.svg"
+      }
+    },
+    {
+      "displayName": "Raiffeisen Baucenter",
+      "id": "raiffeisenbaucenter-c82403",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "ZG Raiffeisen",
+        "brand:wikidata": "Q136135",
+        "name": "Raiffeisen Baucenter",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/zgraiffeisen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/raiffeisenbaucenter-c82403.jpg",
+      "local_logo_path": "localbrand/logo/raiffeisenbaucenter-c82403.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/zgraiffeisen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/raiffeisenbaucenter-c82403.jpg"
+      }
+    },
+    {
+      "displayName": "Reece Actrol",
+      "id": "reeceactrol-b11955",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Reece",
+        "brand:wikidata": "Q29025524",
+        "name": "Reece Actrol",
+        "shop": "trade",
+        "trade": "hvac"
+      }
+    },
+    {
+      "displayName": "Reece Bathroom Life",
+      "id": "reecebathroomlife-b11955",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Reece",
+        "brand:wikidata": "Q29025524",
+        "name": "Reece Bathroom Life",
+        "shop": "trade",
+        "trade": "bathroom"
+      }
+    },
+    {
+      "displayName": "Reece Civil",
+      "id": "reececivil-0432d4",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Reece",
+        "brand:wikidata": "Q29025524",
+        "name": "Reece Civil",
+        "shop": "trade",
+        "trade": "plumbing"
+      }
+    },
+    {
+      "displayName": "Reece Fire",
+      "id": "reecefire-0432d4",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Reece",
+        "brand:wikidata": "Q29025524",
+        "name": "Reece Fire",
+        "shop": "trade",
+        "trade": "fire_protection"
+      }
+    },
+    {
+      "displayName": "Reece HVAC-R",
+      "id": "reecehvacr-b11955",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Reece",
+        "brand:wikidata": "Q29025524",
+        "name": "Reece HVAC-R",
+        "shop": "trade",
+        "trade": "hvac"
+      }
+    },
+    {
+      "displayName": "Reece Irrigation & Pools",
+      "id": "reeceirrigationandpools-0432d4",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Reece",
+        "brand:wikidata": "Q29025524",
+        "name": "Reece Irrigation & Pools",
+        "shop": "trade",
+        "trade": "irrigation;swimming_pool_supplies"
+      }
+    },
+    {
+      "displayName": "Reece Onsite",
+      "id": "reeceonsite-0432d4",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Reece",
+        "brand:wikidata": "Q29025524",
+        "name": "Reece Onsite",
+        "shop": "trade",
+        "trade": "plumbing"
+      }
+    },
+    {
+      "displayName": "Reece Pipeline Supplies",
+      "id": "reecepipelinesupplies-0432d4",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Reece",
+        "brand:wikidata": "Q29025524",
+        "name": "Reece Pipeline Supplies",
+        "shop": "trade",
+        "trade": "fire_protection;hvac;plumbing"
+      }
+    },
+    {
+      "displayName": "Reece Plumbing Centre",
+      "id": "reeceplumbingcentre-b11955",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Reece",
+        "brand:wikidata": "Q29025524",
+        "name": "Reece Plumbing Centre",
+        "shop": "trade",
+        "trade": "plumbing"
+      }
+    },
+    {
+      "displayName": "Reece Viadux",
+      "id": "reeceviadux-0432d4",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Reece",
+        "brand:wikidata": "Q29025524",
+        "name": "Reece Viadux",
+        "shop": "trade",
+        "trade": "plumbing"
+      }
+    },
+    {
+      "displayName": "RGB Building Supplies",
+      "id": "rgbbuildingsupplies-8a4d16",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "note": "Different branches offer services for different trades, so omitted the 'trade=*' tag",
+      "tags": {
+        "brand": "RGB Building Supplies",
+        "brand:wikidata": "Q102006925",
+        "name": "RGB Building Supplies",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/RGBBuildingSupplies/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rgbbuildingsupplies-8a4d16.jpg",
+      "local_logo_path": "localbrand/logo/rgbbuildingsupplies-8a4d16.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RGBBuildingSupplies/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rgbbuildingsupplies-8a4d16.jpg"
+      }
+    },
+    {
+      "displayName": "RHG Baustoffe",
+      "id": "rhgbaustoffe-c82403",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "RHG",
+        "brand:wikidata": "Q19298856",
+        "name": "RHG Baustoffe",
+        "shop": "trade"
+      }
+    },
+    {
+      "displayName": "Richter+Frenzel",
+      "id": "richterfrenzel-8497cf",
+      "locationSet": {
+        "include": [
+          "cz",
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Richter+Frenzel",
+        "brand:wikidata": "Q2151266",
+        "name": "Richter+Frenzel",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/richterfrenzel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/richterfrenzel-8497cf.jpg",
+      "local_logo_path": "localbrand/logo/richterfrenzel-8497cf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/richterfrenzel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/richterfrenzel-8497cf.jpg"
+      }
+    },
+    {
+      "displayName": "RP Lumber",
+      "id": "rplumber-ab5d0f",
+      "locationSet": {
+        "include": [
+          "us-ia.geojson",
+          "us-il.geojson",
+          "us-mo.geojson",
+          "us-wi.geojson",
+          "us-wy.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "RP Lumber",
+        "brand:wikidata": "Q116671972",
+        "name": "RP Lumber",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/RPLumberCo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rplumber-ab5d0f.jpg",
+      "local_logo_path": "localbrand/logo/rplumber-ab5d0f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RPLumberCo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rplumber-ab5d0f.jpg"
+      }
+    },
+    {
+      "displayName": "Selco Builders Warehouse",
+      "id": "selcobuilderswarehouse-8a4d16",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "selco"
+      ],
+      "tags": {
+        "brand": "Selco Builders Warehouse",
+        "brand:wikidata": "Q112689068",
+        "name": "Selco Builders Warehouse",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "displayName": "SIG Roofing",
+      "id": "sigroofing-8a4d16",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "SIG Roofing",
+        "brand:wikidata": "Q121435383",
+        "name": "SIG Roofing",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/SIGRoofingUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sigroofing-8a4d16.jpg",
+      "local_logo_path": "localbrand/logo/sigroofing-8a4d16.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SIGRoofingUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sigroofing-8a4d16.jpg"
+      }
+    },
+    {
+      "displayName": "Stavmat Építőanyag Kereskedelem",
+      "id": "stavmatepitoanyagkereskedelem-453975",
+      "locationSet": {
+        "include": [
+          "hu"
+        ]
+      },
+      "tags": {
+        "brand": "Stavmat Építőanyag Kereskedelem",
+        "brand:wikidata": "Q130685828",
+        "name": "Stavmat Építőanyag Kereskedelem",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/stavmat.hu/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stavmatepitoanyagkereskedelem-453975.jpg",
+      "local_logo_path": "localbrand/logo/stavmatepitoanyagkereskedelem-453975.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/stavmat.hu/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stavmatepitoanyagkereskedelem-453975.jpg"
+      }
+    },
+    {
+      "displayName": "Stavmat Stavebniny (Česko)",
+      "id": "stavmatstavebniny-0d3493",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "Stavmat Stavebniny",
+        "brand:wikidata": "Q58206129",
+        "name": "Stavmat Stavebniny",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/stavmat.cz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stavmatstavebniny-0d3493.jpg",
+      "local_logo_path": "localbrand/logo/stavmatstavebniny-0d3493.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/stavmat.cz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stavmatstavebniny-0d3493.jpg"
+      }
+    },
+    {
+      "displayName": "Stavmat Stavebniny (Slovensko)",
+      "id": "stavmatstavebniny-a5bd5b",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Stavmat Stavebniny",
+        "brand:wikidata": "Q130685594",
+        "name": "Stavmat Stavebniny",
+        "shop": "trade"
+      },
+      "original_logo_url": "https://graph.facebook.com/stavmat/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stavmatstavebniny-a5bd5b.jpg",
+      "local_logo_path": "localbrand/logo/stavmatstavebniny-a5bd5b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/stavmat/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stavmatstavebniny-a5bd5b.jpg"
+      }
+    },
+    {
+      "displayName": "Supa-Roof",
+      "id": "suparoof-c60415",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Supa-Roof",
+        "brand:wikidata": "Q116474839",
+        "name": "Supa-Roof",
+        "shop": "trade",
+        "trade": "roofing"
+      },
+      "original_logo_url": "https://graph.facebook.com/SupaRoofSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suparoof-c60415.jpg",
+      "local_logo_path": "localbrand/logo/suparoof-c60415.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SupaRoofSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suparoof-c60415.jpg"
+      }
+    },
+    {
+      "displayName": "Thompson CAT (Thompson Machinery)",
+      "id": "thompsoncat-82599d",
+      "locationSet": {
+        "include": [
+          "us-mi.geojson",
+          "us-tn.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Thompson CAT",
+        "brand:wikidata": "Q115486334",
+        "name": "Thompson CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/thompsonmachinery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thompsoncat-82599d.jpg",
+      "local_logo_path": "localbrand/logo/thompsoncat-82599d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/thompsonmachinery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thompsoncat-82599d.jpg"
+      }
+    },
+    {
+      "displayName": "Thompson CAT (Thompson Tractor)",
+      "id": "thompsoncat-386127",
+      "locationSet": {
+        "include": [
+          "us-al.geojson",
+          "us-fl.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Thompson CAT",
+        "brand:wikidata": "Q115486339",
+        "name": "Thompson CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/thompsontractor/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thompsoncat-386127.jpg",
+      "local_logo_path": "localbrand/logo/thompsoncat-386127.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/thompsontractor/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thompsoncat-386127.jpg"
+      }
+    },
+    {
+      "displayName": "Toromont CAT",
+      "id": "toromontcat-321e1f",
+      "locationSet": {
+        "include": [
+          "ca-mb.geojson",
+          "ca-nb.geojson",
+          "ca-nl.geojson",
+          "ca-ns.geojson",
+          "ca-nu.geojson",
+          "ca-on.geojson",
+          "ca-pe.geojson",
+          "ca-qc.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Toromont CAT",
+        "brand:wikidata": "Q109619691",
+        "name": "Toromont CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/mytoromontcat/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/toromontcat-321e1f.jpg",
+      "local_logo_path": "localbrand/logo/toromontcat-321e1f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mytoromontcat/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/toromontcat-321e1f.jpg"
+      }
+    },
+    {
+      "displayName": "Tractor & Equipment Co.",
+      "id": "tractorandequipmentco-10c19f",
+      "locationSet": {
+        "include": [
+          "us-mt.geojson",
+          "us-nd.geojson",
+          "us-wy.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Tractor & Equipment Co.",
+        "brand:wikidata": "Q115486509",
+        "name": "Tractor & Equipment Co.",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/TractorandEquipmentCo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tractorandequipmentco-10c19f.jpg",
+      "local_logo_path": "localbrand/logo/tractorandequipmentco-10c19f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TractorandEquipmentCo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tractorandequipmentco-10c19f.jpg"
+      }
+    },
+    {
+      "displayName": "Tradelink",
+      "id": "tradelink-0432d4",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Tradelink",
+        "brand:wikidata": "Q120648432",
+        "name": "Tradelink",
+        "shop": "trade",
+        "trade": "plumbing"
+      },
+      "original_logo_url": "https://graph.facebook.com/TradelinkShowrooms/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tradelink-0432d4.jpg",
+      "local_logo_path": "localbrand/logo/tradelink-0432d4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TradelinkShowrooms/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tradelink-0432d4.jpg"
+      }
+    },
+    {
+      "displayName": "TradePoint",
+      "id": "tradepoint-8a4d16",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "TradePoint",
+        "brand:wikidata": "Q115211017",
+        "name": "TradePoint",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/TradePointUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tradepoint-8a4d16.jpg",
+      "local_logo_path": "localbrand/logo/tradepoint-8a4d16.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TradePointUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tradepoint-8a4d16.jpg"
+      }
+    },
+    {
+      "displayName": "Vallen",
+      "id": "vallen-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "vallen distribution"
+      ],
+      "tags": {
+        "brand": "Vallen",
+        "brand:wikidata": "Q109859600",
+        "name": "Vallen",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/vallenusa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vallen-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/vallen-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/vallenusa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vallen-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "Viking Electric",
+      "id": "vikingelectric-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "viking electric supply"
+      ],
+      "tags": {
+        "brand": "Viking Electric",
+        "brand:wikidata": "Q109860451",
+        "name": "Viking Electric",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "displayName": "Wagner CAT",
+      "id": "wagnercat-ca7f61",
+      "locationSet": {
+        "include": [
+          "us-co.geojson",
+          "us-nm.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Wagner CAT",
+        "brand:wikidata": "Q109615846",
+        "name": "Wagner CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/wagnerequipment/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wagnercat-ca7f61.jpg",
+      "local_logo_path": "localbrand/logo/wagnercat-ca7f61.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/wagnerequipment/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wagnercat-ca7f61.jpg"
+      }
+    },
+    {
+      "displayName": "Warren CAT",
+      "id": "warrencat-fc264f",
+      "locationSet": {
+        "include": [
+          "us-ok.geojson",
+          "us-tx.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Warren CAT",
+        "brand:wikidata": "Q109615947",
+        "name": "Warren CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/warrenCATequipment/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/warrencat-fc264f.jpg",
+      "local_logo_path": "localbrand/logo/warrencat-fc264f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/warrenCATequipment/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/warrencat-fc264f.jpg"
+      }
+    },
+    {
+      "displayName": "Western States CAT",
+      "id": "westernstatescat-8cb1bb",
+      "locationSet": {
+        "include": [
+          "us-id.geojson",
+          "us-mt.geojson",
+          "us-or.geojson",
+          "us-wa.geojson",
+          "us-wy.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Western States CAT",
+        "brand:wikidata": "Q109615463",
+        "name": "Western States CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/WesternStatesCat/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/westernstatescat-8cb1bb.jpg",
+      "local_logo_path": "localbrand/logo/westernstatescat-8cb1bb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WesternStatesCat/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/westernstatescat-8cb1bb.jpg"
+      }
+    },
+    {
+      "displayName": "Wheeler CAT",
+      "id": "wheelercat-753d55",
+      "locationSet": {
+        "include": [
+          "us-nv.geojson",
+          "us-ut.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Wheeler CAT",
+        "brand:wikidata": "Q109615516",
+        "name": "Wheeler CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/wheelermachinery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wheelercat-753d55.png",
+      "local_logo_path": "localbrand/logo/wheelercat-753d55.png",
+      "logos": {
+        "original": "https://graph.facebook.com/wheelermachinery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wheelercat-753d55.png"
+      }
+    },
+    {
+      "displayName": "Wolseley",
+      "id": "wolseley-8a4d16",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "parts center",
+        "parts centre",
+        "plumb center",
+        "plumb centre",
+        "wolseley plumb & parts"
+      ],
+      "matchTags": [
+        "craft/plumber",
+        "shop/plumbing"
+      ],
+      "tags": {
+        "brand": "Wolseley",
+        "brand:wikidata": "Q8030423",
+        "name": "Wolseley",
+        "shop": "trade",
+        "trade": "plumbing"
+      },
+      "original_logo_url": "https://graph.facebook.com/WolseleyPlumbCentre/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wolseley-8a4d16.jpg",
+      "local_logo_path": "localbrand/logo/wolseley-8a4d16.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WolseleyPlumbCentre/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wolseley-8a4d16.jpg"
+      }
+    },
+    {
+      "displayName": "Woodcote",
+      "id": "woodcote-a5bd5b",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "matchNames": [
+        "stavebniny woodcote"
+      ],
+      "tags": {
+        "brand": "Woodcote",
+        "brand:wikidata": "Q138637606",
+        "name": "Woodcote",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/woodcotegroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woodcote-a5bd5b.jpg",
+      "local_logo_path": "localbrand/logo/woodcote-a5bd5b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/woodcotegroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woodcote-a5bd5b.jpg"
+      }
+    },
+    {
+      "displayName": "World Electric",
+      "id": "worldelectric-4e950c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "world electric supply"
+      ],
+      "tags": {
+        "brand": "World Electric",
+        "brand:wikidata": "Q109860496",
+        "name": "World Electric",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/World.Electric.Supply/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/worldelectric-4e950c.jpg",
+      "local_logo_path": "localbrand/logo/worldelectric-4e950c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/World.Electric.Supply/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/worldelectric-4e950c.jpg"
+      }
+    },
+    {
+      "displayName": "Wyoming Equipment Company",
+      "id": "wyomingequipmentcompany-5a0680",
+      "locationSet": {
+        "include": [
+          "us-wy.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Wyoming Equipment Company",
+        "brand:wikidata": "Q115486618",
+        "name": "Wyoming Equipment Company",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      }
+    },
+    {
+      "displayName": "XL-BYG",
+      "id": "xlbyg-bb375f",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "XL-BYG",
+        "brand:wikidata": "Q10720798",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/xlbyg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xlbyg-bb375f.jpg",
+      "local_logo_path": "localbrand/logo/xlbyg-bb375f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/xlbyg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xlbyg-bb375f.jpg"
+      }
+    },
+    {
+      "displayName": "XL-Bygg",
+      "id": "xlbygg-14590b",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no",
+          "se"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "XL-Bygg",
+        "brand:wikidata": "Q10720798",
+        "shop": "trade",
+        "trade": "building_supplies"
+      },
+      "original_logo_url": "https://graph.facebook.com/xlbyg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xlbygg-14590b.jpg",
+      "local_logo_path": "localbrand/logo/xlbygg-14590b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/xlbyg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xlbygg-14590b.jpg"
+      }
+    },
+    {
+      "displayName": "Zeppelin CAT",
+      "id": "zeppelincat-a5bd5b",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Zeppelin CAT",
+        "brand:wikidata": "Q77876778",
+        "name": "Zeppelin CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/zeppelinsk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zeppelincat-a5bd5b.jpg",
+      "local_logo_path": "localbrand/logo/zeppelincat-a5bd5b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/zeppelinsk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zeppelincat-a5bd5b.jpg"
+      }
+    },
+    {
+      "displayName": "Ziegler CAT",
+      "id": "zieglercat-b606bc",
+      "locationSet": {
+        "include": [
+          "us-ia.geojson",
+          "us-mn.geojson",
+          "us-mo.geojson",
+          "us-wi.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Ziegler CAT",
+        "brand:wikidata": "Q109619444",
+        "name": "Ziegler CAT",
+        "shop": "trade",
+        "trade": "construction_equipment"
+      },
+      "original_logo_url": "https://graph.facebook.com/ZieglerCAT/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zieglercat-b606bc.jpg",
+      "local_logo_path": "localbrand/logo/zieglercat-b606bc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ZieglerCAT/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zieglercat-b606bc.jpg"
+      }
+    },
+    {
+      "displayName": "Этм",
+      "id": "cff875-05a647",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Этм",
+        "name": "Этм",
+        "shop": "trade"
+      }
+    }
+  ]
+}

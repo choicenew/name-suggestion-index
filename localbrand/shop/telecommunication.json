@@ -1,0 +1,2428 @@
+{
+  "properties": {
+    "path": "brands/shop/telecommunication",
+    "exclude": {
+      "generic": [
+        "^(cell|mobile|wireless)?\\s?phone$",
+        "^télécentre$",
+        "^telecommunication$",
+        "^مخابرات$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "1O1O",
+      "id": "1o1o-d0af53",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "matchNames": [
+        "1010"
+      ],
+      "tags": {
+        "brand": "1O1O",
+        "brand:wikidata": "Q10843723",
+        "name": "1O1O",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/1010hk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/1o1o-d0af53.jpg",
+      "local_logo_path": "localbrand/logo/1o1o-d0af53.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/1010hk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/1o1o-d0af53.jpg"
+      }
+    },
+    {
+      "displayName": "3",
+      "id": "three-063284",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "3",
+        "brand:en": "3",
+        "brand:wikidata": "Q407009",
+        "name": "Three.",
+        "name:en": "Three.",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/ThreeUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/three-063284.jpg",
+      "local_logo_path": "localbrand/logo/three-063284.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ThreeUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/three-063284.jpg"
+      }
+    },
+    {
+      "displayName": "4ka",
+      "id": "4ka-be4c77",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "matchNames": [
+        "4ka centrum"
+      ],
+      "tags": {
+        "brand": "4ka",
+        "brand:wikidata": "Q21198091",
+        "name": "4ka",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/stvorka/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/4ka-be4c77.png",
+      "local_logo_path": "localbrand/logo/4ka-be4c77.png",
+      "logos": {
+        "original": "https://graph.facebook.com/stvorka/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/4ka-be4c77.png"
+      }
+    },
+    {
+      "displayName": "A1",
+      "id": "a1-5b3624",
+      "locationSet": {
+        "include": [
+          "at",
+          "by",
+          "hr",
+          "si"
+        ]
+      },
+      "matchNames": [
+        "velcom",
+        "velcom|a1",
+        "велком"
+      ],
+      "tags": {
+        "brand": "A1",
+        "brand:wikidata": "Q688755",
+        "name": "A1",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/A1Fanpage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/a1-5b3624.jpg",
+      "local_logo_path": "localbrand/logo/a1-5b3624.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/A1Fanpage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/a1-5b3624.jpg"
+      }
+    },
+    {
+      "displayName": "A1 (Srbija)",
+      "id": "a1-ba40c7",
+      "locationSet": {
+        "include": [
+          "rs"
+        ]
+      },
+      "matchNames": [
+        "vip mobile",
+        "вип мобајл"
+      ],
+      "tags": {
+        "brand": "A1 Serbia",
+        "brand:en": "A1 Serbia",
+        "brand:sr": "А1 Србија",
+        "brand:wikidata": "Q826186",
+        "name": "A1",
+        "name:sr": "А1",
+        "name:sr-Latn": "A1",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/A1Srbija.rs/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/a1-ba40c7.jpg",
+      "local_logo_path": "localbrand/logo/a1-ba40c7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/A1Srbija.rs/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/a1-ba40c7.jpg"
+      }
+    },
+    {
+      "displayName": "A1 (България)",
+      "id": "a1-5ceaa9",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "matchNames": [
+        "mtel",
+        "мтел"
+      ],
+      "tags": {
+        "brand": "A1",
+        "brand:wikidata": "Q1941592",
+        "name": "A1",
+        "name:bg": "А1",
+        "name:en": "A1",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/A1Bulgaria/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/a1-5ceaa9.jpg",
+      "local_logo_path": "localbrand/logo/a1-5ceaa9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/A1Bulgaria/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/a1-5ceaa9.jpg"
+      }
+    },
+    {
+      "displayName": "A1 (Северна Македонија)",
+      "id": "a1-5455f4",
+      "locationSet": {
+        "include": [
+          "mk"
+        ]
+      },
+      "tags": {
+        "brand": "A1",
+        "brand:wikidata": "Q24589907",
+        "name": "A1",
+        "name:en": "A1",
+        "name:mk": "А1",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/A1Makedonija/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/a1-5455f4.jpg",
+      "local_logo_path": "localbrand/logo/a1-5455f4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/A1Makedonija/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/a1-5455f4.jpg"
+      }
+    },
+    {
+      "displayName": "Agencia ICE",
+      "id": "agenciaice-478408",
+      "locationSet": {
+        "include": [
+          "cr"
+        ]
+      },
+      "matchNames": [
+        "instituto costarricense de electricidad"
+      ],
+      "tags": {
+        "brand": "ICE",
+        "brand:wikidata": "Q3431114",
+        "name": "Agencia ICE",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/GrupoICECR/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agenciaice-478408.jpg",
+      "local_logo_path": "localbrand/logo/agenciaice-478408.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GrupoICECR/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agenciaice-478408.jpg"
+      }
+    },
+    {
+      "displayName": "Airtel",
+      "id": "airtel-24da88",
+      "locationSet": {
+        "include": [
+          "202",
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Airtel",
+        "brand:wikidata": "Q854867",
+        "name": "Airtel",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/AirtelIndia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/airtel-24da88.jpg",
+      "local_logo_path": "localbrand/logo/airtel-24da88.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AirtelIndia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/airtel-24da88.jpg"
+      }
+    },
+    {
+      "displayName": "Bell",
+      "id": "bell-e8684d",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "bell canada",
+        "bell mobile",
+        "bell mobility",
+        "bell wireless"
+      ],
+      "tags": {
+        "brand": "Bell",
+        "brand:wikidata": "Q2894594",
+        "name": "Bell",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/BellCanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bell-e8684d.jpg",
+      "local_logo_path": "localbrand/logo/bell-e8684d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BellCanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bell-e8684d.jpg"
+      }
+    },
+    {
+      "displayName": "Bouygues Telecom",
+      "id": "bouyguestelecom-dc16d1",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Bouygues Telecom",
+        "brand:wikidata": "Q581438",
+        "name": "Bouygues Telecom",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/bouyguestelecom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bouyguestelecom-dc16d1.png",
+      "local_logo_path": "localbrand/logo/bouyguestelecom-dc16d1.png",
+      "logos": {
+        "original": "https://graph.facebook.com/bouyguestelecom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bouyguestelecom-dc16d1.png"
+      }
+    },
+    {
+      "displayName": "C Spire",
+      "id": "cspire-3a9c60",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "C Spire",
+        "brand:wikidata": "Q5015101",
+        "name": "C Spire",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/cspire/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cspire-3a9c60.jpg",
+      "local_logo_path": "localbrand/logo/cspire-3a9c60.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/cspire/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cspire-3a9c60.jpg"
+      }
+    },
+    {
+      "displayName": "Celcom",
+      "id": "celcom-c82acb",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "brand": "Celcom",
+        "brand:wikidata": "Q836827",
+        "name": "Celcom",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "CenturyLink",
+      "id": "centurylink-3a9c60",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "CenturyLink",
+        "brand:wikidata": "Q110391616",
+        "name": "CenturyLink",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Cosmote",
+      "id": "cosmote-94bf33",
+      "locationSet": {
+        "include": [
+          "gr"
+        ]
+      },
+      "tags": {
+        "brand": "Cosmote",
+        "brand:wikidata": "Q1136203",
+        "name": "Cosmote",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "csl.",
+      "id": "csl-d0af53",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "brand": "csl.",
+        "brand:en": "csl.",
+        "brand:wikidata": "Q843967",
+        "name": "csl.",
+        "name:en": "csl.",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Csl_New_Logo.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/csl-d0af53.jpg",
+      "local_logo_path": "localbrand/logo/csl-d0af53.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Csl_New_Logo.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/csl-d0af53.jpg"
+      }
+    },
+    {
+      "displayName": "CYTA",
+      "id": "cyta-e85adc",
+      "locationSet": {
+        "include": [
+          "cy",
+          "gr"
+        ]
+      },
+      "tags": {
+        "brand": "CYTA",
+        "brand:wikidata": "Q3565273",
+        "name": "CYTA",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Datagroup",
+      "id": "datagroup-19c022",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "tags": {
+        "brand": "Datagroup",
+        "brand:en": "Datagroup",
+        "brand:uk": "Датагруп",
+        "brand:wikidata": "Q12099588",
+        "name": "Datagroup",
+        "name:en": "Datagroup",
+        "name:uk": "Датагруп",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/datagroup1/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/datagroup-19c022.jpg",
+      "local_logo_path": "localbrand/logo/datagroup-19c022.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/datagroup1/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/datagroup-19c022.jpg"
+      }
+    },
+    {
+      "displayName": "Digi",
+      "id": "digi-9fbd0b",
+      "locationSet": {
+        "include": [
+          "ro"
+        ]
+      },
+      "tags": {
+        "brand": "Digi",
+        "brand:wikidata": "Q224710",
+        "name": "Digi",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/digipunctro/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/digi-9fbd0b.jpg",
+      "local_logo_path": "localbrand/logo/digi-9fbd0b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/digipunctro/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/digi-9fbd0b.jpg"
+      }
+    },
+    {
+      "displayName": "Digi Store",
+      "id": "digistore-c82acb",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "brand": "Digi",
+        "brand:wikidata": "Q3268530",
+        "name": "Digi Store",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "DISH",
+      "id": "dish-3a9c60",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "DISH",
+        "brand:wikidata": "Q1199757",
+        "name": "DISH",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/DISH/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dish-3a9c60.png",
+      "local_logo_path": "localbrand/logo/dish-3a9c60.png",
+      "logos": {
+        "original": "https://graph.facebook.com/DISH/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dish-3a9c60.png"
+      }
+    },
+    {
+      "displayName": "Dito",
+      "id": "dito-1229f4",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "matchNames": [
+        "mislatel"
+      ],
+      "tags": {
+        "alt_name": "Dito Telecommunity",
+        "brand": "Dito",
+        "brand:wikidata": "Q64734142",
+        "name": "Dito",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/DITOphofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dito-1229f4.jpg",
+      "local_logo_path": "localbrand/logo/dito-1229f4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DITOphofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dito-1229f4.jpg"
+      }
+    },
+    {
+      "displayName": "Drei",
+      "id": "drei-a73137",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "matchNames": [
+        "3"
+      ],
+      "tags": {
+        "brand": "Drei",
+        "brand:wikidata": "Q28956333",
+        "name": "Drei",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "e&",
+      "id": "eand-5dfe5c",
+      "locationSet": {
+        "include": [
+          "ae",
+          "eg"
+        ]
+      },
+      "matchNames": [
+        "etisalat",
+        "etisalat and",
+        "اتصالات",
+        "اتصالات والمزيد"
+      ],
+      "tags": {
+        "brand": "e&",
+        "brand:wikidata": "Q543449",
+        "name": "e&",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Embou",
+      "id": "embou-cea1c9",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "tags": {
+        "brand": "Embou",
+        "brand:wikidata": "Q137733677",
+        "name": "Embou",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/embou.masmovil/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/embou-cea1c9.jpg",
+      "local_logo_path": "localbrand/logo/embou-cea1c9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/embou.masmovil/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/embou-cea1c9.jpg"
+      }
+    },
+    {
+      "displayName": "Epic",
+      "id": "epic-099b82",
+      "locationSet": {
+        "include": [
+          "cy"
+        ]
+      },
+      "tags": {
+        "brand": "Epic",
+        "brand:wikidata": "Q106823386",
+        "name": "Epic",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Fastweb",
+      "id": "fastweb-5ee911",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Fastweb",
+        "brand:wikidata": "Q499342",
+        "name": "Fastweb",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/Fastweb/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastweb-5ee911.jpg",
+      "local_logo_path": "localbrand/logo/fastweb-5ee911.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Fastweb/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastweb-5ee911.jpg"
+      }
+    },
+    {
+      "displayName": "Finetwork",
+      "id": "finetwork-cea1c9",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "tags": {
+        "brand": "Finetwork",
+        "brand:wikidata": "Q120170692",
+        "name": "Finetwork",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/finetworkcom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/finetwork-cea1c9.jpg",
+      "local_logo_path": "localbrand/logo/finetwork-cea1c9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/finetworkcom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/finetwork-cea1c9.jpg"
+      }
+    },
+    {
+      "displayName": "Free",
+      "id": "free-dc16d1",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Free",
+        "brand:wikidata": "Q2467627",
+        "name": "Free",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "freenet",
+      "id": "freenet-c071e4",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "debitel",
+        "mobilcom debitel"
+      ],
+      "tags": {
+        "brand": "freenet",
+        "brand:wikidata": "Q344744",
+        "name": "freenet",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/freenet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/freenet-c071e4.jpg",
+      "local_logo_path": "localbrand/logo/freenet-c071e4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/freenet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/freenet-c071e4.jpg"
+      }
+    },
+    {
+      "displayName": "Galeri Indosat",
+      "id": "galeriindosat-ba2701",
+      "locationSet": {
+        "include": [
+          "id"
+        ]
+      },
+      "matchNames": [
+        "indosat ooredoo"
+      ],
+      "tags": {
+        "brand": "Indosat",
+        "brand:wikidata": "Q2393592",
+        "name": "Galeri Indosat",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Galeri Smartfren",
+      "id": "galerismartfren-ba2701",
+      "locationSet": {
+        "include": [
+          "id"
+        ]
+      },
+      "matchNames": [
+        "fren"
+      ],
+      "tags": {
+        "brand": "Smartfren",
+        "brand:wikidata": "Q3476312",
+        "name": "Galeri Smartfren",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Smartfren-white.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/galerismartfren-ba2701.jpg",
+      "local_logo_path": "localbrand/logo/galerismartfren-ba2701.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/72/Smartfren-white.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/galerismartfren-ba2701.jpg"
+      }
+    },
+    {
+      "displayName": "Globe",
+      "id": "globe-1229f4",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "alt_name": "Globe Telecom",
+        "brand": "Globe",
+        "brand:wikidata": "Q3543983",
+        "name": "Globe",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/globeph/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/globe-1229f4.jpg",
+      "local_logo_path": "localbrand/logo/globe-1229f4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/globeph/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/globe-1229f4.jpg"
+      }
+    },
+    {
+      "displayName": "GraPARI Telkomsel",
+      "id": "graparitelkomsel-ba2701",
+      "locationSet": {
+        "include": [
+          "id"
+        ]
+      },
+      "matchNames": [
+        "grapari"
+      ],
+      "tags": {
+        "brand": "Telkomsel",
+        "brand:wikidata": "Q1786124",
+        "name": "GraPARI Telkomsel",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Telkomsel_%282021%29.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/graparitelkomsel-ba2701.svg",
+      "local_logo_path": "localbrand/logo/graparitelkomsel-ba2701.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/04/Telkomsel_%282021%29.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/graparitelkomsel-ba2701.svg"
+      }
+    },
+    {
+      "displayName": "Iliad",
+      "id": "iliad-5ee911",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "matchNames": [
+        "iliad store"
+      ],
+      "tags": {
+        "brand": "Iliad",
+        "brand:wikidata": "Q55433734",
+        "name": "Iliad",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/IliadItalia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iliad-5ee911.jpg",
+      "local_logo_path": "localbrand/logo/iliad-5ee911.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IliadItalia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iliad-5ee911.jpg"
+      }
+    },
+    {
+      "displayName": "Inwi",
+      "id": "inwi-53dbca",
+      "locationSet": {
+        "include": [
+          "ma"
+        ]
+      },
+      "tags": {
+        "brand": "Inwi",
+        "brand:wikidata": "Q1388949",
+        "name": "Inwi",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/inwi.ma/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/inwi-53dbca.jpg",
+      "local_logo_path": "localbrand/logo/inwi-53dbca.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/inwi.ma/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/inwi-53dbca.jpg"
+      }
+    },
+    {
+      "displayName": "KPN",
+      "id": "kpn-c62d58",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "KPN",
+        "brand:wikidata": "Q338633",
+        "name": "KPN",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/kpn/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kpn-c62d58.png",
+      "local_logo_path": "localbrand/logo/kpn-c62d58.png",
+      "logos": {
+        "original": "https://graph.facebook.com/kpn/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kpn-c62d58.png"
+      }
+    },
+    {
+      "displayName": "Magenta",
+      "id": "magenta-a73137",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "tags": {
+        "alt_name": "T-Mobile Austria",
+        "brand": "Magenta",
+        "brand:wikidata": "Q1666806",
+        "name": "Magenta",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Malitel",
+      "id": "malitel-478897",
+      "locationSet": {
+        "include": [
+          "ml"
+        ]
+      },
+      "tags": {
+        "brand": "Malitel",
+        "brand:wikidata": "Q6743829",
+        "name": "Malitel",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Maroc Telecom اتصالات المغرب",
+      "id": "maroctelecom-53dbca",
+      "locationSet": {
+        "include": [
+          "ma"
+        ]
+      },
+      "tags": {
+        "brand": "Maroc Telecom اتصالات المغرب",
+        "brand:ar": "اتصالات المغرب",
+        "brand:fr": "Maroc Telecom",
+        "brand:wikidata": "Q2299942",
+        "name": "Maroc Telecom اتصالات المغرب",
+        "name:ar": "اتصالات المغرب",
+        "name:fr": "Maroc Telecom",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/maroctelecom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maroctelecom-53dbca.jpg",
+      "local_logo_path": "localbrand/logo/maroctelecom-53dbca.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/maroctelecom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maroctelecom-53dbca.jpg"
+      }
+    },
+    {
+      "displayName": "Maxis",
+      "id": "maxis-c82acb",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "brand": "Maxis",
+        "brand:wikidata": "Q2627330",
+        "name": "Maxis",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/maxis/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maxis-c82acb.jpg",
+      "local_logo_path": "localbrand/logo/maxis-c82acb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/maxis/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maxis-c82acb.jpg"
+      }
+    },
+    {
+      "displayName": "Movistar",
+      "id": "movistar-cea1c9",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "matchNames": [
+        "movistar españa"
+      ],
+      "tags": {
+        "brand": "Movistar",
+        "brand:wikidata": "Q967735",
+        "name": "Movistar",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/movistar.es/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/movistar-cea1c9.jpg",
+      "local_logo_path": "localbrand/logo/movistar-cea1c9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/movistar.es/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/movistar-cea1c9.jpg"
+      }
+    },
+    {
+      "displayName": "mts",
+      "id": "mts-28400c",
+      "locationSet": {
+        "include": [
+          "ba",
+          "hr",
+          "me",
+          "rs",
+          "xk"
+        ]
+      },
+      "matchNames": [
+        "telekom srbija"
+      ],
+      "tags": {
+        "brand": "mts",
+        "brand:wikidata": "Q1278722",
+        "name": "mts",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/mtstvojsvet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mts-28400c.png",
+      "local_logo_path": "localbrand/logo/mts-28400c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/mtstvojsvet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mts-28400c.png"
+      }
+    },
+    {
+      "displayName": "Nova",
+      "id": "nova-94bf33",
+      "locationSet": {
+        "include": [
+          "gr"
+        ]
+      },
+      "matchNames": [
+        "nova greece",
+        "wind",
+        "wind hellas"
+      ],
+      "tags": {
+        "brand": "Nova",
+        "brand:wikidata": "Q1608689",
+        "name": "Nova",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/NovaGreece/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nova-94bf33.jpg",
+      "local_logo_path": "localbrand/logo/nova-94bf33.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NovaGreece/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nova-94bf33.jpg"
+      }
+    },
+    {
+      "displayName": "O2",
+      "id": "o2-c071e4",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "o²"
+      ],
+      "tags": {
+        "brand": "O2",
+        "brand:wikidata": "Q1759255",
+        "name": "O2",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/o2uk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/o2-c071e4.jpg",
+      "local_logo_path": "localbrand/logo/o2-c071e4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/o2uk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/o2-c071e4.jpg"
+      }
+    },
+    {
+      "displayName": "Odido",
+      "id": "odido-c62d58",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Odido",
+        "brand:wikidata": "Q28406140",
+        "name": "Odido",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Odido_2023_Logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/odido-c62d58.png",
+      "local_logo_path": "localbrand/logo/odido-c62d58.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Odido_2023_Logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/odido-c62d58.png"
+      }
+    },
+    {
+      "displayName": "Ooredoo",
+      "id": "ooredoo-5cc5ab",
+      "locationSet": {
+        "include": [
+          "dz",
+          "id",
+          "iq",
+          "kw",
+          "mv",
+          "om",
+          "ps",
+          "qa",
+          "tn"
+        ]
+      },
+      "tags": {
+        "brand": "Ooredoo",
+        "brand:wikidata": "Q919935",
+        "name": "Ooredoo",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/ooredooqatar/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ooredoo-5cc5ab.jpg",
+      "local_logo_path": "localbrand/logo/ooredoo-5cc5ab.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ooredooqatar/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ooredoo-5cc5ab.jpg"
+      }
+    },
+    {
+      "displayName": "Optimum",
+      "id": "optimum-3a9c60",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Optimum",
+        "brand:wikidata": "Q85791087",
+        "name": "Optimum",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/Optimum/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/optimum-3a9c60.jpg",
+      "local_logo_path": "localbrand/logo/optimum-3a9c60.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Optimum/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/optimum-3a9c60.jpg"
+      }
+    },
+    {
+      "displayName": "Orange",
+      "id": "orange-acb95c",
+      "locationSet": {
+        "include": [
+          "es",
+          "fr",
+          "ma",
+          "ml"
+        ]
+      },
+      "matchNames": [
+        "agence orange"
+      ],
+      "tags": {
+        "brand": "Orange",
+        "brand:wikidata": "Q1431486",
+        "name": "Orange",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/orange/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orange-acb95c.png",
+      "local_logo_path": "localbrand/logo/orange-acb95c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/orange/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orange-acb95c.png"
+      }
+    },
+    {
+      "displayName": "Ovio",
+      "id": "ovio-4d681f",
+      "locationSet": {
+        "include": [
+          "am"
+        ]
+      },
+      "tags": {
+        "brand": "Ovio",
+        "brand:en": "Ovio",
+        "brand:hy": "Օվիո",
+        "brand:ru": "Овио",
+        "brand:wikidata": "Q5513947",
+        "name": "Ovio",
+        "name:en": "Ovio",
+        "name:hy": "Օվիո",
+        "name:ru": "Овио",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Proximus Shop",
+      "id": "proximusshop-6be163",
+      "locationSet": {
+        "include": [
+          "be"
+        ]
+      },
+      "tags": {
+        "brand": "Proximus",
+        "brand:wikidata": "Q2005282",
+        "name": "Proximus Shop",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/proximus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/proximusshop-6be163.png",
+      "local_logo_path": "localbrand/logo/proximusshop-6be163.png",
+      "logos": {
+        "original": "https://graph.facebook.com/proximus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/proximusshop-6be163.png"
+      }
+    },
+    {
+      "displayName": "PŸUR",
+      "id": "pyur-c071e4",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "PŸUR",
+        "brand:wikidata": "Q41680846",
+        "name": "PŸUR",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/pyur.verbindet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pyur-c071e4.jpg",
+      "local_logo_path": "localbrand/logo/pyur-c071e4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pyur.verbindet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pyur-c071e4.jpg"
+      }
+    },
+    {
+      "displayName": "R",
+      "id": "r-e8de5d",
+      "locationSet": {
+        "include": [
+          "es-c.geojson",
+          "es-lu.geojson",
+          "es-or.geojson",
+          "es-po.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "R",
+        "brand:wikidata": "Q3326234",
+        "name": "R",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/R_Cable_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/r-e8de5d.svg",
+      "local_logo_path": "localbrand/logo/r-e8de5d.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/R_Cable_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/r-e8de5d.svg"
+      }
+    },
+    {
+      "displayName": "Safaricom",
+      "id": "safaricom-b9b2c1",
+      "locationSet": {
+        "include": [
+          "eth",
+          "ke"
+        ]
+      },
+      "tags": {
+        "brand": "Safaricom",
+        "brand:wikidata": "Q7398410",
+        "name": "Safaricom",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/SafaricomPLC/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/safaricom-b9b2c1.jpg",
+      "local_logo_path": "localbrand/logo/safaricom-b9b2c1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SafaricomPLC/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/safaricom-b9b2c1.jpg"
+      }
+    },
+    {
+      "displayName": "Salt",
+      "id": "salt-b6d5be",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "matchNames": [
+        "salt store"
+      ],
+      "tags": {
+        "brand": "Salt",
+        "brand:wikidata": "Q3884382",
+        "name": "Salt",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/saltmobile/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/salt-b6d5be.jpg",
+      "local_logo_path": "localbrand/logo/salt-b6d5be.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/saltmobile/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/salt-b6d5be.jpg"
+      }
+    },
+    {
+      "displayName": "SFR",
+      "id": "sfr-dc16d1",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "matchNames": [
+        "espace sfr"
+      ],
+      "tags": {
+        "brand": "SFR",
+        "brand:wikidata": "Q218765",
+        "name": "SFR",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/SFR/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sfr-dc16d1.jpg",
+      "local_logo_path": "localbrand/logo/sfr-dc16d1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SFR/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sfr-dc16d1.jpg"
+      }
+    },
+    {
+      "displayName": "Sky",
+      "id": "sky-e64962",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Sky",
+        "brand:wikidata": "Q918390",
+        "name": "Sky",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/SKY_Basic_Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sky-e64962.svg",
+      "local_logo_path": "localbrand/logo/sky-e64962.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/74/SKY_Basic_Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sky-e64962.svg"
+      }
+    },
+    {
+      "displayName": "Slovak Telekom",
+      "id": "telekom-be4c77",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Telekom",
+        "brand:wikidata": "Q540733",
+        "name": "Telekom",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/telekom.sk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telekom-be4c77.jpg",
+      "local_logo_path": "localbrand/logo/telekom-be4c77.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/telekom.sk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telekom-be4c77.jpg"
+      }
+    },
+    {
+      "displayName": "Smart",
+      "id": "smart-1229f4",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "matchNames": [
+        "sun cellular"
+      ],
+      "tags": {
+        "alt_name": "Smart Communications",
+        "brand": "Smart",
+        "brand:wikidata": "Q7543955",
+        "name": "Smart",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/SmartCommunications/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smart-1229f4.png",
+      "local_logo_path": "localbrand/logo/smart-1229f4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SmartCommunications/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smart-1229f4.png"
+      }
+    },
+    {
+      "displayName": "Spectrum",
+      "id": "spectrum-3a9c60",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Spectrum",
+        "brand:wikidata": "Q7805197",
+        "name": "Spectrum",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/Spectrum/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spectrum-3a9c60.jpg",
+      "local_logo_path": "localbrand/logo/spectrum-3a9c60.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Spectrum/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spectrum-3a9c60.jpg"
+      }
+    },
+    {
+      "displayName": "Sunrise",
+      "id": "sunrise-b6d5be",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "matchNames": [
+        "sunrise shop"
+      ],
+      "tags": {
+        "brand": "Sunrise",
+        "brand:wikidata": "Q112573820",
+        "name": "Sunrise",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/Sunrise.ch/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sunrise-b6d5be.jpg",
+      "local_logo_path": "localbrand/logo/sunrise-b6d5be.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Sunrise.ch/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sunrise-b6d5be.jpg"
+      }
+    },
+    {
+      "displayName": "Swisscom",
+      "id": "swisscom-b6d5be",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "matchNames": [
+        "swisscom shop"
+      ],
+      "tags": {
+        "brand": "Swisscom",
+        "brand:wikidata": "Q644324",
+        "name": "Swisscom",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/Swisscom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swisscom-b6d5be.jpg",
+      "local_logo_path": "localbrand/logo/swisscom-b6d5be.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Swisscom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swisscom-b6d5be.jpg"
+      }
+    },
+    {
+      "displayName": "Telecom Egypt",
+      "id": "telecomegypt-eeb498",
+      "locationSet": {
+        "include": [
+          "eg"
+        ]
+      },
+      "tags": {
+        "brand": "Telecom Egypt",
+        "brand:ar": "المصرية للاتصالات",
+        "brand:en": "Telecom Egypt",
+        "brand:wikidata": "Q1583794",
+        "name": "Telecom Egypt",
+        "name:ar": "المصرية للاتصالات",
+        "name:en": "Telecom Egypt",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/TelecomEgypt/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telecomegypt-eeb498.jpg",
+      "local_logo_path": "localbrand/logo/telecomegypt-eeb498.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TelecomEgypt/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telecomegypt-eeb498.jpg"
+      }
+    },
+    {
+      "displayName": "Telekom Shop",
+      "id": "telekomshop-c071e4",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "alt_name": "T-Shop",
+        "brand": "Deutsche Telekom",
+        "brand:wikidata": "Q9396",
+        "name": "Telekom Shop",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/deutschetelekom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telekomshop-c071e4.png",
+      "local_logo_path": "localbrand/logo/telekomshop-c071e4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/deutschetelekom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telekomshop-c071e4.png"
+      }
+    },
+    {
+      "displayName": "Telenet",
+      "id": "telenet-6be163",
+      "locationSet": {
+        "include": [
+          "be"
+        ]
+      },
+      "tags": {
+        "brand": "Telenet",
+        "brand:wikidata": "Q616340",
+        "name": "Telenet",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/telenet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telenet-6be163.jpg",
+      "local_logo_path": "localbrand/logo/telenet-6be163.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/telenet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telenet-6be163.jpg"
+      }
+    },
+    {
+      "displayName": "Telenor",
+      "id": "telenor-f4a586",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "bg",
+          "hu",
+          "rs"
+        ]
+      },
+      "tags": {
+        "brand": "Telenor",
+        "brand:wikidata": "Q14915070",
+        "name": "Telenor",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/BulgariaYettel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telenor-f4a586.jpg",
+      "local_logo_path": "localbrand/logo/telenor-f4a586.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BulgariaYettel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telenor-f4a586.jpg"
+      }
+    },
+    {
+      "displayName": "TIM",
+      "id": "tim-5776e8",
+      "locationSet": {
+        "include": [
+          "it",
+          "sm"
+        ]
+      },
+      "tags": {
+        "brand": "TIM",
+        "brand:wikidata": "Q1120617",
+        "name": "TIM",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/TimOfficialPage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tim-5776e8.jpg",
+      "local_logo_path": "localbrand/logo/tim-5776e8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TimOfficialPage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tim-5776e8.jpg"
+      }
+    },
+    {
+      "displayName": "TMpoint",
+      "id": "tmpoint-c82acb",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "brand": "Telekom Malaysia",
+        "brand:wikidata": "Q1640639",
+        "name": "TMpoint",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/myTMgroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tmpoint-c82acb.jpg",
+      "local_logo_path": "localbrand/logo/tmpoint-c82acb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/myTMgroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tmpoint-c82acb.jpg"
+      }
+    },
+    {
+      "displayName": "U Mobile",
+      "id": "umobile-c82acb",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "brand": "U Mobile",
+        "brand:wikidata": "Q7876226",
+        "name": "U Mobile",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/umobile/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/umobile-c82acb.jpg",
+      "local_logo_path": "localbrand/logo/umobile-c82acb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/umobile/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/umobile-c82acb.jpg"
+      }
+    },
+    {
+      "displayName": "Vivacom",
+      "id": "vivacom-5ceaa9",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "matchNames": [
+        "bulsatcom",
+        "бтк",
+        "булсатком",
+        "вивател"
+      ],
+      "tags": {
+        "brand": "Vivacom",
+        "brand:wikidata": "Q7937522",
+        "name": "Vivacom",
+        "name:bg": "Виваком",
+        "name:en": "Vivacom",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/VIVAC0M/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vivacom-5ceaa9.png",
+      "local_logo_path": "localbrand/logo/vivacom-5ceaa9.png",
+      "logos": {
+        "original": "https://graph.facebook.com/VIVAC0M/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vivacom-5ceaa9.png"
+      }
+    },
+    {
+      "displayName": "Vodafone",
+      "id": "vodafone-14289d",
+      "locationSet": {
+        "include": [
+          "de",
+          "es",
+          "gr",
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Vodafone",
+        "brand:wikidata": "Q122141",
+        "name": "Vodafone",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/thevodafonegroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vodafone-14289d.jpg",
+      "local_logo_path": "localbrand/logo/vodafone-14289d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/thevodafonegroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vodafone-14289d.jpg"
+      }
+    },
+    {
+      "displayName": "VodafoneZiggo",
+      "id": "vodafoneziggo-c62d58",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "matchNames": [
+        "vodafone"
+      ],
+      "tags": {
+        "brand": "VodafoneZiggo",
+        "brand:wikidata": "Q55640416",
+        "name": "VodafoneZiggo",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/VodafoneZiggo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vodafoneziggo-c62d58.jpg",
+      "local_logo_path": "localbrand/logo/vodafoneziggo-c62d58.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/VodafoneZiggo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vodafoneziggo-c62d58.jpg"
+      }
+    },
+    {
+      "displayName": "Volia",
+      "id": "volia-19c022",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "воля"
+      ],
+      "tags": {
+        "brand": "Volia",
+        "brand:wikidata": "Q4124842",
+        "name": "Volia",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/voliaofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/volia-19c022.png",
+      "local_logo_path": "localbrand/logo/volia-19c022.png",
+      "logos": {
+        "original": "https://graph.facebook.com/voliaofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/volia-19c022.png"
+      }
+    },
+    {
+      "displayName": "VOO",
+      "id": "voo-6be163",
+      "locationSet": {
+        "include": [
+          "be"
+        ]
+      },
+      "tags": {
+        "brand": "VOO",
+        "brand:wikidata": "Q1877682",
+        "name": "VOO",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/VOOetvous/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/voo-6be163.jpg",
+      "local_logo_path": "localbrand/logo/voo-6be163.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/VOOetvous/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/voo-6be163.jpg"
+      }
+    },
+    {
+      "displayName": "Wind Tre",
+      "id": "windtre-5ee911",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "matchNames": [
+        "wind"
+      ],
+      "tags": {
+        "brand": "Wind Tre",
+        "brand:wikidata": "Q28119223",
+        "name": "Wind Tre",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/WINDTRE/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/windtre-5ee911.jpg",
+      "local_logo_path": "localbrand/logo/windtre-5ee911.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WINDTRE/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/windtre-5ee911.jpg"
+      }
+    },
+    {
+      "displayName": "Xfinity",
+      "id": "xfinity-3a9c60",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Xfinity",
+        "brand:wikidata": "Q5151002",
+        "name": "Xfinity",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/Xfinity/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xfinity-3a9c60.jpg",
+      "local_logo_path": "localbrand/logo/xfinity-3a9c60.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Xfinity/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xfinity-3a9c60.jpg"
+      }
+    },
+    {
+      "displayName": "XL Center",
+      "id": "xlcenter-ba2701",
+      "locationSet": {
+        "include": [
+          "id"
+        ]
+      },
+      "tags": {
+        "brand": "XL Axiata",
+        "brand:wikidata": "Q3482752",
+        "name": "XL Center",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/myXL/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xlcenter-ba2701.jpg",
+      "local_logo_path": "localbrand/logo/xlcenter-ba2701.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/myXL/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xlcenter-ba2701.jpg"
+      }
+    },
+    {
+      "displayName": "Yes 4G",
+      "id": "yes4g-c82acb",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "brand": "Yes 4G",
+        "brand:wikidata": "Q8052735",
+        "name": "Yes 4G",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Yettel Bulgaria",
+      "id": "yettel-5ceaa9",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "matchNames": [
+        "globul",
+        "telenor",
+        "yettel (bulgaria)",
+        "глобул",
+        "теленор"
+      ],
+      "tags": {
+        "brand": "Yettel",
+        "brand:wikidata": "Q14915070",
+        "name": "Yettel",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/BulgariaYettel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yettel-5ceaa9.jpg",
+      "local_logo_path": "localbrand/logo/yettel-5ceaa9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BulgariaYettel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yettel-5ceaa9.jpg"
+      }
+    },
+    {
+      "displayName": "Yettel Hungary",
+      "id": "yettel-fbadaa",
+      "locationSet": {
+        "include": [
+          "hu"
+        ]
+      },
+      "matchNames": [
+        "telenor",
+        "yettel (hungary)"
+      ],
+      "tags": {
+        "brand": "Yettel",
+        "brand:wikidata": "Q268578",
+        "name": "Yettel",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/yettelhungary/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yettel-fbadaa.jpg",
+      "local_logo_path": "localbrand/logo/yettel-fbadaa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/yettelhungary/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yettel-fbadaa.jpg"
+      }
+    },
+    {
+      "displayName": "Yettel Serbia",
+      "id": "yettel-ba40c7",
+      "locationSet": {
+        "include": [
+          "rs"
+        ]
+      },
+      "matchNames": [
+        "telenor",
+        "yettel (serbia)",
+        "теленор"
+      ],
+      "tags": {
+        "brand": "Yettel",
+        "brand:wikidata": "Q1780171",
+        "name": "Yettel",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/YettelSrbija/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yettel-ba40c7.jpg",
+      "local_logo_path": "localbrand/logo/yettel-ba40c7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/YettelSrbija/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yettel-ba40c7.jpg"
+      }
+    },
+    {
+      "displayName": "Yoigo",
+      "id": "yoigo-cea1c9",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "tags": {
+        "brand": "Yoigo",
+        "brand:wikidata": "Q2630989",
+        "name": "Yoigo",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/Yoigo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yoigo-cea1c9.jpg",
+      "local_logo_path": "localbrand/logo/yoigo-cea1c9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Yoigo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yoigo-cea1c9.jpg"
+      }
+    },
+    {
+      "displayName": "Дом.ru",
+      "id": "5ff447-58655c",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Дом.ru",
+        "name": "Дом.ru",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Македонски Телеком",
+      "id": "makedonskitelecom-5455f4",
+      "locationSet": {
+        "include": [
+          "mk"
+        ]
+      },
+      "tags": {
+        "brand": "Македонски Телеком",
+        "brand:wikidata": "Q3280739",
+        "name": "Македонски Телеком",
+        "name:en": "Makedonski Telecom",
+        "name:mk": "Македонски Телеком",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/TelekomMK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/makedonskitelecom-5455f4.jpg",
+      "local_logo_path": "localbrand/logo/makedonskitelecom-5455f4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TelekomMK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/makedonskitelecom-5455f4.jpg"
+      }
+    },
+    {
+      "displayName": "Ростелеком",
+      "id": "b6fed5-58655c",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Ростелеком",
+        "brand:wikidata": "Q1477012",
+        "name": "Ростелеком",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/288785311160831/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/b6fed5-58655c.png",
+      "local_logo_path": "localbrand/logo/b6fed5-58655c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/288785311160831/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/b6fed5-58655c.png"
+      }
+    },
+    {
+      "displayName": "Телекабел",
+      "id": "telekabel-5455f4",
+      "locationSet": {
+        "include": [
+          "mk"
+        ]
+      },
+      "tags": {
+        "brand": "Телекабел",
+        "brand:wikidata": "Q7696291",
+        "name": "Телекабел",
+        "name:en": "Telekabel",
+        "name:mk": "Телекабел",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/telekabel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telekabel-5455f4.jpg",
+      "local_logo_path": "localbrand/logo/telekabel-5455f4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/telekabel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telekabel-5455f4.jpg"
+      }
+    },
+    {
+      "displayName": "Укртелеком",
+      "id": "ukrtelecom-19c022",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "пат укртелеком"
+      ],
+      "tags": {
+        "brand": "Укртелеком",
+        "brand:en": "Ukrtelecom",
+        "brand:uk": "Укртелеком",
+        "brand:wikidata": "Q1505321",
+        "name": "Укртелеком",
+        "name:en": "Ukrtelecom",
+        "name:uk": "Укртелеком",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/Ukrtelecom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ukrtelecom-19c022.jpg",
+      "local_logo_path": "localbrand/logo/ukrtelecom-19c022.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Ukrtelecom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ukrtelecom-19c022.jpg"
+      }
+    },
+    {
+      "displayName": "中国广电",
+      "id": "chinabroadnet-3ad2fe",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "matchNames": [
+        "山东广电",
+        "山东有线",
+        "广电宽带",
+        "广电营业厅",
+        "江苏有线"
+      ],
+      "tags": {
+        "brand": "中国广电",
+        "brand:en": "China Broadnet",
+        "brand:wikidata": "Q115471921",
+        "brand:zh": "中国广电",
+        "name": "中国广电",
+        "name:en": "China Broadnet",
+        "name:zh": "中国广电",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "中国电信",
+      "id": "chinatelecom-3ad2fe",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "matchNames": [
+        "中国电信营业厅",
+        "电信5g营业厅",
+        "电信宽带",
+        "电信营业厅"
+      ],
+      "tags": {
+        "brand": "中国电信",
+        "brand:en": "China Telecom",
+        "brand:wikidata": "Q1073540",
+        "brand:zh": "中国电信",
+        "name": "中国电信",
+        "name:en": "China Telecom",
+        "name:zh": "中国电信",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "中国移动",
+      "id": "chinamobile-3ad2fe",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "matchNames": [
+        "中国移动营业厅",
+        "移动5g营业厅",
+        "移动宽带",
+        "移动营业厅"
+      ],
+      "tags": {
+        "brand": "中国移动",
+        "brand:en": "China Mobile",
+        "brand:wikidata": "Q741618",
+        "brand:zh": "中国移动",
+        "name": "中国移动",
+        "name:en": "China Mobile",
+        "name:zh": "中国移动",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/ChinaMobileInternationalCanada.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinamobile-3ad2fe.jpg",
+      "local_logo_path": "localbrand/logo/chinamobile-3ad2fe.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/f3/ChinaMobileInternationalCanada.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinamobile-3ad2fe.jpg"
+      }
+    },
+    {
+      "displayName": "中国联通",
+      "id": "chinaunicom-3ad2fe",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "matchNames": [
+        "中国联通营业厅",
+        "联通5g营业厅",
+        "联通宽带",
+        "联通营业厅"
+      ],
+      "tags": {
+        "brand": "中国联通",
+        "brand:en": "China Unicom",
+        "brand:wikidata": "Q1068485",
+        "brand:zh": "中国联通",
+        "name": "中国联通",
+        "name:en": "China Unicom",
+        "name:zh": "中国联通",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/chinaunicomtw/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinaunicom-3ad2fe.jpg",
+      "local_logo_path": "localbrand/logo/chinaunicom-3ad2fe.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/chinaunicomtw/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinaunicom-3ad2fe.jpg"
+      }
+    },
+    {
+      "displayName": "中國移動香港 China Mobile Hong Kong",
+      "id": "chinamobile-d0af53",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "matchNames": [
+        "cmhk",
+        "中移動",
+        "萬眾"
+      ],
+      "tags": {
+        "brand": "中國移動香港 China Mobile Hong Kong",
+        "brand:en": "China Mobile Hong Kong",
+        "brand:wikidata": "Q5099786",
+        "brand:zh": "中國移動香港",
+        "brand:zh-Hans": "中国移动香港",
+        "brand:zh-Hant": "中國移動香港",
+        "name": "中國移動 China Mobile",
+        "name:en": "China Mobile",
+        "name:zh": "中國移動",
+        "name:zh-Hans": "中国移动",
+        "name:zh-Hant": "中國移動",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/ChinaMobileHK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinamobile-d0af53.jpg",
+      "local_logo_path": "localbrand/logo/chinamobile-d0af53.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ChinaMobileHK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinamobile-d0af53.jpg"
+      }
+    },
+    {
+      "displayName": "中國聯通 China Unicom",
+      "id": "chinaunicom-d0af53",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "brand": "中國聯通 China Unicom",
+        "brand:en": "China Unicom",
+        "brand:wikidata": "Q75990567",
+        "brand:zh": "中國聯通",
+        "brand:zh-Hans": "中国联通",
+        "brand:zh-Hant": "中國聯通",
+        "name": "中國聯通 China Unicom",
+        "name:en": "China Unicom",
+        "name:zh": "中國聯通",
+        "name:zh-Hans": "中国联通",
+        "name:zh-Hant": "中國聯通",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/chinaunicomhk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinaunicom-d0af53.jpg",
+      "local_logo_path": "localbrand/logo/chinaunicom-d0af53.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/chinaunicomhk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinaunicom-d0af53.jpg"
+      }
+    },
+    {
+      "displayName": "中國電信 China Telecom",
+      "id": "chinatelecom-37ccdd",
+      "locationSet": {
+        "include": [
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "中國電信 China Telecom",
+        "brand:en": "China Telecom",
+        "brand:wikidata": "Q1073540",
+        "brand:zh": "中國電信",
+        "brand:zh-Hans": "中国电信",
+        "brand:zh-Hant": "中國電信",
+        "name": "中國電信 China Telecom",
+        "name:en": "China Telecom",
+        "name:zh": "中國電信",
+        "name:zh-Hans": "中国电信",
+        "name:zh-Hant": "中國電信",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "中華電信",
+      "id": "chunghwatelecom-4f600a",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "matchNames": [
+        "senao international",
+        "神腦國際"
+      ],
+      "tags": {
+        "brand": "中華電信",
+        "brand:en": "Chunghwa Telecom",
+        "brand:wikidata": "Q717531",
+        "brand:zh": "中華電信",
+        "name": "中華電信",
+        "name:en": "Chunghwa Telecom",
+        "name:zh": "中華電信",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/CHTdoctor/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chunghwatelecom-4f600a.jpg",
+      "local_logo_path": "localbrand/logo/chunghwatelecom-4f600a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CHTdoctor/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chunghwatelecom-4f600a.jpg"
+      }
+    },
+    {
+      "displayName": "台灣大哥大",
+      "id": "taiwanmobile-4f600a",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "台灣大哥大",
+        "brand:en": "Taiwan Mobile",
+        "brand:wikidata": "Q5943259",
+        "brand:zh": "台灣大哥大",
+        "name": "台灣大哥大",
+        "name:en": "Taiwan Mobile",
+        "name:zh": "台灣大哥大",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/taiwanmobile/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taiwanmobile-4f600a.jpg",
+      "local_logo_path": "localbrand/logo/taiwanmobile-4f600a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/taiwanmobile/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taiwanmobile-4f600a.jpg"
+      }
+    },
+    {
+      "displayName": "數碼通 SmarTone",
+      "id": "smartone-063284",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "數碼通 SmarTone",
+        "brand:en": "SmarTone",
+        "brand:wikidata": "Q11079498",
+        "brand:zh": "數碼通",
+        "brand:zh-Hans": "数码通",
+        "brand:zh-Hant": "數碼通",
+        "name": "數碼通 SmarTone",
+        "name:en": "SmarTone",
+        "name:zh": "數碼通",
+        "name:zh-Hans": "数码通",
+        "name:zh-Hant": "數碼通",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/smartone/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smartone-063284.png",
+      "local_logo_path": "localbrand/logo/smartone-063284.png",
+      "logos": {
+        "original": "https://graph.facebook.com/smartone/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smartone-063284.png"
+      }
+    },
+    {
+      "displayName": "新移動通訊 SUN Mobile",
+      "id": "sunmobile-d0af53",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "brand": "新移動通訊 SUN Mobile",
+        "brand:en": "SUN Mobile",
+        "brand:wikidata": "Q11080923",
+        "brand:zh": "新移動通訊",
+        "brand:zh-Hans": "新移动通讯",
+        "brand:zh-Hant": "新移動通訊",
+        "name": "新移動通訊 SUN Mobile",
+        "name:en": "SUN Mobile",
+        "name:zh": "新移動通訊",
+        "name:zh-Hans": "新移动通讯",
+        "name:zh-Hant": "新移動通訊",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/SUNMobileHK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sunmobile-d0af53.jpg",
+      "local_logo_path": "localbrand/logo/sunmobile-d0af53.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SUNMobileHK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sunmobile-d0af53.jpg"
+      }
+    },
+    {
+      "displayName": "澳門電訊 CTM",
+      "id": "ctm-37ccdd",
+      "locationSet": {
+        "include": [
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "澳門電訊 CTM",
+        "brand:en": "CTM",
+        "brand:pt": "CTM",
+        "brand:wikidata": "Q2990317",
+        "brand:zh": "澳門電訊",
+        "brand:zh-Hans": "澳门电讯",
+        "brand:zh-Hant": "澳門電訊",
+        "name": "澳門電訊 CTM",
+        "name:en": "CTM",
+        "name:pt": "CTM",
+        "name:zh": "澳門電訊",
+        "name:zh-Hans": "澳门电讯",
+        "name:zh-Hant": "澳門電訊",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/CTMBuddy/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ctm-37ccdd.jpg",
+      "local_logo_path": "localbrand/logo/ctm-37ccdd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CTMBuddy/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ctm-37ccdd.jpg"
+      }
+    },
+    {
+      "displayName": "遠傳電信",
+      "id": "fareastone-4f600a",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "matchNames": [
+        "apt",
+        "asia pacific telecom",
+        "fet",
+        "亞太電信"
+      ],
+      "tags": {
+        "brand": "遠傳電信",
+        "brand:en": "FarEasTone",
+        "brand:wikidata": "Q5434486",
+        "brand:zh": "遠傳電信",
+        "name": "遠傳電信",
+        "name:en": "FarEasTone",
+        "name:zh": "遠傳電信",
+        "shop": "telecommunication"
+      },
+      "original_logo_url": "https://graph.facebook.com/fareastone/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fareastone-4f600a.jpg",
+      "local_logo_path": "localbrand/logo/fareastone-4f600a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fareastone/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fareastone-4f600a.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,977 @@
+{
+  "properties": {
+    "path": "brands/shop/stationery",
+    "exclude": {
+      "generic": [
+        "^(papeler[ií]a|stationery)$",
+        "^papeleria sin nombre$",
+        "^канцтовар[ыи]$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "101文具天堂",
+      "id": "101stationeryparadise-1884c5",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "101文具天堂",
+        "brand:en": "101 Stationery Paradise",
+        "brand:wikidata": "Q131300608",
+        "brand:zh": "101文具天堂",
+        "name": "101文具天堂",
+        "name:en": "101 Stationery Paradise",
+        "name:zh": "101文具天堂",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/101wenJu/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/101stationeryparadise-1884c5.jpg",
+      "local_logo_path": "localbrand/logo/101stationeryparadise-1884c5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/101wenJu/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/101stationeryparadise-1884c5.jpg"
+      }
+    },
+    {
+      "displayName": "Akvarel",
+      "id": "akvarel-e2732b",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "акварель"
+      ],
+      "tags": {
+        "brand": "Akvarel",
+        "brand:wikidata": "Q122919527",
+        "name": "Akvarel",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/akvarelshop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/akvarel-e2732b.jpg",
+      "local_logo_path": "localbrand/logo/akvarel-e2732b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/akvarelshop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/akvarel-e2732b.jpg"
+      }
+    },
+    {
+      "displayName": "Buffetti",
+      "id": "buffetti-f9cdfb",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Buffetti",
+        "brand:wikidata": "Q124810055",
+        "name": "Buffetti",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/Buffetti.Buonlavoro/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buffetti-f9cdfb.jpg",
+      "local_logo_path": "localbrand/logo/buffetti-f9cdfb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Buffetti.Buonlavoro/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buffetti-f9cdfb.jpg"
+      }
+    },
+    {
+      "displayName": "Bureau en Gros",
+      "id": "bureauengros-0e3c23",
+      "locationSet": {
+        "include": [
+          "ca-qc.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Staples",
+        "brand:wikidata": "Q17149420",
+        "name": "Bureau en Gros",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/StaplesCanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bureauengros-0e3c23.jpg",
+      "local_logo_path": "localbrand/logo/bureauengros-0e3c23.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/StaplesCanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bureauengros-0e3c23.jpg"
+      }
+    },
+    {
+      "displayName": "Bureau Vallée",
+      "id": "bureauvallee-562f71",
+      "locationSet": {
+        "include": [
+          "be",
+          "es",
+          "fr",
+          "it",
+          "mt",
+          "tn"
+        ]
+      },
+      "tags": {
+        "brand": "Bureau Vallée",
+        "brand:wikidata": "Q18385014",
+        "name": "Bureau Vallée",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/BureauVallee/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bureauvallee-562f71.png",
+      "local_logo_path": "localbrand/logo/bureauvallee-562f71.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BureauVallee/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bureauvallee-562f71.png"
+      }
+    },
+    {
+      "displayName": "Carlin",
+      "id": "carlin-fac120",
+      "locationSet": {
+        "include": [
+          "ad",
+          "es",
+          "fr",
+          "gq",
+          "mx",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "Carlin",
+        "brand:wikidata": "Q99762985",
+        "name": "Carlin",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/CarlinPapelerias/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carlin-fac120.jpg",
+      "local_logo_path": "localbrand/logo/carlin-fac120.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CarlinPapelerias/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carlin-fac120.jpg"
+      }
+    },
+    {
+      "displayName": "CNA",
+      "id": "cna-4b73db",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "CNA",
+        "brand:wikidata": "Q116741171",
+        "name": "CNA",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/CNAAfrica/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cna-4b73db.jpg",
+      "local_logo_path": "localbrand/logo/cna-4b73db.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CNAAfrica/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cna-4b73db.jpg"
+      }
+    },
+    {
+      "displayName": "Compucopias",
+      "id": "compucopias-babad8",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Compucopias",
+        "brand:wikidata": "Q113186055",
+        "name": "Compucopias",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/compucopias/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/compucopias-babad8.jpg",
+      "local_logo_path": "localbrand/logo/compucopias-babad8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/compucopias/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/compucopias-babad8.jpg"
+      }
+    },
+    {
+      "displayName": "Daffer",
+      "id": "daffer-0be41a",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Daffer",
+        "brand:wikidata": "Q77876139",
+        "name": "Daffer",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/daffer.sk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daffer-0be41a.png",
+      "local_logo_path": "localbrand/logo/daffer-0be41a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/daffer.sk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daffer-0be41a.png"
+      }
+    },
+    {
+      "displayName": "Folder",
+      "id": "folder-e0984f",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "tags": {
+        "brand": "Folder",
+        "brand:wikidata": "Q109735198",
+        "name": "Folder",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/folderpapelerias/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/folder-e0984f.jpg",
+      "local_logo_path": "localbrand/logo/folder-e0984f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/folderpapelerias/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/folder-e0984f.jpg"
+      }
+    },
+    {
+      "displayName": "Kalunga",
+      "id": "kalunga-52f43d",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Kalunga",
+        "brand:wikidata": "Q10313683",
+        "name": "Kalunga",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/kalungapontocom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kalunga-52f43d.jpg",
+      "local_logo_path": "localbrand/logo/kalunga-52f43d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kalungapontocom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kalunga-52f43d.jpg"
+      }
+    },
+    {
+      "displayName": "Koh-i-Noor",
+      "id": "kohinoor-ecb638",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Koh-i-Noor",
+        "brand:wikidata": "Q698032",
+        "name": "Koh-i-Noor",
+        "official_name": "Koh-i-Noor Hardtmuth",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/KohinoorHardtmuthOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kohinoor-ecb638.jpg",
+      "local_logo_path": "localbrand/logo/kohinoor-ecb638.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KohinoorHardtmuthOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kohinoor-ecb638.jpg"
+      }
+    },
+    {
+      "displayName": "Lumen",
+      "id": "lumen-babad8",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Lumen",
+        "brand:wikidata": "Q134440591",
+        "name": "Lumen",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/PapeleriaLumen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lumen-babad8.png",
+      "local_logo_path": "localbrand/logo/lumen-babad8.png",
+      "logos": {
+        "original": "https://graph.facebook.com/PapeleriaLumen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lumen-babad8.png"
+      }
+    },
+    {
+      "displayName": "McPaper",
+      "id": "mcpaper-f8476b",
+      "locationSet": {
+        "include": [
+          "ch",
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "McPaper",
+        "brand:wikidata": "Q1915329",
+        "name": "McPaper",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/McPaperAG/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcpaper-f8476b.jpg",
+      "local_logo_path": "localbrand/logo/mcpaper-f8476b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/McPaperAG/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcpaper-f8476b.jpg"
+      }
+    },
+    {
+      "displayName": "McPen",
+      "id": "mcpen-c4c564",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "McPen",
+        "brand:wikidata": "Q116892513",
+        "name": "McPen",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/mcpen.cz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcpen-c4c564.jpg",
+      "local_logo_path": "localbrand/logo/mcpen-c4c564.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mcpen.cz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcpen-c4c564.jpg"
+      }
+    },
+    {
+      "displayName": "Office 1",
+      "id": "office1-6800b0",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "matchNames": [
+        "office1 superstore"
+      ],
+      "tags": {
+        "brand": "Office 1",
+        "brand:wikidata": "Q3658063",
+        "name": "Office 1",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Logo2020.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/office1-6800b0.jpg",
+      "local_logo_path": "localbrand/logo/office1-6800b0.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Logo2020.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/office1-6800b0.jpg"
+      }
+    },
+    {
+      "displayName": "Office Depot",
+      "id": "officedepot-8bfff1",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Office Depot",
+        "brand:wikidata": "Q1337797",
+        "name": "Office Depot",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/OfficeDepot/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/officedepot-8bfff1.jpg",
+      "local_logo_path": "localbrand/logo/officedepot-8bfff1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OfficeDepot/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/officedepot-8bfff1.jpg"
+      }
+    },
+    {
+      "displayName": "OfficeMax",
+      "id": "officemax-f154d6",
+      "locationSet": {
+        "include": [
+          "mx",
+          "nz",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "office depot / officemax"
+      ],
+      "matchTags": [
+        "shop/computer"
+      ],
+      "tags": {
+        "brand": "OfficeMax",
+        "brand:wikidata": "Q7079111",
+        "name": "OfficeMax",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/OfficeDepot/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/officemax-f154d6.jpg",
+      "local_logo_path": "localbrand/logo/officemax-f154d6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OfficeDepot/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/officemax-f154d6.jpg"
+      }
+    },
+    {
+      "displayName": "Officeworks",
+      "id": "officeworks-52dece",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Officeworks",
+        "brand:wikidata": "Q7079486",
+        "name": "Officeworks",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/officeworks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/officeworks-52dece.jpg",
+      "local_logo_path": "localbrand/logo/officeworks-52dece.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/officeworks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/officeworks-52dece.jpg"
+      }
+    },
+    {
+      "displayName": "Pagro",
+      "id": "pagro-42cd24",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "tags": {
+        "brand": "Pagro",
+        "brand:wikidata": "Q57550022",
+        "name": "Pagro",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/pagro.at/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pagro-42cd24.jpg",
+      "local_logo_path": "localbrand/logo/pagro-42cd24.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pagro.at/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pagro-42cd24.jpg"
+      }
+    },
+    {
+      "displayName": "Paper Source",
+      "id": "papersource-b2098d",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Paper Source",
+        "brand:wikidata": "Q25000269",
+        "name": "Paper Source",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/PaperSource/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/papersource-b2098d.jpg",
+      "local_logo_path": "localbrand/logo/papersource-b2098d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PaperSource/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/papersource-b2098d.jpg"
+      }
+    },
+    {
+      "displayName": "PNA",
+      "id": "pna-e57d44",
+      "locationSet": {
+        "include": [
+          "na",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "PNA",
+        "brand:wikidata": "Q126911439",
+        "name": "PNA",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/pnacolouryourworld/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pna-e57d44.jpg",
+      "local_logo_path": "localbrand/logo/pna-e57d44.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pnacolouryourworld/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pna-e57d44.jpg"
+      }
+    },
+    {
+      "displayName": "Ryman",
+      "id": "ryman-a503c5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "ryman the stationer"
+      ],
+      "tags": {
+        "brand": "Ryman",
+        "brand:wikidata": "Q7385188",
+        "name": "Ryman",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/ryman/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ryman-a503c5.jpg",
+      "local_logo_path": "localbrand/logo/ryman-a503c5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ryman/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ryman-a503c5.jpg"
+      }
+    },
+    {
+      "displayName": "Ševt",
+      "id": "sevt-0be41a",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Ševt",
+        "brand:wikidata": "Q15980348",
+        "name": "Ševt",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/sevtpapiernictvo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sevt-0be41a.jpg",
+      "local_logo_path": "localbrand/logo/sevt-0be41a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sevtpapiernictvo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sevt-0be41a.jpg"
+      }
+    },
+    {
+      "displayName": "Smiggle",
+      "id": "smiggle-471bdb",
+      "locationSet": {
+        "include": [
+          "at",
+          "au",
+          "gb",
+          "hk",
+          "ie",
+          "my",
+          "nz",
+          "sg"
+        ]
+      },
+      "tags": {
+        "brand": "Smiggle",
+        "brand:wikidata": "Q7544536",
+        "name": "Smiggle",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/SmiggleAUNZ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smiggle-471bdb.jpg",
+      "local_logo_path": "localbrand/logo/smiggle-471bdb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SmiggleAUNZ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smiggle-471bdb.jpg"
+      }
+    },
+    {
+      "displayName": "Staples (Canada)",
+      "id": "staples-1d9396",
+      "locationSet": {
+        "include": [
+          "ca"
+        ],
+        "exclude": [
+          "ca-qc.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Staples",
+        "brand:wikidata": "Q17149420",
+        "name": "Staples",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/StaplesCanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/staples-1d9396.jpg",
+      "local_logo_path": "localbrand/logo/staples-1d9396.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/StaplesCanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/staples-1d9396.jpg"
+      }
+    },
+    {
+      "displayName": "Staples (USA)",
+      "id": "staples-b2098d",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "staples stores"
+      ],
+      "tags": {
+        "brand": "Staples",
+        "brand:wikidata": "Q785943",
+        "name": "Staples",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/staples/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/staples-b2098d.png",
+      "local_logo_path": "localbrand/logo/staples-b2098d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/staples/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/staples-b2098d.png"
+      }
+    },
+    {
+      "displayName": "TGJones",
+      "id": "tgjones-a503c5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "TGJones",
+        "brand:wikidata": "Q133575797",
+        "name": "TGJones",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/TGJonesUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tgjones-a503c5.jpg",
+      "local_logo_path": "localbrand/logo/tgjones-a503c5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TGJonesUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tgjones-a503c5.jpg"
+      }
+    },
+    {
+      "displayName": "Titi Papiernictvo",
+      "id": "titipapiernictvo-0be41a",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "matchNames": [
+        "titi"
+      ],
+      "tags": {
+        "brand": "Titi Papiernictvo",
+        "brand:wikidata": "Q134270984",
+        "name": "Titi Papiernictvo",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/titipapiernictvo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/titipapiernictvo-0be41a.jpg",
+      "local_logo_path": "localbrand/logo/titipapiernictvo-0be41a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/titipapiernictvo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/titipapiernictvo-0be41a.jpg"
+      }
+    },
+    {
+      "displayName": "Tony",
+      "id": "tony-babad8",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Tony",
+        "brand:wikidata": "Q113217034",
+        "name": "Tony",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/TonySuperPapelerias/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tony-babad8.jpg",
+      "local_logo_path": "localbrand/logo/tony-babad8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TonySuperPapelerias/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tony-babad8.jpg"
+      }
+    },
+    {
+      "displayName": "Typo",
+      "id": "typo-8bfff1",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Typo",
+        "brand:wikidata": "Q134963694",
+        "name": "Typo",
+        "operator": "Cotton On Group",
+        "operator:wikidata": "Q5175717",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/typoshop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/typo-8bfff1.png",
+      "local_logo_path": "localbrand/logo/typo-8bfff1.png",
+      "logos": {
+        "original": "https://graph.facebook.com/typoshop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/typo-8bfff1.png"
+      }
+    },
+    {
+      "displayName": "Warehouse Stationery",
+      "id": "warehousestationery-a34cb3",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "matchNames": [
+        "stationery warehouse"
+      ],
+      "tags": {
+        "brand": "Warehouse Stationery",
+        "brand:wikidata": "Q110221565",
+        "name": "Warehouse Stationery",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/warehousestationery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/warehousestationery-a34cb3.png",
+      "local_logo_path": "localbrand/logo/warehousestationery-a34cb3.png",
+      "logos": {
+        "original": "https://graph.facebook.com/warehousestationery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/warehousestationery-a34cb3.png"
+      }
+    },
+    {
+      "displayName": "БелБланк",
+      "id": "7e915f-ca3a38",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "tags": {
+        "brand": "БелБланк",
+        "name": "БелБланк",
+        "shop": "stationery"
+      }
+    },
+    {
+      "displayName": "Глобус",
+      "id": "d19aa5-c61d09",
+      "locationSet": {
+        "include": [
+          "kz",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Глобус",
+        "name": "Глобус",
+        "shop": "stationery"
+      }
+    },
+    {
+      "displayName": "Графит",
+      "id": "155e14-b8bb59",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Графит",
+        "name": "Графит",
+        "shop": "stationery"
+      }
+    },
+    {
+      "displayName": "Канцлер",
+      "id": "b2b772-b8bb59",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Канцлер",
+        "name": "Канцлер",
+        "shop": "stationery"
+      }
+    },
+    {
+      "displayName": "КанцПарк",
+      "id": "475cb6-b8bb59",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "КанцПарк",
+        "name": "КанцПарк",
+        "shop": "stationery"
+      }
+    },
+    {
+      "displayName": "Карандаш",
+      "id": "41fbf0-048ffe",
+      "locationSet": {
+        "include": [
+          "by",
+          "kz",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Карандаш",
+        "name": "Карандаш",
+        "shop": "stationery"
+      }
+    },
+    {
+      "displayName": "Кенгур",
+      "id": "kengur-81824a",
+      "locationSet": {
+        "include": [
+          "rs"
+        ]
+      },
+      "tags": {
+        "brand": "Кенгур",
+        "brand:wikidata": "Q135428341",
+        "name": "Кенгур",
+        "name:sr": "Кенгур",
+        "name:sr-Latn": "Kengur",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/kengurcom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kengur-81824a.jpg",
+      "local_logo_path": "localbrand/logo/kengur-81824a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kengurcom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kengur-81824a.jpg"
+      }
+    },
+    {
+      "displayName": "Комус",
+      "id": "komus-b8bb59",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Комус",
+        "brand:en": "Komus",
+        "brand:ru": "Комус",
+        "brand:wikidata": "Q4230314",
+        "name": "Комус",
+        "name:en": "Komus",
+        "name:ru": "Комус",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/komusclub/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/komus-b8bb59.png",
+      "local_logo_path": "localbrand/logo/komus-b8bb59.png",
+      "logos": {
+        "original": "https://graph.facebook.com/komusclub/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/komus-b8bb59.png"
+      }
+    },
+    {
+      "displayName": "九乘九文具專家",
+      "id": "9x9stationery-1884c5",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "九乘九文具專家",
+        "brand:en": "9x9 Stationery!",
+        "brand:wikidata": "Q10878649",
+        "brand:zh": "九乘九文具專家",
+        "name": "九乘九文具專家",
+        "name:en": "9x9 Stationery!",
+        "name:zh": "九乘九文具專家",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/9x9_Stationery_Logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/9x9stationery-1884c5.png",
+      "local_logo_path": "localbrand/logo/9x9stationery-1884c5.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/7a/9x9_Stationery_Logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/9x9stationery-1884c5.png"
+      }
+    },
+    {
+      "displayName": "晨光文具",
+      "id": "34a306-cfa3fb",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "晨光文具",
+        "name": "晨光文具",
+        "shop": "stationery"
+      }
+    },
+    {
+      "displayName": "金玉堂",
+      "id": "jinyuhtarngstationery-1884c5",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "金玉堂",
+        "brand:en": "Jin Yuh Tarng Stationery",
+        "brand:wikidata": "Q131300591",
+        "brand:zh": "金玉堂",
+        "name": "金玉堂",
+        "name:en": "Jin Yuh Tarng Stationery",
+        "name:zh": "金玉堂",
+        "shop": "stationery"
+      },
+      "original_logo_url": "https://graph.facebook.com/jyt.fans/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jinyuhtarngstationery-1884c5.jpg",
+      "local_logo_path": "localbrand/logo/jinyuhtarngstationery-1884c5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/jyt.fans/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jinyuhtarngstationery-1884c5.jpg"
+      }
+    }
+  ]
+}

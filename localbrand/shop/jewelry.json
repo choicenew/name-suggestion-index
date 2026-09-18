@@ -1,0 +1,3401 @@
+{
+  "properties": {
+    "path": "brands/shop/jewelry",
+    "exclude": {
+      "generic": [
+        "^(585|bijouterie|jewelry|jubiler)$",
+        "^золото(й)?$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "4℃",
+      "id": "092279-36e4b3",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "4℃",
+        "brand:ja": "ヨンドシー",
+        "brand:wikidata": "Q61055700",
+        "name": "4℃",
+        "name:ja": "ヨンドシー",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Teilor",
+      "id": "Teilor",
+      "locationSet": {
+        "include": [
+          "ro",
+          "bg"
+        ]
+      },
+      "tags": {
+        "shop": "jewelry",
+        "name": "Teilor",
+        "brand": "Teilor",
+        "brand:wikidata": "Q115773344"
+      },
+      "original_logo_url": "https://graph.facebook.com/TeilorRomania/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/Teilor.jpg",
+      "local_logo_path": "localbrand/logo/Teilor.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TeilorRomania/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/Teilor.jpg"
+      }
+    },
+    {
+      "displayName": "585 Gold",
+      "id": "585gold-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "note": "This brand is different from brand 585 Zolotoy",
+      "tags": {
+        "brand": "585 Gold",
+        "brand:wikidata": "Q125730875",
+        "name": "585 Gold",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "585 Золотой",
+      "id": "585zolotoy-ee45ea",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "note": "This brand is different from brand 585 Gold",
+      "tags": {
+        "brand": "585 Золотой",
+        "brand:en": "585 Zolotoy",
+        "brand:ru": "585 Золотой",
+        "brand:wikidata": "Q4031865",
+        "name": "585 Золотой",
+        "name:en": "585 Zolotoy",
+        "name:ru": "585 Золотой",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Syzran_Sovetskaya_street_4_2023-09_1693670987.tif",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/585zolotoy-ee45ea.png",
+      "local_logo_path": "localbrand/logo/585zolotoy-ee45ea.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Syzran_Sovetskaya_street_4_2023-09_1693670987.tif",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/585zolotoy-ee45ea.png"
+      }
+    },
+    {
+      "displayName": "7 карат",
+      "id": "a6c984-007daa",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "tags": {
+        "brand": "7 карат",
+        "name": "7 карат",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Agatha",
+      "id": "agatha-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Agatha",
+        "brand:wikidata": "Q105064006",
+        "name": "Agatha",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/agatha/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agatha-a038d2.jpg",
+      "local_logo_path": "localbrand/logo/agatha-a038d2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/agatha/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agatha-a038d2.jpg"
+      }
+    },
+    {
+      "displayName": "Alex and Ani",
+      "id": "alexandani-70f101",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Alex and Ani",
+        "brand:wikidata": "Q16198810",
+        "name": "Alex and Ani",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/alexandaniusa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alexandani-70f101.jpg",
+      "local_logo_path": "localbrand/logo/alexandani-70f101.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/alexandaniusa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alexandani-70f101.jpg"
+      }
+    },
+    {
+      "displayName": "Altınbaş",
+      "id": "altinbas-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Altınbaş",
+        "brand:wikidata": "Q19610501",
+        "name": "Altınbaş",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/altinbasjewelry/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/altinbas-a038d2.jpg",
+      "local_logo_path": "localbrand/logo/altinbas-a038d2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/altinbasjewelry/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/altinbas-a038d2.jpg"
+      }
+    },
+    {
+      "displayName": "American Swiss",
+      "id": "americanswiss-45575e",
+      "locationSet": {
+        "include": [
+          "bw",
+          "ls",
+          "na",
+          "za",
+          "zm"
+        ]
+      },
+      "tags": {
+        "brand": "American Swiss",
+        "brand:wikidata": "Q116430764",
+        "name": "American Swiss",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/AmericanSwiss/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/americanswiss-45575e.png",
+      "local_logo_path": "localbrand/logo/americanswiss-45575e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/AmericanSwiss/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/americanswiss-45575e.png"
+      }
+    },
+    {
+      "displayName": "Angus and Coote",
+      "id": "angusandcoote-0359a8",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Angus and Coote",
+        "brand:wikidata": "Q18162112",
+        "name": "Angus and Coote",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/angusandcoote/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/angusandcoote-0359a8.jpg",
+      "local_logo_path": "localbrand/logo/angusandcoote-0359a8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/angusandcoote/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/angusandcoote-0359a8.jpg"
+      }
+    },
+    {
+      "displayName": "Apart",
+      "id": "apart-d80787",
+      "locationSet": {
+        "include": [
+          "cz",
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Apart",
+        "brand:wikidata": "Q11686561",
+        "name": "Apart",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/BizuteriaApart/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/apart-d80787.jpg",
+      "local_logo_path": "localbrand/logo/apart-d80787.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BizuteriaApart/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/apart-d80787.jpg"
+      }
+    },
+    {
+      "displayName": "APM Monaco",
+      "id": "apmmonaco-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "APM Monaco",
+        "brand:wikidata": "Q85738954",
+        "name": "APM Monaco",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/apmmonacojewellery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/apmmonaco-a038d2.jpg",
+      "local_logo_path": "localbrand/logo/apmmonaco-a038d2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/apmmonacojewellery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/apmmonaco-a038d2.jpg"
+      }
+    },
+    {
+      "displayName": "Aristocrazy",
+      "id": "aristocrazy-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Aristocrazy",
+        "brand:wikidata": "Q117802848",
+        "name": "Aristocrazy",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/AristocrazySpain/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aristocrazy-a038d2.jpg",
+      "local_logo_path": "localbrand/logo/aristocrazy-a038d2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AristocrazySpain/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aristocrazy-a038d2.jpg"
+      }
+    },
+    {
+      "displayName": "Arthus Bertrand",
+      "id": "arthusbertrand-1d7974",
+      "locationSet": {
+        "include": [
+          "be",
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Arthus Bertrand",
+        "brand:wikidata": "Q3278594",
+        "name": "Arthus Bertrand",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/ArthusBertrandparis/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arthusbertrand-1d7974.jpg",
+      "local_logo_path": "localbrand/logo/arthusbertrand-1d7974.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ArthusBertrandparis/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arthusbertrand-1d7974.jpg"
+      }
+    },
+    {
+      "displayName": "Atasay",
+      "id": "atasay-3dd149",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Atasay",
+        "brand:wikidata": "Q28940710",
+        "name": "Atasay",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/atasay/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/atasay-3dd149.jpg",
+      "local_logo_path": "localbrand/logo/atasay-3dd149.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/atasay/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/atasay-3dd149.jpg"
+      }
+    },
+    {
+      "displayName": "Banter by Piercing Pagoda",
+      "id": "banterbypiercingpagoda-30e94f",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "banter",
+        "piercing pagoda"
+      ],
+      "tags": {
+        "brand": "Banter by Piercing Pagoda",
+        "brand:wikidata": "Q108410448",
+        "name": "Banter by Piercing Pagoda",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/banterbypiercingpagoda/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/banterbypiercingpagoda-30e94f.jpg",
+      "local_logo_path": "localbrand/logo/banterbypiercingpagoda-30e94f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/banterbypiercingpagoda/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/banterbypiercingpagoda-30e94f.jpg"
+      }
+    },
+    {
+      "displayName": "Beaverbrooks",
+      "id": "beaverbrooks-f07ca3",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Beaverbrooks",
+        "brand:wikidata": "Q4878226",
+        "name": "Beaverbrooks",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/beaverbrooks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beaverbrooks-f07ca3.jpg",
+      "local_logo_path": "localbrand/logo/beaverbrooks-f07ca3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/beaverbrooks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beaverbrooks-f07ca3.jpg"
+      }
+    },
+    {
+      "displayName": "Ben Bridge",
+      "id": "benbridge-30e94f",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Ben Bridge",
+        "brand:wikidata": "Q20708050",
+        "name": "Ben Bridge",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/BenBridgeJeweler/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/benbridge-30e94f.jpg",
+      "local_logo_path": "localbrand/logo/benbridge-30e94f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BenBridgeJeweler/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/benbridge-30e94f.jpg"
+      }
+    },
+    {
+      "displayName": "Bevilles Jewellers",
+      "id": "bevillesjewellers-0359a8",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Bevilles Jewellers",
+        "brand:wikidata": "Q117837188",
+        "name": "Bevilles Jewellers",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/bevilles/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bevillesjewellers-0359a8.jpg",
+      "local_logo_path": "localbrand/logo/bevillesjewellers-0359a8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bevilles/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bevillesjewellers-0359a8.jpg"
+      }
+    },
+    {
+      "displayName": "Bhima Jewellers",
+      "id": "bhimajewellers-96eeb4",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Bhima Jewellers",
+        "brand:wikidata": "Q17004889",
+        "name": "Bhima Jewellers",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Bijou Brigitte",
+      "id": "bijoubrigitte-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Bijou Brigitte",
+        "brand:wikidata": "Q599545",
+        "name": "Bijou Brigitte",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/bijoubrigitte/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bijoubrigitte-a038d2.jpg",
+      "local_logo_path": "localbrand/logo/bijoubrigitte-a038d2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bijoubrigitte/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bijoubrigitte-a038d2.jpg"
+      }
+    },
+    {
+      "displayName": "Bizzarro",
+      "id": "bizzarro-789248",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Bizzarro",
+        "brand:wikidata": "Q131456788",
+        "name": "Bizzarro",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/JoyeriasBizzarroOficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bizzarro-789248.jpg",
+      "local_logo_path": "localbrand/logo/bizzarro-789248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JoyeriasBizzarroOficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bizzarro-789248.jpg"
+      }
+    },
+    {
+      "displayName": "Blue Nile",
+      "id": "bluenile-70f101",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Blue Nile",
+        "brand:wikidata": "Q4929570",
+        "name": "Blue Nile",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/bluenile/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bluenile-70f101.jpg",
+      "local_logo_path": "localbrand/logo/bluenile-70f101.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bluenile/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bluenile-70f101.jpg"
+      }
+    },
+    {
+      "displayName": "Bluespirit",
+      "id": "bluespirit-60a080",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Bluespirit",
+        "brand:wikidata": "Q45117441",
+        "name": "Bluespirit",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/BluespiritGioielliOfficialPage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bluespirit-60a080.jpg",
+      "local_logo_path": "localbrand/logo/bluespirit-60a080.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BluespiritGioielliOfficialPage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bluespirit-60a080.jpg"
+      }
+    },
+    {
+      "displayName": "Buccellati",
+      "id": "buccellati-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/watches"
+      ],
+      "tags": {
+        "brand": "Buccellati",
+        "brand:wikidata": "Q15994135",
+        "name": "Buccellati",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/BuccellatiMilan/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buccellati-a038d2.jpg",
+      "local_logo_path": "localbrand/logo/buccellati-a038d2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BuccellatiMilan/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buccellati-a038d2.jpg"
+      }
+    },
+    {
+      "displayName": "Cartier",
+      "id": "cartier-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Cartier",
+        "brand:wikidata": "Q538587",
+        "name": "Cartier",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Charm Diamond Centres",
+      "id": "charmdiamondcentres-7fc58d",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "charm diamond",
+        "charm diamond centre"
+      ],
+      "tags": {
+        "brand": "Charm Diamond Centres",
+        "brand:wikidata": "Q5086396",
+        "name": "Charm Diamond Centres",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/CharmDiamonds/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/charmdiamondcentres-7fc58d.png",
+      "local_logo_path": "localbrand/logo/charmdiamondcentres-7fc58d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/CharmDiamonds/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/charmdiamondcentres-7fc58d.png"
+      }
+    },
+    {
+      "displayName": "Chaumet",
+      "id": "chaumet-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Chaumet",
+        "brand:wikidata": "Q2961620",
+        "name": "Chaumet",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/Chaumet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chaumet-a038d2.jpg",
+      "local_logo_path": "localbrand/logo/chaumet-a038d2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Chaumet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chaumet-a038d2.jpg"
+      }
+    },
+    {
+      "displayName": "Chemmanur International Jewellers",
+      "id": "chemmanurinternationaljewellers-0ef1f6",
+      "locationSet": {
+        "include": [
+          "ae",
+          "in",
+          "kw",
+          "my",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Chemmanur International Jewellers",
+        "brand:wikidata": "Q99520996",
+        "name": "Chemmanur International Jewellers",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/chemmanurjewellers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chemmanurinternationaljewellers-0ef1f6.png",
+      "local_logo_path": "localbrand/logo/chemmanurinternationaljewellers-0ef1f6.png",
+      "logos": {
+        "original": "https://graph.facebook.com/chemmanurjewellers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chemmanurinternationaljewellers-0ef1f6.png"
+      }
+    },
+    {
+      "displayName": "Chisholm Hunter",
+      "id": "chisholmhunter-f07ca3",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Chisholm Hunter",
+        "brand:wikidata": "Q66662001",
+        "name": "Chisholm Hunter",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/ChisholmHunterOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chisholmhunter-f07ca3.jpg",
+      "local_logo_path": "localbrand/logo/chisholmhunter-f07ca3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ChisholmHunterOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chisholmhunter-f07ca3.jpg"
+      }
+    },
+    {
+      "displayName": "Christ",
+      "id": "christ-729edb",
+      "locationSet": {
+        "include": [
+          "ch",
+          "de",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Christ",
+        "brand:wikidata": "Q1077957",
+        "name": "Christ",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/juwelierchrist/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/christ-729edb.jpg",
+      "local_logo_path": "localbrand/logo/christ-729edb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/juwelierchrist/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/christ-729edb.jpg"
+      }
+    },
+    {
+      "displayName": "Cleor",
+      "id": "cleor-381def",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Cleor",
+        "brand:wikidata": "Q128779240",
+        "name": "Cleor",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/cleorbijoux/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cleor-381def.jpg",
+      "local_logo_path": "localbrand/logo/cleor-381def.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/cleorbijoux/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cleor-381def.jpg"
+      }
+    },
+    {
+      "displayName": "Colours & Beauty",
+      "id": "coloursandbeauty-60a080",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Colours & Beauty",
+        "brand:wikidata": "Q113291420",
+        "name": "Colours & Beauty",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/ColoursAndBeauty/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coloursandbeauty-60a080.jpg",
+      "local_logo_path": "localbrand/logo/coloursandbeauty-60a080.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ColoursAndBeauty/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coloursandbeauty-60a080.jpg"
+      }
+    },
+    {
+      "displayName": "Compro Oro",
+      "id": "comprooro-94830d",
+      "locationSet": {
+        "include": [
+          "es",
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Compro Oro",
+        "name": "Compro Oro",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Daniel's",
+      "id": "daniels-70f101",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Daniel's Jewelers",
+        "brand:wikidata": "Q120763875",
+        "name": "Daniel's",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/DanielsJewelers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daniels-70f101.jpg",
+      "local_logo_path": "localbrand/logo/daniels-70f101.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DanielsJewelers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daniels-70f101.jpg"
+      }
+    },
+    {
+      "displayName": "David Yurman",
+      "id": "davidyurman-70f101",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "David Yurman",
+        "brand:wikidata": "Q5241390",
+        "name": "David Yurman",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/DavidYurman/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/davidyurman-70f101.jpg",
+      "local_logo_path": "localbrand/logo/davidyurman-70f101.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DavidYurman/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/davidyurman-70f101.jpg"
+      }
+    },
+    {
+      "displayName": "Diamant",
+      "id": "diamant-ee45ea",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Diamant",
+        "name": "Diamant",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Dinh Van",
+      "id": "dinhvan-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "dinh van paris"
+      ],
+      "tags": {
+        "brand": "Dinh Van",
+        "brand:wikidata": "Q105324937",
+        "name": "Dinh Van",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/dinhvanparis/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dinhvan-a038d2.jpg",
+      "local_logo_path": "localbrand/logo/dinhvan-a038d2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dinhvanparis/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dinhvan-a038d2.jpg"
+      }
+    },
+    {
+      "displayName": "Don Roberto Jewelers",
+      "id": "donrobertojewelers-080e86",
+      "locationSet": {
+        "include": [
+          "us-ca.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Don Roberto Jewelers",
+        "brand:wikidata": "Q109371600",
+        "name": "Don Roberto Jewelers",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/DonRobertoJewelers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/donrobertojewelers-080e86.jpg",
+      "local_logo_path": "localbrand/logo/donrobertojewelers-080e86.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DonRobertoJewelers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/donrobertojewelers-080e86.jpg"
+      }
+    },
+    {
+      "displayName": "Dorotheum Juwelier",
+      "id": "dorotheumjuwelier-354c6b",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "tags": {
+        "brand": "Dorotheum Juwelier",
+        "brand:wikidata": "Q668545",
+        "name": "Dorotheum Juwelier",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/dorotheumcom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dorotheumjuwelier-354c6b.png",
+      "local_logo_path": "localbrand/logo/dorotheumjuwelier-354c6b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/dorotheumcom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dorotheumjuwelier-354c6b.png"
+      }
+    },
+    {
+      "displayName": "DR钻戒",
+      "id": "darryring-cb063c",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "DR钻戒",
+        "brand:en": "Darry Ring",
+        "brand:wikidata": "Q48919886",
+        "brand:zh": "DR钻戒",
+        "name": "DR钻戒",
+        "name:en": "Darry Ring",
+        "name:zh": "DR钻戒",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/officialDarryRing/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/darryring-cb063c.jpg",
+      "local_logo_path": "localbrand/logo/darryring-cb063c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/officialDarryRing/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/darryring-cb063c.jpg"
+      }
+    },
+    {
+      "displayName": "Ernest Jones",
+      "id": "ernestjones-f07ca3",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Ernest Jones",
+        "brand:wikidata": "Q5393358",
+        "name": "Ernest Jones",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/ernestjonesjewellers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ernestjones-f07ca3.jpg",
+      "local_logo_path": "localbrand/logo/ernestjones-f07ca3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ernestjonesjewellers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ernestjones-f07ca3.jpg"
+      }
+    },
+    {
+      "displayName": "F.Hinds",
+      "id": "fhinds-f07ca3",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "F.Hinds",
+        "brand:wikidata": "Q5423915",
+        "name": "F.Hinds",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Fast-Fix",
+      "id": "fastfix-025704",
+      "locationSet": {
+        "include": [
+          "ie",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Fast-Fix",
+        "brand:wikidata": "Q108411186",
+        "name": "Fast-Fix",
+        "official_name": "Fast-Fix Jewelry and Watch Repairs",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/JREfastfix/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastfix-025704.jpg",
+      "local_logo_path": "localbrand/logo/fastfix-025704.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JREfastfix/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastfix-025704.jpg"
+      }
+    },
+    {
+      "displayName": "Fraser Hart",
+      "id": "fraserhart-f07ca3",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Fraser Hart",
+        "brand:wikidata": "Q134776549",
+        "name": "Fraser Hart",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/FraserHart.Jewellers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fraserhart-f07ca3.jpg",
+      "local_logo_path": "localbrand/logo/fraserhart-f07ca3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FraserHart.Jewellers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fraserhart-f07ca3.jpg"
+      }
+    },
+    {
+      "displayName": "Fred Meyer Jewelers",
+      "id": "fredmeyerjewelers-70f101",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "fred meyer"
+      ],
+      "tags": {
+        "brand": "Fred Meyer Jewelers",
+        "brand:wikidata": "Q5495935",
+        "name": "Fred Meyer Jewelers",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/fredmeyerjewelers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fredmeyerjewelers-70f101.jpg",
+      "local_logo_path": "localbrand/logo/fredmeyerjewelers-70f101.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fredmeyerjewelers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fredmeyerjewelers-70f101.jpg"
+      }
+    },
+    {
+      "displayName": "Glitter",
+      "id": "glitter-f0ae67",
+      "locationSet": {
+        "include": [
+          "dk",
+          "fi",
+          "no",
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Glitter",
+        "brand:wikidata": "Q10505535",
+        "name": "Glitter",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/GlitterSverige/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/glitter-f0ae67.png",
+      "local_logo_path": "localbrand/logo/glitter-f0ae67.png",
+      "logos": {
+        "original": "https://graph.facebook.com/GlitterSverige/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/glitter-f0ae67.png"
+      }
+    },
+    {
+      "displayName": "Goldmark",
+      "id": "goldmark-f8a228",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Goldmark",
+        "brand:wikidata": "Q17005474",
+        "name": "Goldmark",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/Goldmark.Australia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goldmark-f8a228.jpg",
+      "local_logo_path": "localbrand/logo/goldmark-f8a228.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Goldmark.Australia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goldmark-f8a228.jpg"
+      }
+    },
+    {
+      "displayName": "Goldsmiths",
+      "id": "goldsmiths-f07ca3",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Goldsmiths",
+        "brand:wikidata": "Q16993095",
+        "name": "Goldsmiths",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/GoldsmithsUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goldsmiths-f07ca3.png",
+      "local_logo_path": "localbrand/logo/goldsmiths-f07ca3.png",
+      "logos": {
+        "original": "https://graph.facebook.com/GoldsmithsUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goldsmiths-f07ca3.png"
+      }
+    },
+    {
+      "displayName": "Gorjana",
+      "id": "gorjana-70f101",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Gorjana",
+        "brand:wikidata": "Q115200885",
+        "name": "Gorjana",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/gorjanabrand/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gorjana-70f101.jpg",
+      "local_logo_path": "localbrand/logo/gorjana-70f101.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/gorjanabrand/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gorjana-70f101.jpg"
+      }
+    },
+    {
+      "displayName": "Graff",
+      "id": "graff-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Graff",
+        "brand:wikidata": "Q3113211",
+        "name": "Graff",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/graff/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/graff-a038d2.jpg",
+      "local_logo_path": "localbrand/logo/graff-a038d2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/graff/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/graff-a038d2.jpg"
+      }
+    },
+    {
+      "displayName": "Guldfynd",
+      "id": "guldfynd-57004a",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Guldfynd",
+        "brand:wikidata": "Q49099223",
+        "name": "Guldfynd",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/Guldfynd/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/guldfynd-57004a.jpg",
+      "local_logo_path": "localbrand/logo/guldfynd-57004a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Guldfynd/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/guldfynd-57004a.jpg"
+      }
+    },
+    {
+      "displayName": "H. Stern",
+      "id": "hstern-5f2e62",
+      "locationSet": {
+        "include": [
+          "ar",
+          "br",
+          "fr",
+          "gb",
+          "il",
+          "mx",
+          "pe",
+          "ru",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "H. Stern",
+        "brand:wikidata": "Q2660388",
+        "name": "H. Stern",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "H.Samuel",
+      "id": "hsamuel-f07ca3",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "H.Samuel",
+        "brand:wikidata": "Q5628558",
+        "name": "H.Samuel",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/HSamuelTheJeweller/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hsamuel-f07ca3.jpg",
+      "local_logo_path": "localbrand/logo/hsamuel-f07ca3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HSamuelTheJeweller/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hsamuel-f07ca3.jpg"
+      }
+    },
+    {
+      "displayName": "Hannoush Jewelers",
+      "id": "hannoushjewelers-70f101",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Hannoush Jewelers",
+        "brand:wikidata": "Q135270188",
+        "name": "Hannoush Jewelers",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/HannoushJewelry/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hannoushjewelers-70f101.jpg",
+      "local_logo_path": "localbrand/logo/hannoushjewelers-70f101.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HannoushJewelry/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hannoushjewelers-70f101.jpg"
+      }
+    },
+    {
+      "displayName": "Harry Ritchie's",
+      "id": "harryritchies-70f101",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Harry Ritchie's",
+        "brand:wikidata": "Q108410942",
+        "name": "Harry Ritchie's",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/HarryRitchiesJewelers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harryritchies-70f101.jpg",
+      "local_logo_path": "localbrand/logo/harryritchies-70f101.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HarryRitchiesJewelers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harryritchies-70f101.jpg"
+      }
+    },
+    {
+      "displayName": "Helzberg Diamonds",
+      "id": "helzbergdiamonds-70f101",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Helzberg Diamonds",
+        "brand:wikidata": "Q16995161",
+        "name": "Helzberg Diamonds",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Histoire d'Or",
+      "id": "histoiredor-d59505",
+      "locationSet": {
+        "include": [
+          "be",
+          "fr",
+          "it",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Histoire d'Or",
+        "brand:wikidata": "Q62529245",
+        "name": "Histoire d'Or",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/HistoiredOr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/histoiredor-d59505.jpg",
+      "local_logo_path": "localbrand/logo/histoiredor-d59505.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HistoiredOr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/histoiredor-d59505.jpg"
+      }
+    },
+    {
+      "displayName": "Icing",
+      "id": "icing-30e94f",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Icing",
+        "brand:wikidata": "Q108410029",
+        "name": "Icing",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/ICING/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/icing-30e94f.jpg",
+      "local_logo_path": "localbrand/logo/icing-30e94f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ICING/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/icing-30e94f.jpg"
+      }
+    },
+    {
+      "displayName": "James Avery Jewelry",
+      "id": "jamesaveryjewelry-70f101",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "James Avery Jewelry",
+        "brand:wikidata": "Q6129024",
+        "name": "James Avery Jewelry",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/JamesAvery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jamesaveryjewelry-70f101.png",
+      "local_logo_path": "localbrand/logo/jamesaveryjewelry-70f101.png",
+      "logos": {
+        "original": "https://graph.facebook.com/JamesAvery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jamesaveryjewelry-70f101.png"
+      }
+    },
+    {
+      "displayName": "Jared",
+      "id": "jared-70f101",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Jared",
+        "brand:wikidata": "Q62029282",
+        "name": "Jared",
+        "official_name": "Jared The Galleria of Jewelry",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Jewel Cafe",
+      "id": "jewelcafe-b115a4",
+      "locationSet": {
+        "include": [
+          "hk",
+          "id",
+          "jp",
+          "my",
+          "ph",
+          "sg",
+          "th",
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "Jewel Cafe",
+        "brand:en": "Jewel Cafe",
+        "brand:ja": "ジュエルカフェ",
+        "brand:wikidata": "Q130525475",
+        "name": "Jewel Cafe",
+        "name:en": "Jewel Cafe",
+        "name:ja": "ジュエルカフェ",
+        "operator": "クレイン",
+        "operator:en": "Crane",
+        "operator:ja": "クレイン",
+        "operator:wikidata": "Q11299557",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Jos Alukkas",
+      "id": "josalukkas-96eeb4",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Jos Alukkas",
+        "brand:wikidata": "Q6279093",
+        "name": "Jos Alukkas",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/josalukkasjewellery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/josalukkas-96eeb4.jpg",
+      "local_logo_path": "localbrand/logo/josalukkas-96eeb4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/josalukkasjewellery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/josalukkas-96eeb4.jpg"
+      }
+    },
+    {
+      "displayName": "Josco Jewellers",
+      "id": "joscojewellers-96eeb4",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Josco Jewellers",
+        "brand:wikidata": "Q99521002",
+        "name": "Josco Jewellers",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/JoscoJewellers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/joscojewellers-96eeb4.jpg",
+      "local_logo_path": "localbrand/logo/joscojewellers-96eeb4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JoscoJewellers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/joscojewellers-96eeb4.jpg"
+      }
+    },
+    {
+      "displayName": "Joyalukkas",
+      "id": "joyalukkas-534941",
+      "locationSet": {
+        "include": [
+          "ae",
+          "bh",
+          "gb",
+          "in",
+          "kw",
+          "my",
+          "om",
+          "qa",
+          "sa",
+          "sg",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Joyalukkas",
+        "brand:wikidata": "Q6297357",
+        "name": "Joyalukkas",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/Joyalukkas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/joyalukkas-534941.jpg",
+      "local_logo_path": "localbrand/logo/joyalukkas-534941.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Joyalukkas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/joyalukkas-534941.jpg"
+      }
+    },
+    {
+      "displayName": "Julien d'Orcel",
+      "id": "juliendorcel-05afc6",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Julien d'Orcel",
+        "brand:wikidata": "Q62497463",
+        "name": "Julien d'Orcel",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/juliendorcel.bijouteries/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/juliendorcel-05afc6.jpg",
+      "local_logo_path": "localbrand/logo/juliendorcel-05afc6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/juliendorcel.bijouteries/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/juliendorcel-05afc6.jpg"
+      }
+    },
+    {
+      "displayName": "Juwelier Kraemer",
+      "id": "juwelierkraemer-7f11cf",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Juwelier Kraemer",
+        "brand:wikidata": "Q1785938",
+        "name": "Juwelier Kraemer",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/juwelierekraemer/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/juwelierkraemer-7f11cf.jpg",
+      "local_logo_path": "localbrand/logo/juwelierkraemer-7f11cf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/juwelierekraemer/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/juwelierkraemer-7f11cf.jpg"
+      }
+    },
+    {
+      "displayName": "Kalyan Jewellers",
+      "id": "kalyanjewellers-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Kalyan Jewellers",
+        "brand:wikidata": "Q6354854",
+        "name": "Kalyan Jewellers",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/KalyanJewellersIndia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kalyanjewellers-a038d2.jpg",
+      "local_logo_path": "localbrand/logo/kalyanjewellers-a038d2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KalyanJewellersIndia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kalyanjewellers-a038d2.jpg"
+      }
+    },
+    {
+      "displayName": "Kay Jewelers",
+      "id": "kayjewelers-70f101",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "kay jewelers outlet"
+      ],
+      "tags": {
+        "brand": "Kay Jewelers",
+        "brand:wikidata": "Q62029290",
+        "name": "Kay Jewelers",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/KayJewelers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kayjewelers-70f101.jpg",
+      "local_logo_path": "localbrand/logo/kayjewelers-70f101.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KayJewelers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kayjewelers-70f101.jpg"
+      }
+    },
+    {
+      "displayName": "Kendra Scott",
+      "id": "kendrascott-70f101",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/clothes"
+      ],
+      "tags": {
+        "brand": "Kendra Scott",
+        "brand:wikidata": "Q120885584",
+        "name": "Kendra Scott",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/KendraScott/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kendrascott-70f101.png",
+      "local_logo_path": "localbrand/logo/kendrascott-70f101.png",
+      "logos": {
+        "original": "https://graph.facebook.com/KendraScott/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kendrascott-70f101.png"
+      }
+    },
+    {
+      "displayName": "Klenoty Aurum",
+      "id": "klenotyaurum-90a468",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "Klenoty Aurum",
+        "brand:wikidata": "Q54961063",
+        "name": "Klenoty Aurum",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/KlenotyAurumOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/klenotyaurum-90a468.jpg",
+      "local_logo_path": "localbrand/logo/klenotyaurum-90a468.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KlenotyAurumOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/klenotyaurum-90a468.jpg"
+      }
+    },
+    {
+      "displayName": "Life Vivara",
+      "id": "lifevivara-c81860",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Life Vivara",
+        "brand:wikidata": "Q72611919",
+        "name": "Life Vivara",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/Vivara/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lifevivara-c81860.jpg",
+      "local_logo_path": "localbrand/logo/lifevivara-c81860.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Vivara/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lifevivara-c81860.jpg"
+      }
+    },
+    {
+      "displayName": "Louis Pion",
+      "id": "louispion-381def",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Louis Pion",
+        "brand:wikidata": "Q18745303",
+        "name": "Louis Pion",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/LouisPionOfficiel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/louispion-381def.jpg",
+      "local_logo_path": "localbrand/logo/louispion-381def.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LouisPionOfficiel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/louispion-381def.jpg"
+      }
+    },
+    {
+      "displayName": "Lovisa",
+      "id": "lovisa-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Lovisa",
+        "brand:wikidata": "Q106298409",
+        "name": "Lovisa",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/lovisajewellery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lovisa-a038d2.png",
+      "local_logo_path": "localbrand/logo/lovisa-a038d2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/lovisajewellery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lovisa-a038d2.png"
+      }
+    },
+    {
+      "displayName": "Lucardi",
+      "id": "lucardi-0e6622",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "matchNames": [
+        "lucardi juwelier"
+      ],
+      "tags": {
+        "brand": "Lucardi",
+        "brand:wikidata": "Q13774940",
+        "name": "Lucardi",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/LucardiJuwelier/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lucardi-0e6622.jpg",
+      "local_logo_path": "localbrand/logo/lucardi-0e6622.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LucardiJuwelier/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lucardi-0e6622.jpg"
+      }
+    },
+    {
+      "displayName": "Maison Birks",
+      "id": "maisonbirks-7fc58d",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "birks"
+      ],
+      "tags": {
+        "brand": "Maison Birks",
+        "brand:wikidata": "Q123409905",
+        "name": "Maison Birks",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/birksjewellery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maisonbirks-7fc58d.jpg",
+      "local_logo_path": "localbrand/logo/maisonbirks-7fc58d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/birksjewellery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maisonbirks-7fc58d.jpg"
+      }
+    },
+    {
+      "displayName": "Malabar Gold and Diamonds",
+      "id": "malabargoldanddiamonds-9fa2ef",
+      "locationSet": {
+        "include": [
+          "ae",
+          "bh",
+          "in",
+          "kw",
+          "my",
+          "om",
+          "qa",
+          "sa",
+          "sg",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Malabar Gold and Diamonds",
+        "brand:wikidata": "Q60748883",
+        "name": "Malabar Gold and Diamonds",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/malabargoldanddiamonds/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/malabargoldanddiamonds-9fa2ef.png",
+      "local_logo_path": "localbrand/logo/malabargoldanddiamonds-9fa2ef.png",
+      "logos": {
+        "original": "https://graph.facebook.com/malabargoldanddiamonds/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/malabargoldanddiamonds-9fa2ef.png"
+      }
+    },
+    {
+      "displayName": "Manège à Bijoux",
+      "id": "manegeabijoux-381def",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Manège à Bijoux",
+        "brand:wikidata": "Q1273376",
+        "name": "Manège à Bijoux",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/E.Leclerc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manegeabijoux-381def.jpg",
+      "local_logo_path": "localbrand/logo/manegeabijoux-381def.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/E.Leclerc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manegeabijoux-381def.jpg"
+      }
+    },
+    {
+      "displayName": "Marc Orian",
+      "id": "marcorian-381def",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Marc Orian",
+        "brand:wikidata": "Q99848767",
+        "name": "Marc Orian",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/MarcOrianOfficiel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marcorian-381def.png",
+      "local_logo_path": "localbrand/logo/marcorian-381def.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MarcOrianOfficiel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marcorian-381def.png"
+      }
+    },
+    {
+      "displayName": "MATY",
+      "id": "maty-381def",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "MATY",
+        "brand:wikidata": "Q3300005",
+        "name": "MATY",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/MATY.bijoutier/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maty-381def.jpg",
+      "local_logo_path": "localbrand/logo/maty-381def.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MATY.bijoutier/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maty-381def.jpg"
+      }
+    },
+    {
+      "displayName": "Mauboussin",
+      "id": "mauboussin-b46d44",
+      "locationSet": {
+        "include": [
+          "fx",
+          "lu"
+        ]
+      },
+      "tags": {
+        "brand": "Mauboussin",
+        "brand:wikidata": "Q3300085",
+        "name": "Mauboussin",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/Mauboussin.Officiel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mauboussin-b46d44.png",
+      "local_logo_path": "localbrand/logo/mauboussin-b46d44.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Mauboussin.Officiel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mauboussin-b46d44.png"
+      }
+    },
+    {
+      "displayName": "Messika",
+      "id": "messika-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Messika",
+        "brand:wikidata": "Q104889722",
+        "name": "Messika",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/MessikaJewelry/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/messika-a038d2.jpg",
+      "local_logo_path": "localbrand/logo/messika-a038d2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MessikaJewelry/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/messika-a038d2.jpg"
+      }
+    },
+    {
+      "displayName": "Michael Hill",
+      "id": "michaelhill-4ffa40",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "nz",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Michael Hill",
+        "brand:wikidata": "Q3308250",
+        "name": "Michael Hill",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/MichaelHillJ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/michaelhill-4ffa40.jpg",
+      "local_logo_path": "localbrand/logo/michaelhill-4ffa40.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MichaelHillJ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/michaelhill-4ffa40.jpg"
+      }
+    },
+    {
+      "displayName": "Mimco",
+      "id": "mimco-0359a8",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Mimco",
+        "brand:wikidata": "Q106014291",
+        "name": "Mimco",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/mimco.accessories/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mimco-0359a8.jpg",
+      "local_logo_path": "localbrand/logo/mimco-0359a8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mimco.accessories/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mimco-0359a8.jpg"
+      }
+    },
+    {
+      "displayName": "Morgan Jewelers",
+      "id": "morganjewelers-70f101",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Morgan Jewelers",
+        "brand:wikidata": "Q108413488",
+        "name": "Morgan Jewelers",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/morganjewelers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morganjewelers-70f101.jpg",
+      "local_logo_path": "localbrand/logo/morganjewelers-70f101.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/morganjewelers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morganjewelers-70f101.jpg"
+      }
+    },
+    {
+      "displayName": "My Jewellery",
+      "id": "myjewellery-ffe265",
+      "locationSet": {
+        "include": [
+          "be",
+          "de",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "My Jewellery",
+        "brand:wikidata": "Q123655125",
+        "name": "My Jewellery",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/MyJewellerycom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/myjewellery-ffe265.png",
+      "local_logo_path": "localbrand/logo/myjewellery-ffe265.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MyJewellerycom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/myjewellery-ffe265.png"
+      }
+    },
+    {
+      "displayName": "Na Hoku",
+      "id": "nahoku-70f101",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Na Hoku",
+        "brand:wikidata": "Q108410100",
+        "name": "Na Hoku",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/NaHoku/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nahoku-70f101.png",
+      "local_logo_path": "localbrand/logo/nahoku-70f101.png",
+      "logos": {
+        "original": "https://graph.facebook.com/NaHoku/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nahoku-70f101.png"
+      }
+    },
+    {
+      "displayName": "OROVIVO",
+      "id": "orovivo-7f11cf",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "OROVIVO",
+        "brand:wikidata": "Q107064745",
+        "name": "OROVIVO",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/OROVIVO1856/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orovivo-7f11cf.jpg",
+      "local_logo_path": "localbrand/logo/orovivo-7f11cf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OROVIVO1856/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orovivo-7f11cf.jpg"
+      }
+    },
+    {
+      "displayName": "Pan Club",
+      "id": "panclub-ee45ea",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "matchNames": [
+        "pandora"
+      ],
+      "tags": {
+        "brand": "Pan Club",
+        "brand:wikidata": "Q139729930",
+        "name": "Pan Club",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Pandora",
+      "id": "pandora-4cd414",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Pandora",
+        "brand:wikidata": "Q2241604",
+        "name": "Pandora",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/PANDORA.Japan/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pandora-4cd414.jpg",
+      "local_logo_path": "localbrand/logo/pandora-4cd414.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PANDORA.Japan/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pandora-4cd414.jpg"
+      }
+    },
+    {
+      "displayName": "PC Jeweller",
+      "id": "pcjeweller-96eeb4",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "PC Jeweller",
+        "brand:wikidata": "Q17082520",
+        "name": "PC Jeweller",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/PCJINDIA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pcjeweller-96eeb4.jpg",
+      "local_logo_path": "localbrand/logo/pcjeweller-96eeb4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PCJINDIA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pcjeweller-96eeb4.jpg"
+      }
+    },
+    {
+      "displayName": "Peoples Jewellers",
+      "id": "peoplesjewellers-7fc58d",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Peoples Jewellers",
+        "brand:wikidata": "Q64995558",
+        "name": "Peoples Jewellers",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/Peoples/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/peoplesjewellers-7fc58d.jpg",
+      "local_logo_path": "localbrand/logo/peoplesjewellers-7fc58d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Peoples/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/peoplesjewellers-7fc58d.jpg"
+      }
+    },
+    {
+      "displayName": "Piaget",
+      "id": "piaget-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/watches"
+      ],
+      "tags": {
+        "brand": "Piaget",
+        "brand:wikidata": "Q658961",
+        "name": "Piaget",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/piaget/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/piaget-a038d2.jpg",
+      "local_logo_path": "localbrand/logo/piaget-a038d2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/piaget/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/piaget-a038d2.jpg"
+      }
+    },
+    {
+      "displayName": "Pinky Club",
+      "id": "pinkyclub-584c2c",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Pinky Club",
+        "brand:wikidata": "Q134271423",
+        "name": "Pinky Club",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/pinkyclub.sk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pinkyclub-584c2c.jpg",
+      "local_logo_path": "localbrand/logo/pinkyclub-584c2c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pinkyclub.sk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pinkyclub-584c2c.jpg"
+      }
+    },
+    {
+      "displayName": "Pletzsch",
+      "id": "pletzsch-7f11cf",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Pletzsch",
+        "brand:wikidata": "Q107983094",
+        "name": "Pletzsch",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/juwelier.pletzsch/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pletzsch-7f11cf.jpg",
+      "local_logo_path": "localbrand/logo/pletzsch-7f11cf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/juwelier.pletzsch/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pletzsch-7f11cf.jpg"
+      }
+    },
+    {
+      "displayName": "PNJ",
+      "id": "pnj-a9c8da",
+      "locationSet": {
+        "include": [
+          "vn"
+        ]
+      },
+      "tags": {
+        "brand": "PNJ",
+        "brand:wikidata": "Q61129183",
+        "name": "PNJ",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/PNJ.COM.VN/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pnj-a9c8da.jpg",
+      "local_logo_path": "localbrand/logo/pnj-a9c8da.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PNJ.COM.VN/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pnj-a9c8da.jpg"
+      }
+    },
+    {
+      "displayName": "Prouds",
+      "id": "prouds-0359a8",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Prouds",
+        "brand:wikidata": "Q18636715",
+        "name": "Prouds",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Schaap en Citroen",
+      "id": "schaapencitroen-0e6622",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Schaap en Citroen",
+        "brand:wikidata": "Q1984947",
+        "name": "Schaap en Citroen",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/SchaapenCitroen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/schaapencitroen-0e6622.jpg",
+      "local_logo_path": "localbrand/logo/schaapencitroen-0e6622.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SchaapenCitroen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/schaapencitroen-0e6622.jpg"
+      }
+    },
+    {
+      "displayName": "Shane Co.",
+      "id": "shaneco-70f101",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Shane Co.",
+        "brand:wikidata": "Q7488019",
+        "name": "Shane Co.",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/shanecompany/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shaneco-70f101.jpg",
+      "local_logo_path": "localbrand/logo/shaneco-70f101.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/shanecompany/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shaneco-70f101.jpg"
+      }
+    },
+    {
+      "displayName": "Sofia",
+      "id": "sofia-584c2c",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Sofia",
+        "brand:wikidata": "Q116885611",
+        "name": "Sofia",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Sokolov",
+      "id": "sokolov-3b0253",
+      "locationSet": {
+        "include": [
+          "by",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Sokolov",
+        "name": "Sokolov",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Sterns",
+      "id": "sterns-d5d8d2",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Sterns",
+        "brand:wikidata": "Q116430300",
+        "name": "Sterns",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/SternsJewellery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sterns-d5d8d2.png",
+      "local_logo_path": "localbrand/logo/sterns-d5d8d2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SternsJewellery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sterns-d5d8d2.png"
+      }
+    },
+    {
+      "displayName": "Stroili Oro",
+      "id": "stroilioro-60a080",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Stroili Oro",
+        "brand:wikidata": "Q106611306",
+        "name": "Stroili Oro",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/StroiliOro/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stroilioro-60a080.jpg",
+      "local_logo_path": "localbrand/logo/stroilioro-60a080.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/StroiliOro/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stroilioro-60a080.jpg"
+      }
+    },
+    {
+      "displayName": "Sunlight",
+      "id": "sunlight-ee45ea",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Sunlight",
+        "name": "Sunlight",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Swarovski",
+      "id": "swarovski-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Swarovski",
+        "brand:wikidata": "Q611115",
+        "name": "Swarovski",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/SWAROVSKI.NorthAmerica/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swarovski-a038d2.jpg",
+      "local_logo_path": "localbrand/logo/swarovski-a038d2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SWAROVSKI.NorthAmerica/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swarovski-a038d2.jpg"
+      }
+    },
+    {
+      "displayName": "Tanishq",
+      "id": "tanishq-96eeb4",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Tanishq",
+        "brand:en": "Tanishq",
+        "brand:wikidata": "Q13117711",
+        "name": "Tanishq",
+        "name:en": "Tanishq",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/Tanishq/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tanishq-96eeb4.jpg",
+      "local_logo_path": "localbrand/logo/tanishq-96eeb4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Tanishq/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tanishq-96eeb4.jpg"
+      }
+    },
+    {
+      "displayName": "Thomas Sabo",
+      "id": "thomassabo-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Thomas Sabo",
+        "brand:wikidata": "Q13415716",
+        "name": "Thomas Sabo",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/THOMASSABOFanpage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thomassabo-a038d2.jpg",
+      "local_logo_path": "localbrand/logo/thomassabo-a038d2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/THOMASSABOFanpage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thomassabo-a038d2.jpg"
+      }
+    },
+    {
+      "displayName": "Tiffany & Company",
+      "id": "tiffanyandcompany-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "tiffany",
+        "tiffany's"
+      ],
+      "tags": {
+        "brand": "Tiffany & Company",
+        "brand:wikidata": "Q1066858",
+        "name": "Tiffany & Company",
+        "official_name": "Tiffany & Co.",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/Tiffany/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tiffanyandcompany-a038d2.jpg",
+      "local_logo_path": "localbrand/logo/tiffanyandcompany-a038d2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Tiffany/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tiffanyandcompany-a038d2.jpg"
+      }
+    },
+    {
+      "displayName": "Titan",
+      "id": "titan-96eeb4",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Titan",
+        "brand:wikidata": "Q3536932",
+        "name": "Titan",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Titan_Company_Logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/titan-96eeb4.png",
+      "local_logo_path": "localbrand/logo/titan-96eeb4.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/8/83/Titan_Company_Logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/titan-96eeb4.png"
+      }
+    },
+    {
+      "displayName": "Tous",
+      "id": "tous-a038d2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Tous",
+        "brand:wikidata": "Q3815128",
+        "name": "Tous",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/tousjewelry/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tous-a038d2.jpg",
+      "local_logo_path": "localbrand/logo/tous-a038d2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tousjewelry/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tous-a038d2.jpg"
+      }
+    },
+    {
+      "displayName": "Ur&Penn",
+      "id": "urandpenn-f353be",
+      "locationSet": {
+        "include": [
+          "fi",
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Ur&Penn",
+        "brand:wikidata": "Q10710340",
+        "name": "Ur&Penn",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/uropenn/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/urandpenn-f353be.jpg",
+      "local_logo_path": "localbrand/logo/urandpenn-f353be.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/uropenn/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/urandpenn-f353be.jpg"
+      }
+    },
+    {
+      "displayName": "Valmano",
+      "id": "valmano-1052ca",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "dk",
+          "fx",
+          "it",
+          "nl",
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Valmano",
+        "brand:wikidata": "Q116151710",
+        "name": "Valmano",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/Valmano.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/valmano-1052ca.jpg",
+      "local_logo_path": "localbrand/logo/valmano-1052ca.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Valmano.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/valmano-1052ca.jpg"
+      }
+    },
+    {
+      "displayName": "Vestopazzo",
+      "id": "vestopazzo-bad0af",
+      "locationSet": {
+        "include": [
+          "es",
+          "it",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "Vestopazzo",
+        "brand:wikidata": "Q137293203",
+        "name": "Vestopazzo",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/vestopazzofanpage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vestopazzo-bad0af.jpg",
+      "local_logo_path": "localbrand/logo/vestopazzo-bad0af.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/vestopazzofanpage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vestopazzo-bad0af.jpg"
+      }
+    },
+    {
+      "displayName": "Vivara",
+      "id": "vivara-c81860",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Vivara",
+        "brand:wikidata": "Q72611919",
+        "name": "Vivara",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/Vivara/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vivara-c81860.jpg",
+      "local_logo_path": "localbrand/logo/vivara-c81860.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Vivara/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vivara-c81860.jpg"
+      }
+    },
+    {
+      "displayName": "W. Kruk",
+      "id": "wkruk-0f1493",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "W. Kruk",
+        "brand:wikidata": "Q9369274",
+        "name": "W. Kruk",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/WKRUK1840/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wkruk-0f1493.jpg",
+      "local_logo_path": "localbrand/logo/wkruk-0f1493.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WKRUK1840/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wkruk-0f1493.jpg"
+      }
+    },
+    {
+      "displayName": "Wallace Bishop",
+      "id": "wallacebishop-0359a8",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Wallace Bishop",
+        "brand:wikidata": "Q18636699",
+        "name": "Wallace Bishop",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Warren James",
+      "id": "warrenjames-f07ca3",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Warren James",
+        "brand:wikidata": "Q19604616",
+        "name": "Warren James",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/warrenjamesjewellers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/warrenjames-f07ca3.jpg",
+      "local_logo_path": "localbrand/logo/warrenjames-f07ca3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/warrenjamesjewellers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/warrenjames-f07ca3.jpg"
+      }
+    },
+    {
+      "displayName": "Wempe",
+      "id": "wempe-811e73",
+      "locationSet": {
+        "include": [
+          "at",
+          "de",
+          "es",
+          "fx",
+          "gb",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Wempe",
+        "brand:wikidata": "Q1483424",
+        "name": "Wempe",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/hauswempe/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wempe-811e73.jpg",
+      "local_logo_path": "localbrand/logo/wempe-811e73.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hauswempe/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wempe-811e73.jpg"
+      }
+    },
+    {
+      "displayName": "Yes",
+      "id": "yes-aa593d",
+      "locationSet": {
+        "include": [
+          "cz",
+          "pl",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Yes",
+        "brand:wikidata": "Q133424269",
+        "name": "Yes",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/yesjewellery.official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yes-aa593d.jpg",
+      "local_logo_path": "localbrand/logo/yes-aa593d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/yesjewellery.official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yes-aa593d.jpg"
+      }
+    },
+    {
+      "displayName": "Zales",
+      "id": "zales-70f101",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Zales",
+        "brand:wikidata": "Q8065305",
+        "name": "Zales",
+        "official_name": "Zales The Diamond Store",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/Zales/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zales-70f101.jpg",
+      "local_logo_path": "localbrand/logo/zales-70f101.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Zales/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zales-70f101.jpg"
+      }
+    },
+    {
+      "displayName": "Ziko",
+      "id": "ziko-007daa",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "tags": {
+        "brand": "Ziko",
+        "name": "Ziko",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Zlatarna Celje",
+      "id": "zlatarnacelje-702c99",
+      "locationSet": {
+        "include": [
+          "ba",
+          "bg",
+          "hr",
+          "me",
+          "mk",
+          "rs",
+          "si"
+        ]
+      },
+      "tags": {
+        "brand": "Zlatarna Celje",
+        "brand:wikidata": "Q19736656",
+        "name": "Zlatarna Celje",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/zlatarnacelje1844/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zlatarnacelje-702c99.jpg",
+      "local_logo_path": "localbrand/logo/zlatarnacelje-702c99.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/zlatarnacelje1844/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zlatarnacelje-702c99.jpg"
+      }
+    },
+    {
+      "displayName": "Адамас",
+      "id": "adamas-ee45ea",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Адамас",
+        "brand:en": "Adamas",
+        "brand:ru": "Адамас",
+        "brand:wikidata": "Q62393709",
+        "name": "Адамас",
+        "name:en": "Adamas",
+        "name:ru": "Адамас",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/adamas.club/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adamas-ee45ea.jpg",
+      "local_logo_path": "localbrand/logo/adamas-ee45ea.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/adamas.club/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adamas-ee45ea.jpg"
+      }
+    },
+    {
+      "displayName": "Алмаз",
+      "id": "3cdc69-ee45ea",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Алмаз",
+        "name": "Алмаз",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Бронницкий ювелир",
+      "id": "5fd332-ee45ea",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Бронницкий ювелир",
+        "name": "Бронницкий ювелир",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Золотая мечта",
+      "id": "golddream-007daa",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "tags": {
+        "brand": "Золотая мечта",
+        "brand:en": "Gold Dream",
+        "brand:ru": "Золотая мечта",
+        "name": "Золотая мечта",
+        "name:en": "Gold Dream",
+        "name:ru": "Золотая мечта",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Золотий Вік",
+      "id": "cc67fd-a7f1e4",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "tags": {
+        "brand": "Золотий Вік",
+        "brand:wikidata": "Q113335928",
+        "name": "Золотий Вік",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/zolotoyvek.ua/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cc67fd-a7f1e4.jpg",
+      "local_logo_path": "localbrand/logo/cc67fd-a7f1e4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/zolotoyvek.ua/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cc67fd-a7f1e4.jpg"
+      }
+    },
+    {
+      "displayName": "Кристалл",
+      "id": "a1e123-3b0253",
+      "locationSet": {
+        "include": [
+          "by",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Кристалл",
+        "name": "Кристалл",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Линии Любви",
+      "id": "2ec8d9-ee45ea",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Линии Любви",
+        "name": "Линии Любви",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Наше Золото",
+      "id": "1cc04b-ee45ea",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Наше Золото",
+        "name": "Наше Золото",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Столична Ювелірна Фабрика",
+      "id": "520daf-a7f1e4",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "stolychna",
+        "столична"
+      ],
+      "tags": {
+        "brand": "Столична Ювелірна Фабрика",
+        "brand:wikidata": "Q132776614",
+        "name": "Столична Ювелірна Фабрика",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/stolychna/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/520daf-a7f1e4.jpg",
+      "local_logo_path": "localbrand/logo/520daf-a7f1e4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/stolychna/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/520daf-a7f1e4.jpg"
+      }
+    },
+    {
+      "displayName": "Укрзолото",
+      "id": "ukrzoloto-a7f1e4",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "tags": {
+        "brand": "Укрзолото",
+        "brand:en": "Ukrzoloto",
+        "brand:uk": "Укрзолото",
+        "brand:wikidata": "Q12164384",
+        "name": "Укрзолото",
+        "name:en": "Ukrzoloto",
+        "name:uk": "Укрзолото",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/ukrzoloto/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ukrzoloto-a7f1e4.png",
+      "local_logo_path": "localbrand/logo/ukrzoloto-a7f1e4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ukrzoloto/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ukrzoloto-a7f1e4.png"
+      }
+    },
+    {
+      "displayName": "Царское Золото",
+      "id": "39bbc8-007daa",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "tags": {
+        "brand": "Царское Золото",
+        "name": "Царское Золото",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "الرميزان",
+      "id": "e1503c-2cd024",
+      "locationSet": {
+        "include": [
+          "ae",
+          "qa"
+        ]
+      },
+      "tags": {
+        "brand": "الرميزان",
+        "name": "الرميزان",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "ツツミ",
+      "id": "tsutsumi-36e4b3",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ツツミ",
+        "brand:en": "Tsutsumi",
+        "brand:ja": "ツツミ",
+        "brand:wikidata": "Q11318759",
+        "name": "ツツミ",
+        "name:en": "Tsutsumi",
+        "name:ja": "ツツミ",
+        "official_name": "ジュエリーツツミ",
+        "official_name:en": "Jewelry Tsutsumi",
+        "official_name:ja": "ジュエリーツツミ",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/JewelryTsutsumi/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tsutsumi-36e4b3.jpg",
+      "local_logo_path": "localbrand/logo/tsutsumi-36e4b3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JewelryTsutsumi/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tsutsumi-36e4b3.jpg"
+      }
+    },
+    {
+      "displayName": "三井貴金屬",
+      "id": "9074c9-a7992b",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "三井貴金屬",
+        "brand:wikidata": "Q130525509",
+        "brand:zh": "三井貴金屬",
+        "name": "三井貴金屬",
+        "name:zh": "三井貴金屬",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/101286445547416/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/9074c9-a7992b.png",
+      "local_logo_path": "localbrand/logo/9074c9-a7992b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/101286445547416/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/9074c9-a7992b.png"
+      }
+    },
+    {
+      "displayName": "今生金飾",
+      "id": "goldenlife-a7992b",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "今生金飾",
+        "brand:en": "GoldenLife",
+        "brand:wikidata": "Q126459819",
+        "brand:zh": "今生金飾",
+        "name": "今生金飾",
+        "name:en": "GoldenLife",
+        "name:zh": "今生金飾",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/Forever.GoldenLife/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goldenlife-a7992b.jpg",
+      "local_logo_path": "localbrand/logo/goldenlife-a7992b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Forever.GoldenLife/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goldenlife-a7992b.jpg"
+      }
+    },
+    {
+      "displayName": "六福珠宝",
+      "id": "lukfookjewellery-7fe408",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "cn",
+          "kh",
+          "my",
+          "sg",
+          "us"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "六福珠宝",
+        "brand:en": "Lukfook Jewellery",
+        "brand:wikidata": "Q10893397",
+        "brand:zh": "六福珠宝",
+        "name": "六福珠宝",
+        "name:en": "Lukfook Jewellery",
+        "name:zh": "六福珠宝",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/lukfook/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lukfookjewellery-7fe408.jpg",
+      "local_logo_path": "localbrand/logo/lukfookjewellery-7fe408.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lukfook/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lukfookjewellery-7fe408.jpg"
+      }
+    },
+    {
+      "displayName": "六福珠寶 Lukfook Jewellery",
+      "id": "lukfookjewellery-2f2ea0",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "matchNames": [
+        "六福"
+      ],
+      "tags": {
+        "brand": "六福珠寶 Lukfook Jewellery",
+        "brand:en": "Lukfook Jewellery",
+        "brand:wikidata": "Q10893397",
+        "brand:zh": "六福珠寶",
+        "brand:zh-Hans": "六福珠宝",
+        "brand:zh-Hant": "六福珠寶",
+        "name": "六福珠寶 Lukfook Jewellery",
+        "name:en": "Lukfook Jewellery",
+        "name:zh": "六福珠寶",
+        "name:zh-Hans": "六福珠宝",
+        "name:zh-Hant": "六福珠寶",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/lukfook/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lukfookjewellery-2f2ea0.jpg",
+      "local_logo_path": "localbrand/logo/lukfookjewellery-2f2ea0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lukfook/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lukfookjewellery-2f2ea0.jpg"
+      }
+    },
+    {
+      "displayName": "周大福",
+      "id": "chowtaifook-4629af",
+      "locationSet": {
+        "include": [
+          "cn",
+          "jp",
+          "kr",
+          "my",
+          "sg",
+          "tw",
+          "us"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "周大福",
+        "brand:en": "Chow Tai Fook",
+        "brand:wikidata": "Q48880993",
+        "brand:zh": "周大福",
+        "name": "周大福",
+        "name:en": "Chow Tai Fook",
+        "name:zh": "周大福",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/CHOWTAIFOOK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chowtaifook-4629af.jpg",
+      "local_logo_path": "localbrand/logo/chowtaifook-4629af.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CHOWTAIFOOK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chowtaifook-4629af.jpg"
+      }
+    },
+    {
+      "displayName": "周大福 Chow Tai Fook",
+      "id": "chowtaifook-2f2ea0",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "周大福 Chow Tai Fook",
+        "brand:en": "Chow Tai Fook",
+        "brand:wikidata": "Q48880993",
+        "brand:zh": "周大福",
+        "brand:zh-Hans": "周大福",
+        "brand:zh-Hant": "周大福",
+        "name": "周大福 Chow Tai Fook",
+        "name:en": "Chow Tai Fook",
+        "name:zh": "周大福",
+        "name:zh-Hans": "周大福",
+        "name:zh-Hant": "周大福",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/CHOWTAIFOOK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chowtaifook-2f2ea0.jpg",
+      "local_logo_path": "localbrand/logo/chowtaifook-2f2ea0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CHOWTAIFOOK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chowtaifook-2f2ea0.jpg"
+      }
+    },
+    {
+      "displayName": "周生生",
+      "id": "chowsangsang-5b0727",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "周生生",
+        "brand:en": "Chow Sang Sang",
+        "brand:wikidata": "Q10920877",
+        "brand:zh": "周生生",
+        "name": "周生生",
+        "name:en": "Chow Sang Sang",
+        "name:zh": "周生生",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/chowsangsang/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chowsangsang-5b0727.jpg",
+      "local_logo_path": "localbrand/logo/chowsangsang-5b0727.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/chowsangsang/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chowsangsang-5b0727.jpg"
+      }
+    },
+    {
+      "displayName": "周生生 Chow Sang Sang",
+      "id": "chowsangsang-2f2ea0",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "周生生 Chow Sang Sang",
+        "brand:en": "Chow Sang Sang",
+        "brand:wikidata": "Q10920877",
+        "brand:zh": "周生生",
+        "brand:zh-Hans": "周生生",
+        "brand:zh-Hant": "周生生",
+        "name": "周生生 Chow Sang Sang",
+        "name:en": "Chow Sang Sang",
+        "name:zh": "周生生",
+        "name:zh-Hans": "周生生",
+        "name:zh-Hant": "周生生",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/chowsangsang/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chowsangsang-2f2ea0.jpg",
+      "local_logo_path": "localbrand/logo/chowsangsang-2f2ea0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/chowsangsang/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chowsangsang-2f2ea0.jpg"
+      }
+    },
+    {
+      "displayName": "老凤祥",
+      "id": "laofengxiang-45876e",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "cn",
+          "us"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "老凤祥",
+        "brand:en": "Lao Feng Xiang",
+        "brand:wikidata": "Q15910313",
+        "brand:zh": "老凤祥",
+        "name": "老凤祥",
+        "name:en": "Lao Feng Xiang",
+        "name:zh": "老凤祥",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/laofengxianghk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laofengxiang-45876e.jpg",
+      "local_logo_path": "localbrand/logo/laofengxiang-45876e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/laofengxianghk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laofengxiang-45876e.jpg"
+      }
+    },
+    {
+      "displayName": "老鳳祥銀樓 Lao Feng Xiang Jewellery",
+      "id": "laofengxiang-2f2ea0",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "matchNames": [
+        "老鳳祥"
+      ],
+      "tags": {
+        "brand": "老鳳祥銀樓 Lao Feng Xiang Jewellery",
+        "brand:en": "Lao Feng Xiang Jewellery",
+        "brand:wikidata": "Q15910313",
+        "brand:zh": "老鳳祥銀樓",
+        "brand:zh-Hans": "老凤祥银楼",
+        "brand:zh-Hant": "老鳳祥銀樓",
+        "name": "老鳳祥銀樓 Lao Feng Xiang Jewellery",
+        "name:en": "Lao Feng Xiang",
+        "name:zh": "老鳳祥銀樓",
+        "name:zh-Hans": "老凤祥银楼",
+        "name:zh-Hant": "老鳳祥銀樓",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/laofengxianghk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laofengxiang-2f2ea0.jpg",
+      "local_logo_path": "localbrand/logo/laofengxiang-2f2ea0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/laofengxianghk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laofengxiang-2f2ea0.jpg"
+      }
+    },
+    {
+      "displayName": "謝瑞麟珠寶 TSL Jewellery",
+      "id": "tsl-2f2ea0",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "謝瑞麟珠寶 TSL Jewellery",
+        "brand:en": "TSL",
+        "brand:wikidata": "Q13164530",
+        "brand:zh": "謝瑞麟珠寶",
+        "brand:zh-Hans": "谢瑞麟珠宝",
+        "brand:zh-Hant": "謝瑞麟珠寶",
+        "name": "謝瑞麟 TSL",
+        "name:en": "TSL",
+        "name:zh-Hans": "谢瑞麟",
+        "name:zh-Hant": "謝瑞麟",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/TSLlifestyle/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tsl-2f2ea0.jpg",
+      "local_logo_path": "localbrand/logo/tsl-2f2ea0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TSLlifestyle/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tsl-2f2ea0.jpg"
+      }
+    },
+    {
+      "displayName": "谢瑞麟珠宝",
+      "id": "tsl-7fb071",
+      "locationSet": {
+        "include": [
+          "cn",
+          "my"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "谢瑞麟珠宝",
+        "brand:en": "TSL",
+        "brand:wikidata": "Q13164530",
+        "brand:zh": "谢瑞麟珠宝",
+        "brand:zh-Hans": "谢瑞麟珠宝",
+        "brand:zh-Hant": "謝瑞麟珠寶",
+        "name": "谢瑞麟",
+        "name:en": "TSL",
+        "name:zh-Hans": "谢瑞麟",
+        "name:zh-Hant": "謝瑞麟",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/TSLlifestyle/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tsl-7fb071.jpg",
+      "local_logo_path": "localbrand/logo/tsl-7fb071.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TSLlifestyle/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tsl-7fb071.jpg"
+      }
+    },
+    {
+      "displayName": "金至尊珠寶 3DG Jewellery",
+      "id": "3dgjewellery-f29a00",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "matchNames": [
+        "金至尊"
+      ],
+      "tags": {
+        "brand": "金至尊珠寶 3DG Jewellery",
+        "brand:en": "3DG Jewellery",
+        "brand:wikidata": "Q15921454",
+        "brand:zh": "金至尊珠寶",
+        "brand:zh-Hans": "金至尊珠宝",
+        "brand:zh-Hant": "金至尊珠寶",
+        "name": "金至尊珠寶 3DG Jewellery",
+        "name:en": "3DG Jewellery",
+        "name:zh": "金至尊珠寶",
+        "name:zh-Hans": "金至尊珠宝",
+        "name:zh-Hant": "金至尊珠寶",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/3DGJewellery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/3dgjewellery-f29a00.jpg",
+      "local_logo_path": "localbrand/logo/3dgjewellery-f29a00.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/3DGJewellery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/3dgjewellery-f29a00.jpg"
+      }
+    },
+    {
+      "displayName": "點睛品",
+      "id": "emphasis-a7992b",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "點睛品",
+        "brand:en": "Emphasis",
+        "brand:wikidata": "Q126457805",
+        "brand:zh": "點睛品",
+        "name": "點睛品",
+        "name:en": "Emphasis",
+        "name:zh": "點睛品",
+        "operator": "周生生集團",
+        "operator:wikidata": "Q10920877",
+        "shop": "jewelry"
+      },
+      "original_logo_url": "https://graph.facebook.com/emphasis.hk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/emphasis-a7992b.jpg",
+      "local_logo_path": "localbrand/logo/emphasis-a7992b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/emphasis.hk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/emphasis-a7992b.jpg"
+      }
+    }
+  ]
+}

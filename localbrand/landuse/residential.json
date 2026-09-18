@@ -1,0 +1,288 @@
+{
+  "properties": {
+    "path": "brands/landuse/residential",
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^residential$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Ashford Communities",
+      "id": "ashfordcommunities-15ede0",
+      "locationSet": {
+        "include": [
+          "us-tx.geojson"
+        ]
+      },
+      "matchNames": [
+        "ashford"
+      ],
+      "tags": {
+        "brand": "Ashford Communities",
+        "brand:wikidata": "Q134701622",
+        "landuse": "residential",
+        "residential": "apartments"
+      },
+      "original_logo_url": "https://graph.facebook.com/LiveAtAshford/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ashfordcommunities-15ede0.jpg",
+      "local_logo_path": "localbrand/logo/ashfordcommunities-15ede0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LiveAtAshford/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ashfordcommunities-15ede0.jpg"
+      }
+    },
+    {
+      "displayName": "AVA",
+      "id": "ava-4e5c5e",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "AVA",
+        "brand:wikidata": "Q134707069",
+        "landuse": "residential",
+        "operator": "AvalonBay",
+        "operator:wikidata": "Q4827537",
+        "residential": "apartments"
+      },
+      "original_logo_url": "https://graph.facebook.com/AVAApartments/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ava-4e5c5e.jpg",
+      "local_logo_path": "localbrand/logo/ava-4e5c5e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AVAApartments/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ava-4e5c5e.jpg"
+      }
+    },
+    {
+      "displayName": "Avalon",
+      "id": "avalon-4e5c5e",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Avalon",
+        "brand:wikidata": "Q64665938",
+        "landuse": "residential",
+        "operator": "AvalonBay",
+        "operator:wikidata": "Q4827537",
+        "residential": "apartments"
+      },
+      "original_logo_url": "https://graph.facebook.com/LiveAvalon/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/avalon-4e5c5e.png",
+      "local_logo_path": "localbrand/logo/avalon-4e5c5e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/LiveAvalon/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/avalon-4e5c5e.png"
+      }
+    },
+    {
+      "displayName": "Bria Flats",
+      "id": "briaflats-ef1c0d",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "brand": "Bria Flats",
+        "landuse": "residential",
+        "residential": "apartments"
+      }
+    },
+    {
+      "displayName": "Bria Homes",
+      "id": "briahomes-ef1c0d",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "brand": "Bria Homes",
+        "brand:wikidata": "Q136476367",
+        "landuse": "residential",
+        "residential": "single_family"
+      },
+      "original_logo_url": "https://graph.facebook.com/BriaHomesIncOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/briahomes-ef1c0d.jpg",
+      "local_logo_path": "localbrand/logo/briahomes-ef1c0d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BriaHomesIncOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/briahomes-ef1c0d.jpg"
+      }
+    },
+    {
+      "displayName": "Camden",
+      "id": "camden-4e5c5e",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Camden",
+        "brand:wikidata": "Q5025803",
+        "landuse": "residential",
+        "residential": "apartments"
+      },
+      "original_logo_url": "https://graph.facebook.com/CamdenLiving/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/camden-4e5c5e.jpg",
+      "local_logo_path": "localbrand/logo/camden-4e5c5e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CamdenLiving/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/camden-4e5c5e.jpg"
+      }
+    },
+    {
+      "displayName": "Camella",
+      "id": "camella-ef1c0d",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "brand": "Camella",
+        "brand:wikidata": "Q105438953",
+        "landuse": "residential",
+        "residential": "single_family"
+      },
+      "original_logo_url": "https://graph.facebook.com/CamellaOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/camella-ef1c0d.jpg",
+      "local_logo_path": "localbrand/logo/camella-ef1c0d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CamellaOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/camella-ef1c0d.jpg"
+      }
+    },
+    {
+      "displayName": "Camella Manors",
+      "id": "camellamanors-ef1c0d",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "brand": "Camella Manors",
+        "brand:wikidata": "Q136477278",
+        "landuse": "residential",
+        "residential": "apartments"
+      }
+    },
+    {
+      "displayName": "eaves by Avalon",
+      "id": "eavesbyavalon-4e5c5e",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "eaves by Avalon",
+        "brand:short": "eaves",
+        "brand:wikidata": "Q134707069",
+        "landuse": "residential",
+        "operator": "AvalonBay",
+        "operator:wikidata": "Q4827537",
+        "residential": "apartments"
+      },
+      "original_logo_url": "https://graph.facebook.com/AVAApartments/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eavesbyavalon-4e5c5e.jpg",
+      "local_logo_path": "localbrand/logo/eavesbyavalon-4e5c5e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AVAApartments/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eavesbyavalon-4e5c5e.jpg"
+      }
+    },
+    {
+      "displayName": "Hometown America",
+      "id": "hometownamerica-4e5c5e",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Hometown America",
+        "brand:wikidata": "Q123417417",
+        "landuse": "residential",
+        "name": "Hometown America",
+        "residential": "trailer_park"
+      },
+      "original_logo_url": "https://graph.facebook.com/HometownAmericaCommunities/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hometownamerica-4e5c5e.jpg",
+      "local_logo_path": "localbrand/logo/hometownamerica-4e5c5e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HometownAmericaCommunities/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hometownamerica-4e5c5e.jpg"
+      }
+    },
+    {
+      "displayName": "Kanso",
+      "id": "kanso-4e5c5e",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Kanso",
+        "brand:wikidata": "Q134707101",
+        "landuse": "residential",
+        "operator": "AvalonBay",
+        "operator:wikidata": "Q4827537",
+        "residential": "apartments"
+      }
+    },
+    {
+      "displayName": "MAA",
+      "id": "maa-4e5c5e",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "MAA",
+        "brand:wikidata": "Q27988239",
+        "landuse": "residential",
+        "residential": "apartments"
+      },
+      "original_logo_url": "https://graph.facebook.com/MAACareers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maa-4e5c5e.jpg",
+      "local_logo_path": "localbrand/logo/maa-4e5c5e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MAACareers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maa-4e5c5e.jpg"
+      }
+    },
+    {
+      "displayName": "Modera",
+      "id": "modera-4e5c5e",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Modera",
+        "brand:wikidata": "Q113185180",
+        "landuse": "residential",
+        "name": "Modera",
+        "operator": "Mill Creek Residential",
+        "operator:wikidata": "Q113185027",
+        "residential": "apartments"
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "properties": {
+    "path": "brands/tourism/information",
+    "skipCollection": true,
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^information$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "California Welcome Center",
+      "id": "californiawelcomecenter-35ab0a",
+      "locationSet": {
+        "include": [
+          "us-ca.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "California Welcome Center",
+        "brand:short": "CWC",
+        "brand:wikidata": "Q108415255",
+        "information": "office",
+        "name": "California Welcome Center",
+        "tourism": "information"
+      },
+      "original_logo_url": "https://graph.facebook.com/visitcalifornia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/californiawelcomecenter-35ab0a.jpg",
+      "local_logo_path": "localbrand/logo/californiawelcomecenter-35ab0a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/visitcalifornia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/californiawelcomecenter-35ab0a.jpg"
+      }
+    },
+    {
+      "displayName": "DOC Visitor Centre",
+      "id": "docvisitorcentre-a3c76e",
+      "issues": [
+        10296
+      ],
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "note": "Removed Wikidata Q1191417 to prevent reported problems",
+      "tags": {
+        "brand": "Department of Conservation",
+        "information": "office",
+        "name": "DOC Visitor Centre",
+        "tourism": "information"
+      }
+    },
+    {
+      "displayName": "i-SITE",
+      "id": "isite-a3c76e",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "i-SITE",
+        "brand:wikidata": "Q115566061",
+        "information": "office",
+        "name": "i-SITE",
+        "tourism": "information"
+      },
+      "original_logo_url": "https://graph.facebook.com/purenewzealand/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/isite-a3c76e.jpg",
+      "local_logo_path": "localbrand/logo/isite-a3c76e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/purenewzealand/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/isite-a3c76e.jpg"
+      }
+    },
+    {
+      "displayName": "Legible London map",
+      "id": "legiblelondon-d25149",
+      "locationSet": {
+        "include": [
+          "gb-lon.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Legible London",
+        "brand:wikidata": "Q6518074",
+        "information": "map",
+        "map_size": "local",
+        "map_type": "street",
+        "operator": "Transport for London",
+        "operator:type": "government",
+        "operator:wikidata": "Q682520",
+        "tourism": "information"
+      },
+      "original_logo_url": "https://graph.facebook.com/transportforlondon/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/legiblelondon-d25149.png",
+      "local_logo_path": "localbrand/logo/legiblelondon-d25149.png",
+      "logos": {
+        "original": "https://graph.facebook.com/transportforlondon/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/legiblelondon-d25149.png"
+      }
+    }
+  ]
+}

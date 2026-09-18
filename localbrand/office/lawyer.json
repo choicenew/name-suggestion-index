@@ -1,0 +1,249 @@
+{
+  "properties": {
+    "path": "brands/office/lawyer",
+    "exclude": {
+      "generic": [
+        "^(law firm|despacho juridico)$",
+        "^(lawyer|abogados?|avocat)$",
+        "^адвокаты?$",
+        "^нотар[иі]ус$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "AGN Avocats",
+      "id": "agnavocats-0624be",
+      "locationSet": {
+        "include": [
+          "ae",
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "AGN Avocats",
+        "brand:wikidata": "Q141355112",
+        "name": "AGN Avocats",
+        "office": "lawyer"
+      },
+      "original_logo_url": "https://graph.facebook.com/AGNAvocats/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agnavocats-0624be.png",
+      "local_logo_path": "localbrand/logo/agnavocats-0624be.png",
+      "logos": {
+        "original": "https://graph.facebook.com/AGNAvocats/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agnavocats-0624be.png"
+      }
+    },
+    {
+      "displayName": "Becker Büttner Held",
+      "id": "beckerbuttnerheld-8a02aa",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Becker Büttner Held",
+        "brand:wikidata": "Q22910047",
+        "name": "Becker Büttner Held",
+        "office": "lawyer",
+        "short_name": "BBH"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Becker_B%C3%BCttner_Held_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beckerbuttnerheld-8a02aa.svg",
+      "local_logo_path": "localbrand/logo/beckerbuttnerheld-8a02aa.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Becker_B%C3%BCttner_Held_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beckerbuttnerheld-8a02aa.svg"
+      }
+    },
+    {
+      "displayName": "Dentons",
+      "id": "dentons-0fb954",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Dentons",
+        "brand:wikidata": "Q13633888",
+        "name": "Dentons",
+        "office": "lawyer"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Dentons_Logo_Purple_RGB_150.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dentons-0fb954.png",
+      "local_logo_path": "localbrand/logo/dentons-0fb954.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Dentons_Logo_Purple_RGB_150.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dentons-0fb954.png"
+      }
+    },
+    {
+      "displayName": "Fisher & Phillips",
+      "id": "fisherphillips-b93f35",
+      "locationSet": {
+        "include": [
+          "mx",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Fisher & Phillips",
+        "brand:wikidata": "Q16993410",
+        "name": "Fisher Phillips",
+        "office": "lawyer",
+        "official_name": "Fisher & Phillips"
+      },
+      "original_logo_url": "https://graph.facebook.com/fisherphillipsllp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fisherphillips-b93f35.jpg",
+      "local_logo_path": "localbrand/logo/fisherphillips-b93f35.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fisherphillipsllp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fisherphillips-b93f35.jpg"
+      }
+    },
+    {
+      "displayName": "Foley",
+      "id": "foley-2b4d11",
+      "locationSet": {
+        "include": [
+          "be",
+          "jp",
+          "mx",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Foley",
+        "brand:wikidata": "Q5464319",
+        "name": "Foley",
+        "office": "lawyer",
+        "official_name": "Foley & Lardner LLP"
+      },
+      "original_logo_url": "https://graph.facebook.com/foleylardner/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foley-2b4d11.jpg",
+      "local_logo_path": "localbrand/logo/foley-2b4d11.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/foleylardner/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foley-2b4d11.jpg"
+      }
+    },
+    {
+      "displayName": "Görg",
+      "id": "gorg-8a02aa",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Görg",
+        "brand:wikidata": "Q105094171",
+        "name": "Görg",
+        "office": "lawyer"
+      },
+      "original_logo_url": "https://graph.facebook.com/GoergRechtsanwaelte/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gorg-8a02aa.jpg",
+      "local_logo_path": "localbrand/logo/gorg-8a02aa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GoergRechtsanwaelte/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gorg-8a02aa.jpg"
+      }
+    },
+    {
+      "displayName": "GSK Stockmann",
+      "id": "gskstockmann-8a02aa",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "GSK Stockmann",
+        "brand:wikidata": "Q1486954",
+        "name": "GSK Stockmann",
+        "office": "lawyer"
+      },
+      "original_logo_url": "https://graph.facebook.com/GSK.Stockmann/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gskstockmann-8a02aa.png",
+      "local_logo_path": "localbrand/logo/gskstockmann-8a02aa.png",
+      "logos": {
+        "original": "https://graph.facebook.com/GSK.Stockmann/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gskstockmann-8a02aa.png"
+      }
+    },
+    {
+      "displayName": "Morgan & Morgan",
+      "id": "morganandmorgan-1353b6",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Morgan & Morgan",
+        "brand:wikidata": "Q111597979",
+        "name": "Morgan & Morgan",
+        "office": "lawyer"
+      },
+      "original_logo_url": "https://graph.facebook.com/MMForthePeople/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morganandmorgan-1353b6.png",
+      "local_logo_path": "localbrand/logo/morganandmorgan-1353b6.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MMForthePeople/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morganandmorgan-1353b6.png"
+      }
+    },
+    {
+      "displayName": "Shine Lawyers",
+      "id": "shinelawyers-22d653",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Shine Lawyers",
+        "brand:wikidata": "Q17033391",
+        "name": "Shine Lawyers",
+        "office": "lawyer"
+      },
+      "original_logo_url": "https://graph.facebook.com/shinelawyers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shinelawyers-22d653.jpg",
+      "local_logo_path": "localbrand/logo/shinelawyers-22d653.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/shinelawyers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shinelawyers-22d653.jpg"
+      }
+    },
+    {
+      "displayName": "ФЦБ",
+      "id": "83196e-004ff8",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "ФЦБ",
+        "name": "ФЦБ",
+        "office": "lawyer"
+      }
+    },
+    {
+      "displayName": "Чистый лист",
+      "id": "725b40-004ff8",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Чистый лист",
+        "name": "Чистый лист",
+        "office": "lawyer"
+      }
+    }
+  ]
+}

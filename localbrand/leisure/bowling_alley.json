@@ -1,0 +1,167 @@
+{
+  "properties": {
+    "path": "brands/leisure/bowling_alley",
+    "exclude": {
+      "generic": [
+        "^bowling alley$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Bowlero",
+      "id": "bowlero-deeedb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Bowlero",
+        "brand:wikidata": "Q17102967",
+        "leisure": "bowling_alley",
+        "name": "Bowlero"
+      },
+      "original_logo_url": "https://graph.facebook.com/BowleroBowl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bowlero-deeedb.jpg",
+      "local_logo_path": "localbrand/logo/bowlero-deeedb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BowleroBowl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bowlero-deeedb.jpg"
+      }
+    },
+    {
+      "displayName": "Hollywood Bowl",
+      "id": "hollywoodbowl-d57e08",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Hollywood Bowl",
+        "brand:wikidata": "Q80971952",
+        "leisure": "bowling_alley",
+        "name": "Hollywood Bowl",
+        "sport": "10pin"
+      }
+    },
+    {
+      "displayName": "Round1",
+      "id": "round1-deeedb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Round1",
+        "brand:wikidata": "Q11346634",
+        "leisure": "bowling_alley",
+        "name": "Round1",
+        "sport": "10pin"
+      },
+      "original_logo_url": "https://graph.facebook.com/Round1.official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/round1-deeedb.png",
+      "local_logo_path": "localbrand/logo/round1-deeedb.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Round1.official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/round1-deeedb.png"
+      }
+    },
+    {
+      "displayName": "Strike Bowling Bar",
+      "id": "strikebowlingbar-16aa6f",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Strike Bowling Bar",
+        "brand:wikidata": "Q7623769",
+        "leisure": "bowling_alley",
+        "name": "Strike Bowling Bar"
+      },
+      "original_logo_url": "https://graph.facebook.com/strikebowling/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/strikebowlingbar-16aa6f.jpg",
+      "local_logo_path": "localbrand/logo/strikebowlingbar-16aa6f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/strikebowling/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/strikebowlingbar-16aa6f.jpg"
+      }
+    },
+    {
+      "displayName": "tenpin",
+      "id": "tenpin-d57e08",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "tenpin",
+        "brand:wikidata": "Q6808144",
+        "leisure": "bowling_alley",
+        "name": "tenpin",
+        "sport": "10pin"
+      },
+      "original_logo_url": "https://graph.facebook.com/TenpinUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tenpin-d57e08.jpg",
+      "local_logo_path": "localbrand/logo/tenpin-d57e08.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TenpinUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tenpin-d57e08.jpg"
+      }
+    },
+    {
+      "displayName": "Zone Bowling",
+      "id": "zonebowling-16aa6f",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Zone Bowling",
+        "brand:wikidata": "Q85817146",
+        "leisure": "bowling_alley",
+        "name": "Zone Bowling"
+      },
+      "original_logo_url": "https://graph.facebook.com/ZONEBOWLINGcentres/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zonebowling-16aa6f.jpg",
+      "local_logo_path": "localbrand/logo/zonebowling-16aa6f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ZONEBOWLINGcentres/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zonebowling-16aa6f.jpg"
+      }
+    },
+    {
+      "displayName": "ラウンドワン",
+      "id": "round1-08832c",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ラウンドワン",
+        "brand:en": "ROUND1",
+        "brand:ja": "ラウンドワン",
+        "brand:wikidata": "Q11346634",
+        "leisure": "bowling_alley",
+        "name": "ラウンドワン",
+        "name:en": "ROUND1",
+        "name:ja": "ラウンドワン",
+        "sport": "10pin"
+      },
+      "original_logo_url": "https://graph.facebook.com/Round1.official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/round1-08832c.png",
+      "local_logo_path": "localbrand/logo/round1-08832c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Round1.official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/round1-08832c.png"
+      }
+    }
+  ]
+}

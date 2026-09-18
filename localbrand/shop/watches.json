@@ -1,0 +1,679 @@
+{
+  "properties": {
+    "path": "brands/shop/watches",
+    "exclude": {
+      "generic": [
+        "^watches$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "A. Lange & Söhne",
+      "id": "alangeandsohne-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "A. Lange & Söhne",
+        "brand:wikidata": "Q278880",
+        "name": "A. Lange & Söhne",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/LangeSoehne/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alangeandsohne-101248.jpg",
+      "local_logo_path": "localbrand/logo/alangeandsohne-101248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LangeSoehne/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alangeandsohne-101248.jpg"
+      }
+    },
+    {
+      "displayName": "Audemars Piguet",
+      "id": "audemarspiguet-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Audemars Piguet",
+        "brand:wikidata": "Q667425",
+        "name": "Audemars Piguet",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/audemarspiguet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/audemarspiguet-101248.jpg",
+      "local_logo_path": "localbrand/logo/audemarspiguet-101248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/audemarspiguet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/audemarspiguet-101248.jpg"
+      }
+    },
+    {
+      "displayName": "Baume & Mercier",
+      "id": "baumeandmercier-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Baume & Mercier",
+        "brand:wikidata": "Q138109",
+        "name": "Baume & Mercier",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/BaumeEtMercier/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baumeandmercier-101248.jpg",
+      "local_logo_path": "localbrand/logo/baumeandmercier-101248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BaumeEtMercier/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baumeandmercier-101248.jpg"
+      }
+    },
+    {
+      "displayName": "Breitling",
+      "id": "breitling-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Breitling",
+        "brand:wikidata": "Q665740",
+        "name": "Breitling",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/Breitling/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/breitling-101248.jpg",
+      "local_logo_path": "localbrand/logo/breitling-101248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Breitling/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/breitling-101248.jpg"
+      }
+    },
+    {
+      "displayName": "Fastrack",
+      "id": "fastrack-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "indian accessories brand",
+        "indian watch co",
+        "indian watch company"
+      ],
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Fastrack",
+        "brand:wikidata": "Q28164179",
+        "name": "Fastrack",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/fastrack/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastrack-101248.jpg",
+      "local_logo_path": "localbrand/logo/fastrack-101248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fastrack/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastrack-101248.jpg"
+      }
+    },
+    {
+      "displayName": "Fossil",
+      "id": "fossil-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/bag",
+        "shop/clothes",
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Fossil",
+        "brand:wikidata": "Q356212",
+        "name": "Fossil",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/Fossil/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fossil-101248.jpg",
+      "local_logo_path": "localbrand/logo/fossil-101248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Fossil/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fossil-101248.jpg"
+      }
+    },
+    {
+      "displayName": "IWC",
+      "id": "iwc-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "international watch co",
+        "international watch company"
+      ],
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "IWC",
+        "brand:wikidata": "Q662902",
+        "name": "IWC",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/IWCWatches/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iwc-101248.jpg",
+      "local_logo_path": "localbrand/logo/iwc-101248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IWCWatches/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iwc-101248.jpg"
+      }
+    },
+    {
+      "displayName": "Jaeger-LeCoultre",
+      "id": "jaegerlecoultre-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Jaeger-LeCoultre",
+        "brand:wikidata": "Q378698",
+        "name": "Jaeger-LeCoultre",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/Jaegerlecoultre/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jaegerlecoultre-101248.jpg",
+      "local_logo_path": "localbrand/logo/jaegerlecoultre-101248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Jaegerlecoultre/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jaegerlecoultre-101248.jpg"
+      }
+    },
+    {
+      "displayName": "Just Watches",
+      "id": "justwatches-3643f6",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Just Watches",
+        "brand:wikidata": "Q117822349",
+        "name": "Just Watches",
+        "shop": "watches"
+      }
+    },
+    {
+      "displayName": "Longines",
+      "id": "longines-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Longines",
+        "brand:wikidata": "Q603698",
+        "name": "Longines",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/Longines/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/longines-101248.jpg",
+      "local_logo_path": "localbrand/logo/longines-101248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Longines/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/longines-101248.jpg"
+      }
+    },
+    {
+      "displayName": "Montres and Co",
+      "id": "montresandco-db30b7",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Montres and Co",
+        "brand:wikidata": "Q105082480",
+        "name": "Montres and Co",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/montresandco/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/montresandco-db30b7.png",
+      "local_logo_path": "localbrand/logo/montresandco-db30b7.png",
+      "logos": {
+        "original": "https://graph.facebook.com/montresandco/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/montresandco-db30b7.png"
+      }
+    },
+    {
+      "displayName": "Movado",
+      "id": "movado-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Movado",
+        "brand:wikidata": "Q939816",
+        "name": "Movado",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/movado/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/movado-101248.jpg",
+      "local_logo_path": "localbrand/logo/movado-101248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/movado/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/movado-101248.jpg"
+      }
+    },
+    {
+      "displayName": "Omega",
+      "id": "omega-c9e7be",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "cn"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Omega",
+        "brand:wikidata": "Q659224",
+        "name": "Omega",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/omega/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/omega-c9e7be.jpg",
+      "local_logo_path": "localbrand/logo/omega-c9e7be.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/omega/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/omega-c9e7be.jpg"
+      }
+    },
+    {
+      "displayName": "Panerai",
+      "id": "panerai-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Panerai",
+        "brand:wikidata": "Q1475590",
+        "name": "Panerai",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/PaneraiOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/panerai-101248.jpg",
+      "local_logo_path": "localbrand/logo/panerai-101248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PaneraiOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/panerai-101248.jpg"
+      }
+    },
+    {
+      "displayName": "Patek Philippe",
+      "id": "patekphilippe-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Patek Philippe",
+        "brand:wikidata": "Q659096",
+        "name": "Patek Philippe",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/patekphilippe/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/patekphilippe-101248.png",
+      "local_logo_path": "localbrand/logo/patekphilippe-101248.png",
+      "logos": {
+        "original": "https://graph.facebook.com/patekphilippe/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/patekphilippe-101248.png"
+      }
+    },
+    {
+      "displayName": "Roger Dubuis",
+      "id": "rogerdubuis-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Roger Dubuis",
+        "brand:wikidata": "Q670160",
+        "name": "Roger Dubuis",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/RogerDubuisWatches/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rogerdubuis-101248.jpg",
+      "local_logo_path": "localbrand/logo/rogerdubuis-101248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RogerDubuisWatches/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rogerdubuis-101248.jpg"
+      }
+    },
+    {
+      "displayName": "Rolex",
+      "id": "rolex-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Rolex",
+        "brand:wikidata": "Q62288",
+        "name": "Rolex",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/rolex/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rolex-101248.jpg",
+      "local_logo_path": "localbrand/logo/rolex-101248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rolex/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rolex-101248.jpg"
+      }
+    },
+    {
+      "displayName": "Seiko",
+      "id": "seiko-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "セイコー"
+      ],
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Seiko",
+        "brand:wikidata": "Q322601",
+        "name": "Seiko",
+        "shop": "watches"
+      }
+    },
+    {
+      "displayName": "Swatch",
+      "id": "swatch-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Swatch",
+        "brand:wikidata": "Q573422",
+        "name": "Swatch",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/SwatchUS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swatch-101248.jpg",
+      "local_logo_path": "localbrand/logo/swatch-101248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SwatchUS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swatch-101248.jpg"
+      }
+    },
+    {
+      "displayName": "Swiss",
+      "id": "swiss-10b001",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Swiss",
+        "brand:wikidata": "Q133472722",
+        "name": "Swiss",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/butikiSWISS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swiss-10b001.png",
+      "local_logo_path": "localbrand/logo/swiss-10b001.png",
+      "logos": {
+        "original": "https://graph.facebook.com/butikiSWISS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swiss-10b001.png"
+      }
+    },
+    {
+      "displayName": "TAG Heuer",
+      "id": "tagheuer-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "TAG Heuer",
+        "brand:wikidata": "Q645984",
+        "name": "TAG Heuer",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/TAGHeuer/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tagheuer-101248.jpg",
+      "local_logo_path": "localbrand/logo/tagheuer-101248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TAGHeuer/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tagheuer-101248.jpg"
+      }
+    },
+    {
+      "displayName": "Tissot",
+      "id": "tissot-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Tissot",
+        "brand:wikidata": "Q659530",
+        "name": "Tissot",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/Tissot/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tissot-101248.jpg",
+      "local_logo_path": "localbrand/logo/tissot-101248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Tissot/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tissot-101248.jpg"
+      }
+    },
+    {
+      "displayName": "Tourneau",
+      "id": "tourneau-b9b74c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Tourneau",
+        "brand:wikidata": "Q7829333",
+        "name": "Tourneau",
+        "shop": "watches"
+      }
+    },
+    {
+      "displayName": "Tudor",
+      "id": "tudor-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Tudor",
+        "brand:wikidata": "Q3541852",
+        "name": "Tudor",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/tudorwatch/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tudor-101248.png",
+      "local_logo_path": "localbrand/logo/tudor-101248.png",
+      "logos": {
+        "original": "https://graph.facebook.com/tudorwatch/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tudor-101248.png"
+      }
+    },
+    {
+      "displayName": "Vacheron Constantin",
+      "id": "vacheronconstantin-101248",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/jewelry"
+      ],
+      "tags": {
+        "brand": "Vacheron Constantin",
+        "brand:wikidata": "Q62341",
+        "name": "Vacheron Constantin",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/vacheronconstantin/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vacheronconstantin-101248.jpg",
+      "local_logo_path": "localbrand/logo/vacheronconstantin-101248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/vacheronconstantin/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vacheronconstantin-101248.jpg"
+      }
+    },
+    {
+      "displayName": "時間廊 City Chain",
+      "id": "citychain-301c40",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "brand": "時間廊 City Chain",
+        "brand:en": "City Chain",
+        "brand:wikidata": "Q11089260",
+        "brand:zh": "時間廊",
+        "name": "時間廊 City Chain",
+        "name:en": "City Chain",
+        "name:zh": "時間廊",
+        "shop": "watches"
+      }
+    },
+    {
+      "displayName": "欧米茄",
+      "id": "omega-410977",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "欧米茄",
+        "brand:en": "Omega",
+        "brand:wikidata": "Q659224",
+        "brand:zh": "欧米茄",
+        "name": "欧米茄",
+        "name:en": "Omega",
+        "name:zh": "欧米茄",
+        "shop": "watches"
+      },
+      "original_logo_url": "https://graph.facebook.com/omega/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/omega-410977.jpg",
+      "local_logo_path": "localbrand/logo/omega-410977.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/omega/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/omega-410977.jpg"
+      }
+    }
+  ]
+}

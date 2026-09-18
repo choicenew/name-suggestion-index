@@ -1,0 +1,781 @@
+{
+  "properties": {
+    "path": "brands/office/financial_advisor",
+    "exclude": {
+      "generic": [
+        "^financial advisor$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "1st Franklin Financial",
+      "id": "1stfranklinfinancial-f55434",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "1st Franklin Financial",
+        "brand:wikidata": "Q5453029",
+        "name": "1st Franklin Financial",
+        "office": "financial_advisor"
+      }
+    },
+    {
+      "displayName": "Ameriprise Financial",
+      "id": "ameriprisefinancial-f55434",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "office/company"
+      ],
+      "tags": {
+        "brand": "Ameriprise Financial",
+        "brand:wikidata": "Q2843129",
+        "name": "Ameriprise Financial",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/Ameriprise/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ameriprisefinancial-f55434.png",
+      "local_logo_path": "localbrand/logo/ameriprisefinancial-f55434.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Ameriprise/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ameriprisefinancial-f55434.png"
+      }
+    },
+    {
+      "displayName": "Broker Consulting",
+      "id": "brokerconsulting-24ffc8",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Broker Consulting",
+        "brand:wikidata": "Q47528264",
+        "name": "Broker Consulting",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/Broker.Consulting/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brokerconsulting-24ffc8.jpg",
+      "local_logo_path": "localbrand/logo/brokerconsulting-24ffc8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Broker.Consulting/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brokerconsulting-24ffc8.jpg"
+      }
+    },
+    {
+      "displayName": "Charles Schwab",
+      "id": "charlesschwab-f55434",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Charles Schwab",
+        "brand:wikidata": "Q1066028",
+        "name": "Charles Schwab",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/CharlesSchwab/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/charlesschwab-f55434.jpg",
+      "local_logo_path": "localbrand/logo/charlesschwab-f55434.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CharlesSchwab/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/charlesschwab-f55434.jpg"
+      }
+    },
+    {
+      "displayName": "De Hypotheker",
+      "id": "dehypotheker-59d603",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "De Hypotheker",
+        "brand:wikidata": "Q2210766",
+        "name": "De Hypotheker",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/dehypotheker/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dehypotheker-59d603.jpg",
+      "local_logo_path": "localbrand/logo/dehypotheker-59d603.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dehypotheker/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dehypotheker-59d603.jpg"
+      }
+    },
+    {
+      "displayName": "Deutsche Vermögensberatung",
+      "id": "deutschevermogensberatung-04d559",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchTags": [
+        "office/association",
+        "office/company",
+        "office/insurance",
+        "office/investment"
+      ],
+      "tags": {
+        "brand": "Deutsche Vermögensberatung",
+        "brand:wikidata": "Q320111",
+        "name": "Deutsche Vermögensberatung",
+        "office": "financial_advisor",
+        "short_name": "DVAG"
+      },
+      "original_logo_url": "https://graph.facebook.com/DVAG/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deutschevermogensberatung-04d559.jpg",
+      "local_logo_path": "localbrand/logo/deutschevermogensberatung-04d559.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DVAG/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deutschevermogensberatung-04d559.jpg"
+      }
+    },
+    {
+      "displayName": "Edward Jones",
+      "id": "edwardjones-ea0e83",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "office/company"
+      ],
+      "tags": {
+        "alt_name": "Edward Jones Investments",
+        "brand": "Edward Jones",
+        "brand:wikidata": "Q5343830",
+        "name": "Edward Jones",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/edwardjones/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edwardjones-ea0e83.jpg",
+      "local_logo_path": "localbrand/logo/edwardjones-ea0e83.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/edwardjones/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edwardjones-ea0e83.jpg"
+      }
+    },
+    {
+      "displayName": "Fidelity Investments",
+      "id": "fidelityinvestments-f55434",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "fidelity investor center"
+      ],
+      "tags": {
+        "brand": "Fidelity Investments",
+        "brand:wikidata": "Q1411292",
+        "name": "Fidelity Investments",
+        "office": "financial_advisor",
+        "short_name": "Fidelity"
+      },
+      "original_logo_url": "https://graph.facebook.com/fidelityinvestments/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fidelityinvestments-f55434.jpg",
+      "local_logo_path": "localbrand/logo/fidelityinvestments-f55434.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fidelityinvestments/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fidelityinvestments-f55434.jpg"
+      }
+    },
+    {
+      "displayName": "Kapitol",
+      "id": "kapitol-f20fa2",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "Kapitol",
+        "brand:wikidata": "Q67806590",
+        "name": "Kapitol",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/kapitolczech/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kapitol-f20fa2.png",
+      "local_logo_path": "localbrand/logo/kapitol-f20fa2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/kapitolczech/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kapitol-f20fa2.png"
+      }
+    },
+    {
+      "displayName": "Merrill Lynch Wealth Management",
+      "id": "merrilllynchwealthmanagement-f55434",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "office/lawyer"
+      ],
+      "tags": {
+        "brand": "Merrill",
+        "brand:wikidata": "Q334122",
+        "name": "Merrill Lynch Wealth Management",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Merrill_Lynch_logo_pre-1974.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/merrilllynchwealthmanagement-f55434.png",
+      "local_logo_path": "localbrand/logo/merrilllynchwealthmanagement-f55434.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/4/48/Merrill_Lynch_logo_pre-1974.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/merrilllynchwealthmanagement-f55434.png"
+      }
+    },
+    {
+      "displayName": "MLP",
+      "id": "mlp-04d559",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "mlp ag",
+        "mlp se"
+      ],
+      "matchTags": [
+        "office/insurance"
+      ],
+      "tags": {
+        "brand": "MLP",
+        "brand:wikidata": "Q516061",
+        "name": "MLP",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/MLP-Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mlp-04d559.svg",
+      "local_logo_path": "localbrand/logo/mlp-04d559.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/MLP-Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mlp-04d559.svg"
+      }
+    },
+    {
+      "displayName": "NM Money",
+      "id": "nmmoney-ce19a6",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "NM Money",
+        "brand:wikidata": "Q86529747",
+        "name": "NM Money",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/NMmoney/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nmmoney-ce19a6.jpg",
+      "local_logo_path": "localbrand/logo/nmmoney-ce19a6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NMmoney/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nmmoney-ce19a6.jpg"
+      }
+    },
+    {
+      "displayName": "OVB Holding",
+      "id": "ovbholding-04d559",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "OVB Holding",
+        "brand:wikidata": "Q318670",
+        "name": "OVB Holding",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/OVBHoldingAG/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ovbholding-04d559.jpg",
+      "local_logo_path": "localbrand/logo/ovbholding-04d559.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OVBHoldingAG/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ovbholding-04d559.jpg"
+      }
+    },
+    {
+      "displayName": "Qaryzzaim",
+      "id": "qaryzzaim-255c4c",
+      "locationSet": {
+        "include": [
+          "kz"
+        ]
+      },
+      "tags": {
+        "brand": "Qaryzzaim",
+        "name": "Qaryzzaim",
+        "office": "financial_advisor"
+      }
+    },
+    {
+      "displayName": "Raymond James",
+      "id": "raymondjames-ea0e83",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "raymond james financial services"
+      ],
+      "tags": {
+        "brand": "Raymond James",
+        "brand:wikidata": "Q7298901",
+        "name": "Raymond James",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/RaymondJames/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/raymondjames-ea0e83.jpg",
+      "local_logo_path": "localbrand/logo/raymondjames-ea0e83.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RaymondJames/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/raymondjames-ea0e83.jpg"
+      }
+    },
+    {
+      "displayName": "RBC Wealth Management",
+      "id": "rbcwealthmanagement-491349",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "royal bank of canada wealth management"
+      ],
+      "tags": {
+        "brand": "RBC Wealth Management",
+        "brand:wikidata": "Q735261",
+        "name": "RBC Wealth Management",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/rbc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rbcwealthmanagement-491349.jpg",
+      "local_logo_path": "localbrand/logo/rbcwealthmanagement-491349.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rbc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rbcwealthmanagement-491349.jpg"
+      }
+    },
+    {
+      "displayName": "SageView Advisory Group",
+      "id": "sageviewadvisorygroup-f55434",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "SageView Advisory Group",
+        "brand:wikidata": "Q115527494",
+        "name": "SageView Advisory Group",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/sageviewadvisorygroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sageviewadvisorygroup-f55434.jpg",
+      "local_logo_path": "localbrand/logo/sageviewadvisorygroup-f55434.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sageviewadvisorygroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sageviewadvisorygroup-f55434.jpg"
+      }
+    },
+    {
+      "displayName": "Scotia Wealth Management",
+      "id": "scotiawealthmanagement-491349",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Scotia Wealth Management",
+        "brand:wikidata": "Q122581604",
+        "name": "Scotia Wealth Management",
+        "office": "financial_advisor"
+      }
+    },
+    {
+      "displayName": "Solva",
+      "id": "solva-255c4c",
+      "locationSet": {
+        "include": [
+          "kz"
+        ]
+      },
+      "tags": {
+        "brand": "Solva",
+        "brand:wikidata": "Q117351534",
+        "name": "Solva",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/solva.kz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/solva-255c4c.jpg",
+      "local_logo_path": "localbrand/logo/solva-255c4c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/solva.kz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/solva-255c4c.jpg"
+      }
+    },
+    {
+      "displayName": "Swiss Life Select",
+      "id": "swisslifeselect-1e9d61",
+      "locationSet": {
+        "include": [
+          "ch",
+          "de",
+          "fr",
+          "gb",
+          "it",
+          "lu",
+          "no"
+        ]
+      },
+      "tags": {
+        "brand": "Swiss Life Select",
+        "brand:wikidata": "Q300213",
+        "name": "Swiss Life Select",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/SwissLifeSelectDeutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swisslifeselect-1e9d61.png",
+      "local_logo_path": "localbrand/logo/swisslifeselect-1e9d61.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SwissLifeSelectDeutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swisslifeselect-1e9d61.png"
+      }
+    },
+    {
+      "displayName": "TD Ameritrade",
+      "id": "tdameritrade-f55434",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "TD Ameritrade",
+        "brand:wikidata": "Q7669886",
+        "name": "TD Ameritrade",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/tdameritrade/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tdameritrade-f55434.jpg",
+      "local_logo_path": "localbrand/logo/tdameritrade-f55434.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tdameritrade/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tdameritrade-f55434.jpg"
+      }
+    },
+    {
+      "displayName": "Thrivent",
+      "id": "thrivent-f55434",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Thrivent",
+        "brand:wikidata": "Q7798301",
+        "name": "Thrivent",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/thrivent/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thrivent-f55434.jpg",
+      "local_logo_path": "localbrand/logo/thrivent-f55434.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/thrivent/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thrivent-f55434.jpg"
+      }
+    },
+    {
+      "displayName": "UBS Financial Services",
+      "id": "ubsfinancialservices-f55434",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "ubs financial services inc."
+      ],
+      "tags": {
+        "brand": "UBS",
+        "brand:wikidata": "Q193199",
+        "name": "UBS Financial Services",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/UBSglobal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ubsfinancialservices-f55434.png",
+      "local_logo_path": "localbrand/logo/ubsfinancialservices-f55434.png",
+      "logos": {
+        "original": "https://graph.facebook.com/UBSglobal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ubsfinancialservices-f55434.png"
+      }
+    },
+    {
+      "displayName": "Wells Fargo Advisors",
+      "id": "wellsfargoadvisors-f55434",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Wells Fargo Advisors",
+        "brand:wikidata": "Q7981643",
+        "name": "Wells Fargo Advisors",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/WellsFargoAdvisors/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wellsfargoadvisors-f55434.png",
+      "local_logo_path": "localbrand/logo/wellsfargoadvisors-f55434.png",
+      "logos": {
+        "original": "https://graph.facebook.com/WellsFargoAdvisors/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wellsfargoadvisors-f55434.png"
+      }
+    },
+    {
+      "displayName": "Wells Fargo Private Bank",
+      "id": "wellsfargoprivatebank-f55434",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "alt_name": "The Private Bank",
+        "brand": "Wells Fargo Private Bank",
+        "brand:wikidata": "Q108933753",
+        "name": "Wells Fargo Private Bank",
+        "office": "financial_advisor"
+      }
+    },
+    {
+      "displayName": "БКС Мир инвестиций",
+      "id": "bcsfinancialgroup-608a42",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "БКС Мир инвестиций",
+        "brand:wikidata": "Q4096843",
+        "name": "БКС Мир инвестиций",
+        "name:en": "BCS Financial Group",
+        "name:ru": "БКС Мир инвестиций",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/%D0%91%D0%9A%D0%A1_%28%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%29.gif",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bcsfinancialgroup-608a42.png",
+      "local_logo_path": "localbrand/logo/bcsfinancialgroup-608a42.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/4/4d/%D0%91%D0%9A%D0%A1_%28%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%29.gif",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bcsfinancialgroup-608a42.png"
+      }
+    },
+    {
+      "displayName": "Газпромбанк Автолизинг",
+      "id": "13f409-608a42",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Газпромбанк Автолизинг",
+        "name": "Газпромбанк Автолизинг",
+        "office": "financial_advisor"
+      }
+    },
+    {
+      "displayName": "СберЛизинг",
+      "id": "c2438a-608a42",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "СберЛизинг",
+        "name": "СберЛизинг",
+        "office": "financial_advisor"
+      }
+    },
+    {
+      "displayName": "中信建投证券",
+      "id": "chinasecurities-fe1d6b",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "中信建投证券",
+        "brand:en": "China Securities",
+        "brand:wikidata": "Q27833474",
+        "brand:zh": "中信建投证券",
+        "name": "中信建投证券",
+        "name:en": "China Securities",
+        "name:zh": "中信建投证券",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/CSC_Financial.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinasecurities-fe1d6b.png",
+      "local_logo_path": "localbrand/logo/chinasecurities-fe1d6b.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/f6/CSC_Financial.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinasecurities-fe1d6b.png"
+      }
+    },
+    {
+      "displayName": "中信证券",
+      "id": "citicsecurities-fe1d6b",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "中信证券",
+        "brand:en": "CITIC Securities",
+        "brand:wikidata": "Q737443",
+        "brand:zh": "中信证券",
+        "name": "中信证券",
+        "name:en": "CITIC Securities",
+        "name:zh": "中信证券",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E5%98%89%E9%87%8C%E5%BB%BA%E8%A8%AD%E5%BB%A3%E5%A0%B4_Kerry_Plaza_%E7%A6%8F%E8%8F%AF%E8%B7%AF_Fuhua_Road_October_2017_IX1_office_building_facade_CITIC_Securities_Tower.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/citicsecurities-fe1d6b.jpg",
+      "local_logo_path": "localbrand/logo/citicsecurities-fe1d6b.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/ff/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E5%98%89%E9%87%8C%E5%BB%BA%E8%A8%AD%E5%BB%A3%E5%A0%B4_Kerry_Plaza_%E7%A6%8F%E8%8F%AF%E8%B7%AF_Fuhua_Road_October_2017_IX1_office_building_facade_CITIC_Securities_Tower.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/citicsecurities-fe1d6b.jpg"
+      }
+    },
+    {
+      "displayName": "华泰证券",
+      "id": "huataisecurities-fe1d6b",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "华泰证券",
+        "brand:en": "Huatai Securities",
+        "brand:wikidata": "Q106610106",
+        "brand:zh": "华泰证券",
+        "name": "华泰证券",
+        "name:en": "Huatai Securities",
+        "name:zh": "华泰证券",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/141422052380282/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/huataisecurities-fe1d6b.png",
+      "local_logo_path": "localbrand/logo/huataisecurities-fe1d6b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/141422052380282/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/huataisecurities-fe1d6b.png"
+      }
+    },
+    {
+      "displayName": "国泰君安证券",
+      "id": "guotaijunansecurities-fe1d6b",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "国泰君安证券",
+        "brand:en": "Guotai Junan Securities",
+        "brand:wikidata": "Q5619679",
+        "brand:zh": "国泰君安证券",
+        "name": "国泰君安证券",
+        "name:en": "Guotai Junan Securities",
+        "name:zh": "国泰君安证券",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Guotai_Haitong_Securities.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/guotaijunansecurities-fe1d6b.svg",
+      "local_logo_path": "localbrand/logo/guotaijunansecurities-fe1d6b.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Guotai_Haitong_Securities.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/guotaijunansecurities-fe1d6b.svg"
+      }
+    },
+    {
+      "displayName": "招商证券",
+      "id": "chinamerchantssecurities-fe1d6b",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "招商证券",
+        "brand:en": "China Merchants Securities",
+        "brand:wikidata": "Q11077292",
+        "brand:zh": "招商证券",
+        "name": "招商证券",
+        "name:en": "China Merchants Securities",
+        "name:zh": "招商证券",
+        "office": "financial_advisor"
+      }
+    },
+    {
+      "displayName": "耀才證券 Bright Smart Securities",
+      "id": "brightsmartsecurities-a6a387",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "brand": "耀才證券 Bright Smart Securities",
+        "brand:en": "Bright Smart Securities",
+        "brand:wikidata": "Q19855063",
+        "brand:zh": "耀才證券",
+        "name": "耀才證券 Bright Smart Securities",
+        "name:en": "Bright Smart Securities",
+        "name:zh": "耀才證券",
+        "office": "financial_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/bsgroup1428/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brightsmartsecurities-a6a387.png",
+      "local_logo_path": "localbrand/logo/brightsmartsecurities-a6a387.png",
+      "logos": {
+        "original": "https://graph.facebook.com/bsgroup1428/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brightsmartsecurities-a6a387.png"
+      }
+    }
+  ]
+}

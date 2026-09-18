@@ -1,0 +1,83 @@
+{
+  "properties": {
+    "path": "brands/amenity/animal_boarding",
+    "exclude": {
+      "generic": [
+        "^(animal boarding|kandang(?: ayam)?)$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Dogtopia",
+      "id": "dogtopia-03770a",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "animal_boarding",
+        "animal_boarding": "dog",
+        "brand": "Dogtopia",
+        "brand:wikidata": "Q112037444",
+        "name": "Dogtopia"
+      },
+      "original_logo_url": "https://graph.facebook.com/Dogtopia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dogtopia-03770a.png",
+      "local_logo_path": "localbrand/logo/dogtopia-03770a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Dogtopia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dogtopia-03770a.png"
+      }
+    },
+    {
+      "displayName": "PetsHotel",
+      "id": "petshotel-03770a",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "animal_boarding",
+        "animal_boarding": "dog;cat",
+        "brand": "PetsHotel",
+        "brand:wikidata": "Q67141961",
+        "name": "PetsHotel"
+      },
+      "original_logo_url": "https://graph.facebook.com/PetSmart/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petshotel-03770a.png",
+      "local_logo_path": "localbrand/logo/petshotel-03770a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/PetSmart/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petshotel-03770a.png"
+      }
+    },
+    {
+      "displayName": "PetSuites",
+      "id": "petsuites-a2c409",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "animal_boarding",
+        "animal_boarding": "dog;cat",
+        "brand": "PetSuites",
+        "brand:wikidata": "Q112037454",
+        "name": "PetSuites"
+      },
+      "original_logo_url": "https://graph.facebook.com/petsuitesstayandplay/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petsuites-a2c409.png",
+      "local_logo_path": "localbrand/logo/petsuites-a2c409.png",
+      "logos": {
+        "original": "https://graph.facebook.com/petsuitesstayandplay/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petsuites-a2c409.png"
+      }
+    }
+  ]
+}

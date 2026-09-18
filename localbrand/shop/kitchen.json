@@ -1,0 +1,883 @@
+{
+  "properties": {
+    "path": "brands/shop/kitchen",
+    "exclude": {
+      "generic": [
+        "^kitchen$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Benchmarx",
+      "id": "benchmarx-26c64e",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "benchmarx kitchens & joinery"
+      ],
+      "matchTags": [
+        "shop/bathroom_furnishing"
+      ],
+      "tags": {
+        "brand": "Benchmarx",
+        "brand:wikidata": "Q102181127",
+        "name": "Benchmarx",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/BenchmarxKitchensUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/benchmarx-26c64e.jpg",
+      "local_logo_path": "localbrand/logo/benchmarx-26c64e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BenchmarxKitchensUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/benchmarx-26c64e.jpg"
+      }
+    },
+    {
+      "displayName": "Builders FirstSource",
+      "id": "buildersfirstsource-964d64",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Builders FirstSource",
+        "brand:wikidata": "Q27686100",
+        "name": "Builders FirstSource",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/buildersfirstsource/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buildersfirstsource-964d64.jpg",
+      "local_logo_path": "localbrand/logo/buildersfirstsource-964d64.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/buildersfirstsource/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buildersfirstsource-964d64.jpg"
+      }
+    },
+    {
+      "displayName": "bulthaup",
+      "id": "bulthaup-1743cc",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "bulthaup",
+        "brand:wikidata": "Q1004697",
+        "name": "bulthaup",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/bulthaupDeutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bulthaup-1743cc.jpg",
+      "local_logo_path": "localbrand/logo/bulthaup-1743cc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bulthaupDeutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bulthaup-1743cc.jpg"
+      }
+    },
+    {
+      "displayName": "Cuisinella",
+      "id": "cuisinella-944de4",
+      "locationSet": {
+        "include": [
+          "fr",
+          "tn"
+        ]
+      },
+      "tags": {
+        "brand": "Cuisinella",
+        "brand:wikidata": "Q3007012",
+        "name": "Cuisinella",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/CuisinellaFR/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cuisinella-944de4.jpg",
+      "local_logo_path": "localbrand/logo/cuisinella-944de4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CuisinellaFR/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cuisinella-944de4.jpg"
+      }
+    },
+    {
+      "displayName": "Dream Doors",
+      "id": "dreamdoors-26c64e",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Dream Doors",
+        "brand:wikidata": "Q84702301",
+        "name": "Dream Doors",
+        "shop": "kitchen"
+      }
+    },
+    {
+      "displayName": "Ecocuisine",
+      "id": "ecocuisine-fd8748",
+      "locationSet": {
+        "include": [
+          "fr",
+          "ma"
+        ]
+      },
+      "tags": {
+        "brand": "Ecocuisine",
+        "brand:wikidata": "Q141349333",
+        "name": "Ecocuisine",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/ecocuisine.officiel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecocuisine-fd8748.jpg",
+      "local_logo_path": "localbrand/logo/ecocuisine-fd8748.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ecocuisine.officiel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecocuisine-fd8748.jpg"
+      }
+    },
+    {
+      "displayName": "Gaggenau",
+      "id": "gaggenau-1743cc",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Gaggenau",
+        "brand:wikidata": "Q704853",
+        "name": "Gaggenau",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Gaggenau_Hausger%C3%A4te_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gaggenau-1743cc.svg",
+      "local_logo_path": "localbrand/logo/gaggenau-1743cc.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Gaggenau_Hausger%C3%A4te_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gaggenau-1743cc.svg"
+      }
+    },
+    {
+      "displayName": "Howdens Joinery",
+      "id": "howdensjoinery-26c64e",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "howdens"
+      ],
+      "matchTags": [
+        "craft/builder",
+        "craft/joiner",
+        "office/company",
+        "shop/hardware",
+        "shop/houseware"
+      ],
+      "tags": {
+        "brand": "Howdens Joinery",
+        "brand:wikidata": "Q5921438",
+        "name": "Howdens Joinery",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/howdensofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/howdensjoinery-26c64e.png",
+      "local_logo_path": "localbrand/logo/howdensjoinery-26c64e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/howdensofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/howdensjoinery-26c64e.png"
+      }
+    },
+    {
+      "displayName": "Ixina",
+      "id": "ixina-ef6c85",
+      "locationSet": {
+        "include": [
+          "ae",
+          "au",
+          "be",
+          "bf",
+          "bh",
+          "bj",
+          "ca",
+          "ci",
+          "cm",
+          "cn",
+          "cz",
+          "dz",
+          "ee",
+          "eg",
+          "fr",
+          "gh",
+          "hr",
+          "ke",
+          "kw",
+          "lu",
+          "ly",
+          "ma",
+          "mu",
+          "nl",
+          "pl",
+          "qa",
+          "ro",
+          "sa",
+          "se",
+          "sn",
+          "tg",
+          "th",
+          "tn",
+          "vn"
+        ]
+      },
+      "tags": {
+        "brand": "Ixina",
+        "brand:wikidata": "Q3156424",
+        "name": "Ixina",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/IxinaFrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ixina-ef6c85.jpg",
+      "local_logo_path": "localbrand/logo/ixina-ef6c85.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IxinaFrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ixina-ef6c85.jpg"
+      }
+    },
+    {
+      "displayName": "Keuken Kampioen",
+      "id": "keukenkampioen-169f26",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Keuken Kampioen",
+        "brand:wikidata": "Q122903882",
+        "name": "Keuken Kampioen",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/KeukenKampioen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keukenkampioen-169f26.jpg",
+      "local_logo_path": "localbrand/logo/keukenkampioen-169f26.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KeukenKampioen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keukenkampioen-169f26.jpg"
+      }
+    },
+    {
+      "displayName": "Kitchen Connection",
+      "id": "kitchenconnection-8118ed",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Kitchen Connection",
+        "brand:wikidata": "Q111081406",
+        "name": "Kitchen Connection",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/kitchenconnectionaustralia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kitchenconnection-8118ed.jpg",
+      "local_logo_path": "localbrand/logo/kitchenconnection-8118ed.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kitchenconnectionaustralia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kitchenconnection-8118ed.jpg"
+      }
+    },
+    {
+      "displayName": "Kitchen Warehouse",
+      "id": "kitchenwarehouse-8118ed",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Kitchen Warehouse",
+        "brand:wikidata": "Q63603149",
+        "name": "Kitchen Warehouse",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/KitchenWarehouse/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kitchenwarehouse-8118ed.jpg",
+      "local_logo_path": "localbrand/logo/kitchenwarehouse-8118ed.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KitchenWarehouse/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kitchenwarehouse-8118ed.jpg"
+      }
+    },
+    {
+      "displayName": "Küchen Aktuell",
+      "id": "kuchenaktuell-d05c66",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Küchen Aktuell",
+        "brand:wikidata": "Q15824837",
+        "name": "Küchen Aktuell",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/kuechenaktuell.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kuchenaktuell-d05c66.png",
+      "local_logo_path": "localbrand/logo/kuchenaktuell-d05c66.png",
+      "logos": {
+        "original": "https://graph.facebook.com/kuechenaktuell.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kuchenaktuell-d05c66.png"
+      }
+    },
+    {
+      "displayName": "Küchen Schaffrath",
+      "id": "kuchenschaffrath-d05c66",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Küchen Schaffrath",
+        "brand:wikidata": "Q2230071",
+        "name": "Küchen Schaffrath",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/moebel.schaffrath/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kuchenschaffrath-d05c66.jpg",
+      "local_logo_path": "localbrand/logo/kuchenschaffrath-d05c66.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/moebel.schaffrath/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kuchenschaffrath-d05c66.jpg"
+      }
+    },
+    {
+      "displayName": "KüchenTreff",
+      "id": "kuchentreff-d05c66",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "KüchenTreff",
+        "brand:wikidata": "Q1264196",
+        "name": "KüchenTreff",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/erfolgreichmitkuechentreff/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kuchentreff-d05c66.jpg",
+      "local_logo_path": "localbrand/logo/kuchentreff-d05c66.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/erfolgreichmitkuechentreff/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kuchentreff-d05c66.jpg"
+      }
+    },
+    {
+      "displayName": "Kutchenhaus",
+      "id": "kutchenhaus-26c64e",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Kutchenhaus",
+        "brand:wikidata": "Q123029245",
+        "name": "Kutchenhaus",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/KutchenhausKitchens/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kutchenhaus-26c64e.jpg",
+      "local_logo_path": "localbrand/logo/kutchenhaus-26c64e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KutchenhausKitchens/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kutchenhaus-26c64e.jpg"
+      }
+    },
+    {
+      "displayName": "Kvik",
+      "id": "kvik-ea1bc7",
+      "locationSet": {
+        "include": [
+          "be",
+          "dk",
+          "es",
+          "fi",
+          "nl",
+          "no",
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Kvik",
+        "brand:wikidata": "Q12323219",
+        "name": "Kvik",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/Kvik/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kvik-ea1bc7.jpg",
+      "local_logo_path": "localbrand/logo/kvik-ea1bc7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Kvik/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kvik-ea1bc7.jpg"
+      }
+    },
+    {
+      "displayName": "Magnet",
+      "id": "magnet-26c64e",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "magnet kitchens"
+      ],
+      "tags": {
+        "brand": "Magnet",
+        "brand:wikidata": "Q6731427",
+        "name": "Magnet",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/MagnetKitchens/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/magnet-26c64e.jpg",
+      "local_logo_path": "localbrand/logo/magnet-26c64e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MagnetKitchens/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/magnet-26c64e.jpg"
+      }
+    },
+    {
+      "displayName": "Marquardt Küchen",
+      "id": "marquardtkuchen-d05c66",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Marquardt Küchen",
+        "brand:wikidata": "Q23900427",
+        "name": "Marquardt Küchen",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/marquardtkuechen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marquardtkuchen-d05c66.png",
+      "local_logo_path": "localbrand/logo/marquardtkuchen-d05c66.png",
+      "logos": {
+        "original": "https://graph.facebook.com/marquardtkuechen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marquardtkuchen-d05c66.png"
+      }
+    },
+    {
+      "displayName": "MEDA Küchenfachmarkt",
+      "id": "medakuchenfachmarkt-d05c66",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "meda küchen"
+      ],
+      "tags": {
+        "brand": "MEDA Küchenfachmarkt",
+        "brand:wikidata": "Q44023890",
+        "name": "MEDA Küchenfachmarkt",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Meda-gute-kuechen_auf-weiss.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/medakuchenfachmarkt-d05c66.svg",
+      "local_logo_path": "localbrand/logo/medakuchenfachmarkt-d05c66.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/70/Meda-gute-kuechen_auf-weiss.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/medakuchenfachmarkt-d05c66.svg"
+      }
+    },
+    {
+      "displayName": "Mobalpa",
+      "id": "mobalpa-7cc7bc",
+      "locationSet": {
+        "include": [
+          "be",
+          "fr",
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Mobalpa",
+        "brand:wikidata": "Q3317571",
+        "name": "Mobalpa",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/Mobalpa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobalpa-7cc7bc.jpg",
+      "local_logo_path": "localbrand/logo/mobalpa-7cc7bc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Mobalpa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobalpa-7cc7bc.jpg"
+      }
+    },
+    {
+      "displayName": "Oresi",
+      "id": "oresi-10bb52",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Oresi",
+        "brand:wikidata": "Q53409609",
+        "name": "Oresi",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/oresi.kuchyne/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oresi-10bb52.jpg",
+      "local_logo_path": "localbrand/logo/oresi-10bb52.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/oresi.kuchyne/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oresi-10bb52.jpg"
+      }
+    },
+    {
+      "displayName": "PLANA Küchenland",
+      "id": "planakuchenland-d05c66",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "PLANA Küchenland",
+        "brand:wikidata": "Q1576634",
+        "name": "PLANA Küchenland",
+        "shop": "kitchen",
+        "short_name": "PLANA"
+      },
+      "original_logo_url": "https://graph.facebook.com/PLANAkuechen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/planakuchenland-d05c66.jpg",
+      "local_logo_path": "localbrand/logo/planakuchenland-d05c66.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PLANAkuechen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/planakuchenland-d05c66.jpg"
+      }
+    },
+    {
+      "displayName": "Poggenpohl",
+      "id": "poggenpohl-1743cc",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Poggenpohl",
+        "brand:wikidata": "Q570165",
+        "name": "Poggenpohl",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/PoggenpohlKitchens/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/poggenpohl-1743cc.jpg",
+      "local_logo_path": "localbrand/logo/poggenpohl-1743cc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PoggenpohlKitchens/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/poggenpohl-1743cc.jpg"
+      }
+    },
+    {
+      "displayName": "porta Küchenwelt",
+      "id": "portakuchenwelt-d05c66",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "porta",
+        "brand:wikidata": "Q1576449",
+        "name": "porta Küchenwelt",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/portaMoebel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/portakuchenwelt-d05c66.jpg",
+      "local_logo_path": "localbrand/logo/portakuchenwelt-d05c66.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/portaMoebel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/portakuchenwelt-d05c66.jpg"
+      }
+    },
+    {
+      "displayName": "REDDY Küchen",
+      "id": "reddykuchen-d05c66",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "REDDY Küchen",
+        "brand:wikidata": "Q108857512",
+        "name": "REDDY Küchen",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/REDDYKuechen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/reddykuchen-d05c66.png",
+      "local_logo_path": "localbrand/logo/reddykuchen-d05c66.png",
+      "logos": {
+        "original": "https://graph.facebook.com/REDDYKuechen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/reddykuchen-d05c66.png"
+      }
+    },
+    {
+      "displayName": "Sabag",
+      "id": "sabag-56a74d",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "matchTags": [
+        "shop/bathroom_furnishing"
+      ],
+      "tags": {
+        "brand": "Sabag",
+        "brand:wikidata": "Q2209366",
+        "name": "Sabag",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/sabagag/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sabag-56a74d.jpg",
+      "local_logo_path": "localbrand/logo/sabag-56a74d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sabagag/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sabag-56a74d.jpg"
+      }
+    },
+    {
+      "displayName": "Scavolini",
+      "id": "scavolini-266f5b",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Scavolini",
+        "brand:wikidata": "Q2229088",
+        "name": "Scavolini",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/Scavolini/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/scavolini-266f5b.png",
+      "local_logo_path": "localbrand/logo/scavolini-266f5b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Scavolini/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/scavolini-266f5b.png"
+      }
+    },
+    {
+      "displayName": "Schmidt",
+      "id": "schmidt-b36c9e",
+      "locationSet": {
+        "include": [
+          "be",
+          "es",
+          "fr",
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Schmidt",
+        "brand:wikidata": "Q3487620",
+        "name": "Schmidt",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/Schmidt.HomeDesign/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/schmidt-b36c9e.jpg",
+      "local_logo_path": "localbrand/logo/schmidt-b36c9e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Schmidt.HomeDesign/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/schmidt-b36c9e.jpg"
+      }
+    },
+    {
+      "displayName": "SieMatic",
+      "id": "siematic-1743cc",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "SieMatic",
+        "brand:wikidata": "Q2282079",
+        "name": "SieMatic",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/siematic/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/siematic-1743cc.jpg",
+      "local_logo_path": "localbrand/logo/siematic-1743cc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/siematic/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/siematic-1743cc.jpg"
+      }
+    },
+    {
+      "displayName": "SoCoo'c",
+      "id": "socooc-789e69",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "SoCoo'c",
+        "brand:wikidata": "Q62783840",
+        "name": "SoCoo'c",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/SoCooc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/socooc-789e69.jpg",
+      "local_logo_path": "localbrand/logo/socooc-789e69.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SoCooc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/socooc-789e69.jpg"
+      }
+    },
+    {
+      "displayName": "Superkeukens",
+      "id": "superkeukens-169f26",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Superkeukens",
+        "brand:wikidata": "Q124339554",
+        "name": "Superkeukens",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/Superkeukens/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/superkeukens-169f26.jpg",
+      "local_logo_path": "localbrand/logo/superkeukens-169f26.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Superkeukens/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/superkeukens-169f26.jpg"
+      }
+    },
+    {
+      "displayName": "Tilbords",
+      "id": "tilbords-17151f",
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "matchTags": [
+        "shop/houseware"
+      ],
+      "tags": {
+        "brand": "Tilbords",
+        "brand:wikidata": "Q19392507",
+        "name": "Tilbords",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/Tilbords/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tilbords-17151f.jpg",
+      "local_logo_path": "localbrand/logo/tilbords-17151f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Tilbords/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tilbords-17151f.jpg"
+      }
+    },
+    {
+      "displayName": "Tulp Keukens",
+      "id": "tulpkeukens-169f26",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Tulp Keukens",
+        "brand:wikidata": "Q124211172",
+        "name": "Tulp Keukens",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/Tulpkeukens/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tulpkeukens-169f26.jpg",
+      "local_logo_path": "localbrand/logo/tulpkeukens-169f26.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Tulpkeukens/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tulpkeukens-169f26.jpg"
+      }
+    },
+    {
+      "displayName": "Veneta Cucine",
+      "id": "venetacucine-38c8bd",
+      "locationSet": {
+        "include": [
+          "fx",
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Veneta Cucine",
+        "brand:wikidata": "Q136439356",
+        "name": "Veneta Cucine",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/VenetaCucine/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/venetacucine-38c8bd.png",
+      "local_logo_path": "localbrand/logo/venetacucine-38c8bd.png",
+      "logos": {
+        "original": "https://graph.facebook.com/VenetaCucine/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/venetacucine-38c8bd.png"
+      }
+    },
+    {
+      "displayName": "Wren Kitchens",
+      "id": "wrenkitchens-26c64e",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchTags": [
+        "shop/houseware"
+      ],
+      "tags": {
+        "brand": "Wren Kitchens",
+        "brand:wikidata": "Q8037744",
+        "name": "Wren Kitchens",
+        "shop": "kitchen"
+      },
+      "original_logo_url": "https://graph.facebook.com/wrenkitchens/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wrenkitchens-26c64e.jpg",
+      "local_logo_path": "localbrand/logo/wrenkitchens-26c64e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/wrenkitchens/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wrenkitchens-26c64e.jpg"
+      }
+    }
+  ]
+}

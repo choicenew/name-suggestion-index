@@ -1,0 +1,1355 @@
+{
+  "properties": {
+    "path": "brands/amenity/social_facility",
+    "skipCollection": true,
+    "exclude": {
+      "generic": [
+        "^(有料老人|老人|日)?ホーム$",
+        "^betreutes wohnen$",
+        "^ehpad du ch$",
+        "^social facility$",
+        "^детский дом$",
+        "^дом престарелых$",
+        "^социальный участковый$"
+      ],
+      "named": [
+        "^dom pomocy społecznej$",
+        "^maison de retraite$",
+        "^miejski ośrodek pomocy społecznej$",
+        "^safe haven$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Arbeiter-Samariter-Bund",
+      "id": "arbeitersamariterbund-da0ff2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "asb"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Arbeiter-Samariter-Bund",
+        "brand:wikidata": "Q627071",
+        "name": "Arbeiter-Samariter-Bund"
+      },
+      "original_logo_url": "https://graph.facebook.com/asb.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arbeitersamariterbund-da0ff2.jpg",
+      "local_logo_path": "localbrand/logo/arbeitersamariterbund-da0ff2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/asb.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arbeitersamariterbund-da0ff2.jpg"
+      }
+    },
+    {
+      "displayName": "Arbeiterwohlfahrt",
+      "id": "arbeiterwohlfahrt-da0ff2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "arbeiterwohlfahrt kreisverband wesel e.v.",
+        "awo"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Arbeiterwohlfahrt",
+        "brand:wikidata": "Q627256",
+        "name": "Arbeiterwohlfahrt"
+      }
+    },
+    {
+      "displayName": "Bahnhofsmission",
+      "id": "bahnhofsmission-da0ff2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Bahnhofsmission",
+        "brand:wikidata": "Q801713",
+        "name": "Bahnhofsmission",
+        "social_facility": "outreach",
+        "social_facility:for": "homeless;underprivileged"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bahnhofsmission_T%C3%BCbingen_Eingang.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bahnhofsmission-da0ff2.jpg",
+      "local_logo_path": "localbrand/logo/bahnhofsmission-da0ff2.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bahnhofsmission_T%C3%BCbingen_Eingang.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bahnhofsmission-da0ff2.jpg"
+      }
+    },
+    {
+      "displayName": "Bahnhofsozialdienst",
+      "id": "bahnhofsozialdienst-257965",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Bahnhofsozialdienst",
+        "brand:wikidata": "Q801713",
+        "name": "Bahnhofsozialdienst",
+        "social_facility": "outreach",
+        "social_facility:for": "homeless;underprivileged"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bahnhofsmission_T%C3%BCbingen_Eingang.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bahnhofsozialdienst-257965.jpg",
+      "local_logo_path": "localbrand/logo/bahnhofsozialdienst-257965.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bahnhofsmission_T%C3%BCbingen_Eingang.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bahnhofsozialdienst-257965.jpg"
+      }
+    },
+    {
+      "displayName": "Bayerisches Rotes Kreuz",
+      "id": "bayerischesroteskreuz-718a33",
+      "locationSet": {
+        "include": [
+          "de-by.geojson"
+        ]
+      },
+      "matchNames": [
+        "brk"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Bayerisches Rotes Kreuz",
+        "brand:wikidata": "Q812433",
+        "name": "Bayerisches Rotes Kreuz"
+      },
+      "original_logo_url": "https://graph.facebook.com/brklgst/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bayerischesroteskreuz-718a33.jpg",
+      "local_logo_path": "localbrand/logo/bayerischesroteskreuz-718a33.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/brklgst/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bayerischesroteskreuz-718a33.jpg"
+      }
+    },
+    {
+      "displayName": "Bethel",
+      "id": "bethel-da0ff2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "v. bodelschwinghsche stiftungen bethel",
+        "v. bodelschwinghschen stiftungen bethel",
+        "von bodelschwinghsche stiftungen bethel",
+        "von bodelschwinghschen stiftungen bethel"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Bethel",
+        "brand:wikidata": "Q547995",
+        "name": "Bethel"
+      },
+      "original_logo_url": "https://graph.facebook.com/405134214936/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bethel-da0ff2.jpg",
+      "local_logo_path": "localbrand/logo/bethel-da0ff2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/405134214936/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bethel-da0ff2.jpg"
+      }
+    },
+    {
+      "displayName": "Big Brothers Big Sisters Lone Star",
+      "id": "bigbrothersbigsisterslonestar-233ba4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Big Brothers Big Sisters Lone Star",
+        "brand:wikidata": "Q54678731",
+        "name": "Big Brothers Big Sisters Lone Star"
+      },
+      "original_logo_url": "https://graph.facebook.com/BigBrothersBigSisters/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigbrothersbigsisterslonestar-233ba4.png",
+      "local_logo_path": "localbrand/logo/bigbrothersbigsisterslonestar-233ba4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BigBrothersBigSisters/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigbrothersbigsisterslonestar-233ba4.png"
+      }
+    },
+    {
+      "displayName": "Boys & Girls Club",
+      "id": "boysandgirlsclub-233ba4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "boys & girls club of america"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Boys & Girls Club",
+        "brand:wikidata": "Q2923055",
+        "name": "Boys & Girls Club",
+        "social_facility": "outreach",
+        "social_facility:for": "child"
+      },
+      "original_logo_url": "https://graph.facebook.com/bgca.clubs/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boysandgirlsclub-233ba4.jpg",
+      "local_logo_path": "localbrand/logo/boysandgirlsclub-233ba4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bgca.clubs/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boysandgirlsclub-233ba4.jpg"
+      }
+    },
+    {
+      "displayName": "Canadian Red Cross",
+      "id": "canadianredcross-cf1346",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "canadian red cross society",
+        "croix rouge",
+        "la société canadienne de la croix rouge",
+        "red cross"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Canadian Red Cross",
+        "brand:en": "Canadian Red Cross",
+        "brand:fr": "Croix-Rouge canadienne",
+        "brand:short": "CRC",
+        "brand:wikidata": "Q5030521",
+        "operator": "Canadian Red Cross",
+        "operator:en": "Canadian Red Cross",
+        "operator:fr": "Croix-Rouge canadienne",
+        "operator:short": "CRC",
+        "operator:type": "ngo",
+        "operator:wikidata": "Q5030521"
+      },
+      "original_logo_url": "https://graph.facebook.com/canadianredcross/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/canadianredcross-cf1346.png",
+      "local_logo_path": "localbrand/logo/canadianredcross-cf1346.png",
+      "logos": {
+        "original": "https://graph.facebook.com/canadianredcross/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/canadianredcross-cf1346.png"
+      }
+    },
+    {
+      "displayName": "Caritas",
+      "id": "caritas-c8e87f",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "at",
+          "ch",
+          "de",
+          "hk",
+          "mo",
+          "sk",
+          "ua"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Caritas",
+        "brand:wikidata": "Q533143",
+        "name": "Caritas"
+      },
+      "original_logo_url": "https://graph.facebook.com/IAmCaritas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritas-c8e87f.jpg",
+      "local_logo_path": "localbrand/logo/caritas-c8e87f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IAmCaritas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritas-c8e87f.jpg"
+      }
+    },
+    {
+      "displayName": "Caritas (Deutschland)",
+      "id": "caritas-da0ff2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "caritas eifel",
+        "caritasverband",
+        "caritasverband für das kreisdekanat euskirchen e.v."
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Caritas",
+        "brand:wikidata": "Q29508174"
+      },
+      "original_logo_url": "https://graph.facebook.com/caritas.deutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritas-da0ff2.jpg",
+      "local_logo_path": "localbrand/logo/caritas-da0ff2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/caritas.deutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritas-da0ff2.jpg"
+      }
+    },
+    {
+      "displayName": "Caritas (Österreich)",
+      "id": "caritas-257965",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "matchNames": [
+        "caritas diözese graz-seckau",
+        "caritas st.pölten"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Caritas",
+        "brand:wikidata": "Q1036350"
+      },
+      "original_logo_url": "https://graph.facebook.com/CaritasOesterreich/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritas-257965.jpg",
+      "local_logo_path": "localbrand/logo/caritas-257965.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CaritasOesterreich/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritas-257965.jpg"
+      }
+    },
+    {
+      "displayName": "Caritas (Schweiz)",
+      "id": "caritas-7e98f6",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Caritas",
+        "brand:wikidata": "Q1036336"
+      },
+      "original_logo_url": "https://graph.facebook.com/Caritas.Schweiz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritas-7e98f6.png",
+      "local_logo_path": "localbrand/logo/caritas-7e98f6.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Caritas.Schweiz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritas-7e98f6.png"
+      }
+    },
+    {
+      "displayName": "Caritas (Slovensko)",
+      "id": "caritas-07e566",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Caritas",
+        "brand:wikidata": "Q1036340"
+      },
+      "original_logo_url": "https://graph.facebook.com/CaritasSlovakia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritas-07e566.jpg",
+      "local_logo_path": "localbrand/logo/caritas-07e566.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CaritasSlovakia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritas-07e566.jpg"
+      }
+    },
+    {
+      "displayName": "Centre Communal d'Action Sociale",
+      "id": "centrecommunaldactionsociale-8d024d",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Centre Communal d'Action Sociale",
+        "brand:wikidata": "Q2944984",
+        "name": "Centre Communal d'Action Sociale"
+      }
+    },
+    {
+      "displayName": "Centro de Referência Especializado de Assistência Social CREAS",
+      "id": "centrodereferenciaespecializadodeassistenciasocial-04ea99",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Centro de Referência Especializado de Assistência Social CREAS",
+        "brand:wikidata": "Q130315297",
+        "name": "Centro de Referência Especializado de Assistência Social",
+        "social_facility": "outreach",
+        "social_facility:for": "abused"
+      }
+    },
+    {
+      "displayName": "Český červený kříž",
+      "id": "ceskycervenykriz-a519fe",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "matchNames": [
+        "czech republic red cross",
+        "red cross of czech republic"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Český červený kříž",
+        "brand:cs": "Český červený kříž",
+        "brand:en": "Czech Red Cross",
+        "brand:short": "ČČK",
+        "brand:wikidata": "Q4515418",
+        "operator": "Český červený kříž",
+        "operator:cs": "Český červený kříž",
+        "operator:en": "Czech Red Cross",
+        "operator:short": "ČČK",
+        "operator:type": "ngo",
+        "operator:wikidata": "Q4515418"
+      },
+      "original_logo_url": "https://graph.facebook.com/cervenykriz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ceskycervenykriz-a519fe.png",
+      "local_logo_path": "localbrand/logo/ceskycervenykriz-a519fe.png",
+      "logos": {
+        "original": "https://graph.facebook.com/cervenykriz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ceskycervenykriz-a519fe.png"
+      }
+    },
+    {
+      "displayName": "Citizens Advice",
+      "id": "citizensadvice-71aff3",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "citizens advice bureau"
+      ],
+      "matchTags": [
+        "amenity/advice",
+        "amenity/information",
+        "office/charity",
+        "office/citizens_advice",
+        "office/government",
+        "office/lawyer",
+        "office/ngo"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Citizens Advice",
+        "brand:wikidata": "Q5122657",
+        "social_facility": "outreach"
+      },
+      "original_logo_url": "https://graph.facebook.com/CitizensAdvice/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/citizensadvice-71aff3.jpg",
+      "local_logo_path": "localbrand/logo/citizensadvice-71aff3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CitizensAdvice/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/citizensadvice-71aff3.jpg"
+      }
+    },
+    {
+      "displayName": "Conselho Tutelar",
+      "id": "conselhotutelar-04ea99",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Conselho Tutelar",
+        "brand:wikidata": "Q48854913"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Conselho_Tutelar.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/conselhotutelar-04ea99.jpg",
+      "local_logo_path": "localbrand/logo/conselhotutelar-04ea99.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Conselho_Tutelar.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/conselhotutelar-04ea99.jpg"
+      }
+    },
+    {
+      "displayName": "Croix-Rouge de Belgique",
+      "id": "croixrougedebelgique-8298e5",
+      "locationSet": {
+        "include": [
+          "be"
+        ]
+      },
+      "matchNames": [
+        "croix rouge",
+        "croix rouge belge"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Croix-Rouge de Belgique",
+        "brand:short": "CRB",
+        "brand:wikidata": "Q2537361",
+        "operator": "Croix-Rouge de Belgique",
+        "operator:type": "ngo",
+        "operator:wikidata": "Q2537361"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_the_Red_Cross.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/croixrougedebelgique-8298e5.svg",
+      "local_logo_path": "localbrand/logo/croixrougedebelgique-8298e5.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_the_Red_Cross.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/croixrougedebelgique-8298e5.svg"
+      }
+    },
+    {
+      "displayName": "Croix-Rouge française",
+      "id": "croixrougefrancaise-8d024d",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "matchNames": [
+        "croix rouge"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Croix-Rouge française",
+        "brand:wikidata": "Q3003244",
+        "operator": "Croix-Rouge française",
+        "operator:short": "CRF",
+        "operator:type": "ngo",
+        "operator:wikidata": "Q3003244"
+      },
+      "original_logo_url": "https://graph.facebook.com/fr.CroixRouge/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/croixrougefrancaise-8d024d.jpg",
+      "local_logo_path": "localbrand/logo/croixrougefrancaise-8d024d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fr.CroixRouge/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/croixrougefrancaise-8d024d.jpg"
+      }
+    },
+    {
+      "displayName": "Croix-Rouge luxembourgeoise",
+      "id": "croixrougeluxembourgeoise-090a38",
+      "locationSet": {
+        "include": [
+          "lu"
+        ]
+      },
+      "matchNames": [
+        "croix rouge",
+        "rotes kreuz"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Croix-Rouge luxembourgeoise",
+        "brand:de": "Luxemburgisches Rotes Kreuz",
+        "brand:fr": "Croix-Rouge luxembourgeoise",
+        "brand:lb": "Lëtzebuergesche Roude Kräiz",
+        "brand:wikidata": "Q13102234",
+        "operator": "Croix-Rouge luxembourgeoise",
+        "operator:de": "Luxemburgisches Rotes Kreuz",
+        "operator:fr": "Croix-Rouge luxembourgeoise",
+        "operator:lb": "Lëtzebuergesche Roude Kräiz",
+        "operator:type": "ngo",
+        "operator:wikidata": "Q13102234"
+      },
+      "original_logo_url": "https://graph.facebook.com/crlux/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/croixrougeluxembourgeoise-090a38.png",
+      "local_logo_path": "localbrand/logo/croixrougeluxembourgeoise-090a38.png",
+      "logos": {
+        "original": "https://graph.facebook.com/crlux/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/croixrougeluxembourgeoise-090a38.png"
+      }
+    },
+    {
+      "displayName": "Deutscher Kinderschutzbund",
+      "id": "deutscherkinderschutzbund-da0ff2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "kinderschutzbund"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Deutscher Kinderschutzbund",
+        "brand:short": "DKSB",
+        "brand:wikidata": "Q1205011"
+      }
+    },
+    {
+      "displayName": "Deutsches Rotes Kreuz",
+      "id": "deutschesroteskreuz-da0ff2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "drk",
+        "rotes kreuz"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Deutsches Rotes Kreuz",
+        "brand:wikidata": "Q694104",
+        "name": "Deutsches Rotes Kreuz"
+      },
+      "original_logo_url": "https://graph.facebook.com/67003546475/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deutschesroteskreuz-da0ff2.jpg",
+      "local_logo_path": "localbrand/logo/deutschesroteskreuz-da0ff2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/67003546475/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deutschesroteskreuz-da0ff2.jpg"
+      }
+    },
+    {
+      "displayName": "Diakonie",
+      "id": "diakonie-da0ff2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "diakonie deutschland",
+        "diakonie ruhr",
+        "diakoniewerk",
+        "diakonisches werk"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Diakonie",
+        "brand:wikidata": "Q126501"
+      },
+      "original_logo_url": "https://graph.facebook.com/diakonie/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/diakonie-da0ff2.jpg",
+      "local_logo_path": "localbrand/logo/diakonie-da0ff2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/diakonie/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/diakonie-da0ff2.jpg"
+      }
+    },
+    {
+      "displayName": "Hilfswerk",
+      "id": "hilfswerkosterreich-257965",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Hilfswerk Österreich",
+        "brand:wikidata": "Q1618574"
+      },
+      "original_logo_url": "https://graph.facebook.com/hilfswerk.at/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hilfswerkosterreich-257965.png",
+      "local_logo_path": "localbrand/logo/hilfswerkosterreich-257965.png",
+      "logos": {
+        "original": "https://graph.facebook.com/hilfswerk.at/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hilfswerkosterreich-257965.png"
+      }
+    },
+    {
+      "displayName": "Johanniter",
+      "id": "johanniter-da0ff2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "die johanniter",
+        "johanniter gmbh"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Johanniter",
+        "brand:wikidata": "Q28131582"
+      },
+      "original_logo_url": "https://graph.facebook.com/JohanniterKliniken/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johanniter-da0ff2.png",
+      "local_logo_path": "localbrand/logo/johanniter-da0ff2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/JohanniterKliniken/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johanniter-da0ff2.png"
+      }
+    },
+    {
+      "displayName": "Johanniter-Unfall-Hilfe",
+      "id": "johanniterunfallhilfe-da0ff2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "johanniter-unfall-hilfe e.v.",
+        "juh"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Johanniter-Unfall-Hilfe",
+        "brand:wikidata": "Q14751117"
+      },
+      "original_logo_url": "https://graph.facebook.com/DieJohanniter/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johanniterunfallhilfe-da0ff2.jpg",
+      "local_logo_path": "localbrand/logo/johanniterunfallhilfe-da0ff2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DieJohanniter/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johanniterunfallhilfe-da0ff2.jpg"
+      }
+    },
+    {
+      "displayName": "Lebenshilfe",
+      "id": "lebenshilfe-da0ff2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "lebenshilfe essen e.v."
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Lebenshilfe",
+        "brand:wikidata": "Q20533"
+      },
+      "original_logo_url": "https://graph.facebook.com/lebenshilfe/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lebenshilfe-da0ff2.jpg",
+      "local_logo_path": "localbrand/logo/lebenshilfe-da0ff2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lebenshilfe/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lebenshilfe-da0ff2.jpg"
+      }
+    },
+    {
+      "displayName": "Les Petites Cantines",
+      "id": "lespetitescantines-f6f802",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Les Petites Cantines",
+        "brand:wikidata": "Q123965862",
+        "name": "Les Petites Cantines",
+        "operator": "Les Petites Cantines",
+        "operator:type": "charitable",
+        "operator:wikidata": "Q123965862",
+        "social_facility": "soup_kitchen",
+        "social_facility:for": "homeless;underprivileged"
+      },
+      "original_logo_url": "https://graph.facebook.com/LesPetitesCantines/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lespetitescantines-f6f802.png",
+      "local_logo_path": "localbrand/logo/lespetitescantines-f6f802.png",
+      "logos": {
+        "original": "https://graph.facebook.com/LesPetitesCantines/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lespetitescantines-f6f802.png"
+      }
+    },
+    {
+      "displayName": "Life Care Centers of America",
+      "id": "lifecarecentersofamerica-233ba4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "life care center"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Life Care Centers of America",
+        "brand:short": "LCCA",
+        "brand:wikidata": "Q22073203"
+      },
+      "original_logo_url": "https://graph.facebook.com/LifeCareCenters/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lifecarecentersofamerica-233ba4.jpg",
+      "local_logo_path": "localbrand/logo/lifecarecentersofamerica-233ba4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LifeCareCenters/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lifecarecentersofamerica-233ba4.jpg"
+      }
+    },
+    {
+      "displayName": "Malteser Hilfsdienst",
+      "id": "malteserhilfsdienst-da0ff2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "malteser",
+        "mhd"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Malteser Hilfsdienst",
+        "brand:wikidata": "Q1318397"
+      },
+      "original_logo_url": "https://graph.facebook.com/malteser.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/malteserhilfsdienst-da0ff2.png",
+      "local_logo_path": "localbrand/logo/malteserhilfsdienst-da0ff2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/malteser.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/malteserhilfsdienst-da0ff2.png"
+      }
+    },
+    {
+      "displayName": "Mini cité",
+      "id": "minicite-7d1d77",
+      "locationSet": {
+        "include": [
+          "cm"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Mini cité",
+        "name": "Mini cité"
+      }
+    },
+    {
+      "displayName": "Office of the Senior Citizen Affairs",
+      "id": "officeoftheseniorcitizenaffairs-0c22a1",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Office of the Senior Citizen Affairs",
+        "name": "Office of the Senior Citizen Affairs"
+      }
+    },
+    {
+      "displayName": "ONCE",
+      "id": "once-bb7a05",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "ONCE",
+        "brand:wikidata": "Q1750397",
+        "name": "ONCE",
+        "official_name": "Organización Nacional de Ciegos Españoles",
+        "social_facility": "outreach",
+        "social_facility:for": "blind"
+      },
+      "original_logo_url": "https://graph.facebook.com/ONCE.org/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/once-bb7a05.jpg",
+      "local_logo_path": "localbrand/logo/once-bb7a05.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ONCE.org/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/once-bb7a05.jpg"
+      }
+    },
+    {
+      "displayName": "PruittHealth",
+      "id": "pruitthealth-233ba4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "PruittHealth",
+        "brand:wikidata": "Q136295995"
+      }
+    },
+    {
+      "displayName": "Refood",
+      "id": "refood-cce3dc",
+      "locationSet": {
+        "include": [
+          "br",
+          "es",
+          "it",
+          "pt",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Refood",
+        "brand:wikidata": "Q140315772",
+        "name": "Refood",
+        "social_facility": "food_bank"
+      },
+      "original_logo_url": "https://graph.facebook.com/refoodportugal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/refood-cce3dc.jpg",
+      "local_logo_path": "localbrand/logo/refood-cce3dc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/refoodportugal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/refood-cce3dc.jpg"
+      }
+    },
+    {
+      "displayName": "SOMPOケア",
+      "id": "sompocare-58dbc8",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "SOMPOケア",
+        "brand:en": "Sompo Care",
+        "brand:ja": "SOMPOケア",
+        "brand:wikidata": "Q11343758",
+        "name": "SOMPOケア",
+        "name:en": "Sompo Care",
+        "name:ja": "SOMPOケア",
+        "social_facility": "nursing_home",
+        "social_facility:for": "senior"
+      },
+      "original_logo_url": "https://graph.facebook.com/SompoJapanNipponkoaInsuranceCompanyOfEuropeLimited/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sompocare-58dbc8.jpg",
+      "local_logo_path": "localbrand/logo/sompocare-58dbc8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SompoJapanNipponkoaInsuranceCompanyOfEuropeLimited/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sompocare-58dbc8.jpg"
+      }
+    },
+    {
+      "displayName": "Stationswerk",
+      "id": "stationswerk-4d2292",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Stationswerk",
+        "brand:wikidata": "Q801713",
+        "name": "Stationswerk",
+        "social_facility": "outreach",
+        "social_facility:for": "homeless;underprivileged"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bahnhofsmission_T%C3%BCbingen_Eingang.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stationswerk-4d2292.jpg",
+      "local_logo_path": "localbrand/logo/stationswerk-4d2292.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bahnhofsmission_T%C3%BCbingen_Eingang.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stationswerk-4d2292.jpg"
+      }
+    },
+    {
+      "displayName": "Tafel",
+      "id": "tafel-da0ff2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "die tafeln",
+        "tafel deutschland",
+        "tafeln"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Tafel",
+        "brand:wikidata": "Q89909230",
+        "name": "Tafel",
+        "social_facility": "food_bank"
+      },
+      "original_logo_url": "https://graph.facebook.com/DieTafeln/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tafel-da0ff2.jpg",
+      "local_logo_path": "localbrand/logo/tafel-da0ff2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DieTafeln/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tafel-da0ff2.jpg"
+      }
+    },
+    {
+      "displayName": "Vet Center",
+      "id": "vetcenter-233ba4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "VA",
+        "brand:wikidata": "Q6580225",
+        "healthcare": "counselling",
+        "healthcare:counselling": "psychiatry",
+        "healthcare:for": "veteran",
+        "name": "Vet Center",
+        "social_facility": "healthcare;outreach",
+        "social_facility:for": "veteran"
+      },
+      "original_logo_url": "https://graph.facebook.com/VeteransHealth/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vetcenter-233ba4.png",
+      "local_logo_path": "localbrand/logo/vetcenter-233ba4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/VeteransHealth/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vetcenter-233ba4.png"
+      }
+    },
+    {
+      "displayName": "Violence Against Women and Children Desk",
+      "id": "violenceagainstwomenandchildrendesk-0c22a1",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Violence Against Women and Children Desk",
+        "name": "Violence Against Women and Children Desk"
+      }
+    },
+    {
+      "displayName": "Violence Against Women and Children Office",
+      "id": "violenceagainstwomenandchildrenoffice-0c22a1",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Violence Against Women and Children Office",
+        "name": "Violence Against Women and Children Office"
+      }
+    },
+    {
+      "displayName": "Volkssolidarität",
+      "id": "volkssolidaritat-da0ff2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Volkssolidarität",
+        "brand:wikidata": "Q2532186",
+        "name": "Volkssolidarität"
+      },
+      "original_logo_url": "https://graph.facebook.com/volkssoli.bv/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/volkssolidaritat-da0ff2.jpg",
+      "local_logo_path": "localbrand/logo/volkssolidaritat-da0ff2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/volkssoli.bv/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/volkssolidaritat-da0ff2.jpg"
+      }
+    },
+    {
+      "displayName": "Weißer Ring",
+      "id": "weisserring-da0ff2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "weisser ring e.v."
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Weißer Ring",
+        "brand:wikidata": "Q2557081",
+        "name": "Weißer Ring"
+      },
+      "original_logo_url": "https://graph.facebook.com/WEISSERRING/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/weisserring-da0ff2.jpg",
+      "local_logo_path": "localbrand/logo/weisserring-da0ff2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WEISSERRING/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/weisserring-da0ff2.jpg"
+      }
+    },
+    {
+      "displayName": "Карітас",
+      "id": "caritas-0fc399",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "caritas ukraine",
+        "каритас",
+        "карітас україни"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Карітас",
+        "brand:en": "Caritas",
+        "brand:uk": "Карітас",
+        "brand:wikidata": "Q12108931",
+        "name": "Карітас"
+      },
+      "original_logo_url": "https://graph.facebook.com/caritasukraine/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritas-0fc399.jpg",
+      "local_logo_path": "localbrand/logo/caritas-0fc399.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/caritasukraine/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritas-0fc399.jpg"
+      }
+    },
+    {
+      "displayName": "Карітас-Спес",
+      "id": "caritasspes-0fc399",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "каритас-спес"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Карітас-Спес",
+        "brand:en": "Caritas-Spes",
+        "brand:uk": "Карітас-Спес",
+        "brand:wikidata": "Q12108929",
+        "name": "Карітас-Спес"
+      },
+      "original_logo_url": "https://graph.facebook.com/CaritasSpesUA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritasspes-0fc399.jpg",
+      "local_logo_path": "localbrand/logo/caritasspes-0fc399.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CaritasSpesUA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritasspes-0fc399.jpg"
+      }
+    },
+    {
+      "displayName": "Товариство Червоного Хреста України",
+      "id": "ukrainianredcrosssociety-0fc399",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "red cross",
+        "ukrainian red cross",
+        "товариство червоного хреста",
+        "червоний хрест"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Товариство Червоного Хреста України",
+        "brand:en": "Ukrainian Red Cross Society",
+        "brand:short": "ТЧХУ",
+        "brand:short:en": "URCS",
+        "brand:short:uk": "ТЧХУ",
+        "brand:uk": "Товариство Червоного Хреста України",
+        "brand:wikidata": "Q9364596",
+        "name": "Товариство Червоного Хреста України"
+      },
+      "original_logo_url": "https://graph.facebook.com/RedCrossUkraine/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ukrainianredcrosssociety-0fc399.png",
+      "local_logo_path": "localbrand/logo/ukrainianredcrosssociety-0fc399.png",
+      "logos": {
+        "original": "https://graph.facebook.com/RedCrossUkraine/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ukrainianredcrosssociety-0fc399.png"
+      }
+    },
+    {
+      "displayName": "ツクイ",
+      "id": "tsukui-58dbc8",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "ツクイ",
+        "brand:en": "Tsukui",
+        "brand:ja": "ツクイ",
+        "brand:wikidata": "Q11318724",
+        "name": "ツクイ",
+        "name:en": "Tsukui",
+        "name:ja": "ツクイ",
+        "social_facility": "day_care",
+        "social_facility:for": "senior"
+      },
+      "original_logo_url": "https://graph.facebook.com/tsukui.official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tsukui-58dbc8.jpg",
+      "local_logo_path": "localbrand/logo/tsukui-58dbc8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tsukui.official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tsukui-58dbc8.jpg"
+      }
+    },
+    {
+      "displayName": "リハプライド",
+      "id": "rehapride-58dbc8",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "リハプライド",
+        "brand:en": "RehaPride",
+        "brand:ja": "リハプライド",
+        "brand:wikidata": "Q96186859",
+        "name": "リハプライド",
+        "name:en": "RehaPride",
+        "name:ja": "リハプライド",
+        "social_facility": "healthcare",
+        "social_facility:for": "senior"
+      },
+      "original_logo_url": "https://graph.facebook.com/rehapride/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rehapride-58dbc8.png",
+      "local_logo_path": "localbrand/logo/rehapride-58dbc8.png",
+      "logos": {
+        "original": "https://graph.facebook.com/rehapride/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rehapride-58dbc8.png"
+      }
+    },
+    {
+      "displayName": "レコードブック",
+      "id": "recordbook-58dbc8",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "レコードブック",
+        "brand:en": "Record Book",
+        "brand:ja": "レコードブック",
+        "brand:wikidata": "Q91915310",
+        "name": "レコードブック",
+        "name:en": "Record Book",
+        "name:ja": "レコードブック",
+        "social_facility": "day_care",
+        "social_facility:for": "senior"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Record_book_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/recordbook-58dbc8.png",
+      "local_logo_path": "localbrand/logo/recordbook-58dbc8.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Record_book_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/recordbook-58dbc8.png"
+      }
+    },
+    {
+      "displayName": "明愛會 Caritas",
+      "id": "caritas-c6051e",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "明愛會 Caritas",
+        "brand:en": "Caritas",
+        "brand:wikidata": "Q533143",
+        "brand:zh": "明愛會",
+        "name": "明愛會 Caritas",
+        "name:en": "Caritas",
+        "name:zh": "明愛會"
+      },
+      "original_logo_url": "https://graph.facebook.com/IAmCaritas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritas-c6051e.jpg",
+      "local_logo_path": "localbrand/logo/caritas-c6051e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IAmCaritas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritas-c6051e.jpg"
+      }
+    }
+  ]
+}

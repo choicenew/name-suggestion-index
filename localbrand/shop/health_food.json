@@ -1,0 +1,378 @@
+{
+  "properties": {
+    "path": "brands/shop/health_food",
+    "exclude": {
+      "generic": [
+        "^health food$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Bio Mundo",
+      "id": "biomundo-894bf8",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Bio Mundo",
+        "brand:wikidata": "Q109562493",
+        "name": "Bio Mundo",
+        "shop": "health_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/lojabiomundo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biomundo-894bf8.jpg",
+      "local_logo_path": "localbrand/logo/biomundo-894bf8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lojabiomundo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biomundo-894bf8.jpg"
+      }
+    },
+    {
+      "displayName": "Evergreen Healthfoods",
+      "id": "evergreenhealthfoods-a6966d",
+      "locationSet": {
+        "include": [
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "Evergreen Healthfoods",
+        "brand:wikidata": "Q118139610",
+        "name": "Evergreen Healthfoods",
+        "shop": "health_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/EvergreenHealth/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/evergreenhealthfoods-a6966d.jpg",
+      "local_logo_path": "localbrand/logo/evergreenhealthfoods-a6966d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EvergreenHealth/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/evergreenhealthfoods-a6966d.jpg"
+      }
+    },
+    {
+      "displayName": "G&W GezondheidsWinkel",
+      "id": "gandwgezondheidswinkel-daed2e",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "G&W GezondheidsWinkel",
+        "brand:wikidata": "Q122903937",
+        "name": "G&W GezondheidsWinkel",
+        "shop": "health_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/gwgezondheidswinkel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gandwgezondheidswinkel-daed2e.jpg",
+      "local_logo_path": "localbrand/logo/gandwgezondheidswinkel-daed2e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/gwgezondheidswinkel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gandwgezondheidswinkel-daed2e.jpg"
+      }
+    },
+    {
+      "displayName": "Grape Tree",
+      "id": "grapetree-edcb10",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchTags": [
+        "shop/chemist",
+        "shop/organic"
+      ],
+      "tags": {
+        "brand": "Grape Tree",
+        "brand:wikidata": "Q87071497",
+        "name": "Grape Tree",
+        "shop": "health_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/grapetree2012/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grapetree-edcb10.png",
+      "local_logo_path": "localbrand/logo/grapetree-edcb10.png",
+      "logos": {
+        "original": "https://graph.facebook.com/grapetree2012/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grapetree-edcb10.png"
+      }
+    },
+    {
+      "displayName": "Healthy Planet",
+      "id": "healthyplanet-b5c6bb",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Healthy Planet",
+        "brand:wikidata": "Q113001393",
+        "name": "Healthy Planet",
+        "shop": "health_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/healthyplanetstore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/healthyplanet-b5c6bb.jpg",
+      "local_logo_path": "localbrand/logo/healthyplanet-b5c6bb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/healthyplanetstore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/healthyplanet-b5c6bb.jpg"
+      }
+    },
+    {
+      "displayName": "Holland & Barrett",
+      "id": "hollandandbarrett-802102",
+      "locationSet": {
+        "include": [
+          "be",
+          "gb",
+          "ie",
+          "nl"
+        ]
+      },
+      "matchTags": [
+        "shop/chemist",
+        "shop/organic",
+        "shop/supermarket"
+      ],
+      "tags": {
+        "brand": "Holland & Barrett",
+        "brand:wikidata": "Q5880870",
+        "name": "Holland & Barrett",
+        "shop": "health_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/hollandandbarrett/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hollandandbarrett-802102.jpg",
+      "local_logo_path": "localbrand/logo/hollandandbarrett-802102.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hollandandbarrett/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hollandandbarrett-802102.jpg"
+      }
+    },
+    {
+      "displayName": "Mundo Verde",
+      "id": "mundoverde-894bf8",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Mundo Verde",
+        "brand:wikidata": "Q48856833",
+        "name": "Mundo Verde",
+        "shop": "health_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/MundoVerde/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mundoverde-894bf8.jpg",
+      "local_logo_path": "localbrand/logo/mundoverde-894bf8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MundoVerde/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mundoverde-894bf8.jpg"
+      }
+    },
+    {
+      "displayName": "Nutrition House",
+      "id": "nutritionhouse-b5c6bb",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Nutrition House",
+        "brand:wikidata": "Q112966431",
+        "name": "Nutrition House",
+        "shop": "health_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/nutritionhousecanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nutritionhouse-b5c6bb.jpg",
+      "local_logo_path": "localbrand/logo/nutritionhouse-b5c6bb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/nutritionhousecanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nutritionhouse-b5c6bb.jpg"
+      }
+    },
+    {
+      "displayName": "Reformhaus Bacher",
+      "id": "reformhausbacher-f6f874",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchTags": [
+        "shop/convenience",
+        "shop/supermarket"
+      ],
+      "tags": {
+        "brand": "Reformhaus Bacher",
+        "brand:wikidata": "Q19816424",
+        "name": "Reformhaus Bacher",
+        "shop": "health_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/ReformhausBacher/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/reformhausbacher-f6f874.png",
+      "local_logo_path": "localbrand/logo/reformhausbacher-f6f874.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ReformhausBacher/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/reformhausbacher-f6f874.png"
+      }
+    },
+    {
+      "displayName": "Reformhaus Engelhardt",
+      "id": "reformhausengelhardt-f6f874",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchTags": [
+        "shop/convenience",
+        "shop/supermarket"
+      ],
+      "tags": {
+        "brand": "Reformhaus Engelhardt",
+        "brand:wikidata": "Q107710967",
+        "name": "Reformhaus Engelhardt",
+        "shop": "health_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/ReformhausEngelhardt/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/reformhausengelhardt-f6f874.jpg",
+      "local_logo_path": "localbrand/logo/reformhausengelhardt-f6f874.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ReformhausEngelhardt/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/reformhausengelhardt-f6f874.jpg"
+      }
+    },
+    {
+      "displayName": "reformstark Martin",
+      "id": "reformstarkmartin-26a810",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "matchNames": [
+        "martin reformstark",
+        "reform martin"
+      ],
+      "tags": {
+        "brand": "reformstark Martin",
+        "brand:wikidata": "Q113662530",
+        "name": "reformstark Martin",
+        "shop": "health_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/reformstark.Martin/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/reformstarkmartin-26a810.jpg",
+      "local_logo_path": "localbrand/logo/reformstarkmartin-26a810.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/reformstark.Martin/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/reformstarkmartin-26a810.jpg"
+      }
+    },
+    {
+      "displayName": "S&H Health Foods",
+      "id": "sandhhealthfoods-59b094",
+      "locationSet": {
+        "include": [
+          "ca-mb.geojson",
+          "ca-on.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "S&H Health Foods",
+        "brand:wikidata": "Q133255776",
+        "name": "S&H Health Foods",
+        "shop": "health_food"
+      }
+    },
+    {
+      "displayName": "VITALIA Reformhaus",
+      "id": "vitaliareformhaus-f6f874",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "vitalia"
+      ],
+      "matchTags": [
+        "shop/convenience",
+        "shop/supermarket"
+      ],
+      "tags": {
+        "brand": "VITALIA Reformhaus",
+        "brand:wikidata": "Q2528558",
+        "name": "VITALIA Reformhaus",
+        "shop": "health_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/vitaliareformhaus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vitaliareformhaus-f6f874.jpg",
+      "local_logo_path": "localbrand/logo/vitaliareformhaus-f6f874.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/vitaliareformhaus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vitaliareformhaus-f6f874.jpg"
+      }
+    },
+    {
+      "displayName": "Зелёная Аптека",
+      "id": "c4761d-aaffa4",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "matchNames": [
+        "zelenaya apteka",
+        "зеленая аптека",
+        "зяленая аптэка"
+      ],
+      "matchTags": [
+        "amenity/pharmacy"
+      ],
+      "tags": {
+        "brand": "Зелёная Аптека",
+        "brand:be": "Зялёная аптэка",
+        "brand:ru": "Зелёная Аптека",
+        "brand:uk": "Зелена аптека",
+        "brand:wikidata": "Q123362420",
+        "name": "Зелёная Аптека",
+        "name:be": "Зялёная аптэка",
+        "name:ru": "Зелёная Аптека",
+        "name:uk": "Зелена аптека",
+        "shop": "health_food"
+      }
+    },
+    {
+      "displayName": "健康工房 HealthWorks",
+      "id": "healthworks-e87965",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "brand": "健康工房 HealthWorks",
+        "brand:en": "HealthWorks",
+        "brand:wikidata": "Q10888880",
+        "brand:zh": "健康工房",
+        "name": "健康工房 HealthWorks",
+        "name:en": "HealthWorks",
+        "name:zh": "健康工房",
+        "shop": "health_food"
+      },
+      "original_logo_url": "https://graph.facebook.com/healthworkspage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/healthworks-e87965.jpg",
+      "local_logo_path": "localbrand/logo/healthworks-e87965.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/healthworkspage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/healthworks-e87965.jpg"
+      }
+    }
+  ]
+}

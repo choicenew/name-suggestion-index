@@ -1,0 +1,716 @@
+{
+  "properties": {
+    "path": "brands/amenity/dentist",
+    "exclude": {
+      "generic": [
+        "^(cl[ií]nica|consultorio)?\\s?(dental|odontologi(a|co))$",
+        "^(dentist[ae]?|дантист)$",
+        "^cabinet dentaire$",
+        "^consultorio (dental sin nombre|odontológico)$",
+        "^dental( (care|clinic|surgery|office))?$",
+        "^family dentistry$",
+        "^zahn(arzt(praxis)?|medizin)$",
+        "^стоматолог(ия|ія)?$"
+      ],
+      "named": [
+        "^family dental care$",
+        "^стоматологическая поликлиника$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Altima Dental",
+      "id": "altimadental-4d0a29",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Altima Dental",
+        "brand:wikidata": "Q113001373",
+        "healthcare": "dentist",
+        "name": "Altima Dental"
+      },
+      "original_logo_url": "https://graph.facebook.com/AltimaDentalCanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/altimadental-4d0a29.jpg",
+      "local_logo_path": "localbrand/logo/altimadental-4d0a29.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AltimaDentalCanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/altimadental-4d0a29.jpg"
+      }
+    },
+    {
+      "displayName": "Aspen Dental",
+      "id": "aspendental-708bdc",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Aspen Dental",
+        "brand:wikidata": "Q4807808",
+        "healthcare": "dentist",
+        "name": "Aspen Dental"
+      },
+      "original_logo_url": "https://graph.facebook.com/AspenDental/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aspendental-708bdc.jpg",
+      "local_logo_path": "localbrand/logo/aspendental-708bdc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AspenDental/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aspendental-708bdc.jpg"
+      }
+    },
+    {
+      "displayName": "Bright Now! Dental",
+      "id": "brightnowdental-708bdc",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Bright Now! Dental",
+        "brand:wikidata": "Q108286875",
+        "healthcare": "dentist",
+        "name": "Bright Now! Dental"
+      },
+      "original_logo_url": "https://graph.facebook.com/BrightNowDental/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brightnowdental-708bdc.jpg",
+      "local_logo_path": "localbrand/logo/brightnowdental-708bdc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BrightNowDental/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brightnowdental-708bdc.jpg"
+      }
+    },
+    {
+      "displayName": "Bupa Dental Care",
+      "id": "bupadentalcare-475ab9",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "bupa dental centre"
+      ],
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Bupa",
+        "brand:wikidata": "Q931628",
+        "healthcare": "dentist",
+        "name": "Bupa Dental Care"
+      },
+      "original_logo_url": "https://graph.facebook.com/BupaUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bupadentalcare-475ab9.png",
+      "local_logo_path": "localbrand/logo/bupadentalcare-475ab9.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BupaUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bupadentalcare-475ab9.png"
+      }
+    },
+    {
+      "displayName": "Castle Dental",
+      "id": "castledental-708bdc",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Castle Dental",
+        "brand:wikidata": "Q108288471",
+        "healthcare": "dentist",
+        "name": "Castle Dental"
+      },
+      "original_logo_url": "https://graph.facebook.com/CastleDental/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/castledental-708bdc.jpg",
+      "local_logo_path": "localbrand/logo/castledental-708bdc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CastleDental/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/castledental-708bdc.jpg"
+      }
+    },
+    {
+      "displayName": "Comfort Dental",
+      "id": "comfortdental-708bdc",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Comfort Dental",
+        "brand:wikidata": "Q22079521",
+        "healthcare": "dentist",
+        "name": "Comfort Dental"
+      },
+      "original_logo_url": "https://graph.facebook.com/comfortdental/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/comfortdental-708bdc.jpg",
+      "local_logo_path": "localbrand/logo/comfortdental-708bdc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/comfortdental/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/comfortdental-708bdc.jpg"
+      }
+    },
+    {
+      "displayName": "Damira Dental Studios",
+      "id": "damiradentalstudios-475ab9",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Damira",
+        "brand:wikidata": "Q117210318",
+        "healthcare": "dentist",
+        "name": "Damira Dental Studios"
+      },
+      "original_logo_url": "https://graph.facebook.com/DamiraDentalStudios/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/damiradentalstudios-475ab9.jpg",
+      "local_logo_path": "localbrand/logo/damiradentalstudios-475ab9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DamiraDentalStudios/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/damiradentalstudios-475ab9.jpg"
+      }
+    },
+    {
+      "displayName": "Dentalia",
+      "id": "dentalia-e18215",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Dentalia",
+        "brand:wikidata": "Q133886682",
+        "healthcare": "dentist",
+        "name": "Dentalia"
+      },
+      "original_logo_url": "https://graph.facebook.com/dentalia.mx/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dentalia-e18215.jpg",
+      "local_logo_path": "localbrand/logo/dentalia-e18215.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dentalia.mx/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dentalia-e18215.jpg"
+      }
+    },
+    {
+      "displayName": "DentalPro",
+      "id": "dentalpro-6cf93a",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "DentalPro",
+        "brand:wikidata": "Q134362096",
+        "healthcare": "dentist",
+        "name": "DentalPro"
+      },
+      "original_logo_url": "https://graph.facebook.com/DentalProItalia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dentalpro-6cf93a.jpg",
+      "local_logo_path": "localbrand/logo/dentalpro-6cf93a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DentalProItalia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dentalpro-6cf93a.jpg"
+      }
+    },
+    {
+      "displayName": "DentalWorks",
+      "id": "dentalworks-f3d61f",
+      "locationSet": {
+        "include": [
+          "us-az.geojson",
+          "us-co.geojson",
+          "us-il.geojson",
+          "us-in.geojson",
+          "us-ky.geojson",
+          "us-mi.geojson",
+          "us-nc.geojson",
+          "us-oh.geojson",
+          "us-pa.geojson",
+          "us-sc.geojson",
+          "us-tn.geojson",
+          "us-tx.geojson",
+          "us-wi.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "DentalWorks",
+        "brand:wikidata": "Q113712187",
+        "healthcare": "dentist",
+        "name": "DentalWorks"
+      }
+    },
+    {
+      "displayName": "Dentix",
+      "id": "dentix-1194d5",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Dentix",
+        "brand:wikidata": "Q30505320",
+        "healthcare": "dentist",
+        "name": "Dentix"
+      }
+    },
+    {
+      "displayName": "Distriktstandvården",
+      "id": "distriktstandvarden-a3d4a5",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Distriktstandvården",
+        "brand:wikidata": "Q10474535",
+        "healthcare": "dentist",
+        "name": "Distriktstandvården"
+      },
+      "original_logo_url": "https://graph.facebook.com/distriktstandvarden/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/distriktstandvarden-a3d4a5.png",
+      "local_logo_path": "localbrand/logo/distriktstandvarden-a3d4a5.png",
+      "logos": {
+        "original": "https://graph.facebook.com/distriktstandvarden/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/distriktstandvarden-a3d4a5.png"
+      }
+    },
+    {
+      "displayName": "Folktandvården",
+      "id": "folktandvarden-a3d4a5",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Folktandvården",
+        "brand:wikidata": "Q10497476",
+        "healthcare": "dentist",
+        "name": "Folktandvården"
+      }
+    },
+    {
+      "displayName": "Gentle Dental",
+      "id": "gentledental-708bdc",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Gentle Dental",
+        "brand:wikidata": "Q108410773",
+        "healthcare": "dentist",
+        "name": "Gentle Dental"
+      }
+    },
+    {
+      "displayName": "Kool Smiles",
+      "id": "koolsmiles-708bdc",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Kool Smiles",
+        "brand:wikidata": "Q6430587",
+        "healthcare": "dentist",
+        "name": "Kool Smiles"
+      },
+      "original_logo_url": "https://graph.facebook.com/MyKoolSmiles/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/koolsmiles-708bdc.png",
+      "local_logo_path": "localbrand/logo/koolsmiles-708bdc.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MyKoolSmiles/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/koolsmiles-708bdc.png"
+      }
+    },
+    {
+      "displayName": "MEINDENTIST",
+      "id": "meindentist-d9b135",
+      "locationSet": {
+        "include": [
+          "de-bb.geojson",
+          "de-be.geojson"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "dentist",
+        "brand": "MEINDENTIST",
+        "brand:wikidata": "Q127611277",
+        "healthcare": "dentist",
+        "name": "MeinDentist"
+      },
+      "original_logo_url": "https://graph.facebook.com/meindentist/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meindentist-d9b135.png",
+      "local_logo_path": "localbrand/logo/meindentist-d9b135.png",
+      "logos": {
+        "original": "https://graph.facebook.com/meindentist/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meindentist-d9b135.png"
+      }
+    },
+    {
+      "displayName": "Merit Dental",
+      "id": "meritdental-708bdc",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Merit Dental",
+        "brand:wikidata": "Q108288723",
+        "healthcare": "dentist",
+        "name": "Merit Dental"
+      },
+      "original_logo_url": "https://graph.facebook.com/MeritDental/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meritdental-708bdc.jpg",
+      "local_logo_path": "localbrand/logo/meritdental-708bdc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MeritDental/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meritdental-708bdc.jpg"
+      }
+    },
+    {
+      "displayName": "Midwest Dental",
+      "id": "midwestdental-708bdc",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Midwest Dental",
+        "brand:wikidata": "Q108288550",
+        "healthcare": "dentist",
+        "name": "Midwest Dental"
+      },
+      "original_logo_url": "https://graph.facebook.com/MWDental/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/midwestdental-708bdc.jpg",
+      "local_logo_path": "localbrand/logo/midwestdental-708bdc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MWDental/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/midwestdental-708bdc.jpg"
+      }
+    },
+    {
+      "displayName": "Monarch Dental",
+      "id": "monarchdental-708bdc",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Monarch Dental",
+        "brand:wikidata": "Q108288452",
+        "healthcare": "dentist",
+        "name": "Monarch Dental"
+      },
+      "original_logo_url": "https://graph.facebook.com/MonarchDental/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monarchdental-708bdc.jpg",
+      "local_logo_path": "localbrand/logo/monarchdental-708bdc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MonarchDental/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monarchdental-708bdc.jpg"
+      }
+    },
+    {
+      "displayName": "Mondovi Dental",
+      "id": "mondovidental-708bdc",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Mondovi Dental",
+        "brand:wikidata": "Q108288738",
+        "healthcare": "dentist",
+        "name": "Mondovi Dental"
+      },
+      "original_logo_url": "https://graph.facebook.com/MondoviDental/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mondovidental-708bdc.jpg",
+      "local_logo_path": "localbrand/logo/mondovidental-708bdc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MondoviDental/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mondovidental-708bdc.jpg"
+      }
+    },
+    {
+      "displayName": "My Dentist (USA)",
+      "id": "mydentist-708bdc",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "My Dentist",
+        "brand:wikidata": "Q6945266",
+        "healthcare": "dentist",
+        "name": "My Dentist"
+      }
+    },
+    {
+      "displayName": "mydentist (UK)",
+      "id": "mydentist-475ab9",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "mydentist",
+        "brand:wikidata": "Q65118035",
+        "healthcare": "dentist",
+        "name": "mydentist"
+      },
+      "original_logo_url": "https://graph.facebook.com/ukmydentist/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mydentist-475ab9.jpg",
+      "local_logo_path": "localbrand/logo/mydentist-475ab9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ukmydentist/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mydentist-475ab9.jpg"
+      }
+    },
+    {
+      "displayName": "Oral Unic",
+      "id": "oralunic-2b763e",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Oral Unic",
+        "brand:wikidata": "Q140983760",
+        "healthcare": "dentist",
+        "name": "Oral Unic"
+      }
+    },
+    {
+      "displayName": "SmileKeepers",
+      "id": "smilekeepers-708bdc",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "SmileKeepers",
+        "brand:wikidata": "Q108410786",
+        "healthcare": "dentist",
+        "name": "SmileKeepers"
+      }
+    },
+    {
+      "displayName": "Vitaldent",
+      "id": "vitaldent-23a76b",
+      "locationSet": {
+        "include": [
+          "es",
+          "it"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Vitaldent",
+        "brand:wikidata": "Q5860599",
+        "healthcare": "dentist",
+        "name": "Vitaldent"
+      },
+      "original_logo_url": "https://graph.facebook.com/VitaldentEspana/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vitaldent-23a76b.jpg",
+      "local_logo_path": "localbrand/logo/vitaldent-23a76b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/VitaldentEspana/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vitaldent-23a76b.jpg"
+      }
+    },
+    {
+      "displayName": "Voxel",
+      "id": "voxel-5c89ef",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Voxel",
+        "healthcare": "dentist",
+        "name": "Voxel"
+      }
+    },
+    {
+      "displayName": "Western Dental",
+      "id": "westerndental-e883ee",
+      "locationSet": {
+        "include": [
+          "us-az.geojson",
+          "us-ca.geojson",
+          "us-nv.geojson"
+        ]
+      },
+      "tags": {
+        "alt_name": "Western Dental & Orthodontics",
+        "amenity": "dentist",
+        "brand": "Western Dental",
+        "brand:wikidata": "Q64211989",
+        "healthcare": "dentist",
+        "name": "Western Dental"
+      },
+      "original_logo_url": "https://graph.facebook.com/WesternDental/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/westerndental-e883ee.jpg",
+      "local_logo_path": "localbrand/logo/westerndental-e883ee.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WesternDental/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/westerndental-e883ee.jpg"
+      }
+    },
+    {
+      "displayName": "Western Dental Kids",
+      "id": "westerndentalkids-2924e1",
+      "locationSet": {
+        "include": [
+          "us-az.geojson",
+          "us-ca.geojson"
+        ]
+      },
+      "matchNames": [
+        "kids dental kare"
+      ],
+      "tags": {
+        "alt_name": "Western Dental & Orthodontics Kids",
+        "amenity": "dentist",
+        "brand": "Western Dental",
+        "brand:wikidata": "Q64211989",
+        "healthcare": "dentist",
+        "name": "Western Dental Kids"
+      },
+      "original_logo_url": "https://graph.facebook.com/WesternDental/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/westerndentalkids-2924e1.jpg",
+      "local_logo_path": "localbrand/logo/westerndentalkids-2924e1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WesternDental/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/westerndentalkids-2924e1.jpg"
+      }
+    },
+    {
+      "displayName": "White Essence",
+      "id": "whiteessence-287a03",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "White Essence",
+        "brand:en": "White Essence",
+        "brand:ja": "ホワイトエッセンス",
+        "brand:wikidata": "Q96185476",
+        "healthcare": "dentist",
+        "name": "White Essence",
+        "name:en": "White Essence",
+        "name:ja": "ホワイトエッセンス"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/White_Essence_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/whiteessence-287a03.png",
+      "local_logo_path": "localbrand/logo/whiteessence-287a03.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/04/White_Essence_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/whiteessence-287a03.png"
+      }
+    },
+    {
+      "displayName": "Willamette Dental Group",
+      "id": "willamettedentalgroup-cbc6dc",
+      "locationSet": {
+        "include": [
+          "us-id.geojson",
+          "us-or.geojson",
+          "us-wa.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Willamette Dental Group",
+        "brand:wikidata": "Q110124509",
+        "healthcare": "dentist",
+        "name": "Willamette Dental Group"
+      }
+    },
+    {
+      "displayName": "Мой Зубной",
+      "id": "1606b5-5c89ef",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Мой Зубной",
+        "brand:wikidata": "Q110775866",
+        "healthcare": "dentist",
+        "name": "Мой Зубной"
+      }
+    },
+    {
+      "displayName": "Улыбка",
+      "id": "a1a834-37a285",
+      "locationSet": {
+        "include": [
+          "by",
+          "kz",
+          "ru"
+        ]
+      },
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Улыбка",
+        "healthcare": "dentist",
+        "name": "Улыбка"
+      }
+    }
+  ]
+}

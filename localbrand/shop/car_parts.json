@@ -1,0 +1,1387 @@
+{
+  "properties": {
+    "path": "brands/shop/car_parts",
+    "exclude": {
+      "generic": [
+        "^(car parts|repuestos automotrices)$",
+        "^lubri(centro|ficantes)$",
+        "^авто(рынок|ремонт|сервис|запчасти|запчастини)?$",
+        "^автома(г|газин|стерская)?$",
+        "^магазин автозапчастей$"
+      ],
+      "named": [
+        "^форсаж$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Advance Auto Parts",
+      "id": "advanceautoparts-c70e2b",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/doityourself"
+      ],
+      "tags": {
+        "brand": "Advance Auto Parts",
+        "brand:wikidata": "Q4686051",
+        "name": "Advance Auto Parts",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/advanceautoparts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/advanceautoparts-c70e2b.jpg",
+      "local_logo_path": "localbrand/logo/advanceautoparts-c70e2b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/advanceautoparts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/advanceautoparts-c70e2b.jpg"
+      }
+    },
+    {
+      "displayName": "Armtek",
+      "id": "armtek-331b80",
+      "locationSet": {
+        "include": [
+          "by",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Armtek",
+        "brand:wikidata": "Q127505072",
+        "name": "Armtek",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/ArmtekParts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/armtek-331b80.jpg",
+      "local_logo_path": "localbrand/logo/armtek-331b80.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ArmtekParts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/armtek-331b80.jpg"
+      }
+    },
+    {
+      "displayName": "Auto Depot",
+      "id": "autodepot-935544",
+      "locationSet": {
+        "include": [
+          "il"
+        ]
+      },
+      "tags": {
+        "brand": "Auto Depot",
+        "brand:wikidata": "Q4672981",
+        "name": "Auto Depot",
+        "name:en": "Auto Depot",
+        "name:he": "אוטודיפו",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/acehardware/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autodepot-935544.png",
+      "local_logo_path": "localbrand/logo/autodepot-935544.png",
+      "logos": {
+        "original": "https://graph.facebook.com/acehardware/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autodepot-935544.png"
+      }
+    },
+    {
+      "displayName": "Auto Plus",
+      "id": "autoplus-bb9baa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Auto Plus",
+        "brand:wikidata": "Q65121114",
+        "name": "Auto Plus",
+        "official_name": "Auto Plus Auto Parts",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/AutoPlusUS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autoplus-bb9baa.png",
+      "local_logo_path": "localbrand/logo/autoplus-bb9baa.png",
+      "logos": {
+        "original": "https://graph.facebook.com/AutoPlusUS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autoplus-bb9baa.png"
+      }
+    },
+    {
+      "displayName": "Auto Value",
+      "id": "autovalue-808aac",
+      "locationSet": {
+        "include": [
+          "ca",
+          "mx",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Auto Value",
+        "brand:wikidata": "Q120717243",
+        "name": "Auto Value",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/aftermarketautopartsalliance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autovalue-808aac.jpg",
+      "local_logo_path": "localbrand/logo/autovalue-808aac.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/aftermarketautopartsalliance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autovalue-808aac.jpg"
+      }
+    },
+    {
+      "displayName": "Autobarn",
+      "id": "autobarn-5404d0",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Autobarn",
+        "brand:wikidata": "Q105831666",
+        "name": "Autobarn",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "Automat",
+      "id": "automat-fc79b7",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Automat",
+        "brand:wikidata": "Q70623238",
+        "name": "Automat",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "AutoZone",
+      "id": "autozone-fd3e11",
+      "locationSet": {
+        "include": [
+          "br",
+          "mx",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/doityourself"
+      ],
+      "tags": {
+        "brand": "AutoZone",
+        "brand:wikidata": "Q4826087",
+        "name": "AutoZone",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/autozone/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autozone-fd3e11.jpg",
+      "local_logo_path": "localbrand/logo/autozone-fd3e11.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/autozone/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autozone-fd3e11.jpg"
+      }
+    },
+    {
+      "displayName": "Benson Auto Parts",
+      "id": "bensonautoparts-aab137",
+      "locationSet": {
+        "include": [
+          "ca-on.geojson",
+          "ca-qc.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Benson Auto Parts",
+        "brand:wikidata": "Q133249533",
+        "name": "Benson Auto Parts",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "BilXtra",
+      "id": "bilxtra-ccf30a",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "BilXtra",
+        "brand:wikidata": "Q127920622",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/BilXtra.no/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bilxtra-ccf30a.jpg",
+      "local_logo_path": "localbrand/logo/bilxtra-ccf30a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BilXtra.no/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bilxtra-ccf30a.jpg"
+      }
+    },
+    {
+      "displayName": "Bitstop",
+      "id": "bitstop-a188f5",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Bitstop",
+        "name": "Bitstop",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "Brezan",
+      "id": "brezan-585e8e",
+      "locationSet": {
+        "include": [
+          "be",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Brezan",
+        "brand:wikidata": "Q109266156",
+        "name": "Brezan",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/partspoint.nederland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brezan-585e8e.png",
+      "local_logo_path": "localbrand/logo/brezan-585e8e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/partspoint.nederland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brezan-585e8e.png"
+      }
+    },
+    {
+      "displayName": "Bumper to Bumper Auto Parts",
+      "id": "bumpertobumperautoparts-bb9baa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Bumper to Bumper Auto Parts",
+        "brand:wikidata": "Q120718114",
+        "name": "Bumper to Bumper Auto Parts",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/BumperToBumperAutoParts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bumpertobumperautoparts-bb9baa.jpg",
+      "local_logo_path": "localbrand/logo/bumpertobumperautoparts-bb9baa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BumperToBumperAutoParts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bumpertobumperautoparts-bb9baa.jpg"
+      }
+    },
+    {
+      "displayName": "Burson Auto Parts",
+      "id": "bursonautoparts-5404d0",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Burson Auto Parts",
+        "brand:wikidata": "Q117075930",
+        "name": "Burson Auto Parts",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/BursonAutoParts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bursonautoparts-5404d0.jpg",
+      "local_logo_path": "localbrand/logo/bursonautoparts-5404d0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BursonAutoParts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bursonautoparts-5404d0.jpg"
+      }
+    },
+    {
+      "displayName": "Carquest",
+      "id": "carquest-c70e2b",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "baxter",
+        "baxter auto parts"
+      ],
+      "tags": {
+        "brand": "Carquest",
+        "brand:wikidata": "Q5045948",
+        "name": "Carquest",
+        "official_name": "Carquest Auto Parts",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/Carquestautoparts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carquest-c70e2b.jpg",
+      "local_logo_path": "localbrand/logo/carquest-c70e2b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Carquestautoparts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carquest-c70e2b.jpg"
+      }
+    },
+    {
+      "displayName": "Derendinger",
+      "id": "derendinger-dfc2fd",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "brand": "Derendinger",
+        "brand:wikidata": "Q1200150",
+        "name": "Derendinger",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Derendinger.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/derendinger-dfc2fd.jpg",
+      "local_logo_path": "localbrand/logo/derendinger-dfc2fd.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Derendinger.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/derendinger-dfc2fd.jpg"
+      }
+    },
+    {
+      "displayName": "DPaschoal",
+      "id": "dpaschoal-74c620",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "DPaschoal",
+        "brand:wikidata": "Q115965812",
+        "name": "DPaschoal",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/dpaschoaloficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpaschoal-74c620.png",
+      "local_logo_path": "localbrand/logo/dpaschoal-74c620.png",
+      "logos": {
+        "original": "https://graph.facebook.com/dpaschoaloficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpaschoal-74c620.png"
+      }
+    },
+    {
+      "displayName": "Euro Car Parts",
+      "id": "eurocarparts-078f70",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "Euro Car Parts",
+        "brand:wikidata": "Q23782692",
+        "name": "Euro Car Parts",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/LKQEuroCarParts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eurocarparts-078f70.jpg",
+      "local_logo_path": "localbrand/logo/eurocarparts-078f70.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LKQEuroCarParts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eurocarparts-078f70.jpg"
+      }
+    },
+    {
+      "displayName": "Exist.ru",
+      "id": "existru-a188f5",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "matchNames": [
+        "exist"
+      ],
+      "tags": {
+        "brand": "Exist.ru",
+        "brand:wikidata": "Q24933708",
+        "name": "Exist.ru",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "Exist.ua",
+      "id": "existua-39b206",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "exist"
+      ],
+      "tags": {
+        "brand": "Exist.ua",
+        "brand:wikidata": "Q118313531",
+        "name": "Exist.ua",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/www.exist.ua/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/existua-39b206.jpg",
+      "local_logo_path": "localbrand/logo/existua-39b206.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/www.exist.ua/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/existua-39b206.jpg"
+      }
+    },
+    {
+      "displayName": "FleetPride",
+      "id": "fleetpride-bb9baa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/truck_repair"
+      ],
+      "tags": {
+        "brand": "FleetPride",
+        "brand:wikidata": "Q121436710",
+        "name": "FleetPride",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/fleetprideinc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fleetpride-bb9baa.png",
+      "local_logo_path": "localbrand/logo/fleetpride-bb9baa.png",
+      "logos": {
+        "original": "https://graph.facebook.com/fleetprideinc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fleetpride-bb9baa.png"
+      }
+    },
+    {
+      "displayName": "FTZ",
+      "id": "ftz-29e157",
+      "locationSet": {
+        "include": [
+          "dk",
+          "fo"
+        ]
+      },
+      "tags": {
+        "brand": "FTZ",
+        "brand:wikidata": "Q120058589",
+        "name": "FTZ",
+        "ref:DK:cvr": "73648718",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "Goldwagen",
+      "id": "goldwagen-4d1b6b",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Goldwagen",
+        "brand:wikidata": "Q129485065",
+        "name": "Goldwagen",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/goldwagen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goldwagen-4d1b6b.jpg",
+      "local_logo_path": "localbrand/logo/goldwagen-4d1b6b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/goldwagen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goldwagen-4d1b6b.jpg"
+      }
+    },
+    {
+      "displayName": "GSF Car Parts",
+      "id": "gsfcarparts-078f70",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "matchNames": [
+        "parts alliance",
+        "the parts alliance"
+      ],
+      "tags": {
+        "brand": "GSF Car Parts",
+        "brand:wikidata": "Q80963064",
+        "name": "GSF Car Parts",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "Halfords",
+      "id": "halfords-078f70",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "matchNames": [
+        "halfords store"
+      ],
+      "matchTags": [
+        "shop/bicycle"
+      ],
+      "tags": {
+        "brand": "Halfords",
+        "brand:wikidata": "Q3398786",
+        "name": "Halfords",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/HalfordsUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/halfords-078f70.jpg",
+      "local_logo_path": "localbrand/logo/halfords-078f70.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HalfordsUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/halfords-078f70.jpg"
+      }
+    },
+    {
+      "displayName": "Inter Cars",
+      "id": "intercars-a4b6c1",
+      "locationSet": {
+        "include": [
+          "ba",
+          "bg",
+          "cz",
+          "ee",
+          "gr",
+          "hr",
+          "hu",
+          "it",
+          "la",
+          "lv",
+          "md",
+          "pl",
+          "ro",
+          "rs",
+          "si",
+          "sk",
+          "ua"
+        ]
+      },
+      "tags": {
+        "brand": "Inter Cars",
+        "brand:wikidata": "Q115922509",
+        "name": "Inter Cars",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/InterCarsOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/intercars-a4b6c1.jpg",
+      "local_logo_path": "localbrand/logo/intercars-a4b6c1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/InterCarsOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/intercars-a4b6c1.jpg"
+      }
+    },
+    {
+      "displayName": "Interstate Batteries",
+      "id": "interstatebatteries-bb9baa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/electric"
+      ],
+      "tags": {
+        "brand": "Interstate Batteries",
+        "brand:wikidata": "Q12060773",
+        "car_parts": "battery",
+        "name": "Interstate Batteries",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/InterstateBatteries/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/interstatebatteries-bb9baa.png",
+      "local_logo_path": "localbrand/logo/interstatebatteries-bb9baa.png",
+      "logos": {
+        "original": "https://graph.facebook.com/InterstateBatteries/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/interstatebatteries-bb9baa.png"
+      }
+    },
+    {
+      "displayName": "KOI Auto Parts",
+      "id": "koiautoparts-bb9baa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "KOI Auto Parts",
+        "brand:wikidata": "Q6334934",
+        "name": "KOI Auto Parts",
+        "shop": "car_parts",
+        "short_name": "KOI"
+      },
+      "original_logo_url": "https://graph.facebook.com/KOIAutoParts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/koiautoparts-bb9baa.jpg",
+      "local_logo_path": "localbrand/logo/koiautoparts-bb9baa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KOIAutoParts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/koiautoparts-bb9baa.jpg"
+      }
+    },
+    {
+      "displayName": "Lada Dеталь",
+      "id": "e07a01-a188f5",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Lada Dеталь",
+        "name": "Lada Dеталь",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "Lecar Store",
+      "id": "lecarstore-a188f5",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Lecar Store",
+        "name": "Lecar Store",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "LKQ",
+      "id": "lkq-9e6a0d",
+      "locationSet": {
+        "include": [
+          "150",
+          "ca",
+          "in",
+          "us"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "LKQ",
+        "brand:wikidata": "Q20711490",
+        "name": "LKQ",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/lkqcorp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lkq-9e6a0d.jpg",
+      "local_logo_path": "localbrand/logo/lkq-9e6a0d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lkqcorp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lkq-9e6a0d.jpg"
+      }
+    },
+    {
+      "displayName": "Lordco Auto Parts",
+      "id": "lordcoautoparts-00c584",
+      "locationSet": {
+        "include": [
+          "ca-ab.geojson",
+          "ca-bc.geojson"
+        ]
+      },
+      "matchNames": [
+        "lordco"
+      ],
+      "preserveTags": [
+        "^name$"
+      ],
+      "tags": {
+        "brand": "Lordco Auto Parts",
+        "brand:wikidata": "Q120811641",
+        "name": "Lordco Auto Parts",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/lordcoparts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lordcoautoparts-00c584.jpg",
+      "local_logo_path": "localbrand/logo/lordcoautoparts-00c584.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lordcoparts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lordcoautoparts-00c584.jpg"
+      }
+    },
+    {
+      "displayName": "Motonet",
+      "id": "motonet-f9e00e",
+      "locationSet": {
+        "include": [
+          "ee",
+          "fi",
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Motonet",
+        "brand:wikidata": "Q11883287",
+        "name": "Motonet",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/motonet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/motonet-f9e00e.jpg",
+      "local_logo_path": "localbrand/logo/motonet-f9e00e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/motonet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/motonet-f9e00e.jpg"
+      }
+    },
+    {
+      "displayName": "Motor Parts Direct",
+      "id": "motorpartsdirect-66043b",
+      "locationSet": {
+        "include": [
+          "gb-eng",
+          "gb-wls"
+        ]
+      },
+      "tags": {
+        "brand": "Motor Parts Direct",
+        "brand:wikidata": "Q115287506",
+        "name": "Motor Parts Direct",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/motorpartsdirectUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/motorpartsdirect-66043b.jpg",
+      "local_logo_path": "localbrand/logo/motorpartsdirect-66043b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/motorpartsdirectUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/motorpartsdirect-66043b.jpg"
+      }
+    },
+    {
+      "displayName": "NAPA Auto Parts",
+      "id": "napaautoparts-808aac",
+      "locationSet": {
+        "include": [
+          "ca",
+          "mx",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "napa",
+        "the napa network"
+      ],
+      "matchTags": [
+        "shop/car"
+      ],
+      "preserveTags": [
+        "^name$"
+      ],
+      "tags": {
+        "brand": "NAPA Auto Parts",
+        "brand:wikidata": "Q6970842",
+        "name": "NAPA Auto Parts",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/theNAPAnetwork/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/napaautoparts-808aac.jpg",
+      "local_logo_path": "localbrand/logo/napaautoparts-808aac.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/theNAPAnetwork/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/napaautoparts-808aac.jpg"
+      }
+    },
+    {
+      "displayName": "O'Reilly Auto Parts",
+      "id": "oreillyautoparts-bb9baa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "o'reilly",
+        "o'reilly auto"
+      ],
+      "matchTags": [
+        "shop/car",
+        "shop/doityourself"
+      ],
+      "tags": {
+        "brand": "O'Reilly Auto Parts",
+        "brand:wikidata": "Q7071951",
+        "name": "O'Reilly Auto Parts",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/oreillyautoparts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oreillyautoparts-bb9baa.png",
+      "local_logo_path": "localbrand/logo/oreillyautoparts-bb9baa.png",
+      "logos": {
+        "original": "https://graph.facebook.com/oreillyautoparts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oreillyautoparts-bb9baa.png"
+      }
+    },
+    {
+      "displayName": "PartSource",
+      "id": "partsource-b5fe01",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "PartSource",
+        "brand:wikidata": "Q7140095",
+        "name": "PartSource",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/partsourcecanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/partsource-b5fe01.png",
+      "local_logo_path": "localbrand/logo/partsource-b5fe01.png",
+      "logos": {
+        "original": "https://graph.facebook.com/partsourcecanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/partsource-b5fe01.png"
+      }
+    },
+    {
+      "displayName": "PV Automotive",
+      "id": "pvautomotive-776a25",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "PV Automotive",
+        "brand:wikidata": "Q2044844",
+        "name": "PV Automotive",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/pvbewegt/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pvautomotive-776a25.jpg",
+      "local_logo_path": "localbrand/logo/pvautomotive-776a25.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pvbewegt/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pvautomotive-776a25.jpg"
+      }
+    },
+    {
+      "displayName": "Repco",
+      "id": "repco-ff9108",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Repco",
+        "brand:wikidata": "Q173425",
+        "name": "Repco",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/RepcoAusCareers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/repco-ff9108.jpg",
+      "local_logo_path": "localbrand/logo/repco-ff9108.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RepcoAusCareers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/repco-ff9108.jpg"
+      }
+    },
+    {
+      "displayName": "Sanel NAPA",
+      "id": "sanelnapa-a1190a",
+      "locationSet": {
+        "include": [
+          "us-ma.geojson",
+          "us-me.geojson",
+          "us-nh.geojson",
+          "us-vt.geojson"
+        ]
+      },
+      "matchNames": [
+        "sanel auto parts"
+      ],
+      "tags": {
+        "brand": "Sanel NAPA",
+        "brand:wikidata": "Q122564780",
+        "name": "Sanel NAPA",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Sanel_NAPA_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sanelnapa-a1190a.png",
+      "local_logo_path": "localbrand/logo/sanelnapa-a1190a.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Sanel_NAPA_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sanelnapa-a1190a.png"
+      }
+    },
+    {
+      "displayName": "StarLine",
+      "id": "starline-672e72",
+      "locationSet": {
+        "include": [
+          "kz",
+          "ru",
+          "uz"
+        ]
+      },
+      "tags": {
+        "brand": "StarLine",
+        "name": "StarLine",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "Supercheap Auto",
+      "id": "supercheapauto-ff9108",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Supercheap Auto",
+        "brand:wikidata": "Q7643119",
+        "name": "Supercheap Auto",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/scauto/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/supercheapauto-ff9108.jpg",
+      "local_logo_path": "localbrand/logo/supercheapauto-ff9108.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/scauto/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/supercheapauto-ff9108.jpg"
+      }
+    },
+    {
+      "displayName": "thansen",
+      "id": "thansen-c9a26e",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "dk",
+          "no",
+          "se"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "alt_name": "T. Hansen",
+        "brand": "thansen",
+        "brand:wikidata": "Q12338957",
+        "name": "thansen",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/thansen.dk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thansen-c9a26e.jpg",
+      "local_logo_path": "localbrand/logo/thansen-c9a26e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/thansen.dk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thansen-c9a26e.jpg"
+      }
+    },
+    {
+      "displayName": "Tokić",
+      "id": "tokic-5b5de8",
+      "locationSet": {
+        "include": [
+          "ba",
+          "hr",
+          "si"
+        ]
+      },
+      "tags": {
+        "brand": "Tokić",
+        "brand:wikidata": "Q125761127",
+        "name": "Tokić",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/TokicAutodijelovi/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tokic-5b5de8.jpg",
+      "local_logo_path": "localbrand/logo/tokic-5b5de8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TokicAutodijelovi/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tokic-5b5de8.jpg"
+      }
+    },
+    {
+      "displayName": "WM Fahrzeugteile",
+      "id": "wmfahrzeugteile-776a25",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "WM Fahrzeugteile",
+        "brand:wikidata": "Q108069219",
+        "name": "WM Fahrzeugteile",
+        "shop": "car_parts",
+        "short_name": "WM"
+      },
+      "original_logo_url": "https://graph.facebook.com/WMSEGermany/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wmfahrzeugteile-776a25.jpg",
+      "local_logo_path": "localbrand/logo/wmfahrzeugteile-776a25.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WMSEGermany/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wmfahrzeugteile-776a25.jpg"
+      }
+    },
+    {
+      "displayName": "XL Parts",
+      "id": "xlparts-bb9baa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "XL Parts",
+        "brand:wikidata": "Q123188576",
+        "name": "XL Parts",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/XLPartsCorporate/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xlparts-bb9baa.jpg",
+      "local_logo_path": "localbrand/logo/xlparts-bb9baa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/XLPartsCorporate/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xlparts-bb9baa.jpg"
+      }
+    },
+    {
+      "displayName": "Авто1",
+      "id": "224cf6-59fdca",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "tags": {
+        "brand": "Авто1",
+        "name": "Авто1",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "Автомаркет",
+      "id": "91bc86-4d2c56",
+      "locationSet": {
+        "include": [
+          "by",
+          "kz",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Автомаркет",
+        "name": "Автомаркет",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "Автомиг",
+      "id": "2f7b71-a188f5",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Автомиг",
+        "name": "Автомиг",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "Автомотив",
+      "id": "avtomotiv-a188f5",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Автомотив",
+        "name": "Автомотив",
+        "name:en": "Avtomotiv",
+        "name:ru": "Автомотив",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "Аккумуляторы",
+      "id": "ed1240-331b80",
+      "locationSet": {
+        "include": [
+          "by",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Аккумуляторы",
+        "name": "Аккумуляторы",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "Армтек",
+      "id": "armtek-d9332c",
+      "locationSet": {
+        "include": [
+          "kz",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Армтек",
+        "brand:en": "Armtek",
+        "brand:ru": "Армтек",
+        "name": "Армтек",
+        "name:en": "Armtek",
+        "name:ru": "Армтек",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "Армтэк (Беларусь)",
+      "id": "armtek-59fdca",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "tags": {
+        "brand": "Армтэк",
+        "brand:be": "Армтэк",
+        "brand:en": "Armtek",
+        "brand:ru": "Армтек",
+        "name": "Армтэк",
+        "name:be": "Армтэк",
+        "name:en": "Armtek",
+        "name:ru": "Армтек",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "Би-Би",
+      "id": "55d7a6-a188f5",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Би-Би",
+        "name": "Би-Би",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "Вираж",
+      "id": "1585e2-a188f5",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Вираж",
+        "name": "Вираж",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "Колесо.ру",
+      "id": "37b991-a188f5",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Колесо.ру",
+        "name": "Колесо.ру",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "ამბოლი",
+      "id": "amboli-99ec77",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "ამბოლი",
+        "brand:en": "Amboli",
+        "brand:ka": "ამბოლი",
+        "brand:ru": "Амболи",
+        "brand:wikidata": "Q134735780",
+        "name": "ამბოლი",
+        "name:en": "Amboli",
+        "name:ka": "ამბოლი",
+        "name:ru": "Амболи",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "アップガレージ",
+      "id": "upgarage-e779db",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "アップガレージ",
+        "brand:en": "Up Garage",
+        "brand:ja": "アップガレージ",
+        "brand:wikidata": "Q11283832",
+        "name": "アップガレージ",
+        "name:en": "Up Garage",
+        "name:ja": "アップガレージ",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/173467589395984/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/upgarage-e779db.png",
+      "local_logo_path": "localbrand/logo/upgarage-e779db.png",
+      "logos": {
+        "original": "https://graph.facebook.com/173467589395984/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/upgarage-e779db.png"
+      }
+    },
+    {
+      "displayName": "イエローハット",
+      "id": "yellowhat-e779db",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "イエローハット",
+        "brand:en": "Yellow Hat",
+        "brand:ja": "イエローハット",
+        "brand:wikidata": "Q11285915",
+        "name": "イエローハット",
+        "name:en": "Yellow Hat",
+        "name:ja": "イエローハット",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "オートバックス",
+      "id": "autobacs-e779db",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "オートバックス",
+        "brand:en": "Autobacs",
+        "brand:ja": "オートバックス",
+        "brand:wikidata": "Q7886426",
+        "name": "オートバックス",
+        "name:en": "Autobacs",
+        "name:ja": "オートバックス",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "displayName": "ジェームス",
+      "id": "jms-e779db",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ジェームス",
+        "brand:en": "JMS",
+        "brand:ja": "ジェームス",
+        "brand:wikidata": "Q11309404",
+        "name": "ジェームス",
+        "name:en": "JMS",
+        "name:ja": "ジェームス",
+        "official_name:en": "Joyful Motorist Shop",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/1589262564705310/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jms-e779db.png",
+      "local_logo_path": "localbrand/logo/jms-e779db.png",
+      "logos": {
+        "original": "https://graph.facebook.com/1589262564705310/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jms-e779db.png"
+      }
+    },
+    {
+      "displayName": "タイヤ館",
+      "id": "taiyakan-e779db",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "タイヤ館",
+        "brand:en": "Taiyakan",
+        "brand:ja": "タイヤ館",
+        "brand:wikidata": "Q11315808",
+        "name": "タイヤ館",
+        "name:en": "Taiyakan",
+        "name:ja": "タイヤ館",
+        "shop": "car_parts"
+      },
+      "original_logo_url": "https://graph.facebook.com/1627235540828842/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taiyakan-e779db.png",
+      "local_logo_path": "localbrand/logo/taiyakan-e779db.png",
+      "logos": {
+        "original": "https://graph.facebook.com/1627235540828842/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taiyakan-e779db.png"
+      }
+    }
+  ]
+}

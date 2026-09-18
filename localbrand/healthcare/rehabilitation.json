@@ -1,0 +1,34 @@
+{
+  "properties": {
+    "path": "brands/healthcare/rehabilitation",
+    "exclude": {
+      "generic": [
+        "^rehabilitation$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Turning Point",
+      "id": "turningpoint-f273e9",
+      "locationSet": {
+        "include": [
+          "gb-eng"
+        ]
+      },
+      "tags": {
+        "brand": "Turning Point",
+        "brand:wikidata": "Q110875697",
+        "healthcare": "rehabilitation",
+        "name": "Turning Point"
+      },
+      "original_logo_url": "https://graph.facebook.com/TurningPointSocialEnterprise/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/turningpoint-f273e9.png",
+      "local_logo_path": "localbrand/logo/turningpoint-f273e9.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TurningPointSocialEnterprise/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/turningpoint-f273e9.png"
+      }
+    }
+  ]
+}

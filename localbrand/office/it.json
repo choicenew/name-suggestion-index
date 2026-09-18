@@ -1,0 +1,129 @@
+{
+  "properties": {
+    "path": "brands/office/it",
+    "exclude": {
+      "generic": [
+        "^it$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Meta",
+      "id": "meta-124efb",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "facebook",
+        "meta platforms"
+      ],
+      "matchTags": [
+        "office/company"
+      ],
+      "tags": {
+        "brand": "Meta",
+        "brand:wikidata": "Q380",
+        "name": "Meta",
+        "office": "it"
+      },
+      "original_logo_url": "https://graph.facebook.com/Facebook/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meta-124efb.jpg",
+      "local_logo_path": "localbrand/logo/meta-124efb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Facebook/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meta-124efb.jpg"
+      }
+    },
+    {
+      "displayName": "Randstad Digital",
+      "id": "randstaddigital-ae4dd7",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Randstad Digital",
+        "brand:wikidata": "Q2872338",
+        "name": "Randstad Digital",
+        "office": "it",
+        "old_name": "Ausy"
+      }
+    },
+    {
+      "displayName": "Salesforce",
+      "id": "salesforce-124efb",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "office/company"
+      ],
+      "tags": {
+        "brand": "Salesforce",
+        "brand:wikidata": "Q941127",
+        "name": "Salesforce",
+        "office": "it"
+      },
+      "original_logo_url": "https://graph.facebook.com/5634829153/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/salesforce-124efb.jpg",
+      "local_logo_path": "localbrand/logo/salesforce-124efb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/5634829153/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/salesforce-124efb.jpg"
+      }
+    },
+    {
+      "displayName": "TeamLogic IT",
+      "id": "teamlogicit-560843",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "TeamLogic IT",
+        "brand:wikidata": "Q119996721",
+        "name": "TeamLogic IT",
+        "office": "it"
+      },
+      "original_logo_url": "https://graph.facebook.com/teamlogicitonline/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/teamlogicit-560843.jpg",
+      "local_logo_path": "localbrand/logo/teamlogicit-560843.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/teamlogicitonline/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/teamlogicit-560843.jpg"
+      }
+    },
+    {
+      "displayName": "Твій час",
+      "id": "8833b6-c6f3a5",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchTags": [
+        "office/accountant"
+      ],
+      "tags": {
+        "brand": "Твій час",
+        "brand:wikidata": "Q122851760",
+        "name": "Твій час",
+        "office": "it"
+      },
+      "original_logo_url": "https://graph.facebook.com/tviy4as/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/8833b6-c6f3a5.jpg",
+      "local_logo_path": "localbrand/logo/8833b6-c6f3a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tviy4as/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/8833b6-c6f3a5.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,986 @@
+{
+  "properties": {
+    "path": "brands/amenity/recycling",
+    "skipCollection": true,
+    "exclude": {
+      "generic": [
+        "^recycling$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "AIM Recyclage",
+      "id": "aimrecyclage-a73b99",
+      "locationSet": {
+        "include": [
+          "ca-qc.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "AIM Recycling",
+        "brand:wikidata": "Q130508451",
+        "name": "AIM Recyclage",
+        "recycling_type": "centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/AIMRecyclingCanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aimrecyclage-a73b99.jpg",
+      "local_logo_path": "localbrand/logo/aimrecyclage-a73b99.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AIMRecyclingCanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aimrecyclage-a73b99.jpg"
+      }
+    },
+    {
+      "displayName": "AIM Recycling",
+      "id": "aimrecycling-1b67de",
+      "locationSet": {
+        "include": [
+          "be",
+          "ca",
+          "de",
+          "hk",
+          "mx",
+          "us"
+        ],
+        "exclude": [
+          "ca-qc.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "AIM Recycling",
+        "brand:wikidata": "Q130508451",
+        "name": "AIM Recycling",
+        "recycling_type": "centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/AIMRecyclingCanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aimrecycling-1b67de.jpg",
+      "local_logo_path": "localbrand/logo/aimrecycling-1b67de.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AIMRecyclingCanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aimrecycling-1b67de.jpg"
+      }
+    },
+    {
+      "displayName": "Arbeiter-Samariter-Bund",
+      "id": "arbeitersamariterbund-f6fab4",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "asb"
+      ],
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Arbeiter-Samariter-Bund",
+        "brand:wikidata": "Q627071",
+        "recycling_type": "container"
+      },
+      "original_logo_url": "https://graph.facebook.com/asb.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arbeitersamariterbund-f6fab4.jpg",
+      "local_logo_path": "localbrand/logo/arbeitersamariterbund-f6fab4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/asb.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arbeitersamariterbund-f6fab4.jpg"
+      }
+    },
+    {
+      "displayName": "Arbeiterwohlfahrt",
+      "id": "arbeiterwohlfahrt-f6fab4",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "awo"
+      ],
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Arbeiterwohlfahrt",
+        "brand:wikidata": "Q627256",
+        "recycling_type": "container"
+      }
+    },
+    {
+      "displayName": "Bayerisches Rotes Kreuz",
+      "id": "bayerischesroteskreuz-ec47a1",
+      "locationSet": {
+        "include": [
+          "de-by.geojson"
+        ]
+      },
+      "matchNames": [
+        "brk"
+      ],
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Bayerisches Rotes Kreuz",
+        "brand:wikidata": "Q812433",
+        "recycling_type": "container"
+      },
+      "original_logo_url": "https://graph.facebook.com/brklgst/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bayerischesroteskreuz-ec47a1.jpg",
+      "local_logo_path": "localbrand/logo/bayerischesroteskreuz-ec47a1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/brklgst/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bayerischesroteskreuz-ec47a1.jpg"
+      }
+    },
+    {
+      "displayName": "BottleDrop Express",
+      "id": "bottledropexpress-95a314",
+      "locationSet": {
+        "include": [
+          "us-or.geojson"
+        ]
+      },
+      "note": "To be used for bag drop stations.",
+      "tags": {
+        "amenity": "recycling",
+        "brand": "BottleDrop",
+        "brand:wikidata": "Q107673127",
+        "name": "BottleDrop Express",
+        "operator": "Oregon Beverage Recycling Cooperative",
+        "recycling_type": "centre",
+        "recycling:cans": "yes",
+        "recycling:glass_bottles": "yes",
+        "recycling:plastic_bottles": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/OregonBottleDrop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bottledropexpress-95a314.png",
+      "local_logo_path": "localbrand/logo/bottledropexpress-95a314.png",
+      "logos": {
+        "original": "https://graph.facebook.com/OregonBottleDrop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bottledropexpress-95a314.png"
+      }
+    },
+    {
+      "displayName": "BottleDrop Redemption Center",
+      "id": "bottledropredemptioncenter-95a314",
+      "locationSet": {
+        "include": [
+          "us-or.geojson"
+        ]
+      },
+      "note": "To be used for standalone redemption centers (not inside supermarkets).",
+      "tags": {
+        "amenity": "recycling",
+        "brand": "BottleDrop",
+        "brand:wikidata": "Q107673127",
+        "name": "BottleDrop Redemption Center",
+        "operator": "Oregon Beverage Recycling Cooperative",
+        "recycling_type": "centre",
+        "recycling:cans": "yes",
+        "recycling:glass_bottles": "yes",
+        "recycling:plastic_bottles": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/OregonBottleDrop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bottledropredemptioncenter-95a314.png",
+      "local_logo_path": "localbrand/logo/bottledropredemptioncenter-95a314.png",
+      "logos": {
+        "original": "https://graph.facebook.com/OregonBottleDrop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bottledropredemptioncenter-95a314.png"
+      }
+    },
+    {
+      "displayName": "Caritas (Deutschland)",
+      "id": "caritas-f6fab4",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Caritas",
+        "brand:wikidata": "Q29508174",
+        "recycling_type": "container"
+      },
+      "original_logo_url": "https://graph.facebook.com/caritas.deutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritas-f6fab4.jpg",
+      "local_logo_path": "localbrand/logo/caritas-f6fab4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/caritas.deutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritas-f6fab4.jpg"
+      }
+    },
+    {
+      "displayName": "Charita Česká republika",
+      "id": "charitaceskarepublika-16d48f",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Charita Česká republika",
+        "brand:cs": "Charita Česká republika",
+        "brand:en": "Caritas Czech Republic",
+        "brand:wikidata": "Q11723065",
+        "recycling_type": "container"
+      },
+      "original_logo_url": "https://graph.facebook.com/CharitaCR/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/charitaceskarepublika-16d48f.jpg",
+      "local_logo_path": "localbrand/logo/charitaceskarepublika-16d48f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CharitaCR/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/charitaceskarepublika-16d48f.jpg"
+      }
+    },
+    {
+      "displayName": "Consignaction",
+      "id": "consignaction-a73b99",
+      "locationSet": {
+        "include": [
+          "ca-qc.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Consignaction",
+        "brand:wikidata": "Q132858940",
+        "name": "Consignaction",
+        "recycling_type": "centre",
+        "recycling:beverage_cartons": "yes",
+        "recycling:cans": "yes",
+        "recycling:glass_bottles": "yes",
+        "recycling:plastic_bottles": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/Consignaction/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/consignaction-a73b99.jpg",
+      "local_logo_path": "localbrand/logo/consignaction-a73b99.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Consignaction/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/consignaction-a73b99.jpg"
+      }
+    },
+    {
+      "displayName": "Containers for Change",
+      "id": "containersforchange-00629f",
+      "locationSet": {
+        "include": [
+          "au-qld.geojson",
+          "au-wa.geojson"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Containers for Change",
+        "brand:wikidata": "Q124060523",
+        "name": "Containers for Change",
+        "recycling_type": "centre",
+        "recycling:cans": "yes",
+        "recycling:glass_bottles": "yes",
+        "recycling:plastic_bottles": "yes"
+      }
+    },
+    {
+      "displayName": "Depozīta punkts",
+      "id": "depozitapunkts-831330",
+      "locationSet": {
+        "include": [
+          "lv"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Depozīta punkts",
+        "brand:wikidata": "Q110979381",
+        "name": "Depozīta punkts",
+        "recycling:cans": "yes",
+        "recycling:glass_bottles": "yes",
+        "recycling:plastic_bottles": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/Depozitapunkts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/depozitapunkts-831330.jpg",
+      "local_logo_path": "localbrand/logo/depozitapunkts-831330.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Depozitapunkts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/depozitapunkts-831330.jpg"
+      }
+    },
+    {
+      "displayName": "Deutsches Rotes Kreuz",
+      "id": "deutschesroteskreuz-f6fab4",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "deutsches rotes kreuz e.v.",
+        "drk",
+        "rotes kreuz"
+      ],
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Deutsches Rotes Kreuz",
+        "brand:wikidata": "Q694104",
+        "recycling_type": "container"
+      },
+      "original_logo_url": "https://graph.facebook.com/67003546475/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deutschesroteskreuz-f6fab4.jpg",
+      "local_logo_path": "localbrand/logo/deutschesroteskreuz-f6fab4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/67003546475/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deutschesroteskreuz-f6fab4.jpg"
+      }
+    },
+    {
+      "displayName": "Diakonie",
+      "id": "diakonie-f6fab4",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "diakoniewerk",
+        "diakonisches werk"
+      ],
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Diakonie",
+        "brand:wikidata": "Q126501",
+        "recycling_type": "container"
+      },
+      "original_logo_url": "https://graph.facebook.com/diakonie/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/diakonie-f6fab4.jpg",
+      "local_logo_path": "localbrand/logo/diakonie-f6fab4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/diakonie/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/diakonie-f6fab4.jpg"
+      }
+    },
+    {
+      "displayName": "ecoATM",
+      "id": "ecoatm-f8d7ba",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "ecoATM",
+        "brand:wikidata": "Q108793413",
+        "name": "ecoATM",
+        "recycling_type": "vending_machine",
+        "recycling:mobile_phones": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/ecoATM/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecoatm-f8d7ba.jpg",
+      "local_logo_path": "localbrand/logo/ecoatm-f8d7ba.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ecoATM/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecoatm-f8d7ba.jpg"
+      }
+    },
+    {
+      "displayName": "Ecobattery",
+      "id": "ecobattery-312544",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Ecobattery",
+        "brand:wikidata": "Q136764783",
+        "recycling_type": "bin",
+        "recycling:batteries": "yes"
+      }
+    },
+    {
+      "displayName": "ecoco",
+      "id": "ecoco-d37f05",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "ecoco",
+        "brand:en": "ecoco",
+        "brand:wikidata": "Q131689024",
+        "brand:zh": "宜可可",
+        "name": "ecoco",
+        "name:en": "ecoco",
+        "name:zh": "宜可可",
+        "operator": "凡立橙股份有限公司",
+        "operator:en": "Fun Lead Chabge Co., Ltd",
+        "operator:zh": "凡立橙股份有限公司",
+        "recycling_type": "container"
+      },
+      "original_logo_url": "https://graph.facebook.com/ECOCOPOINT/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecoco-d37f05.jpg",
+      "local_logo_path": "localbrand/logo/ecoco-d37f05.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ECOCOPOINT/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecoco-d37f05.jpg"
+      }
+    },
+    {
+      "displayName": "Goodwill",
+      "id": "goodwill-f8d7ba",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Goodwill",
+        "brand:wikidata": "Q5583655"
+      },
+      "original_logo_url": "https://graph.facebook.com/GoodwillIntl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goodwill-f8d7ba.jpg",
+      "local_logo_path": "localbrand/logo/goodwill-f8d7ba.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GoodwillIntl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goodwill-f8d7ba.jpg"
+      }
+    },
+    {
+      "displayName": "Islamic Relief",
+      "id": "islamicrelief-a9e339",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Islamic Relief",
+        "brand:wikidata": "Q239714",
+        "name": "Islamic Relief",
+        "operator": "Islamic Relief",
+        "operator:wikidata": "Q239714",
+        "recycling_type": "container",
+        "recycling:clothes": "yes",
+        "recycling:shoes": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/IslamicReliefAR/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/islamicrelief-a9e339.jpg",
+      "local_logo_path": "localbrand/logo/islamicrelief-a9e339.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IslamicReliefAR/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/islamicrelief-a9e339.jpg"
+      }
+    },
+    {
+      "displayName": "Kolpingwerk",
+      "id": "kolpingwerk-f6fab4",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "kolping",
+        "kolping recycling gmbh"
+      ],
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Kolpingwerk",
+        "brand:wikidata": "Q315825",
+        "recycling_type": "container"
+      },
+      "original_logo_url": "https://graph.facebook.com/KolpingwerkDeutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kolpingwerk-f6fab4.jpg",
+      "local_logo_path": "localbrand/logo/kolpingwerk-f6fab4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KolpingwerkDeutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kolpingwerk-f6fab4.jpg"
+      }
+    },
+    {
+      "displayName": "Malteser Hilfsdienst",
+      "id": "malteserhilfsdienst-f6fab4",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "malteser",
+        "malteser hilfdienst",
+        "malteser hilfdienst e.v.",
+        "malteser hilfsdienst e.v."
+      ],
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Malteser Hilfsdienst",
+        "brand:short": "MHD",
+        "brand:wikidata": "Q1318397",
+        "recycling_type": "container"
+      },
+      "original_logo_url": "https://graph.facebook.com/malteser.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/malteserhilfsdienst-f6fab4.png",
+      "local_logo_path": "localbrand/logo/malteserhilfsdienst-f6fab4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/malteser.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/malteserhilfsdienst-f6fab4.png"
+      }
+    },
+    {
+      "displayName": "Oxfam",
+      "id": "oxfam-a9e339",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Oxfam",
+        "brand:wikidata": "Q267941",
+        "operator": "Oxfam",
+        "operator:wikidata": "Q267941",
+        "recycling_type": "container",
+        "recycling:clothes": "yes",
+        "recycling:shoes": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/oxfamGB/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oxfam-a9e339.jpg",
+      "local_logo_path": "localbrand/logo/oxfam-a9e339.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/oxfamGB/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oxfam-a9e339.jpg"
+      }
+    },
+    {
+      "displayName": "Planet Aid",
+      "id": "planetaid-f8d7ba",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Planet Aid",
+        "brand:wikidata": "Q7201055",
+        "name": "Planet Aid",
+        "recycling_type": "container",
+        "recycling:clothes": "yes",
+        "recycling:shoes": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/Planet.Aid/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/planetaid-f8d7ba.jpg",
+      "local_logo_path": "localbrand/logo/planetaid-f8d7ba.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Planet.Aid/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/planetaid-f8d7ba.jpg"
+      }
+    },
+    {
+      "displayName": "Recolight",
+      "id": "recolight-a9e339",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Recolight",
+        "brand:wikidata": "Q111370781",
+        "name": "Recolight",
+        "operator": "Recolight",
+        "operator:wikidata": "Q111370781",
+        "recycling_type": "container",
+        "recycling:low_energy_bulbs": "yes"
+      }
+    },
+    {
+      "displayName": "Saint Vincent de Paul",
+      "id": "saintvincentdepaul-f8d7ba",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "st vincent de paul"
+      ],
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Saint Vincent de Paul",
+        "brand:wikidata": "Q7592120",
+        "name": "Saint Vincent de Paul",
+        "recycling:clothes": "yes",
+        "recycling:shoes": "yes",
+        "short_name": "SVdP"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Society_of_Saint_Vincent_de_Paul_-_Central_Store_in_Ottawa%2C_Ontario.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saintvincentdepaul-f8d7ba.jpg",
+      "local_logo_path": "localbrand/logo/saintvincentdepaul-f8d7ba.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/05/Society_of_Saint_Vincent_de_Paul_-_Central_Store_in_Ottawa%2C_Ontario.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saintvincentdepaul-f8d7ba.jpg"
+      }
+    },
+    {
+      "displayName": "TextilEco",
+      "id": "textileco-7f5fab",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "TextilEco",
+        "brand:wikidata": "Q137507665",
+        "operator": "TextilEco",
+        "operator:wikidata": "Q137507665",
+        "recycling_type": "container"
+      },
+      "original_logo_url": "https://graph.facebook.com/TextilEcoCz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/textileco-7f5fab.png",
+      "local_logo_path": "localbrand/logo/textileco-7f5fab.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TextilEcoCz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/textileco-7f5fab.png"
+      }
+    },
+    {
+      "displayName": "Textileco (Český červený kříž)",
+      "id": "textileco-16d48f",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "note": "Recycling project in cooperation with the Czech Red Cross.",
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Textileco",
+        "brand:wikidata": "Q19602750",
+        "operator": "Coretex CZ",
+        "operator:wikidata": "Q137507932",
+        "recycling_type": "container"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_simple_sm.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/textileco-16d48f.png",
+      "local_logo_path": "localbrand/logo/textileco-16d48f.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_simple_sm.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/textileco-16d48f.png"
+      }
+    },
+    {
+      "displayName": "The Salvation Army (UK)",
+      "id": "thesalvationarmy-a9e339",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "salvation army"
+      ],
+      "tags": {
+        "amenity": "recycling",
+        "brand": "The Salvation Army",
+        "brand:wikidata": "Q188307",
+        "recycling_type": "container",
+        "recycling:clothes": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/SalvationArmyIHQ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thesalvationarmy-a9e339.png",
+      "local_logo_path": "localbrand/logo/thesalvationarmy-a9e339.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SalvationArmyIHQ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thesalvationarmy-a9e339.png"
+      }
+    },
+    {
+      "displayName": "The Salvation Army (USA)",
+      "id": "thesalvationarmy-f8d7ba",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "salvation army"
+      ],
+      "tags": {
+        "amenity": "recycling",
+        "brand": "The Salvation Army",
+        "brand:wikidata": "Q188307",
+        "name": "The Salvation Army",
+        "recycling_type": "container",
+        "recycling:clothes": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/SalvationArmyIHQ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thesalvationarmy-f8d7ba.png",
+      "local_logo_path": "localbrand/logo/thesalvationarmy-f8d7ba.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SalvationArmyIHQ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thesalvationarmy-f8d7ba.png"
+      }
+    },
+    {
+      "displayName": "TRAID",
+      "id": "traid-a9e339",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "TRAID",
+        "brand:wikidata": "Q109717195",
+        "name": "TRAID",
+        "operator": "TRAID",
+        "operator:wikidata": "Q109717195",
+        "recycling_type": "container",
+        "recycling:clothes": "yes",
+        "recycling:shoes": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/TRAIDcharity/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/traid-a9e339.jpg",
+      "local_logo_path": "localbrand/logo/traid-a9e339.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TRAIDcharity/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/traid-a9e339.jpg"
+      }
+    },
+    {
+      "displayName": "USAgain",
+      "id": "usagain-f8d7ba",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "USAgain",
+        "brand:wikidata": "Q107673127",
+        "name": "USAgain",
+        "name:pronunciation": "ˈjuz əˈɡɛn",
+        "recycling_type": "container",
+        "recycling:clothes": "yes",
+        "recycling:shoes": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/OregonBottleDrop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/usagain-f8d7ba.png",
+      "local_logo_path": "localbrand/logo/usagain-f8d7ba.png",
+      "logos": {
+        "original": "https://graph.facebook.com/OregonBottleDrop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/usagain-f8d7ba.png"
+      }
+    },
+    {
+      "displayName": "ŽP Eko Qelet",
+      "id": "zpekoqelet-fc4442",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "ŽP Eko Qelet",
+        "brand:wikidata": "Q138763379",
+        "name": "ŽP Eko Qelet",
+        "recycling_type": "centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/zpekoqelet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zpekoqelet-fc4442.jpg",
+      "local_logo_path": "localbrand/logo/zpekoqelet-fc4442.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/zpekoqelet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zpekoqelet-fc4442.jpg"
+      }
+    },
+    {
+      "displayName": "Аз вярвам и помагам",
+      "id": "3b0b79-312544",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Аз вярвам и помагам",
+        "brand:wikidata": "Q139304739",
+        "recycling_type": "container",
+        "recycling:plastic_bottle_caps": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/azvyarvamipomagam/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/3b0b79-312544.jpg",
+      "local_logo_path": "localbrand/logo/3b0b79-312544.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/azvyarvamipomagam/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/3b0b79-312544.jpg"
+      }
+    },
+    {
+      "displayName": "Елтехресурс",
+      "id": "f8add0-312544",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Елтехресурс",
+        "brand:wikidata": "Q131896432",
+        "recycling_type": "bin",
+        "recycling:small_appliances": "yes"
+      }
+    },
+    {
+      "displayName": "Капачки за бъдеще",
+      "id": "ea1edf-312544",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Капачки за бъдеще",
+        "brand:wikidata": "Q139304730",
+        "recycling_type": "container",
+        "recycling:plastic_bottle_caps": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/kapachkizabudeshte/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ea1edf-312544.jpg",
+      "local_logo_path": "localbrand/logo/ea1edf-312544.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kapachkizabudeshte/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ea1edf-312544.jpg"
+      }
+    },
+    {
+      "displayName": "Лѣпта",
+      "id": "b6327b-f85e9d",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "alt_name": "Лепта",
+        "amenity": "recycling",
+        "brand": "Лѣпта",
+        "brand:wikidata": "Q110234180",
+        "name": "Лѣпта",
+        "operator": "Лѣпта",
+        "operator:wikidata": "Q110234180",
+        "recycling_type": "container",
+        "recycling:bags": "yes",
+        "recycling:clothes": "yes",
+        "recycling:shoes": "yes",
+        "recycling:toys": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/lepta.vintage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/b6327b-f85e9d.png",
+      "local_logo_path": "localbrand/logo/b6327b-f85e9d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/lepta.vintage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/b6327b-f85e9d.png"
+      }
+    },
+    {
+      "displayName": "Спасибо!",
+      "id": "e4ddd4-f85e9d",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "Спасибо!",
+        "brand:wikidata": "Q110234301",
+        "name": "Спасибо!",
+        "operator": "Спасибо!",
+        "operator:wikidata": "Q110234301",
+        "recycling_type": "container",
+        "recycling:books": "yes",
+        "recycling:clothes": "yes",
+        "recycling:shoes": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/spasiboshopspb/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/e4ddd4-f85e9d.jpg",
+      "local_logo_path": "localbrand/logo/e4ddd4-f85e9d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/spasiboshopspb/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/e4ddd4-f85e9d.jpg"
+      }
+    },
+    {
+      "displayName": "УОН",
+      "id": "a1f00b-312544",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "matchNames": [
+        "won"
+      ],
+      "tags": {
+        "amenity": "recycling",
+        "brand": "УОН",
+        "brand:wikidata": "Q129167135",
+        "recycling_type": "container",
+        "recycling:cooking_oil": "yes"
+      }
+    },
+    {
+      "displayName": "綠在區區 GREEN@COMMUNITY",
+      "id": "greencommunity-f66c52",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "amenity": "recycling",
+        "brand": "綠在區區 GREEN@COMMUNITY",
+        "brand:en": "GREEN@COMMUNITY",
+        "brand:wikidata": "Q111079364",
+        "brand:zh": "綠在區區",
+        "brand:zh-Hans": "绿在区区",
+        "brand:zh-Hant": "綠在區區",
+        "owner": "環境保護署 Environmental Protection Department",
+        "owner:en": "Environmental Protection Department",
+        "owner:wikidata": "Q841892",
+        "owner:zh": "環境保護署",
+        "owner:zh-Hans": "环境保护署",
+        "owner:zh-Hant": "環境保護署",
+        "recycling_type": "centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/6green.yipeisquare/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greencommunity-f66c52.jpg",
+      "local_logo_path": "localbrand/logo/greencommunity-f66c52.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/6green.yipeisquare/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greencommunity-f66c52.jpg"
+      }
+    }
+  ]
+}

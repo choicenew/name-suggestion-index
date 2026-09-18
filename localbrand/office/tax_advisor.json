@@ -1,0 +1,242 @@
+{
+  "properties": {
+    "path": "brands/office/tax_advisor",
+    "exclude": {
+      "generic": [
+        "^tax advisor$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Block Advisors",
+      "id": "blockadvisors-53d576",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Block Advisors",
+        "brand:wikidata": "Q64166231",
+        "name": "Block Advisors",
+        "office": "tax_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/BlockAdvisors/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blockadvisors-53d576.jpg",
+      "local_logo_path": "localbrand/logo/blockadvisors-53d576.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BlockAdvisors/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blockadvisors-53d576.jpg"
+      }
+    },
+    {
+      "displayName": "H&R Block",
+      "id": "handrblock-c966c8",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "in",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "h&r block canada",
+        "hr block"
+      ],
+      "tags": {
+        "brand": "H&R Block",
+        "brand:wikidata": "Q5627799",
+        "name": "H&R Block",
+        "office": "tax_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/hrblock/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/handrblock-c966c8.jpg",
+      "local_logo_path": "localbrand/logo/handrblock-c966c8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hrblock/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/handrblock-c966c8.jpg"
+      }
+    },
+    {
+      "displayName": "Jackson Hewitt",
+      "id": "jacksonhewitt-53d576",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "jackson hewitt, inc."
+      ],
+      "tags": {
+        "brand": "Jackson Hewitt",
+        "brand:wikidata": "Q6117132",
+        "name": "Jackson Hewitt",
+        "office": "tax_advisor",
+        "official_name": "Jackson Hewitt Tax Service"
+      },
+      "original_logo_url": "https://graph.facebook.com/jacksonhewitt/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jacksonhewitt-53d576.jpg",
+      "local_logo_path": "localbrand/logo/jacksonhewitt-53d576.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/jacksonhewitt/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jacksonhewitt-53d576.jpg"
+      }
+    },
+    {
+      "displayName": "Liberty Tax",
+      "id": "libertytax-15740c",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "liberty tax services"
+      ],
+      "tags": {
+        "alt_name": "Liberty Tax Service",
+        "brand": "Liberty Tax",
+        "brand:wikidata": "Q6541978",
+        "name": "Liberty Tax",
+        "office": "tax_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/libertytax/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libertytax-15740c.png",
+      "local_logo_path": "localbrand/logo/libertytax-15740c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/libertytax/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libertytax-15740c.png"
+      }
+    },
+    {
+      "displayName": "Lohnsteuerhilfe Baden-Württemberg",
+      "id": "lohnsteuerhilfebadenwurttemberg-7fe1b3",
+      "locationSet": {
+        "include": [
+          "de-bw.geojson"
+        ]
+      },
+      "matchNames": [
+        "lohi bw",
+        "lohnsteuerhilfe baden württemberg e. v.",
+        "lohnsteuerhilfe bw"
+      ],
+      "tags": {
+        "brand": "Lohnsteuerhilfe Baden-Württemberg",
+        "brand:wikidata": "Q76215293",
+        "name": "Lohnsteuerhilfe Baden-Württemberg",
+        "office": "tax_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/LohnsteuerhilfeBW/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lohnsteuerhilfebadenwurttemberg-7fe1b3.jpg",
+      "local_logo_path": "localbrand/logo/lohnsteuerhilfebadenwurttemberg-7fe1b3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LohnsteuerhilfeBW/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lohnsteuerhilfebadenwurttemberg-7fe1b3.jpg"
+      }
+    },
+    {
+      "displayName": "Lohnsteuerhilfe Bayern",
+      "id": "lohnsteuerhilfebayern-8e1f0d",
+      "locationSet": {
+        "include": [
+          "de-by.geojson"
+        ]
+      },
+      "matchNames": [
+        "lohi",
+        "lohnsteuerhilfe bayern e. v."
+      ],
+      "tags": {
+        "brand": "Lohnsteuerhilfe Bayern",
+        "brand:wikidata": "Q1868258",
+        "name": "Lohnsteuerhilfe Bayern",
+        "office": "tax_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/lohnsteuerhilfe.bayern/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lohnsteuerhilfebayern-8e1f0d.jpg",
+      "local_logo_path": "localbrand/logo/lohnsteuerhilfebayern-8e1f0d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lohnsteuerhilfe.bayern/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lohnsteuerhilfebayern-8e1f0d.jpg"
+      }
+    },
+    {
+      "displayName": "Steuerring",
+      "id": "steuerring-02f00c",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "lohn- und einkommensteuer hilfe-ring deutschland e. v."
+      ],
+      "tags": {
+        "brand": "Steuerring",
+        "brand:wikidata": "Q1868230",
+        "name": "Steuerring",
+        "office": "tax_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/SteuerRing/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/steuerring-02f00c.jpg",
+      "local_logo_path": "localbrand/logo/steuerring-02f00c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SteuerRing/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/steuerring-02f00c.jpg"
+      }
+    },
+    {
+      "displayName": "TaxAssist Accountants",
+      "id": "taxassistaccountants-6972d1",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "TaxAssist Accountants",
+        "brand:wikidata": "Q122459380",
+        "name": "TaxAssist Accountants",
+        "office": "tax_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/taxassistaccountantsuk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taxassistaccountants-6972d1.jpg",
+      "local_logo_path": "localbrand/logo/taxassistaccountants-6972d1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/taxassistaccountantsuk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taxassistaccountants-6972d1.jpg"
+      }
+    },
+    {
+      "displayName": "Vereinigte Lohnsteuerhilfe",
+      "id": "vereinigtelohnsteuerhilfe-02f00c",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "vereinigte lohnsteuerhilfe e. v.",
+        "vlh"
+      ],
+      "tags": {
+        "brand": "Vereinigte Lohnsteuerhilfe",
+        "brand:wikidata": "Q15852617",
+        "name": "Vereinigte Lohnsteuerhilfe",
+        "office": "tax_advisor"
+      },
+      "original_logo_url": "https://graph.facebook.com/lohnsteuerhilfeverein/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vereinigtelohnsteuerhilfe-02f00c.jpg",
+      "local_logo_path": "localbrand/logo/vereinigtelohnsteuerhilfe-02f00c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lohnsteuerhilfeverein/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vereinigtelohnsteuerhilfe-02f00c.jpg"
+      }
+    }
+  ]
+}

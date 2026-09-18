@@ -1,0 +1,56 @@
+{
+  "properties": {
+    "path": "brands/healthcare/audiologist",
+    "exclude": {
+      "generic": [
+        "^audiologist$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Hearing Australia",
+      "id": "hearingaustralia-4fdcf2",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Hearing Australia",
+        "brand:wikidata": "Q4824238",
+        "healthcare": "audiologist",
+        "name": "Hearing Australia"
+      },
+      "original_logo_url": "https://graph.facebook.com/HearingAustralia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hearingaustralia-4fdcf2.png",
+      "local_logo_path": "localbrand/logo/hearingaustralia-4fdcf2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/HearingAustralia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hearingaustralia-4fdcf2.png"
+      }
+    },
+    {
+      "displayName": "Imperial Hearing",
+      "id": "imperialhearing-b5f786",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Imperial Hearing",
+        "brand:wikidata": "Q86997819",
+        "healthcare": "audiologist",
+        "name": "Imperial Hearing"
+      },
+      "original_logo_url": "https://graph.facebook.com/imperialhearingltdgl50/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/imperialhearing-b5f786.png",
+      "local_logo_path": "localbrand/logo/imperialhearing-b5f786.png",
+      "logos": {
+        "original": "https://graph.facebook.com/imperialhearingltdgl50/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/imperialhearing-b5f786.png"
+      }
+    }
+  ]
+}

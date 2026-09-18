@@ -1,0 +1,34 @@
+{
+  "properties": {
+    "path": "brands/shop/bbq",
+    "exclude": {
+      "generic": [
+        "^(bbq|barbe[cq]ue)$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Barbeques Galore",
+      "id": "barbequesgalore-83e1d4",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Barbeques Galore",
+        "brand:wikidata": "Q4859570",
+        "name": "Barbeques Galore",
+        "shop": "bbq"
+      },
+      "original_logo_url": "https://graph.facebook.com/barbequesgalore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barbequesgalore-83e1d4.jpg",
+      "local_logo_path": "localbrand/logo/barbequesgalore-83e1d4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/barbequesgalore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barbequesgalore-83e1d4.jpg"
+      }
+    }
+  ]
+}

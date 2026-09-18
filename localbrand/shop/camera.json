@@ -1,0 +1,117 @@
+{
+  "properties": {
+    "path": "brands/shop/camera",
+    "exclude": {
+      "generic": [
+        "^camera$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Jessops",
+      "id": "jessops-916aa2",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchTags": [
+        "shop/electronics",
+        "shop/photo"
+      ],
+      "tags": {
+        "brand": "Jessops",
+        "brand:wikidata": "Q3191701",
+        "name": "Jessops",
+        "shop": "camera"
+      },
+      "original_logo_url": "https://graph.facebook.com/jessops/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jessops-916aa2.jpg",
+      "local_logo_path": "localbrand/logo/jessops-916aa2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/jessops/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jessops-916aa2.jpg"
+      }
+    },
+    {
+      "displayName": "Kamera Express",
+      "id": "kameraexpress-696f9c",
+      "locationSet": {
+        "include": [
+          "be",
+          "nl"
+        ]
+      },
+      "matchTags": [
+        "shop/electronics",
+        "shop/photo"
+      ],
+      "tags": {
+        "brand": "Kamera Express",
+        "brand:wikidata": "Q77976400",
+        "name": "Kamera Express",
+        "shop": "camera"
+      },
+      "original_logo_url": "https://graph.facebook.com/kameraexpress/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kameraexpress-696f9c.png",
+      "local_logo_path": "localbrand/logo/kameraexpress-696f9c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/kameraexpress/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kameraexpress-696f9c.png"
+      }
+    },
+    {
+      "displayName": "Leica",
+      "id": "leica-ccedc8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/electronics",
+        "shop/photo"
+      ],
+      "tags": {
+        "brand": "Leica",
+        "brand:wikidata": "Q161833",
+        "name": "Leica",
+        "shop": "camera"
+      },
+      "original_logo_url": "https://graph.facebook.com/LeicaCamera/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leica-ccedc8.jpg",
+      "local_logo_path": "localbrand/logo/leica-ccedc8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LeicaCamera/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leica-ccedc8.jpg"
+      }
+    },
+    {
+      "displayName": "London Camera Exchange",
+      "id": "londoncameraexchange-916aa2",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchTags": [
+        "shop/electronics",
+        "shop/photo"
+      ],
+      "tags": {
+        "brand": "London Camera Exchange",
+        "brand:wikidata": "Q84156395",
+        "name": "London Camera Exchange",
+        "shop": "camera"
+      },
+      "original_logo_url": "https://graph.facebook.com/londoncameraexchange/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/londoncameraexchange-916aa2.jpg",
+      "local_logo_path": "localbrand/logo/londoncameraexchange-916aa2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/londoncameraexchange/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/londoncameraexchange-916aa2.jpg"
+      }
+    }
+  ]
+}

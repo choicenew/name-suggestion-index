@@ -1,0 +1,375 @@
+{
+  "properties": {
+    "path": "brands/shop/household_linen",
+    "exclude": {
+      "generic": [
+        "^household linen$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Adairs",
+      "id": "adairs-f571b2",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Adairs",
+        "brand:wikidata": "Q109626904",
+        "name": "Adairs",
+        "shop": "household_linen"
+      },
+      "original_logo_url": "https://graph.facebook.com/AdairsRetailGroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adairs-f571b2.jpg",
+      "local_logo_path": "localbrand/logo/adairs-f571b2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AdairsRetailGroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adairs-f571b2.jpg"
+      }
+    },
+    {
+      "displayName": "Adairs Kids",
+      "id": "adairskids-f571b2",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Adairs Kids",
+        "brand:wikidata": "Q109626904",
+        "name": "Adairs Kids",
+        "shop": "household_linen"
+      },
+      "original_logo_url": "https://graph.facebook.com/AdairsRetailGroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adairskids-f571b2.jpg",
+      "local_logo_path": "localbrand/logo/adairskids-f571b2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AdairsRetailGroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adairskids-f571b2.jpg"
+      }
+    },
+    {
+      "displayName": "Bytový textil Škodák",
+      "id": "bytovytextilskodak-a06b17",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "Bytový textil Škodák",
+        "brand:wikidata": "Q102265224",
+        "name": "Bytový textil Škodák",
+        "shop": "household_linen"
+      },
+      "original_logo_url": "https://graph.facebook.com/skodakcz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bytovytextilskodak-a06b17.png",
+      "local_logo_path": "localbrand/logo/bytovytextilskodak-a06b17.png",
+      "logos": {
+        "original": "https://graph.facebook.com/skodakcz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bytovytextilskodak-a06b17.png"
+      }
+    },
+    {
+      "displayName": "Carré Blanc",
+      "id": "carreblanc-9f29b6",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Carré Blanc",
+        "brand:wikidata": "Q55596025",
+        "name": "Carré Blanc",
+        "shop": "household_linen"
+      },
+      "original_logo_url": "https://graph.facebook.com/CarreBlancFrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carreblanc-9f29b6.jpg",
+      "local_logo_path": "localbrand/logo/carreblanc-9f29b6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CarreBlancFrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carreblanc-9f29b6.jpg"
+      }
+    },
+    {
+      "displayName": "Descamps",
+      "id": "descamps-46fea9",
+      "locationSet": {
+        "include": [
+          "fx",
+          "lu"
+        ]
+      },
+      "tags": {
+        "brand": "Descamps",
+        "brand:wikidata": "Q91002058",
+        "name": "Descamps",
+        "shop": "household_linen"
+      },
+      "original_logo_url": "https://graph.facebook.com/Descamps/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/descamps-46fea9.jpg",
+      "local_logo_path": "localbrand/logo/descamps-46fea9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Descamps/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/descamps-46fea9.jpg"
+      }
+    },
+    {
+      "displayName": "Linvosges",
+      "id": "linvosges-e1f628",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Linvosges",
+        "brand:wikidata": "Q94359140",
+        "name": "Linvosges",
+        "shop": "household_linen"
+      },
+      "original_logo_url": "https://graph.facebook.com/Linvosges/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/linvosges-e1f628.jpg",
+      "local_logo_path": "localbrand/logo/linvosges-e1f628.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Linvosges/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/linvosges-e1f628.jpg"
+      }
+    },
+    {
+      "displayName": "MMartan",
+      "id": "mmartan-97127c",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "MMartan",
+        "brand:wikidata": "Q10322532",
+        "name": "MMartan",
+        "shop": "household_linen"
+      },
+      "original_logo_url": "https://graph.facebook.com/mmartanoficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mmartan-97127c.jpg",
+      "local_logo_path": "localbrand/logo/mmartan-97127c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mmartanoficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mmartan-97127c.jpg"
+      }
+    },
+    {
+      "displayName": "Pillow Talk",
+      "id": "pillowtalk-d682ae",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Pillow Talk",
+        "brand:wikidata": "Q120648495",
+        "name": "Pillow Talk",
+        "shop": "household_linen"
+      },
+      "original_logo_url": "https://graph.facebook.com/PillowTalkAustralia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pillowtalk-d682ae.jpg",
+      "local_logo_path": "localbrand/logo/pillowtalk-d682ae.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PillowTalkAustralia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pillowtalk-d682ae.jpg"
+      }
+    },
+    {
+      "displayName": "Princess",
+      "id": "princess-84d058",
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Princess",
+        "brand:wikidata": "Q127790786",
+        "name": "Princess",
+        "shop": "household_linen"
+      }
+    },
+    {
+      "displayName": "QE Home",
+      "id": "qehome-f35021",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "quilts etc"
+      ],
+      "matchTags": [
+        "shop/bed"
+      ],
+      "tags": {
+        "brand": "QE Home",
+        "brand:wikidata": "Q127914161",
+        "name": "QE Home",
+        "shop": "household_linen"
+      },
+      "original_logo_url": "https://graph.facebook.com/QEHome/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/qehome-f35021.png",
+      "local_logo_path": "localbrand/logo/qehome-f35021.png",
+      "logos": {
+        "original": "https://graph.facebook.com/QEHome/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/qehome-f35021.png"
+      }
+    },
+    {
+      "displayName": "SCANquilt",
+      "id": "scanquilt-fc4fc3",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "SCANquilt",
+        "brand:wikidata": "Q54965259",
+        "name": "SCANquilt",
+        "shop": "household_linen"
+      },
+      "original_logo_url": "https://graph.facebook.com/SCANquilt/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/scanquilt-fc4fc3.jpg",
+      "local_logo_path": "localbrand/logo/scanquilt-fc4fc3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SCANquilt/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/scanquilt-fc4fc3.jpg"
+      }
+    },
+    {
+      "displayName": "Volpes",
+      "id": "volpes-f55b77",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Volpes",
+        "brand:wikidata": "Q116431266",
+        "name": "Volpes",
+        "shop": "household_linen"
+      },
+      "original_logo_url": "https://graph.facebook.com/volpessa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/volpes-f55b77.jpg",
+      "local_logo_path": "localbrand/logo/volpes-f55b77.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/volpessa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/volpes-f55b77.jpg"
+      }
+    },
+    {
+      "displayName": "Yves Delorme",
+      "id": "yvesdelorme-9d095f",
+      "locationSet": {
+        "include": [
+          "be",
+          "de",
+          "es",
+          "fx",
+          "gb",
+          "lu"
+        ]
+      },
+      "tags": {
+        "brand": "Yves Delorme",
+        "brand:wikidata": "Q131196262",
+        "name": "Yves Delorme",
+        "shop": "household_linen"
+      },
+      "original_logo_url": "https://graph.facebook.com/yvesdelorme.officiel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yvesdelorme-9d095f.jpg",
+      "local_logo_path": "localbrand/logo/yvesdelorme-9d095f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/yvesdelorme.officiel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yvesdelorme-9d095f.jpg"
+      }
+    },
+    {
+      "displayName": "Яна Панагюрище",
+      "id": "a405b9-0e9e30",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Яна Панагюрище",
+        "brand:wikidata": "Q131129878",
+        "name": "Яна Панагюрище",
+        "shop": "household_linen"
+      }
+    },
+    {
+      "displayName": "Ярослав",
+      "id": "a4baae-bf8e96",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "yaroslav"
+      ],
+      "tags": {
+        "brand": "Ярослав",
+        "brand:wikidata": "Q131912115",
+        "name": "Ярослав",
+        "shop": "household_linen"
+      },
+      "original_logo_url": "https://graph.facebook.com/ua.yaroslav/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/a4baae-bf8e96.jpg",
+      "local_logo_path": "localbrand/logo/a4baae-bf8e96.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ua.yaroslav/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/a4baae-bf8e96.jpg"
+      }
+    },
+    {
+      "displayName": "მანამო ჰოუმი",
+      "id": "manamohome-d0e31e",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "მანამო ჰოუმი",
+        "brand:en": "Manamo Home",
+        "brand:ka": "მანამო ჰოუმი",
+        "brand:wikidata": "Q131470017",
+        "name": "მანამო ჰოუმი",
+        "name:en": "Manamo Home",
+        "name:ka": "მანამო ჰოუმი",
+        "shop": "household_linen"
+      },
+      "original_logo_url": "https://graph.facebook.com/manamogeorgia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manamohome-d0e31e.jpg",
+      "local_logo_path": "localbrand/logo/manamohome-d0e31e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/manamogeorgia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manamohome-d0e31e.jpg"
+      }
+    }
+  ]
+}

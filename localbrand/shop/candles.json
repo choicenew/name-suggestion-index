@@ -1,0 +1,65 @@
+{
+  "properties": {
+    "path": "brands/shop/candles",
+    "exclude": {
+      "generic": [
+        "^candles$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "dusk",
+      "id": "dusk-c1a86d",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "matchTags": [
+        "shop/gift",
+        "shop/houseware"
+      ],
+      "tags": {
+        "brand": "dusk",
+        "brand:wikidata": "Q120669167",
+        "name": "dusk",
+        "shop": "candles"
+      },
+      "original_logo_url": "https://graph.facebook.com/duskaustralia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dusk-c1a86d.jpg",
+      "local_logo_path": "localbrand/logo/dusk-c1a86d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/duskaustralia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dusk-c1a86d.jpg"
+      }
+    },
+    {
+      "displayName": "Yankee Candle",
+      "id": "yankeecandle-a62b26",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store",
+        "shop/gift"
+      ],
+      "tags": {
+        "brand": "Yankee Candle",
+        "brand:wikidata": "Q8048733",
+        "name": "Yankee Candle",
+        "shop": "candles"
+      },
+      "original_logo_url": "https://graph.facebook.com/Yankeecandle/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yankeecandle-a62b26.jpg",
+      "local_logo_path": "localbrand/logo/yankeecandle-a62b26.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Yankeecandle/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yankeecandle-a62b26.jpg"
+      }
+    }
+  ]
+}

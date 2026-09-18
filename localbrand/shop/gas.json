@@ -1,0 +1,326 @@
+{
+  "properties": {
+    "path": "brands/shop/gas",
+    "exclude": {
+      "generic": [
+        "^gas$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Air Liquide",
+      "id": "airliquide-65a0f8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Air Liquide",
+        "brand:wikidata": "Q407448",
+        "name": "Air Liquide",
+        "shop": "gas"
+      },
+      "original_logo_url": "https://graph.facebook.com/AirLiquide/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/airliquide-65a0f8.jpg",
+      "local_logo_path": "localbrand/logo/airliquide-65a0f8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AirLiquide/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/airliquide-65a0f8.jpg"
+      }
+    },
+    {
+      "displayName": "Airgas",
+      "id": "airgas-666f52",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/fuel",
+        "shop/trade"
+      ],
+      "tags": {
+        "brand": "Airgas",
+        "brand:wikidata": "Q80635",
+        "name": "Airgas",
+        "shop": "gas"
+      },
+      "original_logo_url": "https://graph.facebook.com/airgasusa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/airgas-666f52.jpg",
+      "local_logo_path": "localbrand/logo/airgas-666f52.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/airgasusa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/airgas-666f52.jpg"
+      }
+    },
+    {
+      "displayName": "AmeriGas",
+      "id": "amerigas-666f52",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "AmeriGas",
+        "brand:wikidata": "Q23130318",
+        "fuel:lpg": "yes",
+        "name": "AmeriGas",
+        "shop": "gas"
+      },
+      "original_logo_url": "https://graph.facebook.com/AmeriGas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amerigas-666f52.jpg",
+      "local_logo_path": "localbrand/logo/amerigas-666f52.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AmeriGas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amerigas-666f52.jpg"
+      }
+    },
+    {
+      "displayName": "Aygaz",
+      "id": "aygaz-d3d4a5",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Aygaz",
+        "brand:wikidata": "Q4831225",
+        "name": "Aygaz",
+        "shop": "gas"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Aygaz_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aygaz-d3d4a5.svg",
+      "local_logo_path": "localbrand/logo/aygaz-d3d4a5.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Aygaz_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aygaz-d3d4a5.svg"
+      }
+    },
+    {
+      "displayName": "Ferrellgas",
+      "id": "ferrellgas-666f52",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Ferrellgas",
+        "brand:wikidata": "Q5445299",
+        "fuel:lpg": "yes",
+        "name": "Ferrellgas",
+        "shop": "gas"
+      },
+      "original_logo_url": "https://graph.facebook.com/Ferrellgas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ferrellgas-666f52.jpg",
+      "local_logo_path": "localbrand/logo/ferrellgas-666f52.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Ferrellgas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ferrellgas-666f52.jpg"
+      }
+    },
+    {
+      "displayName": "Flaga",
+      "id": "flaga-f1a8ab",
+      "locationSet": {
+        "include": [
+          "at",
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Flaga",
+        "brand:wikidata": "Q135843213",
+        "name": "Flaga",
+        "shop": "gas"
+      },
+      "original_logo_url": "https://graph.facebook.com/100063733435814/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flaga-f1a8ab.jpg",
+      "local_logo_path": "localbrand/logo/flaga-f1a8ab.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/100063733435814/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flaga-f1a8ab.jpg"
+      }
+    },
+    {
+      "displayName": "Hicksgas",
+      "id": "hicksgas-7ee0a0",
+      "locationSet": {
+        "include": [
+          "us-il.geojson",
+          "us-in.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Hicksgas",
+        "brand:wikidata": "Q116734529",
+        "fuel:lpg": "yes",
+        "name": "Hicksgas",
+        "shop": "gas"
+      }
+    },
+    {
+      "displayName": "Kralupol",
+      "id": "kralupol-e3106e",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "Kralupol",
+        "brand:wikidata": "Q58623408",
+        "name": "Kralupol",
+        "shop": "gas"
+      },
+      "original_logo_url": "https://graph.facebook.com/Kralupol/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kralupol-e3106e.jpg",
+      "local_logo_path": "localbrand/logo/kralupol-e3106e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Kralupol/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kralupol-e3106e.jpg"
+      }
+    },
+    {
+      "displayName": "Messer",
+      "id": "messer-65a0f8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Messer",
+        "brand:wikidata": "Q1924132",
+        "name": "Messer",
+        "shop": "gas"
+      },
+      "original_logo_url": "https://graph.facebook.com/messergroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/messer-65a0f8.jpg",
+      "local_logo_path": "localbrand/logo/messer-65a0f8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/messergroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/messer-65a0f8.jpg"
+      }
+    },
+    {
+      "displayName": "Petron Gasul",
+      "id": "petrongasul-bb6447",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "brand": "Petron Gasul",
+        "brand:wikidata": "Q7179011",
+        "name": "Petron Gasul",
+        "shop": "gas"
+      },
+      "original_logo_url": "https://graph.facebook.com/PetronCorporation/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petrongasul-bb6447.jpg",
+      "local_logo_path": "localbrand/logo/petrongasul-bb6447.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PetronCorporation/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petrongasul-bb6447.jpg"
+      }
+    },
+    {
+      "displayName": "Primagas",
+      "id": "primagas-e3106e",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "Primagas",
+        "brand:wikidata": "Q54935547",
+        "name": "Primagas",
+        "shop": "gas"
+      },
+      "original_logo_url": "https://graph.facebook.com/PrimagasCZ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/primagas-e3106e.png",
+      "local_logo_path": "localbrand/logo/primagas-e3106e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/PrimagasCZ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/primagas-e3106e.png"
+      }
+    },
+    {
+      "displayName": "Suburban Propane",
+      "id": "suburbanpropane-666f52",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Suburban Propane",
+        "brand:wikidata": "Q120122434",
+        "name": "Suburban Propane",
+        "shop": "gas"
+      },
+      "original_logo_url": "https://graph.facebook.com/suburbanpropane/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suburbanpropane-666f52.jpg",
+      "local_logo_path": "localbrand/logo/suburbanpropane-666f52.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/suburbanpropane/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suburbanpropane-666f52.jpg"
+      }
+    },
+    {
+      "displayName": "Tomegas",
+      "id": "tomegas-e3106e",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "Tomegas",
+        "brand:wikidata": "Q133257590",
+        "name": "Tomegas",
+        "shop": "gas"
+      },
+      "original_logo_url": "https://graph.facebook.com/tomegas.cz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tomegas-e3106e.png",
+      "local_logo_path": "localbrand/logo/tomegas-e3106e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/tomegas.cz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tomegas-e3106e.png"
+      }
+    },
+    {
+      "displayName": "Ultragaz",
+      "id": "ultragaz-ee2f17",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Ultragaz",
+        "brand:wikidata": "Q10387242",
+        "name": "Ultragaz",
+        "shop": "gas"
+      },
+      "original_logo_url": "https://graph.facebook.com/ultragazoficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ultragaz-ee2f17.jpg",
+      "local_logo_path": "localbrand/logo/ultragaz-ee2f17.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ultragazoficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ultragaz-ee2f17.jpg"
+      }
+    }
+  ]
+}

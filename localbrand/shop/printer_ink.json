@@ -1,0 +1,81 @@
+{
+  "properties": {
+    "path": "brands/shop/printer_ink",
+    "exclude": {
+      "generic": [
+        "^printer ink$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Cartridge World",
+      "id": "cartridgeworld-0b7bd3",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/computer"
+      ],
+      "tags": {
+        "brand": "Cartridge World",
+        "brand:wikidata": "Q5047439",
+        "name": "Cartridge World",
+        "shop": "printer_ink"
+      },
+      "original_logo_url": "https://graph.facebook.com/CartridgeWorldNewsUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cartridgeworld-0b7bd3.png",
+      "local_logo_path": "localbrand/logo/cartridgeworld-0b7bd3.png",
+      "logos": {
+        "original": "https://graph.facebook.com/CartridgeWorldNewsUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cartridgeworld-0b7bd3.png"
+      }
+    },
+    {
+      "displayName": "Eco Store",
+      "id": "ecostore-e7fccc",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Eco Store",
+        "brand:wikidata": "Q126483871",
+        "name": "Eco Store",
+        "shop": "printer_ink"
+      },
+      "original_logo_url": "https://graph.facebook.com/EcoStoreSrl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecostore-e7fccc.jpg",
+      "local_logo_path": "localbrand/logo/ecostore-e7fccc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EcoStoreSrl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecostore-e7fccc.jpg"
+      }
+    },
+    {
+      "displayName": "Prink",
+      "id": "prink-5f927f",
+      "locationSet": {
+        "include": [
+          "150"
+        ]
+      },
+      "tags": {
+        "brand": "Prink",
+        "brand:wikidata": "Q5484016",
+        "name": "Prink",
+        "shop": "printer_ink"
+      },
+      "original_logo_url": "https://graph.facebook.com/PRINKitalia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prink-5f927f.png",
+      "local_logo_path": "localbrand/logo/prink-5f927f.png",
+      "logos": {
+        "original": "https://graph.facebook.com/PRINKitalia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prink-5f927f.png"
+      }
+    }
+  ]
+}

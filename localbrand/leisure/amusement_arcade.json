@@ -1,0 +1,365 @@
+{
+  "properties": {
+    "path": "brands/leisure/amusement_arcade",
+    "exclude": {
+      "generic": [
+        "^amusement arcade$"
+      ],
+      "named": [
+        "^videojuegos$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Four Quarters",
+      "id": "fourquarters-0f0c9e",
+      "locationSet": {
+        "include": [
+          "gb-eng"
+        ]
+      },
+      "matchTags": [
+        "amenity/bar",
+        "amenity/pub"
+      ],
+      "tags": {
+        "bar": "yes",
+        "brand": "Four Quarters",
+        "brand:wikidata": "Q119701878",
+        "dog": "leashed",
+        "leisure": "amusement_arcade",
+        "name": "Four Quarters",
+        "reservation": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/fourquartersncl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fourquarters-0f0c9e.png",
+      "local_logo_path": "localbrand/logo/fourquarters-0f0c9e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/fourquartersncl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fourquarters-0f0c9e.png"
+      }
+    },
+    {
+      "displayName": "Laser Game Evolution",
+      "id": "lasergameevolution-60da35",
+      "locationSet": {
+        "include": [
+          "be",
+          "ca",
+          "ch",
+          "es",
+          "fr",
+          "it",
+          "lu",
+          "ma",
+          "tn"
+        ]
+      },
+      "tags": {
+        "bar": "yes",
+        "brand": "Laser Game Evolution",
+        "brand:wikidata": "Q130214296",
+        "leisure": "amusement_arcade",
+        "name": "Laser Game Evolution",
+        "sport": "laser_tag"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Logo_Laser_Game_Evolution.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lasergameevolution-60da35.png",
+      "local_logo_path": "localbrand/logo/lasergameevolution-60da35.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/4/42/Logo_Laser_Game_Evolution.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lasergameevolution-60da35.png"
+      }
+    },
+    {
+      "displayName": "Maquinitas",
+      "id": "maquinitas-c64c95",
+      "locationSet": {
+        "include": [
+          "mx-cmx.geojson",
+          "mx-mex.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Maquinitas",
+        "leisure": "amusement_arcade",
+        "name": "Maquinitas"
+      }
+    },
+    {
+      "displayName": "NAMCO",
+      "id": "namco-10c094",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "brand": "NAMCO",
+        "brand:en": "NAMCO",
+        "brand:ja": "ナムコ",
+        "brand:wikidata": "Q111516144",
+        "leisure": "amusement_arcade",
+        "name": "NAMCO",
+        "name:en": "NAMCO",
+        "name:ja": "ナムコ"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Namco_HQ_at_Shibaura.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/namco-10c094.jpg",
+      "local_logo_path": "localbrand/logo/namco-10c094.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Namco_HQ_at_Shibaura.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/namco-10c094.jpg"
+      }
+    },
+    {
+      "displayName": "Taito Station",
+      "id": "taitostation-10c094",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "matchNames": [
+        "タイトー"
+      ],
+      "tags": {
+        "brand": "Taito Station",
+        "brand:en": "Taito Station",
+        "brand:ja": "タイトーステーション",
+        "brand:wikidata": "Q1054844",
+        "leisure": "amusement_arcade",
+        "name": "Taito Station",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション"
+      },
+      "original_logo_url": "https://graph.facebook.com/TAITO.Eng/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taitostation-10c094.jpg",
+      "local_logo_path": "localbrand/logo/taitostation-10c094.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TAITO.Eng/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taitostation-10c094.jpg"
+      }
+    },
+    {
+      "displayName": "Timezone",
+      "id": "timezone-bbc11e",
+      "locationSet": {
+        "include": [
+          "au",
+          "id",
+          "in",
+          "nz",
+          "ph",
+          "sg",
+          "vn"
+        ]
+      },
+      "matchTags": [
+        "shop/video_games"
+      ],
+      "tags": {
+        "brand": "Timezone",
+        "brand:wikidata": "Q12521502",
+        "leisure": "amusement_arcade",
+        "name": "Timezone"
+      },
+      "original_logo_url": "https://graph.facebook.com/TimezoneAustralia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/timezone-bbc11e.jpg",
+      "local_logo_path": "localbrand/logo/timezone-bbc11e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TimezoneAustralia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/timezone-bbc11e.jpg"
+      }
+    },
+    {
+      "displayName": "Tom's World",
+      "id": "tomsworld-e5ed7a",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "brand": "Tom's World",
+        "brand:wikidata": "Q15952961",
+        "leisure": "amusement_arcade",
+        "name": "Tom's World"
+      },
+      "original_logo_url": "https://graph.facebook.com/tomsworld.fans/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tomsworld-e5ed7a.jpg",
+      "local_logo_path": "localbrand/logo/tomsworld-e5ed7a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tomsworld.fans/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tomsworld-e5ed7a.jpg"
+      }
+    },
+    {
+      "displayName": "Warpoint",
+      "id": "warpoint-a9e2ba",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Warpoint",
+        "leisure": "amusement_arcade",
+        "name": "Warpoint"
+      }
+    },
+    {
+      "displayName": "アドアーズ",
+      "id": "adores-c3bbfb",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "アドアーズ",
+        "brand:en": "Adores",
+        "brand:ja": "アドアーズ",
+        "brand:wikidata": "Q54843532",
+        "leisure": "amusement_arcade",
+        "name": "アドアーズ",
+        "name:en": "Adores",
+        "name:ja": "アドアーズ"
+      }
+    },
+    {
+      "displayName": "アピナ",
+      "id": "apina-c3bbfb",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "アピナ",
+        "brand:en": "Apina",
+        "brand:ja": "アピナ",
+        "brand:wikidata": "Q55385192",
+        "leisure": "amusement_arcade",
+        "name": "アピナ",
+        "name:en": "Apina",
+        "name:ja": "アピナ"
+      }
+    },
+    {
+      "displayName": "クラブセガ",
+      "id": "clubsega-c3bbfb",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "クラブsega",
+        "セガ"
+      ],
+      "tags": {
+        "alt_name": "セガワールド",
+        "alt_name:en": "Sega World",
+        "alt_name:ja": "セガワールド",
+        "brand": "クラブセガ",
+        "brand:en": "Club Sega",
+        "brand:ja": "クラブセガ",
+        "brand:wikidata": "Q7446141",
+        "leisure": "amusement_arcade",
+        "name": "クラブセガ",
+        "name:en": "Club Sega",
+        "name:ja": "クラブセガ"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/GENDA_GiGO_Entertainment_Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/clubsega-c3bbfb.svg",
+      "local_logo_path": "localbrand/logo/clubsega-c3bbfb.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/4/4b/GENDA_GiGO_Entertainment_Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/clubsega-c3bbfb.svg"
+      }
+    },
+    {
+      "displayName": "タイトーステーション",
+      "id": "taitostation-c3bbfb",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "タイトー"
+      ],
+      "tags": {
+        "brand": "タイトーステーション",
+        "brand:en": "Taito Station",
+        "brand:ja": "タイトーステーション",
+        "brand:wikidata": "Q1054844",
+        "leisure": "amusement_arcade",
+        "name": "タイトーステーション",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション"
+      },
+      "original_logo_url": "https://graph.facebook.com/TAITO.Eng/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taitostation-c3bbfb.jpg",
+      "local_logo_path": "localbrand/logo/taitostation-c3bbfb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TAITO.Eng/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taitostation-c3bbfb.jpg"
+      }
+    },
+    {
+      "displayName": "ナムコ",
+      "id": "namco-c3bbfb",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ナムコ",
+        "brand:en": "NAMCO",
+        "brand:ja": "ナムコ",
+        "brand:wikidata": "Q111516144",
+        "leisure": "amusement_arcade",
+        "name": "ナムコ",
+        "name:en": "NAMCO",
+        "name:ja": "ナムコ"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Namco_HQ_at_Shibaura.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/namco-c3bbfb.jpg",
+      "local_logo_path": "localbrand/logo/namco-c3bbfb.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Namco_HQ_at_Shibaura.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/namco-c3bbfb.jpg"
+      }
+    },
+    {
+      "displayName": "湯姆熊歡樂世界",
+      "id": "tomsworld-043bd9",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "湯姆熊歡樂世界",
+        "brand:en": "Tom's World",
+        "brand:wikidata": "Q15952961",
+        "brand:zh": "湯姆熊歡樂世界",
+        "leisure": "amusement_arcade",
+        "name": "湯姆熊歡樂世界",
+        "name:en": "Tom's World",
+        "name:zh": "湯姆熊歡樂世界"
+      },
+      "original_logo_url": "https://graph.facebook.com/tomsworld.fans/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tomsworld-043bd9.jpg",
+      "local_logo_path": "localbrand/logo/tomsworld-043bd9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tomsworld.fans/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tomsworld-043bd9.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1105 @@
+{
+  "properties": {
+    "path": "brands/shop/butcher",
+    "exclude": {
+      "generic": [
+        "^(butcher|húsbolt|rzeźnik|slaktare)$",
+        "^(carnic|macell)er[ií]a$",
+        "^(свежее )?мяс(ной|о)$",
+        "^boucherie( charcuterie)?$",
+        "^мясная лавка$",
+        "^قصابی$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Bluff Meat Supply",
+      "id": "bluffmeatsupply-dc7578",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Bluff Meat Supply",
+        "brand:wikidata": "Q116981518",
+        "name": "Bluff Meat Supply",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/bluffmeatsupply/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bluffmeatsupply-dc7578.jpg",
+      "local_logo_path": "localbrand/logo/bluffmeatsupply-dc7578.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bluffmeatsupply/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bluffmeatsupply-dc7578.jpg"
+      }
+    },
+    {
+      "displayName": "Coqivoire",
+      "id": "coqivoire-40403c",
+      "locationSet": {
+        "include": [
+          "ci"
+        ]
+      },
+      "tags": {
+        "brand": "Coqivoire",
+        "brand:wikidata": "Q60183284",
+        "butcher": "poultry",
+        "name": "Coqivoire",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/COQIVOIRE/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coqivoire-40403c.jpg",
+      "local_logo_path": "localbrand/logo/coqivoire-40403c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/COQIVOIRE/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coqivoire-40403c.jpg"
+      }
+    },
+    {
+      "displayName": "Dubimex",
+      "id": "dubimex-436f1d",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Dubimex",
+        "brand:wikidata": "Q138197720",
+        "name": "Dubimex",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Fleischerei Richter",
+      "id": "fleischereirichter-4d0b4d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Fleischerei Richter",
+        "brand:wikidata": "Q106823616",
+        "name": "Fleischerei Richter",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/FleischereiRichterGmbH/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fleischereirichter-4d0b4d.jpg",
+      "local_logo_path": "localbrand/logo/fleischereirichter-4d0b4d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FleischereiRichterGmbH/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fleischereirichter-4d0b4d.jpg"
+      }
+    },
+    {
+      "displayName": "Foani",
+      "id": "foani-40403c",
+      "locationSet": {
+        "include": [
+          "ci"
+        ]
+      },
+      "tags": {
+        "brand": "Foani",
+        "brand:wikidata": "Q60183335",
+        "butcher": "poultry",
+        "name": "Foani",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/foaniservices/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foani-40403c.png",
+      "local_logo_path": "localbrand/logo/foani-40403c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/foaniservices/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foani-40403c.png"
+      }
+    },
+    {
+      "displayName": "Forevers",
+      "id": "forevers-00a516",
+      "locationSet": {
+        "include": [
+          "lv"
+        ]
+      },
+      "tags": {
+        "brand": "Forevers",
+        "brand:wikidata": "Q65297361",
+        "name": "Forevers",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/Foreverslatvija/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/forevers-00a516.png",
+      "local_logo_path": "localbrand/logo/forevers-00a516.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Foreverslatvija/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/forevers-00a516.png"
+      }
+    },
+    {
+      "displayName": "føtex Slagter",
+      "id": "fotexslagter-4aef2d",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "føtex Slagter",
+        "brand:wikidata": "Q1480395",
+        "name": "føtex Slagter",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/foetexdk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fotexslagter-4aef2d.jpg",
+      "local_logo_path": "localbrand/logo/fotexslagter-4aef2d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/foetexdk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fotexslagter-4aef2d.jpg"
+      }
+    },
+    {
+      "displayName": "Fresh Options",
+      "id": "freshoptions-1cf7e4",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "matchNames": [
+        "fresh options meatshop"
+      ],
+      "tags": {
+        "brand": "Fresh Options",
+        "brand:wikidata": "Q120682282",
+        "name": "Fresh Options",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/FreshOptions/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/freshoptions-1cf7e4.jpg",
+      "local_logo_path": "localbrand/logo/freshoptions-1cf7e4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FreshOptions/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/freshoptions-1cf7e4.jpg"
+      }
+    },
+    {
+      "displayName": "Gaik",
+      "id": "gaik-436f1d",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Gaik",
+        "brand:wikidata": "Q132527653",
+        "name": "Gaik",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/zpmgaik/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gaik-436f1d.jpg",
+      "local_logo_path": "localbrand/logo/gaik-436f1d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/zpmgaik/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gaik-436f1d.jpg"
+      }
+    },
+    {
+      "displayName": "Gzella",
+      "id": "gzella-436f1d",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Gzella",
+        "brand:wikidata": "Q110955605",
+        "name": "Gzella",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/WedlinyzBorow/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gzella-436f1d.jpg",
+      "local_logo_path": "localbrand/logo/gzella-436f1d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WedlinyzBorow/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gzella-436f1d.jpg"
+      }
+    },
+    {
+      "displayName": "Keurslager",
+      "id": "keurslager-1c7101",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Keurslager",
+        "brand:wikidata": "Q114637402",
+        "name": "Keurslager",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/Keurslagers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keurslager-1c7101.jpg",
+      "local_logo_path": "localbrand/logo/keurslager-1c7101.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Keurslagers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keurslager-1c7101.jpg"
+      }
+    },
+    {
+      "displayName": "Les Éleveurs de la Charentonne",
+      "id": "leseleveursdelacharentonne-bd963c",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Les Éleveurs de la Charentonne",
+        "brand:wikidata": "Q130216320",
+        "name": "Les Éleveurs de la Charentonne",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/leseleveursdelacharetonneofficiel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leseleveursdelacharentonne-bd963c.jpg",
+      "local_logo_path": "localbrand/logo/leseleveursdelacharentonne-bd963c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/leseleveursdelacharetonneofficiel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leseleveursdelacharentonne-bd963c.jpg"
+      }
+    },
+    {
+      "displayName": "Mad Butcher",
+      "id": "madbutcher-79ce66",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Mad Butcher",
+        "brand:wikidata": "Q111015152",
+        "name": "Mad Butcher",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Mago",
+      "id": "mago-fbfd6e",
+      "locationSet": {
+        "include": [
+          "de-bb.geojson",
+          "de-be.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Mago",
+        "brand:wikidata": "Q131904610",
+        "name": "Mago",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/mago.wurst/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mago-fbfd6e.jpg",
+      "local_logo_path": "localbrand/logo/mago-fbfd6e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mago.wurst/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mago-fbfd6e.jpg"
+      }
+    },
+    {
+      "displayName": "Makovec",
+      "id": "makovec-699c48",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Makovec",
+        "brand:wikidata": "Q58623471",
+        "name": "Makovec",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/61582505025247/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/makovec-699c48.jpg",
+      "local_logo_path": "localbrand/logo/makovec-699c48.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/61582505025247/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/makovec-699c48.jpg"
+      }
+    },
+    {
+      "displayName": "Marko",
+      "id": "marko-436f1d",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Marko",
+        "brand:wikidata": "Q133892686",
+        "name": "Marko",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/MarksMarszalkowscy/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marko-436f1d.jpg",
+      "local_logo_path": "localbrand/logo/marko-436f1d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MarksMarszalkowscy/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marko-436f1d.jpg"
+      }
+    },
+    {
+      "displayName": "Mäsiarstvo u Býka",
+      "id": "masiarstvoubyka-d81898",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Mäsiarstvo u Býka",
+        "brand:wikidata": "Q133262589",
+        "name": "Mäsiarstvo u Býka",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/masiarstvoubyka/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/masiarstvoubyka-d81898.jpg",
+      "local_logo_path": "localbrand/logo/masiarstvoubyka-d81898.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/masiarstvoubyka/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/masiarstvoubyka-d81898.jpg"
+      }
+    },
+    {
+      "displayName": "Matijević",
+      "id": "matijevic-c999d0",
+      "locationSet": {
+        "include": [
+          "rs"
+        ]
+      },
+      "matchNames": [
+        "mesara matijević",
+        "месара матијевић"
+      ],
+      "tags": {
+        "brand": "Матијевић",
+        "brand:en": "Matijevic",
+        "brand:sr": "Матијевић",
+        "brand:sr-Latn": "Matijević",
+        "brand:wikidata": "Q12752300",
+        "name": "Матијевић",
+        "name:en": "Matijevic",
+        "name:sr": "Матијевић",
+        "name:sr-Latn": "Matijević",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/MatijevicIndustrijaMesa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/matijevic-c999d0.png",
+      "local_logo_path": "localbrand/logo/matijevic-c999d0.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MatijevicIndustrijaMesa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/matijevic-c999d0.png"
+      }
+    },
+    {
+      "displayName": "Omaha Steaks",
+      "id": "omahasteaks-523a1c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Omaha Steaks",
+        "brand:wikidata": "Q7089458",
+        "name": "Omaha Steaks",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/omahasteaks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/omahasteaks-523a1c.jpg",
+      "local_logo_path": "localbrand/logo/omahasteaks-523a1c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/omahasteaks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/omahasteaks-523a1c.jpg"
+      }
+    },
+    {
+      "displayName": "Renmans",
+      "id": "renmans-533183",
+      "locationSet": {
+        "include": [
+          "be"
+        ]
+      },
+      "tags": {
+        "brand": "Renmans",
+        "brand:wikidata": "Q63184410",
+        "name": "Renmans",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/Renmans/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/renmans-533183.jpg",
+      "local_logo_path": "localbrand/logo/renmans-533183.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Renmans/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/renmans-533183.jpg"
+      }
+    },
+    {
+      "displayName": "Res",
+      "id": "res-e3b2fd",
+      "locationSet": {
+        "include": [
+          "ar",
+          "cl"
+        ]
+      },
+      "tags": {
+        "brand": "Res",
+        "name": "Res",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Richter Erzgebirge",
+      "id": "richtererzgebirge-4d0b4d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Richter Erzgebirge",
+        "brand:wikidata": "Q111699465",
+        "name": "Richter Erzgebirge",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/richter.erzgebirge/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/richtererzgebirge-4d0b4d.jpg",
+      "local_logo_path": "localbrand/logo/richtererzgebirge-4d0b4d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/richter.erzgebirge/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/richtererzgebirge-4d0b4d.jpg"
+      }
+    },
+    {
+      "displayName": "Sklep mięsny Lenarcik",
+      "id": "sklepmiesnylenarcik-436f1d",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Sklep mięsny Lenarcik",
+        "brand:wikidata": "Q125566217",
+        "operator": "Zakład Mięsny Lenarcik",
+        "operator:short": "Lenarcik",
+        "operator:wikidata": "Q125542457",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Sokołów",
+      "id": "sokolow-436f1d",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Sokołów",
+        "brand:wikidata": "Q16605125",
+        "name": "Sokołów",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/sokolowfanpage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sokolow-436f1d.jpg",
+      "local_logo_path": "localbrand/logo/sokolow-436f1d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sokolowfanpage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sokolow-436f1d.jpg"
+      }
+    },
+    {
+      "displayName": "SuperBrugsen Slagter",
+      "id": "superbrugsenslagter-4aef2d",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "SuperBrugsen Slagter",
+        "brand:wikidata": "Q12337746",
+        "name": "SuperBrugsen Slagter",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Świeżyzna",
+      "id": "swiezyzna-436f1d",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Świeżyzna",
+        "brand:wikidata": "Q127503430",
+        "name": "Świeżyzna",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/SwiezyznaOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swiezyzna-436f1d.jpg",
+      "local_logo_path": "localbrand/logo/swiezyzna-436f1d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SwiezyznaOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swiezyzna-436f1d.jpg"
+      }
+    },
+    {
+      "displayName": "Swift",
+      "id": "swift-1387a4",
+      "locationSet": {
+        "include": [
+          "br-sp.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Swift",
+        "name": "Swift",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Vinzenzmurr",
+      "id": "vinzenzmurr-4d0b4d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Vinzenzmurr",
+        "brand:wikidata": "Q2527361",
+        "name": "Vinzenzmurr",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/vinzenzmurrtraditionsmetzgerei/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vinzenzmurr-4d0b4d.jpg",
+      "local_logo_path": "localbrand/logo/vinzenzmurr-4d0b4d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/vinzenzmurrtraditionsmetzgerei/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vinzenzmurr-4d0b4d.jpg"
+      }
+    },
+    {
+      "displayName": "Wierzejki",
+      "id": "wierzejki-436f1d",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Wierzejki",
+        "brand:wikidata": "Q113227420",
+        "name": "Wierzejki",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/wierzejki/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wierzejki-436f1d.png",
+      "local_logo_path": "localbrand/logo/wierzejki-436f1d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/wierzejki/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wierzejki-436f1d.png"
+      }
+    },
+    {
+      "displayName": "Yuhor",
+      "id": "yuhor-c999d0",
+      "locationSet": {
+        "include": [
+          "rs"
+        ]
+      },
+      "tags": {
+        "brand": "Yuhor",
+        "brand:wikidata": "Q12747875",
+        "name": "Yuhor",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/YUHORJagodina/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yuhor-c999d0.jpg",
+      "local_logo_path": "localbrand/logo/yuhor-c999d0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/YUHORJagodina/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yuhor-c999d0.jpg"
+      }
+    },
+    {
+      "displayName": "Zeman maso-uzeniny",
+      "id": "zemanmasouzeniny-019d77",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "Zeman maso-uzeniny",
+        "brand:wikidata": "Q105961806",
+        "name": "Zeman maso-uzeniny",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/zemanmasouzeniny/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zemanmasouzeniny-019d77.jpg",
+      "local_logo_path": "localbrand/logo/zemanmasouzeniny-019d77.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/zemanmasouzeniny/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zemanmasouzeniny-019d77.jpg"
+      }
+    },
+    {
+      "displayName": "Ариант",
+      "id": "f172c7-6e607d",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Ариант",
+        "brand:wikidata": "Q110955672",
+        "name": "Ариант",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/AriantAgro/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/f172c7-6e607d.png",
+      "local_logo_path": "localbrand/logo/f172c7-6e607d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/AriantAgro/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/f172c7-6e607d.png"
+      }
+    },
+    {
+      "displayName": "Великолукский мясокомбинат",
+      "id": "fc51bd-6e607d",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Великолукский мясокомбинат",
+        "brand:wikidata": "Q18401767",
+        "name": "Великолукский мясокомбинат",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/vlmkspb/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fc51bd-6e607d.png",
+      "local_logo_path": "localbrand/logo/fc51bd-6e607d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/vlmkspb/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fc51bd-6e607d.png"
+      }
+    },
+    {
+      "displayName": "Галицька Свіжина",
+      "id": "ef4709-d60de5",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "halytska svizhyna"
+      ],
+      "tags": {
+        "brand": "Галицька Свіжина",
+        "brand:wikidata": "Q131607436",
+        "name": "Галицька Свіжина",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/galsvizhyna/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ef4709-d60de5.jpg",
+      "local_logo_path": "localbrand/logo/ef4709-d60de5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/galsvizhyna/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ef4709-d60de5.jpg"
+      }
+    },
+    {
+      "displayName": "Дзержинка",
+      "id": "125474-42f5d4",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "tags": {
+        "brand": "Дзержинка",
+        "name": "Дзержинка",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Звениговский",
+      "id": "eff0d0-6e607d",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Звениговский",
+        "brand:wikidata": "Q110956402",
+        "name": "Звениговский",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Ковбасна Мережа",
+      "id": "959c75-d60de5",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "kovbas market",
+        "kovbasna merezha",
+        "ковбас маркет"
+      ],
+      "tags": {
+        "brand": "Ковбасна Мережа",
+        "brand:wikidata": "Q129887661",
+        "name": "Ковбасна Мережа",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/kovbasnamerezha/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/959c75-d60de5.jpg",
+      "local_logo_path": "localbrand/logo/959c75-d60de5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kovbasnamerezha/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/959c75-d60de5.jpg"
+      }
+    },
+    {
+      "displayName": "Мʼясомаркет",
+      "id": "580ce4-d60de5",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "м'ясомаркет"
+      ],
+      "tags": {
+        "brand": "Мʼясомаркет",
+        "brand:wikidata": "Q120646698",
+        "name": "Мʼясомаркет",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/myasomarketua/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/580ce4-d60de5.jpg",
+      "local_logo_path": "localbrand/logo/580ce4-d60de5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/myasomarketua/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/580ce4-d60de5.jpg"
+      }
+    },
+    {
+      "displayName": "Мясницкий ряд",
+      "id": "bd0342-6e607d",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Мясницкий ряд",
+        "name": "Мясницкий ряд",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Мясной Гурман",
+      "id": "940f20-6e607d",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Мясной Гурман",
+        "name": "Мясной Гурман",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Мясной двор",
+      "id": "238cde-2de669",
+      "locationSet": {
+        "include": [
+          "kg",
+          "kz",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Мясной двор",
+        "name": "Мясной двор",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Мясной дворик",
+      "id": "d925df-9620b1",
+      "locationSet": {
+        "include": [
+          "by",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Мясной дворик",
+        "name": "Мясной дворик",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Наша Ряба",
+      "id": "fbd1e6-d60de5",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchTags": [
+        "shop/convenience"
+      ],
+      "tags": {
+        "brand": "Наша Ряба",
+        "brand:wikidata": "Q118133255",
+        "name": "Наша Ряба",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/Nasha.Ryaba/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fbd1e6-d60de5.jpg",
+      "local_logo_path": "localbrand/logo/fbd1e6-d60de5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Nasha.Ryaba/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fbd1e6-d60de5.jpg"
+      }
+    },
+    {
+      "displayName": "Окраина",
+      "id": "dae2d2-6e607d",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Окраина",
+        "name": "Окраина",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Родинна ковбаска",
+      "id": "rodynnakovbaska-d60de5",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "батьківщина ковбаска"
+      ],
+      "tags": {
+        "brand": "Родинна ковбаска",
+        "brand:en": "Rodynna kovbaska",
+        "brand:uk": "Родинна ковбаска",
+        "brand:wikidata": "Q30969660",
+        "name": "Родинна ковбаска",
+        "name:en": "Rodynna kovbaska",
+        "name:uk": "Родинна ковбаска",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/rodunnakovbaska/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rodynnakovbaska-d60de5.jpg",
+      "local_logo_path": "localbrand/logo/rodynnakovbaska-d60de5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rodunnakovbaska/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rodynnakovbaska-d60de5.jpg"
+      }
+    },
+    {
+      "displayName": "Салтівський мʼясокомбінат",
+      "id": "21e59d-d60de5",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "магазин салтівський м'ясокомбінат",
+        "магазин салтівський мʼясокомбінат",
+        "салтівський м'ясокомбінат"
+      ],
+      "tags": {
+        "brand": "Салтівський мʼясокомбінат",
+        "brand:wikidata": "Q120477067",
+        "name": "Салтівський мʼясокомбінат",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Фермер",
+      "id": "8449ac-6e607d",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Фермер",
+        "name": "Фермер",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "Ярославский бройлер",
+      "id": "e95a6d-6e607d",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Ярославский бройлер",
+        "name": "Ярославский бройлер",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "ბიუ ბიუ",
+      "id": "biubiu-f98164",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "ბიუ ბიუ",
+        "brand:en": "Biu Biu",
+        "brand:ka": "ბიუ ბიუ",
+        "brand:wikidata": "Q128032103",
+        "butcher": "poultry",
+        "name": "ბიუ ბიუ",
+        "name:en": "Biu Biu",
+        "name:ka": "ბიუ ბიუ",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/biubiu.ge/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biubiu-f98164.jpg",
+      "local_logo_path": "localbrand/logo/biubiu-f98164.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/biubiu.ge/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biubiu-f98164.jpg"
+      }
+    },
+    {
+      "displayName": "ნოსტე",
+      "id": "noste-f98164",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "ნოსტე",
+        "brand:en": "Noste",
+        "brand:ka": "ნოსტე",
+        "brand:ru": "Носте",
+        "brand:wikidata": "Q131469987",
+        "butcher": "poultry",
+        "name": "ნოსტე",
+        "name:en": "Noste",
+        "name:ka": "ნოსტე",
+        "name:ru": "Носте",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/Nostechicken/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/noste-f98164.jpg",
+      "local_logo_path": "localbrand/logo/noste-f98164.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Nostechicken/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/noste-f98164.jpg"
+      }
+    },
+    {
+      "displayName": "ニュー・クイック",
+      "id": "newquick-2bf181",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ニュー・クイック",
+        "brand:en": "New-Quick",
+        "brand:ja": "ニュー・クイック",
+        "brand:wikidata": "Q11325009",
+        "name": "ニュー・クイック",
+        "name:en": "New-Quick",
+        "name:ja": "ニュー・クイック",
+        "shop": "butcher"
+      }
+    },
+    {
+      "displayName": "肉のハナマサ",
+      "id": "hanamasameat-2bf181",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ハナマサ",
+        "brand:en": "Hanamasa",
+        "brand:ja": "ハナマサ",
+        "brand:wikidata": "Q11326564",
+        "butcher": "beef",
+        "name": "肉のハナマサ",
+        "name:en": "Hanamasa Meat",
+        "name:ja": "肉のハナマサ",
+        "shop": "butcher"
+      },
+      "original_logo_url": "https://graph.facebook.com/hanamasaresto/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hanamasameat-2bf181.jpg",
+      "local_logo_path": "localbrand/logo/hanamasameat-2bf181.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hanamasaresto/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hanamasameat-2bf181.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "properties": {
+    "path": "brands/craft/handicraft",
+    "exclude": {
+      "generic": [
+        "^handicraft$",
+        "^vulcani(sateur|zer)$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "AR Workshop",
+      "id": "arworkshop-948573",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/craft",
+        "shop/doityourself"
+      ],
+      "tags": {
+        "brand": "AR Workshop",
+        "brand:wikidata": "Q127273132",
+        "craft": "handicraft",
+        "name": "AR Workshop"
+      },
+      "original_logo_url": "https://graph.facebook.com/andersruffworkshop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arworkshop-948573.jpg",
+      "local_logo_path": "localbrand/logo/arworkshop-948573.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/andersruffworkshop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arworkshop-948573.jpg"
+      }
+    }
+  ]
+}

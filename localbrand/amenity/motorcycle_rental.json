@@ -1,0 +1,37 @@
+{
+  "properties": {
+    "path": "brands/amenity/motorcycle_rental",
+    "exclude": {
+      "generic": [
+        "^motorcycle rental$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "EagleRider",
+      "id": "eaglerider-7bb7ec",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/motorcycle"
+      ],
+      "tags": {
+        "amenity": "motorcycle_rental",
+        "brand": "EagleRider",
+        "brand:wikidata": "Q5324992",
+        "name": "EagleRider"
+      },
+      "original_logo_url": "https://graph.facebook.com/EagleRider/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eaglerider-7bb7ec.jpg",
+      "local_logo_path": "localbrand/logo/eaglerider-7bb7ec.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EagleRider/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eaglerider-7bb7ec.jpg"
+      }
+    }
+  ]
+}

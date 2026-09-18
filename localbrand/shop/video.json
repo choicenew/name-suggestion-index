@@ -1,0 +1,90 @@
+{
+  "properties": {
+    "path": "brands/shop/video",
+    "exclude": {
+      "generic": [
+        "^video$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Blockbuster",
+      "id": "blockbuster-a348eb",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Blockbuster",
+        "brand:wikidata": "Q884711",
+        "name": "Blockbuster",
+        "shop": "video"
+      }
+    },
+    {
+      "displayName": "Family Video",
+      "id": "familyvideo-85c994",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Family Video",
+        "brand:wikidata": "Q5433297",
+        "name": "Family Video",
+        "shop": "video"
+      },
+      "original_logo_url": "https://graph.facebook.com/FamilyVideo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/familyvideo-85c994.png",
+      "local_logo_path": "localbrand/logo/familyvideo-85c994.png",
+      "logos": {
+        "original": "https://graph.facebook.com/FamilyVideo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/familyvideo-85c994.png"
+      }
+    },
+    {
+      "displayName": "TSUTAYA",
+      "id": "tsutaya-a348eb",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "TSUTAYA",
+        "brand:wikidata": "Q5193457",
+        "name": "TSUTAYA",
+        "shop": "video"
+      },
+      "original_logo_url": "https://graph.facebook.com/TSUTAYA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tsutaya-a348eb.png",
+      "local_logo_path": "localbrand/logo/tsutaya-a348eb.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TSUTAYA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tsutaya-a348eb.png"
+      }
+    },
+    {
+      "displayName": "ゲオ",
+      "id": "geo-b50bda",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "GEO",
+        "brand:en": "GEO",
+        "brand:ja": "ゲオ",
+        "brand:wikidata": "Q5533938",
+        "name": "ゲオ",
+        "name:en": "GEO",
+        "name:ja": "ゲオ",
+        "shop": "video"
+      }
+    }
+  ]
+}

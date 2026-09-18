@@ -1,0 +1,56 @@
+{
+  "properties": {
+    "path": "brands/amenity/bicycle_repair_station",
+    "skipCollection": true,
+    "exclude": {
+      "generic": [
+        "^bicycle repair station$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "ibombo",
+      "id": "ibombo-c84b0b",
+      "locationSet": {
+        "include": [
+          "150",
+          "il"
+        ]
+      },
+      "tags": {
+        "amenity": "bicycle_repair_station",
+        "brand": "ibombo",
+        "brand:wikidata": "Q127945083"
+      },
+      "original_logo_url": "https://graph.facebook.com/ibombocom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ibombo-c84b0b.jpg",
+      "local_logo_path": "localbrand/logo/ibombo-c84b0b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ibombocom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ibombo-c84b0b.jpg"
+      }
+    },
+    {
+      "displayName": "RadKULTUR",
+      "id": "radkultur-baf586",
+      "locationSet": {
+        "include": [
+          "de-bw.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "bicycle_repair_station",
+        "brand": "RadKULTUR",
+        "brand:wikidata": "Q132562116"
+      },
+      "original_logo_url": "https://graph.facebook.com/radkulturbw/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/radkultur-baf586.jpg",
+      "local_logo_path": "localbrand/logo/radkultur-baf586.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/radkulturbw/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/radkultur-baf586.jpg"
+      }
+    }
+  ]
+}

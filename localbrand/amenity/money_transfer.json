@@ -1,0 +1,261 @@
+{
+  "properties": {
+    "path": "brands/amenity/money_transfer",
+    "exclude": {
+      "generic": [
+        "^mobile? money( transfer)?$",
+        "^money transfer$",
+        "^wakala$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Boutique orange Monney",
+      "id": "boutiqueorangemonney-c3a447",
+      "locationSet": {
+        "include": [
+          "bf"
+        ]
+      },
+      "tags": {
+        "amenity": "money_transfer",
+        "brand": "Boutique orange Monney",
+        "name": "Boutique orange Monney"
+      }
+    },
+    {
+      "displayName": "Cash Plus",
+      "id": "cashplus-de9c03",
+      "locationSet": {
+        "include": [
+          "ma"
+        ]
+      },
+      "tags": {
+        "amenity": "money_transfer",
+        "brand": "Cash Plus",
+        "brand:wikidata": "Q100258885",
+        "name": "Cash Plus"
+      },
+      "original_logo_url": "https://graph.facebook.com/Cashplusmaroc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cashplus-de9c03.jpg",
+      "local_logo_path": "localbrand/logo/cashplus-de9c03.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Cashplusmaroc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cashplus-de9c03.jpg"
+      }
+    },
+    {
+      "displayName": "Express Union",
+      "id": "expressunion-bf90ce",
+      "locationSet": {
+        "include": [
+          "td"
+        ]
+      },
+      "matchTags": [
+        "amenity/bank"
+      ],
+      "tags": {
+        "amenity": "money_transfer",
+        "brand": "Express Union",
+        "brand:wikidata": "Q3062276",
+        "name": "Express Union"
+      },
+      "original_logo_url": "https://graph.facebook.com/ExpressUnionFinance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/expressunion-bf90ce.jpg",
+      "local_logo_path": "localbrand/logo/expressunion-bf90ce.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ExpressUnionFinance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/expressunion-bf90ce.jpg"
+      }
+    },
+    {
+      "displayName": "Hoa Phát",
+      "id": "hoaphat-9503b6",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "hoa phat goi tien",
+        "hoa phat gui tien"
+      ],
+      "tags": {
+        "amenity": "money_transfer",
+        "brand": "Hoa Phát",
+        "brand:wikidata": "Q65116775",
+        "name": "Hoa Phát",
+        "name:vi": "Hoa Phát"
+      }
+    },
+    {
+      "displayName": "MoneyGram",
+      "id": "moneygram-1032f8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "amenity/bureau_de_change",
+        "office/financial"
+      ],
+      "tags": {
+        "amenity": "money_transfer",
+        "brand": "MoneyGram",
+        "brand:wikidata": "Q1944412",
+        "name": "MoneyGram"
+      },
+      "original_logo_url": "https://graph.facebook.com/moneygram/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/moneygram-1032f8.jpg",
+      "local_logo_path": "localbrand/logo/moneygram-1032f8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/moneygram/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/moneygram-1032f8.jpg"
+      }
+    },
+    {
+      "displayName": "Orange Money",
+      "id": "orangemoney-b39c4d",
+      "locationSet": {
+        "include": [
+          "ml"
+        ]
+      },
+      "tags": {
+        "amenity": "money_transfer",
+        "brand": "Orange Money",
+        "brand:wikidata": "Q16668220",
+        "name": "Orange Money"
+      },
+      "original_logo_url": "https://graph.facebook.com/orangemoneyeurope/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orangemoney-b39c4d.jpg",
+      "local_logo_path": "localbrand/logo/orangemoney-b39c4d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/orangemoneyeurope/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orangemoney-b39c4d.jpg"
+      }
+    },
+    {
+      "displayName": "Ria",
+      "id": "ria-1032f8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "ria money transfer"
+      ],
+      "matchTags": [
+        "office/financial"
+      ],
+      "tags": {
+        "amenity": "money_transfer",
+        "brand": "Ria",
+        "brand:wikidata": "Q18643673",
+        "name": "Ria"
+      },
+      "original_logo_url": "https://graph.facebook.com/RiaFinancialServices/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ria-1032f8.jpg",
+      "local_logo_path": "localbrand/logo/ria-1032f8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RiaFinancialServices/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ria-1032f8.jpg"
+      }
+    },
+    {
+      "displayName": "Wafacash وفاكاش",
+      "id": "wafacash-de9c03",
+      "locationSet": {
+        "include": [
+          "ma"
+        ]
+      },
+      "tags": {
+        "amenity": "money_transfer",
+        "brand": "Wafacash وفاكاش",
+        "brand:ar": "وفاكاش",
+        "brand:fr": "Wafacash",
+        "brand:wikidata": "Q100258887",
+        "name": "Wafacash وفاكاش",
+        "name:ar": "وفاكاش",
+        "name:fr": "Wafacash"
+      },
+      "original_logo_url": "https://graph.facebook.com/WafacashMaroc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wafacash-de9c03.jpg",
+      "local_logo_path": "localbrand/logo/wafacash-de9c03.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WafacashMaroc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wafacash-de9c03.jpg"
+      }
+    },
+    {
+      "displayName": "Western Union",
+      "id": "westernunion-1032f8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "amenity/bureau_de_change"
+      ],
+      "tags": {
+        "amenity": "money_transfer",
+        "brand": "Western Union",
+        "brand:wikidata": "Q861042",
+        "name": "Western Union"
+      },
+      "original_logo_url": "https://graph.facebook.com/WesternUnion/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/westernunion-1032f8.jpg",
+      "local_logo_path": "localbrand/logo/westernunion-1032f8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WesternUnion/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/westernunion-1032f8.jpg"
+      }
+    },
+    {
+      "displayName": "Юнистрим",
+      "id": "unistream-8b917c",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "amenity": "money_transfer",
+        "brand": "Юнистрим",
+        "brand:en": "Unistream",
+        "brand:ru": "Юнистрим",
+        "brand:wikidata": "Q4534572",
+        "name": "Юнистрим",
+        "name:en": "Unistream",
+        "name:ru": "Юнистрим"
+      }
+    },
+    {
+      "displayName": "ინტელიექსპრესი",
+      "id": "inteliexpress-032b00",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "amenity": "money_transfer",
+        "brand": "ინტელიექსპრესი",
+        "brand:en": "InteliExpress",
+        "brand:ka": "ინტელიექსპრესი",
+        "brand:ru": "ИнтелиЭкспресс",
+        "name": "ინტელიექსპრესი",
+        "name:en": "InteliExpress",
+        "name:ka": "ინტელიექსპრესი",
+        "name:ru": "ИнтелиЭкспресс"
+      }
+    }
+  ]
+}

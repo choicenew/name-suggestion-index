@@ -1,0 +1,37 @@
+{
+  "properties": {
+    "path": "brands/shop/pottery",
+    "exclude": {
+      "generic": [
+        "^pottery$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Sargadelos",
+      "id": "sargadelos-cb4124",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "matchTags": [
+        "shop/gift"
+      ],
+      "tags": {
+        "brand": "Sargadelos",
+        "brand:wikidata": "Q104184305",
+        "name": "Sargadelos",
+        "shop": "pottery"
+      },
+      "original_logo_url": "https://graph.facebook.com/Sargadelos/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sargadelos-cb4124.jpg",
+      "local_logo_path": "localbrand/logo/sargadelos-cb4124.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Sargadelos/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sargadelos-cb4124.jpg"
+      }
+    }
+  ]
+}

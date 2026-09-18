@@ -1,0 +1,489 @@
+{
+  "properties": {
+    "path": "brands/shop/truck",
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^truck shop$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Ashok Leyland",
+      "id": "ashokleyland-b35498",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "matchNames": [
+        "ashoke"
+      ],
+      "tags": {
+        "brand": "Ashok Leyland",
+        "brand:wikidata": "Q726193",
+        "name": "Ashok Leyland",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://graph.facebook.com/AshokLeylandOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ashokleyland-b35498.jpg",
+      "local_logo_path": "localbrand/logo/ashokleyland-b35498.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AshokLeylandOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ashokleyland-b35498.jpg"
+      }
+    },
+    {
+      "displayName": "BharatBenz",
+      "id": "bharatbenz-b35498",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "BharatBenz",
+        "brand:wikidata": "Q1107991",
+        "name": "BharatBenz",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/BHARATBENZ_Heavy_Duty_Truck_3128_C_front_logo.Spielvogel.JPG",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bharatbenz-b35498.jpg",
+      "local_logo_path": "localbrand/logo/bharatbenz-b35498.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/79/BHARATBENZ_Heavy_Duty_Truck_3128_C_front_logo.Spielvogel.JPG",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bharatbenz-b35498.jpg"
+      }
+    },
+    {
+      "displayName": "DAF",
+      "id": "daf-bb8fb2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "daf trucks"
+      ],
+      "tags": {
+        "brand": "DAF",
+        "brand:wikidata": "Q27489",
+        "name": "DAF",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://graph.facebook.com/daftrucksnv/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daf-bb8fb2.jpg",
+      "local_logo_path": "localbrand/logo/daf-bb8fb2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/daftrucksnv/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daf-bb8fb2.jpg"
+      }
+    },
+    {
+      "displayName": "Eicher Motors",
+      "id": "eichermotors-b35498",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Eicher Motors",
+        "brand:wikidata": "Q1301821",
+        "name": "Eicher Motors",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Royal_Enfield_Bullet_Electra_350%2C_pure_black_model_05.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eichermotors-b35498.jpg",
+      "local_logo_path": "localbrand/logo/eichermotors-b35498.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Royal_Enfield_Bullet_Electra_350%2C_pure_black_model_05.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eichermotors-b35498.jpg"
+      }
+    },
+    {
+      "displayName": "Freightliner",
+      "id": "freightliner-bb8fb2",
+      "issues": [
+        11058
+      ],
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/car"
+      ],
+      "tags": {
+        "brand": "Freightliner",
+        "brand:wikidata": "Q1420724",
+        "name": "Freightliner",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://graph.facebook.com/freightliner/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/freightliner-bb8fb2.jpg",
+      "local_logo_path": "localbrand/logo/freightliner-bb8fb2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/freightliner/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/freightliner-bb8fb2.jpg"
+      }
+    },
+    {
+      "displayName": "Fuso",
+      "id": "fuso-d61f35",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Fuso",
+        "brand:wikidata": "Q1190247",
+        "name": "Fuso",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://graph.facebook.com/FusoOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fuso-d61f35.jpg",
+      "local_logo_path": "localbrand/logo/fuso-d61f35.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FusoOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fuso-d61f35.jpg"
+      }
+    },
+    {
+      "displayName": "Fuso (Canada/USA)",
+      "id": "fuso-3d029c",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Fuso",
+        "brand:wikidata": "Q6883057",
+        "name": "Fuso",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://graph.facebook.com/FusoTruck/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fuso-3d029c.jpg",
+      "local_logo_path": "localbrand/logo/fuso-3d029c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FusoTruck/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fuso-3d029c.jpg"
+      }
+    },
+    {
+      "displayName": "International",
+      "id": "international-ba6960",
+      "locationSet": {
+        "include": [
+          "ca",
+          "mx",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "International",
+        "brand:wikidata": "Q29739",
+        "name": "International",
+        "shop": "truck"
+      }
+    },
+    {
+      "displayName": "Iveco",
+      "id": "iveco-34d7c0",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "ca",
+          "mx",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/car"
+      ],
+      "tags": {
+        "brand": "Iveco",
+        "brand:wikidata": "Q29913",
+        "name": "Iveco",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://graph.facebook.com/IVECO/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iveco-34d7c0.jpg",
+      "local_logo_path": "localbrand/logo/iveco-34d7c0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IVECO/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iveco-34d7c0.jpg"
+      }
+    },
+    {
+      "displayName": "Mahindra Truck and Bus",
+      "id": "mahindratruckandbus-b35498",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Mahindra Truck and Bus",
+        "brand:wikidata": "Q848059",
+        "name": "Mahindra Truck and Bus",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://graph.facebook.com/MahindraRise/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mahindratruckandbus-b35498.jpg",
+      "local_logo_path": "localbrand/logo/mahindratruckandbus-b35498.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MahindraRise/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mahindratruckandbus-b35498.jpg"
+      }
+    },
+    {
+      "displayName": "MAN",
+      "id": "man-bb8fb2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "man truck"
+      ],
+      "tags": {
+        "brand": "MAN",
+        "brand:wikidata": "Q708667",
+        "name": "MAN",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://graph.facebook.com/mantruckandbus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/man-bb8fb2.jpg",
+      "local_logo_path": "localbrand/logo/man-bb8fb2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mantruckandbus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/man-bb8fb2.jpg"
+      }
+    },
+    {
+      "displayName": "Mercedes-Benz Trucks",
+      "id": "mercedesbenztrucks-bb8fb2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/car"
+      ],
+      "tags": {
+        "brand": "Mercedes-Benz Trucks",
+        "brand:wikidata": "Q36008",
+        "name": "Mercedes-Benz Trucks",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://graph.facebook.com/MercedesBenz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mercedesbenztrucks-bb8fb2.png",
+      "local_logo_path": "localbrand/logo/mercedesbenztrucks-bb8fb2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MercedesBenz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mercedesbenztrucks-bb8fb2.png"
+      }
+    },
+    {
+      "displayName": "Peterbilt",
+      "id": "peterbilt-bb8fb2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/car"
+      ],
+      "tags": {
+        "brand": "Peterbilt",
+        "brand:wikidata": "Q944640",
+        "name": "Peterbilt",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://graph.facebook.com/PeterbiltMotors/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/peterbilt-bb8fb2.jpg",
+      "local_logo_path": "localbrand/logo/peterbilt-bb8fb2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PeterbiltMotors/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/peterbilt-bb8fb2.jpg"
+      }
+    },
+    {
+      "displayName": "Renault Trucks",
+      "id": "renaulttrucks-bb8fb2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/car"
+      ],
+      "tags": {
+        "brand": "Renault Trucks",
+        "brand:wikidata": "Q840045",
+        "name": "Renault Trucks",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://graph.facebook.com/renaulttrucksfrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/renaulttrucks-bb8fb2.jpg",
+      "local_logo_path": "localbrand/logo/renaulttrucks-bb8fb2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/renaulttrucksfrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/renaulttrucks-bb8fb2.jpg"
+      }
+    },
+    {
+      "displayName": "Rush Truck Centers",
+      "id": "rushtruckcenters-5de9f8",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Rush Truck Centers",
+        "brand:wikidata": "Q120637525",
+        "name": "Rush Truck Centers",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://graph.facebook.com/rushtruckcenters/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rushtruckcenters-5de9f8.jpg",
+      "local_logo_path": "localbrand/logo/rushtruckcenters-5de9f8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rushtruckcenters/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rushtruckcenters-5de9f8.jpg"
+      }
+    },
+    {
+      "displayName": "Scania",
+      "id": "scania-bb8fb2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Scania",
+        "brand:wikidata": "Q219960",
+        "name": "Scania",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://graph.facebook.com/scaniajp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/scania-bb8fb2.png",
+      "local_logo_path": "localbrand/logo/scania-bb8fb2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/scaniajp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/scania-bb8fb2.png"
+      }
+    },
+    {
+      "displayName": "Skuba",
+      "id": "skuba-c1f68a",
+      "locationSet": {
+        "include": [
+          "150",
+          "cy"
+        ]
+      },
+      "tags": {
+        "brand": "Skuba",
+        "brand:wikidata": "Q15847758",
+        "name": "Skuba",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://graph.facebook.com/www.skuba.lt/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skuba-c1f68a.jpg",
+      "local_logo_path": "localbrand/logo/skuba-c1f68a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/www.skuba.lt/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skuba-c1f68a.jpg"
+      }
+    },
+    {
+      "displayName": "SML Mahindra (formerly SML Isuzu)",
+      "id": "smlmahindra-b35498",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "matchNames": [
+        "sml isuzu",
+        "swaraj mazda"
+      ],
+      "tags": {
+        "brand": "SML Mahindra",
+        "brand:wikidata": "Q7391257",
+        "name": "SML Mahindra",
+        "shop": "truck"
+      }
+    },
+    {
+      "displayName": "Tata Motors Commercial Vehicles",
+      "id": "tatamotors-b35498",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "matchNames": [
+        "tata commercial vehicles",
+        "tata trucks"
+      ],
+      "tags": {
+        "brand": "Tata Motors",
+        "brand:wikidata": "Q188514",
+        "name": "Tata Motors",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://graph.facebook.com/TataMotorsGroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tatamotors-b35498.png",
+      "local_logo_path": "localbrand/logo/tatamotors-b35498.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TataMotorsGroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tatamotors-b35498.png"
+      }
+    },
+    {
+      "displayName": "Volvo Trucks",
+      "id": "volvotrucks-bb8fb2",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Volvo Trucks",
+        "brand:wikidata": "Q2033642",
+        "name": "Volvo Trucks",
+        "shop": "truck"
+      },
+      "original_logo_url": "https://graph.facebook.com/VolvoTrucks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/volvotrucks-bb8fb2.jpg",
+      "local_logo_path": "localbrand/logo/volvotrucks-bb8fb2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/VolvoTrucks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/volvotrucks-bb8fb2.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "properties": {
+    "path": "brands/shop/cheese",
+    "exclude": {
+      "generic": [
+        "^cheese$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Zuivelhoeve",
+      "id": "zuivelhoeve-cd1743",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "matchTags": [
+        "shop/dairy"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Zuivelhoeve",
+        "brand:wikidata": "Q106581549",
+        "name": "Zuivelhoeve",
+        "shop": "cheese"
+      },
+      "original_logo_url": "https://graph.facebook.com/zuivelhoevewinkels/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zuivelhoeve-cd1743.png",
+      "local_logo_path": "localbrand/logo/zuivelhoeve-cd1743.png",
+      "logos": {
+        "original": "https://graph.facebook.com/zuivelhoevewinkels/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zuivelhoeve-cd1743.png"
+      }
+    },
+    {
+      "displayName": "Сирне королівство",
+      "id": "07fa72-cd68fa",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "cheese kingdom"
+      ],
+      "tags": {
+        "brand": "Сирне королівство",
+        "brand:wikidata": "Q123748624",
+        "name": "Сирне королівство",
+        "shop": "cheese"
+      },
+      "original_logo_url": "https://graph.facebook.com/Cheesekingdom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/07fa72-cd68fa.jpg",
+      "local_logo_path": "localbrand/logo/07fa72-cd68fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Cheesekingdom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/07fa72-cd68fa.jpg"
+      }
+    },
+    {
+      "displayName": "באשר פרומז'רי",
+      "id": "basherfromagerie-00d377",
+      "locationSet": {
+        "include": [
+          "il"
+        ]
+      },
+      "tags": {
+        "brand": "באשר פרומז'רי",
+        "brand:he": "באשר פרומז'רי",
+        "brand:wikidata": "Q122364246",
+        "name": "באשר פרומז'רי",
+        "name:en": "Basher Fromagerie",
+        "name:he": "באשר פרומז'רי",
+        "shop": "cheese"
+      },
+      "original_logo_url": "https://graph.facebook.com/gvinot.basher/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/basherfromagerie-00d377.jpg",
+      "local_logo_path": "localbrand/logo/basherfromagerie-00d377.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/gvinot.basher/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/basherfromagerie-00d377.jpg"
+      }
+    }
+  ]
+}

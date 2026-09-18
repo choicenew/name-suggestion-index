@@ -1,0 +1,37 @@
+{
+  "properties": {
+    "path": "brands/emergency/lifeguard",
+    "skipCollection": true,
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^lifeguard$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Wasserwacht",
+      "id": "wasserwacht-383c00",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Wasserwacht",
+        "brand:wikidata": "Q2551937",
+        "emergency": "lifeguard"
+      },
+      "original_logo_url": "https://graph.facebook.com/Wasserwacht/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wasserwacht-383c00.jpg",
+      "local_logo_path": "localbrand/logo/wasserwacht-383c00.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Wasserwacht/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wasserwacht-383c00.jpg"
+      }
+    }
+  ]
+}

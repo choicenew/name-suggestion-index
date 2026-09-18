@@ -1,0 +1,694 @@
+{
+  "properties": {
+    "path": "brands/shop/garden_centre",
+    "exclude": {
+      "generic": [
+        "^(nursery|vivero)$",
+        "^garden centre$",
+        "^семена$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Aveve",
+      "id": "aveve-4760e0",
+      "locationSet": {
+        "include": [
+          "be",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Aveve",
+        "brand:wikidata": "Q790683",
+        "name": "Aveve",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/avevewinkels/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aveve-4760e0.png",
+      "local_logo_path": "localbrand/logo/aveve-4760e0.png",
+      "logos": {
+        "original": "https://graph.facebook.com/avevewinkels/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aveve-4760e0.png"
+      }
+    },
+    {
+      "displayName": "Bellaflora",
+      "id": "bellaflora-fd70bd",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "tags": {
+        "brand": "Bellaflora",
+        "brand:wikidata": "Q815787",
+        "name": "Bellaflora",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/bellafloraNr1/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bellaflora-fd70bd.jpg",
+      "local_logo_path": "localbrand/logo/bellaflora-fd70bd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bellafloraNr1/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bellaflora-fd70bd.jpg"
+      }
+    },
+    {
+      "displayName": "Blomsterlandet",
+      "id": "blomsterlandet-8e04ed",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Blomsterlandet",
+        "brand:wikidata": "Q10431512",
+        "name": "Blomsterlandet",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/Blomsterlandet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blomsterlandet-8e04ed.jpg",
+      "local_logo_path": "localbrand/logo/blomsterlandet-8e04ed.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Blomsterlandet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blomsterlandet-8e04ed.jpg"
+      }
+    },
+    {
+      "displayName": "Blue Diamond Garden Centres",
+      "id": "bluediamondgardencentres-02ecdf",
+      "locationSet": {
+        "include": [
+          "gb",
+          "gg",
+          "je"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Blue Diamond Garden Centres",
+        "brand:wikidata": "Q81097207",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/bluediamondgardencentres/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bluediamondgardencentres-02ecdf.jpg",
+      "local_logo_path": "localbrand/logo/bluediamondgardencentres-02ecdf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bluediamondgardencentres/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bluediamondgardencentres-02ecdf.jpg"
+      }
+    },
+    {
+      "displayName": "Botanic",
+      "id": "botanic-afed88",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Botanic",
+        "brand:wikidata": "Q2911642",
+        "name": "Botanic",
+        "organic": "yes",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/botanic/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/botanic-afed88.png",
+      "local_logo_path": "localbrand/logo/botanic-afed88.png",
+      "logos": {
+        "original": "https://graph.facebook.com/botanic/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/botanic-afed88.png"
+      }
+    },
+    {
+      "displayName": "Côté Nature",
+      "id": "cotenature-afed88",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Côté Nature",
+        "brand:wikidata": "Q124649591",
+        "name": "Côté Nature",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Dehner",
+      "id": "dehner-ca7541",
+      "locationSet": {
+        "include": [
+          "at",
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Dehner",
+        "brand:wikidata": "Q1183029",
+        "name": "Dehner",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/dehner/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dehner-ca7541.jpg",
+      "local_logo_path": "localbrand/logo/dehner-ca7541.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dehner/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dehner-ca7541.jpg"
+      }
+    },
+    {
+      "displayName": "Dobbies",
+      "id": "dobbies-d259e3",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "dobbies garden centres"
+      ],
+      "tags": {
+        "brand": "Dobbies",
+        "brand:wikidata": "Q5286529",
+        "name": "Dobbies",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/DobbiesGC/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dobbies-d259e3.png",
+      "local_logo_path": "localbrand/logo/dobbies-d259e3.png",
+      "logos": {
+        "original": "https://graph.facebook.com/DobbiesGC/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dobbies-d259e3.png"
+      }
+    },
+    {
+      "displayName": "E.Leclerc Jardi",
+      "id": "eleclercjardi-20cffa",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "E.Leclerc Jardi",
+        "brand:wikidata": "Q1273376",
+        "name": "E.Leclerc Jardi",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/E.Leclerc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eleclercjardi-20cffa.jpg",
+      "local_logo_path": "localbrand/logo/eleclercjardi-20cffa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/E.Leclerc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eleclercjardi-20cffa.jpg"
+      }
+    },
+    {
+      "displayName": "Gamm Vert",
+      "id": "gammvert-20cffa",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Gamm Vert",
+        "brand:wikidata": "Q3095006",
+        "name": "Gamm Vert",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/gammvert.officiel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gammvert-20cffa.jpg",
+      "local_logo_path": "localbrand/logo/gammvert-20cffa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/gammvert.officiel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gammvert-20cffa.jpg"
+      }
+    },
+    {
+      "displayName": "GroenRijk",
+      "id": "groenrijk-dc6242",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "GroenRijk",
+        "brand:wikidata": "Q2738788",
+        "name": "GroenRijk",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/groenrijk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/groenrijk-dc6242.jpg",
+      "local_logo_path": "localbrand/logo/groenrijk-dc6242.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/groenrijk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/groenrijk-dc6242.jpg"
+      }
+    },
+    {
+      "displayName": "Hageland",
+      "id": "hageland-664184",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Hageland",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Intratuin",
+      "id": "intratuin-c9b478",
+      "locationSet": {
+        "include": [
+          "be",
+          "de",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Intratuin",
+        "brand:wikidata": "Q2927176",
+        "name": "Intratuin",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/intratuin/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/intratuin-c9b478.jpg",
+      "local_logo_path": "localbrand/logo/intratuin-c9b478.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/intratuin/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/intratuin-c9b478.jpg"
+      }
+    },
+    {
+      "displayName": "Jardiland",
+      "id": "jardiland-20cffa",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Jardiland",
+        "brand:wikidata": "Q3162276",
+        "name": "Jardiland",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/Jardiland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jardiland-20cffa.png",
+      "local_logo_path": "localbrand/logo/jardiland-20cffa.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Jardiland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jardiland-20cffa.png"
+      }
+    },
+    {
+      "displayName": "Magasin Vert",
+      "id": "magasinvert-afed88",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Magasin Vert",
+        "brand:wikidata": "Q16661975",
+        "name": "Magasin Vert",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/MagasinVert/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/magasinvert-afed88.jpg",
+      "local_logo_path": "localbrand/logo/magasinvert-afed88.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MagasinVert/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/magasinvert-afed88.jpg"
+      }
+    },
+    {
+      "displayName": "OÁZIS",
+      "id": "oazis-f2643b",
+      "locationSet": {
+        "include": [
+          "hu",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "OÁZIS",
+        "brand:wikidata": "Q20439720",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/Oazis.Kerteszet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oazis-f2643b.jpg",
+      "local_logo_path": "localbrand/logo/oazis-f2643b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Oazis.Kerteszet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oazis-f2643b.jpg"
+      }
+    },
+    {
+      "displayName": "Otter Garden Centres",
+      "id": "ottergardencentres-d259e3",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Otter Garden Centres",
+        "brand:wikidata": "Q81095450",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/OtterGardenCentres/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ottergardencentres-d259e3.jpg",
+      "local_logo_path": "localbrand/logo/ottergardencentres-d259e3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OtterGardenCentres/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ottergardencentres-d259e3.jpg"
+      }
+    },
+    {
+      "displayName": "Palmers",
+      "id": "palmers-aac937",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Palmers Gardenworld",
+        "brand:wikidata": "Q7128292",
+        "name": "Palmers",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/PalmersGarden/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/palmers-aac937.png",
+      "local_logo_path": "localbrand/logo/palmers-aac937.png",
+      "logos": {
+        "original": "https://graph.facebook.com/PalmersGarden/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/palmers-aac937.png"
+      }
+    },
+    {
+      "displayName": "Plantagen",
+      "id": "plantagen-8e04ed",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Plantagen",
+        "brand:wikidata": "Q10632989",
+        "name": "Plantagen",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/plantasjen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/plantagen-8e04ed.jpg",
+      "local_logo_path": "localbrand/logo/plantagen-8e04ed.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/plantasjen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/plantagen-8e04ed.jpg"
+      }
+    },
+    {
+      "displayName": "Plantasjen",
+      "id": "plantasjen-664184",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Plantasjen",
+        "brand:wikidata": "Q10632989",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/plantasjen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/plantasjen-664184.jpg",
+      "local_logo_path": "localbrand/logo/plantasjen-664184.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/plantasjen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/plantasjen-664184.jpg"
+      }
+    },
+    {
+      "displayName": "Plantorama",
+      "id": "plantorama-a67868",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "Plantorama",
+        "brand:wikidata": "Q12331952",
+        "name": "Plantorama",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/plantoramadk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/plantorama-a67868.jpg",
+      "local_logo_path": "localbrand/logo/plantorama-a67868.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/plantoramadk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/plantorama-a67868.jpg"
+      }
+    },
+    {
+      "displayName": "Point Vert",
+      "id": "pointvert-20cffa",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Point Vert",
+        "brand:wikidata": "Q16661975",
+        "name": "Point Vert",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/MagasinVert/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pointvert-20cffa.jpg",
+      "local_logo_path": "localbrand/logo/pointvert-20cffa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MagasinVert/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pointvert-20cffa.jpg"
+      }
+    },
+    {
+      "displayName": "Truffaut",
+      "id": "truffaut-afed88",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Truffaut",
+        "brand:wikidata": "Q3162640",
+        "name": "Truffaut",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/truffautfr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/truffaut-afed88.jpg",
+      "local_logo_path": "localbrand/logo/truffaut-afed88.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/truffautfr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/truffaut-afed88.jpg"
+      }
+    },
+    {
+      "displayName": "Tuttogiardino",
+      "id": "tuttogiardino-b06e72",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Tuttogiardino",
+        "brand:wikidata": "Q129579759",
+        "name": "Tuttogiardino",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/tuttoGIARDINO/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuttogiardino-b06e72.jpg",
+      "local_logo_path": "localbrand/logo/tuttogiardino-b06e72.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tuttoGIARDINO/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuttogiardino-b06e72.jpg"
+      }
+    },
+    {
+      "displayName": "Villaverde",
+      "id": "villaverde-afed88",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Villaverde",
+        "brand:wikidata": "Q89346546",
+        "name": "Villaverde",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/villaverdefr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/villaverde-afed88.jpg",
+      "local_logo_path": "localbrand/logo/villaverde-afed88.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/villaverdefr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/villaverde-afed88.jpg"
+      }
+    },
+    {
+      "displayName": "Walmart Garden Center",
+      "id": "walmartgardencenter-bffebc",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart Garden Center",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/walmart/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/walmartgardencenter-bffebc.jpg",
+      "local_logo_path": "localbrand/logo/walmartgardencenter-bffebc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/walmart/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/walmartgardencenter-bffebc.jpg"
+      }
+    },
+    {
+      "displayName": "Walmart Garden Centre",
+      "id": "walmartgardencentre-89cf3b",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart Garden Centre",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/walmart/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/walmartgardencentre-89cf3b.jpg",
+      "local_logo_path": "localbrand/logo/walmartgardencentre-89cf3b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/walmart/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/walmartgardencentre-89cf3b.jpg"
+      }
+    },
+    {
+      "displayName": "Welkoop",
+      "id": "welkoop-dc6242",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Welkoop",
+        "brand:wikidata": "Q72799253",
+        "name": "Welkoop",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/welkoop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/welkoop-dc6242.png",
+      "local_logo_path": "localbrand/logo/welkoop-dc6242.png",
+      "logos": {
+        "original": "https://graph.facebook.com/welkoop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/welkoop-dc6242.png"
+      }
+    },
+    {
+      "displayName": "ZG Raiffeisen Markt",
+      "id": "zgraiffeisenmarkt-89aa0a",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "ZG Raiffeisen",
+        "brand:wikidata": "Q136135",
+        "name": "ZG Raiffeisen Markt",
+        "shop": "garden_centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/zgraiffeisen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zgraiffeisenmarkt-89aa0a.jpg",
+      "local_logo_path": "localbrand/logo/zgraiffeisenmarkt-89aa0a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/zgraiffeisen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zgraiffeisenmarkt-89aa0a.jpg"
+      }
+    },
+    {
+      "displayName": "Дачник",
+      "id": "3e1079-164465",
+      "locationSet": {
+        "include": [
+          "by",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Дачник",
+        "name": "Дачник",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "displayName": "Садовод",
+      "id": "c911e6-164465",
+      "locationSet": {
+        "include": [
+          "by",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Садовод",
+        "name": "Садовод",
+        "shop": "garden_centre"
+      }
+    }
+  ]
+}

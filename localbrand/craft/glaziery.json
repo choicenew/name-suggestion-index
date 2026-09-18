@@ -1,0 +1,59 @@
+{
+  "properties": {
+    "path": "brands/craft/glaziery",
+    "exclude": {
+      "generic": [
+        "^glaziery?$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Glass Doctor",
+      "id": "glassdoctor-eb6cea",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Glass Doctor",
+        "brand:wikidata": "Q121935489",
+        "craft": "glaziery",
+        "name": "Glass Doctor"
+      },
+      "original_logo_url": "https://graph.facebook.com/glassdoctor/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/glassdoctor-eb6cea.jpg",
+      "local_logo_path": "localbrand/logo/glassdoctor-eb6cea.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/glassdoctor/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/glassdoctor-eb6cea.jpg"
+      }
+    },
+    {
+      "displayName": "Portland Glass",
+      "id": "portlandglass-57b99e",
+      "locationSet": {
+        "include": [
+          "us-me.geojson",
+          "us-nh.geojson",
+          "us-vt.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Portland Glass",
+        "brand:wikidata": "Q123649435",
+        "craft": "glaziery",
+        "name": "Portland Glass"
+      },
+      "original_logo_url": "https://graph.facebook.com/portlandglass/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/portlandglass-57b99e.jpg",
+      "local_logo_path": "localbrand/logo/portlandglass-57b99e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/portlandglass/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/portlandglass-57b99e.jpg"
+      }
+    }
+  ]
+}

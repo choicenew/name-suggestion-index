@@ -1,0 +1,715 @@
+{
+  "properties": {
+    "path": "brands/office/employment_agency",
+    "exclude": {
+      "generic": [
+        "^employment agency$"
+      ],
+      "named": [
+        "^powiatowy urząd pracy$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Accent Jobs",
+      "id": "accentjobs-26db9d",
+      "locationSet": {
+        "include": [
+          "be"
+        ]
+      },
+      "tags": {
+        "brand": "Accent Jobs",
+        "brand:wikidata": "Q2939495",
+        "name": "Accent Jobs",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/accentjobs/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/accentjobs-26db9d.jpg",
+      "local_logo_path": "localbrand/logo/accentjobs-26db9d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/accentjobs/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/accentjobs-26db9d.jpg"
+      }
+    },
+    {
+      "displayName": "Adecco",
+      "id": "adecco-0baa05",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "adecco france",
+        "adecco group na"
+      ],
+      "tags": {
+        "brand": "Adecco",
+        "brand:wikidata": "Q353494",
+        "name": "Adecco",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/adeccogroupDE/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adecco-0baa05.jpg",
+      "local_logo_path": "localbrand/logo/adecco-0baa05.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/adeccogroupDE/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adecco-0baa05.jpg"
+      }
+    },
+    {
+      "displayName": "Agentur für Arbeit",
+      "id": "agenturfurarbeit-d474df",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Agentur für Arbeit",
+        "brand:wikidata": "Q1478016",
+        "name": "Agentur für Arbeit",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/160267817333843/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agenturfurarbeit-d474df.png",
+      "local_logo_path": "localbrand/logo/agenturfurarbeit-d474df.png",
+      "logos": {
+        "original": "https://graph.facebook.com/160267817333843/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agenturfurarbeit-d474df.png"
+      }
+    },
+    {
+      "displayName": "Appel Médical",
+      "id": "appelmedical-e5fc42",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Appel Médical",
+        "name": "Appel Médical",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Arbeitsmarktservice Österreich",
+      "id": "arbeitsmarktserviceosterreich-69b0ce",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "matchNames": [
+        "ams jobseekers austria",
+        "arbeitsuchende österreich"
+      ],
+      "tags": {
+        "brand": "Arbeitsmarktservice Österreich",
+        "brand:short": "AMS",
+        "brand:wikidata": "Q628700",
+        "name": "Arbeitsmarktservice Österreich",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/amsoesterreich/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arbeitsmarktserviceosterreich-69b0ce.jpg",
+      "local_logo_path": "localbrand/logo/arbeitsmarktserviceosterreich-69b0ce.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/amsoesterreich/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arbeitsmarktserviceosterreich-69b0ce.jpg"
+      }
+    },
+    {
+      "displayName": "cintas",
+      "id": "cintas-61ea6e",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "cintas",
+        "brand:wikidata": "Q1092571",
+        "name": "cintas",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/Cintas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cintas-61ea6e.png",
+      "local_logo_path": "localbrand/logo/cintas-61ea6e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Cintas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cintas-61ea6e.png"
+      }
+    },
+    {
+      "displayName": "CRIT",
+      "id": "critinterim-e5fc42",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "CRIT",
+        "brand:wikidata": "Q126912884",
+        "name": "CRIT Interim",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/CritFrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/critinterim-e5fc42.jpg",
+      "local_logo_path": "localbrand/logo/critinterim-e5fc42.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CritFrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/critinterim-e5fc42.jpg"
+      }
+    },
+    {
+      "displayName": "Domino RH",
+      "id": "dominorh-e5fc42",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Domino RH",
+        "brand:wikidata": "Q141174923",
+        "name": "Domino RH",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Driver Hire",
+      "id": "driverhire-e4b4b7",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Driver Hire",
+        "brand:wikidata": "Q89404688",
+        "name": "Driver Hire",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/DriverHireUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/driverhire-e4b4b7.jpg",
+      "local_logo_path": "localbrand/logo/driverhire-e4b4b7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DriverHireUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/driverhire-e4b4b7.jpg"
+      }
+    },
+    {
+      "displayName": "Express Employment Professionals",
+      "id": "expressemploymentprofessionals-867cf6",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "nz",
+          "us",
+          "za"
+        ]
+      },
+      "matchNames": [
+        "express employment"
+      ],
+      "tags": {
+        "brand": "Express Employment Professionals",
+        "brand:wikidata": "Q117351404",
+        "name": "Express Employment Professionals",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/ExpressEmploymentInternational/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/expressemploymentprofessionals-867cf6.jpg",
+      "local_logo_path": "localbrand/logo/expressemploymentprofessionals-867cf6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ExpressEmploymentInternational/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/expressemploymentprofessionals-867cf6.jpg"
+      }
+    },
+    {
+      "displayName": "Interaction",
+      "id": "interaction-e5fc42",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Interaction",
+        "name": "Interaction",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "İŞKUR",
+      "id": "iskur-591089",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "İŞKUR",
+        "brand:wikidata": "Q6001879",
+        "name": "İŞKUR",
+        "office": "employment_agency",
+        "official_name": "Türkiye İş Kurumu"
+      },
+      "original_logo_url": "https://graph.facebook.com/TurkiyeIsKurumu/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iskur-591089.jpg",
+      "local_logo_path": "localbrand/logo/iskur-591089.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TurkiyeIsKurumu/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iskur-591089.jpg"
+      }
+    },
+    {
+      "displayName": "Jobcenter",
+      "id": "jobcenter-d474df",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Jobcenter",
+        "brand:wikidata": "Q56292847",
+        "name": "Jobcenter",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Jobcenter_Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jobcenter-d474df.svg",
+      "local_logo_path": "localbrand/logo/jobcenter-d474df.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Jobcenter_Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jobcenter-d474df.svg"
+      }
+    },
+    {
+      "displayName": "Jobcentre Plus",
+      "id": "jobcentreplus-e4b4b7",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "jobcentre"
+      ],
+      "matchTags": [
+        "office/company"
+      ],
+      "tags": {
+        "brand": "Jobcentre Plus",
+        "brand:wikidata": "Q6206793",
+        "name": "Jobcentre Plus",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/174667546602258/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jobcentreplus-e4b4b7.png",
+      "local_logo_path": "localbrand/logo/jobcentreplus-e4b4b7.png",
+      "logos": {
+        "original": "https://graph.facebook.com/174667546602258/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jobcentreplus-e4b4b7.png"
+      }
+    },
+    {
+      "displayName": "Kelly Services",
+      "id": "kellyservices-0baa05",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Kelly Services",
+        "brand:wikidata": "Q1538585",
+        "name": "Kelly Services",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/kellyservices/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kellyservices-0baa05.jpg",
+      "local_logo_path": "localbrand/logo/kellyservices-0baa05.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kellyservices/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kellyservices-0baa05.jpg"
+      }
+    },
+    {
+      "displayName": "Manpower",
+      "id": "manpower-0baa05",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Manpower",
+        "brand:wikidata": "Q1472539",
+        "name": "Manpower",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/ManpowerGroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manpower-0baa05.jpg",
+      "local_logo_path": "localbrand/logo/manpower-0baa05.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ManpowerGroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manpower-0baa05.jpg"
+      }
+    },
+    {
+      "displayName": "Morgan Services",
+      "id": "morganservices-e5fc42",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Morgan Services",
+        "name": "Morgan Services",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Office Angels",
+      "id": "officeangels-e4b4b7",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Office Angels",
+        "brand:wikidata": "Q89403503",
+        "name": "Office Angels",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/OArecruitment/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/officeangels-e4b4b7.jpg",
+      "local_logo_path": "localbrand/logo/officeangels-e4b4b7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OArecruitment/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/officeangels-e4b4b7.jpg"
+      }
+    },
+    {
+      "displayName": "PeopleReady",
+      "id": "peopleready-81c4e9",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "PeopleReady",
+        "brand:wikidata": "Q122432694",
+        "name": "PeopleReady",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/PeopleReady/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/peopleready-81c4e9.png",
+      "local_logo_path": "localbrand/logo/peopleready-81c4e9.png",
+      "logos": {
+        "original": "https://graph.facebook.com/PeopleReady/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/peopleready-81c4e9.png"
+      }
+    },
+    {
+      "displayName": "Proman",
+      "id": "proman-9e0ae6",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Proman",
+        "brand:wikidata": "Q24189171",
+        "name": "Proman",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/GroupeProman/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/proman-9e0ae6.jpg",
+      "local_logo_path": "localbrand/logo/proman-9e0ae6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GroupeProman/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/proman-9e0ae6.jpg"
+      }
+    },
+    {
+      "displayName": "Randstad",
+      "id": "randstad-413737",
+      "locationSet": {
+        "include": [
+          "ad",
+          "at",
+          "au",
+          "be",
+          "ca",
+          "ch",
+          "cn",
+          "cz",
+          "de",
+          "dk",
+          "es",
+          "fr",
+          "gb",
+          "gr",
+          "hu",
+          "ie",
+          "in",
+          "it",
+          "jp",
+          "lu",
+          "mc",
+          "mx",
+          "my",
+          "nl",
+          "no",
+          "nz",
+          "pl",
+          "pt",
+          "ro",
+          "se",
+          "sg",
+          "sy",
+          "tk",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "office/consulting"
+      ],
+      "tags": {
+        "brand": "Randstad",
+        "brand:wikidata": "Q267840",
+        "name": "Randstad",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/Randstad/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "local_logo_path": "localbrand/logo/randstad-413737.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Randstad/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg"
+      }
+    },
+    {
+      "displayName": "Spherion",
+      "id": "spherionstaffingandrecruiting-81c4e9",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Spherion",
+        "brand:wikidata": "Q120730666",
+        "name": "Spherion Staffing & Recruiting",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Start People",
+      "id": "startpeople-45a424",
+      "locationSet": {
+        "include": [
+          "be",
+          "fr",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Start People",
+        "brand:wikidata": "Q2646530",
+        "name": "Start People",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/StartPeopleNederland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/startpeople-45a424.jpg",
+      "local_logo_path": "localbrand/logo/startpeople-45a424.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/StartPeopleNederland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/startpeople-45a424.jpg"
+      }
+    },
+    {
+      "displayName": "Supplay",
+      "id": "supplay-e5fc42",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Supplay",
+        "brand:wikidata": "Q140701082",
+        "name": "Supplay",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/supplay.interim/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/supplay-e5fc42.png",
+      "local_logo_path": "localbrand/logo/supplay-e5fc42.png",
+      "logos": {
+        "original": "https://graph.facebook.com/supplay.interim/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/supplay-e5fc42.png"
+      }
+    },
+    {
+      "displayName": "Synergie (France)",
+      "id": "synergie-e5fc42",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Synergie",
+        "brand:wikidata": "Q130540603",
+        "name": "Synergie",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_de_Synergie.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synergie-e5fc42.svg",
+      "local_logo_path": "localbrand/logo/synergie-e5fc42.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_de_Synergie.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synergie-e5fc42.svg"
+      }
+    },
+    {
+      "displayName": "Synergie (Italia)",
+      "id": "synergie-c147be",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Synergie",
+        "brand:wikidata": "Q127264947",
+        "name": "Synergie",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/SynergieItalia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synergie-c147be.jpg",
+      "local_logo_path": "localbrand/logo/synergie-c147be.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SynergieItalia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synergie-c147be.jpg"
+      }
+    },
+    {
+      "displayName": "Tempo-Team",
+      "id": "tempoteam-a6688c",
+      "locationSet": {
+        "include": [
+          "be",
+          "de",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Tempo-Team",
+        "brand:wikidata": "Q1996250",
+        "name": "Tempo-Team",
+        "office": "employment_agency"
+      },
+      "original_logo_url": "https://graph.facebook.com/TempoTeamNL/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tempoteam-a6688c.jpg",
+      "local_logo_path": "localbrand/logo/tempoteam-a6688c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TempoTeamNL/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tempoteam-a6688c.jpg"
+      }
+    },
+    {
+      "displayName": "Temporis",
+      "id": "temporis-e5fc42",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Temporis",
+        "name": "Temporis",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "The Recruitment Co",
+      "id": "therecruitmentco-e4b4b7",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "cordant people"
+      ],
+      "tags": {
+        "brand": "The Recruitment Co",
+        "brand:wikidata": "Q85311605",
+        "name": "The Recruitment Co",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "パソナ",
+      "id": "pasona-ea06d3",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "パソナ",
+        "brand:en": "Pasona",
+        "brand:ja": "パソナ",
+        "brand:wikidata": "Q7142290",
+        "name": "パソナ",
+        "name:en": "Pasona",
+        "name:ja": "パソナ",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "ハローワーク",
+      "id": "hellowork-ea06d3",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "preserveTags": [
+        "^name",
+        "^official_name"
+      ],
+      "tags": {
+        "brand": "ハローワーク",
+        "brand:en": "Hello Work",
+        "brand:ja": "ハローワーク",
+        "brand:wikidata": "Q5016578",
+        "name": "ハローワーク",
+        "name:en": "Hello Work",
+        "name:ja": "ハローワーク",
+        "office": "employment_agency",
+        "official_name": "公共職業安定所",
+        "official_name:en": "Public Employment Security Office",
+        "official_name:ja": "公共職業安定所"
+      }
+    }
+  ]
+}

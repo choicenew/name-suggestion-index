@@ -1,0 +1,135 @@
+{
+  "properties": {
+    "path": "brands/shop/groundskeeping",
+    "exclude": {
+      "generic": [
+        "^groundskeeping$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Hecht",
+      "id": "hecht-450c2f",
+      "locationSet": {
+        "include": [
+          "cz",
+          "hu",
+          "pl",
+          "ro",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Hecht",
+        "brand:wikidata": "Q130677979",
+        "name": "Hecht",
+        "shop": "groundskeeping"
+      }
+    },
+    {
+      "displayName": "Husqvarna",
+      "id": "husqvarna-6114e5",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/hardware"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Husqvarna",
+        "brand:wikidata": "Q899356",
+        "name": "Husqvarna",
+        "shop": "groundskeeping"
+      },
+      "original_logo_url": "https://graph.facebook.com/HusqvarnaGroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/husqvarna-6114e5.jpg",
+      "local_logo_path": "localbrand/logo/husqvarna-6114e5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HusqvarnaGroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/husqvarna-6114e5.jpg"
+      }
+    },
+    {
+      "displayName": "Mountfield",
+      "id": "mountfield-9aa91c",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "matchTags": [
+        "shop/garden_centre"
+      ],
+      "tags": {
+        "brand": "Mountfield",
+        "brand:wikidata": "Q21180783",
+        "name": "Mountfield",
+        "shop": "groundskeeping"
+      },
+      "original_logo_url": "https://graph.facebook.com/Mountfield/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mountfield-9aa91c.jpg",
+      "local_logo_path": "localbrand/logo/mountfield-9aa91c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Mountfield/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mountfield-9aa91c.jpg"
+      }
+    },
+    {
+      "displayName": "Stihl",
+      "id": "stihl-6114e5",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/hardware"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Stihl",
+        "brand:wikidata": "Q239372",
+        "name": "Stihl",
+        "shop": "groundskeeping"
+      },
+      "original_logo_url": "https://graph.facebook.com/stihl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stihl-6114e5.png",
+      "local_logo_path": "localbrand/logo/stihl-6114e5.png",
+      "logos": {
+        "original": "https://graph.facebook.com/stihl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stihl-6114e5.png"
+      }
+    },
+    {
+      "displayName": "TruGreen",
+      "id": "trugreen-130b22",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "TruGreen",
+        "brand:wikidata": "Q116966241",
+        "name": "TruGreen",
+        "shop": "groundskeeping"
+      },
+      "original_logo_url": "https://graph.facebook.com/trugreen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/trugreen-130b22.jpg",
+      "local_logo_path": "localbrand/logo/trugreen-130b22.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/trugreen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/trugreen-130b22.jpg"
+      }
+    }
+  ]
+}

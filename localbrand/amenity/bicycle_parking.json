@@ -1,0 +1,135 @@
+{
+  "properties": {
+    "path": "brands/amenity/bicycle_parking",
+    "exclude": {
+      "generic": [
+        "^bicycle (parking|rack)$",
+        "^駐輪場$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Altinnova",
+      "id": "altinnova-057a8b",
+      "locationSet": {
+        "include": [
+          "fr-ara.geojson",
+          "fr-naq.geojson"
+        ]
+      },
+      "matchNames": [
+        "altinova"
+      ],
+      "tags": {
+        "amenity": "bicycle_parking",
+        "brand": "Altinnova",
+        "brand:wikidata": "Q105345360"
+      },
+      "original_logo_url": "https://graph.facebook.com/AltinnovaFR/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/altinnova-057a8b.jpg",
+      "local_logo_path": "localbrand/logo/altinnova-057a8b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AltinnovaFR/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/altinnova-057a8b.jpg"
+      }
+    },
+    {
+      "displayName": "Bikebox",
+      "id": "bikebox-a93dd1",
+      "locationSet": {
+        "include": [
+          "lu"
+        ]
+      },
+      "tags": {
+        "amenity": "bicycle_parking",
+        "brand": "Bikebox",
+        "brand:wikidata": "Q125622954"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bikebox_funiculaire_Kirchberg.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bikebox-a93dd1.jpg",
+      "local_logo_path": "localbrand/logo/bikebox-a93dd1.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bikebox_funiculaire_Kirchberg.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bikebox-a93dd1.jpg"
+      }
+    },
+    {
+      "displayName": "BikeTower",
+      "id": "biketower-f70454",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "building",
+        "brand": "BikeTower",
+        "brand:wikidata": "Q130200714",
+        "covered": "yes",
+        "name": "BikeTower",
+        "supervised": "yes"
+      }
+    },
+    {
+      "displayName": "Hop & go",
+      "id": "hopandgo-4e7596",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "note": "ISO 3166-2 PL-30",
+      "tags": {
+        "amenity": "bicycle_parking",
+        "brand": "Hop & go",
+        "name": "Hop & go"
+      }
+    },
+    {
+      "displayName": "Keylog",
+      "id": "keylog-45f217",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "bollard",
+        "brand": "Keylog",
+        "brand:wikidata": "Q140031150",
+        "name": "Keylog"
+      },
+      "original_logo_url": "https://graph.facebook.com/KEYLOGnet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keylog-45f217.jpg",
+      "local_logo_path": "localbrand/logo/keylog-45f217.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KEYLOGnet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keylog-45f217.jpg"
+      }
+    },
+    {
+      "displayName": "哈啰单车电子围栏",
+      "id": "fdb62d-027b9a",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "note": "ISO 3166-2 CN-BJ",
+      "tags": {
+        "amenity": "bicycle_parking",
+        "brand": "哈啰单车电子围栏",
+        "name": "哈啰单车电子围栏"
+      }
+    }
+  ]
+}

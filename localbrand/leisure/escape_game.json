@@ -1,0 +1,72 @@
+{
+  "properties": {
+    "path": "brands/leisure/escape_game",
+    "exclude": {
+      "generic": [
+        "^escape game$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Escapology",
+      "id": "escapology-838ff3",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "tourism/attraction"
+      ],
+      "tags": {
+        "brand": "Escapology",
+        "brand:wikidata": "Q64137163",
+        "leisure": "escape_game",
+        "name": "Escapology"
+      },
+      "original_logo_url": "https://graph.facebook.com/EscapologySanDiego/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/escapology-838ff3.jpg",
+      "local_logo_path": "localbrand/logo/escapology-838ff3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EscapologySanDiego/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/escapology-838ff3.jpg"
+      }
+    },
+    {
+      "displayName": "Fox in a Box",
+      "id": "foxinabox-f6b5ee",
+      "locationSet": {
+        "include": [
+          "at",
+          "au",
+          "ba",
+          "ca",
+          "de",
+          "es",
+          "fr",
+          "hk",
+          "hr",
+          "it",
+          "mx",
+          "nl",
+          "se",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Fox in a Box",
+        "brand:wikidata": "Q137563898",
+        "leisure": "escape_game",
+        "name": "Fox in a Box"
+      },
+      "original_logo_url": "https://graph.facebook.com/foxinaboxroomescape/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foxinabox-f6b5ee.png",
+      "local_logo_path": "localbrand/logo/foxinabox-f6b5ee.png",
+      "logos": {
+        "original": "https://graph.facebook.com/foxinaboxroomescape/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foxinabox-f6b5ee.png"
+      }
+    }
+  ]
+}

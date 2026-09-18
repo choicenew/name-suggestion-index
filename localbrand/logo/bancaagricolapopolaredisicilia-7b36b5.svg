@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Livello_1"
+   viewBox="0 0 142.54197 134.52538"
+   version="1.1"
+   width="142.54196"
+   height="134.52538"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #009863;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g
+     id="g2"
+     transform="translate(-0.001874,-0.00111522)">
+    <path
+       class="cls-1"
+       d="m 137,30.19 c -11.36,16.9 -31.01,28.11 -35.84,24.86 -4.83,-3.25 -1.97,-25.75 9.38,-42.64 7.74,-11.51 18.35,-15.24 26,-10.11 7.64,5.14 8.2,16.37 0.46,27.89 z"
+       id="path1" />
+    <path
+       class="cls-1"
+       d="m 77.43,30.11 c 27.3,40.99 34.22,95.28 22.51,103.08 C 88.23,140.99 40.55,113.84 13.25,72.84 -5.35,44.91 -3.89,17.74 14.65,5.39 33.19,-6.96 58.83,2.18 77.43,30.11 Z"
+       id="path2" />
+  </g>
+  <g
+     id="g6"
+     transform="translate(-0.001874,-0.00111522)" />
+</svg>

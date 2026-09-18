@@ -1,0 +1,151 @@
+{
+  "properties": {
+    "path": "brands/shop/locksmith",
+    "exclude": {
+      "generic": [
+        "^locksmith$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Intesa",
+      "id": "intesa-7ce211",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Intesa",
+        "brand:wikidata": "Q136697473",
+        "name": "Intesa",
+        "shop": "locksmith"
+      }
+    },
+    {
+      "displayName": "Mister Minit",
+      "id": "misterminit-b68e86",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Mister Minit",
+        "brand:wikidata": "Q1939269",
+        "name": "Mister Minit",
+        "shop": "locksmith"
+      },
+      "original_logo_url": "https://graph.facebook.com/MisterMinit/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/misterminit-b68e86.png",
+      "local_logo_path": "localbrand/logo/misterminit-b68e86.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MisterMinit/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/misterminit-b68e86.png"
+      }
+    },
+    {
+      "displayName": "OS.9",
+      "id": "os9-a897ac",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "ос.9"
+      ],
+      "tags": {
+        "brand": "OS.9",
+        "brand:wikidata": "Q123670813",
+        "name": "OS.9",
+        "shop": "locksmith"
+      },
+      "original_logo_url": "https://graph.facebook.com/os9.com.ua/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/os9-a897ac.jpg",
+      "local_logo_path": "localbrand/logo/os9-a897ac.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/os9.com.ua/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/os9-a897ac.jpg"
+      }
+    },
+    {
+      "displayName": "Timpson",
+      "id": "timpson-5c571a",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "matchNames": [
+        "timpsons"
+      ],
+      "matchTags": [
+        "shop/repair",
+        "shop/security",
+        "shop/shoe_repair",
+        "shop/shoes"
+      ],
+      "tags": {
+        "brand": "Timpson",
+        "brand:wikidata": "Q7807658",
+        "name": "Timpson",
+        "shop": "locksmith"
+      }
+    },
+    {
+      "displayName": "Ключевой момент",
+      "id": "927054-d4528b",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Ключевой момент",
+        "name": "Ключевой момент",
+        "shop": "locksmith"
+      }
+    },
+    {
+      "displayName": "カギの110番",
+      "id": "kagi110-214af9",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "カギの110番",
+        "brand:en": "Kagi110",
+        "brand:ja": "カギの110番",
+        "brand:wikidata": "Q94551271",
+        "name": "カギの110番",
+        "name:en": "Kagi110",
+        "name:ja": "カギの110番",
+        "shop": "locksmith"
+      }
+    },
+    {
+      "displayName": "カギの救急車",
+      "id": "keyambulancy-214af9",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "カギの救急車",
+        "brand:en": "Key Ambulancy",
+        "brand:ja": "カギの救急車",
+        "brand:wikidata": "Q94551271",
+        "name": "カギの救急車",
+        "name:en": "Key Ambulancy",
+        "name:ja": "カギの救急車",
+        "shop": "locksmith"
+      }
+    }
+  ]
+}

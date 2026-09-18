@@ -1,0 +1,164 @@
+{
+  "properties": {
+    "path": "brands/leisure/playground",
+    "skipCollection": true,
+    "exclude": {
+      "generic": [
+        "^playground$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Biba Smart Playground",
+      "id": "biba-d25aa3",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "de",
+          "gb",
+          "hr",
+          "il",
+          "mx",
+          "nz",
+          "sg",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Biba",
+        "brand:wikidata": "Q116211938",
+        "leisure": "playground"
+      },
+      "original_logo_url": "https://graph.facebook.com/playbiba/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biba-d25aa3.png",
+      "local_logo_path": "localbrand/logo/biba-d25aa3.png",
+      "logos": {
+        "original": "https://graph.facebook.com/playbiba/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biba-d25aa3.png"
+      }
+    },
+    {
+      "displayName": "K Park",
+      "id": "kpark-aee7ff",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "access": "yes",
+        "brand": "K Park",
+        "brand:wikidata": "Q134267859",
+        "leisure": "playground",
+        "name": "K Park"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/K_Park_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kpark-aee7ff.png",
+      "local_logo_path": "localbrand/logo/kpark-aee7ff.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/K_Park_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kpark-aee7ff.png"
+      }
+    },
+    {
+      "displayName": "Lollipops Playland",
+      "id": "lollipopsplayland-a3623b",
+      "locationSet": {
+        "include": [
+          "au",
+          "id",
+          "nz"
+        ]
+      },
+      "tags": {
+        "access": "customers",
+        "brand": "Lollipops Playland",
+        "brand:wikidata": "Q116825053",
+        "leisure": "playground",
+        "name": "Lollipops Playland"
+      },
+      "original_logo_url": "https://graph.facebook.com/Lollipopspcanberra/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lollipopsplayland-a3623b.jpg",
+      "local_logo_path": "localbrand/logo/lollipopsplayland-a3623b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Lollipopspcanberra/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lollipopsplayland-a3623b.jpg"
+      }
+    },
+    {
+      "displayName": "McDonald's PlayPlace",
+      "id": "mcdonaldsplayplace-bacb55",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "access": "customers",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "leisure": "playground",
+        "name": "McDonald's PlayPlace"
+      },
+      "original_logo_url": "https://graph.facebook.com/mcdonalds/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcdonaldsplayplace-bacb55.jpg",
+      "local_logo_path": "localbrand/logo/mcdonaldsplayplace-bacb55.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mcdonalds/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcdonaldsplayplace-bacb55.jpg"
+      }
+    },
+    {
+      "displayName": "Žihadielko",
+      "id": "zihadielko-aee7ff",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "access": "yes",
+        "brand": "Žihadielko",
+        "brand:wikidata": "Q116898441",
+        "leisure": "playground",
+        "name": "Žihadielko"
+      },
+      "original_logo_url": "https://graph.facebook.com/zihadielko.lidl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zihadielko-aee7ff.jpg",
+      "local_logo_path": "localbrand/logo/zihadielko-aee7ff.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/zihadielko.lidl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zihadielko-aee7ff.jpg"
+      }
+    },
+    {
+      "displayName": "モーリーファンタジー",
+      "id": "mollyfantasy-b85b28",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "access": "customers",
+        "brand": "モーリーファンタジー",
+        "brand:en": "Molly Fantasy",
+        "brand:ja": "モーリーファンタジー",
+        "brand:wikidata": "Q92437201",
+        "leisure": "playground",
+        "name": "モーリーファンタジー",
+        "name:en": "Molly Fantasy",
+        "name:ja": "モーリーファンタジー"
+      },
+      "original_logo_url": "https://graph.facebook.com/mollyfantasy/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mollyfantasy-b85b28.jpg",
+      "local_logo_path": "localbrand/logo/mollyfantasy-b85b28.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mollyfantasy/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mollyfantasy-b85b28.jpg"
+      }
+    }
+  ]
+}

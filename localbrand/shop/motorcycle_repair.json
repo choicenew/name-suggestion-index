@@ -1,0 +1,222 @@
+{
+  "properties": {
+    "path": "brands/shop/motorcycle_repair",
+    "exclude": {
+      "generic": [
+        "^garage\\s?(moto)?$",
+        "^motorcycle repair$",
+        "^sửa chữa xe máy$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Bajaj",
+      "id": "bajaj-99f02f",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Bajaj",
+        "brand:wikidata": "Q10910065",
+        "name": "Bajaj",
+        "shop": "motorcycle_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/BajajAutoLtd1/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bajaj-99f02f.png",
+      "local_logo_path": "localbrand/logo/bajaj-99f02f.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BajajAutoLtd1/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bajaj-99f02f.png"
+      }
+    },
+    {
+      "displayName": "Harley-Davidson",
+      "id": "harleydavidson-217c34",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Harley-Davidson",
+        "brand:wikidata": "Q192814",
+        "name": "Harley-Davidson",
+        "shop": "motorcycle_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/harley-davidson/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harleydavidson-217c34.jpg",
+      "local_logo_path": "localbrand/logo/harleydavidson-217c34.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/harley-davidson/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harleydavidson-217c34.jpg"
+      }
+    },
+    {
+      "displayName": "Hero",
+      "id": "hero-99f02f",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Hero",
+        "brand:wikidata": "Q1613763",
+        "name": "Hero",
+        "shop": "motorcycle_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/HeroMotoCorpIndia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hero-99f02f.jpg",
+      "local_logo_path": "localbrand/logo/hero-99f02f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HeroMotoCorpIndia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hero-99f02f.jpg"
+      }
+    },
+    {
+      "displayName": "Honda",
+      "id": "honda-217c34",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "honda motorcycle repair"
+      ],
+      "tags": {
+        "brand": "Honda",
+        "brand:wikidata": "Q9584",
+        "name": "Honda",
+        "shop": "motorcycle_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/HondaJP/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/honda-217c34.jpg",
+      "local_logo_path": "localbrand/logo/honda-217c34.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HondaJP/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/honda-217c34.jpg"
+      }
+    },
+    {
+      "displayName": "KTM",
+      "id": "ktm-217c34",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "KTM",
+        "brand:wikidata": "Q215657",
+        "name": "KTM",
+        "shop": "motorcycle_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/Official.KTM/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ktm-217c34.png",
+      "local_logo_path": "localbrand/logo/ktm-217c34.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Official.KTM/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ktm-217c34.png"
+      }
+    },
+    {
+      "displayName": "Sua Xe",
+      "id": "suaxe-217c34",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Sua Xe",
+        "name": "Sua Xe",
+        "shop": "motorcycle_repair"
+      }
+    },
+    {
+      "displayName": "三陽機車",
+      "id": "symmotors-f6c934",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "matchNames": [
+        "sanyang motor"
+      ],
+      "tags": {
+        "brand": "三陽機車",
+        "brand:en": "SYM Motors",
+        "brand:wikidata": "Q534944",
+        "brand:zh": "三陽機車",
+        "name": "三陽機車",
+        "name:en": "SYM Motors",
+        "name:zh": "三陽機車",
+        "shop": "motorcycle_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/SYMTW/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/symmotors-f6c934.jpg",
+      "local_logo_path": "localbrand/logo/symmotors-f6c934.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SYMTW/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/symmotors-f6c934.jpg"
+      }
+    },
+    {
+      "displayName": "光陽機車",
+      "id": "kymcomotor-f6c934",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "matchNames": [
+        "kwang yang motor"
+      ],
+      "tags": {
+        "brand": "光陽機車",
+        "brand:en": "Kymco Motor",
+        "brand:wikidata": "Q696338",
+        "brand:zh": "光陽機車",
+        "name": "光陽機車",
+        "name:en": "Kymco Motor",
+        "name:zh": "光陽機車",
+        "shop": "motorcycle_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/KYMCOGlobal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kymcomotor-f6c934.jpg",
+      "local_logo_path": "localbrand/logo/kymcomotor-f6c934.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KYMCOGlobal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kymcomotor-f6c934.jpg"
+      }
+    },
+    {
+      "displayName": "台灣山葉機車",
+      "id": "yamahamotor-f6c934",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "matchNames": [
+        "yamaha",
+        "臺灣山葉機車"
+      ],
+      "tags": {
+        "brand": "山葉機車",
+        "brand:en": "Yamaha Motor",
+        "brand:wikidata": "Q30573935",
+        "brand:zh": "山葉機車",
+        "name": "台灣山葉機車",
+        "name:en": "Yamaha Motor",
+        "name:zh": "台灣山葉機車",
+        "shop": "motorcycle_repair"
+      }
+    }
+  ]
+}

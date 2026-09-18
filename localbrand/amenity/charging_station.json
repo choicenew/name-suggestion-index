@@ -1,0 +1,3185 @@
+{
+  "properties": {
+    "path": "brands/amenity/charging_station",
+    "skipCollection": true,
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^charging station$"
+      ],
+      "named": [
+        "^tesla, inc.$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "5 Şarj",
+      "id": "5sarj-e7bbbe",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "5 Şarj",
+        "brand:wikidata": "Q135753392",
+        "name": "5 Şarj"
+      },
+      "original_logo_url": "https://graph.facebook.com/61566049947986/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/5sarj-e7bbbe.jpg",
+      "local_logo_path": "localbrand/logo/5sarj-e7bbbe.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/61566049947986/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/5sarj-e7bbbe.jpg"
+      }
+    },
+    {
+      "displayName": "7-Eleven",
+      "id": "7eleven-5598dd",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "7-11",
+        "seven eleven"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven",
+        "operator": "7-Eleven",
+        "operator:wikidata": "Q259340"
+      },
+      "original_logo_url": "https://graph.facebook.com/7ElevenMexico/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/7eleven-5598dd.png",
+      "local_logo_path": "localbrand/logo/7eleven-5598dd.png",
+      "logos": {
+        "original": "https://graph.facebook.com/7ElevenMexico/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/7eleven-5598dd.png"
+      }
+    },
+    {
+      "displayName": "Agri Go Charge",
+      "id": "agrigocharge-2a8f9b",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "matchNames": [
+        "agrisnellaad"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Agri Go Charge",
+        "brand:wikidata": "Q126403386",
+        "name": "Agri Go Charge",
+        "operator": "Agri Go Charge",
+        "operator:wikidata": "Q126403386"
+      }
+    },
+    {
+      "displayName": "ampUp",
+      "id": "ampup-67e574",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "no"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "ampUp",
+        "brand:wikidata": "Q127271250"
+      },
+      "original_logo_url": "https://graph.facebook.com/ampup.io/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ampup-67e574.png",
+      "local_logo_path": "localbrand/logo/ampup-67e574.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ampup.io/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ampup-67e574.png"
+      }
+    },
+    {
+      "displayName": "Applegreen Electric",
+      "id": "applegreenelectric-731cc1",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Applegreen Electric",
+        "brand:wikidata": "Q7178908",
+        "operator": "Applegreen Electric",
+        "operator:wikidata": "Q7178908"
+      },
+      "original_logo_url": "https://graph.facebook.com/goapplegreen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/applegreenelectric-731cc1.jpg",
+      "local_logo_path": "localbrand/logo/applegreenelectric-731cc1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/goapplegreen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/applegreenelectric-731cc1.jpg"
+      }
+    },
+    {
+      "displayName": "Aral pulse",
+      "id": "aralpulse-e59580",
+      "locationSet": {
+        "include": [
+          "de",
+          "lu"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Aral pulse",
+        "brand:wikidata": "Q130210067",
+        "operator": "Aral",
+        "operator:wikidata": "Q565734"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Aral_pulse_logo.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aralpulse-e59580.jpg",
+      "local_logo_path": "localbrand/logo/aralpulse-e59580.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Aral_pulse_logo.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aralpulse-e59580.jpg"
+      }
+    },
+    {
+      "displayName": "Atlante",
+      "id": "atlante-a1174d",
+      "locationSet": {
+        "include": [
+          "ch",
+          "es",
+          "fr",
+          "it",
+          "lu",
+          "pt"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Atlante",
+        "brand:wikidata": "Q126913632",
+        "operator": "Atlante",
+        "operator:wikidata": "Q126913632"
+      },
+      "original_logo_url": "https://graph.facebook.com/atlante.energy.italia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/atlante-a1174d.jpg",
+      "local_logo_path": "localbrand/logo/atlante-a1174d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/atlante.energy.italia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/atlante-a1174d.jpg"
+      }
+    },
+    {
+      "displayName": "Be.EV",
+      "id": "beev-cc3397",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Be.EV",
+        "brand:wikidata": "Q128603119",
+        "operator": "Iduna",
+        "operator:wikidata": "Q118263083"
+      },
+      "original_logo_url": "https://graph.facebook.com/Be.EVchargingnetwork/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beev-cc3397.jpg",
+      "local_logo_path": "localbrand/logo/beev-cc3397.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Be.EVchargingnetwork/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beev-cc3397.jpg"
+      }
+    },
+    {
+      "displayName": "Believ",
+      "id": "believ-cc3397",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "believe",
+        "liberty charge"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Believ",
+        "brand:wikidata": "Q129085075",
+        "operator": "Believ",
+        "operator:wikidata": "Q129085075"
+      }
+    },
+    {
+      "displayName": "bike-energy",
+      "id": "bikeenergy-b97cbe",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de",
+          "fx",
+          "it",
+          "lu"
+        ]
+      },
+      "matchNames": [
+        "bike-energy ladestation"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "bike-energy",
+        "brand:wikidata": "Q67770877",
+        "name": "bike-energy",
+        "operator": "bike-energy",
+        "operator:wikidata": "Q67770877"
+      },
+      "original_logo_url": "https://graph.facebook.com/bikeenergyLadestationen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bikeenergy-b97cbe.jpg",
+      "local_logo_path": "localbrand/logo/bikeenergy-b97cbe.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bikeenergyLadestationen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bikeenergy-b97cbe.jpg"
+      }
+    },
+    {
+      "displayName": "Blink",
+      "id": "blink-f1151b",
+      "locationSet": {
+        "include": [
+          "gb",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Blink",
+        "brand:wikidata": "Q62065645",
+        "name": "Blink",
+        "operator": "Blink",
+        "operator:wikidata": "Q62065645"
+      },
+      "original_logo_url": "https://graph.facebook.com/blinkcharging/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blink-f1151b.jpg",
+      "local_logo_path": "localbrand/logo/blink-f1151b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/blinkcharging/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blink-f1151b.jpg"
+      }
+    },
+    {
+      "displayName": "Bosch eBike Systems",
+      "id": "boschebikesystems-220b8a",
+      "locationSet": {
+        "include": [
+          "150"
+        ],
+        "exclude": [
+          "no"
+        ]
+      },
+      "matchNames": [
+        "robert bosch gmbh"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Bosch eBike Systems",
+        "brand:wikidata": "Q234021",
+        "name": "Bosch eBike Systems",
+        "operator": "Bosch eBike Systems",
+        "operator:wikidata": "Q234021"
+      },
+      "original_logo_url": "https://graph.facebook.com/BoschGlobal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boschebikesystems-220b8a.jpg",
+      "local_logo_path": "localbrand/logo/boschebikesystems-220b8a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BoschGlobal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boschebikesystems-220b8a.jpg"
+      }
+    },
+    {
+      "displayName": "bp pulse",
+      "id": "bppulse-ac8b5c",
+      "locationSet": {
+        "include": [
+          "au",
+          "gb",
+          "nl",
+          "nz",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "bp chargemaster",
+        "chargemaster"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "bp pulse",
+        "brand:wikidata": "Q39057719",
+        "operator": "bp pulse",
+        "operator:wikidata": "Q39057719"
+      },
+      "original_logo_url": "https://graph.facebook.com/bppulseuk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bppulse-ac8b5c.jpg",
+      "local_logo_path": "localbrand/logo/bppulse-ac8b5c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bppulseuk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bppulse-ac8b5c.jpg"
+      }
+    },
+    {
+      "displayName": "char.gy",
+      "id": "chargy-cc3397",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "char.gy",
+        "brand:wikidata": "Q113465698"
+      },
+      "original_logo_url": "https://graph.facebook.com/getchargy/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chargy-cc3397.jpg",
+      "local_logo_path": "localbrand/logo/chargy-cc3397.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/getchargy/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chargy-cc3397.jpg"
+      }
+    },
+    {
+      "displayName": "Charge365",
+      "id": "charge365-054d0f",
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Charge365"
+      }
+    },
+    {
+      "displayName": "ChargeOne",
+      "id": "chargeone-81fa04",
+      "locationSet": {
+        "include": [
+          "ch",
+          "de"
+        ]
+      },
+      "matchNames": [
+        "heinemann"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "ChargeOne",
+        "brand:wikidata": "Q136273643",
+        "name": "ChargeOne"
+      }
+    },
+    {
+      "displayName": "ChargePoint",
+      "id": "chargepoint-67e574",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "no"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "ChargePoint",
+        "brand:wikidata": "Q5176149",
+        "name": "ChargePoint",
+        "operator": "ChargePoint",
+        "operator:wikidata": "Q5176149"
+      },
+      "original_logo_url": "https://graph.facebook.com/ChargePoint/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chargepoint-67e574.png",
+      "local_logo_path": "localbrand/logo/chargepoint-67e574.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ChargePoint/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chargepoint-67e574.png"
+      }
+    },
+    {
+      "displayName": "Charging the Regions",
+      "id": "chargingtheregions-604e55",
+      "locationSet": {
+        "include": [
+          "au-vic.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Charging the Regions",
+        "brand:wikidata": "Q106320264",
+        "operator": "Central Victorian Greenhouse Alliance",
+        "operator:wikidata": "Q106320329"
+      }
+    },
+    {
+      "displayName": "Chargy",
+      "id": "chargy-e87a7c",
+      "locationSet": {
+        "include": [
+          "lu"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Chargy",
+        "brand:wikidata": "Q62702950",
+        "name": "Chargy",
+        "operator": "Chargy",
+        "operator:wikidata": "Q62702950"
+      },
+      "original_logo_url": "https://graph.facebook.com/chargy.lu/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chargy-e87a7c.jpg",
+      "local_logo_path": "localbrand/logo/chargy-e87a7c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/chargy.lu/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chargy-e87a7c.jpg"
+      }
+    },
+    {
+      "displayName": "Circle K",
+      "id": "circlek-4bd82e",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "operator": "Circle K",
+        "operator:wikidata": "Q3268010"
+      },
+      "original_logo_url": "https://graph.facebook.com/CircleKStores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/circlek-4bd82e.png",
+      "local_logo_path": "localbrand/logo/circlek-4bd82e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/CircleKStores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/circlek-4bd82e.png"
+      }
+    },
+    {
+      "displayName": "Circuit électrique",
+      "id": "circuitelectrique-1f220b",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "le circuit électrique"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Circuit électrique",
+        "brand:en": "Electric Circuit",
+        "brand:fr": "Circuit électrique",
+        "brand:wikidata": "Q24934590",
+        "name": "Circuit électrique",
+        "name:en": "Electric Circuit",
+        "name:fr": "Circuit électrique",
+        "operator": "Circuit électrique",
+        "operator:en": "Electric Circuit",
+        "operator:fr": "Circuit électrique",
+        "operator:wikidata": "Q24934590"
+      },
+      "original_logo_url": "https://graph.facebook.com/lecircuitelectrique/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/circuitelectrique-1f220b.jpg",
+      "local_logo_path": "localbrand/logo/circuitelectrique-1f220b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lecircuitelectrique/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/circuitelectrique-1f220b.jpg"
+      }
+    },
+    {
+      "displayName": "E-WALD",
+      "id": "ewald-190c99",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "e-wald gmbh",
+        "e-wald ladestation"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "E-WALD",
+        "brand:wikidata": "Q61804335",
+        "name": "E-WALD",
+        "operator": "E-WALD",
+        "operator:wikidata": "Q61804335"
+      }
+    },
+    {
+      "displayName": "E.ON Drive",
+      "id": "eondrive-bf116e",
+      "locationSet": {
+        "include": [
+          "150"
+        ],
+        "exclude": [
+          "sk"
+        ]
+      },
+      "matchNames": [
+        "e.on danmark"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "E.ON Drive",
+        "brand:wikidata": "Q126650419",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223"
+      },
+      "original_logo_url": "https://graph.facebook.com/EonEnergieDe/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eondrive-bf116e.png",
+      "local_logo_path": "localbrand/logo/eondrive-bf116e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/EonEnergieDe/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eondrive-bf116e.png"
+      }
+    },
+    {
+      "displayName": "econec",
+      "id": "econec-391bca",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "matchNames": [
+        "ebike box",
+        "ebike point",
+        "econec.eu"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "econec",
+        "brand:wikidata": "Q131407536"
+      },
+      "original_logo_url": "https://graph.facebook.com/Econec.eu/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/econec-391bca.jpg",
+      "local_logo_path": "localbrand/logo/econec-391bca.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Econec.eu/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/econec-391bca.jpg"
+      }
+    },
+    {
+      "displayName": "ejoin",
+      "id": "ejoin-8610f2",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "ejoin",
+        "brand:wikidata": "Q116737637",
+        "operator": "ejoin",
+        "operator:wikidata": "Q116737637"
+      },
+      "original_logo_url": "https://graph.facebook.com/ejoineurope/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ejoin-8610f2.png",
+      "local_logo_path": "localbrand/logo/ejoin-8610f2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ejoineurope/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ejoin-8610f2.png"
+      }
+    },
+    {
+      "displayName": "EKO Charge&Go",
+      "id": "ekochargeandgo-5f334c",
+      "locationSet": {
+        "include": [
+          "gr"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "EKO Charge&Go",
+        "brand:wikidata": "Q140818770",
+        "name": "EKO Charge&Go",
+        "operator": "HELLENiQ ENERGY",
+        "operator:wikidata": "Q903198"
+      }
+    },
+    {
+      "displayName": "Eldrive",
+      "id": "eldrive-ba9df9",
+      "locationSet": {
+        "include": [
+          "bg",
+          "lt",
+          "ro"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Eldrive",
+        "brand:wikidata": "Q120376381"
+      },
+      "original_logo_url": "https://graph.facebook.com/EldriveBulgaria/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eldrive-ba9df9.jpg",
+      "local_logo_path": "localbrand/logo/eldrive-ba9df9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EldriveBulgaria/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eldrive-ba9df9.jpg"
+      }
+    },
+    {
+      "displayName": "Electra",
+      "id": "electra-5e7209",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "ch",
+          "de",
+          "es",
+          "fr",
+          "it",
+          "lu",
+          "nl"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Electra",
+        "brand:wikidata": "Q128592938",
+        "operator": "Electra",
+        "operator:wikidata": "Q128592938"
+      },
+      "original_logo_url": "https://graph.facebook.com/electra.stations/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/electra-5e7209.jpg",
+      "local_logo_path": "localbrand/logo/electra-5e7209.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/electra.stations/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/electra-5e7209.jpg"
+      }
+    },
+    {
+      "displayName": "Electrify America",
+      "id": "electrifyamerica-5598dd",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Electrify America",
+        "brand:wikidata": "Q59773555",
+        "operator": "Electrify America",
+        "operator:wikidata": "Q59773555"
+      },
+      "original_logo_url": "https://graph.facebook.com/ElectrifyAmerica/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/electrifyamerica-5598dd.jpg",
+      "local_logo_path": "localbrand/logo/electrifyamerica-5598dd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ElectrifyAmerica/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/electrifyamerica-5598dd.jpg"
+      }
+    },
+    {
+      "displayName": "Electrify Canada",
+      "id": "electrifycanada-1f220b",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Electrify Canada",
+        "brand:wikidata": "Q104844533",
+        "operator": "Electrify Canada",
+        "operator:wikidata": "Q104844533"
+      }
+    },
+    {
+      "displayName": "electrip",
+      "id": "electrip-7d70e9",
+      "locationSet": {
+        "include": [
+          "gr",
+          "hr",
+          "it",
+          "tr"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "electrip",
+        "brand:wikidata": "Q133980622"
+      },
+      "original_logo_url": "https://graph.facebook.com/electripbulgaria/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/electrip-7d70e9.jpg",
+      "local_logo_path": "localbrand/logo/electrip-7d70e9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/electripbulgaria/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/electrip-7d70e9.jpg"
+      }
+    },
+    {
+      "displayName": "electrip (Bulgaria)",
+      "id": "electrip-59a92d",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "electrip",
+        "brand:wikidata": "Q139373328"
+      },
+      "original_logo_url": "https://graph.facebook.com/electripbulgaria/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/electrip-59a92d.jpg",
+      "local_logo_path": "localbrand/logo/electrip-59a92d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/electripbulgaria/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/electrip-59a92d.jpg"
+      }
+    },
+    {
+      "displayName": "Electrocharge",
+      "id": "electrocharge-59a92d",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Electrocharge",
+        "brand:wikidata": "Q133307258"
+      },
+      "original_logo_url": "https://graph.facebook.com/61566789065904/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/electrocharge-59a92d.jpg",
+      "local_logo_path": "localbrand/logo/electrocharge-59a92d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/61566789065904/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/electrocharge-59a92d.jpg"
+      }
+    },
+    {
+      "displayName": "Elektro Profi",
+      "id": "elektroprofi-39fea5",
+      "locationSet": {
+        "include": [
+          "hu"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Elektro Profi",
+        "brand:wikidata": "Q137696853",
+        "name": "Elektro Profi",
+        "operator": "Elektro Profi Mobility Kft.",
+        "operator:wikidata": "Q137696853"
+      },
+      "original_logo_url": "https://graph.facebook.com/epcharger/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elektroprofi-39fea5.png",
+      "local_logo_path": "localbrand/logo/elektroprofi-39fea5.png",
+      "logos": {
+        "original": "https://graph.facebook.com/epcharger/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elektroprofi-39fea5.png"
+      }
+    },
+    {
+      "displayName": "eMotion",
+      "id": "emotion-d44228",
+      "locationSet": {
+        "include": [
+          "at",
+          "bg",
+          "cz",
+          "hu",
+          "ro",
+          "rs",
+          "sk"
+        ]
+      },
+      "matchNames": [
+        "omv emotion"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "eMotion",
+        "brand:wikidata": "Q139071415"
+      },
+      "original_logo_url": "https://graph.facebook.com/OMV/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/emotion-d44228.jpg",
+      "local_logo_path": "localbrand/logo/emotion-d44228.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OMV/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/emotion-d44228.jpg"
+      }
+    },
+    {
+      "displayName": "Endolla Barcelona",
+      "id": "endollabarcelona-000947",
+      "locationSet": {
+        "include": [
+          "es-b.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Endolla Barcelona",
+        "brand:wikidata": "Q129811747",
+        "operator": "Barcelona de Serveis Municipals",
+        "operator:short": "BSM",
+        "operator:wikidata": "Q11908177"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Icona_Endolla_Barcelona.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/endollabarcelona-000947.svg",
+      "local_logo_path": "localbrand/logo/endollabarcelona-000947.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Icona_Endolla_Barcelona.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/endollabarcelona-000947.svg"
+      }
+    },
+    {
+      "displayName": "Enel",
+      "id": "enel-0532c0",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "matchNames": [
+        "enel - stazione di ricarica"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Enel",
+        "brand:wikidata": "Q651222",
+        "name": "Enel",
+        "operator": "Enel",
+        "operator:wikidata": "Q651222"
+      },
+      "original_logo_url": "https://graph.facebook.com/enelgroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/enel-0532c0.jpg",
+      "local_logo_path": "localbrand/logo/enel-0532c0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/enelgroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/enel-0532c0.jpg"
+      }
+    },
+    {
+      "displayName": "Enel X",
+      "id": "enelx-01e016",
+      "locationSet": {
+        "include": [
+          "cl",
+          "it",
+          "ro"
+        ]
+      },
+      "matchNames": [
+        "enel x metbus"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Enel X",
+        "brand:wikidata": "Q5376815",
+        "name": "Enel X",
+        "operator": "Enel X",
+        "operator:wikidata": "Q5376815"
+      },
+      "original_logo_url": "https://graph.facebook.com/enelxglobal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/enelx-01e016.png",
+      "local_logo_path": "localbrand/logo/enelx-01e016.png",
+      "logos": {
+        "original": "https://graph.facebook.com/enelxglobal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/enelx-01e016.png"
+      }
+    },
+    {
+      "displayName": "Energie Südbayern",
+      "id": "energiesudbayern-4d480f",
+      "locationSet": {
+        "include": [
+          "de-by.geojson"
+        ]
+      },
+      "matchNames": [
+        "esb"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Energie Südbayern",
+        "brand:wikidata": "Q1341223",
+        "operator": "Energie Südbayern",
+        "operator:wikidata": "Q1341223"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Energie_S%C3%BCdbayern_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/energiesudbayern-4d480f.svg",
+      "local_logo_path": "localbrand/logo/energiesudbayern-4d480f.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Energie_S%C3%BCdbayern_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/energiesudbayern-4d480f.svg"
+      }
+    },
+    {
+      "displayName": "ENGIE Vianeo",
+      "id": "engievianeo-b625d6",
+      "locationSet": {
+        "include": [
+          "150"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "ENGIE Vianeo",
+        "brand:wikidata": "Q136271934"
+      },
+      "original_logo_url": "https://graph.facebook.com/ENGIEVianeo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/engievianeo-b625d6.jpg",
+      "local_logo_path": "localbrand/logo/engievianeo-b625d6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ENGIEVianeo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/engievianeo-b625d6.jpg"
+      }
+    },
+    {
+      "displayName": "ESB ecars",
+      "id": "esbecars-23c50d",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "matchNames": [
+        "ecarni",
+        "esb",
+        "esb energy",
+        "esb ev solutions"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "ESB ecars",
+        "brand:wikidata": "Q134882112",
+        "operator": "ESB Group",
+        "operator:wikidata": "Q3050566"
+      },
+      "original_logo_url": "https://graph.facebook.com/ESBecars/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/esbecars-23c50d.jpg",
+      "local_logo_path": "localbrand/logo/esbecars-23c50d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ESBecars/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/esbecars-23c50d.jpg"
+      }
+    },
+    {
+      "displayName": "EV Connect",
+      "id": "evconnect-5598dd",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "EV Connect",
+        "brand:wikidata": "Q126652985",
+        "operator": "EV Connect",
+        "operator:wikidata": "Q126652985"
+      },
+      "original_logo_url": "https://graph.facebook.com/evconnect/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/evconnect-5598dd.png",
+      "local_logo_path": "localbrand/logo/evconnect-5598dd.png",
+      "logos": {
+        "original": "https://graph.facebook.com/evconnect/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/evconnect-5598dd.png"
+      }
+    },
+    {
+      "displayName": "EV Georgia",
+      "id": "evgeorgia-dfa5ee",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "EV Georgia",
+        "brand:en": "EV Georgia",
+        "brand:wikidata": "Q131470037",
+        "name": "EV Georgia",
+        "name:en": "EV Georgia"
+      }
+    },
+    {
+      "displayName": "EV Power (Georgia)",
+      "id": "evpower-dfa5ee",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "EV Power",
+        "brand:en": "EV Power",
+        "brand:wikidata": "Q138339918",
+        "name": "EV Power",
+        "name:en": "EV Power"
+      }
+    },
+    {
+      "displayName": "EVChaja",
+      "id": "evchaja-002e1b",
+      "locationSet": {
+        "include": [
+          "ke"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "EVChaja",
+        "brand:wikidata": "Q140930713",
+        "name": "EVChaja"
+      }
+    },
+    {
+      "displayName": "EvGateway",
+      "id": "evgateway-67e574",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "no"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "EvGateway",
+        "brand:wikidata": "Q127869937"
+      }
+    },
+    {
+      "displayName": "EVgo",
+      "id": "evgo-5598dd",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "EVgo",
+        "brand:wikidata": "Q61803820",
+        "name": "EVgo",
+        "operator": "EVgo",
+        "operator:wikidata": "Q61803820"
+      }
+    },
+    {
+      "displayName": "Eviny",
+      "id": "eviny-054d0f",
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "matchNames": [
+        "bkk",
+        "bkk nett as for hordaland fylkeskommune",
+        "sunnfjord energi"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Eviny",
+        "brand:wikidata": "Q4891601",
+        "name": "Eviny"
+      },
+      "original_logo_url": "https://graph.facebook.com/eviny.konsern/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eviny-054d0f.png",
+      "local_logo_path": "localbrand/logo/eviny-054d0f.png",
+      "logos": {
+        "original": "https://graph.facebook.com/eviny.konsern/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eviny-054d0f.png"
+      }
+    },
+    {
+      "displayName": "evmapa",
+      "id": "evmapa-391bca",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "evmapa",
+        "brand:wikidata": "Q136929506"
+      },
+      "original_logo_url": "https://graph.facebook.com/evmapa.cz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/evmapa-391bca.png",
+      "local_logo_path": "localbrand/logo/evmapa-391bca.png",
+      "logos": {
+        "original": "https://graph.facebook.com/evmapa.cz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/evmapa-391bca.png"
+      }
+    },
+    {
+      "displayName": "evyve",
+      "id": "evyve-cc3397",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "evyve",
+        "brand:wikidata": "Q116698197",
+        "operator": "evyve",
+        "operator:wikidata": "Q116698197"
+      }
+    },
+    {
+      "displayName": "Fastned",
+      "id": "fastned-782c71",
+      "locationSet": {
+        "include": [
+          "be",
+          "ch",
+          "de",
+          "dk",
+          "es",
+          "fr",
+          "gb",
+          "it",
+          "nl"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Fastned",
+        "brand:wikidata": "Q19935749",
+        "operator": "Fastned",
+        "operator:wikidata": "Q19935749"
+      },
+      "original_logo_url": "https://graph.facebook.com/fastned/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastned-782c71.jpg",
+      "local_logo_path": "localbrand/logo/fastned-782c71.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fastned/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastned-782c71.jpg"
+      }
+    },
+    {
+      "displayName": "FastWay",
+      "id": "fastway-0532c0",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "FastWay",
+        "brand:wikidata": "Q138795551"
+      }
+    },
+    {
+      "displayName": "Fines Charging",
+      "id": "finescharging-59a92d",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "matchNames": [
+        "финес енерджи оод"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Fines Charging",
+        "brand:wikidata": "Q128904354"
+      },
+      "original_logo_url": "https://graph.facebook.com/finescharging/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/finescharging-59a92d.png",
+      "local_logo_path": "localbrand/logo/finescharging-59a92d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/finescharging/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/finescharging-59a92d.png"
+      }
+    },
+    {
+      "displayName": "First Charge",
+      "id": "firstcharge-cc3397",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "first bus",
+        "first group"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "First Charge",
+        "brand:wikidata": "Q135324137"
+      }
+    },
+    {
+      "displayName": "FLO",
+      "id": "flo-d2b245",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "FLO",
+        "brand:wikidata": "Q64971203",
+        "name": "FLO",
+        "operator": "FLO",
+        "operator:wikidata": "Q64971203"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/FLO_Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flo-d2b245.svg",
+      "local_logo_path": "localbrand/logo/flo-d2b245.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/FLO_Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flo-d2b245.svg"
+      }
+    },
+    {
+      "displayName": "FPL EVolution",
+      "id": "fplevolution-66b127",
+      "locationSet": {
+        "include": [
+          "us-fl.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "FPL EVolution",
+        "brand:wikidata": "Q138574160",
+        "name": "FPL EVolution"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/FPL_EVolution_Logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fplevolution-66b127.png",
+      "local_logo_path": "localbrand/logo/fplevolution-66b127.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/FPL_EVolution_Logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fplevolution-66b127.png"
+      }
+    },
+    {
+      "displayName": "futurego",
+      "id": "futurego-52c83f",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "futurego",
+        "brand:wikidata": "Q127514998",
+        "name": "futurego",
+        "operator": "ČEZ",
+        "operator:wikidata": "Q336735"
+      },
+      "original_logo_url": "https://graph.facebook.com/SkupinaCEZ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/futurego-52c83f.jpg",
+      "local_logo_path": "localbrand/logo/futurego-52c83f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SkupinaCEZ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/futurego-52c83f.jpg"
+      }
+    },
+    {
+      "displayName": "GeniePoint",
+      "id": "geniepoint-cc3397",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "GeniePoint",
+        "brand:wikidata": "Q111363966",
+        "operator": "GeniePoint",
+        "operator:wikidata": "Q111363966"
+      },
+      "original_logo_url": "https://graph.facebook.com/GeniePoint/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/geniepoint-cc3397.jpg",
+      "local_logo_path": "localbrand/logo/geniepoint-cc3397.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GeniePoint/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/geniepoint-cc3397.jpg"
+      }
+    },
+    {
+      "displayName": "GigaCharger",
+      "id": "gigacharger-59a92d",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "GigaCharger",
+        "brand:wikidata": "Q130044770"
+      },
+      "original_logo_url": "https://graph.facebook.com/GigaCharger/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gigacharger-59a92d.jpg",
+      "local_logo_path": "localbrand/logo/gigacharger-59a92d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GigaCharger/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gigacharger-59a92d.jpg"
+      }
+    },
+    {
+      "displayName": "Gogoro 電池交換站",
+      "id": "62c656-d659ad",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Gogoro 電池交換站",
+        "brand:wikidata": "Q19880591",
+        "name": "Gogoro 電池交換站",
+        "operator": "Gogoro 電池交換站",
+        "operator:wikidata": "Q19880591"
+      },
+      "original_logo_url": "https://graph.facebook.com/Gogoro/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/62c656-d659ad.jpg",
+      "local_logo_path": "localbrand/logo/62c656-d659ad.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Gogoro/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/62c656-d659ad.jpg"
+      }
+    },
+    {
+      "displayName": "GreenWay",
+      "id": "greenway-1cf5d4",
+      "locationSet": {
+        "include": [
+          "hr",
+          "pl",
+          "sk"
+        ]
+      },
+      "matchNames": [
+        "greenway infrastructure"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "GreenWay",
+        "brand:wikidata": "Q116450281"
+      },
+      "original_logo_url": "https://graph.facebook.com/GreenWayInfrastructure/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greenway-1cf5d4.jpg",
+      "local_logo_path": "localbrand/logo/greenway-1cf5d4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GreenWayInfrastructure/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greenway-1cf5d4.jpg"
+      }
+    },
+    {
+      "displayName": "Gridserve",
+      "id": "gridserve-cc3397",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "ecotricity",
+        "electric highway"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Gridserve",
+        "brand:wikidata": "Q89575318",
+        "name": "Gridserve",
+        "operator": "Gridserve",
+        "operator:wikidata": "Q89575318"
+      },
+      "original_logo_url": "https://graph.facebook.com/GRIDSERVE/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gridserve-cc3397.jpg",
+      "local_logo_path": "localbrand/logo/gridserve-cc3397.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GRIDSERVE/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gridserve-cc3397.jpg"
+      }
+    },
+    {
+      "displayName": "Hackney Light and Power",
+      "id": "hackneylightandpower-477177",
+      "locationSet": {
+        "include": [
+          "gb-lon.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Hackney Light and Power",
+        "brand:wikidata": "Q135016962",
+        "name": "Hackney Light and Power",
+        "operator": "Zest",
+        "operator:wikidata": "Q122871256"
+      }
+    },
+    {
+      "displayName": "Indigo",
+      "id": "indigo-fd0ca8",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Indigo",
+        "brand:wikidata": "Q3559970"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Indigo_%28entreprise%29_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indigo-fd0ca8.png",
+      "local_logo_path": "localbrand/logo/indigo-fd0ca8.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/6/62/Indigo_%28entreprise%29_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indigo-fd0ca8.png"
+      }
+    },
+    {
+      "displayName": "Innogy",
+      "id": "innogy-190c99",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "innogy emobility solutions gmbh",
+        "innogy se",
+        "rwe"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Innogy",
+        "brand:wikidata": "Q2124721",
+        "name": "Innogy",
+        "operator": "Innogy",
+        "operator:wikidata": "Q2124721"
+      }
+    },
+    {
+      "displayName": "Ionity",
+      "id": "ionity-b625d6",
+      "locationSet": {
+        "include": [
+          "150"
+        ]
+      },
+      "matchNames": [
+        "ionity gmbh"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Ionity",
+        "brand:wikidata": "Q42717773",
+        "operator": "Ionity",
+        "operator:wikidata": "Q42717773"
+      },
+      "original_logo_url": "https://graph.facebook.com/ionity.eu/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ionity-b625d6.jpg",
+      "local_logo_path": "localbrand/logo/ionity-b625d6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ionity.eu/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ionity-b625d6.jpg"
+      }
+    },
+    {
+      "displayName": "IONNA",
+      "id": "ionna-5598dd",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "rechargery",
+        "rechargery beacon",
+        "rechargery relay"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "IONNA",
+        "brand:wikidata": "Q124528707"
+      },
+      "original_logo_url": "https://graph.facebook.com/61573722687822/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ionna-5598dd.jpg",
+      "local_logo_path": "localbrand/logo/ionna-5598dd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/61573722687822/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ionna-5598dd.jpg"
+      }
+    },
+    {
+      "displayName": "Ishavsveien",
+      "id": "ishavsveien-054d0f",
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Ishavsveien"
+      }
+    },
+    {
+      "displayName": "Kople",
+      "id": "kople-054d0f",
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Kople",
+        "brand:wikidata": "Q126708777"
+      },
+      "original_logo_url": "https://graph.facebook.com/kople.no/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kople-054d0f.jpg",
+      "local_logo_path": "localbrand/logo/kople-054d0f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kople.no/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kople-054d0f.jpg"
+      }
+    },
+    {
+      "displayName": "La borne bleue",
+      "id": "labornebleue-869b24",
+      "locationSet": {
+        "include": [
+          "fr-idf.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "La borne bleue",
+        "brand:wikidata": "Q123580443",
+        "name": "La borne bleue",
+        "operator": "SIPPEREC",
+        "operator:wikidata": "Q3508347"
+      }
+    },
+    {
+      "displayName": "Loop",
+      "id": "loop-67e574",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "no"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Loop",
+        "brand:wikidata": "Q135741953"
+      }
+    },
+    {
+      "displayName": "MartEV",
+      "id": "martev-dfa5ee",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "MartEV",
+        "brand:en": "MartEV",
+        "brand:wikidata": "Q138332705",
+        "name": "MartEV",
+        "name:en": "MartEV"
+      },
+      "original_logo_url": "https://graph.facebook.com/61566349196128/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/martev-dfa5ee.jpg",
+      "local_logo_path": "localbrand/logo/martev-dfa5ee.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/61566349196128/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/martev-dfa5ee.jpg"
+      }
+    },
+    {
+      "displayName": "Mer",
+      "id": "mer-36d5f6",
+      "locationSet": {
+        "include": [
+          "at",
+          "de",
+          "gb",
+          "no",
+          "se"
+        ]
+      },
+      "matchNames": [
+        "bee",
+        "bee charging solutions",
+        "eemobility",
+        "eemobility gmbh",
+        "grønn kontakt",
+        "mer germany gmbh"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Mer",
+        "brand:wikidata": "Q100821564",
+        "operator": "Mer",
+        "operator:wikidata": "Q100821564"
+      },
+      "original_logo_url": "https://graph.facebook.com/MerNorge/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mer-36d5f6.png",
+      "local_logo_path": "localbrand/logo/mer-36d5f6.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MerNorge/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mer-36d5f6.png"
+      }
+    },
+    {
+      "displayName": "Mercedes-Benz",
+      "id": "mercedesbenz-4bd82e",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "mercedes"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Mercedes-Benz",
+        "brand:wikidata": "Q36008",
+        "operator": "Mercedes-Benz",
+        "operator:wikidata": "Q36008"
+      },
+      "original_logo_url": "https://graph.facebook.com/MercedesBenz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mercedesbenz-4bd82e.png",
+      "local_logo_path": "localbrand/logo/mercedesbenz-4bd82e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MercedesBenz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mercedesbenz-4bd82e.png"
+      }
+    },
+    {
+      "displayName": "Milence",
+      "id": "milencecharginghub-1903ef",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "de",
+          "dk",
+          "es",
+          "fr",
+          "gb",
+          "it",
+          "nl",
+          "pl",
+          "se",
+          "si"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Milence",
+        "brand:wikidata": "Q131904416",
+        "hgv": "designated",
+        "motorcar": "no",
+        "motorcycle": "no",
+        "name": "Milence Charging Hub"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Milence_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/milencecharginghub-1903ef.svg",
+      "local_logo_path": "localbrand/logo/milencecharginghub-1903ef.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Milence_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/milencecharginghub-1903ef.svg"
+      }
+    },
+    {
+      "displayName": "Mobiliti",
+      "id": "mobiliti-39fea5",
+      "locationSet": {
+        "include": [
+          "hu"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Mobiliti",
+        "brand:wikidata": "Q126734853",
+        "name": "Mobiliti",
+        "operator": "Mobiliti",
+        "operator:wikidata": "Q126734853"
+      }
+    },
+    {
+      "displayName": "MOL Plugee",
+      "id": "molplugee-ce45cd",
+      "locationSet": {
+        "include": [
+          "cz",
+          "hr",
+          "hu",
+          "ro",
+          "si",
+          "sk"
+        ]
+      },
+      "matchNames": [
+        "mol nyrt."
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "MOL Plugee",
+        "brand:wikidata": "Q549181",
+        "operator": "MOL",
+        "operator:wikidata": "Q549181"
+      },
+      "original_logo_url": "https://graph.facebook.com/molcesko/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/molplugee-ce45cd.png",
+      "local_logo_path": "localbrand/logo/molplugee-ce45cd.png",
+      "logos": {
+        "original": "https://graph.facebook.com/molcesko/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/molplugee-ce45cd.png"
+      }
+    },
+    {
+      "displayName": "NabiBajk",
+      "id": "nabibajk-8610f2",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "NabiBajk",
+        "brand:wikidata": "Q131407297"
+      },
+      "original_logo_url": "https://graph.facebook.com/484374808084077/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nabibajk-8610f2.jpg",
+      "local_logo_path": "localbrand/logo/nabibajk-8610f2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/484374808084077/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nabibajk-8610f2.jpg"
+      }
+    },
+    {
+      "displayName": "NIO Power Charger",
+      "id": "niopowercharger-3d2bec",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "cn",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "NIO Power",
+        "brand:en": "NIO Power",
+        "brand:wikidata": "Q29921278",
+        "name": "NIO Power Charger",
+        "name:en": "NIO Power Charger",
+        "operator": "NIO Power",
+        "operator:wikidata": "Q29921278"
+      },
+      "original_logo_url": "https://graph.facebook.com/NIOGlobal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/niopowercharger-3d2bec.jpg",
+      "local_logo_path": "localbrand/logo/niopowercharger-3d2bec.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NIOGlobal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/niopowercharger-3d2bec.jpg"
+      }
+    },
+    {
+      "displayName": "NIO Power Destination",
+      "id": "niopowerdestination-3d2bec",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "cn",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "NIO Power",
+        "brand:en": "NIO Power",
+        "brand:wikidata": "Q29921278",
+        "name": "NIO Power Destination",
+        "name:en": "NIO Power Destination",
+        "operator": "NIO Power",
+        "operator:wikidata": "Q29921278"
+      },
+      "original_logo_url": "https://graph.facebook.com/NIOGlobal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/niopowerdestination-3d2bec.jpg",
+      "local_logo_path": "localbrand/logo/niopowerdestination-3d2bec.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NIOGlobal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/niopowerdestination-3d2bec.jpg"
+      }
+    },
+    {
+      "displayName": "NIO Power Swap",
+      "id": "niopowerswap-3d2bec",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "cn",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "NIO Power",
+        "brand:en": "NIO Power",
+        "brand:wikidata": "Q29921278",
+        "name": "NIO Power Swap",
+        "name:en": "NIO Power Swap",
+        "operator": "NIO Power",
+        "operator:wikidata": "Q29921278"
+      },
+      "original_logo_url": "https://graph.facebook.com/NIOGlobal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/niopowerswap-3d2bec.jpg",
+      "local_logo_path": "localbrand/logo/niopowerswap-3d2bec.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NIOGlobal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/niopowerswap-3d2bec.jpg"
+      }
+    },
+    {
+      "displayName": "NovaCHARGE",
+      "id": "novacharge-67e574",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "no"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "NovaCHARGE",
+        "brand:wikidata": "Q135742165"
+      }
+    },
+    {
+      "displayName": "nrg incharge",
+      "id": "nrgincharge-5f334c",
+      "locationSet": {
+        "include": [
+          "gr"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "nrg incharge",
+        "brand:wikidata": "Q140817704",
+        "name": "nrg incharge",
+        "operator": "Motor Oil Hellas",
+        "operator:wikidata": "Q6918149"
+      }
+    },
+    {
+      "displayName": "Olife Energy",
+      "id": "olifeenergy-52c83f",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Olife Energy",
+        "brand:wikidata": "Q116895290"
+      },
+      "original_logo_url": "https://graph.facebook.com/OlifeEnergy/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/olifeenergy-52c83f.png",
+      "local_logo_path": "localbrand/logo/olifeenergy-52c83f.png",
+      "logos": {
+        "original": "https://graph.facebook.com/OlifeEnergy/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/olifeenergy-52c83f.png"
+      }
+    },
+    {
+      "displayName": "opconnect",
+      "id": "opconnect-67e574",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "no"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "opconnect",
+        "brand:wikidata": "Q127700932"
+      }
+    },
+    {
+      "displayName": "OpenLoop",
+      "id": "openloop-dd8b2e",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "OpenLoop",
+        "brand:wikidata": "Q113289213"
+      },
+      "original_logo_url": "https://graph.facebook.com/openloopnz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/openloop-dd8b2e.jpg",
+      "local_logo_path": "localbrand/logo/openloop-dd8b2e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/openloopnz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/openloop-dd8b2e.jpg"
+      }
+    },
+    {
+      "displayName": "Osprey",
+      "id": "osprey-cc3397",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Osprey",
+        "brand:wikidata": "Q117706577",
+        "operator": "Osprey",
+        "operator:wikidata": "Q117706577"
+      },
+      "original_logo_url": "https://graph.facebook.com/OspreyChargingNetwork/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/osprey-cc3397.jpg",
+      "local_logo_path": "localbrand/logo/osprey-cc3397.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OspreyChargingNetwork/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/osprey-cc3397.jpg"
+      }
+    },
+    {
+      "displayName": "pcharge",
+      "id": "pcharge-096a1d",
+      "locationSet": {
+        "include": [
+          "cy"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "pcharge",
+        "operator": "Petrolina",
+        "operator:wikidata": "Q17013948"
+      },
+      "original_logo_url": "https://graph.facebook.com/petrolinaholdings/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pcharge-096a1d.png",
+      "local_logo_path": "localbrand/logo/pcharge-096a1d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/petrolinaholdings/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pcharge-096a1d.png"
+      }
+    },
+    {
+      "displayName": "Plugit",
+      "id": "plugit-4d533b",
+      "locationSet": {
+        "include": [
+          "fi"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Plugit",
+        "brand:wikidata": "Q123493675"
+      }
+    },
+    {
+      "displayName": "PlugQ",
+      "id": "plugq-5f334c",
+      "locationSet": {
+        "include": [
+          "gr"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "PlugQ",
+        "brand:wikidata": "Q140818570",
+        "name": "PlugQ"
+      }
+    },
+    {
+      "displayName": "Pod Point",
+      "id": "podpoint-cc3397",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Pod Point",
+        "brand:wikidata": "Q42888154",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154"
+      }
+    },
+    {
+      "displayName": "Porsche",
+      "id": "porsche-770cce",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "no",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Porsche",
+        "brand:wikidata": "Q40993",
+        "operator": "Porsche",
+        "operator:wikidata": "Q40993"
+      },
+      "original_logo_url": "https://graph.facebook.com/porsche/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/porsche-770cce.jpg",
+      "local_logo_path": "localbrand/logo/porsche-770cce.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/porsche/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/porsche-770cce.jpg"
+      }
+    },
+    {
+      "displayName": "Powerbox.one",
+      "id": "powerboxone-52c83f",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Powerbox.one",
+        "brand:wikidata": "Q131535492"
+      },
+      "original_logo_url": "https://graph.facebook.com/powerbox.one/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/powerboxone-52c83f.jpg",
+      "local_logo_path": "localbrand/logo/powerboxone-52c83f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/powerbox.one/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/powerboxone-52c83f.jpg"
+      }
+    },
+    {
+      "displayName": "Powerdot",
+      "id": "powerdot-f718d2",
+      "locationSet": {
+        "include": [
+          "es",
+          "fr",
+          "pl"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Powerdot",
+        "brand:wikidata": "Q123574541",
+        "name": "Powerdot",
+        "operator": "Powerdot",
+        "operator:wikidata": "Q123574541"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Powerdot_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/powerdot-f718d2.png",
+      "local_logo_path": "localbrand/logo/powerdot-f718d2.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Powerdot_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/powerdot-f718d2.png"
+      }
+    },
+    {
+      "displayName": "PREpoint",
+      "id": "prepoint-52c83f",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "PREpoint",
+        "brand:wikidata": "Q136698307",
+        "operator": "Pražská energetika",
+        "operator:short": "PRE",
+        "operator:wikidata": "Q15870812"
+      },
+      "original_logo_url": "https://graph.facebook.com/prazska.energetika/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prepoint-52c83f.jpg",
+      "local_logo_path": "localbrand/logo/prepoint-52c83f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/prazska.energetika/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prepoint-52c83f.jpg"
+      }
+    },
+    {
+      "displayName": "Recharge",
+      "id": "recharge-12f14e",
+      "locationSet": {
+        "include": [
+          "dk",
+          "fi",
+          "no",
+          "se"
+        ]
+      },
+      "matchNames": [
+        "fortum",
+        "fortum charge & drive",
+        "recharge charge & drive"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Recharge",
+        "brand:wikidata": "Q126540050",
+        "name": "Recharge",
+        "operator": "Recharge"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Recharge-logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/recharge-12f14e.svg",
+      "local_logo_path": "localbrand/logo/recharge-12f14e.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Recharge-logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/recharge-12f14e.svg"
+      }
+    },
+    {
+      "displayName": "Red E",
+      "id": "rede-5598dd",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Red E",
+        "brand:wikidata": "Q131416886",
+        "name": "Red E",
+        "operator": "Red E",
+        "operator:wikidata": "Q131416886"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Red_E_Icon.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rede-5598dd.svg",
+      "local_logo_path": "localbrand/logo/rede-5598dd.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Red_E_Icon.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rede-5598dd.svg"
+      }
+    },
+    {
+      "displayName": "Rivian Adventure Network",
+      "id": "rivianadventurenetwork-d2b245",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "rivian adventure charger"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Rivian Adventure Network",
+        "brand:wikidata": "Q7338847",
+        "operator": "Rivian",
+        "operator:wikidata": "Q7338847"
+      },
+      "original_logo_url": "https://graph.facebook.com/rivianofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rivianadventurenetwork-d2b245.jpg",
+      "local_logo_path": "localbrand/logo/rivianadventurenetwork-d2b245.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rivianofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rivianadventurenetwork-d2b245.jpg"
+      }
+    },
+    {
+      "displayName": "Rivian Waypoints",
+      "id": "rivianwaypoints-d2b245",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "rivian waypoint charger"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Rivian Waypoints",
+        "brand:wikidata": "Q7338847",
+        "operator": "Rivian",
+        "operator:wikidata": "Q7338847"
+      },
+      "original_logo_url": "https://graph.facebook.com/rivianofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rivianwaypoints-d2b245.jpg",
+      "local_logo_path": "localbrand/logo/rivianwaypoints-d2b245.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rivianofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rivianwaypoints-d2b245.jpg"
+      }
+    },
+    {
+      "displayName": "Shell Recharge",
+      "id": "shellrecharge-67e574",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "no"
+        ]
+      },
+      "matchNames": [
+        "newmotion",
+        "shell recharge solutions",
+        "volta"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Shell Recharge",
+        "brand:wikidata": "Q105883058",
+        "operator": "Shell Recharge",
+        "operator:wikidata": "Q105883058"
+      }
+    },
+    {
+      "displayName": "Smart Charge",
+      "id": "smartcharge-cc3397",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Smart Charge",
+        "brand:wikidata": "Q127686420",
+        "operator": "Sainsbury's",
+        "operator:wikidata": "Q152096"
+      },
+      "original_logo_url": "https://graph.facebook.com/SmartChargeEV/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smartcharge-cc3397.jpg",
+      "local_logo_path": "localbrand/logo/smartcharge-cc3397.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SmartChargeEV/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smartcharge-cc3397.jpg"
+      }
+    },
+    {
+      "displayName": "Sminn",
+      "id": "sminn-8610f2",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Sminn",
+        "brand:wikidata": "Q136929183"
+      },
+      "original_logo_url": "https://graph.facebook.com/sminnemobility/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sminn-8610f2.png",
+      "local_logo_path": "localbrand/logo/sminn-8610f2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/sminnemobility/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sminn-8610f2.png"
+      }
+    },
+    {
+      "displayName": "Source London",
+      "id": "sourcelondon-477177",
+      "locationSet": {
+        "include": [
+          "gb-lon.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Source London",
+        "brand:wikidata": "Q7565133",
+        "name": "Source London",
+        "operator": "Source London",
+        "operator:wikidata": "Q7565133"
+      }
+    },
+    {
+      "displayName": "SureCharge",
+      "id": "surecharge-cc3397",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "SureCharge",
+        "brand:wikidata": "Q118382836",
+        "operator": "FM Conway",
+        "operator:wikidata": "Q20711690"
+      }
+    },
+    {
+      "displayName": "SWTCH",
+      "id": "swtch-67e574",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "no"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "SWTCH",
+        "brand:wikidata": "Q127502151"
+      }
+    },
+    {
+      "displayName": "Team Energy",
+      "id": "teamenergy-117e9d",
+      "locationSet": {
+        "include": [
+          "am"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Թիմ էներջի",
+        "brand:en": "Team Energy",
+        "brand:hy": "Թիմ էներջի",
+        "brand:wikidata": "Q137431258",
+        "name": "Թիմ էներջի",
+        "name:en": "Team Energy",
+        "name:hy": "Թիմ էներջի",
+        "operator": "Թիմ էներջի",
+        "operator:en": "Team Energy",
+        "operator:hy": "Թիմ էներջի"
+      }
+    },
+    {
+      "displayName": "Tesla Destination Charger",
+      "id": "tesladestinationcharger-4bd82e",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "tesla wall connector"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "name": "Tesla Destination Charger"
+      },
+      "original_logo_url": "https://graph.facebook.com/100057777034735/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tesladestinationcharger-4bd82e.png",
+      "local_logo_path": "localbrand/logo/tesladestinationcharger-4bd82e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/100057777034735/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tesladestinationcharger-4bd82e.png"
+      }
+    },
+    {
+      "displayName": "Tesla Supercharger",
+      "id": "teslasupercharger-4bd82e",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "tesla motors",
+        "tesla motors inc",
+        "特斯拉超级充电桩",
+        "特斯拉超级充电站"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Tesla Supercharger",
+        "brand:wikidata": "Q17089620",
+        "name": "Tesla Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Tesla_T_symbol.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/teslasupercharger-4bd82e.svg",
+      "local_logo_path": "localbrand/logo/teslasupercharger-4bd82e.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Tesla_T_symbol.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/teslasupercharger-4bd82e.svg"
+      }
+    },
+    {
+      "displayName": "Toka",
+      "id": "toka-a6fb9c",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "перша національна мережа електрозаправних комплексів тока",
+        "тока"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Toka",
+        "brand:wikidata": "Q117745034",
+        "name": "Toka",
+        "operator": "Toka",
+        "operator:wikidata": "Q117745034"
+      },
+      "original_logo_url": "https://graph.facebook.com/tokaua/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/toka-a6fb9c.jpg",
+      "local_logo_path": "localbrand/logo/toka-a6fb9c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tokaua/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/toka-a6fb9c.jpg"
+      }
+    },
+    {
+      "displayName": "TotalEnergies",
+      "id": "totalenergies-770cce",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "no",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "total",
+        "totalenergies charging services"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "TotalEnergies",
+        "brand:wikidata": "Q154037",
+        "operator": "TotalEnergies",
+        "operator:wikidata": "Q154037"
+      },
+      "original_logo_url": "https://graph.facebook.com/Total/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/totalenergies-770cce.png",
+      "local_logo_path": "localbrand/logo/totalenergies-770cce.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Total/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/totalenergies-770cce.png"
+      }
+    },
+    {
+      "displayName": "Trojan Energy",
+      "id": "trojanenergy-cc3397",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Trojan Energy",
+        "name": "Trojan Energy",
+        "operator": "Trojan Energy"
+      }
+    },
+    {
+      "displayName": "ubitricity",
+      "id": "ubitricity-ef5e60",
+      "locationSet": {
+        "include": [
+          "ch",
+          "de",
+          "fr",
+          "gb",
+          "ie"
+        ]
+      },
+      "matchNames": [
+        "ubitricity gmbh"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "ubitricity",
+        "brand:wikidata": "Q113699692",
+        "name": "ubitricity",
+        "operator": "ubitricity",
+        "operator:wikidata": "Q113699692"
+      },
+      "original_logo_url": "https://graph.facebook.com/ubitricity/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ubitricity-ef5e60.png",
+      "local_logo_path": "localbrand/logo/ubitricity-ef5e60.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ubitricity/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ubitricity-ef5e60.png"
+      }
+    },
+    {
+      "displayName": "Vattenfall InCharge",
+      "id": "vattenfallincharge-667d30",
+      "locationSet": {
+        "include": [
+          "gb",
+          "nl",
+          "se"
+        ]
+      },
+      "matchNames": [
+        "incharge",
+        "vattenfall"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Vattenfall InCharge",
+        "brand:wikidata": "Q71041027",
+        "name": "Vattenfall InCharge",
+        "operator": "Vattenfall InCharge",
+        "operator:wikidata": "Q71041027"
+      }
+    },
+    {
+      "displayName": "VIRTA",
+      "id": "virta-4d533b",
+      "locationSet": {
+        "include": [
+          "fi"
+        ]
+      },
+      "matchNames": [
+        "liikennevirta oy"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "VIRTA",
+        "brand:wikidata": "Q97205884",
+        "name": "VIRTA",
+        "operator": "VIRTA",
+        "operator:wikidata": "Q97205884"
+      },
+      "original_logo_url": "https://graph.facebook.com/virtaltd/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/virta-4d533b.jpg",
+      "local_logo_path": "localbrand/logo/virta-4d533b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/virtaltd/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/virta-4d533b.jpg"
+      }
+    },
+    {
+      "displayName": "Walmart Energy",
+      "id": "walmartenergy-5598dd",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Walmart Energy",
+        "brand:wikidata": "Q140482254",
+        "name": "Walmart Energy"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Walmart_logo_%282025%3B_Stacked_alt%29.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/walmartenergy-5598dd.svg",
+      "local_logo_path": "localbrand/logo/walmartenergy-5598dd.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Walmart_logo_%282025%3B_Stacked_alt%29.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/walmartenergy-5598dd.svg"
+      }
+    },
+    {
+      "displayName": "We Drive Solar",
+      "id": "wedrivesolar-2a8f9b",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "We Drive Solar",
+        "brand:wikidata": "Q127260037",
+        "operator": "We Drive Solar",
+        "operator:wikidata": "Q127260037"
+      }
+    },
+    {
+      "displayName": "Wink Charging",
+      "id": "winkcharging-59a92d",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Wink Charging",
+        "brand:wikidata": "Q117706556"
+      },
+      "original_logo_url": "https://graph.facebook.com/100282276070045/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/winkcharging-59a92d.jpg",
+      "local_logo_path": "localbrand/logo/winkcharging-59a92d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/100282276070045/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/winkcharging-59a92d.jpg"
+      }
+    },
+    {
+      "displayName": "Witty",
+      "id": "witty-5f334c",
+      "locationSet": {
+        "include": [
+          "gr"
+        ]
+      },
+      "matchNames": [
+        "witty by hager hellas"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Witty",
+        "brand:wikidata": "Q140818696",
+        "name": "Witty"
+      }
+    },
+    {
+      "displayName": "Zero",
+      "id": "zero-dd8b2e",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "matchNames": [
+        "meridian"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Zero",
+        "brand:wikidata": "Q115065783",
+        "operator": "Meridian Energy",
+        "operator:wikidata": "Q6819305"
+      },
+      "original_logo_url": "https://graph.facebook.com/meridianenergy/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zero-dd8b2e.jpg",
+      "local_logo_path": "localbrand/logo/zero-dd8b2e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/meridianenergy/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zero-dd8b2e.jpg"
+      }
+    },
+    {
+      "displayName": "Zest",
+      "id": "zest-cc3397",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Zest",
+        "brand:wikidata": "Q122871256",
+        "operator": "Zest",
+        "operator:wikidata": "Q122871256"
+      },
+      "original_logo_url": "https://graph.facebook.com/ZestCharging/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zest-cc3397.jpg",
+      "local_logo_path": "localbrand/logo/zest-cc3397.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ZestCharging/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zest-cc3397.jpg"
+      }
+    },
+    {
+      "displayName": "ZSE Drive",
+      "id": "zsedrive-8610f2",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "ZSE Drive",
+        "brand:wikidata": "Q116450454",
+        "operator": "Západoslovenská energetika",
+        "operator:short": "ZSE",
+        "operator:wikidata": "Q246921"
+      },
+      "original_logo_url": "https://graph.facebook.com/zsedrive/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zsedrive-8610f2.png",
+      "local_logo_path": "localbrand/logo/zsedrive-8610f2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/zsedrive/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zsedrive-8610f2.png"
+      }
+    },
+    {
+      "displayName": "ΔΕΗ blue",
+      "id": "3ef695-5f334c",
+      "locationSet": {
+        "include": [
+          "gr"
+        ]
+      },
+      "matchNames": [
+        "dei",
+        "dei blue"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "ΔΕΗ blue",
+        "brand:wikidata": "Q140818654",
+        "name": "ΔΕΗ blue",
+        "operator": "ΔΕΗ",
+        "operator:wikidata": "Q326345"
+      }
+    },
+    {
+      "displayName": "Белоруснефть Malanka",
+      "id": "malanka-f2a4c9",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Malanka",
+        "brand:be": "Маланка",
+        "brand:en": "Malanka",
+        "brand:ru": "Маланка",
+        "brand:wikidata": "Q110634998",
+        "name": "Malanka",
+        "name:be": "Маланка",
+        "name:en": "Malanka",
+        "name:ru": "Маланка",
+        "operator": "Белоруснефть",
+        "operator:wikidata": "Q4082693"
+      }
+    },
+    {
+      "displayName": "Энергия Москвы",
+      "id": "energyofmoscow-012f44",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "note": "ISO 3166-2 RU-MOW",
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Энергия Москвы",
+        "brand:en": "Energy of Moscow",
+        "brand:ru": "Энергия Москвы",
+        "brand:wikidata": "Q125346046"
+      }
+    },
+    {
+      "displayName": "და-ტენე",
+      "id": "datene-dfa5ee",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "და-ტენე",
+        "brand:en": "Da-Tene",
+        "brand:ka": "და-ტენე",
+        "brand:wikidata": "Q138339944",
+        "name": "და-ტენე",
+        "name:en": "Da-Tene",
+        "name:ka": "და-ტენე"
+      }
+    },
+    {
+      "displayName": "ი-სპეის",
+      "id": "espace-dfa5ee",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "ი-სპეის",
+        "brand:en": "E-Space",
+        "brand:wikidata": "Q131470036",
+        "name": "ი-სპეის",
+        "name:en": "E-Space"
+      },
+      "original_logo_url": "https://graph.facebook.com/espace.ge/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/espace-dfa5ee.png",
+      "local_logo_path": "localbrand/logo/espace-dfa5ee.png",
+      "logos": {
+        "original": "https://graph.facebook.com/espace.ge/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/espace-dfa5ee.png"
+      }
+    },
+    {
+      "displayName": "南方电网",
+      "id": "southernpowergrid-07dd34",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "matchNames": [
+        "中国南方电网"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "南方电网",
+        "brand:en": "Southern Power Grid",
+        "brand:wikidata": "Q209039",
+        "brand:zh": "南方电网",
+        "name": "南方电网",
+        "name:en": "Southern Power Grid",
+        "name:zh": "南方电网",
+        "operator": "南方电网有限公司",
+        "operator:en": "Southern Power Grid",
+        "operator:wikidata": "Q209039",
+        "operator:zh": "南方电网有限公司"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Xinhui_%E6%96%B0%E6%9C%83_Gangzhou_Dadaozhong_16_%E5%B2%A1%E5%B7%9E%E5%A4%A7%E9%81%93%E4%B8%AD_shop_sign_%E4%B8%AD%E5%9C%8B%E5%8D%97%E6%96%B9%E9%9B%BB%E7%B6%B2_China_Southern_Power_Grid_logo_April-2012.JPG",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/southernpowergrid-07dd34.jpg",
+      "local_logo_path": "localbrand/logo/southernpowergrid-07dd34.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Xinhui_%E6%96%B0%E6%9C%83_Gangzhou_Dadaozhong_16_%E5%B2%A1%E5%B7%9E%E5%A4%A7%E9%81%93%E4%B8%AD_shop_sign_%E4%B8%AD%E5%9C%8B%E5%8D%97%E6%96%B9%E9%9B%BB%E7%B6%B2_China_Southern_Power_Grid_logo_April-2012.JPG",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/southernpowergrid-07dd34.jpg"
+      }
+    },
+    {
+      "displayName": "国家电网",
+      "id": "stategrid-07dd34",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "matchNames": [
+        "中国国家电网"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "国家电网",
+        "brand:en": "State Grid",
+        "brand:wikidata": "Q209078",
+        "brand:zh": "国家电网",
+        "name": "国家电网",
+        "name:en": "State Grid",
+        "name:zh": "国家电网",
+        "operator": "国家电网有限公司",
+        "operator:en": "State Grid Corporation of China",
+        "operator:wikidata": "Q209078",
+        "operator:zh": "国家电网有限公司"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/South_entrance_of_State_Grid_headquarters_%2820230905152018%29.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stategrid-07dd34.jpg",
+      "local_logo_path": "localbrand/logo/stategrid-07dd34.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/19/South_entrance_of_State_Grid_headquarters_%2820230905152018%29.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stategrid-07dd34.jpg"
+      }
+    },
+    {
+      "displayName": "小鹏超充站",
+      "id": "xpengsupercharger-07dd34",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "小鹏",
+        "brand:en": "Xpeng",
+        "brand:wikidata": "Q63035278",
+        "brand:zh": "小鹏",
+        "name": "小鹏超充站",
+        "name:en": "Xpeng Supercharger",
+        "name:zh": "小鹏超充站"
+      },
+      "original_logo_url": "https://graph.facebook.com/XpengMotorsGlobal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xpengsupercharger-07dd34.jpg",
+      "local_logo_path": "localbrand/logo/xpengsupercharger-07dd34.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/XpengMotorsGlobal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xpengsupercharger-07dd34.jpg"
+      }
+    },
+    {
+      "displayName": "東光高岳",
+      "id": "takaokatoko-610a46",
+      "locationSet": {
+        "include": [
+          "jp-12.geojson",
+          "jp-13.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "東光高岳",
+        "brand:en": "Takaoka Toko",
+        "brand:ja": "東光高岳",
+        "brand:wikidata": "Q17220263",
+        "name": "東光高岳",
+        "name:en": "Takaoka Toko",
+        "name:ja": "東光高岳",
+        "operator": "東光高岳",
+        "operator:en": "Takaoka Toko",
+        "operator:ja": "東光高岳",
+        "operator:wikidata": "Q17220263"
+      }
+    },
+    {
+      "displayName": "滴滴充电",
+      "id": "didicharging-a352c2",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "滴滴充电",
+        "brand:en": "DiDi Charging",
+        "brand:wikidata": "Q137999513",
+        "brand:zh": "滴滴充电",
+        "name": "滴滴充电",
+        "name:en": "DiDi Charging",
+        "name:zh": "滴滴充电",
+        "old_name": "小桔充电",
+        "old_name:en": "Orange Charging",
+        "old_name:zh": "小桔充电"
+      }
+    },
+    {
+      "displayName": "特来电",
+      "id": "teld-07dd34",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "特来电",
+        "brand:en": "Teld",
+        "brand:wikidata": "Q118487238",
+        "brand:zh": "特来电",
+        "name": "特来电",
+        "name:en": "Teld",
+        "name:zh": "特来电"
+      }
+    },
+    {
+      "displayName": "理想超级充电站",
+      "id": "liautosupercharger-a352c2",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "理想",
+        "brand:en": "Li Auto",
+        "brand:wikidata": "Q98139925",
+        "brand:zh": "理想",
+        "name": "理想超级充电站",
+        "name:en": "Li Auto Supercharger",
+        "name:zh": "理想超级充电站"
+      },
+      "original_logo_url": "https://graph.facebook.com/LiAutoONE/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/liautosupercharger-a352c2.jpg",
+      "local_logo_path": "localbrand/logo/liautosupercharger-a352c2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LiAutoONE/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/liautosupercharger-a352c2.jpg"
+      }
+    },
+    {
+      "displayName": "蔚来换电站",
+      "id": "niopowerswap-07dd34",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "NIO Power",
+        "brand:en": "NIO Power",
+        "brand:wikidata": "Q29921278",
+        "name": "蔚来换电站",
+        "name:en": "NIO Power Swap",
+        "name:zh": "蔚来换电站"
+      },
+      "original_logo_url": "https://graph.facebook.com/NIOGlobal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/niopowerswap-07dd34.jpg",
+      "local_logo_path": "localbrand/logo/niopowerswap-07dd34.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NIOGlobal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/niopowerswap-07dd34.jpg"
+      }
+    },
+    {
+      "displayName": "蔚来目充站",
+      "id": "niopowerdestination-07dd34",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "NIO Power",
+        "brand:en": "NIO Power",
+        "brand:wikidata": "Q29921278",
+        "name": "蔚来目充站",
+        "name:en": "NIO Power Destination",
+        "name:zh": "蔚来目充站"
+      },
+      "original_logo_url": "https://graph.facebook.com/NIOGlobal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/niopowerdestination-07dd34.jpg",
+      "local_logo_path": "localbrand/logo/niopowerdestination-07dd34.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NIOGlobal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/niopowerdestination-07dd34.jpg"
+      }
+    },
+    {
+      "displayName": "蔚来超充站",
+      "id": "niopowercharger-07dd34",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "NIO Power",
+        "brand:en": "NIO Power",
+        "brand:wikidata": "Q29921278",
+        "name": "蔚来超充站",
+        "name:en": "NIO Power Charger",
+        "name:zh": "蔚来超充站"
+      },
+      "original_logo_url": "https://graph.facebook.com/NIOGlobal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/niopowercharger-07dd34.jpg",
+      "local_logo_path": "localbrand/logo/niopowercharger-07dd34.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NIOGlobal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/niopowercharger-07dd34.jpg"
+      }
+    }
+  ]
+}

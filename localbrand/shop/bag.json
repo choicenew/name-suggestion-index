@@ -1,0 +1,475 @@
+{
+  "properties": {
+    "path": "brands/shop/bag",
+    "exclude": {
+      "generic": [
+        "^bag$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "American Tourister",
+      "id": "americantourister-866b83",
+      "locationSet": {
+        "include": [
+          "in",
+          "ua"
+        ]
+      },
+      "tags": {
+        "brand": "American Tourister",
+        "brand:wikidata": "Q4745268",
+        "name": "American Tourister",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/American_Tourister_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/americantourister-866b83.svg",
+      "local_logo_path": "localbrand/logo/americantourister-866b83.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/23/American_Tourister_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/americantourister-866b83.svg"
+      }
+    },
+    {
+      "displayName": "Away",
+      "id": "away-058365",
+      "locationSet": {
+        "include": [
+          "ca",
+          "gb",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Away",
+        "brand:wikidata": "Q48743138",
+        "name": "Away",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://graph.facebook.com/away/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/away-058365.jpg",
+      "local_logo_path": "localbrand/logo/away-058365.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/away/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/away-058365.jpg"
+      }
+    },
+    {
+      "displayName": "Bentley",
+      "id": "bentley-93da89",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Bentley",
+        "brand:wikidata": "Q65947700",
+        "name": "Bentley",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://graph.facebook.com/bentleycoltd/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bentley-93da89.jpg",
+      "local_logo_path": "localbrand/logo/bentley-93da89.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bentleycoltd/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bentley-93da89.jpg"
+      }
+    },
+    {
+      "displayName": "Carpisa",
+      "id": "carpisa-ee67c9",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Carpisa",
+        "brand:wikidata": "Q28035409",
+        "name": "Carpisa",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://graph.facebook.com/CarpisaOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carpisa-ee67c9.jpg",
+      "local_logo_path": "localbrand/logo/carpisa-ee67c9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CarpisaOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carpisa-ee67c9.jpg"
+      }
+    },
+    {
+      "displayName": "Cellini",
+      "id": "cellini-4bdefa",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Cellini",
+        "brand:wikidata": "Q140695793",
+        "name": "Cellini",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://graph.facebook.com/CelliniLuggage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cellini-4bdefa.jpg",
+      "local_logo_path": "localbrand/logo/cellini-4bdefa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CelliniLuggage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cellini-4bdefa.jpg"
+      }
+    },
+    {
+      "displayName": "Coach",
+      "id": "coach-dc35d7",
+      "locationSet": {
+        "include": [
+          "at",
+          "au",
+          "be",
+          "ca",
+          "de",
+          "es",
+          "fr",
+          "gb",
+          "id",
+          "ie",
+          "in",
+          "it",
+          "jp",
+          "mx",
+          "nl",
+          "nz",
+          "th",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "coach new york",
+        "coach ny"
+      ],
+      "tags": {
+        "brand": "Coach",
+        "brand:wikidata": "Q727697",
+        "name": "Coach",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://graph.facebook.com/coach/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coach-dc35d7.jpg",
+      "local_logo_path": "localbrand/logo/coach-dc35d7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/coach/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coach-dc35d7.jpg"
+      }
+    },
+    {
+      "displayName": "Coccinelle",
+      "id": "coccinelle-07c9a9",
+      "locationSet": {
+        "include": [
+          "de",
+          "gb",
+          "it",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Coccinelle",
+        "brand:wikidata": "Q944874",
+        "name": "Coccinelle",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://graph.facebook.com/Coccinelle1978/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coccinelle-07c9a9.png",
+      "local_logo_path": "localbrand/logo/coccinelle-07c9a9.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Coccinelle1978/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coccinelle-07c9a9.png"
+      }
+    },
+    {
+      "displayName": "Colette by Colette Hayman",
+      "id": "colettebycolettehayman-51caec",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Colette by Colette Hayman",
+        "brand:wikidata": "Q117746003",
+        "name": "Colette by Colette Hayman",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://graph.facebook.com/bycolettehayman/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/colettebycolettehayman-51caec.jpg",
+      "local_logo_path": "localbrand/logo/colettebycolettehayman-51caec.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bycolettehayman/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/colettebycolettehayman-51caec.jpg"
+      }
+    },
+    {
+      "displayName": "Frasers",
+      "id": "frasers-3fbcc0",
+      "locationSet": {
+        "include": [
+          "na",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Frasers",
+        "brand:wikidata": "Q116740926",
+        "name": "Frasers",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://graph.facebook.com/destinationsbyfrasers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/frasers-3fbcc0.jpg",
+      "local_logo_path": "localbrand/logo/frasers-3fbcc0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/destinationsbyfrasers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/frasers-3fbcc0.jpg"
+      }
+    },
+    {
+      "displayName": "Kipling",
+      "id": "kipling-3020c9",
+      "locationSet": {
+        "include": [
+          "be",
+          "gb",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Kipling",
+        "brand:wikidata": "Q6414641",
+        "name": "Kipling",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://graph.facebook.com/Kipling/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kipling-3020c9.png",
+      "local_logo_path": "localbrand/logo/kipling-3020c9.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Kipling/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kipling-3020c9.png"
+      }
+    },
+    {
+      "displayName": "LARA BAGS",
+      "id": "larabags-f2ddb9",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "LARA BAGS",
+        "brand:wikidata": "Q116737805",
+        "name": "LARA BAGS",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://graph.facebook.com/LaraBags/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/larabags-f2ddb9.jpg",
+      "local_logo_path": "localbrand/logo/larabags-f2ddb9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LaraBags/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/larabags-f2ddb9.jpg"
+      }
+    },
+    {
+      "displayName": "LIEBESKIND Berlin",
+      "id": "liebeskindberlin-af0c77",
+      "locationSet": {
+        "include": [
+          "ch",
+          "de"
+        ]
+      },
+      "matchNames": [
+        "liebeskind"
+      ],
+      "tags": {
+        "brand": "LIEBESKIND Berlin",
+        "brand:wikidata": "Q107156547",
+        "name": "LIEBESKIND Berlin",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://graph.facebook.com/liebeskindberlin/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/liebeskindberlin-af0c77.jpg",
+      "local_logo_path": "localbrand/logo/liebeskindberlin-af0c77.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/liebeskindberlin/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/liebeskindberlin-af0c77.jpg"
+      }
+    },
+    {
+      "displayName": "Misako",
+      "id": "misako-46781a",
+      "locationSet": {
+        "include": [
+          "es",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "Misako",
+        "brand:wikidata": "Q127264670",
+        "name": "Misako",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://graph.facebook.com/Misakoshop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/misako-46781a.jpg",
+      "local_logo_path": "localbrand/logo/misako-46781a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Misakoshop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/misako-46781a.jpg"
+      }
+    },
+    {
+      "displayName": "Rimowa",
+      "id": "rimowa-4123fd",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Rimowa",
+        "brand:wikidata": "Q1287437",
+        "name": "Rimowa",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://graph.facebook.com/Rimowa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rimowa-4123fd.jpg",
+      "local_logo_path": "localbrand/logo/rimowa-4123fd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Rimowa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rimowa-4123fd.jpg"
+      }
+    },
+    {
+      "displayName": "Samsonite",
+      "id": "samsonite-4123fd",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Samsonite",
+        "brand:wikidata": "Q1203426",
+        "name": "Samsonite",
+        "shop": "bag"
+      }
+    },
+    {
+      "displayName": "Strandbags",
+      "id": "strandbags-e9e78d",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Strandbags",
+        "brand:wikidata": "Q111946652",
+        "name": "Strandbags",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://graph.facebook.com/StrandbagsStores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/strandbags-e9e78d.jpg",
+      "local_logo_path": "localbrand/logo/strandbags-e9e78d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/StrandbagsStores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/strandbags-e9e78d.jpg"
+      }
+    },
+    {
+      "displayName": "Totto",
+      "id": "totto-b66712",
+      "locationSet": {
+        "include": [
+          "bo",
+          "cl",
+          "co",
+          "cr",
+          "do",
+          "ec",
+          "es",
+          "gt",
+          "gy",
+          "hn",
+          "mx",
+          "ni",
+          "pa",
+          "pr",
+          "py",
+          "sv"
+        ]
+      },
+      "tags": {
+        "brand": "Totto",
+        "brand:wikidata": "Q132745694",
+        "name": "Totto",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://graph.facebook.com/totto.brand/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/totto-b66712.jpg",
+      "local_logo_path": "localbrand/logo/totto-b66712.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/totto.brand/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/totto-b66712.jpg"
+      }
+    },
+    {
+      "displayName": "Tumi",
+      "id": "tumi-4123fd",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Tumi",
+        "brand:wikidata": "Q4465402",
+        "name": "Tumi",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://graph.facebook.com/TumiTravel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tumi-4123fd.jpg",
+      "local_logo_path": "localbrand/logo/tumi-4123fd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TumiTravel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tumi-4123fd.jpg"
+      }
+    },
+    {
+      "displayName": "Vera Bradley",
+      "id": "verabradley-e9ca60",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Vera Bradley",
+        "brand:wikidata": "Q7920749",
+        "name": "Vera Bradley",
+        "shop": "bag"
+      },
+      "original_logo_url": "https://graph.facebook.com/VeraBradley/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/verabradley-e9ca60.jpg",
+      "local_logo_path": "localbrand/logo/verabradley-e9ca60.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/VeraBradley/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/verabradley-e9ca60.jpg"
+      }
+    }
+  ]
+}

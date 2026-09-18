@@ -1,0 +1,1306 @@
+{
+  "properties": {
+    "path": "brands/shop/bed",
+    "exclude": {
+      "generic": [
+        "^bed$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Amerisleep",
+      "id": "amerisleep-032196",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Amerisleep",
+        "brand:wikidata": "Q85741266",
+        "name": "Amerisleep",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/amerisleep/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amerisleep-032196.png",
+      "local_logo_path": "localbrand/logo/amerisleep-032196.png",
+      "logos": {
+        "original": "https://graph.facebook.com/amerisleep/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amerisleep-032196.png"
+      }
+    },
+    {
+      "displayName": "Arya Home",
+      "id": "aryahome-e3cd64",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Arya Home",
+        "name": "Arya Home",
+        "shop": "bed"
+      }
+    },
+    {
+      "displayName": "Bambi Yatak",
+      "id": "bambiyatak-a08a8e",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Bambi Yatak",
+        "brand:wikidata": "Q106803706",
+        "name": "Bambi Yatak",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/bambiyatak/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bambiyatak-a08a8e.jpg",
+      "local_logo_path": "localbrand/logo/bambiyatak-a08a8e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bambiyatak/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bambiyatak-a08a8e.jpg"
+      }
+    },
+    {
+      "displayName": "BedMart",
+      "id": "bedmart-032196",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "BedMart",
+        "brand:wikidata": "Q107674817",
+        "name": "BedMart",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/BedMartNW/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bedmart-032196.jpg",
+      "local_logo_path": "localbrand/logo/bedmart-032196.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BedMartNW/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bedmart-032196.jpg"
+      }
+    },
+    {
+      "displayName": "Beds R Us (Australia)",
+      "id": "bedsrus-156cc7",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Beds R Us",
+        "brand:wikidata": "Q126179491",
+        "name": "Beds R Us",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/bedsrusau/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bedsrus-156cc7.jpg",
+      "local_logo_path": "localbrand/logo/bedsrus-156cc7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bedsrusau/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bedsrus-156cc7.jpg"
+      }
+    },
+    {
+      "displayName": "Bedshed",
+      "id": "bedshed-156cc7",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Bedshed",
+        "brand:wikidata": "Q84452962",
+        "name": "Bedshed",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/BedshedAU/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bedshed-156cc7.jpg",
+      "local_logo_path": "localbrand/logo/bedshed-156cc7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BedshedAU/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bedshed-156cc7.jpg"
+      }
+    },
+    {
+      "displayName": "BedsRus (New Zealand)",
+      "id": "bedsrus-a769d8",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "BedsRus",
+        "brand:wikidata": "Q111018938",
+        "name": "BedsRus",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/bedsrus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bedsrus-a769d8.jpg",
+      "local_logo_path": "localbrand/logo/bedsrus-a769d8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bedsrus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bedsrus-a769d8.jpg"
+      }
+    },
+    {
+      "displayName": "Bensons for Beds",
+      "id": "bensonsforbeds-d088e6",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "bensons"
+      ],
+      "tags": {
+        "brand": "Bensons for Beds",
+        "brand:wikidata": "Q4890299",
+        "name": "Bensons for Beds",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/bensonsforbeds/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bensonsforbeds-d088e6.jpg",
+      "local_logo_path": "localbrand/logo/bensonsforbeds-d088e6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bensonsforbeds/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bensonsforbeds-d088e6.jpg"
+      }
+    },
+    {
+      "displayName": "Beter Bed",
+      "id": "beterbed-3030e1",
+      "locationSet": {
+        "include": [
+          "be",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Beter Bed",
+        "brand:wikidata": "Q831076",
+        "name": "Beter Bed",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/BeterBed-logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beterbed-3030e1.svg",
+      "local_logo_path": "localbrand/logo/beterbed-3030e1.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/BeterBed-logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beterbed-3030e1.svg"
+      }
+    },
+    {
+      "displayName": "Beyosa",
+      "id": "beyosa-e3cd64",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Beyosa",
+        "name": "Beyosa",
+        "shop": "bed"
+      }
+    },
+    {
+      "displayName": "brava",
+      "id": "brava-cd9810",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "brava",
+        "brand:wikidata": "Q121913063",
+        "name": "brava",
+        "name:bg": "Брава",
+        "name:en": "brava",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/Brava.bg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brava-cd9810.jpg",
+      "local_logo_path": "localbrand/logo/brava-cd9810.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Brava.bg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brava-cd9810.jpg"
+      }
+    },
+    {
+      "displayName": "Casper",
+      "id": "casper-a50061",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Casper",
+        "brand:wikidata": "Q20539294",
+        "name": "Casper",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/224110981099062/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/casper-a50061.jpg",
+      "local_logo_path": "localbrand/logo/casper-a50061.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/224110981099062/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/casper-a50061.jpg"
+      }
+    },
+    {
+      "displayName": "Daniadown",
+      "id": "daniadown-fbfe85",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchTags": [
+        "shop/fabric",
+        "shop/interior_decoration"
+      ],
+      "tags": {
+        "brand": "Daniadown",
+        "brand:wikidata": "Q136359124",
+        "furniture": "no",
+        "mattress": "no",
+        "name": "Daniadown",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/daniadown/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daniadown-fbfe85.jpg",
+      "local_logo_path": "localbrand/logo/daniadown-fbfe85.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/daniadown/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daniadown-fbfe85.jpg"
+      }
+    },
+    {
+      "displayName": "Dial-a-Bed",
+      "id": "dialabed-d8cd0b",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Dial-a-Bed",
+        "brand:wikidata": "Q116429178",
+        "name": "Dial-a-Bed",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/dialabedza/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dialabed-d8cd0b.png",
+      "local_logo_path": "localbrand/logo/dialabed-d8cd0b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/dialabedza/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dialabed-d8cd0b.png"
+      }
+    },
+    {
+      "displayName": "Dormeo",
+      "id": "dormeo-17f69e",
+      "locationSet": {
+        "include": [
+          "ba",
+          "cz",
+          "ee",
+          "fi",
+          "hr",
+          "hu",
+          "lt",
+          "lv",
+          "ro",
+          "rs",
+          "sk",
+          "sl"
+        ]
+      },
+      "matchNames": [
+        "dormeo home"
+      ],
+      "tags": {
+        "brand": "Dormeo",
+        "brand:wikidata": "Q138426815",
+        "name": "Dormeo",
+        "shop": "bed"
+      }
+    },
+    {
+      "displayName": "Dormimundo",
+      "id": "dormimundo-e4a2c8",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Dormimundo",
+        "brand:wikidata": "Q126736615",
+        "name": "Dormimundo",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/Dormimundo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dormimundo-e4a2c8.jpg",
+      "local_logo_path": "localbrand/logo/dormimundo-e4a2c8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Dormimundo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dormimundo-e4a2c8.jpg"
+      }
+    },
+    {
+      "displayName": "Dreams",
+      "id": "dreams-8fcb64",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "matchNames": [
+        "dreams ltd."
+      ],
+      "tags": {
+        "brand": "Dreams",
+        "brand:wikidata": "Q5306688",
+        "name": "Dreams",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/dreamsbeds/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dreams-8fcb64.jpg",
+      "local_logo_path": "localbrand/logo/dreams-8fcb64.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dreamsbeds/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dreams-8fcb64.jpg"
+      }
+    },
+    {
+      "displayName": "Drømmeland",
+      "id": "drommeland-211d3a",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "Drømmeland",
+        "brand:wikidata": "Q5306688",
+        "name": "Drømmeland",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/dreamsbeds/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/drommeland-211d3a.jpg",
+      "local_logo_path": "localbrand/logo/drommeland-211d3a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dreamsbeds/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/drommeland-211d3a.jpg"
+      }
+    },
+    {
+      "displayName": "Emma",
+      "id": "emma-1dfb01",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "emma sleep"
+      ],
+      "tags": {
+        "brand": "Emma",
+        "brand:wikidata": "Q110952031",
+        "name": "Emma",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/Emma.Sleep.nl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/emma-1dfb01.png",
+      "local_logo_path": "localbrand/logo/emma-1dfb01.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Emma.Sleep.nl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/emma-1dfb01.png"
+      }
+    },
+    {
+      "displayName": "Forty Winks",
+      "id": "fortywinks-156cc7",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Forty Winks",
+        "brand:wikidata": "Q106283438",
+        "name": "Forty Winks",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/fortywinksaustralia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fortywinks-156cc7.png",
+      "local_logo_path": "localbrand/logo/fortywinks-156cc7.png",
+      "logos": {
+        "original": "https://graph.facebook.com/fortywinksaustralia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fortywinks-156cc7.png"
+      }
+    },
+    {
+      "displayName": "France Literie",
+      "id": "franceliterie-1bbb34",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "France Literie",
+        "brand:wikidata": "Q100249535",
+        "name": "France Literie",
+        "shop": "bed"
+      }
+    },
+    {
+      "displayName": "Grand Litier",
+      "id": "grandlitier-fe1cb3",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Grand Litier",
+        "brand:wikidata": "Q21030208",
+        "name": "Grand Litier",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/grandlitier/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grandlitier-fe1cb3.jpg",
+      "local_logo_path": "localbrand/logo/grandlitier-fe1cb3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/grandlitier/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grandlitier-fe1cb3.jpg"
+      }
+    },
+    {
+      "displayName": "İDAŞ",
+      "id": "idas-a08a8e",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "İDAŞ",
+        "brand:wikidata": "Q106803871",
+        "name": "İDAŞ",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/idascomtr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/idas-a08a8e.jpg",
+      "local_logo_path": "localbrand/logo/idas-a08a8e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/idascomtr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/idas-a08a8e.jpg"
+      }
+    },
+    {
+      "displayName": "La Compagnie du Lit",
+      "id": "lacompagniedulit-bec31a",
+      "locationSet": {
+        "include": [
+          "be",
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "La Compagnie du Lit",
+        "brand:wikidata": "Q120749952",
+        "name": "La Compagnie du Lit",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/lacompagniedulit/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lacompagniedulit-bec31a.png",
+      "local_logo_path": "localbrand/logo/lacompagniedulit-bec31a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/lacompagniedulit/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lacompagniedulit-bec31a.png"
+      }
+    },
+    {
+      "displayName": "La Halle au Sommeil",
+      "id": "lahalleausommeil-1bbb34",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "La Halle au Sommeil",
+        "brand:wikidata": "Q141196598",
+        "name": "La Halle au Sommeil",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/61567300325635/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lahalleausommeil-1bbb34.jpg",
+      "local_logo_path": "localbrand/logo/lahalleausommeil-1bbb34.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/61567300325635/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lahalleausommeil-1bbb34.jpg"
+      }
+    },
+    {
+      "displayName": "Le Roi du Matelas",
+      "id": "leroidumatelas-1bbb34",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Le Roi du Matelas",
+        "brand:wikidata": "Q122931917",
+        "name": "Le Roi du Matelas",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/leroidumatelas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leroidumatelas-1bbb34.jpg",
+      "local_logo_path": "localbrand/logo/leroidumatelas-1bbb34.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/leroidumatelas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leroidumatelas-1bbb34.jpg"
+      }
+    },
+    {
+      "displayName": "Lova Yatak",
+      "id": "lovayatak-a08a8e",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Lova Yatak",
+        "brand:wikidata": "Q130538416",
+        "name": "Lova Yatak",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/lovayatak/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lovayatak-a08a8e.jpg",
+      "local_logo_path": "localbrand/logo/lovayatak-a08a8e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lovayatak/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lovayatak-a08a8e.jpg"
+      }
+    },
+    {
+      "displayName": "Maison de la Literie",
+      "id": "maisondelaliterie-fe1cb3",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Maison de la Literie",
+        "brand:wikidata": "Q80955776",
+        "name": "Maison de la Literie",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/MaisondelaLiterieFR/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maisondelaliterie-fe1cb3.jpg",
+      "local_logo_path": "localbrand/logo/maisondelaliterie-fe1cb3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MaisondelaLiterieFR/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maisondelaliterie-fe1cb3.jpg"
+      }
+    },
+    {
+      "displayName": "Matratzen Concord",
+      "id": "matratzenconcord-795ce0",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Matratzen Concord",
+        "brand:wikidata": "Q18629057",
+        "name": "Matratzen Concord",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/MatratzenConcord/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/matratzenconcord-795ce0.png",
+      "local_logo_path": "localbrand/logo/matratzenconcord-795ce0.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MatratzenConcord/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/matratzenconcord-795ce0.png"
+      }
+    },
+    {
+      "displayName": "Mattress Depot USA",
+      "id": "mattressdepotusa-032196",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Mattress Depot USA",
+        "brand:wikidata": "Q108413386",
+        "name": "Mattress Depot USA",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/MattressDepotUSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mattressdepotusa-032196.jpg",
+      "local_logo_path": "localbrand/logo/mattressdepotusa-032196.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MattressDepotUSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mattressdepotusa-032196.jpg"
+      }
+    },
+    {
+      "displayName": "Mattress Firm",
+      "id": "mattressfirm-032196",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "mattress firm clearance"
+      ],
+      "tags": {
+        "brand": "Mattress Firm",
+        "brand:wikidata": "Q6791878",
+        "name": "Mattress Firm",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/MattressFirm/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mattressfirm-032196.jpg",
+      "local_logo_path": "localbrand/logo/mattressfirm-032196.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MattressFirm/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mattressfirm-032196.jpg"
+      }
+    },
+    {
+      "displayName": "Mattress Warehouse",
+      "id": "mattresswarehouse-032196",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Mattress Warehouse",
+        "brand:wikidata": "Q61995079",
+        "name": "Mattress Warehouse",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/mattresswhse/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mattresswarehouse-032196.jpg",
+      "local_logo_path": "localbrand/logo/mattresswarehouse-032196.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mattresswhse/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mattresswarehouse-032196.jpg"
+      }
+    },
+    {
+      "displayName": "Mattress World Northwest",
+      "id": "mattressworldnorthwest-032196",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Mattress World Northwest",
+        "brand:wikidata": "Q108413373",
+        "name": "Mattress World Northwest",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/MattressWorldNW/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mattressworldnorthwest-032196.jpg",
+      "local_logo_path": "localbrand/logo/mattressworldnorthwest-032196.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MattressWorldNW/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mattressworldnorthwest-032196.jpg"
+      }
+    },
+    {
+      "displayName": "Maxcolchon",
+      "id": "maxcolchon-da2893",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "tags": {
+        "brand": "Maxcolchon",
+        "brand:wikidata": "Q130243984",
+        "name": "Maxcolchon",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/es.maxcolchon/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maxcolchon-da2893.jpg",
+      "local_logo_path": "localbrand/logo/maxcolchon-da2893.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/es.maxcolchon/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maxcolchon-da2893.jpg"
+      }
+    },
+    {
+      "displayName": "Metro Mattress",
+      "id": "metromattress-5fccfc",
+      "locationSet": {
+        "include": [
+          "us-ct.geojson",
+          "us-ma.geojson",
+          "us-nh.geojson",
+          "us-ny.geojson",
+          "us-ri.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Metro Mattress",
+        "brand:wikidata": "Q123558941",
+        "name": "Metro Mattress",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/metromattress/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metromattress-5fccfc.jpg",
+      "local_logo_path": "localbrand/logo/metromattress-5fccfc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/metromattress/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metromattress-5fccfc.jpg"
+      }
+    },
+    {
+      "displayName": "MFO Matratzen",
+      "id": "mfomatratzen-c61a29",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "MFO Matratzen",
+        "brand:wikidata": "Q26794529",
+        "name": "MFO Matratzen",
+        "shop": "bed"
+      }
+    },
+    {
+      "displayName": "Original Mattress Factory",
+      "id": "originalmattressfactory-032196",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Original Mattress Factory",
+        "brand:short": "OMF",
+        "brand:wikidata": "Q123014288",
+        "name": "Original Mattress Factory",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/originalmattress/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/originalmattressfactory-032196.jpg",
+      "local_logo_path": "localbrand/logo/originalmattressfactory-032196.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/originalmattress/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/originalmattressfactory-032196.jpg"
+      }
+    },
+    {
+      "displayName": "Ormatek",
+      "id": "ormatek-e3cd64",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Ormatek",
+        "name": "Ormatek",
+        "shop": "bed"
+      }
+    },
+    {
+      "displayName": "Ortobom",
+      "id": "ortobom-4b84fc",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "matchNames": [
+        "colchões ortobom"
+      ],
+      "tags": {
+        "brand": "Ortobom",
+        "brand:wikidata": "Q110087205",
+        "name": "Ortobom",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/ortobom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ortobom-4b84fc.png",
+      "local_logo_path": "localbrand/logo/ortobom-4b84fc.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ortobom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ortobom-4b84fc.png"
+      }
+    },
+    {
+      "displayName": "Pan Materac",
+      "id": "panmaterac-9d466a",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Pan Materac",
+        "brand:wikidata": "Q133269903",
+        "name": "Pan Materac",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/PanMaterac/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/panmaterac-9d466a.jpg",
+      "local_logo_path": "localbrand/logo/panmaterac-9d466a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PanMaterac/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/panmaterac-9d466a.jpg"
+      }
+    },
+    {
+      "displayName": "PreSpánok",
+      "id": "prespanok-16989e",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "PreSpánok",
+        "brand:wikidata": "Q131526398",
+        "name": "PreSpánok",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/prespanok/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prespanok-16989e.jpg",
+      "local_logo_path": "localbrand/logo/prespanok-16989e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/prespanok/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prespanok-16989e.jpg"
+      }
+    },
+    {
+      "displayName": "ProSpánek",
+      "id": "prospanek-5fff87",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "ProSpánek",
+        "brand:wikidata": "Q116895610",
+        "name": "ProSpánek",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/prospanek.cz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prospanek-5fff87.jpg",
+      "local_logo_path": "localbrand/logo/prospanek-5fff87.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/prospanek.cz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prospanek-5fff87.jpg"
+      }
+    },
+    {
+      "displayName": "Purple",
+      "id": "purple-032196",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Purple",
+        "brand:wikidata": "Q28228105",
+        "name": "Purple",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/LifeOnPurple/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/purple-032196.jpg",
+      "local_logo_path": "localbrand/logo/purple-032196.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LifeOnPurple/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/purple-032196.jpg"
+      }
+    },
+    {
+      "displayName": "Sleep Country",
+      "id": "sleepcountry-fbfe85",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "sleep country canada"
+      ],
+      "tags": {
+        "brand": "Sleep Country",
+        "brand:wikidata": "Q7539684",
+        "mattress": "yes",
+        "name": "Sleep Country",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/SleepCountryCanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sleepcountry-fbfe85.jpg",
+      "local_logo_path": "localbrand/logo/sleepcountry-fbfe85.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SleepCountryCanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sleepcountry-fbfe85.jpg"
+      }
+    },
+    {
+      "displayName": "Sleep Experts",
+      "id": "sleepexperts-032196",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Sleep Experts",
+        "brand:wikidata": "Q7539688",
+        "name": "Sleep Experts",
+        "shop": "bed"
+      }
+    },
+    {
+      "displayName": "Sleep Number",
+      "id": "sleepnumber-032196",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "select comfort",
+        "select comfort / sleep number"
+      ],
+      "tags": {
+        "brand": "Sleep Number",
+        "brand:wikidata": "Q7447640",
+        "name": "Sleep Number",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/SleepNumber/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sleepnumber-032196.jpg",
+      "local_logo_path": "localbrand/logo/sleepnumber-032196.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SleepNumber/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sleepnumber-032196.jpg"
+      }
+    },
+    {
+      "displayName": "Sleep Outfitters",
+      "id": "sleepoutfitters-032196",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Sleep Outfitters",
+        "brand:wikidata": "Q120509459",
+        "name": "Sleep Outfitters",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/sleepoutfitters/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sleepoutfitters-032196.jpg",
+      "local_logo_path": "localbrand/logo/sleepoutfitters-032196.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sleepoutfitters/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sleepoutfitters-032196.jpg"
+      }
+    },
+    {
+      "displayName": "Sleepmasters",
+      "id": "sleepmasters-d8cd0b",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Sleepmasters",
+        "brand:wikidata": "Q116475002",
+        "name": "Sleepmasters",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/TheBedExperts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sleepmasters-d8cd0b.png",
+      "local_logo_path": "localbrand/logo/sleepmasters-d8cd0b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TheBedExperts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sleepmasters-d8cd0b.png"
+      }
+    },
+    {
+      "displayName": "Super Colchones",
+      "id": "supercolchones-e4a2c8",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Super Colchones",
+        "brand:wikidata": "Q126371962",
+        "mattress": "yes",
+        "name": "Super Colchones",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/SuperColchones/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/supercolchones-e4a2c8.png",
+      "local_logo_path": "localbrand/logo/supercolchones-e4a2c8.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SuperColchones/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/supercolchones-e4a2c8.png"
+      }
+    },
+    {
+      "displayName": "Swiss Sense",
+      "id": "swisssense-80dbc6",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "de",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Swiss Sense",
+        "brand:wikidata": "Q110908101",
+        "name": "Swiss Sense",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/SwissSenseNL/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swisssense-80dbc6.jpg",
+      "local_logo_path": "localbrand/logo/swisssense-80dbc6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SwissSenseNL/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swisssense-80dbc6.jpg"
+      }
+    },
+    {
+      "displayName": "Ted",
+      "id": "ted-cd9810",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Ted",
+        "brand:wikidata": "Q124281587",
+        "name": "Ted",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/matraci.ted.bg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ted-cd9810.jpg",
+      "local_logo_path": "localbrand/logo/ted-cd9810.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/matraci.ted.bg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ted-cd9810.jpg"
+      }
+    },
+    {
+      "displayName": "Tempur",
+      "id": "tempur-ee7d57",
+      "locationSet": {
+        "include": [
+          "150"
+        ]
+      },
+      "tags": {
+        "brand": "Tempur",
+        "name": "Tempur",
+        "shop": "bed"
+      }
+    },
+    {
+      "displayName": "Tempur-Pedic",
+      "id": "tempurpedic-032196",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Tempur-Pedic",
+        "brand:wikidata": "Q1756920",
+        "name": "Tempur-Pedic",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/TempurPedic/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tempurpedic-032196.png",
+      "local_logo_path": "localbrand/logo/tempurpedic-032196.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TempurPedic/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tempurpedic-032196.png"
+      }
+    },
+    {
+      "displayName": "The Bed Shop",
+      "id": "thebedshop-d8cd0b",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "The Bed Shop",
+        "brand:wikidata": "Q129571574",
+        "name": "The Bed Shop",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/TheBedShopRSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thebedshop-d8cd0b.jpg",
+      "local_logo_path": "localbrand/logo/thebedshop-d8cd0b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TheBedShopRSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thebedshop-d8cd0b.jpg"
+      }
+    },
+    {
+      "displayName": "The Bed Store",
+      "id": "thebedstore-d8cd0b",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "The Bed Store",
+        "brand:wikidata": "Q116429563",
+        "name": "The Bed Store",
+        "shop": "bed"
+      }
+    },
+    {
+      "displayName": "Tuft & Needle",
+      "id": "tuftandneedle-032196",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Tuft & Needle",
+        "brand:wikidata": "Q25022241",
+        "name": "Tuft & Needle",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/tuftandneedle/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuftandneedle-032196.jpg",
+      "local_logo_path": "localbrand/logo/tuftandneedle-032196.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tuftandneedle/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuftandneedle-032196.jpg"
+      }
+    },
+    {
+      "displayName": "Yataş Bedding",
+      "id": "yatasbedding-1dfb01",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "yataş"
+      ],
+      "tags": {
+        "brand": "Yataş Bedding",
+        "brand:wikidata": "Q19613071",
+        "name": "Yataş Bedding",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/YatasBedding/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yatasbedding-1dfb01.jpg",
+      "local_logo_path": "localbrand/logo/yatasbedding-1dfb01.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/YatasBedding/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yatasbedding-1dfb01.jpg"
+      }
+    },
+    {
+      "displayName": "Yatsan",
+      "id": "yatsan-a08a8e",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Yatsan",
+        "brand:wikidata": "Q106803959",
+        "name": "Yatsan",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/yatsanyatak/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yatsan-a08a8e.jpg",
+      "local_logo_path": "localbrand/logo/yatsan-a08a8e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/yatsanyatak/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yatsan-a08a8e.jpg"
+      }
+    },
+    {
+      "displayName": "Світ Матраців",
+      "id": "7bb5ad-ee9b7c",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "tags": {
+        "brand": "Світ Матраців",
+        "brand:wikidata": "Q136141983",
+        "name": "Світ Матраців",
+        "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/svitmatrasiv/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/7bb5ad-ee9b7c.jpg",
+      "local_logo_path": "localbrand/logo/7bb5ad-ee9b7c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/svitmatrasiv/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/7bb5ad-ee9b7c.jpg"
+      }
+    }
+  ]
+}

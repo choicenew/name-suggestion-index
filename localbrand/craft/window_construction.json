@@ -1,0 +1,111 @@
+{
+  "properties": {
+    "path": "brands/craft/window_construction",
+    "exclude": {
+      "generic": [
+        "^window construction$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "K par K",
+      "id": "kpark-64a527",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "K par K",
+        "brand:wikidata": "Q3191596",
+        "craft": "window_construction",
+        "name": "K par K"
+      },
+      "original_logo_url": "https://graph.facebook.com/KparKFrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kpark-64a527.png",
+      "local_logo_path": "localbrand/logo/kpark-64a527.png",
+      "logos": {
+        "original": "https://graph.facebook.com/KparKFrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kpark-64a527.png"
+      }
+    },
+    {
+      "displayName": "Komilfo",
+      "id": "komilfo-64a527",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Komilfo",
+        "brand:wikidata": "Q108870467",
+        "craft": "window_construction",
+        "name": "Komilfo"
+      }
+    },
+    {
+      "displayName": "Tryba",
+      "id": "tryba-85969b",
+      "locationSet": {
+        "include": [
+          "be",
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Tryba",
+        "brand:wikidata": "Q3541198",
+        "craft": "window_construction",
+        "name": "Tryba"
+      },
+      "original_logo_url": "https://graph.facebook.com/tryba.fr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tryba-85969b.jpg",
+      "local_logo_path": "localbrand/logo/tryba-85969b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tryba.fr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tryba-85969b.jpg"
+      }
+    },
+    {
+      "displayName": "WDS",
+      "id": "wds-8a03ba",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchTags": [
+        "shop/doors"
+      ],
+      "tags": {
+        "brand": "WDS",
+        "brand:wikidata": "Q122899556",
+        "craft": "window_construction",
+        "name": "WDS"
+      },
+      "original_logo_url": "https://graph.facebook.com/WDS.UA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wds-8a03ba.jpg",
+      "local_logo_path": "localbrand/logo/wds-8a03ba.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WDS.UA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wds-8a03ba.jpg"
+      }
+    },
+    {
+      "displayName": "Оконный континент",
+      "id": "6682d2-f78d33",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Оконный континент",
+        "craft": "window_construction",
+        "name": "Оконный континент"
+      }
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "properties": {
+    "path": "brands/office/consulting",
+    "exclude": {
+      "generic": [
+        "^consulting$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Accenture",
+      "id": "accenture-2207a5",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Accenture",
+        "brand:wikidata": "Q338825",
+        "name": "Accenture",
+        "office": "consulting"
+      },
+      "original_logo_url": "https://graph.facebook.com/accenture/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/accenture-2207a5.jpg",
+      "local_logo_path": "localbrand/logo/accenture-2207a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/accenture/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/accenture-2207a5.jpg"
+      }
+    },
+    {
+      "displayName": "BDO Canada",
+      "id": "bdocanada-89719a",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "BDO Canada",
+        "brand:wikidata": "Q120761980",
+        "name": "BDO Canada",
+        "office": "consulting"
+      },
+      "original_logo_url": "https://graph.facebook.com/BDOCanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bdocanada-89719a.jpg",
+      "local_logo_path": "localbrand/logo/bdocanada-89719a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BDOCanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bdocanada-89719a.jpg"
+      }
+    },
+    {
+      "displayName": "Boston Consulting Group",
+      "id": "bostonconsultinggroup-2207a5",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "bcg"
+      ],
+      "matchTags": [
+        "office/company"
+      ],
+      "tags": {
+        "brand": "Boston Consulting Group",
+        "brand:wikidata": "Q135635",
+        "name": "Boston Consulting Group",
+        "office": "consulting"
+      }
+    },
+    {
+      "displayName": "Deloitte",
+      "id": "deloitte-2207a5",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "office/accountant",
+        "office/financial",
+        "office/tax_advisor"
+      ],
+      "tags": {
+        "brand": "Deloitte",
+        "brand:wikidata": "Q491748",
+        "name": "Deloitte",
+        "office": "consulting"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_of_Deloitte.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deloitte-2207a5.svg",
+      "local_logo_path": "localbrand/logo/deloitte-2207a5.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_of_Deloitte.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deloitte-2207a5.svg"
+      }
+    },
+    {
+      "displayName": "Ecovis International",
+      "id": "ecovis-10b2fd",
+      "locationSet": {
+        "include": [
+          "150",
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Ecovis International",
+        "brand:wikidata": "Q65509562",
+        "name": "Ecovis",
+        "office": "consulting"
+      },
+      "original_logo_url": "https://graph.facebook.com/ecovis/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecovis-10b2fd.jpg",
+      "local_logo_path": "localbrand/logo/ecovis-10b2fd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ecovis/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecovis-10b2fd.jpg"
+      }
+    },
+    {
+      "displayName": "EY",
+      "id": "ey-2207a5",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "office/accountant",
+        "office/financial",
+        "office/tax_advisor"
+      ],
+      "tags": {
+        "brand": "EY",
+        "brand:wikidata": "Q489097",
+        "name": "EY",
+        "office": "consulting",
+        "official_name": "Ernst & Young"
+      },
+      "original_logo_url": "https://graph.facebook.com/EY/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ey-2207a5.png",
+      "local_logo_path": "localbrand/logo/ey-2207a5.png",
+      "logos": {
+        "original": "https://graph.facebook.com/EY/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ey-2207a5.png"
+      }
+    },
+    {
+      "displayName": "Indra",
+      "id": "indra-2207a5",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "office/financial",
+        "office/it",
+        "office/telecommunication"
+      ],
+      "tags": {
+        "brand": "Indra",
+        "brand:wikidata": "Q1661823",
+        "name": "Indra",
+        "office": "consulting",
+        "official_name": "Indra Sistemas, S.A."
+      },
+      "original_logo_url": "https://graph.facebook.com/indracompany/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indra-2207a5.jpg",
+      "local_logo_path": "localbrand/logo/indra-2207a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/indracompany/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indra-2207a5.jpg"
+      }
+    },
+    {
+      "displayName": "Kearney",
+      "id": "kearney-2207a5",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "a.t. kearney"
+      ],
+      "tags": {
+        "brand": "Kearney",
+        "brand:wikidata": "Q178907",
+        "name": "Kearney",
+        "office": "consulting"
+      },
+      "original_logo_url": "https://graph.facebook.com/kearney/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kearney-2207a5.jpg",
+      "local_logo_path": "localbrand/logo/kearney-2207a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kearney/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kearney-2207a5.jpg"
+      }
+    },
+    {
+      "displayName": "KPMG",
+      "id": "kpmg-2207a5",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "office/accountant",
+        "office/financial",
+        "office/tax_advisor"
+      ],
+      "tags": {
+        "brand": "KPMG",
+        "brand:wikidata": "Q493751",
+        "name": "KPMG",
+        "office": "consulting"
+      },
+      "original_logo_url": "https://graph.facebook.com/KPMG/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kpmg-2207a5.jpg",
+      "local_logo_path": "localbrand/logo/kpmg-2207a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KPMG/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kpmg-2207a5.jpg"
+      }
+    },
+    {
+      "displayName": "McKinsey & Company",
+      "id": "mckinseyandcompany-2207a5",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "office/company"
+      ],
+      "tags": {
+        "brand": "McKinsey & Company",
+        "brand:wikidata": "Q310207",
+        "name": "McKinsey & Company",
+        "office": "consulting"
+      },
+      "original_logo_url": "https://graph.facebook.com/mckinsey/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mckinseyandcompany-2207a5.jpg",
+      "local_logo_path": "localbrand/logo/mckinseyandcompany-2207a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mckinsey/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mckinseyandcompany-2207a5.jpg"
+      }
+    },
+    {
+      "displayName": "Morgan, Lewis & Bockius",
+      "id": "morganlewisandbockius-ef3027",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Morgan, Lewis & Bockius",
+        "brand:wikidata": "Q4302384",
+        "name": "Morgan, Lewis & Bockius",
+        "office": "consulting"
+      },
+      "original_logo_url": "https://graph.facebook.com/morganlewislaw/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morganlewisandbockius-ef3027.jpg",
+      "local_logo_path": "localbrand/logo/morganlewisandbockius-ef3027.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/morganlewislaw/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morganlewisandbockius-ef3027.jpg"
+      }
+    },
+    {
+      "displayName": "PwC",
+      "id": "pwc-2207a5",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "office/accountant",
+        "office/financial",
+        "office/tax_advisor"
+      ],
+      "tags": {
+        "brand": "PwC",
+        "brand:wikidata": "Q488048",
+        "name": "PwC",
+        "office": "consulting",
+        "official_name": "PricewaterhouseCoopers"
+      }
+    },
+    {
+      "displayName": "Synaxon",
+      "id": "synaxon-e9ad7a",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Synaxon",
+        "brand:wikidata": "Q2375651",
+        "name": "Synaxon",
+        "office": "consulting"
+      },
+      "original_logo_url": "https://graph.facebook.com/synaxon.ag/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synaxon-e9ad7a.jpg",
+      "local_logo_path": "localbrand/logo/synaxon-e9ad7a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/synaxon.ag/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synaxon-e9ad7a.jpg"
+      }
+    },
+    {
+      "displayName": "TSR Consulting Services",
+      "id": "tsrconsultingservices-ef3027",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "TSR Consulting Services",
+        "brand:wikidata": "Q122258109",
+        "name": "TSR Consulting Services",
+        "office": "consulting"
+      }
+    }
+  ]
+}

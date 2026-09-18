@@ -1,0 +1,115 @@
+{
+  "properties": {
+    "path": "brands/shop/fishing",
+    "exclude": {
+      "generic": [
+        "^fishing$",
+        "^рыболов$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Angling Direct",
+      "id": "anglingdirect-564c97",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchTags": [
+        "shop/sports"
+      ],
+      "tags": {
+        "brand": "Angling Direct",
+        "brand:wikidata": "Q119276672",
+        "name": "Angling Direct",
+        "shop": "fishing"
+      },
+      "original_logo_url": "https://graph.facebook.com/AnglingDirect/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/anglingdirect-564c97.jpg",
+      "local_logo_path": "localbrand/logo/anglingdirect-564c97.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AnglingDirect/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/anglingdirect-564c97.jpg"
+      }
+    },
+    {
+      "displayName": "Europeche",
+      "id": "europeche-bc8e02",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "matchTags": [
+        "shop/sports"
+      ],
+      "tags": {
+        "brand": "Europeche",
+        "brand:wikidata": "Q132015915",
+        "name": "Europeche",
+        "shop": "fishing"
+      },
+      "original_logo_url": "https://graph.facebook.com/europeche.cooperative/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/europeche-bc8e02.png",
+      "local_logo_path": "localbrand/logo/europeche-bc8e02.png",
+      "logos": {
+        "original": "https://graph.facebook.com/europeche.cooperative/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/europeche-bc8e02.png"
+      }
+    },
+    {
+      "displayName": "キャスティング",
+      "id": "casting-b62eaa",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "キャスティング",
+        "brand:en": "Casting",
+        "brand:ja": "キャスティング",
+        "brand:wikidata": "Q93352794",
+        "name": "キャスティング",
+        "name:en": "Casting",
+        "name:ja": "キャスティング",
+        "shop": "fishing"
+      },
+      "original_logo_url": "https://graph.facebook.com/ws.casting/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/casting-b62eaa.jpg",
+      "local_logo_path": "localbrand/logo/casting-b62eaa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ws.casting/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/casting-b62eaa.jpg"
+      }
+    },
+    {
+      "displayName": "タックルベリー",
+      "id": "tackleberry-b62eaa",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "タックルベリー",
+        "brand:en": "Tackle Berry",
+        "brand:ja": "タックルベリー",
+        "brand:wikidata": "Q11316144",
+        "name": "タックルベリー",
+        "name:en": "Tackle Berry",
+        "name:ja": "タックルベリー",
+        "shop": "fishing"
+      },
+      "original_logo_url": "https://graph.facebook.com/tackleberry.co.jp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tackleberry-b62eaa.png",
+      "local_logo_path": "localbrand/logo/tackleberry-b62eaa.png",
+      "logos": {
+        "original": "https://graph.facebook.com/tackleberry.co.jp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tackleberry-b62eaa.png"
+      }
+    }
+  ]
+}

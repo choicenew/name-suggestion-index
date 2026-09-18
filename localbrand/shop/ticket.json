@@ -1,0 +1,375 @@
+{
+  "properties": {
+    "path": "brands/shop/ticket",
+    "exclude": {
+      "generic": [
+        "^(проездные )?билет(ы)?$",
+        "^boleter[ií]a$",
+        "^ticket( office)?$",
+        "^tickets$",
+        "^касса$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Boutique Grandes Lignes",
+      "id": "boutiquegrandeslignes-b7c783",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Boutique Grandes Lignes",
+        "brand:wikidata": "Q13646",
+        "name": "Boutique Grandes Lignes",
+        "shop": "ticket"
+      },
+      "original_logo_url": "https://graph.facebook.com/GroupeSNCF/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boutiquegrandeslignes-b7c783.jpg",
+      "local_logo_path": "localbrand/logo/boutiquegrandeslignes-b7c783.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GroupeSNCF/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boutiquegrandeslignes-b7c783.jpg"
+      }
+    },
+    {
+      "displayName": "České dráhy",
+      "id": "ceskedrahy-b28c15",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "České dráhy",
+        "brand:short": "ČD",
+        "brand:wikidata": "Q304944",
+        "name": "České dráhy",
+        "operator": "České dráhy",
+        "operator:short": "ČD",
+        "operator:type": "public",
+        "operator:wikidata": "Q304944",
+        "shop": "ticket"
+      },
+      "original_logo_url": "https://graph.facebook.com/ceskedrahy/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ceskedrahy-b28c15.png",
+      "local_logo_path": "localbrand/logo/ceskedrahy-b28c15.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ceskedrahy/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ceskedrahy-b28c15.png"
+      }
+    },
+    {
+      "displayName": "DB Reisezentrum",
+      "id": "dbreisezentrum-6b8984",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "reisezentrum"
+      ],
+      "tags": {
+        "brand": "Deutsche Bahn",
+        "brand:wikidata": "Q9322",
+        "name": "DB Reisezentrum",
+        "shop": "ticket"
+      },
+      "original_logo_url": "https://graph.facebook.com/deutschebahn/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dbreisezentrum-6b8984.jpg",
+      "local_logo_path": "localbrand/logo/dbreisezentrum-6b8984.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/deutschebahn/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dbreisezentrum-6b8984.jpg"
+      }
+    },
+    {
+      "displayName": "Guichet Transilien",
+      "id": "guichettransilien-b7c783",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Guichet Transilien",
+        "brand:wikidata": "Q389554",
+        "name": "Guichet Transilien",
+        "shop": "ticket"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Paris_transit_icons_-_Train.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/guichettransilien-b7c783.svg",
+      "local_logo_path": "localbrand/logo/guichettransilien-b7c783.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Paris_transit_icons_-_Train.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/guichettransilien-b7c783.svg"
+      }
+    },
+    {
+      "displayName": "Kassir.ru",
+      "id": "kassirru-72dd33",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Kassir.ru",
+        "name": "Kassir.ru",
+        "shop": "ticket"
+      }
+    },
+    {
+      "displayName": "RegioJet",
+      "id": "regiojet-6be98b",
+      "locationSet": {
+        "include": [
+          "at",
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "RegioJet",
+        "brand:short": "RJ",
+        "brand:wikidata": "Q221186",
+        "name": "RegioJet",
+        "operator": "RegioJet",
+        "operator:short": "RJ",
+        "operator:type": "private",
+        "operator:wikidata": "Q221186",
+        "shop": "ticket"
+      },
+      "original_logo_url": "https://graph.facebook.com/regiojet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/regiojet-6be98b.jpg",
+      "local_logo_path": "localbrand/logo/regiojet-6be98b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/regiojet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/regiojet-6be98b.jpg"
+      }
+    },
+    {
+      "displayName": "Ticketmaster",
+      "id": "ticketmaster-9f0b74",
+      "locationSet": {
+        "include": [
+          "ae",
+          "at",
+          "au",
+          "be",
+          "ca",
+          "ch",
+          "cy",
+          "cz",
+          "de",
+          "dk",
+          "es",
+          "fi",
+          "fr",
+          "gb",
+          "gr",
+          "ie",
+          "it",
+          "mx",
+          "nl",
+          "no",
+          "nz",
+          "pl",
+          "se",
+          "sg",
+          "tr",
+          "tw",
+          "za"
+        ]
+      },
+      "matchNames": [
+        "live nation"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Ticketmaster",
+        "brand:wikidata": "Q2609162",
+        "name": "Ticketmaster",
+        "shop": "ticket"
+      },
+      "original_logo_url": "https://graph.facebook.com/Ticketmaster/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ticketmaster-9f0b74.jpg",
+      "local_logo_path": "localbrand/logo/ticketmaster-9f0b74.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Ticketmaster/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ticketmaster-9f0b74.jpg"
+      }
+    },
+    {
+      "displayName": "Železničná spoločnosť Slovensko",
+      "id": "zeleznicnaspolocnostslovensko-954ab0",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Železničná spoločnosť Slovensko",
+        "brand:short": "ZSSK",
+        "brand:wikidata": "Q393557",
+        "name": "Železničná spoločnosť Slovensko",
+        "operator": "Železničná spoločnosť Slovensko",
+        "operator:short": "ZSSK",
+        "operator:type": "public",
+        "operator:wikidata": "Q393557",
+        "shop": "ticket"
+      },
+      "original_logo_url": "https://graph.facebook.com/ZSSK.sk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zeleznicnaspolocnostslovensko-954ab0.png",
+      "local_logo_path": "localbrand/logo/zeleznicnaspolocnostslovensko-954ab0.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ZSSK.sk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zeleznicnaspolocnostslovensko-954ab0.png"
+      }
+    },
+    {
+      "displayName": "Авиакасса",
+      "id": "360f73-7d3a48",
+      "locationSet": {
+        "include": [
+          "kg",
+          "kz",
+          "ru",
+          "tm",
+          "uz"
+        ]
+      },
+      "tags": {
+        "brand": "Авиакасса",
+        "name": "Авиакасса",
+        "shop": "ticket"
+      }
+    },
+    {
+      "displayName": "Автолюкс",
+      "id": "autolux-61cb58",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "ecolines"
+      ],
+      "matchTags": [
+        "amenity/post_office"
+      ],
+      "tags": {
+        "brand": "Автолюкс",
+        "brand:en": "Autolux",
+        "brand:uk": "Автолюкс",
+        "brand:wikidata": "Q12075972",
+        "name": "Автолюкс",
+        "name:en": "Autolux",
+        "name:uk": "Автолюкс",
+        "shop": "ticket"
+      },
+      "original_logo_url": "https://graph.facebook.com/autolux.ua/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autolux-61cb58.png",
+      "local_logo_path": "localbrand/logo/autolux-61cb58.png",
+      "logos": {
+        "original": "https://graph.facebook.com/autolux.ua/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autolux-61cb58.png"
+      }
+    },
+    {
+      "displayName": "Минсктранс",
+      "id": "minsktrans-8ce589",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "tags": {
+        "brand": "Минсктранс",
+        "name": "Минсктранс",
+        "name:en": "Minsktrans",
+        "name:mn": "Минсктранс",
+        "shop": "ticket"
+      }
+    },
+    {
+      "displayName": "Център за градска мобилност",
+      "id": "fdbb92-14de12",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "matchNames": [
+        "скгт"
+      ],
+      "tags": {
+        "brand": "Център за градска мобилност",
+        "brand:wikidata": "Q7553668",
+        "shop": "ticket",
+        "short_name": "ЦГМ",
+        "short_name:bg": "ЦГМ",
+        "short_name:en": "SUMC"
+      },
+      "original_logo_url": "https://graph.facebook.com/sofiaurbanmobilitycentre/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fdbb92-14de12.jpg",
+      "local_logo_path": "localbrand/logo/fdbb92-14de12.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sofiaurbanmobilitycentre/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fdbb92-14de12.jpg"
+      }
+    },
+    {
+      "displayName": "みどりの窓口",
+      "id": "jrticketoffice-c4f22d",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "みどりの窓口",
+        "brand:en": "Midori-no-madoguchi",
+        "brand:ja": "みどりの窓口",
+        "brand:wikidata": "Q11279064",
+        "name": "みどりの窓口",
+        "name:en": "JR Ticket Office",
+        "name:ja": "みどりの窓口",
+        "shop": "ticket"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Midori-no_Madoguchi_%283730654225%29.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jrticketoffice-c4f22d.jpg",
+      "local_logo_path": "localbrand/logo/jrticketoffice-c4f22d.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/5/52/Midori-no_Madoguchi_%283730654225%29.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jrticketoffice-c4f22d.jpg"
+      }
+    },
+    {
+      "displayName": "售票处",
+      "id": "859b5b-be9ab5",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "售票处",
+        "name": "售票处",
+        "shop": "ticket"
+      }
+    }
+  ]
+}

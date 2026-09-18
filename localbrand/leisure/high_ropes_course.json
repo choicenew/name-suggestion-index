@@ -1,0 +1,36 @@
+{
+  "properties": {
+    "path": "brands/leisure/high_ropes_course",
+    "exclude": {
+      "generic": [
+        "ropes course$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Go Ape",
+      "id": "goape-5a2e64",
+      "locationSet": {
+        "include": [
+          "gb",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Go Ape",
+        "brand:wikidata": "Q5574692",
+        "leisure": "high_ropes_course",
+        "name": "Go Ape",
+        "sport": "climbing_adventure"
+      },
+      "original_logo_url": "https://graph.facebook.com/GoApeTribe/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goape-5a2e64.png",
+      "local_logo_path": "localbrand/logo/goape-5a2e64.png",
+      "logos": {
+        "original": "https://graph.facebook.com/GoApeTribe/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goape-5a2e64.png"
+      }
+    }
+  ]
+}

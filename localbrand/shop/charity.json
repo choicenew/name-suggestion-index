@@ -1,0 +1,1322 @@
+{
+  "properties": {
+    "path": "brands/shop/charity",
+    "exclude": {
+      "generic": [
+        "^charity$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Age UK",
+      "id": "ageuk-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Age UK",
+        "brand:wikidata": "Q4691850",
+        "name": "Age UK",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/ageuk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ageuk-b7b967.jpg",
+      "local_logo_path": "localbrand/logo/ageuk-b7b967.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ageuk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ageuk-b7b967.jpg"
+      }
+    },
+    {
+      "displayName": "AMVETS Thrift Store",
+      "id": "amvetsthriftstore-fca2e3",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "american veterans"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "AMVETS",
+        "brand:wikidata": "Q2819279",
+        "name": "AMVETS Thrift Store",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/AMVETSHQ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amvetsthriftstore-fca2e3.jpg",
+      "local_logo_path": "localbrand/logo/amvetsthriftstore-fca2e3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AMVETSHQ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amvetsthriftstore-fca2e3.jpg"
+      }
+    },
+    {
+      "displayName": "arc Thrift Stores",
+      "id": "arcthriftstore-fca2e3",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "arc Thrift Stores",
+        "brand:wikidata": "Q108816873",
+        "name": "arc Thrift Store",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/ArcThriftStores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arcthriftstore-fca2e3.jpg",
+      "local_logo_path": "localbrand/logo/arcthriftstore-fca2e3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ArcThriftStores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arcthriftstore-fca2e3.jpg"
+      }
+    },
+    {
+      "displayName": "Barnardo's",
+      "id": "barnardos-f84d6b",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "matchNames": [
+        "barnardo's retail"
+      ],
+      "tags": {
+        "brand": "Barnardo's",
+        "brand:wikidata": "Q2884670",
+        "name": "Barnardo's",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/barnardos/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barnardos-f84d6b.jpg",
+      "local_logo_path": "localbrand/logo/barnardos-f84d6b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/barnardos/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barnardos-f84d6b.jpg"
+      }
+    },
+    {
+      "displayName": "Blue Cross",
+      "id": "bluecross-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Blue Cross",
+        "brand:wikidata": "Q3520039",
+        "name": "Blue Cross",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/thebluecrossUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bluecross-b7b967.jpg",
+      "local_logo_path": "localbrand/logo/bluecross-b7b967.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/thebluecrossUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bluecross-b7b967.jpg"
+      }
+    },
+    {
+      "displayName": "Blue Cross (Denmark)",
+      "id": "blakorsgenbrug-40689c",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "Blå Kors",
+        "brand:wikidata": "Q123178402",
+        "name": "Blå Kors Genbrug",
+        "operator": "Blå Kors Danmark",
+        "operator:wikidata": "Q123178402",
+        "second_hand": "only",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/blaakorsdanmark/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blakorsgenbrug-40689c.png",
+      "local_logo_path": "localbrand/logo/blakorsgenbrug-40689c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/blaakorsdanmark/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blakorsgenbrug-40689c.png"
+      }
+    },
+    {
+      "displayName": "Brainwave",
+      "id": "brainwave-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Brainwave",
+        "brand:wikidata": "Q90561455",
+        "name": "Brainwave",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/charitybrainwave/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brainwave-b7b967.jpg",
+      "local_logo_path": "localbrand/logo/brainwave-b7b967.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/charitybrainwave/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brainwave-b7b967.jpg"
+      }
+    },
+    {
+      "displayName": "British Heart Foundation",
+      "id": "britishheartfoundation-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "British Heart Foundation",
+        "brand:wikidata": "Q4970039",
+        "name": "British Heart Foundation",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/bhf/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/britishheartfoundation-b7b967.png",
+      "local_logo_path": "localbrand/logo/britishheartfoundation-b7b967.png",
+      "logos": {
+        "original": "https://graph.facebook.com/bhf/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/britishheartfoundation-b7b967.png"
+      }
+    },
+    {
+      "displayName": "British Red Cross",
+      "id": "britishredcross-8c30a6",
+      "locationSet": {
+        "include": [
+          "gb",
+          "gg",
+          "im"
+        ]
+      },
+      "matchNames": [
+        "british red cross shop"
+      ],
+      "tags": {
+        "brand": "British Red Cross",
+        "brand:wikidata": "Q4970966",
+        "name": "British Red Cross",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/britishredcross/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/britishredcross-8c30a6.png",
+      "local_logo_path": "localbrand/logo/britishredcross-8c30a6.png",
+      "logos": {
+        "original": "https://graph.facebook.com/britishredcross/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/britishredcross-8c30a6.png"
+      }
+    },
+    {
+      "displayName": "Cancer Research UK",
+      "id": "cancerresearchuk-afd1d8",
+      "locationSet": {
+        "include": [
+          "gb",
+          "gg"
+        ]
+      },
+      "tags": {
+        "brand": "Cancer Research UK",
+        "brand:wikidata": "Q326079",
+        "name": "Cancer Research UK",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/cancerresearchuk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cancerresearchuk-afd1d8.jpg",
+      "local_logo_path": "localbrand/logo/cancerresearchuk-afd1d8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/cancerresearchuk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cancerresearchuk-afd1d8.jpg"
+      }
+    },
+    {
+      "displayName": "Cats Protection",
+      "id": "catsprotection-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Cats Protection",
+        "brand:wikidata": "Q5053998",
+        "name": "Cats Protection",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/catsprotection/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/catsprotection-b7b967.jpg",
+      "local_logo_path": "localbrand/logo/catsprotection-b7b967.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/catsprotection/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/catsprotection-b7b967.jpg"
+      }
+    },
+    {
+      "displayName": "Children's Hospice South West",
+      "id": "childrenshospicesouthwest-0bd8de",
+      "locationSet": {
+        "include": [
+          "gb-south-west.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Children's Hospice South West",
+        "brand:wikidata": "Q5098112",
+        "name": "Children's Hospice South West",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/CHSW1991/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/childrenshospicesouthwest-0bd8de.jpg",
+      "local_logo_path": "localbrand/logo/childrenshospicesouthwest-0bd8de.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CHSW1991/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/childrenshospicesouthwest-0bd8de.jpg"
+      }
+    },
+    {
+      "displayName": "Crisis",
+      "id": "crisis-23e499",
+      "locationSet": {
+        "include": [
+          "gb-lon.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Crisis",
+        "brand:wikidata": "Q5185945",
+        "name": "Crisis",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/crisis.homeless/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crisis-23e499.jpg",
+      "local_logo_path": "localbrand/logo/crisis-23e499.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/crisis.homeless/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crisis-23e499.jpg"
+      }
+    },
+    {
+      "displayName": "Danmission",
+      "id": "danmissiongenbrug-40689c",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "Danmission",
+        "brand:wikidata": "Q11964723",
+        "name": "Danmission Genbrug",
+        "operator": "Danmission",
+        "operator:wikidata": "Q11964723",
+        "second_hand": "only",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/Danmission/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/danmissiongenbrug-40689c.png",
+      "local_logo_path": "localbrand/logo/danmissiongenbrug-40689c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Danmission/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/danmissiongenbrug-40689c.png"
+      }
+    },
+    {
+      "displayName": "Dansk Røde Kors Genbrug",
+      "id": "rodekorsbutik-40689c",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "matchNames": [
+        "genbrug",
+        "røde kors"
+      ],
+      "tags": {
+        "brand": "Dansk Røde Kors Genbrug",
+        "brand:wikidata": "Q12307527",
+        "name": "Røde Kors Butik",
+        "second_hand": "only",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/roedekors/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rodekorsbutik-40689c.jpg",
+      "local_logo_path": "localbrand/logo/rodekorsbutik-40689c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/roedekors/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rodekorsbutik-40689c.jpg"
+      }
+    },
+    {
+      "displayName": "Debra (UK)",
+      "id": "debracharityshop-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Debra",
+        "brand:wikidata": "Q104535435",
+        "name": "Debra Charity Shop",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/DEBRACharity/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/debracharityshop-b7b967.jpg",
+      "local_logo_path": "localbrand/logo/debracharityshop-b7b967.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DEBRACharity/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/debracharityshop-b7b967.jpg"
+      }
+    },
+    {
+      "displayName": "Dogs Trust",
+      "id": "dogstrust-4e8804",
+      "locationSet": {
+        "include": [
+          "gb-eng",
+          "gb-wls"
+        ]
+      },
+      "tags": {
+        "brand": "Dogs Trust",
+        "brand:wikidata": "Q5288441",
+        "name": "Dogs Trust",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/dogstrust/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dogstrust-4e8804.png",
+      "local_logo_path": "localbrand/logo/dogstrust-4e8804.png",
+      "logos": {
+        "original": "https://graph.facebook.com/dogstrust/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dogstrust-4e8804.png"
+      }
+    },
+    {
+      "displayName": "Emmaüs",
+      "id": "emmaus-0d4d3e",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Mouvement Emmaüs",
+        "brand:wikidata": "Q989437",
+        "name": "Emmaüs",
+        "operator": "Mouvement Emmaüs",
+        "operator:wikidata": "Q989437",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/EmmausInternational.org/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/emmaus-0d4d3e.png",
+      "local_logo_path": "localbrand/logo/emmaus-0d4d3e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/EmmausInternational.org/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/emmaus-0d4d3e.png"
+      }
+    },
+    {
+      "displayName": "Frelsens Hær Genbrug",
+      "id": "frelsenshaergenbrug-40689c",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "matchNames": [
+        "frelleren",
+        "genbrug"
+      ],
+      "tags": {
+        "brand": "Frelsens Hær Genbrug",
+        "brand:wikidata": "Q188307",
+        "name": "Frelsens Hær Genbrug",
+        "ref:DK:cvr": "43417312",
+        "second_hand": "only",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/SalvationArmyIHQ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/frelsenshaergenbrug-40689c.png",
+      "local_logo_path": "localbrand/logo/frelsenshaergenbrug-40689c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SalvationArmyIHQ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/frelsenshaergenbrug-40689c.png"
+      }
+    },
+    {
+      "displayName": "Goodwill",
+      "id": "goodwill-fca2e3",
+      "issues": [
+        11142
+      ],
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Goodwill",
+        "brand:wikidata": "Q5583655",
+        "name": "Goodwill",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/GoodwillIntl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goodwill-fca2e3.jpg",
+      "local_logo_path": "localbrand/logo/goodwill-fca2e3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GoodwillIntl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goodwill-fca2e3.jpg"
+      }
+    },
+    {
+      "displayName": "Habitat for Humanity ReStore",
+      "id": "habitatforhumanityrestore-0873d3",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "nz",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/doityourself",
+        "shop/furniture",
+        "shop/hardware"
+      ],
+      "tags": {
+        "alt_name": "ReStore",
+        "brand": "Habitat for Humanity ReStore",
+        "brand:wikidata": "Q108414596",
+        "name": "Habitat for Humanity ReStore",
+        "second_hand": "yes",
+        "shop": "charity",
+        "short_name": "Habitat ReStore"
+      }
+    },
+    {
+      "displayName": "Haven House Children's Hospice",
+      "id": "havenhousechildrenshospice-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Haven House Children's Hospice",
+        "brand:wikidata": "Q92542889",
+        "name": "Haven House Children's Hospice",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/HavenHouseChildrensHospice/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/havenhousechildrenshospice-b7b967.png",
+      "local_logo_path": "localbrand/logo/havenhousechildrenshospice-b7b967.png",
+      "logos": {
+        "original": "https://graph.facebook.com/HavenHouseChildrensHospice/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/havenhousechildrenshospice-b7b967.png"
+      }
+    },
+    {
+      "displayName": "Havens Hospices",
+      "id": "havenshospices-a8aae6",
+      "locationSet": {
+        "include": [
+          "gb-eng"
+        ]
+      },
+      "tags": {
+        "brand": "Havens Hospices",
+        "brand:wikidata": "Q60775684",
+        "name": "Havens Hospices",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/havenshospices/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/havenshospices-a8aae6.jpg",
+      "local_logo_path": "localbrand/logo/havenshospices-a8aae6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/havenshospices/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/havenshospices-a8aae6.jpg"
+      }
+    },
+    {
+      "displayName": "Henry Laden",
+      "id": "henryladen-9c2239",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "tags": {
+        "brand": "Henry Laden",
+        "brand:wikidata": "Q123360680",
+        "clothes": "yes",
+        "name": "Henry Laden",
+        "operator": "Österreichisches Rotes Kreuz",
+        "operator:wikidata": "Q168276",
+        "second_hand": "only",
+        "shop": "charity"
+      }
+    },
+    {
+      "displayName": "Kirkens Korshær Genbrug",
+      "id": "kirkenskorshaergenbrug-40689c",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "Kirkens Korshær",
+        "brand:wikidata": "Q12321915",
+        "name": "Kirkens Korshær Genbrug",
+        "operator": "Kirkens Korshær",
+        "operator:wikidata": "Q12321915",
+        "second_hand": "only",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/vierkirkenskorshaer/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kirkenskorshaergenbrug-40689c.jpg",
+      "local_logo_path": "localbrand/logo/kirkenskorshaergenbrug-40689c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/vierkirkenskorshaer/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kirkenskorshaergenbrug-40689c.jpg"
+      }
+    },
+    {
+      "displayName": "Lifeline",
+      "id": "lifelineshop-0a6dbd",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Lifeline",
+        "brand:wikidata": "Q6545404",
+        "name": "Lifeline Shop",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/LifelineAustralia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lifelineshop-0a6dbd.jpg",
+      "local_logo_path": "localbrand/logo/lifelineshop-0a6dbd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LifelineAustralia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lifelineshop-0a6dbd.jpg"
+      }
+    },
+    {
+      "displayName": "Magasin du Monde",
+      "id": "magasindumonde-ea61d3",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "brand": "Magasin du Monde",
+        "brand:wikidata": "Q109044029",
+        "name": "Magasin du Monde",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/magasinsdumonde/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/magasindumonde-ea61d3.jpg",
+      "local_logo_path": "localbrand/logo/magasindumonde-ea61d3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/magasinsdumonde/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/magasindumonde-ea61d3.jpg"
+      }
+    },
+    {
+      "displayName": "Marie Curie",
+      "id": "mariecurie-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Marie Curie",
+        "brand:wikidata": "Q16997351",
+        "name": "Marie Curie",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/MarieCurieUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mariecurie-b7b967.jpg",
+      "local_logo_path": "localbrand/logo/mariecurie-b7b967.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MarieCurieUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mariecurie-b7b967.jpg"
+      }
+    },
+    {
+      "displayName": "Mencap",
+      "id": "mencap-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Mencap",
+        "brand:wikidata": "Q6816514",
+        "name": "Mencap",
+        "official_name": "Royal Mencap Society",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/Mencap/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mencap-b7b967.jpg",
+      "local_logo_path": "localbrand/logo/mencap-b7b967.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Mencap/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mencap-b7b967.jpg"
+      }
+    },
+    {
+      "displayName": "Mind",
+      "id": "mind-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Mind",
+        "brand:wikidata": "Q3314763",
+        "name": "Mind",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/mindforbettermentalhealth/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mind-b7b967.jpg",
+      "local_logo_path": "localbrand/logo/mind-b7b967.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mindforbettermentalhealth/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mind-b7b967.jpg"
+      }
+    },
+    {
+      "displayName": "Mission Afrika",
+      "id": "missionafrikagenbrug-40689c",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "Mission Afrika",
+        "brand:wikidata": "Q12327349",
+        "name": "Mission Afrika Genbrug",
+        "operator": "Mission Afrika",
+        "operator:wikidata": "Q12327349",
+        "second_hand": "only",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/missionafrika/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/missionafrikagenbrug-40689c.png",
+      "local_logo_path": "localbrand/logo/missionafrikagenbrug-40689c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/missionafrika/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/missionafrikagenbrug-40689c.png"
+      }
+    },
+    {
+      "displayName": "Myrorna",
+      "id": "myrorna-ef3d1a",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Myrorna",
+        "brand:wikidata": "Q10592609",
+        "name": "Myrorna",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/Myrorna/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/myrorna-ef3d1a.jpg",
+      "local_logo_path": "localbrand/logo/myrorna-ef3d1a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Myrorna/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/myrorna-ef3d1a.jpg"
+      }
+    },
+    {
+      "displayName": "Oxfam",
+      "id": "oxfam-70fc14",
+      "locationSet": {
+        "include": [
+          "be",
+          "de",
+          "gb",
+          "ie",
+          "im"
+        ]
+      },
+      "matchNames": [
+        "oxfam books & music",
+        "oxfam-wereldwinkels"
+      ],
+      "tags": {
+        "brand": "Oxfam",
+        "brand:wikidata": "Q267941",
+        "name": "Oxfam",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/oxfamGB/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oxfam-70fc14.jpg",
+      "local_logo_path": "localbrand/logo/oxfam-70fc14.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/oxfamGB/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oxfam-70fc14.jpg"
+      }
+    },
+    {
+      "displayName": "PDSA",
+      "id": "pdsa-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "PDSA",
+        "brand:wikidata": "Q7165541",
+        "name": "PDSA",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/PDSAhq/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pdsa-b7b967.jpg",
+      "local_logo_path": "localbrand/logo/pdsa-b7b967.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PDSAhq/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pdsa-b7b967.jpg"
+      }
+    },
+    {
+      "displayName": "Rennie Grove Peace",
+      "id": "renniegrovepeace-a8aae6",
+      "locationSet": {
+        "include": [
+          "gb-eng"
+        ]
+      },
+      "tags": {
+        "brand": "Rennie Grove Peace",
+        "brand:wikidata": "Q131599401",
+        "name": "Rennie Grove Peace",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/RGPHospice/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/renniegrovepeace-a8aae6.jpg",
+      "local_logo_path": "localbrand/logo/renniegrovepeace-a8aae6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RGPHospice/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/renniegrovepeace-a8aae6.jpg"
+      }
+    },
+    {
+      "displayName": "RNLI Shop",
+      "id": "rnlishop-f84d6b",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "matchNames": [
+        "royal national lifeboat institution"
+      ],
+      "tags": {
+        "brand": "RNLI Shop",
+        "brand:wikidata": "Q2166873",
+        "name": "RNLI Shop",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/rnli/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rnlishop-f84d6b.jpg",
+      "local_logo_path": "localbrand/logo/rnlishop-f84d6b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rnli/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rnlishop-f84d6b.jpg"
+      }
+    },
+    {
+      "displayName": "RSPCA",
+      "id": "rspca-c2d19b",
+      "locationSet": {
+        "include": [
+          "au",
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "RSPCA",
+        "brand:wikidata": "Q584819",
+        "name": "RSPCA",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/RSPCA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rspca-c2d19b.jpg",
+      "local_logo_path": "localbrand/logo/rspca-c2d19b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RSPCA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rspca-c2d19b.jpg"
+      }
+    },
+    {
+      "displayName": "Saint Vincent de Paul Thrift Store",
+      "id": "saintvincentdepaulthriftstore-fca2e3",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "saint vincent de paul",
+        "saint vincent de paul society",
+        "society of saint vincent de paul",
+        "society of st vincent de paul",
+        "st vincent de paul",
+        "st vincent de paul society",
+        "st vincent de paul thrift store",
+        "svdp thrift store",
+        "the society of saint vincent de paul",
+        "the society of st vincent de paul"
+      ],
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "Saint Vincent de Paul Thrift Store",
+        "brand:wikidata": "Q7592120",
+        "name": "Saint Vincent de Paul Thrift Store",
+        "shop": "charity",
+        "short_name": "SVdP"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Society_of_Saint_Vincent_de_Paul_-_Central_Store_in_Ottawa%2C_Ontario.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saintvincentdepaulthriftstore-fca2e3.jpg",
+      "local_logo_path": "localbrand/logo/saintvincentdepaulthriftstore-fca2e3.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/05/Society_of_Saint_Vincent_de_Paul_-_Central_Store_in_Ottawa%2C_Ontario.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saintvincentdepaulthriftstore-fca2e3.jpg"
+      }
+    },
+    {
+      "displayName": "Salvos",
+      "id": "salvos-0a6dbd",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Salvos",
+        "brand:wikidata": "Q120646407",
+        "name": "Salvos",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/salvosstores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/salvos-0a6dbd.jpg",
+      "local_logo_path": "localbrand/logo/salvos-0a6dbd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/salvosstores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/salvos-0a6dbd.jpg"
+      }
+    },
+    {
+      "displayName": "Samaritans",
+      "id": "samaritans-f84d6b",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "Samaritans",
+        "brand:wikidata": "Q7408851",
+        "name": "Samaritans",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/samaritanscharity/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/samaritans-f84d6b.jpg",
+      "local_logo_path": "localbrand/logo/samaritans-f84d6b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/samaritanscharity/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/samaritans-f84d6b.jpg"
+      }
+    },
+    {
+      "displayName": "Save the Children",
+      "id": "savethechildren-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Save the Children",
+        "brand:wikidata": "Q215934",
+        "name": "Save the Children",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/savethechildren/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/savethechildren-b7b967.jpg",
+      "local_logo_path": "localbrand/logo/savethechildren-b7b967.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/savethechildren/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/savethechildren-b7b967.jpg"
+      }
+    },
+    {
+      "displayName": "Scope",
+      "id": "scope-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Scope",
+        "brand:wikidata": "Q7434435",
+        "name": "Scope",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/Scope/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/scope-b7b967.jpg",
+      "local_logo_path": "localbrand/logo/scope-b7b967.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Scope/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/scope-b7b967.jpg"
+      }
+    },
+    {
+      "displayName": "SCT (Spitalfields Crypt Trust)",
+      "id": "sct-23e499",
+      "locationSet": {
+        "include": [
+          "gb-lon.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Spitalfields Crypt Trust",
+        "brand:wikidata": "Q107463316",
+        "name": "SCT",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/spitalfieldscrypttrust/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sct-23e499.jpg",
+      "local_logo_path": "localbrand/logo/sct-23e499.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/spitalfieldscrypttrust/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sct-23e499.jpg"
+      }
+    },
+    {
+      "displayName": "Sense",
+      "id": "sense-4e8804",
+      "locationSet": {
+        "include": [
+          "gb-eng",
+          "gb-wls"
+        ]
+      },
+      "tags": {
+        "brand": "Sense",
+        "brand:wikidata": "Q92552497",
+        "name": "Sense",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/sensecharity/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sense-4e8804.png",
+      "local_logo_path": "localbrand/logo/sense-4e8804.png",
+      "logos": {
+        "original": "https://graph.facebook.com/sensecharity/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sense-4e8804.png"
+      }
+    },
+    {
+      "displayName": "Sense Scotland",
+      "id": "sensescotland-b96ba7",
+      "locationSet": {
+        "include": [
+          "gb-sct"
+        ]
+      },
+      "tags": {
+        "brand": "Sense Scotland",
+        "brand:wikidata": "Q7450977",
+        "name": "Sense Scotland",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/sensescotlandcharity/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sensescotland-b96ba7.png",
+      "local_logo_path": "localbrand/logo/sensescotland-b96ba7.png",
+      "logos": {
+        "original": "https://graph.facebook.com/sensescotlandcharity/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sensescotland-b96ba7.png"
+      }
+    },
+    {
+      "displayName": "Shaw Trust",
+      "id": "shawtrust-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Shaw Trust",
+        "brand:wikidata": "Q7491206",
+        "name": "Shaw Trust",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/shawtrust/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shawtrust-b7b967.jpg",
+      "local_logo_path": "localbrand/logo/shawtrust-b7b967.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/shawtrust/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shawtrust-b7b967.jpg"
+      }
+    },
+    {
+      "displayName": "Shelter",
+      "id": "shelter-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Shelter",
+        "brand:wikidata": "Q7493943",
+        "name": "Shelter",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/ShelterUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shelter-b7b967.jpg",
+      "local_logo_path": "localbrand/logo/shelter-b7b967.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ShelterUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shelter-b7b967.jpg"
+      }
+    },
+    {
+      "displayName": "St Margaret's Hospice Care",
+      "id": "stmargaretshospicecare-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "St Margaret's Hospice Care",
+        "brand:wikidata": "Q91027360",
+        "name": "St Margaret's Hospice Care",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/stmargaretshospice/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stmargaretshospicecare-b7b967.jpg",
+      "local_logo_path": "localbrand/logo/stmargaretshospicecare-b7b967.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/stmargaretshospice/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stmargaretshospicecare-b7b967.jpg"
+      }
+    },
+    {
+      "displayName": "Sue Ryder",
+      "id": "sueryder-f84d6b",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "matchNames": [
+        "sue ryder care shop"
+      ],
+      "tags": {
+        "brand": "Sue Ryder",
+        "brand:wikidata": "Q7634271",
+        "name": "Sue Ryder",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/SueRyderNational/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sueryder-f84d6b.jpg",
+      "local_logo_path": "localbrand/logo/sueryder-f84d6b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SueRyderNational/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sueryder-f84d6b.jpg"
+      }
+    },
+    {
+      "displayName": "Thames Hospice",
+      "id": "thameshospice-a8aae6",
+      "locationSet": {
+        "include": [
+          "gb-eng"
+        ]
+      },
+      "tags": {
+        "brand": "Thames Hospice",
+        "brand:wikidata": "Q131561641",
+        "name": "Thames Hospice",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/thameshospice/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thameshospice-a8aae6.jpg",
+      "local_logo_path": "localbrand/logo/thameshospice-a8aae6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/thameshospice/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thameshospice-a8aae6.jpg"
+      }
+    },
+    {
+      "displayName": "The Children's Society",
+      "id": "thechildrenssociety-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "The Children's Society",
+        "brand:wikidata": "Q7722484",
+        "name": "The Children's Society",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/childrenssociety/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thechildrenssociety-b7b967.jpg",
+      "local_logo_path": "localbrand/logo/thechildrenssociety-b7b967.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/childrenssociety/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thechildrenssociety-b7b967.jpg"
+      }
+    },
+    {
+      "displayName": "The Salvation Army",
+      "id": "thesalvationarmy-2031e0",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "gb",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "salvation army",
+        "the salvation army charity shop",
+        "the salvation army family store"
+      ],
+      "tags": {
+        "brand": "The Salvation Army",
+        "brand:wikidata": "Q188307",
+        "name": "The Salvation Army",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/SalvationArmyIHQ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thesalvationarmy-2031e0.png",
+      "local_logo_path": "localbrand/logo/thesalvationarmy-2031e0.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SalvationArmyIHQ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thesalvationarmy-2031e0.png"
+      }
+    },
+    {
+      "displayName": "TRAID",
+      "id": "traid-b7b967",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "TRAID",
+        "brand:wikidata": "Q109717195",
+        "name": "TRAID",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/TRAIDcharity/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/traid-b7b967.jpg",
+      "local_logo_path": "localbrand/logo/traid-b7b967.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TRAIDcharity/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/traid-b7b967.jpg"
+      }
+    },
+    {
+      "displayName": "Vincent's",
+      "id": "vincents-bbdeed",
+      "locationSet": {
+        "include": [
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "Vincent's",
+        "name": "Vincent's",
+        "shop": "charity"
+      }
+    },
+    {
+      "displayName": "Vinnies",
+      "id": "vinnies-0a6dbd",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Vinnies",
+        "brand:wikidata": "Q120646672",
+        "name": "Vinnies",
+        "shop": "charity"
+      }
+    },
+    {
+      "displayName": "YMCA",
+      "id": "ymca-bf05c1",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "ymca shop"
+      ],
+      "tags": {
+        "brand": "YMCA",
+        "brand:wikidata": "Q157169",
+        "name": "YMCA",
+        "shop": "charity"
+      },
+      "original_logo_url": "https://graph.facebook.com/ymcas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ymca-bf05c1.png",
+      "local_logo_path": "localbrand/logo/ymca-bf05c1.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ymcas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ymca-bf05c1.png"
+      }
+    }
+  ]
+}

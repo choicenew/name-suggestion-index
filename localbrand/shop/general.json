@@ -1,0 +1,95 @@
+{
+  "properties": {
+    "path": "brands/shop/general",
+    "exclude": {
+      "generic": [
+        "^general( store)?$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Europris",
+      "id": "europris-fd026c",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "matchNames": [
+        "eurorpris"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Europris",
+        "brand:wikidata": "Q17770215",
+        "name": "Europris",
+        "shop": "general"
+      },
+      "original_logo_url": "https://graph.facebook.com/europris/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/europris-fd026c.jpg",
+      "local_logo_path": "localbrand/logo/europris-fd026c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/europris/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/europris-fd026c.jpg"
+      }
+    },
+    {
+      "displayName": "One Station One Product",
+      "id": "onestationoneproduct-692176",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "One Station One Product",
+        "brand:wikidata": "Q126935784",
+        "name": "One Station One Product",
+        "shop": "general"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/One_Station_One_Product_%2829_June_2024%29.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/onestationoneproduct-692176.jpg",
+      "local_logo_path": "localbrand/logo/onestationoneproduct-692176.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/fb/One_Station_One_Product_%2829_June_2024%29.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/onestationoneproduct-692176.jpg"
+      }
+    },
+    {
+      "displayName": "義美食品",
+      "id": "imeifoods-fd026c",
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "matchNames": [
+        "imei",
+        "義美"
+      ],
+      "tags": {
+        "brand": "義美食品",
+        "brand:en": "I-Mei Foods",
+        "brand:wikidata": "Q15897293",
+        "brand:zh": "義美食品",
+        "name": "義美食品",
+        "name:en": "I-Mei Foods",
+        "name:zh": "義美食品",
+        "shop": "general"
+      },
+      "original_logo_url": "https://graph.facebook.com/imeifoods/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/imeifoods-fd026c.png",
+      "local_logo_path": "localbrand/logo/imeifoods-fd026c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/imeifoods/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/imeifoods-fd026c.png"
+      }
+    }
+  ]
+}

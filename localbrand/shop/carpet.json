@@ -1,0 +1,178 @@
+{
+  "properties": {
+    "path": "brands/shop/carpet",
+    "exclude": {
+      "generic": [
+        "^carpet$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Carpet Court (Australia)",
+      "id": "carpetcourt-0f90b0",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Carpet Court",
+        "brand:wikidata": "Q117156437",
+        "name": "Carpet Court",
+        "shop": "carpet"
+      },
+      "original_logo_url": "https://graph.facebook.com/CarpetCourt/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carpetcourt-0f90b0.jpg",
+      "local_logo_path": "localbrand/logo/carpetcourt-0f90b0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CarpetCourt/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carpetcourt-0f90b0.jpg"
+      }
+    },
+    {
+      "displayName": "Carpet Court (New Zealand)",
+      "id": "carpetcourt-3bed23",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Carpet Court",
+        "brand:wikidata": "Q137908618",
+        "name": "Carpet Court",
+        "shop": "carpet"
+      },
+      "original_logo_url": "https://graph.facebook.com/carpetcourtnz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carpetcourt-3bed23.jpg",
+      "local_logo_path": "localbrand/logo/carpetcourt-3bed23.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/carpetcourtnz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carpetcourt-3bed23.jpg"
+      }
+    },
+    {
+      "displayName": "Carpet One Floor & Home",
+      "id": "carpetonefloorandhome-3c711e",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "carpet one"
+      ],
+      "tags": {
+        "brand": "Carpet One Floor & Home",
+        "brand:wikidata": "Q121335910",
+        "name": "Carpet One Floor & Home",
+        "shop": "carpet"
+      },
+      "original_logo_url": "https://graph.facebook.com/carpetone/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carpetonefloorandhome-3c711e.png",
+      "local_logo_path": "localbrand/logo/carpetonefloorandhome-3c711e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/carpetone/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carpetonefloorandhome-3c711e.png"
+      }
+    },
+    {
+      "displayName": "Carpetright",
+      "id": "carpetright-68566f",
+      "locationSet": {
+        "include": [
+          "be",
+          "gb",
+          "ie",
+          "nl"
+        ]
+      },
+      "matchTags": [
+        "shop/furniture"
+      ],
+      "tags": {
+        "brand": "Carpetright",
+        "brand:wikidata": "Q5045782",
+        "name": "Carpetright",
+        "shop": "carpet"
+      },
+      "original_logo_url": "https://graph.facebook.com/carpetright/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carpetright-68566f.jpg",
+      "local_logo_path": "localbrand/logo/carpetright-68566f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/carpetright/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carpetright-68566f.jpg"
+      }
+    },
+    {
+      "displayName": "Kibek",
+      "id": "kibek-0208b5",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Kibek",
+        "brand:wikidata": "Q2404181",
+        "name": "Kibek",
+        "shop": "carpet"
+      },
+      "original_logo_url": "https://graph.facebook.com/kibek.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kibek-0208b5.jpg",
+      "local_logo_path": "localbrand/logo/kibek-0208b5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kibek.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kibek-0208b5.jpg"
+      }
+    },
+    {
+      "displayName": "Tapi Carpets",
+      "id": "tapicarpets-40b39f",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Tapi Carpets",
+        "brand:wikidata": "Q79223951",
+        "name": "Tapi Carpets",
+        "shop": "carpet"
+      },
+      "original_logo_url": "https://graph.facebook.com/tapicarpetsandfloors/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tapicarpets-40b39f.jpg",
+      "local_logo_path": "localbrand/logo/tapicarpets-40b39f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tapicarpetsandfloors/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tapicarpets-40b39f.jpg"
+      }
+    },
+    {
+      "displayName": "United Carpets and Beds",
+      "id": "unitedcarpetsandbeds-40b39f",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "united carpets"
+      ],
+      "tags": {
+        "brand": "United Carpets and Beds",
+        "brand:wikidata": "Q125558216",
+        "name": "United Carpets and Beds",
+        "shop": "carpet"
+      },
+      "original_logo_url": "https://graph.facebook.com/UnitedCarpetsandBeds/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unitedcarpetsandbeds-40b39f.jpg",
+      "local_logo_path": "localbrand/logo/unitedcarpetsandbeds-40b39f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/UnitedCarpetsandBeds/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unitedcarpetsandbeds-40b39f.jpg"
+      }
+    }
+  ]
+}

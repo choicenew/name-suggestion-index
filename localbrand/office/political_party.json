@@ -1,0 +1,351 @@
+{
+  "properties": {
+    "path": "brands/office/political_party",
+    "exclude": {
+      "generic": [
+        "^political party$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "AAP",
+      "id": "aamaadmiparty-88c6e5",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "matchNames": [
+        "aap"
+      ],
+      "tags": {
+        "brand": "Aam Aadmi Party",
+        "brand:wikidata": "Q129844",
+        "office": "political_party"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Aam_Aadmi_Party_logo_%28English%29.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aamaadmiparty-88c6e5.svg",
+      "local_logo_path": "localbrand/logo/aamaadmiparty-88c6e5.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/6/65/Aam_Aadmi_Party_logo_%28English%29.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aamaadmiparty-88c6e5.svg"
+      }
+    },
+    {
+      "displayName": "Aliança Catalana",
+      "id": "aliancacatalana-c36994",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "tags": {
+        "brand": "Aliança Catalana",
+        "brand:wikidata": "Q100407262",
+        "office": "political_party"
+      },
+      "original_logo_url": "https://graph.facebook.com/CatalunyaAC/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aliancacatalana-c36994.png",
+      "local_logo_path": "localbrand/logo/aliancacatalana-c36994.png",
+      "logos": {
+        "original": "https://graph.facebook.com/CatalunyaAC/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aliancacatalana-c36994.png"
+      }
+    },
+    {
+      "displayName": "APC",
+      "id": "apc-a60dd5",
+      "locationSet": {
+        "include": [
+          "ng"
+        ]
+      },
+      "matchNames": [
+        "all progressives congress"
+      ],
+      "tags": {
+        "brand": "APC",
+        "brand:wikidata": "Q4729266",
+        "office": "political_party"
+      }
+    },
+    {
+      "displayName": "APGA",
+      "id": "apga-a60dd5",
+      "locationSet": {
+        "include": [
+          "ng"
+        ]
+      },
+      "matchNames": [
+        "all progressives grand alliance"
+      ],
+      "tags": {
+        "brand": "APGA",
+        "brand:wikidata": "Q4729271",
+        "office": "political_party"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/All_Progressives_Grand_Alliance_secretariat%2C_Asaba%2C_Delta_state3.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/apga-a60dd5.jpg",
+      "local_logo_path": "localbrand/logo/apga-a60dd5.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/All_Progressives_Grand_Alliance_secretariat%2C_Asaba%2C_Delta_state3.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/apga-a60dd5.jpg"
+      }
+    },
+    {
+      "displayName": "BJP",
+      "id": "bhartiyajantaparty-88c6e5",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "matchNames": [
+        "bjp"
+      ],
+      "tags": {
+        "brand": "Bhartiya Janta Party",
+        "brand:wikidata": "Q10230",
+        "office": "political_party"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/898-8987765_bharatiya-janata-party-bjp-symbol-1.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bhartiyajantaparty-88c6e5.png",
+      "local_logo_path": "localbrand/logo/bhartiyajantaparty-88c6e5.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/898-8987765_bharatiya-janata-party-bjp-symbol-1.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bhartiyajantaparty-88c6e5.png"
+      }
+    },
+    {
+      "displayName": "Bündnis 90/Die Grünen",
+      "id": "bundnis90diegrunen-212c6d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "b'90/grüne",
+        "b90/gr",
+        "bündnisgrüne",
+        "die gruenen",
+        "die grünen",
+        "grüne"
+      ],
+      "tags": {
+        "brand": "Bündnis 90/Die Grünen",
+        "brand:wikidata": "Q49766",
+        "office": "political_party"
+      },
+      "original_logo_url": "https://graph.facebook.com/B90DieGruenen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bundnis90diegrunen-212c6d.jpg",
+      "local_logo_path": "localbrand/logo/bundnis90diegrunen-212c6d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/B90DieGruenen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bundnis90diegrunen-212c6d.jpg"
+      }
+    },
+    {
+      "displayName": "CDU",
+      "id": "cdu-212c6d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "christlich demokratische union deutschlands"
+      ],
+      "tags": {
+        "brand": "CDU",
+        "brand:wikidata": "Q49762",
+        "office": "political_party"
+      },
+      "original_logo_url": "https://graph.facebook.com/CDU/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cdu-212c6d.jpg",
+      "local_logo_path": "localbrand/logo/cdu-212c6d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CDU/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cdu-212c6d.jpg"
+      }
+    },
+    {
+      "displayName": "CSU",
+      "id": "csu-212c6d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "christlich demokratische union deutschlands"
+      ],
+      "tags": {
+        "brand": "CSU",
+        "brand:wikidata": "Q49763",
+        "office": "political_party"
+      },
+      "original_logo_url": "https://graph.facebook.com/CSU/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/csu-212c6d.jpg",
+      "local_logo_path": "localbrand/logo/csu-212c6d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CSU/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/csu-212c6d.jpg"
+      }
+    },
+    {
+      "displayName": "Die Linke",
+      "id": "dielinke-212c6d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "linkspartei"
+      ],
+      "tags": {
+        "brand": "Die Linke",
+        "brand:wikidata": "Q49764",
+        "office": "political_party"
+      },
+      "original_logo_url": "https://graph.facebook.com/linkspartei/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dielinke-212c6d.jpg",
+      "local_logo_path": "localbrand/logo/dielinke-212c6d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/linkspartei/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dielinke-212c6d.jpg"
+      }
+    },
+    {
+      "displayName": "FDP",
+      "id": "fdp-212c6d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "die liberalen",
+        "freie demokraten",
+        "freie demokratische partei"
+      ],
+      "tags": {
+        "brand": "FDP",
+        "brand:wikidata": "Q13124",
+        "office": "political_party"
+      },
+      "original_logo_url": "https://graph.facebook.com/FDP/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fdp-212c6d.jpg",
+      "local_logo_path": "localbrand/logo/fdp-212c6d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FDP/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fdp-212c6d.jpg"
+      }
+    },
+    {
+      "displayName": "INC",
+      "id": "indiannationalcongress-88c6e5",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "matchNames": [
+        "congress party",
+        "inc"
+      ],
+      "tags": {
+        "brand": "Indian National Congress",
+        "brand:wikidata": "Q10225",
+        "office": "political_party"
+      },
+      "original_logo_url": "https://graph.facebook.com/IndianNationalCongress/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indiannationalcongress-88c6e5.jpg",
+      "local_logo_path": "localbrand/logo/indiannationalcongress-88c6e5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IndianNationalCongress/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indiannationalcongress-88c6e5.jpg"
+      }
+    },
+    {
+      "displayName": "PCF",
+      "id": "particommunistefrancais-ed1753",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Parti Communiste Français",
+        "brand:short": "PCF",
+        "brand:wikidata": "Q192821",
+        "office": "political_party"
+      },
+      "original_logo_url": "https://graph.facebook.com/Particommuniste/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/particommunistefrancais-ed1753.jpg",
+      "local_logo_path": "localbrand/logo/particommunistefrancais-ed1753.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Particommuniste/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/particommunistefrancais-ed1753.jpg"
+      }
+    },
+    {
+      "displayName": "PDP",
+      "id": "pdp-a60dd5",
+      "locationSet": {
+        "include": [
+          "ng"
+        ]
+      },
+      "matchNames": [
+        "peoples democratic party (nigeria)"
+      ],
+      "tags": {
+        "brand": "PDP",
+        "brand:wikidata": "Q1551163",
+        "office": "political_party"
+      },
+      "original_logo_url": "https://graph.facebook.com/officialpdpnig/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pdp-a60dd5.jpg",
+      "local_logo_path": "localbrand/logo/pdp-a60dd5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/officialpdpnig/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pdp-a60dd5.jpg"
+      }
+    },
+    {
+      "displayName": "SPD",
+      "id": "spd-212c6d",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "sozialdemokratische partei deutschlands"
+      ],
+      "tags": {
+        "brand": "SPD",
+        "brand:wikidata": "Q49768",
+        "office": "political_party"
+      }
+    },
+    {
+      "displayName": "Единая Россия",
+      "id": "c4c22a-49c81f",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Единая Россия",
+        "name": "Единая Россия",
+        "office": "political_party"
+      }
+    }
+  ]
+}

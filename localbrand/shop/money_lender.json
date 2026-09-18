@@ -1,0 +1,1108 @@
+{
+  "properties": {
+    "path": "brands/shop/money_lender",
+    "exclude": {
+      "generic": [
+        "^money lender$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "1st Heritage Credit",
+      "id": "1stheritagecredit-453289",
+      "locationSet": {
+        "include": [
+          "us-al.geojson",
+          "us-la.geojson",
+          "us-ms.geojson",
+          "us-sc.geojson",
+          "us-tn.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "1st Heritage Credit",
+        "brand:wikidata": "Q121084523",
+        "name": "1st Heritage Credit",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "ACE Cash Express",
+      "id": "acecashexpress-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "ace"
+      ],
+      "matchTags": [
+        "amenity/bureau_de_change"
+      ],
+      "tags": {
+        "brand": "ACE Cash Express",
+        "brand:wikidata": "Q24260962",
+        "name": "ACE Cash Express",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/acecashexpress/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/acecashexpress-f9c954.png",
+      "local_logo_path": "localbrand/logo/acecashexpress-f9c954.png",
+      "logos": {
+        "original": "https://graph.facebook.com/acecashexpress/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/acecashexpress-f9c954.png"
+      }
+    },
+    {
+      "displayName": "Advance America",
+      "id": "advanceamerica-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "office/financial"
+      ],
+      "tags": {
+        "brand": "Advance America",
+        "brand:wikidata": "Q4686044",
+        "name": "Advance America",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/AdvanceAmerica/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/advanceamerica-f9c954.jpg",
+      "local_logo_path": "localbrand/logo/advanceamerica-f9c954.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AdvanceAmerica/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/advanceamerica-f9c954.jpg"
+      }
+    },
+    {
+      "displayName": "Advance Financial",
+      "id": "advancefinancial-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "amenity/bank"
+      ],
+      "tags": {
+        "brand": "Advance Financial",
+        "brand:wikidata": "Q30596198",
+        "name": "Advance Financial",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/advancefinancial247/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/advancefinancial-f9c954.png",
+      "local_logo_path": "localbrand/logo/advancefinancial-f9c954.png",
+      "logos": {
+        "original": "https://graph.facebook.com/advancefinancial247/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/advancefinancial-f9c954.png"
+      }
+    },
+    {
+      "displayName": "Amscot",
+      "id": "amscot-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Amscot",
+        "brand:wikidata": "Q4748779",
+        "name": "Amscot",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Barko Loans",
+      "id": "barkoloans-f725f4",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Barko Loans",
+        "brand:wikidata": "Q118185897",
+        "name": "Barko Loans",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/Barko.co.za/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barkoloans-f725f4.jpg",
+      "local_logo_path": "localbrand/logo/barkoloans-f725f4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Barko.co.za/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barkoloans-f725f4.jpg"
+      }
+    },
+    {
+      "displayName": "California Check Cashing Stores",
+      "id": "californiacheckcashingstores-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "california check cashing"
+      ],
+      "tags": {
+        "brand": "California Check Cashing Stores",
+        "brand:wikidata": "Q64390932",
+        "name": "California Check Cashing Stores",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Cash 4 You",
+      "id": "cash4you-06fadc",
+      "locationSet": {
+        "include": [
+          "ca-on.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Cash 4 You",
+        "brand:wikidata": "Q102843806",
+        "name": "Cash 4 You",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Cash Credit",
+      "id": "cashcredit-937eaf",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Cash Credit",
+        "brand:wikidata": "Q115656743",
+        "name": "Cash Credit",
+        "name:bg": "Кеш Кредит",
+        "name:en": "Cash Credit",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/109818998490229/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cashcredit-937eaf.png",
+      "local_logo_path": "localbrand/logo/cashcredit-937eaf.png",
+      "logos": {
+        "original": "https://graph.facebook.com/109818998490229/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cashcredit-937eaf.png"
+      }
+    },
+    {
+      "displayName": "Cash Money",
+      "id": "cashmoney-d5f811",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Cash Money",
+        "brand:wikidata": "Q113252267",
+        "name": "Cash Money",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Cash Store",
+      "id": "cashstore-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Cash Store",
+        "brand:wikidata": "Q61943411",
+        "name": "Cash Store",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Cashco Financial",
+      "id": "cashcofinancial-d5f811",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Cashco Financial",
+        "brand:wikidata": "Q117314435",
+        "name": "Cashco Financial",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/cashco.fin/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cashcofinancial-d5f811.png",
+      "local_logo_path": "localbrand/logo/cashcofinancial-d5f811.png",
+      "logos": {
+        "original": "https://graph.facebook.com/cashco.fin/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cashcofinancial-d5f811.png"
+      }
+    },
+    {
+      "displayName": "CashMax",
+      "id": "cashmax-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "CashMax",
+        "brand:wikidata": "Q69365478",
+        "name": "CashMax",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Check 'n Go",
+      "id": "checkngo-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "check and go"
+      ],
+      "tags": {
+        "brand": "Check 'n Go",
+        "brand:wikidata": "Q96067540",
+        "name": "Check 'n Go",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/checkngo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/checkngo-f9c954.png",
+      "local_logo_path": "localbrand/logo/checkngo-f9c954.png",
+      "logos": {
+        "original": "https://graph.facebook.com/checkngo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/checkngo-f9c954.png"
+      }
+    },
+    {
+      "displayName": "Check Into Cash",
+      "id": "checkintocash-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Check Into Cash",
+        "brand:wikidata": "Q16961246",
+        "name": "Check Into Cash",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/checkintocash/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/checkintocash-f9c954.jpg",
+      "local_logo_path": "localbrand/logo/checkintocash-f9c954.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/checkintocash/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/checkintocash-f9c954.jpg"
+      }
+    },
+    {
+      "displayName": "CheckSmart",
+      "id": "checksmart-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "alt_name": "Check$mart",
+        "brand": "CheckSmart",
+        "brand:wikidata": "Q65640213",
+        "name": "CheckSmart",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/166958136649293/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/checksmart-f9c954.jpg",
+      "local_logo_path": "localbrand/logo/checksmart-f9c954.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/166958136649293/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/checksmart-f9c954.jpg"
+      }
+    },
+    {
+      "displayName": "Credissimo",
+      "id": "credissimo-937eaf",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Credissimo",
+        "brand:wikidata": "Q115656700",
+        "name": "Credissimo",
+        "name:bg": "Кредисимо",
+        "name:en": "Credissimo",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/credissimo.bg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/credissimo-937eaf.png",
+      "local_logo_path": "localbrand/logo/credissimo-937eaf.png",
+      "logos": {
+        "original": "https://graph.facebook.com/credissimo.bg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/credissimo-937eaf.png"
+      }
+    },
+    {
+      "displayName": "Crefisa",
+      "id": "crefisa-46cd18",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Crefisa",
+        "brand:wikidata": "Q10261396",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/crefisa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crefisa-46cd18.jpg",
+      "local_logo_path": "localbrand/logo/crefisa-46cd18.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/crefisa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crefisa-46cd18.jpg"
+      }
+    },
+    {
+      "displayName": "EasyCredit",
+      "id": "easycredit-937eaf",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "matchNames": [
+        "изи кредит"
+      ],
+      "tags": {
+        "brand": "EasyCredit",
+        "brand:wikidata": "Q111762111",
+        "name": "EasyCredit",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "easyfinancial",
+      "id": "easyfinancial-d5f811",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "easyfinancial",
+        "brand:wikidata": "Q130546243",
+        "name": "easyfinancial",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/easyfinancialServices/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easyfinancial-d5f811.jpg",
+      "local_logo_path": "localbrand/logo/easyfinancial-d5f811.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/easyfinancialServices/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easyfinancial-d5f811.jpg"
+      }
+    },
+    {
+      "displayName": "Fairstone Financial",
+      "id": "fairstonefinancial-d5f811",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "citifinancial",
+        "fairstone"
+      ],
+      "tags": {
+        "brand": "Fairstone Financial",
+        "brand:wikidata": "Q124035001",
+        "name": "Fairstone Financial",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Findomestic",
+      "id": "findomestic-a71b6e",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "matchTags": [
+        "amenity/bank"
+      ],
+      "tags": {
+        "brand": "Findomestic",
+        "brand:wikidata": "Q3745668",
+        "name": "Findomestic",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/FindomesticBancaSpa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/findomestic-a71b6e.png",
+      "local_logo_path": "localbrand/logo/findomestic-a71b6e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/FindomesticBancaSpa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/findomestic-a71b6e.png"
+      }
+    },
+    {
+      "displayName": "First Virginia",
+      "id": "firstvirginia-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "1st virginia"
+      ],
+      "tags": {
+        "brand": "First Virginia",
+        "brand:wikidata": "Q65640051",
+        "name": "First Virginia",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/First_Virginia_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/firstvirginia-f9c954.png",
+      "local_logo_path": "localbrand/logo/firstvirginia-f9c954.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/5/51/First_Virginia_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/firstvirginia-f9c954.png"
+      }
+    },
+    {
+      "displayName": "Kmf",
+      "id": "kmf-046e62",
+      "locationSet": {
+        "include": [
+          "kz"
+        ]
+      },
+      "tags": {
+        "brand": "Kmf",
+        "name": "Kmf",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Lendmark Financial Services",
+      "id": "lendmarkfinancialservices-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Lendmark Financial Services",
+        "brand:wikidata": "Q122584728",
+        "name": "Lendmark Financial Services",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Mariner Finance",
+      "id": "marinerfinance-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "office/financial"
+      ],
+      "tags": {
+        "brand": "Mariner Finance",
+        "brand:wikidata": "Q126372229",
+        "name": "Mariner Finance",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Midwest Title Loans",
+      "id": "midwesttitleloans-6b17f6",
+      "locationSet": {
+        "include": [
+          "us-il.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Midwest Title Loans",
+        "brand:wikidata": "Q123699224",
+        "name": "Midwest Title Loans",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Momento",
+      "id": "momento-937eaf",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Momento",
+        "name": "Momento",
+        "operator": "Пощенска банка",
+        "operator:wikidata": "Q7234083",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/PostbankBG/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/momento-937eaf.jpg",
+      "local_logo_path": "localbrand/logo/momento-937eaf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PostbankBG/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/momento-937eaf.jpg"
+      }
+    },
+    {
+      "displayName": "Money Mart",
+      "id": "moneymart-b33bc6",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Money Mart",
+        "brand:wikidata": "Q6899166",
+        "name": "Money Mart",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/moneymartusa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/moneymart-b33bc6.jpg",
+      "local_logo_path": "localbrand/logo/moneymart-b33bc6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/moneymartusa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/moneymart-b33bc6.jpg"
+      }
+    },
+    {
+      "displayName": "Moneytree",
+      "id": "moneytree-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Moneytree",
+        "brand:wikidata": "Q6899361",
+        "name": "Moneytree",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "My Credit",
+      "id": "mycredit-937eaf",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "My Credit",
+        "brand:wikidata": "Q140791638",
+        "name": "My Credit",
+        "name:bg": "Моят кредит",
+        "name:en": "My Credit",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/100063769261402/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mycredit-937eaf.jpg",
+      "local_logo_path": "localbrand/logo/mycredit-937eaf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/100063769261402/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mycredit-937eaf.jpg"
+      }
+    },
+    {
+      "displayName": "OneMain Financial",
+      "id": "onemainfinancial-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "onemain"
+      ],
+      "matchTags": [
+        "office/financial"
+      ],
+      "tags": {
+        "brand": "OneMain Financial",
+        "brand:wikidata": "Q28444592",
+        "name": "OneMain Financial",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Payomatic",
+      "id": "payomatic-060fd1",
+      "locationSet": {
+        "include": [
+          "us-ny.geojson"
+        ]
+      },
+      "matchTags": [
+        "amenity/bank",
+        "amenity/money_transfer",
+        "amenity/payment_centre",
+        "office/financial"
+      ],
+      "tags": {
+        "brand": "Payomatic",
+        "brand:wikidata": "Q48742899",
+        "name": "Payomatic",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/payomatic/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/payomatic-060fd1.jpg",
+      "local_logo_path": "localbrand/logo/payomatic-060fd1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/payomatic/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/payomatic-060fd1.jpg"
+      }
+    },
+    {
+      "displayName": "PLS",
+      "id": "pls-6d6b33",
+      "locationSet": {
+        "include": [
+          "us-az.geojson",
+          "us-ca.geojson",
+          "us-il.geojson",
+          "us-in.geojson",
+          "us-ky.geojson",
+          "us-ma.geojson",
+          "us-nc.geojson",
+          "us-ny.geojson",
+          "us-oh.geojson",
+          "us-ok.geojson",
+          "us-tx.geojson",
+          "us-wi.geojson"
+        ]
+      },
+      "matchNames": [
+        "pls check cashers",
+        "pls check cashing"
+      ],
+      "matchTags": [
+        "amenity/money_transfer"
+      ],
+      "tags": {
+        "brand": "PLS Financial Services",
+        "brand:wikidata": "Q126717580",
+        "name": "PLS",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/PLS247/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pls-6d6b33.jpg",
+      "local_logo_path": "localbrand/logo/pls-6d6b33.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PLS247/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pls-6d6b33.jpg"
+      }
+    },
+    {
+      "displayName": "Radiowealth Finance",
+      "id": "radiowealthfinance-f85e7b",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "brand": "Radiowealth Finance",
+        "brand:en": "Radiowealth Finance",
+        "brand:wikidata": "Q94572570",
+        "name": "Radiowealth Finance",
+        "name:en": "Radiowealth Finance",
+        "official_name": "Radiowealth Finance Company",
+        "shop": "money_lender",
+        "short_name": "RFC"
+      }
+    },
+    {
+      "displayName": "Regional Finance",
+      "id": "regionalfinance-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Regional Finance",
+        "brand:wikidata": "Q122519880",
+        "name": "Regional Finance",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/RegionalFinanceHome/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/regionalfinance-f9c954.png",
+      "local_logo_path": "localbrand/logo/regionalfinance-f9c954.png",
+      "logos": {
+        "original": "https://graph.facebook.com/RegionalFinanceHome/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/regionalfinance-f9c954.png"
+      }
+    },
+    {
+      "displayName": "SKOK Śląsk",
+      "id": "skokslask-55f726",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "SKOK Śląsk",
+        "brand:wikidata": "Q132559963",
+        "name": "SKOK Śląsk",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/SKOKSLASK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skokslask-55f726.jpg",
+      "local_logo_path": "localbrand/logo/skokslask-55f726.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SKOKSLASK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skokslask-55f726.jpg"
+      }
+    },
+    {
+      "displayName": "Sun Loan",
+      "id": "sunloan-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "office/estate_agent"
+      ],
+      "tags": {
+        "brand": "Sun Loan",
+        "brand:wikidata": "Q118725658",
+        "name": "Sun Loan",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Taytay sa Kauswagan",
+      "id": "taytaysakauswagan-f85e7b",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "brand": "Taytay sa Kauswagan",
+        "brand:wikidata": "Q72361196",
+        "name": "Taytay sa Kauswagan",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "TitleMax",
+      "id": "titlemax-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "TitleMax",
+        "brand:wikidata": "Q7810030",
+        "name": "TitleMax",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/TitleMaxOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/titlemax-f9c954.jpg",
+      "local_logo_path": "localbrand/logo/titlemax-f9c954.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TitleMaxOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/titlemax-f9c954.jpg"
+      }
+    },
+    {
+      "displayName": "Tower Loan",
+      "id": "towerloan-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Tower Loan",
+        "brand:wikidata": "Q126195732",
+        "name": "Tower Loan",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Viva Credit",
+      "id": "vivacredit-937eaf",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Viva Credit",
+        "brand:wikidata": "Q115656774",
+        "name": "Viva Credit",
+        "name:bg": "Вива Кредит",
+        "name:en": "Viva Credit",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "World Finance",
+      "id": "worldfinance-f9c954",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "World Finance",
+        "brand:wikidata": "Q3569971",
+        "name": "World Finance",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Акс Финанс",
+      "id": "f3fdfe-cbb345",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Акс Финанс",
+        "name": "Акс Финанс",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Алфиа кредит",
+      "id": "allphiacredit-937eaf",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Алфиа кредит",
+        "brand:wikidata": "Q140791638",
+        "name": "Алфиа кредит",
+        "name:bg": "Алфиа кредит",
+        "name:en": "Allphia Credit",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://graph.facebook.com/100063769261402/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allphiacredit-937eaf.jpg",
+      "local_logo_path": "localbrand/logo/allphiacredit-937eaf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/100063769261402/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allphiacredit-937eaf.jpg"
+      }
+    },
+    {
+      "displayName": "Быстроденьги",
+      "id": "72ac10-cbb345",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Быстроденьги",
+        "name": "Быстроденьги",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Быстрый заём",
+      "id": "6d17be-cbb345",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Быстрый заём",
+        "name": "Быстрый заём",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Займер",
+      "id": "31fa77-046e62",
+      "locationSet": {
+        "include": [
+          "kz"
+        ]
+      },
+      "tags": {
+        "brand": "Займер",
+        "name": "Займер",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Касса Взаимопомощи",
+      "id": "eaa927-cbb345",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Касса Взаимопомощи",
+        "name": "Касса Взаимопомощи",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Отличные наличные",
+      "id": "3b0369-cbb345",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Отличные наличные",
+        "name": "Отличные наличные",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "Финтерра",
+      "id": "c678a7-cbb345",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Финтерра",
+        "name": "Финтерра",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "ШвидкоГроші",
+      "id": "733def-085345",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "tags": {
+        "brand": "ШвидкоГроші",
+        "brand:wikidata": "Q108738994",
+        "name": "ШвидкоГроші",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "ბერმელი",
+      "id": "bermeli-2ed877",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "ბერმელი",
+        "brand:en": "Bermeli",
+        "brand:ka": "ბერმელი",
+        "brand:ru": "Бермели",
+        "name": "ბერმელი",
+        "name:en": "Bermeli",
+        "name:ka": "ბერმელი",
+        "name:ru": "Бермели",
+        "operator": "შპს მისო „ბერმელი“",
+        "operator:ka": "შპს მისო „ბერმელი“",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "アコム",
+      "id": "acom-9de2dd",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "アコム",
+        "brand:en": "Acom",
+        "brand:ja": "アコム",
+        "brand:wikidata": "Q4674469",
+        "name": "アコム",
+        "name:en": "Acom",
+        "name:ja": "アコム",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Acom_company_logos.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/acom-9de2dd.svg",
+      "local_logo_path": "localbrand/logo/acom-9de2dd.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/4/41/Acom_company_logos.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/acom-9de2dd.svg"
+      }
+    },
+    {
+      "displayName": "プロミス",
+      "id": "promise-9de2dd",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "プロミス",
+        "brand:en": "Promise",
+        "brand:ja": "プロミス",
+        "brand:wikidata": "Q11243682",
+        "name": "プロミス",
+        "name:en": "Promise",
+        "name:ja": "プロミス",
+        "official_name": "SMBCコンシューマーファイナンス",
+        "official_name:en": "SMBC Consumer Finance",
+        "shop": "money_lender"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/APA00001_bnr_smbcBnr.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/promise-9de2dd.jpg",
+      "local_logo_path": "localbrand/logo/promise-9de2dd.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/9/91/APA00001_bnr_smbcBnr.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/promise-9de2dd.jpg"
+      }
+    }
+  ]
+}

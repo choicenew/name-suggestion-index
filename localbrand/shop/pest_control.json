@@ -1,0 +1,57 @@
+{
+  "properties": {
+    "path": "brands/shop/pest_control",
+    "exclude": {
+      "generic": [
+        "^pest control$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Orkin",
+      "id": "orkin-838c23",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Orkin",
+        "brand:wikidata": "Q7102943",
+        "name": "Orkin",
+        "shop": "pest_control"
+      },
+      "original_logo_url": "https://graph.facebook.com/106504761580/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orkin-838c23.jpg",
+      "local_logo_path": "localbrand/logo/orkin-838c23.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/106504761580/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orkin-838c23.jpg"
+      }
+    },
+    {
+      "displayName": "Truly Nolen",
+      "id": "trulynolen-768c80",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Truly Nolen",
+        "brand:wikidata": "Q7847671",
+        "name": "Truly Nolen",
+        "shop": "pest_control"
+      },
+      "original_logo_url": "https://graph.facebook.com/TrulyNolen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/trulynolen-768c80.jpg",
+      "local_logo_path": "localbrand/logo/trulynolen-768c80.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TrulyNolen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/trulynolen-768c80.jpg"
+      }
+    }
+  ]
+}

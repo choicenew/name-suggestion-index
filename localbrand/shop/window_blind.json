@@ -1,0 +1,199 @@
+{
+  "properties": {
+    "path": "brands/shop/window_blind",
+    "exclude": {
+      "generic": [
+        "^window blind$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Blinds to Go",
+      "id": "blindstogo-d1c49c",
+      "locationSet": {
+        "include": [
+          "ca-on.geojson",
+          "us-ct.geojson",
+          "us-de.geojson",
+          "us-ma.geojson",
+          "us-md.geojson",
+          "us-nj.geojson",
+          "us-ny.geojson",
+          "us-pa.geojson",
+          "us-va.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Blinds to Go",
+        "brand:wikidata": "Q123409913",
+        "name": "Blinds to Go",
+        "shop": "window_blind"
+      },
+      "original_logo_url": "https://graph.facebook.com/blindstogo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blindstogo-d1c49c.jpg",
+      "local_logo_path": "localbrand/logo/blindstogo-d1c49c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/blindstogo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blindstogo-d1c49c.jpg"
+      }
+    },
+    {
+      "displayName": "Hunter Douglas Gallery",
+      "id": "hunterdouglasgallery-5ccc57",
+      "locationSet": {
+        "include": [
+          "ca",
+          "do",
+          "us"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Hunter Douglas",
+        "brand:wikidata": "Q2101764",
+        "name": "Hunter Douglas Gallery",
+        "shop": "window_blind"
+      },
+      "original_logo_url": "https://graph.facebook.com/HunterDouglas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hunterdouglasgallery-5ccc57.jpg",
+      "local_logo_path": "localbrand/logo/hunterdouglasgallery-5ccc57.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HunterDouglas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hunterdouglasgallery-5ccc57.jpg"
+      }
+    },
+    {
+      "displayName": "JalouCity",
+      "id": "jaloucity-197183",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "JalouCity",
+        "brand:wikidata": "Q113686657",
+        "name": "JalouCity",
+        "shop": "window_blind"
+      },
+      "original_logo_url": "https://graph.facebook.com/JalouCity/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jaloucity-197183.jpg",
+      "local_logo_path": "localbrand/logo/jaloucity-197183.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JalouCity/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jaloucity-197183.jpg"
+      }
+    },
+    {
+      "displayName": "Kamax",
+      "id": "kamax-62c6fd",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Kamax",
+        "brand:wikidata": "Q121912813",
+        "name": "Kamax",
+        "name:bg": "Камакс",
+        "name:en": "Kamax",
+        "shop": "window_blind"
+      },
+      "original_logo_url": "https://graph.facebook.com/kamax/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kamax-62c6fd.png",
+      "local_logo_path": "localbrand/logo/kamax-62c6fd.png",
+      "logos": {
+        "original": "https://graph.facebook.com/kamax/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kamax-62c6fd.png"
+      }
+    },
+    {
+      "displayName": "Le Marché du Store",
+      "id": "lemarchedustore-4eac4b",
+      "locationSet": {
+        "include": [
+          "ca-qc.geojson"
+        ]
+      },
+      "matchNames": [
+        "blinds to go"
+      ],
+      "tags": {
+        "brand": "Le Marché du Store",
+        "brand:wikidata": "Q123409913",
+        "name": "Le Marché du Store",
+        "shop": "window_blind"
+      },
+      "original_logo_url": "https://graph.facebook.com/blindstogo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lemarchedustore-4eac4b.jpg",
+      "local_logo_path": "localbrand/logo/lemarchedustore-4eac4b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/blindstogo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lemarchedustore-4eac4b.jpg"
+      }
+    },
+    {
+      "displayName": "Monsieur Store",
+      "id": "monsieurstore-f9190c",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Monsieur Store",
+        "brand:wikidata": "Q113686692",
+        "name": "Monsieur Store",
+        "shop": "window_blind"
+      },
+      "original_logo_url": "https://graph.facebook.com/monsieurstore.france/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monsieurstore-f9190c.jpg",
+      "local_logo_path": "localbrand/logo/monsieurstore-f9190c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/monsieurstore.france/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monsieurstore-f9190c.jpg"
+      }
+    },
+    {
+      "displayName": "Solis",
+      "id": "solis-62c6fd",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Solis",
+        "brand:wikidata": "Q138318333",
+        "name": "Solis",
+        "shop": "window_blind"
+      }
+    },
+    {
+      "displayName": "The Shade Store",
+      "id": "theshadestore-b52314",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "The Shade Store",
+        "brand:wikidata": "Q110706284",
+        "name": "The Shade Store",
+        "shop": "window_blind"
+      },
+      "original_logo_url": "https://graph.facebook.com/TheShadeStore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theshadestore-b52314.png",
+      "local_logo_path": "localbrand/logo/theshadestore-b52314.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TheShadeStore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theshadestore-b52314.png"
+      }
+    }
+  ]
+}

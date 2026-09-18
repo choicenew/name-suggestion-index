@@ -1,0 +1,288 @@
+{
+  "properties": {
+    "path": "brands/shop/plant_hire",
+    "exclude": {
+      "generic": [
+        "^plant hire$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Ahern Rentals",
+      "id": "ahernrentals-a0a976",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Ahern Rentals",
+        "brand:wikidata": "Q114487657",
+        "name": "Ahern Rentals",
+        "shop": "plant_hire"
+      }
+    },
+    {
+      "displayName": "Briggs Equipment",
+      "id": "briggsequipment-a0a976",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Briggs Equipment",
+        "brand:wikidata": "Q114478098",
+        "name": "Briggs Equipment",
+        "shop": "plant_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/BriggsIndustrialSolutions/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/briggsequipment-a0a976.jpg",
+      "local_logo_path": "localbrand/logo/briggsequipment-a0a976.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BriggsIndustrialSolutions/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/briggsequipment-a0a976.jpg"
+      }
+    },
+    {
+      "displayName": "Equipment Depot",
+      "id": "equipmentdepot-a0a976",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Equipment Depot",
+        "brand:wikidata": "Q114478386",
+        "name": "Equipment Depot",
+        "shop": "plant_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/equipmentdepot/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/equipmentdepot-a0a976.jpg",
+      "local_logo_path": "localbrand/logo/equipmentdepot-a0a976.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/equipmentdepot/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/equipmentdepot-a0a976.jpg"
+      }
+    },
+    {
+      "displayName": "H&E Equipment Services",
+      "id": "handeequipmentservices-a0a976",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "H&E Equipment Services",
+        "brand:wikidata": "Q114485951",
+        "name": "H&E Equipment Services",
+        "shop": "plant_hire"
+      }
+    },
+    {
+      "displayName": "Herc Rentals",
+      "id": "hercrentals-1e883b",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/trade"
+      ],
+      "tags": {
+        "brand": "Herc Rentals",
+        "brand:wikidata": "Q114487859",
+        "name": "Herc Rentals",
+        "shop": "plant_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/HercRentalsInc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hercrentals-1e883b.jpg",
+      "local_logo_path": "localbrand/logo/hercrentals-1e883b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HercRentalsInc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hercrentals-1e883b.jpg"
+      }
+    },
+    {
+      "displayName": "Hirepool",
+      "id": "hirepool-13c9d0",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Hirepool",
+        "brand:wikidata": "Q114352983",
+        "name": "Hirepool",
+        "shop": "plant_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/hirepool/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hirepool-13c9d0.jpg",
+      "local_logo_path": "localbrand/logo/hirepool-13c9d0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hirepool/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hirepool-13c9d0.jpg"
+      }
+    },
+    {
+      "displayName": "Kennards Hire",
+      "id": "kennardshire-cc85b7",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Kennards Hire",
+        "brand:wikidata": "Q63557330",
+        "name": "Kennards Hire",
+        "shop": "plant_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/KennardsHire/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kennardshire-cc85b7.jpg",
+      "local_logo_path": "localbrand/logo/kennardshire-cc85b7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KennardsHire/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kennardshire-cc85b7.jpg"
+      }
+    },
+    {
+      "displayName": "Maxim Crane Works",
+      "id": "maximcraneworks-a0a976",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Maxim Crane Works",
+        "brand:wikidata": "Q114486980",
+        "name": "Maxim Crane Works",
+        "shop": "plant_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/maximcraneworks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maximcraneworks-a0a976.jpg",
+      "local_logo_path": "localbrand/logo/maximcraneworks-a0a976.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/maximcraneworks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maximcraneworks-a0a976.jpg"
+      }
+    },
+    {
+      "displayName": "Star Rentals",
+      "id": "starrentals-241a4b",
+      "locationSet": {
+        "include": [
+          "us-or.geojson",
+          "us-wa.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Star Rentals",
+        "brand:wikidata": "Q114487866",
+        "name": "Star Rentals",
+        "shop": "plant_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/378975402113910/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/starrentals-241a4b.jpg",
+      "local_logo_path": "localbrand/logo/starrentals-241a4b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/378975402113910/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/starrentals-241a4b.jpg"
+      }
+    },
+    {
+      "displayName": "Sunbelt Rentals",
+      "id": "sunbeltrentals-a70a22",
+      "locationSet": {
+        "include": [
+          "ca",
+          "de",
+          "gb",
+          "ie",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Sunbelt Rentals",
+        "brand:wikidata": "Q102396721",
+        "name": "Sunbelt Rentals",
+        "shop": "plant_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/SunbeltRentals/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sunbeltrentals-a70a22.png",
+      "local_logo_path": "localbrand/logo/sunbeltrentals-a70a22.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SunbeltRentals/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sunbeltrentals-a70a22.png"
+      }
+    },
+    {
+      "displayName": "Sunstate Equipment",
+      "id": "sunstateequipment-a0a976",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Sunstate Equipment",
+        "brand:wikidata": "Q114487875",
+        "name": "Sunstate Equipment",
+        "shop": "plant_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/sunstatecorporate/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sunstateequipment-a0a976.jpg",
+      "local_logo_path": "localbrand/logo/sunstateequipment-a0a976.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sunstatecorporate/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sunstateequipment-a0a976.jpg"
+      }
+    },
+    {
+      "displayName": "United Rentals",
+      "id": "unitedrentals-1e883b",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "united rental"
+      ],
+      "matchTags": [
+        "amenity/tool_rental",
+        "shop/doityourself",
+        "shop/hardware",
+        "shop/trade"
+      ],
+      "tags": {
+        "brand": "United Rentals",
+        "brand:wikidata": "Q7889101",
+        "name": "United Rentals",
+        "shop": "plant_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/UnitedRentals/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unitedrentals-1e883b.jpg",
+      "local_logo_path": "localbrand/logo/unitedrentals-1e883b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/UnitedRentals/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unitedrentals-1e883b.jpg"
+      }
+    }
+  ]
+}

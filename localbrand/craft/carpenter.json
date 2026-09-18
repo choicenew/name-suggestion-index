@@ -1,0 +1,75 @@
+{
+  "properties": {
+    "path": "brands/craft/carpenter",
+    "exclude": {
+      "generic": [
+        "^(atelier de menuiserie|carpenter|ebénisterie|menui?si?erie|snickare)$"
+      ],
+      "named": [
+        "^(木匠(行)?|木器作)$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Akena",
+      "id": "akena-9a639d",
+      "locationSet": {
+        "include": [
+          "be",
+          "es",
+          "fx"
+        ]
+      },
+      "matchNames": [
+        "akena vérandas"
+      ],
+      "matchTags": [
+        "craft/sun_protection",
+        "craft/window_construction"
+      ],
+      "tags": {
+        "brand": "Akena",
+        "brand:wikidata": "Q107089744",
+        "craft": "carpenter",
+        "name": "Akena"
+      },
+      "original_logo_url": "https://graph.facebook.com/akena.verandas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/akena-9a639d.jpg",
+      "local_logo_path": "localbrand/logo/akena-9a639d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/akena.verandas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/akena-9a639d.jpg"
+      }
+    },
+    {
+      "displayName": "プロタイムズ",
+      "id": "protimes-01a309",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchTags": [
+        "craft/painter"
+      ],
+      "tags": {
+        "brand": "プロタイムズ",
+        "brand:en": "Protimes",
+        "brand:ja": "プロタイムズ",
+        "brand:wikidata": "Q96155337",
+        "craft": "carpenter",
+        "name": "プロタイムズ",
+        "name:en": "Protimes",
+        "name:ja": "プロタイムズ"
+      },
+      "original_logo_url": "https://graph.facebook.com/protimesjp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/protimes-01a309.png",
+      "local_logo_path": "localbrand/logo/protimes-01a309.png",
+      "logos": {
+        "original": "https://graph.facebook.com/protimesjp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/protimes-01a309.png"
+      }
+    }
+  ]
+}

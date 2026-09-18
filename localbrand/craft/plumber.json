@@ -1,0 +1,105 @@
+{
+  "properties": {
+    "path": "brands/craft/plumber",
+    "exclude": {
+      "generic": [
+        "^plumber$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Bademiljø",
+      "id": "bademiljo-8a50ba",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Bademiljø",
+        "brand:wikidata": "Q129941627",
+        "craft": "plumber",
+        "name": "Bademiljø"
+      },
+      "original_logo_url": "https://graph.facebook.com/bademiljo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bademiljo-8a50ba.jpg",
+      "local_logo_path": "localbrand/logo/bademiljo-8a50ba.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bademiljo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bademiljo-8a50ba.jpg"
+      }
+    },
+    {
+      "displayName": "Comfort",
+      "id": "comfort-8a50ba",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Comfort",
+        "craft": "plumber",
+        "name": "Comfort"
+      }
+    },
+    {
+      "displayName": "Mr. Rooter",
+      "id": "mrrooter-a0d14d",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "alt_name": "Mister Rooter",
+        "brand": "Mr. Rooter",
+        "brand:wikidata": "Q6929145",
+        "craft": "plumber",
+        "name": "Mr. Rooter",
+        "official_name": "Mr. Rooter Plumbing"
+      },
+      "original_logo_url": "https://graph.facebook.com/MrRooterLLC/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrrooter-a0d14d.jpg",
+      "local_logo_path": "localbrand/logo/mrrooter-a0d14d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MrRooterLLC/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrrooter-a0d14d.jpg"
+      }
+    },
+    {
+      "displayName": "Varme & Bad",
+      "id": "varmeandbad-8a50ba",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Varme & Bad",
+        "craft": "plumber",
+        "name": "Varme & Bad"
+      }
+    }
+  ]
+}

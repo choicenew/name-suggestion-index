@@ -1,0 +1,168 @@
+{
+  "properties": {
+    "path": "brands/amenity/music_school",
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^(music school|école de musique|музыкальная школа)$",
+        "^musikschule$",
+        "^музична школа$",
+        "^琴行$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Bach to Rock",
+      "id": "bachtorock-342afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "b2r",
+        "bach 2 rock"
+      ],
+      "matchTags": [
+        "amenity/school"
+      ],
+      "tags": {
+        "amenity": "music_school",
+        "brand": "Bach to Rock",
+        "brand:wikidata": "Q132825628",
+        "name": "Bach to Rock"
+      },
+      "original_logo_url": "https://graph.facebook.com/BachToRock/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bachtorock-342afb.jpg",
+      "local_logo_path": "localbrand/logo/bachtorock-342afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BachToRock/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bachtorock-342afb.jpg"
+      }
+    },
+    {
+      "displayName": "School of Rock",
+      "id": "schoolofrock-6dbeaf",
+      "locationSet": {
+        "include": [
+          "ar",
+          "au",
+          "br",
+          "ca",
+          "cl",
+          "co",
+          "es",
+          "ie",
+          "mx",
+          "pe",
+          "ph",
+          "pt",
+          "py",
+          "us",
+          "za"
+        ]
+      },
+      "matchTags": [
+        "amenity/school"
+      ],
+      "tags": {
+        "amenity": "music_school",
+        "brand": "School of Rock",
+        "brand:wikidata": "Q7756376",
+        "name": "School of Rock"
+      },
+      "original_logo_url": "https://graph.facebook.com/SchoolofRockUSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/schoolofrock-6dbeaf.png",
+      "local_logo_path": "localbrand/logo/schoolofrock-6dbeaf.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SchoolofRockUSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/schoolofrock-6dbeaf.png"
+      }
+    },
+    {
+      "displayName": "Yamaha音樂教室",
+      "id": "yamahamusicschool-fc8739",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "amenity": "music_school",
+        "brand": "Yamaha音樂教室",
+        "brand:en": "Yamaha Music School",
+        "brand:ja": "ヤマハ音楽教室",
+        "brand:wikidata": "Q90327852",
+        "brand:zh": "Yamaha音樂教室",
+        "name": "Yamaha音樂教室",
+        "name:en": "Yamaha Music School",
+        "name:ja": "ヤマハ音楽教室",
+        "name:zh": "Yamaha音樂教室"
+      },
+      "original_logo_url": "https://graph.facebook.com/yamaha.ongakukyoushitsu/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yamahamusicschool-fc8739.jpg",
+      "local_logo_path": "localbrand/logo/yamahamusicschool-fc8739.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/yamaha.ongakukyoushitsu/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yamahamusicschool-fc8739.jpg"
+      }
+    },
+    {
+      "displayName": "ヤマハ音楽教室",
+      "id": "yamahamusicschool-dc9529",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "music_school",
+        "brand": "ヤマハ音楽教室",
+        "brand:en": "Yamaha Music School",
+        "brand:ja": "ヤマハ音楽教室",
+        "brand:ja-Latn": "Yamaha Ongaku Kyōshitsu",
+        "brand:wikidata": "Q90327852",
+        "name": "ヤマハ音楽教室",
+        "name:en": "Yamaha Music School",
+        "name:ja": "ヤマハ音楽教室",
+        "name:ja-Latn": "Yamaha Ongaku Kyōshitsu"
+      },
+      "original_logo_url": "https://graph.facebook.com/yamaha.ongakukyoushitsu/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yamahamusicschool-dc9529.jpg",
+      "local_logo_path": "localbrand/logo/yamahamusicschool-dc9529.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/yamaha.ongakukyoushitsu/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yamahamusicschool-dc9529.jpg"
+      }
+    },
+    {
+      "displayName": "搖滾教室",
+      "id": "schoolofrock-fc8739",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "amenity": "music_school",
+        "brand": "搖滾教室",
+        "brand:en": "School of Rock",
+        "brand:wikidata": "Q7756376",
+        "brand:zh": "搖滾教室",
+        "name": "搖滾教室",
+        "name:en": "School of Rock",
+        "name:zh": "搖滾教室"
+      },
+      "original_logo_url": "https://graph.facebook.com/SchoolofRockUSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/schoolofrock-fc8739.png",
+      "local_logo_path": "localbrand/logo/schoolofrock-fc8739.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SchoolofRockUSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/schoolofrock-fc8739.png"
+      }
+    }
+  ]
+}

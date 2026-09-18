@@ -1,0 +1,3579 @@
+{
+  "properties": {
+    "path": "brands/shop/books",
+    "exclude": {
+      "generic": [
+        "^(books|księgarnia|libro)$",
+        "^librer[ií]a$",
+        "^книги$"
+      ],
+      "named": [
+        "^lot 1$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Akademibokhandeln",
+      "id": "akademibokhandeln-9645e8",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Akademibokhandeln",
+        "brand:wikidata": "Q10403918",
+        "name": "Akademibokhandeln",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/Akademibokhandeln/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/akademibokhandeln-9645e8.jpg",
+      "local_logo_path": "localbrand/logo/akademibokhandeln-9645e8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Akademibokhandeln/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/akademibokhandeln-9645e8.jpg"
+      }
+    },
+    {
+      "displayName": "Akateeminen Kirjakauppa",
+      "id": "akateeminenkirjakauppa-0c91f3",
+      "locationSet": {
+        "include": [
+          "fi"
+        ]
+      },
+      "tags": {
+        "brand": "Akateeminen Kirjakauppa",
+        "brand:wikidata": "Q10403942",
+        "name": "Akateeminen Kirjakauppa",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/akateeminenkirjakauppa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/akateeminenkirjakauppa-0c91f3.jpg",
+      "local_logo_path": "localbrand/logo/akateeminenkirjakauppa-0c91f3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/akateeminenkirjakauppa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/akateeminenkirjakauppa-0c91f3.jpg"
+      }
+    },
+    {
+      "displayName": "AKO",
+      "id": "ako-1267b5",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "AKO",
+        "brand:wikidata": "Q2159963",
+        "name": "AKO",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Alpha Buchhandlung",
+      "id": "alphabuchhandlung-65e1d5",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Alpha Buchhandlung",
+        "brand:wikidata": "Q294493",
+        "name": "Alpha Buchhandlung",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/AlphaBuch.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alphabuchhandlung-65e1d5.jpg",
+      "local_logo_path": "localbrand/logo/alphabuchhandlung-65e1d5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AlphaBuch.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alphabuchhandlung-65e1d5.jpg"
+      }
+    },
+    {
+      "displayName": "Amazon Books",
+      "id": "amazonbooks-1bd7b6",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Amazon Books",
+        "brand:wikidata": "Q22906322",
+        "name": "Amazon Books",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/Amazon.comBooks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amazonbooks-1bd7b6.jpg",
+      "local_logo_path": "localbrand/logo/amazonbooks-1bd7b6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Amazon.comBooks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amazonbooks-1bd7b6.jpg"
+      }
+    },
+    {
+      "displayName": "Ark bokhandel",
+      "id": "ark-ed60d1",
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Ark bokhandel",
+        "brand:wikidata": "Q11958706",
+        "name": "Ark",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Asia Books",
+      "id": "asiabooks-06b756",
+      "locationSet": {
+        "include": [
+          "th"
+        ]
+      },
+      "tags": {
+        "brand": "Asia Books",
+        "brand:wikidata": "Q4806347",
+        "name": "Asia Books",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/asiabooksofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/asiabooks-06b756.jpg",
+      "local_logo_path": "localbrand/logo/asiabooks-06b756.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/asiabooksofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/asiabooks-06b756.jpg"
+      }
+    },
+    {
+      "displayName": "Bargain Books",
+      "id": "bargainbooks-8d3b5b",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Bargain Books",
+        "brand:wikidata": "Q116741024",
+        "name": "Bargain Books",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/BargainbooksSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bargainbooks-8d3b5b.jpg",
+      "local_logo_path": "localbrand/logo/bargainbooks-8d3b5b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BargainbooksSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bargainbooks-8d3b5b.jpg"
+      }
+    },
+    {
+      "displayName": "Barnes & Noble",
+      "id": "barnesandnoble-1bd7b6",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Barnes & Noble",
+        "brand:wikidata": "Q795454",
+        "name": "Barnes & Noble",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/barnesandnoble/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barnesandnoble-1bd7b6.jpg",
+      "local_logo_path": "localbrand/logo/barnesandnoble-1bd7b6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/barnesandnoble/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barnesandnoble-1bd7b6.jpg"
+      }
+    },
+    {
+      "displayName": "Barnes & Noble College",
+      "id": "barnesandnoblecollege-1bd7b6",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "barnes & noble university stores"
+      ],
+      "tags": {
+        "brand": "Barnes & Noble College",
+        "brand:wikidata": "Q4861508",
+        "name": "Barnes & Noble College",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/BNcollege/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barnesandnoblecollege-1bd7b6.jpg",
+      "local_logo_path": "localbrand/logo/barnesandnoblecollege-1bd7b6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BNcollege/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barnesandnoblecollege-1bd7b6.jpg"
+      }
+    },
+    {
+      "displayName": "Bertrand",
+      "id": "bertrand-817210",
+      "locationSet": {
+        "include": [
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "Bertrand",
+        "brand:wikidata": "Q1866547",
+        "name": "Bertrand",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/bertrandlivreiros/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bertrand-817210.png",
+      "local_logo_path": "localbrand/logo/bertrand-817210.png",
+      "logos": {
+        "original": "https://graph.facebook.com/bertrandlivreiros/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bertrand-817210.png"
+      }
+    },
+    {
+      "displayName": "Boekenvoordeel",
+      "id": "boekenvoordeel-1267b5",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Boekenvoordeel",
+        "brand:wikidata": "Q3345649",
+        "name": "Boekenvoordeel",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/BoekenVoordeel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boekenvoordeel-1267b5.jpg",
+      "local_logo_path": "localbrand/logo/boekenvoordeel-1267b5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BoekenVoordeel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boekenvoordeel-1267b5.jpg"
+      }
+    },
+    {
+      "displayName": "Bog & idé",
+      "id": "bogandide-d03d88",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "Bog & idé",
+        "brand:wikidata": "Q12303981",
+        "name": "Bog & idé",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/Bogide/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bogandide-d03d88.jpg",
+      "local_logo_path": "localbrand/logo/bogandide-d03d88.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Bogide/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bogandide-d03d88.jpg"
+      }
+    },
+    {
+      "displayName": "Bonito",
+      "id": "bonito-0c5adb",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Bonito",
+        "brand:wikidata": "Q113308389",
+        "name": "Bonito",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/bonitopl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bonito-0c5adb.jpg",
+      "local_logo_path": "localbrand/logo/bonito-0c5adb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bonitopl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bonito-0c5adb.jpg"
+      }
+    },
+    {
+      "displayName": "Books-A-Million",
+      "id": "booksamillion-1bd7b6",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Books-A-Million",
+        "brand:wikidata": "Q4943266",
+        "name": "Books-A-Million",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/booksamillion/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/booksamillion-1bd7b6.jpg",
+      "local_logo_path": "localbrand/logo/booksamillion-1bd7b6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/booksamillion/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/booksamillion-1bd7b6.jpg"
+      }
+    },
+    {
+      "displayName": "Booktrading",
+      "id": "booktrading-eec251",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Booktrading",
+        "brand:wikidata": "Q124151521",
+        "name": "Booktrading",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/booktrading/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/booktrading-eec251.jpg",
+      "local_logo_path": "localbrand/logo/booktrading-eec251.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/booktrading/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/booktrading-eec251.jpg"
+      }
+    },
+    {
+      "displayName": "Bruna",
+      "id": "bruna-1267b5",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Bruna",
+        "brand:wikidata": "Q3317555",
+        "name": "Bruna",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/Brunawinkels/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bruna-1267b5.jpg",
+      "local_logo_path": "localbrand/logo/bruna-1267b5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Brunawinkels/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bruna-1267b5.jpg"
+      }
+    },
+    {
+      "displayName": "Bücher Pustet",
+      "id": "bucherpustet-65e1d5",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "pustet"
+      ],
+      "tags": {
+        "brand": "Bücher Pustet",
+        "brand:wikidata": "Q1461605",
+        "name": "Bücher Pustet",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/pustet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bucherpustet-65e1d5.jpg",
+      "local_logo_path": "localbrand/logo/bucherpustet-65e1d5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pustet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bucherpustet-65e1d5.jpg"
+      }
+    },
+    {
+      "displayName": "Buchhandlung Walther König",
+      "id": "buchhandlungwaltherkonig-dc1b83",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "de",
+          "fx",
+          "gb-eng",
+          "it",
+          "nl"
+        ]
+      },
+      "matchNames": [
+        "buchhandlung könig",
+        "könig",
+        "walther könig"
+      ],
+      "tags": {
+        "brand": "Buchhandlung Walther König",
+        "brand:wikidata": "Q998441",
+        "name": "Buchhandlung Walther König",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/BuchhandlungWaltherKoenigKoeln/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buchhandlungwaltherkonig-dc1b83.jpg",
+      "local_logo_path": "localbrand/logo/buchhandlungwaltherkonig-dc1b83.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BuchhandlungWaltherKoenigKoeln/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buchhandlungwaltherkonig-dc1b83.jpg"
+      }
+    },
+    {
+      "displayName": "Cărturești",
+      "id": "carturesti-2e1569",
+      "locationSet": {
+        "include": [
+          "md",
+          "ro"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Cărturești",
+        "brand:wikidata": "Q12726202",
+        "name": "Cărturești",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/CarturestiOnline/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carturesti-2e1569.jpg",
+      "local_logo_path": "localbrand/logo/carturesti-2e1569.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CarturestiOnline/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carturesti-2e1569.jpg"
+      }
+    },
+    {
+      "displayName": "Casa del Libro",
+      "id": "casadellibro-03d7b8",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "tags": {
+        "brand": "Casa del Libro",
+        "brand:wikidata": "Q5755514",
+        "name": "Casa del Libro",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/casadellibro/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/casadellibro-03d7b8.jpg",
+      "local_logo_path": "localbrand/logo/casadellibro-03d7b8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/casadellibro/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/casadellibro-03d7b8.jpg"
+      }
+    },
+    {
+      "displayName": "Chapters",
+      "id": "chapters-285257",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Chapters",
+        "brand:wikidata": "Q5073540",
+        "name": "Chapters",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/ChaptersIndigo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chapters-285257.jpg",
+      "local_logo_path": "localbrand/logo/chapters-285257.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ChaptersIndigo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chapters-285257.jpg"
+      }
+    },
+    {
+      "displayName": "Christian Science Reading Room",
+      "id": "christiansciencereadingroom-1bd7b6",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "books": "religion",
+        "brand": "Christian Science Reading Room",
+        "brand:wikidata": "Q5110122",
+        "name": "Christian Science Reading Room",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Ciela",
+      "id": "ciela-eec251",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Ciela",
+        "brand:wikidata": "Q124151518",
+        "name": "Ciela",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/CIELACOM/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ciela-eec251.jpg",
+      "local_logo_path": "localbrand/logo/ciela-eec251.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CIELACOM/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ciela-eec251.jpg"
+      }
+    },
+    {
+      "displayName": "Coles",
+      "id": "coles-c95919",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q5144641",
+        "name": "Coles",
+        "shop": "books"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Coles_Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coles-c95919.svg",
+      "local_logo_path": "localbrand/logo/coles-c95919.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Coles_Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coles-c95919.svg"
+      }
+    },
+    {
+      "displayName": "Crossword Bookstores",
+      "id": "crosswordbookstores-be6694",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Crossword Bookstores",
+        "brand:wikidata": "Q5188909",
+        "name": "Crossword Bookstores",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/Crosswordbookstores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crosswordbookstores-be6694.jpg",
+      "local_logo_path": "localbrand/logo/crosswordbookstores-be6694.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Crosswordbookstores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crosswordbookstores-be6694.jpg"
+      }
+    },
+    {
+      "displayName": "Cultura",
+      "id": "cultura-f3b31c",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Cultura",
+        "brand:wikidata": "Q3007154",
+        "name": "Cultura",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/culturafr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cultura-f3b31c.jpg",
+      "local_logo_path": "localbrand/logo/cultura-f3b31c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/culturafr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cultura-f3b31c.jpg"
+      }
+    },
+    {
+      "displayName": "CUM Books",
+      "id": "cumbooks-8d3b5b",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "books": "religion",
+        "brand": "CUM Books",
+        "brand:wikidata": "Q128930625",
+        "name": "CUM Books",
+        "religion": "christian",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/205634623323/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cumbooks-8d3b5b.jpg",
+      "local_logo_path": "localbrand/logo/cumbooks-8d3b5b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/205634623323/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cumbooks-8d3b5b.jpg"
+      }
+    },
+    {
+      "displayName": "D&R",
+      "id": "dandr-c24b88",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "D&R",
+        "brand:wikidata": "Q27431235",
+        "name": "D&R",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/DRdunyasi/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dandr-c24b88.jpg",
+      "local_logo_path": "localbrand/logo/dandr-c24b88.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DRdunyasi/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dandr-c24b88.jpg"
+      }
+    },
+    {
+      "displayName": "Daunt Books",
+      "id": "dauntbooks-587203",
+      "locationSet": {
+        "include": [
+          "gb-lon.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Daunt Books",
+        "brand:wikidata": "Q5228057",
+        "name": "Daunt Books",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/dauntbooks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dauntbooks-587203.jpg",
+      "local_logo_path": "localbrand/logo/dauntbooks-587203.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dauntbooks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dauntbooks-587203.jpg"
+      }
+    },
+    {
+      "displayName": "Dedalus",
+      "id": "dedalus-0c5adb",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Dedalus",
+        "brand:wikidata": "Q113308417",
+        "name": "Dedalus",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/Ksiegarnia.Dedalus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dedalus-0c5adb.jpg",
+      "local_logo_path": "localbrand/logo/dedalus-0c5adb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Ksiegarnia.Dedalus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dedalus-0c5adb.jpg"
+      }
+    },
+    {
+      "displayName": "Delfi",
+      "id": "delfi-000b97",
+      "locationSet": {
+        "include": [
+          "rs"
+        ]
+      },
+      "matchNames": [
+        "delfi knjižara",
+        "knjižara delfi",
+        "делфи књижара",
+        "књижара делфи"
+      ],
+      "tags": {
+        "brand": "Делфи",
+        "brand:sr": "Делфи",
+        "brand:sr-Latn": "Delfi",
+        "brand:wikidata": "Q62081796",
+        "name": "Делфи",
+        "name:sr": "Делфи",
+        "name:sr-Latn": "Delfi",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/delfi.knjizare/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/delfi-000b97.jpg",
+      "local_logo_path": "localbrand/logo/delfi-000b97.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/delfi.knjizare/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/delfi-000b97.jpg"
+      }
+    },
+    {
+      "displayName": "Dymocks",
+      "id": "dymocks-e673a5",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Dymocks",
+        "brand:wikidata": "Q1280883",
+        "name": "Dymocks",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/dymocksbooks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dymocks-e673a5.jpg",
+      "local_logo_path": "localbrand/logo/dymocks-e673a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dymocksbooks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dymocks-e673a5.jpg"
+      }
+    },
+    {
+      "displayName": "E.Leclerc Espace Culturel",
+      "id": "eleclercespaceculturel-f3b31c",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "E.Leclerc Espace Culturel",
+        "brand:wikidata": "Q137864222",
+        "name": "E.Leclerc Espace Culturel",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/EspaceCulturelELeclerc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eleclercespaceculturel-f3b31c.png",
+      "local_logo_path": "localbrand/logo/eleclercespaceculturel-f3b31c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/EspaceCulturelELeclerc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eleclercespaceculturel-f3b31c.png"
+      }
+    },
+    {
+      "displayName": "Eason",
+      "id": "eason-202425",
+      "locationSet": {
+        "include": [
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "Eason",
+        "brand:wikidata": "Q3046482",
+        "name": "Eason",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/EasonIreland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eason-202425.jpg",
+      "local_logo_path": "localbrand/logo/eason-202425.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EasonIreland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eason-202425.jpg"
+      }
+    },
+    {
+      "displayName": "Empik",
+      "id": "empik-0c5adb",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Empik",
+        "brand:wikidata": "Q3045978",
+        "name": "Empik",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/empikcom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/empik-0c5adb.png",
+      "local_logo_path": "localbrand/logo/empik-0c5adb.png",
+      "logos": {
+        "original": "https://graph.facebook.com/empikcom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/empik-0c5adb.png"
+      }
+    },
+    {
+      "displayName": "Exclusive Books",
+      "id": "exclusivebooks-086859",
+      "locationSet": {
+        "include": [
+          "bw",
+          "na",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Exclusive Books",
+        "brand:wikidata": "Q5419679",
+        "name": "Exclusive Books",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/ExclusiveBooks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/exclusivebooks-086859.jpg",
+      "local_logo_path": "localbrand/logo/exclusivebooks-086859.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ExclusiveBooks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/exclusivebooks-086859.jpg"
+      }
+    },
+    {
+      "displayName": "Foyles",
+      "id": "foyles-e6b908",
+      "locationSet": {
+        "include": [
+          "gb-eng"
+        ]
+      },
+      "tags": {
+        "brand": "Foyles",
+        "brand:wikidata": "Q1440267",
+        "name": "Foyles",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/FoylesforBooks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foyles-e6b908.jpg",
+      "local_logo_path": "localbrand/logo/foyles-e6b908.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FoylesforBooks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foyles-e6b908.jpg"
+      }
+    },
+    {
+      "displayName": "France Loisirs",
+      "id": "franceloisirs-f3b31c",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "France Loisirs",
+        "brand:wikidata": "Q3080726",
+        "name": "France Loisirs",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/franceloisirs/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/franceloisirs-f3b31c.png",
+      "local_logo_path": "localbrand/logo/franceloisirs-f3b31c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/franceloisirs/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/franceloisirs-f3b31c.png"
+      }
+    },
+    {
+      "displayName": "Funside",
+      "id": "funside-56c580",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "books": "comic;manga",
+        "brand": "Funside",
+        "brand:wikidata": "Q131386237",
+        "name": "Funside",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Gandhi",
+      "id": "gandhi-1ea9d6",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "matchNames": [
+        "librería gandhi",
+        "librerías gandhi"
+      ],
+      "tags": {
+        "brand": "Gandhi",
+        "brand:wikidata": "Q17071066",
+        "name": "Gandhi",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/LibreriasGandhi/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gandhi-1ea9d6.jpg",
+      "local_logo_path": "localbrand/logo/gandhi-1ea9d6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LibreriasGandhi/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gandhi-1ea9d6.jpg"
+      }
+    },
+    {
+      "displayName": "Giunti al Punto",
+      "id": "giuntialpunto-56c580",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "matchNames": [
+        "giunti",
+        "libreria giunti",
+        "librerie giunti"
+      ],
+      "tags": {
+        "brand": "Giunti al Punto",
+        "brand:wikidata": "Q76505309",
+        "name": "Giunti al Punto",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/LibrerieGiuntialPunto/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/giuntialpunto-56c580.png",
+      "local_logo_path": "localbrand/logo/giuntialpunto-56c580.png",
+      "logos": {
+        "original": "https://graph.facebook.com/LibrerieGiuntialPunto/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/giuntialpunto-56c580.png"
+      }
+    },
+    {
+      "displayName": "Gramedia",
+      "id": "gramedia-828c8f",
+      "locationSet": {
+        "include": [
+          "id"
+        ]
+      },
+      "tags": {
+        "brand": "Gramedia",
+        "brand:wikidata": "Q19646130",
+        "name": "Gramedia",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/gramediacom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gramedia-828c8f.jpg",
+      "local_logo_path": "localbrand/logo/gramedia-828c8f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/gramediacom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gramedia-828c8f.jpg"
+      }
+    },
+    {
+      "displayName": "Half Price Books",
+      "id": "halfpricebooks-1bd7b6",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Half Price Books",
+        "brand:wikidata": "Q5641744",
+        "name": "Half Price Books",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/halfpricebooks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/halfpricebooks-1bd7b6.jpg",
+      "local_logo_path": "localbrand/logo/halfpricebooks-1bd7b6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/halfpricebooks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/halfpricebooks-1bd7b6.jpg"
+      }
+    },
+    {
+      "displayName": "Higginbotham's",
+      "id": "higginbothams-be6694",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Higginbotham's",
+        "brand:wikidata": "Q1572944",
+        "name": "Higginbotham's",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/higginbothamsbookstore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/higginbothams-be6694.jpg",
+      "local_logo_path": "localbrand/logo/higginbothams-be6694.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/higginbothamsbookstore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/higginbothams-be6694.jpg"
+      }
+    },
+    {
+      "displayName": "Hudson Booksellers",
+      "id": "hudsonbooksellers-285257",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Hudson Booksellers",
+        "brand:wikidata": "Q111534550",
+        "name": "Hudson Booksellers",
+        "shop": "books"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Hudson_Booksellers_logo.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hudsonbooksellers-285257.jpg",
+      "local_logo_path": "localbrand/logo/hudsonbooksellers-285257.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Hudson_Booksellers_logo.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hudsonbooksellers-285257.jpg"
+      }
+    },
+    {
+      "displayName": "Hugendubel",
+      "id": "hugendubel-65e1d5",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Hugendubel",
+        "brand:wikidata": "Q1634142",
+        "name": "Hugendubel",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/hugendubelbuchhandlungen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hugendubel-65e1d5.png",
+      "local_logo_path": "localbrand/logo/hugendubel-65e1d5.png",
+      "logos": {
+        "original": "https://graph.facebook.com/hugendubelbuchhandlungen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hugendubel-65e1d5.png"
+      }
+    },
+    {
+      "displayName": "Indigo",
+      "id": "indigo-285257",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "alt_name": "!ndigo",
+        "brand": "Indigo",
+        "brand:wikidata": "Q2477358",
+        "name": "Indigo",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/ChaptersIndigo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indigo-285257.jpg",
+      "local_logo_path": "localbrand/logo/indigo-285257.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ChaptersIndigo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indigo-285257.jpg"
+      }
+    },
+    {
+      "displayName": "Jokers",
+      "id": "jokers-65e1d5",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Jokers",
+        "brand:wikidata": "Q27801057",
+        "name": "Jokers",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/JokersBuecher/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jokers-65e1d5.jpg",
+      "local_logo_path": "localbrand/logo/jokers-65e1d5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JokersBuecher/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jokers-65e1d5.jpg"
+      }
+    },
+    {
+      "displayName": "Kanzelsberger",
+      "id": "kanzelsberger-70eb04",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "Kanzelsberger",
+        "brand:wikidata": "Q8531793",
+        "name": "Kanzelsberger",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/knihy.kanzelsberger/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kanzelsberger-70eb04.png",
+      "local_logo_path": "localbrand/logo/kanzelsberger-70eb04.png",
+      "logos": {
+        "original": "https://graph.facebook.com/knihy.kanzelsberger/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kanzelsberger-70eb04.png"
+      }
+    },
+    {
+      "displayName": "Kinokuniya",
+      "id": "kinokuniya-3c069b",
+      "locationSet": {
+        "include": [
+          "ae",
+          "au",
+          "id",
+          "kh",
+          "my",
+          "sg",
+          "th",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Kinokuniya",
+        "brand:wikidata": "Q703227",
+        "name": "Kinokuniya",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Knihy Dobrovský",
+      "id": "knihydobrovsky-70eb04",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "Knihy Dobrovský",
+        "brand:wikidata": "Q97466149",
+        "name": "Knihy Dobrovský",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/KnihyDobrovsky.cz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/knihydobrovsky-70eb04.jpg",
+      "local_logo_path": "localbrand/logo/knihydobrovsky-70eb04.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KnihyDobrovsky.cz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/knihydobrovsky-70eb04.jpg"
+      }
+    },
+    {
+      "displayName": "Kosmas",
+      "id": "kosmas-70eb04",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "matchNames": [
+        "knihkupectví kosmas",
+        "kosmas knihkupectví"
+      ],
+      "tags": {
+        "brand": "Kosmas",
+        "brand:wikidata": "Q56433594",
+        "name": "Kosmas",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/Kosmas.cz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kosmas-70eb04.png",
+      "local_logo_path": "localbrand/logo/kosmas-70eb04.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Kosmas.cz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kosmas-70eb04.png"
+      }
+    },
+    {
+      "displayName": "La Feltrinelli",
+      "id": "lafeltrinelli-56c580",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "La Feltrinelli",
+        "brand:wikidata": "Q96311190",
+        "name": "La Feltrinelli",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "La Procure",
+      "id": "laprocure-9d3dbd",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "La Procure",
+        "brand:wikidata": "Q3211977",
+        "name": "La Procure",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/LaProcure/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laprocure-9d3dbd.jpg",
+      "local_logo_path": "localbrand/logo/laprocure-9d3dbd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LaProcure/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laprocure-9d3dbd.jpg"
+      }
+    },
+    {
+      "displayName": "Laguna",
+      "id": "laguna-000b97",
+      "locationSet": {
+        "include": [
+          "rs"
+        ]
+      },
+      "tags": {
+        "brand": "Лагуна",
+        "brand:sr": "Лагуна",
+        "brand:sr-Latn": "Laguna",
+        "brand:wikidata": "Q12754418",
+        "name": "Лагуна",
+        "name:sr": "Лагуна",
+        "name:sr-Latn": "Laguna",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/LagunaKnjige/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laguna-000b97.png",
+      "local_logo_path": "localbrand/logo/laguna-000b97.png",
+      "logos": {
+        "original": "https://graph.facebook.com/LagunaKnjige/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laguna-000b97.png"
+      }
+    },
+    {
+      "displayName": "Leitura",
+      "id": "leitura-fdaa32",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "alt_name": "Livraria Leitura",
+        "brand": "Leitura",
+        "brand:wikidata": "Q6176628",
+        "name": "Leitura",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/livraria.leitura/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leitura-fdaa32.jpg",
+      "local_logo_path": "localbrand/logo/leitura-fdaa32.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/livraria.leitura/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leitura-fdaa32.jpg"
+      }
+    },
+    {
+      "displayName": "Libraccio",
+      "id": "libraccio-56c580",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Libraccio",
+        "brand:wikidata": "Q116785672",
+        "name": "Libraccio",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/Libraccio/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libraccio-56c580.jpg",
+      "local_logo_path": "localbrand/logo/libraccio-56c580.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Libraccio/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libraccio-56c580.jpg"
+      }
+    },
+    {
+      "displayName": "Libris",
+      "id": "libris-1267b5",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Libris",
+        "brand:wikidata": "Q2933427",
+        "name": "Libris",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/librisnieuws/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libris-1267b5.jpg",
+      "local_logo_path": "localbrand/logo/libris-1267b5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/librisnieuws/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libris-1267b5.jpg"
+      }
+    },
+    {
+      "displayName": "Libro",
+      "id": "libro-95302b",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "tags": {
+        "brand": "Libro",
+        "brand:wikidata": "Q1823138",
+        "name": "Libro",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/libro.at/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libro-95302b.png",
+      "local_logo_path": "localbrand/logo/libro-95302b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/libro.at/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libro-95302b.png"
+      }
+    },
+    {
+      "displayName": "Lüthy",
+      "id": "luthy-c5abff",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "brand": "Lüthy Balmer Stocker",
+        "brand:wikidata": "Q14018409",
+        "name": "Lüthy",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/buchhaus.ch/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/luthy-c5abff.jpg",
+      "local_logo_path": "localbrand/logo/luthy-c5abff.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/buchhaus.ch/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/luthy-c5abff.jpg"
+      }
+    },
+    {
+      "displayName": "Luxor",
+      "id": "luxor-70eb04",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "Luxor",
+        "brand:wikidata": "Q136760130",
+        "name": "Luxor",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/KnihkupectviLuxor/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/luxor-70eb04.png",
+      "local_logo_path": "localbrand/logo/luxor-70eb04.png",
+      "logos": {
+        "original": "https://graph.facebook.com/KnihkupectviLuxor/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/luxor-70eb04.png"
+      }
+    },
+    {
+      "displayName": "Martinus",
+      "id": "martinus-de15da",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Martinus",
+        "brand:wikidata": "Q15089074",
+        "name": "Martinus",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/Martinus.sk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/martinus-de15da.jpg",
+      "local_logo_path": "localbrand/logo/martinus-de15da.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Martinus.sk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/martinus-de15da.jpg"
+      }
+    },
+    {
+      "displayName": "Maxilivres",
+      "id": "maxilivres-9d3dbd",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Maxilivres",
+        "brand:wikidata": "Q3302434",
+        "name": "Maxilivres",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/Maxilivres.France/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maxilivres-9d3dbd.jpg",
+      "local_logo_path": "localbrand/logo/maxilivres-9d3dbd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Maxilivres.France/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maxilivres-9d3dbd.jpg"
+      }
+    },
+    {
+      "displayName": "Mayersche",
+      "id": "mayersche-65e1d5",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Mayersche",
+        "brand:wikidata": "Q1462383",
+        "name": "Mayersche",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/Mayersche/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mayersche-65e1d5.jpg",
+      "local_logo_path": "localbrand/logo/mayersche-65e1d5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Mayersche/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mayersche-65e1d5.jpg"
+      }
+    },
+    {
+      "displayName": "Mondadori",
+      "id": "mondadori-56c580",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Mondadori",
+        "brand:wikidata": "Q85355",
+        "name": "Mondadori",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/GruppoMondadori/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mondadori-56c580.png",
+      "local_logo_path": "localbrand/logo/mondadori-56c580.png",
+      "logos": {
+        "original": "https://graph.facebook.com/GruppoMondadori/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mondadori-56c580.png"
+      }
+    },
+    {
+      "displayName": "Morawa",
+      "id": "morawa-95302b",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "tags": {
+        "brand": "Morawa",
+        "brand:wikidata": "Q1947238",
+        "name": "Morawa",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/Morawa.Buch/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morawa-95302b.png",
+      "local_logo_path": "localbrand/logo/morawa-95302b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Morawa.Buch/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morawa-95302b.png"
+      }
+    },
+    {
+      "displayName": "National Book Store",
+      "id": "nationalbookstore-08d1a3",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "brand": "National Book Store",
+        "brand:wikidata": "Q6971094",
+        "name": "National Book Store",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/nbsalert/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationalbookstore-08d1a3.jpg",
+      "local_logo_path": "localbrand/logo/nationalbookstore-08d1a3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/nbsalert/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationalbookstore-08d1a3.jpg"
+      }
+    },
+    {
+      "displayName": "Norli",
+      "id": "norli-ed60d1",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Norli",
+        "brand:wikidata": "Q1999199",
+        "name": "Norli",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/NorliBokhandel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/norli-ed60d1.jpg",
+      "local_logo_path": "localbrand/logo/norli-ed60d1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NorliBokhandel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/norli-ed60d1.jpg"
+      }
+    },
+    {
+      "displayName": "Orange",
+      "id": "orange-eec251",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "matchNames": [
+        "orange center"
+      ],
+      "tags": {
+        "brand": "Orange",
+        "brand:wikidata": "Q124151524",
+        "name": "Orange",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/orangecenter.bg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orange-eec251.jpg",
+      "local_logo_path": "localbrand/logo/orange-eec251.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/orangecenter.bg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orange-eec251.jpg"
+      }
+    },
+    {
+      "displayName": "Orell Füssli",
+      "id": "orellfussli-c5abff",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "brand": "Orell Füssli",
+        "brand:wikidata": "Q1511140",
+        "name": "Orell Füssli",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/OrellFuessli/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orellfussli-c5abff.jpg",
+      "local_logo_path": "localbrand/logo/orellfussli-c5abff.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OrellFuessli/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orellfussli-c5abff.jpg"
+      }
+    },
+    {
+      "displayName": "Osiander",
+      "id": "osiander-65e1d5",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Osiander",
+        "brand:wikidata": "Q1800686",
+        "name": "Osiander",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/Osiander/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/osiander-65e1d5.jpg",
+      "local_logo_path": "localbrand/logo/osiander-65e1d5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Osiander/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/osiander-65e1d5.jpg"
+      }
+    },
+    {
+      "displayName": "Oxfam Bookshop",
+      "id": "oxfambookshop-4cb062",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "oxfam"
+      ],
+      "tags": {
+        "brand": "Oxfam Bookshop",
+        "brand:wikidata": "Q7115196",
+        "name": "Oxfam Bookshop",
+        "second_hand": "only",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/oxfamGB/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oxfambookshop-4cb062.jpg",
+      "local_logo_path": "localbrand/logo/oxfambookshop-4cb062.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/oxfamGB/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oxfambookshop-4cb062.jpg"
+      }
+    },
+    {
+      "displayName": "Oxford Bookstore",
+      "id": "oxfordbookstore-be6694",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Oxford Bookstore",
+        "brand:wikidata": "Q7115252",
+        "name": "Oxford Bookstore",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/oxfordbookstoredotcom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oxfordbookstore-be6694.jpg",
+      "local_logo_path": "localbrand/logo/oxfordbookstore-be6694.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/oxfordbookstoredotcom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oxfordbookstore-be6694.jpg"
+      }
+    },
+    {
+      "displayName": "Pandayan Bookshop",
+      "id": "pandayanbookshop-08d1a3",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "brand": "Pandayan Bookshop",
+        "brand:wikidata": "Q120220745",
+        "name": "Pandayan Bookshop",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/pandayanbookshop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pandayanbookshop-08d1a3.jpg",
+      "local_logo_path": "localbrand/logo/pandayanbookshop-08d1a3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pandayanbookshop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pandayanbookshop-08d1a3.jpg"
+      }
+    },
+    {
+      "displayName": "Panta Rhei",
+      "id": "pantarhei-de15da",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Panta Rhei",
+        "brand:wikidata": "Q93431299",
+        "name": "Panta Rhei",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/pantarhei.sk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pantarhei-de15da.jpg",
+      "local_logo_path": "localbrand/logo/pantarhei-de15da.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pantarhei.sk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pantarhei-de15da.jpg"
+      }
+    },
+    {
+      "displayName": "Paper Plus",
+      "id": "paperplus-fe66a8",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "matchTags": [
+        "shop/stationery"
+      ],
+      "tags": {
+        "brand": "Paper Plus",
+        "brand:wikidata": "Q110437236",
+        "name": "Paper Plus",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/paperplus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paperplus-fe66a8.jpg",
+      "local_logo_path": "localbrand/logo/paperplus-fe66a8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/paperplus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paperplus-fe66a8.jpg"
+      }
+    },
+    {
+      "displayName": "Popular",
+      "id": "popular-a6ba8a",
+      "locationSet": {
+        "include": [
+          "my",
+          "sg"
+        ]
+      },
+      "matchTags": [
+        "shop/stationery"
+      ],
+      "tags": {
+        "brand": "Popular",
+        "brand:en": "Popular",
+        "brand:wikidata": "Q4167785",
+        "brand:zh": "大众书局",
+        "name": "Popular",
+        "name:en": "Popular",
+        "name:zh": "大众书局",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/PopularBookstoreSingapore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/popular-a6ba8a.jpg",
+      "local_logo_path": "localbrand/logo/popular-a6ba8a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PopularBookstoreSingapore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/popular-a6ba8a.jpg"
+      }
+    },
+    {
+      "displayName": "Porrúa",
+      "id": "porrua-1ea9d6",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "matchNames": [
+        "librería porrua",
+        "librerías porrua"
+      ],
+      "tags": {
+        "brand": "Porrúa",
+        "brand:wikidata": "Q981374",
+        "name": "Porrúa",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/LibreriaPorrua/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/porrua-1ea9d6.jpg",
+      "local_logo_path": "localbrand/logo/porrua-1ea9d6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LibreriaPorrua/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/porrua-1ea9d6.jpg"
+      }
+    },
+    {
+      "displayName": "Press & Books",
+      "id": "pressandbooks-76a200",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de",
+          "lu"
+        ]
+      },
+      "matchNames": [
+        "p&k"
+      ],
+      "tags": {
+        "brand": "Press & Books",
+        "brand:wikidata": "Q100407277",
+        "name": "Press & Books",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/pressbooks.buchhandlung/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pressandbooks-76a200.jpg",
+      "local_logo_path": "localbrand/logo/pressandbooks-76a200.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pressbooks.buchhandlung/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pressandbooks-76a200.jpg"
+      }
+    },
+    {
+      "displayName": "QBD Books",
+      "id": "qbdbooks-e673a5",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "QBD Books",
+        "brand:wikidata": "Q7270909",
+        "name": "QBD Books",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/QBDBooks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/qbdbooks-e673a5.jpg",
+      "local_logo_path": "localbrand/logo/qbdbooks-e673a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/QBDBooks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/qbdbooks-e673a5.jpg"
+      }
+    },
+    {
+      "displayName": "ReadShop",
+      "id": "readshop-ef41f6",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "ReadShop",
+        "name": "ReadShop",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Remzi Kitabevi",
+      "id": "remzikitabevi-c24b88",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Remzi Kitabevi",
+        "brand:wikidata": "Q2143214",
+        "name": "Remzi Kitabevi",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/RemziKitap/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/remzikitabevi-c24b88.jpg",
+      "local_logo_path": "localbrand/logo/remzikitabevi-c24b88.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RemziKitap/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/remzikitabevi-c24b88.jpg"
+      }
+    },
+    {
+      "displayName": "Rupprecht",
+      "id": "rupprecht-65e1d5",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "ruprecht"
+      ],
+      "tags": {
+        "brand": "Rupprecht",
+        "brand:wikidata": "Q89431762",
+        "name": "Rupprecht",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/rupprechtde/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rupprecht-65e1d5.jpg",
+      "local_logo_path": "localbrand/logo/rupprecht-65e1d5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rupprechtde/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rupprecht-65e1d5.jpg"
+      }
+    },
+    {
+      "displayName": "Seagull Book",
+      "id": "seagullbook-1bd7b6",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Seagull Book",
+        "brand:wikidata": "Q7440458",
+        "name": "Seagull Book",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/SeagullBookCorp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/seagullbook-1bd7b6.jpg",
+      "local_logo_path": "localbrand/logo/seagullbook-1bd7b6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SeagullBookCorp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/seagullbook-1bd7b6.jpg"
+      }
+    },
+    {
+      "displayName": "Službeni glasnik",
+      "id": "sluzbeniglasnik-000b97",
+      "locationSet": {
+        "include": [
+          "rs"
+        ]
+      },
+      "tags": {
+        "brand": "Службени гласник",
+        "brand:sr": "Службени гласник",
+        "brand:sr-Latn": "Službeni glasnik",
+        "brand:wikidata": "Q110045562",
+        "name": "Службени гласник",
+        "name:sr": "Службени гласник",
+        "name:sr-Latn": "Službeni glasnik",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/jpsluzbeniglasnik/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sluzbeniglasnik-000b97.png",
+      "local_logo_path": "localbrand/logo/sluzbeniglasnik-000b97.png",
+      "logos": {
+        "original": "https://graph.facebook.com/jpsluzbeniglasnik/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sluzbeniglasnik-000b97.png"
+      }
+    },
+    {
+      "displayName": "Standaard Boekhandel",
+      "id": "standaardboekhandel-7d5083",
+      "locationSet": {
+        "include": [
+          "be"
+        ]
+      },
+      "tags": {
+        "brand": "Standaard Boekhandel",
+        "brand:wikidata": "Q3496554",
+        "name": "Standaard Boekhandel",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/standaardboekhandel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/standaardboekhandel-7d5083.jpg",
+      "local_logo_path": "localbrand/logo/standaardboekhandel-7d5083.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/standaardboekhandel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/standaardboekhandel-7d5083.jpg"
+      }
+    },
+    {
+      "displayName": "Suomalainen Kirjakauppa",
+      "id": "suomalainenkirjakauppa-0c91f3",
+      "locationSet": {
+        "include": [
+          "fi"
+        ]
+      },
+      "tags": {
+        "brand": "Suomalainen Kirjakauppa",
+        "brand:wikidata": "Q7641808",
+        "name": "Suomalainen Kirjakauppa",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/suomalainencom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suomalainenkirjakauppa-0c91f3.jpg",
+      "local_logo_path": "localbrand/logo/suomalainenkirjakauppa-0c91f3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/suomalainencom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suomalainenkirjakauppa-0c91f3.jpg"
+      }
+    },
+    {
+      "displayName": "Świat Książki",
+      "id": "swiatksiazki-0c5adb",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Świat Książki",
+        "brand:wikidata": "Q9396199",
+        "name": "Świat Książki",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/swiatksiazkipl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swiatksiazki-0c5adb.jpg",
+      "local_logo_path": "localbrand/logo/swiatksiazki-0c5adb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/swiatksiazkipl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swiatksiazki-0c5adb.jpg"
+      }
+    },
+    {
+      "displayName": "TGJones",
+      "id": "tgjones-4cb062",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "TGJones",
+        "brand:wikidata": "Q133575797",
+        "name": "TGJones",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/TGJonesUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tgjones-4cb062.jpg",
+      "local_logo_path": "localbrand/logo/tgjones-4cb062.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TGJonesUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tgjones-4cb062.jpg"
+      }
+    },
+    {
+      "displayName": "Thalia",
+      "id": "thalia-5cfe4f",
+      "locationSet": {
+        "include": [
+          "at",
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Thalia",
+        "brand:wikidata": "Q2408854",
+        "name": "Thalia",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/thalia.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thalia-5cfe4f.jpg",
+      "local_logo_path": "localbrand/logo/thalia-5cfe4f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/thalia.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thalia-5cfe4f.jpg"
+      }
+    },
+    {
+      "displayName": "The Readshop",
+      "id": "thereadshop-1267b5",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "The Readshop",
+        "brand:wikidata": "Q114905224",
+        "name": "The Readshop",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/TheReadShop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thereadshop-1267b5.jpg",
+      "local_logo_path": "localbrand/logo/thereadshop-1267b5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TheReadShop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thereadshop-1267b5.jpg"
+      }
+    },
+    {
+      "displayName": "The Works",
+      "id": "theworks-b448ba",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "matchTags": [
+        "shop/variety_store"
+      ],
+      "tags": {
+        "brand": "The Works",
+        "brand:wikidata": "Q7775853",
+        "name": "The Works",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/TheWorksStores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theworks-b448ba.jpg",
+      "local_logo_path": "localbrand/logo/theworks-b448ba.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TheWorksStores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theworks-b448ba.jpg"
+      }
+    },
+    {
+      "displayName": "TSUTAYA",
+      "id": "tsutaya-39c53e",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "TSUTAYA",
+        "brand:wikidata": "Q5193457",
+        "name": "TSUTAYA",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/TSUTAYA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tsutaya-39c53e.png",
+      "local_logo_path": "localbrand/logo/tsutaya-39c53e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TSUTAYA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tsutaya-39c53e.png"
+      }
+    },
+    {
+      "displayName": "Ubik",
+      "id": "ubik-56c580",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Ubik",
+        "brand:wikidata": "Q103169450",
+        "name": "Ubik",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/ubiklibrerie/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ubik-56c580.png",
+      "local_logo_path": "localbrand/logo/ubik-56c580.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ubiklibrerie/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ubik-56c580.png"
+      }
+    },
+    {
+      "displayName": "Van Schaik",
+      "id": "vanschaik-086859",
+      "locationSet": {
+        "include": [
+          "bw",
+          "na",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Van Schaik",
+        "brand:wikidata": "Q116741158",
+        "name": "Van Schaik",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/vanschaikbookstore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vanschaik-086859.jpg",
+      "local_logo_path": "localbrand/logo/vanschaik-086859.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/vanschaikbookstore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vanschaik-086859.jpg"
+      }
+    },
+    {
+      "displayName": "Vulkan",
+      "id": "vulkan-000b97",
+      "locationSet": {
+        "include": [
+          "rs"
+        ]
+      },
+      "matchNames": [
+        "knjižara vulkan",
+        "vulkan knjižara",
+        "вулкан књижара",
+        "књижара вулкан"
+      ],
+      "tags": {
+        "brand": "Вулкан",
+        "brand:sr": "Вулкан",
+        "brand:sr-Latn": "Vulkan",
+        "brand:wikidata": "Q114735398",
+        "name": "Вулкан",
+        "name:sr": "Вулкан",
+        "name:sr-Latn": "Vulkan",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/vulkanknjizare/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vulkan-000b97.jpg",
+      "local_logo_path": "localbrand/logo/vulkan-000b97.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/vulkanknjizare/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vulkan-000b97.jpg"
+      }
+    },
+    {
+      "displayName": "Waterstones",
+      "id": "waterstones-3a34ca",
+      "locationSet": {
+        "include": [
+          "be",
+          "gb",
+          "ie",
+          "je",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Waterstones",
+        "brand:wikidata": "Q151779",
+        "name": "Waterstones",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/waterstones/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/waterstones-3a34ca.jpg",
+      "local_logo_path": "localbrand/logo/waterstones-3a34ca.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/waterstones/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/waterstones-3a34ca.jpg"
+      }
+    },
+    {
+      "displayName": "Weltbild",
+      "id": "weltbild-65e1d5",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Weltbild",
+        "brand:wikidata": "Q883522",
+        "name": "Weltbild",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Whitcoulls",
+      "id": "whitcoulls-fe66a8",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "matchTags": [
+        "shop/stationery"
+      ],
+      "tags": {
+        "brand": "Whitcoulls",
+        "brand:wikidata": "Q7994237",
+        "name": "Whitcoulls",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "WHSmith",
+      "id": "whsmith-4d39b8",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "WHSmith",
+        "brand:wikidata": "Q1548712",
+        "name": "WHSmith",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/WHSmithuk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/whsmith-4d39b8.jpg",
+      "local_logo_path": "localbrand/logo/whsmith-4d39b8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WHSmithuk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/whsmith-4d39b8.jpg"
+      }
+    },
+    {
+      "displayName": "WH史密斯",
+      "id": "whsmith-1c7751",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "WH史密斯",
+        "brand:en": "WHSmith",
+        "brand:wikidata": "Q1548712",
+        "brand:zh": "WH史密斯",
+        "name": "WH史密斯",
+        "name:en": "WHSmith",
+        "name:zh": "WH史密斯",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/WHSmithuk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/whsmith-1c7751.jpg",
+      "local_logo_path": "localbrand/logo/whsmith-1c7751.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WHSmithuk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/whsmith-1c7751.jpg"
+      }
+    },
+    {
+      "displayName": "Белкніга",
+      "id": "belkniga-9972c8",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "tags": {
+        "brand": "Белкніга",
+        "brand:be": "Белкніга",
+        "brand:en": "Belkniga",
+        "brand:ru": "Белкнига",
+        "brand:wikidata": "Q60793563",
+        "name": "Белкніга",
+        "name:be": "Белкніга",
+        "name:en": "Belkniga",
+        "name:ru": "Белкнига",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/belkniga/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/belkniga-9972c8.jpg",
+      "local_logo_path": "localbrand/logo/belkniga-9972c8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/belkniga/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/belkniga-9972c8.jpg"
+      }
+    },
+    {
+      "displayName": "Буквоед",
+      "id": "9698e8-4175bc",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Буквоед",
+        "brand:wikidata": "Q4098549",
+        "name": "Буквоед",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Дом книги",
+      "id": "fcb83c-4175bc",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Дом книги",
+        "brand:wikidata": "Q48950742",
+        "name": "Дом книги",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/MDK.Arbat/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fcb83c-4175bc.jpg",
+      "local_logo_path": "localbrand/logo/fcb83c-4175bc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MDK.Arbat/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fcb83c-4175bc.jpg"
+      }
+    },
+    {
+      "displayName": "Є",
+      "id": "5b11cd-6e5bbf",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "knyharnia ye",
+        "ye",
+        "книгарня є"
+      ],
+      "tags": {
+        "brand": "Є",
+        "brand:wikidata": "Q12073058",
+        "name": "Є",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/knyharniaye/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/5b11cd-6e5bbf.jpg",
+      "local_logo_path": "localbrand/logo/5b11cd-6e5bbf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/knyharniaye/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/5b11cd-6e5bbf.jpg"
+      }
+    },
+    {
+      "displayName": "КСД",
+      "id": "ksd-6e5bbf",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "клуб сімейного дозвілля"
+      ],
+      "tags": {
+        "brand": "КСД",
+        "brand:en": "KSD",
+        "brand:uk": "КСД",
+        "brand:wikidata": "Q12129440",
+        "name": "КСД",
+        "name:en": "KSD",
+        "name:uk": "КСД",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/ksdbookclub/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ksd-6e5bbf.jpg",
+      "local_logo_path": "localbrand/logo/ksd-6e5bbf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ksdbookclub/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ksd-6e5bbf.jpg"
+      }
+    },
+    {
+      "displayName": "Хеликон",
+      "id": "helikon-eec251",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Хеликон",
+        "brand:wikidata": "Q124151519",
+        "name": "Хеликон",
+        "name:bg": "Хеликон",
+        "name:en": "Helikon",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/helikon.bg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/helikon-eec251.png",
+      "local_logo_path": "localbrand/logo/helikon-eec251.png",
+      "logos": {
+        "original": "https://graph.facebook.com/helikon.bg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/helikon-eec251.png"
+      }
+    },
+    {
+      "displayName": "Читай-город",
+      "id": "2b704f-4175bc",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Читай-город",
+        "brand:wikidata": "Q4516645",
+        "name": "Читай-город",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/chitaigorod/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/2b704f-4175bc.jpg",
+      "local_logo_path": "localbrand/logo/2b704f-4175bc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/chitaigorod/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/2b704f-4175bc.jpg"
+      }
+    },
+    {
+      "displayName": "ბიბლუსი",
+      "id": "biblus-4774b4",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "ბიბლუსი",
+        "brand:en": "Biblus",
+        "brand:ka": "ბიბლუსი",
+        "brand:wikidata": "Q131470008",
+        "name": "ბიბლუსი",
+        "name:en": "Biblus",
+        "name:ka": "ბიბლუსი",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/biblusi.ge/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biblus-4774b4.jpg",
+      "local_logo_path": "localbrand/logo/biblus-4774b4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/biblusi.ge/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biblus-4774b4.jpg"
+      }
+    },
+    {
+      "displayName": "ლიბრა",
+      "id": "libra-4774b4",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "ლიბრა",
+        "brand:en": "Libra",
+        "brand:ka": "ლიბრა",
+        "brand:wikidata": "Q136806056",
+        "name": "ლიბრა",
+        "name:en": "Libra",
+        "name:ka": "ლიბრა",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/librastores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libra-4774b4.jpg",
+      "local_logo_path": "localbrand/logo/libra-4774b4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/librastores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libra-4774b4.jpg"
+      }
+    },
+    {
+      "displayName": "პროსპეროს წიგნები",
+      "id": "prosperosbooks-4774b4",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "პროსპეროს წიგნები",
+        "brand:en": "Prospero's Books",
+        "brand:ka": "პროსპეროს წიგნები",
+        "brand:wikidata": "Q131470010",
+        "name": "პროსპეროს წიგნები",
+        "name:en": "Prospero's Books",
+        "name:ka": "პროსპეროს წიგნები",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/prosperosbooks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prosperosbooks-4774b4.jpg",
+      "local_logo_path": "localbrand/logo/prosperosbooks-4774b4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/prosperosbooks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prosperosbooks-4774b4.jpg"
+      }
+    },
+    {
+      "displayName": "სანტა ესპერანსა",
+      "id": "santaesperansa-4774b4",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "სანტა ესპერანსა",
+        "brand:en": "Santa Esperansa",
+        "brand:ka": "სანტა ესპერანსა",
+        "brand:wikidata": "Q136806077",
+        "name": "სანტა ესპერანსა",
+        "name:en": "Santa Esperansa",
+        "name:ka": "სანტა ესპერანსა",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/santabooks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/santaesperansa-4774b4.jpg",
+      "local_logo_path": "localbrand/logo/santaesperansa-4774b4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/santabooks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/santaesperansa-4774b4.jpg"
+      }
+    },
+    {
+      "displayName": "სულაკაური",
+      "id": "sulakauri-4774b4",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "სულაკაური",
+        "brand:en": "Sulakauri",
+        "brand:ka": "სულაკაური",
+        "brand:wikidata": "Q131470009",
+        "name": "სულაკაური",
+        "name:en": "Sulakauri",
+        "name:ka": "სულაკაური",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/sulakauripublishing/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sulakauri-4774b4.jpg",
+      "local_logo_path": "localbrand/logo/sulakauri-4774b4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sulakauripublishing/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sulakauri-4774b4.jpg"
+      }
+    },
+    {
+      "displayName": "סטימצקי",
+      "id": "steimatzky-428a21",
+      "locationSet": {
+        "include": [
+          "il"
+        ]
+      },
+      "tags": {
+        "brand": "סטימצקי",
+        "brand:en": "Steimatzky",
+        "brand:he": "סטימצקי",
+        "brand:wikidata": "Q2903995",
+        "name": "סטימצקי",
+        "name:en": "Steimatzky",
+        "name:he": "סטימצקי",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/SteimatzkyMadaf.HaSfarim/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/steimatzky-428a21.jpg",
+      "local_logo_path": "localbrand/logo/steimatzky-428a21.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SteimatzkyMadaf.HaSfarim/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/steimatzky-428a21.jpg"
+      }
+    },
+    {
+      "displayName": "צומת ספרים",
+      "id": "tzometsfarim-428a21",
+      "locationSet": {
+        "include": [
+          "il"
+        ]
+      },
+      "matchNames": [
+        "zomet sfarim"
+      ],
+      "tags": {
+        "brand": "צומת ספרים",
+        "brand:en": "Tzomet Sfarim",
+        "brand:he": "צומת ספרים",
+        "brand:wikidata": "Q6743833",
+        "name": "צומת ספרים",
+        "name:en": "Tzomet Sfarim",
+        "name:he": "צומת ספרים",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/tzometsfarim/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tzometsfarim-428a21.jpg",
+      "local_logo_path": "localbrand/logo/tzometsfarim-428a21.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tzometsfarim/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tzometsfarim-428a21.jpg"
+      }
+    },
+    {
+      "displayName": "مكتبة العبيكان",
+      "id": "obeikanstores-9ea300",
+      "locationSet": {
+        "include": [
+          "sa"
+        ]
+      },
+      "matchNames": [
+        "العبيكان"
+      ],
+      "tags": {
+        "brand": "مكتبة العبيكان",
+        "brand:ar": "مكتبة العبيكان",
+        "brand:en": "ObeikanStores",
+        "brand:wikidata": "Q12244784",
+        "name": "مكتبة العبيكان",
+        "name:ar": "مكتبة العبيكان",
+        "name:en": "ObeikanStores",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "مكتبة جرير",
+      "id": "jarirbookstore-e19842",
+      "locationSet": {
+        "include": [
+          "ae",
+          "kw",
+          "qa",
+          "sa"
+        ]
+      },
+      "matchNames": [
+        "جرير"
+      ],
+      "tags": {
+        "brand": "مكتبة جرير",
+        "brand:ar": "مكتبة جرير",
+        "brand:en": "Jarir Bookstore",
+        "brand:wikidata": "Q6160243",
+        "name": "مكتبة جرير",
+        "name:ar": "مكتبة جرير",
+        "name:en": "Jarir Bookstore",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/jarirbookstore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jarirbookstore-e19842.jpg",
+      "local_logo_path": "localbrand/logo/jarirbookstore-e19842.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/jarirbookstore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jarirbookstore-e19842.jpg"
+      }
+    },
+    {
+      "displayName": "あおい書店",
+      "id": "aoi-39c53e",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "あおい書店",
+        "brand:en": "AOI",
+        "brand:ja": "あおい書店",
+        "brand:wikidata": "Q11256783",
+        "name": "あおい書店",
+        "name:en": "AOI",
+        "name:ja": "あおい書店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "オリオン書房",
+      "id": "orionbooks-39c53e",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "オリオン書房",
+        "brand:en": "Orion Books",
+        "brand:ja": "オリオン書房",
+        "brand:wikidata": "Q11292597",
+        "name": "オリオン書房",
+        "name:en": "Orion Books",
+        "name:ja": "オリオン書房",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "くまざわ書店",
+      "id": "kumazawabooks-39c53e",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "alt_name:en": "Kumabook",
+        "brand": "くまざわ書店",
+        "brand:en": "Kumazawa Books",
+        "brand:ja": "くまざわ書店",
+        "brand:wikidata": "Q11265517",
+        "name": "くまざわ書店",
+        "name:en": "Kumazawa Books",
+        "name:ja": "くまざわ書店",
+        "shop": "books"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kumazawa_Bookstore.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kumazawabooks-39c53e.jpg",
+      "local_logo_path": "localbrand/logo/kumazawabooks-39c53e.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kumazawa_Bookstore.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kumazawabooks-39c53e.jpg"
+      }
+    },
+    {
+      "displayName": "ジュンク堂書店",
+      "id": "junkudo-39c53e",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "ジュンク"
+      ],
+      "tags": {
+        "brand": "ジュンク堂書店",
+        "brand:en": "Junkudo",
+        "brand:ja": "ジュンク堂書店",
+        "brand:wikidata": "Q3190093",
+        "name": "ジュンク堂書店",
+        "name:en": "Junkudo",
+        "name:ja": "ジュンク堂書店",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/maruzenjunku/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/junkudo-39c53e.jpg",
+      "local_logo_path": "localbrand/logo/junkudo-39c53e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/maruzenjunku/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/junkudo-39c53e.jpg"
+      }
+    },
+    {
+      "displayName": "とらのあな",
+      "id": "comictoranoana-39c53e",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "books": "comic",
+        "brand": "とらのあな",
+        "brand:en": "Toranoana",
+        "brand:ja": "とらのあな",
+        "brand:wikidata": "Q865297",
+        "name": "とらのあな",
+        "name:en": "Comic Toranoana",
+        "name:ja": "とらのあな",
+        "shop": "books"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Toranoana_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/comictoranoana-39c53e.svg",
+      "local_logo_path": "localbrand/logo/comictoranoana-39c53e.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/11/Toranoana_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/comictoranoana-39c53e.svg"
+      }
+    },
+    {
+      "displayName": "ブックオフ",
+      "id": "bookoff-39c53e",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ブックオフ",
+        "brand:en": "Book Off",
+        "brand:ja": "ブックオフ",
+        "brand:wikidata": "Q893011",
+        "name": "ブックオフ",
+        "name:en": "Book Off",
+        "name:ja": "ブックオフ",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/bookoffcorporation/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bookoff-39c53e.jpg",
+      "local_logo_path": "localbrand/logo/bookoff-39c53e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bookoffcorporation/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bookoff-39c53e.jpg"
+      }
+    },
+    {
+      "displayName": "ブックファースト",
+      "id": "book1st-39c53e",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "ブック最初"
+      ],
+      "tags": {
+        "brand": "ブックファースト",
+        "brand:en": "Book1st",
+        "brand:ja": "ブックファースト",
+        "brand:wikidata": "Q11334365",
+        "name": "ブックファースト",
+        "name:en": "Book1st",
+        "name:ja": "ブックファースト",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "メロンブックス",
+      "id": "melonbooks-39c53e",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "メロンブックス",
+        "brand:en": "Melonbooks",
+        "brand:ja": "メロンブックス",
+        "brand:wikidata": "Q10851653",
+        "name": "メロンブックス",
+        "name:en": "Melonbooks",
+        "name:ja": "メロンブックス",
+        "shop": "books"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Melonbooks_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/melonbooks-39c53e.svg",
+      "local_logo_path": "localbrand/logo/melonbooks-39c53e.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Melonbooks_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/melonbooks-39c53e.svg"
+      }
+    },
+    {
+      "displayName": "リブロ",
+      "id": "libro-39c53e",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "リブロ",
+        "brand:en": "LIBRO",
+        "brand:ja": "リブロ",
+        "brand:wikidata": "Q6542768",
+        "name": "リブロ",
+        "name:en": "Libro",
+        "name:ja": "リブロ",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/libroryubo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libro-39c53e.jpg",
+      "local_logo_path": "localbrand/logo/libro-39c53e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/libroryubo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libro-39c53e.jpg"
+      }
+    },
+    {
+      "displayName": "三省堂書店",
+      "id": "bookssanseido-39c53e",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "三省堂書店",
+        "brand:en": "Books Sanseido",
+        "brand:ja": "三省堂書店",
+        "brand:wikidata": "Q10866539",
+        "name": "三省堂書店",
+        "name:en": "Books Sanseido",
+        "name:ja": "三省堂書店",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/books.sanseido/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bookssanseido-39c53e.jpg",
+      "local_logo_path": "localbrand/logo/bookssanseido-39c53e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/books.sanseido/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bookssanseido-39c53e.jpg"
+      }
+    },
+    {
+      "displayName": "三聯書店 Joint Publishing",
+      "id": "jointpublishing-199399",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "brand": "三聯書店 Joint Publishing",
+        "brand:en": "Joint Publishing",
+        "brand:wikidata": "Q17012917",
+        "brand:zh": "三聯書店",
+        "brand:zh-Hans": "三联书店",
+        "brand:zh-Hant": "三聯書店",
+        "name": "三聯書店 Joint Publishing",
+        "name:en": "Joint Publishing",
+        "name:zh": "三聯書店",
+        "name:zh-Hans": "三联书店",
+        "name:zh-Hant": "三聯書店",
+        "operator": "聯合出版（集團）有限公司 Sino United Publishing (Holdings) Limited",
+        "operator:en": "Sino United Publishing (Holdings) Limited",
+        "operator:wikidata": "Q15912494",
+        "operator:zh": "聯合出版（集團）有限公司",
+        "operator:zh-Hans": "联合出版（集团）有限公司",
+        "operator:zh-Hant": "聯合出版（集團）有限公司",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/jointpublishing.hk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jointpublishing-199399.jpg",
+      "local_logo_path": "localbrand/logo/jointpublishing-199399.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/jointpublishing.hk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jointpublishing-199399.jpg"
+      }
+    },
+    {
+      "displayName": "中信书店",
+      "id": "citicbooks-1c7751",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "中信书店",
+        "brand:en": "CITIC Books",
+        "brand:wikidata": "Q108178107",
+        "brand:zh": "中信书店",
+        "name": "中信书店",
+        "name:en": "CITIC Books",
+        "name:zh": "中信书店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "中華書局 Chung Hwa Book Company",
+      "id": "chunghwabookcompany-199399",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "brand": "中華書局 Chung Hwa Book Company",
+        "brand:en": "Chung Hwa Book Company",
+        "brand:wikidata": "Q10876287",
+        "brand:zh": "中華書局",
+        "brand:zh-Hans": "中华书局",
+        "brand:zh-Hant": "中華書局",
+        "name": "中華書局 Chung Hwa Book Company",
+        "name:en": "Chung Hwa Book Company",
+        "name:zh": "中華書局",
+        "name:zh-Hans": "中华书局",
+        "name:zh-Hant": "中華書局",
+        "operator": "聯合出版（集團）有限公司 Sino United Publishing (Holdings) Limited",
+        "operator:en": "Sino United Publishing (Holdings) Limited",
+        "operator:wikidata": "Q15912494",
+        "operator:zh": "聯合出版（集團）有限公司",
+        "operator:zh-Hans": "联合出版（集团）有限公司",
+        "operator:zh-Hant": "聯合出版（集團）有限公司",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/ChungHwaBook/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chunghwabookcompany-199399.jpg",
+      "local_logo_path": "localbrand/logo/chunghwabookcompany-199399.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ChungHwaBook/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chunghwabookcompany-199399.jpg"
+      }
+    },
+    {
+      "displayName": "丸善",
+      "id": "maruzen-39c53e",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "丸善書店"
+      ],
+      "tags": {
+        "brand": "丸善",
+        "brand:en": "MARUZEN",
+        "brand:ja": "丸善",
+        "brand:wikidata": "Q1906012",
+        "name": "丸善",
+        "name:en": "MARUZEN",
+        "name:ja": "丸善",
+        "official_name": "丸善雄松堂",
+        "official_name:en": "Maruzen Yushodo",
+        "official_name:ja": "丸善雄松堂",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "商務印書館 The Commercial Press",
+      "id": "thecommercialpress-199399",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "brand": "商務印書館 The Commercial Press",
+        "brand:en": "The Commercial Press",
+        "brand:wikidata": "Q10923130",
+        "brand:zh": "商務印書館",
+        "brand:zh-Hans": "商务印书馆",
+        "brand:zh-Hant": "商務印書館",
+        "name": "商務印書館 The Commercial Press",
+        "name:en": "The Commercial Press",
+        "name:zh": "商務印書館",
+        "name:zh-Hans": "商务印书馆",
+        "name:zh-Hant": "商務印書館",
+        "operator": "聯合出版（集團）有限公司 Sino United Publishing (Holdings) Limited",
+        "operator:en": "Sino United Publishing (Holdings) Limited",
+        "operator:wikidata": "Q15912494",
+        "operator:zh": "聯合出版（集團）有限公司",
+        "operator:zh-Hans": "联合出版（集团）有限公司",
+        "operator:zh-Hant": "聯合出版（集團）有限公司",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/commercialpress/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thecommercialpress-199399.jpg",
+      "local_logo_path": "localbrand/logo/thecommercialpress-199399.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/commercialpress/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thecommercialpress-199399.jpg"
+      }
+    },
+    {
+      "displayName": "墊腳石圖書文化廣場",
+      "id": "steppingstonebookstore-06f630",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "matchNames": [
+        "tien chiao shih"
+      ],
+      "tags": {
+        "brand": "墊腳石圖書文化廣場",
+        "brand:en": "Stepping Stone Bookstore",
+        "brand:wikidata": "Q20687906",
+        "brand:zh": "墊腳石圖書文化廣場",
+        "name": "墊腳石圖書文化廣場",
+        "name:en": "Stepping Stone Bookstore",
+        "name:zh": "墊腳石圖書文化廣場",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "大众书局",
+      "id": "dazo-1c7751",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "大众书局",
+        "brand:en": "DAZO",
+        "brand:wikidata": "Q108178095",
+        "brand:zh": "大众书局",
+        "name": "大众书局",
+        "name:en": "DAZO",
+        "name:zh": "大众书局",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "宮脇書店",
+      "id": "miyawakishoten-39c53e",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "宮脇書店",
+        "brand:en": "Miyawaki Shoten",
+        "brand:ja": "宮脇書店",
+        "brand:wikidata": "Q11455237",
+        "name": "宮脇書店",
+        "name:en": "Miyawaki Shoten",
+        "name:ja": "宮脇書店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "当当阅界书店",
+      "id": "dangdangyuejiebookstore-1c7751",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "matchNames": [
+        "当当书店",
+        "当当阅界"
+      ],
+      "tags": {
+        "brand": "当当阅界书店",
+        "brand:en": "Dang Dang Yuejie Bookstore",
+        "brand:wikidata": "Q108178124",
+        "brand:zh": "当当阅界书店",
+        "name": "当当阅界书店",
+        "name:en": "Dang Dang Yuejie Bookstore",
+        "name:zh": "当当阅界书店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "文教堂",
+      "id": "bunkyodo-39c53e",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "文教堂書店"
+      ],
+      "tags": {
+        "brand": "文教堂",
+        "brand:en": "Bunkyodo",
+        "brand:ja": "文教堂",
+        "brand:wikidata": "Q11499974",
+        "name": "文教堂",
+        "name:en": "Bunkyodo",
+        "name:ja": "文教堂",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "新华书店",
+      "id": "xinhuabookstore-1c7751",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "新华书店",
+        "brand:en": "Xinhua Bookstore",
+        "brand:wikidata": "Q6124193",
+        "brand:zh": "新华书店",
+        "name": "新华书店",
+        "name:en": "Xinhua Bookstore",
+        "name:zh": "新华书店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "有隣堂",
+      "id": "yurindo-39c53e",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "有隣堂",
+        "brand:en": "Yurindo",
+        "brand:ja": "有隣堂",
+        "brand:wikidata": "Q8061680",
+        "name": "有隣堂",
+        "name:en": "Yurindo",
+        "name:ja": "有隣堂",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/136524066475474/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yurindo-39c53e.png",
+      "local_logo_path": "localbrand/logo/yurindo-39c53e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/136524066475474/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yurindo-39c53e.png"
+      }
+    },
+    {
+      "displayName": "未来屋書店",
+      "id": "miraiyashoten-39c53e",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "未来屋書店",
+        "brand:en": "Miraiya Shoten",
+        "brand:ja": "未来屋書店",
+        "brand:wikidata": "Q11519563",
+        "name": "未来屋書店",
+        "name:en": "Miraiya Shoten",
+        "name:ja": "未来屋書店",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/miraiyashoten/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/miraiyashoten-39c53e.png",
+      "local_logo_path": "localbrand/logo/miraiyashoten-39c53e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/miraiyashoten/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/miraiyashoten-39c53e.png"
+      }
+    },
+    {
+      "displayName": "樊登书店",
+      "id": "fandengbooks-1c7751",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "樊登书店",
+        "brand:en": "FAN DENG BOOKS",
+        "brand:wikidata": "Q108178138",
+        "brand:zh": "樊登书店",
+        "name": "樊登书店",
+        "name:en": "FAN DENG BOOKS",
+        "name:zh": "樊登书店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "猫的天空之城概念书店",
+      "id": "momicafe-1c7751",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "matchNames": [
+        "猫的天空之城",
+        "猫的天空之城书店",
+        "猫空书店",
+        "猫空概念书店"
+      ],
+      "tags": {
+        "brand": "猫的天空之城概念书店",
+        "brand:en": "Momicafe",
+        "brand:wikidata": "Q16259482",
+        "brand:zh": "猫的天空之城概念书店",
+        "name": "猫的天空之城概念书店",
+        "name:en": "Momicafe",
+        "name:zh": "猫的天空之城概念书店",
+        "operator": "苏州天空之城图书有限公司",
+        "operator:en": "momibook",
+        "operator:zh": "苏州天空之城图书有限公司",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "紀伊國屋書店",
+      "id": "bookskinokuniya-2bac32",
+      "locationSet": {
+        "include": [
+          "jp",
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "紀伊國屋書店",
+        "brand:en": "Books Kinokuniya",
+        "brand:ja": "紀伊國屋書店",
+        "brand:wikidata": "Q703227",
+        "name": "紀伊國屋書店",
+        "name:en": "Books Kinokuniya",
+        "name:ja": "紀伊國屋書店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "臺灣蔦屋",
+      "id": "tsutaya-06f630",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "TSUTAYA",
+        "brand:en": "TSUTAYA",
+        "brand:wikidata": "Q5193457",
+        "brand:zh": "蔦屋書店",
+        "name": "TSUTAYA",
+        "name:en": "TSUTAYA",
+        "name:zh": "蔦屋書店",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/TSUTAYA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tsutaya-06f630.png",
+      "local_logo_path": "localbrand/logo/tsutaya-06f630.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TSUTAYA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tsutaya-06f630.png"
+      }
+    },
+    {
+      "displayName": "西西弗书店",
+      "id": "sisyphebookstore-1c7751",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "西西弗书店",
+        "brand:en": "Sisyphe Bookstore",
+        "brand:wikidata": "Q15904402",
+        "brand:zh": "西西弗书店",
+        "name": "西西弗书店",
+        "name:en": "Sisyphe Bookstore",
+        "name:zh": "西西弗书店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "言几又",
+      "id": "yanjiyou-1c7751",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "言几又",
+        "brand:en": "Yan Ji You",
+        "brand:wikidata": "Q56419889",
+        "brand:zh": "言几又",
+        "name": "言几又",
+        "name:en": "Yan Ji You",
+        "name:zh": "言几又",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "誠品書店",
+      "id": "eslitebookstore-b7aa5f",
+      "locationSet": {
+        "include": [
+          "cn",
+          "tw"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "誠品書店",
+        "brand:en": "Eslite Bookstore",
+        "brand:wikidata": "Q391988",
+        "brand:zh": "誠品書店",
+        "name": "誠品書店",
+        "name:en": "Eslite Bookstore",
+        "name:zh": "誠品書店",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/eslite/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eslitebookstore-b7aa5f.jpg",
+      "local_logo_path": "localbrand/logo/eslitebookstore-b7aa5f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/eslite/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eslitebookstore-b7aa5f.jpg"
+      }
+    },
+    {
+      "displayName": "誠品書店 Eslite Bookstore",
+      "id": "eslitebookstore-e5bda4",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "誠品書店 Eslite Bookstore",
+        "brand:en": "Eslite Bookstore",
+        "brand:wikidata": "Q391988",
+        "brand:zh": "誠品書店",
+        "brand:zh-Hans": "诚品书店",
+        "brand:zh-Hant": "誠品書店",
+        "name": "誠品書店 Eslite Bookstore",
+        "name:en": "Eslite Bookstore",
+        "name:zh": "誠品書店",
+        "name:zh-Hans": "诚品书店",
+        "name:zh-Hant": "誠品書店",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/eslite/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eslitebookstore-e5bda4.jpg",
+      "local_logo_path": "localbrand/logo/eslitebookstore-e5bda4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/eslite/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eslitebookstore-e5bda4.jpg"
+      }
+    },
+    {
+      "displayName": "諾貝爾圖書城",
+      "id": "nobelbookstore-06f630",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "諾貝爾圖書城",
+        "brand:en": "Nobel Bookstore",
+        "brand:wikidata": "Q130214130",
+        "brand:zh": "諾貝爾圖書城",
+        "name": "諾貝爾圖書城",
+        "name:en": "Nobel Bookstore",
+        "name:zh": "諾貝爾圖書城",
+        "shop": "books"
+      },
+      "original_logo_url": "https://graph.facebook.com/nobel.bookstores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nobelbookstore-06f630.png",
+      "local_logo_path": "localbrand/logo/nobelbookstore-06f630.png",
+      "logos": {
+        "original": "https://graph.facebook.com/nobel.bookstores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nobelbookstore-06f630.png"
+      }
+    },
+    {
+      "displayName": "金石堂書店",
+      "id": "kingstonebookstore-06f630",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "金石堂書店",
+        "brand:en": "Kingstone Bookstore",
+        "brand:wikidata": "Q15911680",
+        "brand:zh": "金石堂書店",
+        "name": "金石堂書店",
+        "name:en": "Kingstone Bookstore",
+        "name:zh": "金石堂書店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "墨格",
+      "id": "monogram-1c7751",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "墨格",
+        "brand:en": "monogram",
+        "brand:wikidata": "Q108178296",
+        "brand:zh": "墨格",
+        "name": "墨格",
+        "name:en": "monogram",
+        "name:zh": "墨格",
+        "operator": "苏州天空之城图书有限公司",
+        "operator:en": "momibook",
+        "operator:zh": "苏州天空之城图书有限公司",
+        "shop": "books"
+      }
+    }
+  ]
+}

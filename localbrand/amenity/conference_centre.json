@@ -1,0 +1,39 @@
+{
+  "properties": {
+    "path": "brands/amenity/conference_centre",
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^(conference|convention)( cent(er|re))?$",
+        "^auditorium$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "etc.venues",
+      "id": "etcvenues-e6785d",
+      "locationSet": {
+        "include": [
+          "gb-eng",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "conference_centre",
+        "brand": "etc.venues",
+        "brand:wikidata": "Q120081345",
+        "name": "etc.venues"
+      },
+      "original_logo_url": "https://graph.facebook.com/etc.venues/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/etcvenues-e6785d.jpg",
+      "local_logo_path": "localbrand/logo/etcvenues-e6785d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/etc.venues/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/etcvenues-e6785d.jpg"
+      }
+    }
+  ]
+}

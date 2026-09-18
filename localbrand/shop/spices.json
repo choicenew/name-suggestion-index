@@ -1,0 +1,37 @@
+{
+  "properties": {
+    "path": "brands/shop/spices",
+    "exclude": {
+      "generic": [
+        "^spices$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Penzeys Spices",
+      "id": "penzeysspices-bcf057",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "penzeys"
+      ],
+      "tags": {
+        "brand": "Penzeys Spices",
+        "brand:wikidata": "Q7165435",
+        "name": "Penzeys Spices",
+        "shop": "spices"
+      },
+      "original_logo_url": "https://graph.facebook.com/Penzeys/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/penzeysspices-bcf057.jpg",
+      "local_logo_path": "localbrand/logo/penzeysspices-bcf057.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Penzeys/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/penzeysspices-bcf057.jpg"
+      }
+    }
+  ]
+}

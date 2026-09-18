@@ -1,0 +1,117 @@
+{
+  "properties": {
+    "path": "brands/craft/signmaker",
+    "exclude": {
+      "generic": [
+        "^signmaker$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Fastsigns",
+      "id": "fastsigns-4c87b7",
+      "locationSet": {
+        "include": [
+          "ae",
+          "ca",
+          "cl",
+          "gb",
+          "ky",
+          "mx",
+          "sa",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/sign"
+      ],
+      "tags": {
+        "brand": "Fastsigns",
+        "brand:wikidata": "Q5437127",
+        "craft": "signmaker",
+        "name": "Fastsigns"
+      },
+      "original_logo_url": "https://graph.facebook.com/FASTSIGNS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastsigns-4c87b7.jpg",
+      "local_logo_path": "localbrand/logo/fastsigns-4c87b7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FASTSIGNS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastsigns-4c87b7.jpg"
+      }
+    },
+    {
+      "displayName": "Signarama",
+      "id": "signarama-4d07a5",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/sign"
+      ],
+      "tags": {
+        "brand": "Signarama",
+        "brand:wikidata": "Q24963251",
+        "craft": "signmaker",
+        "name": "Signarama"
+      },
+      "original_logo_url": "https://graph.facebook.com/signarama/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/signarama-4d07a5.jpg",
+      "local_logo_path": "localbrand/logo/signarama-4d07a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/signarama/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/signarama-4d07a5.jpg"
+      }
+    },
+    {
+      "displayName": "Signwave",
+      "id": "signwave-befa65",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "matchTags": [
+        "shop/sign"
+      ],
+      "tags": {
+        "brand": "Signwave",
+        "brand:wikidata": "Q136850122",
+        "craft": "signmaker",
+        "name": "Signwave"
+      },
+      "original_logo_url": "https://graph.facebook.com/SignwaveAustralia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/signwave-befa65.jpg",
+      "local_logo_path": "localbrand/logo/signwave-befa65.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SignwaveAustralia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/signwave-befa65.jpg"
+      }
+    },
+    {
+      "displayName": "SpeedPro",
+      "id": "speedpro-05d3ca",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "SpeedPro",
+        "brand:wikidata": "Q120869976",
+        "craft": "signmaker",
+        "name": "SpeedPro"
+      },
+      "original_logo_url": "https://graph.facebook.com/SpeedProOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedpro-05d3ca.jpg",
+      "local_logo_path": "localbrand/logo/speedpro-05d3ca.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SpeedProOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedpro-05d3ca.jpg"
+      }
+    }
+  ]
+}

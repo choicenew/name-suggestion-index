@@ -1,0 +1,293 @@
+{
+  "properties": {
+    "path": "brands/amenity/karaoke_box",
+    "exclude": {
+      "generic": [
+        "^karaoke box$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Neway",
+      "id": "neway-a8953e",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo",
+          "my"
+        ]
+      },
+      "tags": {
+        "amenity": "karaoke_box",
+        "brand": "Neway",
+        "brand:wikidata": "Q7265439",
+        "fee": "yes",
+        "name": "Neway"
+      },
+      "original_logo_url": "https://graph.facebook.com/newaykaraokebox/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/neway-a8953e.jpg",
+      "local_logo_path": "localbrand/logo/neway-a8953e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/newaykaraokebox/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/neway-a8953e.jpg"
+      }
+    },
+    {
+      "displayName": "カラオケ まねきねこ",
+      "id": "karaokemanekineko-c40f09",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "まねきねこ"
+      ],
+      "tags": {
+        "amenity": "karaoke_box",
+        "brand": "カラオケ まねきねこ",
+        "brand:en": "Karaoke Manekineko",
+        "brand:ja": "カラオケ まねきねこ",
+        "brand:wikidata": "Q88326334",
+        "fee": "yes",
+        "name": "カラオケ まねきねこ",
+        "name:en": "Karaoke Manekineko",
+        "name:ja": "カラオケ まねきねこ"
+      },
+      "original_logo_url": "https://graph.facebook.com/karaokemanekinekoth/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/karaokemanekineko-c40f09.jpg",
+      "local_logo_path": "localbrand/logo/karaokemanekineko-c40f09.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/karaokemanekinekoth/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/karaokemanekineko-c40f09.jpg"
+      }
+    },
+    {
+      "displayName": "カラオケバンバン",
+      "id": "karaokebanban-c40f09",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "karaoke_box",
+        "brand": "カラオケバンバン",
+        "brand:en": "Karaoke BanBan",
+        "brand:ja": "カラオケバンバン",
+        "brand:wikidata": "Q88485685",
+        "fee": "yes",
+        "name": "カラオケバンバン",
+        "name:en": "Karaoke BanBan",
+        "name:ja": "カラオケバンバン"
+      }
+    },
+    {
+      "displayName": "カラオケ館",
+      "id": "karaokekan-c40f09",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "karaoke_box",
+        "brand": "カラオケ館",
+        "brand:en": "Karaoke-kan",
+        "brand:ja": "カラオケ館",
+        "brand:wikidata": "Q11294889",
+        "fee": "yes",
+        "name": "カラオケ館",
+        "name:en": "Karaoke-kan",
+        "name:ja": "カラオケ館"
+      },
+      "original_logo_url": "https://graph.facebook.com/karaokekan.111/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/karaokekan-c40f09.jpg",
+      "local_logo_path": "localbrand/logo/karaokekan-c40f09.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/karaokekan.111/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/karaokekan-c40f09.jpg"
+      }
+    },
+    {
+      "displayName": "コート・ダジュール",
+      "id": "cotedazur-c40f09",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "karaoke_box",
+        "brand": "コート・ダジュール",
+        "brand:en": "Cote d'Azur",
+        "brand:ja": "コート・ダジュール",
+        "brand:wikidata": "Q93542022",
+        "fee": "yes",
+        "name": "コート・ダジュール",
+        "name:en": "Cote d'Azur",
+        "name:ja": "コート・ダジュール"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Karaoke_COTE_D%27AZUR_Ishioka_shop.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cotedazur-c40f09.jpg",
+      "local_logo_path": "localbrand/logo/cotedazur-c40f09.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/d/da/Karaoke_COTE_D%27AZUR_Ishioka_shop.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cotedazur-c40f09.jpg"
+      }
+    },
+    {
+      "displayName": "シダックス",
+      "id": "shidax-c40f09",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "karaoke_box",
+        "brand": "シダックス",
+        "brand:en": "Shidax",
+        "brand:ja": "シダックス",
+        "brand:wikidata": "Q7496130",
+        "fee": "yes",
+        "name": "シダックス",
+        "name:en": "Shidax",
+        "name:ja": "シダックス"
+      }
+    },
+    {
+      "displayName": "ジョイサウンド",
+      "id": "joysound-c40f09",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "karaoke_box",
+        "brand": "ジョイサウンド",
+        "brand:en": "Joysound",
+        "brand:ja": "ジョイサウンド",
+        "brand:wikidata": "Q11226033",
+        "fee": "yes",
+        "name": "ジョイサウンド",
+        "name:en": "Joysound",
+        "name:ja": "ジョイサウンド"
+      },
+      "original_logo_url": "https://graph.facebook.com/JOYSOUND.fanpage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/joysound-c40f09.jpg",
+      "local_logo_path": "localbrand/logo/joysound-c40f09.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JOYSOUND.fanpage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/joysound-c40f09.jpg"
+      }
+    },
+    {
+      "displayName": "ビッグエコー",
+      "id": "bigecho-c40f09",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "karaoke_box",
+        "brand": "ビッグエコー",
+        "brand:en": "Big Echo",
+        "brand:ja": "ビッグエコー",
+        "brand:wikidata": "Q15831707",
+        "fee": "yes",
+        "name": "ビッグエコー",
+        "name:en": "Big Echo",
+        "name:ja": "ビッグエコー"
+      },
+      "original_logo_url": "https://graph.facebook.com/karaokebigecho/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigecho-c40f09.jpg",
+      "local_logo_path": "localbrand/logo/bigecho-c40f09.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/karaokebigecho/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigecho-c40f09.jpg"
+      }
+    },
+    {
+      "displayName": "好樂迪KTV",
+      "id": "holiday-54981d",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "amenity": "karaoke_box",
+        "brand": "好樂迪KTV",
+        "brand:en": "Holiday KTV",
+        "brand:wikidata": "Q10942898",
+        "brand:zh": "好樂迪KTV",
+        "fee": "yes",
+        "name": "好樂迪",
+        "name:en": "Holiday",
+        "name:zh": "好樂迪"
+      },
+      "original_logo_url": "https://graph.facebook.com/holidayktv/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/holiday-54981d.jpg",
+      "local_logo_path": "localbrand/logo/holiday-54981d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/holidayktv/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/holiday-54981d.jpg"
+      }
+    },
+    {
+      "displayName": "纯K",
+      "id": "chunk-41e70c",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "amenity": "karaoke_box",
+        "brand": "纯K",
+        "brand:en": "chun K",
+        "brand:wikidata": "Q131443003",
+        "brand:zh": "纯K",
+        "fee": "yes",
+        "name": "纯K",
+        "name:en": "chun K",
+        "name:zh": "纯K"
+      }
+    },
+    {
+      "displayName": "錢櫃Partyworld",
+      "id": "cashboxpartyworld-54981d",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "amenity": "karaoke_box",
+        "brand": "錢櫃Partyworld",
+        "brand:en": "Cashbox Partyworld",
+        "brand:wikidata": "Q15916325",
+        "brand:zh": "錢櫃Partyworld",
+        "fee": "yes",
+        "name": "錢櫃Partyworld",
+        "name:en": "Cashbox Partyworld",
+        "name:zh": "錢櫃Partyworld"
+      },
+      "original_logo_url": "https://graph.facebook.com/cashboxparty/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cashboxpartyworld-54981d.jpg",
+      "local_logo_path": "localbrand/logo/cashboxpartyworld-54981d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/cashboxparty/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cashboxpartyworld-54981d.jpg"
+      }
+    }
+  ]
+}

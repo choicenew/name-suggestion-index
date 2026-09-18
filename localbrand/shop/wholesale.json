@@ -1,0 +1,904 @@
+{
+  "properties": {
+    "path": "brands/shop/wholesale",
+    "exclude": {
+      "generic": [
+        "^wholesale$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Bestway",
+      "id": "bestway-650ac6",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Bestway",
+        "brand:wikidata": "Q116679441",
+        "name": "Bestway",
+        "shop": "wholesale"
+      }
+    },
+    {
+      "displayName": "BJ's Wholesale Club",
+      "id": "bjswholesaleclub-98b10d",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "bjs",
+        "bjs wholesale"
+      ],
+      "tags": {
+        "brand": "BJ's Wholesale Club",
+        "brand:wikidata": "Q4835754",
+        "name": "BJ's Wholesale Club",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/bjswholesaleclub/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bjswholesaleclub-98b10d.jpg",
+      "local_logo_path": "localbrand/logo/bjswholesaleclub-98b10d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bjswholesaleclub/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bjswholesaleclub-98b10d.jpg"
+      }
+    },
+    {
+      "displayName": "Booker Wholesale",
+      "id": "bookerwholesale-650ac6",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Booker Wholesale",
+        "brand:wikidata": "Q4943180",
+        "name": "Booker Wholesale",
+        "shop": "wholesale"
+      }
+    },
+    {
+      "displayName": "CHEF'STORE",
+      "id": "chefstore-98b10d",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "cash & carry smart foodservice",
+        "smart foodservice"
+      ],
+      "tags": {
+        "brand": "CHEF'STORE",
+        "brand:wikidata": "Q16852683",
+        "name": "CHEF'STORE",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/USFChefStore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chefstore-98b10d.png",
+      "local_logo_path": "localbrand/logo/chefstore-98b10d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/USFChefStore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chefstore-98b10d.png"
+      }
+    },
+    {
+      "displayName": "City Club",
+      "id": "cityclub-8c6923",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "City Club",
+        "brand:wikidata": "Q5123101",
+        "name": "City Club",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/cityclubmx/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cityclub-8c6923.png",
+      "local_logo_path": "localbrand/logo/cityclub-8c6923.png",
+      "logos": {
+        "original": "https://graph.facebook.com/cityclubmx/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cityclub-8c6923.png"
+      }
+    },
+    {
+      "displayName": "Costco",
+      "id": "costco-69a5bf",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "es",
+          "fr",
+          "gb",
+          "is",
+          "kr",
+          "mx",
+          "nz",
+          "se",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "costco wholesale"
+      ],
+      "tags": {
+        "brand": "Costco",
+        "brand:wikidata": "Q715583",
+        "membership": "required",
+        "name": "Costco",
+        "shop": "wholesale"
+      }
+    },
+    {
+      "displayName": "Costco Business Center",
+      "id": "costcobusinesscenter-98b10d",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "note": "Be careful that this is using AmE and don't merge with Canada's",
+      "tags": {
+        "brand": "Costco",
+        "brand:wikidata": "Q715583",
+        "membership": "required",
+        "name": "Costco Business Center",
+        "shop": "wholesale"
+      }
+    },
+    {
+      "displayName": "Costco Business Centre",
+      "id": "costcobusinesscentre-0ee8ff",
+      "locationSet": {
+        "include": [
+          "ca"
+        ],
+        "exclude": [
+          "ca-qc.geojson"
+        ]
+      },
+      "note": "Be careful that this is using BrE and don't merge with USA's",
+      "tags": {
+        "brand": "Costco",
+        "brand:wikidata": "Q715583",
+        "membership": "required",
+        "name": "Costco Business Centre",
+        "shop": "wholesale"
+      }
+    },
+    {
+      "displayName": "Costco Pour l'entreprise",
+      "id": "costcopourlentreprise-94c8bc",
+      "locationSet": {
+        "include": [
+          "ca-qc.geojson"
+        ]
+      },
+      "matchNames": [
+        "costco business centre"
+      ],
+      "tags": {
+        "brand": "Costco",
+        "brand:wikidata": "Q715583",
+        "membership": "required",
+        "name": "Costco Pour l'entreprise",
+        "shop": "wholesale"
+      }
+    },
+    {
+      "displayName": "EDEKA C+C Großmarkt",
+      "id": "edekaccgrossmarkt-ad6aeb",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "EDEKA",
+        "brand:wikidata": "Q701755",
+        "name": "EDEKA C+C Großmarkt",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/EDEKA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edekaccgrossmarkt-ad6aeb.png",
+      "local_logo_path": "localbrand/logo/edekaccgrossmarkt-ad6aeb.png",
+      "logos": {
+        "original": "https://graph.facebook.com/EDEKA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edekaccgrossmarkt-ad6aeb.png"
+      }
+    },
+    {
+      "displayName": "EDEKA Foodservice",
+      "id": "edekafoodservice-ad6aeb",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "EDEKA",
+        "brand:wikidata": "Q701755",
+        "name": "EDEKA Foodservice",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/EDEKA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edekafoodservice-ad6aeb.png",
+      "local_logo_path": "localbrand/logo/edekafoodservice-ad6aeb.png",
+      "logos": {
+        "original": "https://graph.facebook.com/EDEKA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edekafoodservice-ad6aeb.png"
+      }
+    },
+    {
+      "displayName": "Fort Atacadista",
+      "id": "fortatacadista-60dbb1",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Fort Atacadista",
+        "brand:wikidata": "Q48879588",
+        "name": "Fort Atacadista",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/fortatacadista/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fortatacadista-60dbb1.jpg",
+      "local_logo_path": "localbrand/logo/fortatacadista-60dbb1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fortatacadista/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fortatacadista-60dbb1.jpg"
+      }
+    },
+    {
+      "displayName": "Fozzy",
+      "id": "fozzy-df0f6a",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "фоззі"
+      ],
+      "tags": {
+        "brand": "Fozzy",
+        "brand:wikidata": "Q12063200",
+        "name": "Fozzy",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/fozzyshop.ua/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fozzy-df0f6a.png",
+      "local_logo_path": "localbrand/logo/fozzy-df0f6a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/fozzyshop.ua/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fozzy-df0f6a.png"
+      }
+    },
+    {
+      "displayName": "Gigaboks",
+      "id": "gigaboks-2d84b8",
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Gigaboks",
+        "brand:wikidata": "Q125455876",
+        "name": "Gigaboks",
+        "operator": "NorgesGruppen",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/Gigaboks.no/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gigaboks-2d84b8.jpg",
+      "local_logo_path": "localbrand/logo/gigaboks-2d84b8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Gigaboks.no/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gigaboks-2d84b8.jpg"
+      }
+    },
+    {
+      "displayName": "GrosMarket",
+      "id": "grosmarketcashandcarry-a8e84b",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "GrosMarket",
+        "brand:wikidata": "Q136464559",
+        "name": "GrosMarket Cash & Carry",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/GrosMarketCashandCarry/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grosmarketcashandcarry-a8e84b.jpg",
+      "local_logo_path": "localbrand/logo/grosmarketcashandcarry-a8e84b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GrosMarketCashandCarry/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grosmarketcashandcarry-a8e84b.jpg"
+      }
+    },
+    {
+      "displayName": "Handelshof",
+      "id": "handelshof-ad6aeb",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Handelshof",
+        "brand:wikidata": "Q1574870",
+        "name": "Handelshof",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Handelshof_Logo_2019.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/handelshof-ad6aeb.svg",
+      "local_logo_path": "localbrand/logo/handelshof-ad6aeb.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Handelshof_Logo_2019.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/handelshof-ad6aeb.svg"
+      }
+    },
+    {
+      "displayName": "Makro",
+      "id": "makro-66b455",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "th"
+        ]
+      },
+      "tags": {
+        "brand": "Makro",
+        "brand:wikidata": "Q704606",
+        "name": "Makro",
+        "shop": "wholesale"
+      }
+    },
+    {
+      "displayName": "Mastermate",
+      "id": "mastermate-055f9a",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Mastermate",
+        "brand:wikidata": "Q116172699",
+        "name": "Mastermate",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/MastermateNL/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mastermate-055f9a.png",
+      "local_logo_path": "localbrand/logo/mastermate-055f9a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MastermateNL/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mastermate-055f9a.png"
+      }
+    },
+    {
+      "displayName": "Metro",
+      "id": "metro-09b7b7",
+      "locationSet": {
+        "include": [
+          "at",
+          "de",
+          "fr",
+          "hr",
+          "hu",
+          "in",
+          "it",
+          "kz",
+          "md",
+          "pk",
+          "ro",
+          "rs",
+          "ru",
+          "sk",
+          "tr",
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "metro cash & carry"
+      ],
+      "tags": {
+        "brand": "METRO",
+        "brand:wikidata": "Q13610282",
+        "name": "Metro",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/metro.deutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metro-09b7b7.jpg",
+      "local_logo_path": "localbrand/logo/metro-09b7b7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/metro.deutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metro-09b7b7.jpg"
+      }
+    },
+    {
+      "displayName": "Metro (България)",
+      "id": "metro-551edc",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "matchNames": [
+        "metro cash & carry"
+      ],
+      "tags": {
+        "brand": "Metro",
+        "brand:wikidata": "Q13610282",
+        "name": "Metro",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/metro.deutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metro-551edc.jpg",
+      "local_logo_path": "localbrand/logo/metro-551edc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/metro.deutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metro-551edc.jpg"
+      }
+    },
+    {
+      "displayName": "Metro Gastro",
+      "id": "metrogastro-ad6aeb",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "c+c schaper"
+      ],
+      "tags": {
+        "brand": "METRO",
+        "brand:wikidata": "Q13610282",
+        "name": "Metro Gastro",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/metro.deutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metrogastro-ad6aeb.jpg",
+      "local_logo_path": "localbrand/logo/metrogastro-ad6aeb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/metro.deutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metrogastro-ad6aeb.jpg"
+      }
+    },
+    {
+      "displayName": "Mix Mateus",
+      "id": "mixmateus-60dbb1",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Mix Mateus",
+        "brand:wikidata": "Q134776544",
+        "name": "Mix Mateus",
+        "shop": "wholesale"
+      }
+    },
+    {
+      "displayName": "Ptáček",
+      "id": "ptacek-66d7f7",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Ptáček",
+        "brand:wikidata": "Q58195153",
+        "name": "Ptáček",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/ptacek.cz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ptacek-66d7f7.png",
+      "local_logo_path": "localbrand/logo/ptacek-66d7f7.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ptacek.cz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ptacek-66d7f7.png"
+      }
+    },
+    {
+      "displayName": "S&R Membership Shopping",
+      "id": "sandrmembershipshopping-fc4d00",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "matchNames": [
+        "snr membership shopping"
+      ],
+      "tags": {
+        "alt_name": "SNR",
+        "brand": "S&R Membership Shopping",
+        "brand:wikidata": "Q109827302",
+        "shop": "wholesale",
+        "short_name": "S&R"
+      },
+      "original_logo_url": "https://graph.facebook.com/snrmembershipshopping/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sandrmembershipshopping-fc4d00.jpg",
+      "local_logo_path": "localbrand/logo/sandrmembershipshopping-fc4d00.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/snrmembershipshopping/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sandrmembershipshopping-fc4d00.jpg"
+      }
+    },
+    {
+      "displayName": "Sam's Club",
+      "id": "samsclub-d2fd48",
+      "locationSet": {
+        "include": [
+          "br",
+          "mx",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Sam's Club",
+        "brand:wikidata": "Q1972120",
+        "membership": "required",
+        "name": "Sam's Club",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/samsclub/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/samsclub-d2fd48.jpg",
+      "local_logo_path": "localbrand/logo/samsclub-d2fd48.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/samsclub/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/samsclub-d2fd48.jpg"
+      }
+    },
+    {
+      "displayName": "Selgros",
+      "id": "selgros-8ea7cd",
+      "locationSet": {
+        "include": [
+          "de",
+          "pl",
+          "ro",
+          "ru"
+        ]
+      },
+      "matchNames": [
+        "selgros cash & carry"
+      ],
+      "tags": {
+        "brand": "Selgros",
+        "brand:wikidata": "Q473918",
+        "name": "Selgros",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/selgros.deutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/selgros-8ea7cd.jpg",
+      "local_logo_path": "localbrand/logo/selgros-8ea7cd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/selgros.deutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/selgros-8ea7cd.jpg"
+      }
+    },
+    {
+      "displayName": "Sligro",
+      "id": "sligro-fb1de0",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Sligro",
+        "brand:wikidata": "Q3170052",
+        "name": "Sligro",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/sligro/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sligro-fb1de0.jpg",
+      "local_logo_path": "localbrand/logo/sligro-fb1de0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sligro/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sligro-fb1de0.jpg"
+      }
+    },
+    {
+      "displayName": "Snabbgross",
+      "id": "snabbgross-a09397",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "matchNames": [
+        "axfood snabbgross"
+      ],
+      "tags": {
+        "brand": "Snabbgross",
+        "brand:wikidata": "Q10423751",
+        "name": "Snabbgross",
+        "shop": "wholesale"
+      }
+    },
+    {
+      "displayName": "Transgourmet",
+      "id": "transgourmet-4d1ebd",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de",
+          "es",
+          "fr",
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Transgourmet",
+        "brand:wikidata": "Q2448805",
+        "name": "Transgourmet",
+        "shop": "wholesale",
+        "wholesale": "food"
+      },
+      "original_logo_url": "https://graph.facebook.com/TransgourmetDeutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/transgourmet-4d1ebd.jpg",
+      "local_logo_path": "localbrand/logo/transgourmet-4d1ebd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TransgourmetDeutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/transgourmet-4d1ebd.jpg"
+      }
+    },
+    {
+      "displayName": "Unistore опт&розница",
+      "id": "unistoroptandroznitsa-f292f1",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "tags": {
+        "brand": "Unistore опт&розница",
+        "brand:wikidata": "Q136671028",
+        "name": "Unistore опт&розница",
+        "name:be": "Юністор опт&розніца",
+        "name:be-Latn": "Junistor opt&roznica",
+        "name:en": "Unistor opt&roznitsa",
+        "name:ru": "Юнистор опт&розница",
+        "name:uk": "Юністор опт&розниця",
+        "operator": "ООО \"ЮниСтор Групп\"",
+        "ref:vatin": "390528502",
+        "shop": "wholesale"
+      }
+    },
+    {
+      "displayName": "Санта & Кэш",
+      "id": "santaandcash-f292f1",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "tags": {
+        "brand": "Санта & Кэш",
+        "brand:wikidata": "Q136697503",
+        "name": "Санта & Кэш",
+        "name:be": "Санта & Кэш",
+        "name:be-Latn": "Santa & Keš",
+        "name:en": "Santa & Cash",
+        "name:ru": "Санта & Кэш",
+        "name:uk": "Санта & Кеш",
+        "operator": "ООО \"Санта Ритейл\"",
+        "ref:vatin": "291313486",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/santaretail.by/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/santaandcash-f292f1.jpg",
+      "local_logo_path": "localbrand/logo/santaandcash-f292f1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/santaretail.by/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/santaandcash-f292f1.jpg"
+      }
+    },
+    {
+      "displayName": "ჯიბე",
+      "id": "jibe-c6ef46",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "ჯიბე ქეშ & ქერი",
+        "brand:ka": "ჯიბე ქეშ & ქერი",
+        "brand:wikidata": "Q131469968",
+        "name": "ჯიბე",
+        "name:en": "Jibe",
+        "name:ka": "ჯიბე",
+        "name:ru": "Джибе",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/Jibegeo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jibe-c6ef46.jpg",
+      "local_logo_path": "localbrand/logo/jibe-c6ef46.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Jibegeo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jibe-c6ef46.jpg"
+      }
+    },
+    {
+      "displayName": "แม็คโคร",
+      "id": "makro-1d3c91",
+      "locationSet": {
+        "include": [
+          "th"
+        ]
+      },
+      "tags": {
+        "brand": "แม็คโคร",
+        "brand:en": "Makro",
+        "brand:th": "แม็คโคร",
+        "brand:wikidata": "Q704606",
+        "name": "แม็คโคร",
+        "name:en": "Makro",
+        "name:th": "แม็คโคร",
+        "shop": "wholesale"
+      }
+    },
+    {
+      "displayName": "コストコ",
+      "id": "costco-db891f",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "コストコ",
+        "brand:en": "Costco",
+        "brand:ja": "コストコ",
+        "brand:wikidata": "Q715583",
+        "membership": "required",
+        "name": "コストコ",
+        "name:en": "Costco",
+        "name:ja": "コストコ",
+        "shop": "wholesale"
+      }
+    },
+    {
+      "displayName": "好市多",
+      "id": "costco-1d0072",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "好市多",
+        "brand:en": "Costco",
+        "brand:wikidata": "Q715583",
+        "brand:zh": "好市多",
+        "membership": "required",
+        "name": "好市多",
+        "name:en": "Costco",
+        "name:zh": "好市多",
+        "shop": "wholesale"
+      }
+    },
+    {
+      "displayName": "山姆会员商店",
+      "id": "samsclub-596e18",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "山姆会员商店",
+        "brand:en": "Sam's Club",
+        "brand:wikidata": "Q1972120",
+        "brand:zh": "山姆会员商店",
+        "membership": "required",
+        "name": "山姆会员商店",
+        "name:en": "Sam's Club",
+        "name:zh": "山姆会员商店",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/samsclub/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/samsclub-596e18.jpg",
+      "local_logo_path": "localbrand/logo/samsclub-596e18.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/samsclub/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/samsclub-596e18.jpg"
+      }
+    },
+    {
+      "displayName": "开市客",
+      "id": "costco-596e18",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "开市客",
+        "brand:en": "Costco",
+        "brand:wikidata": "Q715583",
+        "brand:zh": "开市客",
+        "membership": "required",
+        "name": "开市客",
+        "name:en": "Costco",
+        "name:zh": "开市客",
+        "shop": "wholesale"
+      }
+    },
+    {
+      "displayName": "麦德龙",
+      "id": "metro-596e18",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "麦德龙",
+        "brand:en": "METRO",
+        "brand:wikidata": "Q13610282",
+        "brand:zh": "麦德龙",
+        "name": "麦德龙",
+        "name:en": "METRO",
+        "name:zh": "麦德龙",
+        "shop": "wholesale"
+      },
+      "original_logo_url": "https://graph.facebook.com/metro.deutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metro-596e18.jpg",
+      "local_logo_path": "localbrand/logo/metro-596e18.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/metro.deutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metro-596e18.jpg"
+      }
+    }
+  ]
+}

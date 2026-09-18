@@ -1,0 +1,4776 @@
+{
+  "properties": {
+    "path": "brands/shop/furniture",
+    "exclude": {
+      "generic": [
+        "^furniture$",
+        "^меб(ель|лі)$"
+      ],
+      "named": [
+        "dunelm"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "1825 Interiors",
+      "id": "1825interiors-0da980",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "1825 Interiors",
+        "brand:wikidata": "Q111080640",
+        "name": "1825 Interiors",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/1825interiors/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/1825interiors-0da980.jpg",
+      "local_logo_path": "localbrand/logo/1825interiors-0da980.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/1825interiors/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/1825interiors-0da980.jpg"
+      }
+    },
+    {
+      "displayName": "Staer",
+      "id": "Staer",
+      "locationSet": {
+        "include": [
+          "ro"
+        ]
+      },
+      "tags": {
+        "shop": "furniture",
+        "name": "Staer",
+        "brand": "Staer",
+        "brand:wikidata": "Q18548069"
+      },
+      "original_logo_url": "https://graph.facebook.com/staer.ro/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/Staer.png",
+      "local_logo_path": "localbrand/logo/Staer.png",
+      "logos": {
+        "original": "https://graph.facebook.com/staer.ro/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/Staer.png"
+      }
+    },
+    {
+      "displayName": "A-Meubel",
+      "id": "ameubel-e8ade6",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "A-Meubel",
+        "brand:wikidata": "Q122904371",
+        "name": "A-Meubel",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Ameubel.nl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ameubel-e8ade6.jpg",
+      "local_logo_path": "localbrand/logo/ameubel-e8ade6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Ameubel.nl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ameubel-e8ade6.jpg"
+      }
+    },
+    {
+      "displayName": "Aaron's",
+      "id": "aarons-a694b9",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "aaron's inc"
+      ],
+      "tags": {
+        "brand": "Aaron's",
+        "brand:wikidata": "Q10397787",
+        "name": "Aaron's",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/aaronsinc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aarons-a694b9.jpg",
+      "local_logo_path": "localbrand/logo/aarons-a694b9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/aaronsinc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aarons-a694b9.jpg"
+      }
+    },
+    {
+      "displayName": "Agata Meble",
+      "id": "agatameble-ad60fa",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Agata Meble",
+        "brand:wikidata": "Q9141928",
+        "name": "Agata Meble",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/salonyagata/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agatameble-ad60fa.png",
+      "local_logo_path": "localbrand/logo/agatameble-ad60fa.png",
+      "logos": {
+        "original": "https://graph.facebook.com/salonyagata/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agatameble-ad60fa.png"
+      }
+    },
+    {
+      "displayName": "Aiko XXXL",
+      "id": "aikoxxxl-685932",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "matchNames": [
+        "aiko"
+      ],
+      "tags": {
+        "brand": "Aiko XXXL",
+        "brand:wikidata": "Q110614670",
+        "name": "Aiko XXXL",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/aikobg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aikoxxxl-685932.jpg",
+      "local_logo_path": "localbrand/logo/aikoxxxl-685932.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/aikobg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aikoxxxl-685932.jpg"
+      }
+    },
+    {
+      "displayName": "Akhona",
+      "id": "akhona-4d9761",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Akhona",
+        "brand:wikidata": "Q116620476",
+        "name": "Akhona",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/akhonafurnishers/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/akhona-4d9761.jpg",
+      "local_logo_path": "localbrand/logo/akhona-4d9761.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/akhonafurnishers/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/akhona-4d9761.jpg"
+      }
+    },
+    {
+      "displayName": "Amart Furniture",
+      "id": "amartfurniture-0da980",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Amart Furniture",
+        "brand:wikidata": "Q114119879",
+        "name": "Amart Furniture",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/amartfurniture/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amartfurniture-0da980.jpg",
+      "local_logo_path": "localbrand/logo/amartfurniture-0da980.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/amartfurniture/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amartfurniture-0da980.jpg"
+      }
+    },
+    {
+      "displayName": "American Signature Furniture",
+      "id": "americansignaturefurniture-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "American Signature Furniture",
+        "brand:wikidata": "Q63859411",
+        "name": "American Signature Furniture",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/AmericanSignatureFurniture/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/americansignaturefurniture-a5c7fa.jpg",
+      "local_logo_path": "localbrand/logo/americansignaturefurniture-a5c7fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AmericanSignatureFurniture/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/americansignaturefurniture-a5c7fa.jpg"
+      }
+    },
+    {
+      "displayName": "Angstrem",
+      "id": "angstrem-e999c2",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Angstrem",
+        "name": "Angstrem",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Arhaus",
+      "id": "arhaus-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Arhaus",
+        "brand:wikidata": "Q35689887",
+        "name": "Arhaus",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/44947264751/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arhaus-a5c7fa.jpg",
+      "local_logo_path": "localbrand/logo/arhaus-a5c7fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/44947264751/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arhaus-a5c7fa.jpg"
+      }
+    },
+    {
+      "displayName": "Ashley HomeStore",
+      "id": "ashleyhomestore-a694b9",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "ashley furniture homestore",
+        "ashley store"
+      ],
+      "tags": {
+        "alt_name": "Ashley Furniture",
+        "brand": "Ashley HomeStore",
+        "brand:wikidata": "Q4805437",
+        "name": "Ashley HomeStore",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Asko",
+      "id": "asko-32ceba",
+      "locationSet": {
+        "include": [
+          "fi"
+        ]
+      },
+      "tags": {
+        "brand": "Asko",
+        "brand:wikidata": "Q11853132",
+        "name": "Asko",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/askohuonekalut/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/asko-32ceba.jpg",
+      "local_logo_path": "localbrand/logo/asko-32ceba.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/askohuonekalut/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/asko-32ceba.jpg"
+      }
+    },
+    {
+      "displayName": "ASKO Nábytek",
+      "id": "askonabytek-8f409c",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "ASKO Nábytek",
+        "brand:wikidata": "Q58197384",
+        "name": "ASKO Nábytek",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/CZASKONabytek/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/askonabytek-8f409c.jpg",
+      "local_logo_path": "localbrand/logo/askonabytek-8f409c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CZASKONabytek/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/askonabytek-8f409c.jpg"
+      }
+    },
+    {
+      "displayName": "ASKO Nábytok",
+      "id": "askonabytok-d1803c",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "ASKO Nábytok",
+        "brand:wikidata": "Q139601355",
+        "name": "ASKO Nábytok",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/SKASKOnabytok/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/askonabytok-d1803c.jpg",
+      "local_logo_path": "localbrand/logo/askonabytok-d1803c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SKASKOnabytok/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/askonabytok-d1803c.jpg"
+      }
+    },
+    {
+      "displayName": "Askona",
+      "id": "askona-e999c2",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Askona",
+        "brand:wikidata": "Q4071319",
+        "name": "Askona",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/AskonaRu/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/askona-e999c2.jpg",
+      "local_logo_path": "localbrand/logo/askona-e999c2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AskonaRu/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/askona-e999c2.jpg"
+      }
+    },
+    {
+      "displayName": "AZKO",
+      "id": "azko-abdbb6",
+      "locationSet": {
+        "include": [
+          "id"
+        ]
+      },
+      "tags": {
+        "brand": "AZKO",
+        "brand:wikidata": "Q133932948",
+        "name": "AZKO",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/azko.id/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/azko-abdbb6.jpg",
+      "local_logo_path": "localbrand/logo/azko-abdbb6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/azko.id/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/azko-abdbb6.jpg"
+      }
+    },
+    {
+      "displayName": "Badcock Home Furniture &more",
+      "id": "badcockhomefurnitureandmore-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Badcock",
+        "brand:wikidata": "Q4840663",
+        "name": "Badcock Home Furniture &more",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/badcockfurniture/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/badcockhomefurnitureandmore-a5c7fa.jpg",
+      "local_logo_path": "localbrand/logo/badcockhomefurnitureandmore-a5c7fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/badcockfurniture/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/badcockhomefurnitureandmore-a5c7fa.jpg"
+      }
+    },
+    {
+      "displayName": "Bassett Furniture",
+      "id": "bassettfurniture-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Bassett Furniture",
+        "brand:wikidata": "Q4868109",
+        "name": "Bassett Furniture",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/BassettFurnitureUS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bassettfurniture-a5c7fa.jpg",
+      "local_logo_path": "localbrand/logo/bassettfurniture-a5c7fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BassettFurnitureUS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bassettfurniture-a5c7fa.jpg"
+      }
+    },
+    {
+      "displayName": "Beares",
+      "id": "beares-084a8f",
+      "locationSet": {
+        "include": [
+          "bw",
+          "ls",
+          "na",
+          "sz",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Beares",
+        "brand:wikidata": "Q116474908",
+        "name": "Beares",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/BearesFurniture/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beares-084a8f.jpg",
+      "local_logo_path": "localbrand/logo/beares-084a8f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BearesFurniture/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beares-084a8f.jpg"
+      }
+    },
+    {
+      "displayName": "Bellona",
+      "id": "bellona-a88d0c",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Bellona",
+        "brand:wikidata": "Q6042498",
+        "name": "Bellona",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/bellonamobilya/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bellona-a88d0c.jpg",
+      "local_logo_path": "localbrand/logo/bellona-a88d0c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bellonamobilya/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bellona-a88d0c.jpg"
+      }
+    },
+    {
+      "displayName": "bene",
+      "id": "bene-12c613",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "bene",
+        "brand:wikidata": "Q492301",
+        "name": "bene",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/bene.office/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bene-12c613.jpg",
+      "local_logo_path": "localbrand/logo/bene-12c613.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bene.office/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bene-12c613.jpg"
+      }
+    },
+    {
+      "displayName": "Big Save Furniture",
+      "id": "bigsavefurniture-ac16b9",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Big Save Furniture",
+        "brand:wikidata": "Q118464713",
+        "name": "Big Save Furniture",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/danskemoblernz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigsavefurniture-ac16b9.png",
+      "local_logo_path": "localbrand/logo/bigsavefurniture-ac16b9.png",
+      "logos": {
+        "original": "https://graph.facebook.com/danskemoblernz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigsavefurniture-ac16b9.png"
+      }
+    },
+    {
+      "displayName": "Black Red White",
+      "id": "blackredwhite-12c613",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Black Red White",
+        "brand:wikidata": "Q4921546",
+        "name": "Black Red White",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/BlackRedWhitePL/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blackredwhite-12c613.png",
+      "local_logo_path": "localbrand/logo/blackredwhite-12c613.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BlackRedWhitePL/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blackredwhite-12c613.png"
+      }
+    },
+    {
+      "displayName": "Bob's Discount Furniture",
+      "id": "bobsdiscountfurniture-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Bob's Discount Furniture",
+        "brand:wikidata": "Q4931582",
+        "name": "Bob's Discount Furniture",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/mybobs/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bobsdiscountfurniture-a5c7fa.jpg",
+      "local_logo_path": "localbrand/logo/bobsdiscountfurniture-a5c7fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mybobs/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bobsdiscountfurniture-a5c7fa.jpg"
+      }
+    },
+    {
+      "displayName": "BoConcept",
+      "id": "boconcept-12c613",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "BoConcept",
+        "brand:wikidata": "Q11338915",
+        "name": "BoConcept",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/BoConceptDeutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boconcept-12c613.jpg",
+      "local_logo_path": "localbrand/logo/boconcept-12c613.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BoConceptDeutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boconcept-12c613.jpg"
+      }
+    },
+    {
+      "displayName": "Bodzio",
+      "id": "bodzio-ad60fa",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Bodzio",
+        "brand:wikidata": "Q20034845",
+        "name": "Bodzio",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/FabrykaMebliBodzio/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bodzio-ad60fa.jpg",
+      "local_logo_path": "localbrand/logo/bodzio-ad60fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FabrykaMebliBodzio/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bodzio-ad60fa.jpg"
+      }
+    },
+    {
+      "displayName": "Bohus",
+      "id": "bohus-dccdff",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no",
+          "se"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Bohus",
+        "brand:wikidata": "Q13630057",
+        "name": "Bohus",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/BohusNorge/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bohus-dccdff.jpg",
+      "local_logo_path": "localbrand/logo/bohus-dccdff.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BohusNorge/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bohus-dccdff.jpg"
+      }
+    },
+    {
+      "displayName": "Bolia",
+      "id": "bolia-a18722",
+      "locationSet": {
+        "include": [
+          "150"
+        ]
+      },
+      "tags": {
+        "brand": "Bolia",
+        "brand:wikidata": "Q11961809",
+        "name": "Bolia",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Boliacom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bolia-a18722.jpg",
+      "local_logo_path": "localbrand/logo/bolia-a18722.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Boliacom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bolia-a18722.jpg"
+      }
+    },
+    {
+      "displayName": "Bradlows",
+      "id": "bradlows-4d9761",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Bradlows",
+        "brand:wikidata": "Q116474883",
+        "name": "Bradlows",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/BradlowsFurniture/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bradlows-4d9761.jpg",
+      "local_logo_path": "localbrand/logo/bradlows-4d9761.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BradlowsFurniture/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bradlows-4d9761.jpg"
+      }
+    },
+    {
+      "displayName": "Braun Möbel Center",
+      "id": "braunmobelcenter-29dff1",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "braun möbel",
+        "möbel braun"
+      ],
+      "tags": {
+        "brand": "Braun Möbel Center",
+        "brand:wikidata": "Q24331199",
+        "name": "Braun Möbel Center",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/BraunMoebelCenter/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/braunmobelcenter-29dff1.jpg",
+      "local_logo_path": "localbrand/logo/braunmobelcenter-29dff1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BraunMoebelCenter/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/braunmobelcenter-29dff1.jpg"
+      }
+    },
+    {
+      "displayName": "British Heart Foundation Home Store",
+      "id": "britishheartfoundationhomestore-5a41a5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "british heart foundation furniture & electrical"
+      ],
+      "tags": {
+        "brand": "British Heart Foundation",
+        "brand:wikidata": "Q4970039",
+        "charity": "yes",
+        "name": "British Heart Foundation Home Store",
+        "second_hand": "yes",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/bhf/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/britishheartfoundationhomestore-5a41a5.png",
+      "local_logo_path": "localbrand/logo/britishheartfoundationhomestore-5a41a5.png",
+      "logos": {
+        "original": "https://graph.facebook.com/bhf/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/britishheartfoundationhomestore-5a41a5.png"
+      }
+    },
+    {
+      "displayName": "But",
+      "id": "but-18f673",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "But",
+        "brand:wikidata": "Q2877537",
+        "name": "But",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/but/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/but-18f673.png",
+      "local_logo_path": "localbrand/logo/but-18f673.png",
+      "logos": {
+        "original": "https://graph.facebook.com/but/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/but-18f673.png"
+      }
+    },
+    {
+      "displayName": "Cabinets To Go",
+      "id": "cabinetstogo-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Cabinets To Go",
+        "brand:wikidata": "Q25245346",
+        "name": "Cabinets To Go",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/CabinetsToGo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cabinetstogo-a5c7fa.jpg",
+      "local_logo_path": "localbrand/logo/cabinetstogo-a5c7fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CabinetsToGo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cabinetstogo-a5c7fa.jpg"
+      }
+    },
+    {
+      "displayName": "California Closets",
+      "id": "californiaclosets-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/clothes",
+        "shop/doityourself",
+        "shop/interior_decoration"
+      ],
+      "tags": {
+        "brand": "California Closets",
+        "brand:wikidata": "Q5020325",
+        "name": "California Closets",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/CaliforniaClosets/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/californiaclosets-a5c7fa.jpg",
+      "local_logo_path": "localbrand/logo/californiaclosets-a5c7fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CaliforniaClosets/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/californiaclosets-a5c7fa.jpg"
+      }
+    },
+    {
+      "displayName": "Chateau d'Ax",
+      "id": "chateaudax-dd1a0d",
+      "locationSet": {
+        "include": [
+          "ao",
+          "be",
+          "ca",
+          "ch",
+          "cn",
+          "de",
+          "es",
+          "fx",
+          "gp",
+          "hr",
+          "it",
+          "ma",
+          "mq",
+          "mt",
+          "mu",
+          "mz",
+          "pt",
+          "re",
+          "sg",
+          "si",
+          "tn",
+          "tw",
+          "us",
+          "vn"
+        ]
+      },
+      "tags": {
+        "brand": "Chateau d'Ax",
+        "brand:wikidata": "Q100249791",
+        "name": "Chateau d'Ax",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/ChateaudAxItalia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chateaudax-dd1a0d.jpg",
+      "local_logo_path": "localbrand/logo/chateaudax-dd1a0d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ChateaudAxItalia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chateaudax-dd1a0d.jpg"
+      }
+    },
+    {
+      "displayName": "Conforama",
+      "id": "conforama-6fff46",
+      "locationSet": {
+        "include": [
+          "ch",
+          "es",
+          "fr",
+          "it",
+          "lu",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "Conforama",
+        "brand:wikidata": "Q541134",
+        "name": "Conforama",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Conforama/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/conforama-6fff46.png",
+      "local_logo_path": "localbrand/logo/conforama-6fff46.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Conforama/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/conforama-6fff46.png"
+      }
+    },
+    {
+      "displayName": "Coricraft",
+      "id": "coricraft-0ebee2",
+      "locationSet": {
+        "include": [
+          "bw",
+          "na",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Coricraft",
+        "brand:wikidata": "Q116428628",
+        "name": "Coricraft",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/coricraftSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coricraft-0ebee2.jpg",
+      "local_logo_path": "localbrand/logo/coricraft-0ebee2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/coricraftSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coricraft-0ebee2.jpg"
+      }
+    },
+    {
+      "displayName": "Cort Furniture Outlet",
+      "id": "cortfurnitureoutlet-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Cort",
+        "brand:wikidata": "Q116210608",
+        "name": "Cort Furniture Outlet",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Cort Furniture Rental",
+      "id": "cortfurniturerental-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Cort",
+        "brand:wikidata": "Q116210608",
+        "name": "Cort Furniture Rental",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Courts (Malaysia)",
+      "id": "courts-0c6e04",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "brand": "Courts",
+        "brand:wikidata": "Q5178707",
+        "name": "Courts",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/CourtsMsia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/courts-0c6e04.jpg",
+      "local_logo_path": "localbrand/logo/courts-0c6e04.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CourtsMsia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/courts-0c6e04.jpg"
+      }
+    },
+    {
+      "displayName": "Courts (Singapore)",
+      "id": "courts-cfdd43",
+      "locationSet": {
+        "include": [
+          "sg"
+        ]
+      },
+      "tags": {
+        "brand": "Courts",
+        "brand:wikidata": "Q24942673",
+        "name": "Courts",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/COURTSSG/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/courts-cfdd43.jpg",
+      "local_logo_path": "localbrand/logo/courts-cfdd43.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/COURTSSG/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/courts-cfdd43.jpg"
+      }
+    },
+    {
+      "displayName": "Crate & Barrel",
+      "id": "crateandbarrel-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Crate & Barrel",
+        "brand:wikidata": "Q5182604",
+        "name": "Crate & Barrel",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/crateandbarrel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crateandbarrel-a5c7fa.jpg",
+      "local_logo_path": "localbrand/logo/crateandbarrel-a5c7fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/crateandbarrel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crateandbarrel-a5c7fa.jpg"
+      }
+    },
+    {
+      "displayName": "Danske Møbler",
+      "id": "danskemobler-ac16b9",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Danske Møbler",
+        "brand:wikidata": "Q118464708",
+        "name": "Danske Møbler",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/BigSaveFurnitureNZ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/danskemobler-ac16b9.jpg",
+      "local_logo_path": "localbrand/logo/danskemobler-ac16b9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BigSaveFurnitureNZ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/danskemobler-ac16b9.jpg"
+      }
+    },
+    {
+      "displayName": "Decodom",
+      "id": "decodom-d1803c",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Decodom",
+        "brand:wikidata": "Q93267098",
+        "name": "Decodom",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Decodom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/decodom-d1803c.jpg",
+      "local_logo_path": "localbrand/logo/decodom-d1803c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Decodom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/decodom-d1803c.jpg"
+      }
+    },
+    {
+      "displayName": "Design Within Reach",
+      "id": "designwithinreach-d2381d",
+      "locationSet": {
+        "include": [
+          "mx",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Design Within Reach",
+        "brand:wikidata": "Q110903326",
+        "name": "Design Within Reach",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/DesignWithinReach/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/designwithinreach-d2381d.jpg",
+      "local_logo_path": "localbrand/logo/designwithinreach-d2381d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DesignWithinReach/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/designwithinreach-d2381d.jpg"
+      }
+    },
+    {
+      "displayName": "Designer Sofas",
+      "id": "designersofas-94fffd",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "matchNames": [
+        "designer natuzzi"
+      ],
+      "tags": {
+        "brand": "Designer Sofas",
+        "brand:wikidata": "Q131695219",
+        "name": "Designer Sofas",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/designersofasgroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/designersofas-94fffd.jpg",
+      "local_logo_path": "localbrand/logo/designersofas-94fffd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/designersofasgroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/designersofas-94fffd.jpg"
+      }
+    },
+    {
+      "displayName": "DFS",
+      "id": "dfs-94fffd",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "matchNames": [
+        "dfs furniture"
+      ],
+      "tags": {
+        "brand": "DFS",
+        "brand:wikidata": "Q5204927",
+        "name": "DFS",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/DFSUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dfs-94fffd.jpg",
+      "local_logo_path": "localbrand/logo/dfs-94fffd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DFSUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dfs-94fffd.jpg"
+      }
+    },
+    {
+      "displayName": "Divan.ru",
+      "id": "divanru-e999c2",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Divan.ru",
+        "name": "Divan.ru",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Doğtaş",
+      "id": "dogtas-a88d0c",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Doğtaş",
+        "brand:wikidata": "Q6042684",
+        "name": "Doğtaş",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Domayne",
+      "id": "domayne-0da980",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Domayne",
+        "brand:wikidata": "Q106224590",
+        "name": "Domayne",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Domayne/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/domayne-0da980.png",
+      "local_logo_path": "localbrand/logo/domayne-0da980.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Domayne/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/domayne-0da980.png"
+      }
+    },
+    {
+      "displayName": "Early Settler",
+      "id": "earlysettler-42aa1b",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Early Settler",
+        "brand:wikidata": "Q111080173",
+        "name": "Early Settler",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/earlysettlerfurnitureAU/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/earlysettler-42aa1b.png",
+      "local_logo_path": "localbrand/logo/earlysettler-42aa1b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/earlysettlerfurnitureAU/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/earlysettler-42aa1b.png"
+      }
+    },
+    {
+      "displayName": "easyhome",
+      "id": "easyhome-a33c55",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "easyhome",
+        "brand:wikidata": "Q130546216",
+        "name": "easyhome",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/easyhomeCA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easyhome-a33c55.jpg",
+      "local_logo_path": "localbrand/logo/easyhome-a33c55.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/easyhomeCA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easyhome-a33c55.jpg"
+      }
+    },
+    {
+      "displayName": "Ethan Allen",
+      "id": "ethanallen-a694b9",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Ethan Allen",
+        "brand:wikidata": "Q5402870",
+        "name": "Ethan Allen",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/ethanallendesign/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ethanallen-a694b9.jpg",
+      "local_logo_path": "localbrand/logo/ethanallen-a694b9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ethanallendesign/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ethanallen-a694b9.jpg"
+      }
+    },
+    {
+      "displayName": "Eureka Street Furniture",
+      "id": "eurekastreetfurniture-0da980",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Eureka Street Furniture",
+        "brand:wikidata": "Q111081528",
+        "name": "Eureka Street Furniture",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "EZ Living Furniture",
+      "id": "ezlivingfurniture-53f64f",
+      "locationSet": {
+        "include": [
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "EZ Living Furniture",
+        "brand:wikidata": "Q113472646",
+        "name": "EZ Living Furniture",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/EZlivingfurniture.ie/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ezlivingfurniture-53f64f.jpg",
+      "local_logo_path": "localbrand/logo/ezlivingfurniture-53f64f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EZlivingfurniture.ie/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ezlivingfurniture-53f64f.jpg"
+      }
+    },
+    {
+      "displayName": "Fabb Furniture",
+      "id": "fabbfurniture-1e392b",
+      "locationSet": {
+        "include": [
+          "gb-eng"
+        ]
+      },
+      "matchNames": [
+        "ahf"
+      ],
+      "tags": {
+        "brand": "Fabb Furniture",
+        "brand:wikidata": "Q122241566",
+        "name": "Fabb Furniture",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Fagmøbler",
+      "id": "fagmobler-c1bd40",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Fagmøbler",
+        "brand:wikidata": "Q119088754",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Fagmobler/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fagmobler-c1bd40.jpg",
+      "local_logo_path": "localbrand/logo/fagmobler-c1bd40.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Fagmobler/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fagmobler-c1bd40.jpg"
+      }
+    },
+    {
+      "displayName": "Fantastic Furniture",
+      "id": "fantasticfurniture-0da980",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Fantastic Furniture",
+        "brand:wikidata": "Q18164803",
+        "name": "Fantastic Furniture",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Fantasticfurniture/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fantasticfurniture-0da980.jpg",
+      "local_logo_path": "localbrand/logo/fantasticfurniture-0da980.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Fantasticfurniture/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fantasticfurniture-0da980.jpg"
+      }
+    },
+    {
+      "displayName": "Farmers Home Furniture",
+      "id": "farmershomefurniture-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Farmers Home Furniture",
+        "brand:wikidata": "Q121586393",
+        "name": "Farmers Home Furniture",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/farmershomefurnitureforyourlife/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/farmershomefurniture-a5c7fa.jpg",
+      "local_logo_path": "localbrand/logo/farmershomefurniture-a5c7fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/farmershomefurnitureforyourlife/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/farmershomefurniture-a5c7fa.jpg"
+      }
+    },
+    {
+      "displayName": "Fly",
+      "id": "fly-18f673",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Fly",
+        "brand:wikidata": "Q1389184",
+        "name": "Fly",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Forma ideale",
+      "id": "formaideale-7d4b0a",
+      "locationSet": {
+        "include": [
+          "rs"
+        ]
+      },
+      "tags": {
+        "brand": "Форма идеале",
+        "brand:sr": "Форма идеале",
+        "brand:sr-Latn": "Forma ideale",
+        "brand:wikidata": "Q65079416",
+        "name": "Форма идеале",
+        "name:sr": "Форма идеале",
+        "name:sr-Latn": "Forma ideale",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/formaideale2/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/formaideale-7d4b0a.png",
+      "local_logo_path": "localbrand/logo/formaideale-7d4b0a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/formaideale2/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/formaideale-7d4b0a.png"
+      }
+    },
+    {
+      "displayName": "Fortunoff Backyard Store",
+      "id": "fortunoffbackyardstore-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Fortunoff Backyard Store",
+        "brand:wikidata": "Q5472911",
+        "furniture": "outdoor",
+        "name": "Fortunoff Backyard Store",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Freedom",
+      "id": "freedom-0da980",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "matchNames": [
+        "freedom furniture"
+      ],
+      "tags": {
+        "brand": "Freedom",
+        "brand:wikidata": "Q5500546",
+        "name": "Freedom",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/freedomAU/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/freedom-0da980.jpg",
+      "local_logo_path": "localbrand/logo/freedom-0da980.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/freedomAU/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/freedom-0da980.jpg"
+      }
+    },
+    {
+      "displayName": "Furniture Village",
+      "id": "furniturevillage-5a41a5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Furniture Village",
+        "brand:wikidata": "Q5509685",
+        "name": "Furniture Village",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/furniturevillage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/furniturevillage-5a41a5.jpg",
+      "local_logo_path": "localbrand/logo/furniturevillage-5a41a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/furniturevillage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/furniturevillage-5a41a5.jpg"
+      }
+    },
+    {
+      "displayName": "Furnmart",
+      "id": "furnmart-0ebee2",
+      "locationSet": {
+        "include": [
+          "bw",
+          "na",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Furnmart",
+        "brand:wikidata": "Q118185771",
+        "name": "Furnmart",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Gautier",
+      "id": "gautier-12c613",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Gautier",
+        "brand:wikidata": "Q5527930",
+        "name": "Gautier",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Gautier.France/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gautier-12c613.png",
+      "local_logo_path": "localbrand/logo/gautier-12c613.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Gautier.France/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gautier-12c613.png"
+      }
+    },
+    {
+      "displayName": "Goossens",
+      "id": "goossens-2b79f5",
+      "locationSet": {
+        "include": [
+          "be",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Goossens",
+        "brand:wikidata": "Q124760045",
+        "name": "Goossens",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/goossenswonen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goossens-2b79f5.jpg",
+      "local_logo_path": "localbrand/logo/goossens-2b79f5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/goossenswonen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goossens-2b79f5.jpg"
+      }
+    },
+    {
+      "displayName": "Habitat (France)",
+      "id": "habitat-18f673",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Habitat",
+        "brand:wikidata": "Q689059",
+        "name": "Habitat",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/HabitatUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/habitat-18f673.jpg",
+      "local_logo_path": "localbrand/logo/habitat-18f673.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HabitatUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/habitat-18f673.jpg"
+      }
+    },
+    {
+      "displayName": "Habitat (non-UK)",
+      "id": "habitat-4d9d78",
+      "issues": [
+        4920
+      ],
+      "locationSet": {
+        "include": [
+          "be",
+          "de",
+          "es",
+          "gr",
+          "is",
+          "lu",
+          "no",
+          "pt",
+          "tr"
+        ]
+      },
+      "note": "No 'gb'. Original UK Habitat Q689059 has split from the Int'l Habitat Group and only operates 4 stores, see #4920",
+      "tags": {
+        "brand": "Habitat",
+        "brand:wikidata": "Q689059",
+        "name": "Habitat",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/HabitatUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/habitat-4d9d78.jpg",
+      "local_logo_path": "localbrand/logo/habitat-4d9d78.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HabitatUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/habitat-4d9d78.jpg"
+      }
+    },
+    {
+      "displayName": "Hardeck",
+      "id": "hardeck-29dff1",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "möbel hardeck"
+      ],
+      "tags": {
+        "brand": "HARDECK",
+        "brand:wikidata": "Q1957803",
+        "name": "HARDECK",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/HARDECK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hardeck-29dff1.jpg",
+      "local_logo_path": "localbrand/logo/hardeck-29dff1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HARDECK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hardeck-29dff1.jpg"
+      }
+    },
+    {
+      "displayName": "Harveys",
+      "id": "harveys-5a41a5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Harveys",
+        "brand:wikidata": "Q5677754",
+        "name": "Harveys",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Havertys",
+      "id": "havertys-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Havertys",
+        "brand:wikidata": "Q5683881",
+        "name": "Havertys",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Herman Miller",
+      "id": "hermanmiller-12c613",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Herman Miller",
+        "brand:wikidata": "Q489469",
+        "name": "Herman Miller",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/HermanMiller/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hermanmiller-12c613.jpg",
+      "local_logo_path": "localbrand/logo/hermanmiller-12c613.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HermanMiller/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hermanmiller-12c613.jpg"
+      }
+    },
+    {
+      "displayName": "Höffner",
+      "id": "hoffner-29dff1",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Höffner",
+        "brand:wikidata": "Q1643397",
+        "name": "Höffner",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "home24",
+      "id": "home24-29dff1",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "home24",
+        "brand:wikidata": "Q17322325",
+        "name": "home24",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/home24.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/home24-29dff1.png",
+      "local_logo_path": "localbrand/logo/home24-29dff1.png",
+      "logos": {
+        "original": "https://graph.facebook.com/home24.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/home24-29dff1.png"
+      }
+    },
+    {
+      "displayName": "House & Home",
+      "id": "houseandhome-0ebee2",
+      "locationSet": {
+        "include": [
+          "bw",
+          "na",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "House & Home",
+        "brand:wikidata": "Q116520162",
+        "name": "House & Home",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/houseandhomeSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/houseandhome-0ebee2.jpg",
+      "local_logo_path": "localbrand/logo/houseandhome-0ebee2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/houseandhomeSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/houseandhome-0ebee2.jpg"
+      }
+    },
+    {
+      "displayName": "HSL",
+      "id": "hsl-5a41a5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "HSL",
+        "brand:wikidata": "Q64284324",
+        "name": "HSL",
+        "official_name": "High Seat Limited",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/hslchairs/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hsl-5a41a5.jpg",
+      "local_logo_path": "localbrand/logo/hsl-5a41a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hslchairs/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hsl-5a41a5.jpg"
+      }
+    },
+    {
+      "displayName": "IKEA",
+      "id": "ikea-ac4ccb",
+      "locationSet": {
+        "include": [
+          "ae",
+          "at",
+          "au",
+          "be",
+          "bh",
+          "ca",
+          "ch",
+          "cl",
+          "cz",
+          "de",
+          "eg",
+          "es",
+          "fr",
+          "gb",
+          "hr",
+          "hu",
+          "ie",
+          "il",
+          "in",
+          "it",
+          "jo",
+          "kr",
+          "kw",
+          "ma",
+          "mx",
+          "my",
+          "nl",
+          "nz",
+          "ph",
+          "pl",
+          "pt",
+          "qa",
+          "ro",
+          "rs",
+          "sa",
+          "sg",
+          "si",
+          "sk",
+          "th",
+          "tr",
+          "tw",
+          "ua",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "IKEA",
+        "brand:wikidata": "Q54078",
+        "name": "IKEA",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/IKEA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-ac4ccb.jpg",
+      "local_logo_path": "localbrand/logo/ikea-ac4ccb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IKEA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-ac4ccb.jpg"
+      }
+    },
+    {
+      "displayName": "IKEA (Scandinavia)",
+      "id": "ikea-3c70a1",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "dk",
+          "fi",
+          "no",
+          "se"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "IKEA",
+        "brand:wikidata": "Q54078",
+        "name": "IKEA",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/IKEA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-3c70a1.jpg",
+      "local_logo_path": "localbrand/logo/ikea-3c70a1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IKEA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-3c70a1.jpg"
+      }
+    },
+    {
+      "displayName": "IKEA Planning Studio",
+      "id": "ikeaplanningstudio-1705b1",
+      "locationSet": {
+        "include": [
+          "cz",
+          "de",
+          "pt",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "IKEA",
+        "brand:wikidata": "Q54078",
+        "name": "IKEA Planning Studio",
+        "name:cs": "IKEA Plánovací studio",
+        "name:en": "IKEA Planning Studio",
+        "name:pt": "IKEA Estúdio de Planificação",
+        "name:sk": "IKEA Plánovacie štúdio",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/IKEA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikeaplanningstudio-1705b1.jpg",
+      "local_logo_path": "localbrand/logo/ikeaplanningstudio-1705b1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IKEA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikeaplanningstudio-1705b1.jpg"
+      }
+    },
+    {
+      "displayName": "Informa",
+      "id": "informa-abdbb6",
+      "locationSet": {
+        "include": [
+          "id"
+        ]
+      },
+      "tags": {
+        "brand": "Informa",
+        "brand:wikidata": "Q133933054",
+        "name": "Informa",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/InformaID/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/informa-abdbb6.jpg",
+      "local_logo_path": "localbrand/logo/informa-abdbb6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/InformaID/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/informa-abdbb6.jpg"
+      }
+    },
+    {
+      "displayName": "Isku",
+      "id": "isku-32ceba",
+      "locationSet": {
+        "include": [
+          "fi"
+        ]
+      },
+      "tags": {
+        "brand": "Isku",
+        "brand:wikidata": "Q11865127",
+        "name": "Isku",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "İstikbal",
+      "id": "istikbal-a88d0c",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "İstikbal",
+        "brand:wikidata": "Q6031999",
+        "name": "İstikbal",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/istikbal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/istikbal-a88d0c.jpg",
+      "local_logo_path": "localbrand/logo/istikbal-a88d0c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/istikbal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/istikbal-a88d0c.jpg"
+      }
+    },
+    {
+      "displayName": "Jerome's Furniture",
+      "id": "jeromesfurniture-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Jerome's Furniture",
+        "brand:wikidata": "Q16997693",
+        "name": "Jerome's Furniture",
+        "shop": "furniture",
+        "short_name": "Jerome's"
+      },
+      "original_logo_url": "https://graph.facebook.com/JeromesFurniture/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jeromesfurniture-a5c7fa.jpg",
+      "local_logo_path": "localbrand/logo/jeromesfurniture-a5c7fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JeromesFurniture/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jeromesfurniture-a5c7fa.jpg"
+      }
+    },
+    {
+      "displayName": "JYSK",
+      "id": "jysk-9952df",
+      "issues": [
+        5509
+      ],
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "ge",
+          "no"
+        ]
+      },
+      "matchNames": [
+        "dänisches bettenlager",
+        "jysk romania"
+      ],
+      "tags": {
+        "brand": "JYSK",
+        "brand:wikidata": "Q138913",
+        "name": "JYSK",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/JYSK.dk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jysk-9952df.jpg",
+      "local_logo_path": "localbrand/logo/jysk-9952df.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JYSK.dk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jysk-9952df.jpg"
+      }
+    },
+    {
+      "displayName": "Jysk (Norge)",
+      "id": "jysk-c1bd40",
+      "issues": [
+        5509
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Jysk",
+        "brand:wikidata": "Q138913",
+        "name": "Jysk",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/JYSK.dk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jysk-c1bd40.jpg",
+      "local_logo_path": "localbrand/logo/jysk-c1bd40.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JYSK.dk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jysk-c1bd40.jpg"
+      }
+    },
+    {
+      "displayName": "Kartell",
+      "id": "kartell-12c613",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Kartell",
+        "brand:wikidata": "Q2262005",
+        "name": "Kartell",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Kartell/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kartell-12c613.png",
+      "local_logo_path": "localbrand/logo/kartell-12c613.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Kartell/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kartell-12c613.png"
+      }
+    },
+    {
+      "displayName": "Kelebek",
+      "id": "kelebek-a88d0c",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Kelebek",
+        "brand:wikidata": "Q28729960",
+        "name": "Kelebek",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/kelebekmobilya/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kelebek-a88d0c.jpg",
+      "local_logo_path": "localbrand/logo/kelebek-a88d0c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kelebekmobilya/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kelebek-a88d0c.jpg"
+      }
+    },
+    {
+      "displayName": "Kitea",
+      "id": "kitea-bfeed0",
+      "locationSet": {
+        "include": [
+          "ma"
+        ]
+      },
+      "tags": {
+        "brand": "Kitea",
+        "brand:ar": "كيتيا",
+        "brand:fr": "Kitea",
+        "brand:wikidata": "Q3197636",
+        "name": "Kitea",
+        "name:ar": "كيتيا",
+        "name:fr": "Kitea",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/kiteagroup.official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kitea-bfeed0.jpg",
+      "local_logo_path": "localbrand/logo/kitea-bfeed0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kiteagroup.official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kitea-bfeed0.jpg"
+      }
+    },
+    {
+      "displayName": "Komfort",
+      "id": "komfort-ad60fa",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Komfort",
+        "brand:wikidata": "Q127275164",
+        "name": "Komfort",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/sklepykomfort/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/komfort-ad60fa.png",
+      "local_logo_path": "localbrand/logo/komfort-ad60fa.png",
+      "logos": {
+        "original": "https://graph.facebook.com/sklepykomfort/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/komfort-ad60fa.png"
+      }
+    },
+    {
+      "displayName": "Kwantum",
+      "id": "kwantum-2b79f5",
+      "locationSet": {
+        "include": [
+          "be",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Kwantum",
+        "brand:wikidata": "Q2262591",
+        "name": "Kwantum",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/KwantumNL/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kwantum-2b79f5.jpg",
+      "local_logo_path": "localbrand/logo/kwantum-2b79f5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KwantumNL/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kwantum-2b79f5.jpg"
+      }
+    },
+    {
+      "displayName": "La-Z-Boy",
+      "id": "lazboy-637554",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "nz",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "la-z-boy furniture gallery",
+        "lazy boy"
+      ],
+      "tags": {
+        "brand": "La-Z-Boy",
+        "brand:wikidata": "Q6391583",
+        "name": "La-Z-Boy",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/lazboy/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lazboy-637554.jpg",
+      "local_logo_path": "localbrand/logo/lazboy-637554.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lazboy/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lazboy-637554.jpg"
+      }
+    },
+    {
+      "displayName": "Laura Ashley Home",
+      "id": "lauraashleyhome-5a41a5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Laura Ashley",
+        "brand:wikidata": "Q1523089",
+        "name": "Laura Ashley Home",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/LauraAshleyUS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lauraashleyhome-5a41a5.jpg",
+      "local_logo_path": "localbrand/logo/lauraashleyhome-5a41a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LauraAshleyUS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lauraashleyhome-5a41a5.jpg"
+      }
+    },
+    {
+      "displayName": "Lazurit",
+      "id": "lazurit-e999c2",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Lazurit",
+        "name": "Lazurit",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Leen Bakker",
+      "id": "leenbakker-e8ade6",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Leen Bakker",
+        "brand:wikidata": "Q3333662",
+        "name": "Leen Bakker",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/leenbakker/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leenbakker-e8ade6.png",
+      "local_logo_path": "localbrand/logo/leenbakker-e8ade6.png",
+      "logos": {
+        "original": "https://graph.facebook.com/leenbakker/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leenbakker-e8ade6.png"
+      }
+    },
+    {
+      "displayName": "Leon's",
+      "id": "leons-8eabee",
+      "locationSet": {
+        "include": [
+          "ca"
+        ],
+        "exclude": [
+          "ca-qc.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Leon's",
+        "brand:wikidata": "Q6524456",
+        "name": "Leon's",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/leonsfurniture/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leons-8eabee.jpg",
+      "local_logo_path": "localbrand/logo/leons-8eabee.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/leonsfurniture/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leons-8eabee.jpg"
+      }
+    },
+    {
+      "displayName": "Lewis",
+      "id": "lewis-084a8f",
+      "locationSet": {
+        "include": [
+          "bw",
+          "ls",
+          "na",
+          "sz",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Lewis Stores",
+        "brand:wikidata": "Q115117217",
+        "name": "Lewis",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Lewis.Furniture.Stores.RSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lewis-084a8f.jpg",
+      "local_logo_path": "localbrand/logo/lewis-084a8f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Lewis.Furniture.Stores.RSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lewis-084a8f.jpg"
+      }
+    },
+    {
+      "displayName": "Ligne Roset",
+      "id": "ligneroset-12c613",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Ligne Roset",
+        "brand:wikidata": "Q3442586",
+        "name": "Ligne Roset",
+        "shop": "furniture",
+        "short_name": "Roset"
+      },
+      "original_logo_url": "https://graph.facebook.com/LigneRoset/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ligneroset-12c613.jpg",
+      "local_logo_path": "localbrand/logo/ligneroset-12c613.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LigneRoset/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ligneroset-12c613.jpg"
+      }
+    },
+    {
+      "displayName": "Livique",
+      "id": "livique-be426f",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "brand": "Livique",
+        "brand:wikidata": "Q15851221",
+        "name": "Livique",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/livique.ch/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/livique-be426f.jpg",
+      "local_logo_path": "localbrand/logo/livique-be426f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/livique.ch/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/livique-be426f.jpg"
+      }
+    },
+    {
+      "displayName": "Lorena",
+      "id": "lorena-e999c2",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Lorena",
+        "name": "Lorena",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "LoveSac",
+      "id": "lovesac-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "LoveSac",
+        "brand:wikidata": "Q6690181",
+        "name": "LoveSac",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/LoveSac/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lovesac-a5c7fa.jpg",
+      "local_logo_path": "localbrand/logo/lovesac-a5c7fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LoveSac/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lovesac-a5c7fa.jpg"
+      }
+    },
+    {
+      "displayName": "MadeiraMadeira",
+      "id": "madeiramadeira-dc6cdf",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "MadeiraMadeira",
+        "brand:wikidata": "Q86734881",
+        "name": "MadeiraMadeira",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Maisons du Monde",
+      "id": "maisonsdumonde-41c8c3",
+      "locationSet": {
+        "include": [
+          "be",
+          "ch",
+          "de",
+          "es",
+          "fr",
+          "gb",
+          "it",
+          "lu",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "Maisons du Monde",
+        "brand:wikidata": "Q3280364",
+        "name": "Maisons du Monde",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/maisonsdumondeus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maisonsdumonde-41c8c3.jpg",
+      "local_logo_path": "localbrand/logo/maisonsdumonde-41c8c3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/maisonsdumondeus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maisonsdumonde-41c8c3.jpg"
+      }
+    },
+    {
+      "displayName": "Matis",
+      "id": "matis-7d4b0a",
+      "locationSet": {
+        "include": [
+          "rs"
+        ]
+      },
+      "tags": {
+        "brand": "Matis",
+        "brand:wikidata": "Q138426854",
+        "name": "Matis",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/namestajmatis/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/matis-7d4b0a.jpg",
+      "local_logo_path": "localbrand/logo/matis-7d4b0a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/namestajmatis/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/matis-7d4b0a.jpg"
+      }
+    },
+    {
+      "displayName": "Meubles Gautier",
+      "id": "meublesgautier-affdb4",
+      "locationSet": {
+        "include": [
+          "be",
+          "fr"
+        ]
+      },
+      "matchNames": [
+        "gautier",
+        "les meubles gautier"
+      ],
+      "tags": {
+        "brand": "Meubles Gautier",
+        "brand:wikidata": "Q138426875",
+        "name": "Meubles Gautier",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Gautier.France/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meublesgautier-affdb4.png",
+      "local_logo_path": "localbrand/logo/meublesgautier-affdb4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Gautier.France/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meublesgautier-affdb4.png"
+      }
+    },
+    {
+      "displayName": "Meubles Léon",
+      "id": "meublesleon-20962f",
+      "locationSet": {
+        "include": [
+          "ca-qc.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Léon",
+        "brand:wikidata": "Q6524456",
+        "name": "Meubles Léon",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/leonsfurniture/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meublesleon-20962f.jpg",
+      "local_logo_path": "localbrand/logo/meublesleon-20962f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/leonsfurniture/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meublesleon-20962f.jpg"
+      }
+    },
+    {
+      "displayName": "Mio",
+      "id": "mio-7805c0",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Mio",
+        "brand:wikidata": "Q1315348",
+        "name": "Mio",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/mioofficiell/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mio-7805c0.jpg",
+      "local_logo_path": "localbrand/logo/mio-7805c0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mioofficiell/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mio-7805c0.jpg"
+      }
+    },
+    {
+      "displayName": "Möbel Boss",
+      "id": "mobelboss-29dff1",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "boss möbel",
+        "sb-möbel boss"
+      ],
+      "tags": {
+        "brand": "Möbel Boss",
+        "brand:wikidata": "Q99624217",
+        "name": "Möbel Boss",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/moebelboss/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobelboss-29dff1.jpg",
+      "local_logo_path": "localbrand/logo/mobelboss-29dff1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/moebelboss/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobelboss-29dff1.jpg"
+      }
+    },
+    {
+      "displayName": "Möbel Kraft",
+      "id": "mobelkraft-29dff1",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Möbel Kraft",
+        "brand:wikidata": "Q1957806",
+        "name": "Möbel Kraft",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/moebelkraft/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobelkraft-29dff1.jpg",
+      "local_logo_path": "localbrand/logo/mobelkraft-29dff1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/moebelkraft/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobelkraft-29dff1.jpg"
+      }
+    },
+    {
+      "displayName": "Möbel Martin",
+      "id": "mobelmartin-29dff1",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Möbel Martin",
+        "brand:wikidata": "Q15836030",
+        "name": "Möbel Martin",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/moebelmartin/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobelmartin-29dff1.jpg",
+      "local_logo_path": "localbrand/logo/mobelmartin-29dff1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/moebelmartin/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobelmartin-29dff1.jpg"
+      }
+    },
+    {
+      "displayName": "Möbelix",
+      "id": "mobelix-0d6d80",
+      "locationSet": {
+        "include": [
+          "at",
+          "cz",
+          "hu",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Möbelix",
+        "brand:wikidata": "Q877547",
+        "name": "Möbelix",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/moebelix.at/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobelix-0d6d80.png",
+      "local_logo_path": "localbrand/logo/mobelix-0d6d80.png",
+      "logos": {
+        "original": "https://graph.facebook.com/moebelix.at/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobelix-0d6d80.png"
+      }
+    },
+    {
+      "displayName": "Møbelringen",
+      "id": "mobelringen-c1bd40",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Møbelringen",
+        "brand:wikidata": "Q11990436",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/mobelringen.no/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobelringen-c1bd40.jpg",
+      "local_logo_path": "localbrand/logo/mobelringen-c1bd40.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mobelringen.no/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobelringen-c1bd40.jpg"
+      }
+    },
+    {
+      "displayName": "Mobexpert",
+      "id": "mobexpert-e892fd",
+      "locationSet": {
+        "include": [
+          "ro"
+        ]
+      },
+      "tags": {
+        "brand": "Mobexpert",
+        "brand:wikidata": "Q6886685",
+        "name": "Mobexpert",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/MOBEXPERT/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobexpert-e892fd.jpg",
+      "local_logo_path": "localbrand/logo/mobexpert-e892fd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MOBEXPERT/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobexpert-e892fd.jpg"
+      }
+    },
+    {
+      "displayName": "Mobilier de France",
+      "id": "mobilierdefrance-419760",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Mobilier de France",
+        "brand:wikidata": "Q48759410",
+        "name": "Mobilier de France",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/MobilierdeFrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobilierdefrance-419760.jpg",
+      "local_logo_path": "localbrand/logo/mobilierdefrance-419760.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MobilierdeFrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobilierdefrance-419760.jpg"
+      }
+    },
+    {
+      "displayName": "Mömax",
+      "id": "momax-a18722",
+      "locationSet": {
+        "include": [
+          "150"
+        ]
+      },
+      "tags": {
+        "brand": "Mömax",
+        "brand:wikidata": "Q56388481",
+        "name": "Mömax",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/moemax.at/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/momax-a18722.png",
+      "local_logo_path": "localbrand/logo/momax-a18722.png",
+      "logos": {
+        "original": "https://graph.facebook.com/moemax.at/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/momax-a18722.png"
+      }
+    },
+    {
+      "displayName": "Mondi",
+      "id": "mondi-a88d0c",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Mondi",
+        "brand:wikidata": "Q106803578",
+        "name": "Mondi",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Mondi/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mondi-a88d0c.jpg",
+      "local_logo_path": "localbrand/logo/mondi-a88d0c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Mondi/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mondi-a88d0c.jpg"
+      }
+    },
+    {
+      "displayName": "Mondo Convenienza",
+      "id": "mondoconvenienza-615888",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Mondo Convenienza",
+        "brand:wikidata": "Q55830962",
+        "name": "Mondo Convenienza",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/mondoconv/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mondoconvenienza-615888.png",
+      "local_logo_path": "localbrand/logo/mondoconvenienza-615888.png",
+      "logos": {
+        "original": "https://graph.facebook.com/mondoconv/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mondoconvenienza-615888.png"
+      }
+    },
+    {
+      "displayName": "Monsieur Meuble",
+      "id": "monsieurmeuble-419760",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Monsieur Meuble",
+        "brand:wikidata": "Q60848824",
+        "name": "Monsieur Meuble",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/monsieurmeuble/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monsieurmeuble-419760.jpg",
+      "local_logo_path": "localbrand/logo/monsieurmeuble-419760.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/monsieurmeuble/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monsieurmeuble-419760.jpg"
+      }
+    },
+    {
+      "displayName": "Mor",
+      "id": "morfurniture-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Mor",
+        "brand:wikidata": "Q6908863",
+        "name": "Mor Furniture",
+        "official_name": "Mor Furniture for Less",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/MorFurniture/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morfurniture-a5c7fa.jpg",
+      "local_logo_path": "localbrand/logo/morfurniture-a5c7fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MorFurniture/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morfurniture-a5c7fa.jpg"
+      }
+    },
+    {
+      "displayName": "Muebles Dico",
+      "id": "mueblesdico-278803",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Muebles Dico",
+        "brand:wikidata": "Q113204615",
+        "name": "Muebles Dico",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/MUEBLESDICO/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mueblesdico-278803.jpg",
+      "local_logo_path": "localbrand/logo/mueblesdico-278803.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MUEBLESDICO/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mueblesdico-278803.jpg"
+      }
+    },
+    {
+      "displayName": "Multipolster",
+      "id": "multipolster-29dff1",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Multipolster",
+        "brand:wikidata": "Q99641150",
+        "name": "Multipolster",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/MultipolsterGmbH/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/multipolster-29dff1.png",
+      "local_logo_path": "localbrand/logo/multipolster-29dff1.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MultipolsterGmbH/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/multipolster-29dff1.png"
+      }
+    },
+    {
+      "displayName": "Musterring",
+      "id": "musterring-12c613",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Musterring",
+        "brand:wikidata": "Q1955638",
+        "name": "Musterring",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Musterring/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/musterring-12c613.jpg",
+      "local_logo_path": "localbrand/logo/musterring-12c613.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Musterring/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/musterring-12c613.jpg"
+      }
+    },
+    {
+      "displayName": "Nábytek Jamall",
+      "id": "nabytekjamall-8f409c",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "Nábytek Jamall",
+        "brand:wikidata": "Q122875133",
+        "name": "Nábytek Jamall",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/jamall.nabytek/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nabytekjamall-8f409c.jpg",
+      "local_logo_path": "localbrand/logo/nabytekjamall-8f409c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/jamall.nabytek/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nabytekjamall-8f409c.jpg"
+      }
+    },
+    {
+      "displayName": "Natuzzi",
+      "id": "natuzzi-cc79da",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "gb",
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "Natuzzi",
+        "brand:wikidata": "Q3873359",
+        "name": "Natuzzi",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Natuzzi/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/natuzzi-cc79da.jpg",
+      "local_logo_path": "localbrand/logo/natuzzi-cc79da.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Natuzzi/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/natuzzi-cc79da.jpg"
+      }
+    },
+    {
+      "displayName": "Natuzzi Italia",
+      "id": "natuzziitalia-12c613",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Natuzzi",
+        "brand:wikidata": "Q3873359",
+        "name": "Natuzzi Italia",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Natuzzi/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/natuzziitalia-12c613.jpg",
+      "local_logo_path": "localbrand/logo/natuzziitalia-12c613.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Natuzzi/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/natuzziitalia-12c613.jpg"
+      }
+    },
+    {
+      "displayName": "NCF Living",
+      "id": "ncfliving-5a41a5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "NCF Living",
+        "brand:wikidata": "Q131808272",
+        "name": "NCF Living",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/ncf.co.uk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ncfliving-5a41a5.png",
+      "local_logo_path": "localbrand/logo/ncfliving-5a41a5.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ncf.co.uk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ncfliving-5a41a5.png"
+      }
+    },
+    {
+      "displayName": "Next Home",
+      "id": "nexthome-5a41a5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Next Home",
+        "brand:wikidata": "Q116897680",
+        "name": "Next Home",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/nextofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nexthome-5a41a5.jpg",
+      "local_logo_path": "localbrand/logo/nexthome-5a41a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/nextofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nexthome-5a41a5.jpg"
+      }
+    },
+    {
+      "displayName": "Nick Scali",
+      "id": "nickscali-0da980",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Nick Scali",
+        "brand:wikidata": "Q17053453",
+        "name": "Nick Scali",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/NickScaliFurniture/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nickscali-0da980.jpg",
+      "local_logo_path": "localbrand/logo/nickscali-0da980.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NickScaliFurniture/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nickscali-0da980.jpg"
+      }
+    },
+    {
+      "displayName": "Nitori",
+      "id": "nitori-a040a8",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo",
+          "my",
+          "sg",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Nitori",
+        "brand:en": "Nitori",
+        "brand:ja": "ニトリ",
+        "brand:wikidata": "Q10801453",
+        "name": "Nitori",
+        "name:en": "Nitori",
+        "name:ja": "ニトリ",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/nitori.jp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nitori-a040a8.jpg",
+      "local_logo_path": "localbrand/logo/nitori-a040a8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/nitori.jp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nitori-a040a8.jpg"
+      }
+    },
+    {
+      "displayName": "Oak Furnitureland",
+      "id": "oakfurnitureland-5a41a5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Oak Furnitureland",
+        "brand:wikidata": "Q16959724",
+        "name": "Oak Furnitureland",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/OakFurnitureland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oakfurnitureland-5a41a5.jpg",
+      "local_logo_path": "localbrand/logo/oakfurnitureland-5a41a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OakFurnitureland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oakfurnitureland-5a41a5.jpg"
+      }
+    },
+    {
+      "displayName": "Ofiprix",
+      "id": "ofiprix-53177d",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "tags": {
+        "brand": "Ofiprix",
+        "brand:wikidata": "Q116970185",
+        "name": "Ofiprix",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/ofiprix/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ofiprix-53177d.jpg",
+      "local_logo_path": "localbrand/logo/ofiprix-53177d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ofiprix/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ofiprix-53177d.jpg"
+      }
+    },
+    {
+      "displayName": "OK Furniture",
+      "id": "okfurniture-e98456",
+      "locationSet": {
+        "include": [
+          "ao",
+          "bw",
+          "ls",
+          "mz",
+          "na",
+          "sz",
+          "za",
+          "zm"
+        ]
+      },
+      "tags": {
+        "brand": "OK Furniture",
+        "brand:wikidata": "Q116474866",
+        "name": "OK Furniture",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/okfurnitureSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/okfurniture-e98456.jpg",
+      "local_logo_path": "localbrand/logo/okfurniture-e98456.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/okfurnitureSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/okfurniture-e98456.jpg"
+      }
+    },
+    {
+      "displayName": "Ostermann",
+      "id": "ostermann-29dff1",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Ostermann",
+        "brand:wikidata": "Q1431315",
+        "name": "Ostermann",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/156433381036849/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ostermann-29dff1.jpg",
+      "local_logo_path": "localbrand/logo/ostermann-29dff1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/156433381036849/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ostermann-29dff1.jpg"
+      }
+    },
+    {
+      "displayName": "OZ Design Furniture",
+      "id": "ozdesignfurniture-0da980",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "OZ Design Furniture",
+        "brand:wikidata": "Q111081305",
+        "name": "OZ Design Furniture",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/OZDesignFurniture/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ozdesignfurniture-0da980.jpg",
+      "local_logo_path": "localbrand/logo/ozdesignfurniture-0da980.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OZDesignFurniture/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ozdesignfurniture-0da980.jpg"
+      }
+    },
+    {
+      "displayName": "PBteen",
+      "id": "pbteen-736374",
+      "locationSet": {
+        "include": [
+          "ae",
+          "kw",
+          "mx",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "pottery barn teen"
+      ],
+      "tags": {
+        "brand": "Pottery Barn",
+        "brand:wikidata": "Q3400126",
+        "name": "PBteen",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/potterybarn/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pbteen-736374.png",
+      "local_logo_path": "localbrand/logo/pbteen-736374.png",
+      "logos": {
+        "original": "https://graph.facebook.com/potterybarn/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pbteen-736374.png"
+      }
+    },
+    {
+      "displayName": "Pfister",
+      "id": "pfister-be426f",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "matchNames": [
+        "möbel pfister"
+      ],
+      "tags": {
+        "brand": "Pfister",
+        "brand:wikidata": "Q104215428",
+        "name": "Pfister",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/moebelpfister/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pfister-be426f.jpg",
+      "local_logo_path": "localbrand/logo/pfister-be426f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/moebelpfister/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pfister-be426f.jpg"
+      }
+    },
+    {
+      "displayName": "Plush",
+      "id": "plush-0da980",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Plush",
+        "brand:wikidata": "Q111081152",
+        "name": "Plush",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/plushsofas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/plush-0da980.jpg",
+      "local_logo_path": "localbrand/logo/plush-0da980.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/plushsofas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/plush-0da980.jpg"
+      }
+    },
+    {
+      "displayName": "POCO",
+      "id": "poco-29dff1",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "POCO",
+        "brand:wikidata": "Q1714820",
+        "name": "POCO",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/poco.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/poco-29dff1.jpg",
+      "local_logo_path": "localbrand/logo/poco-29dff1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/poco.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/poco-29dff1.jpg"
+      }
+    },
+    {
+      "displayName": "Poltrona Frau",
+      "id": "poltronafrau-12c613",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Poltrona Frau",
+        "brand:wikidata": "Q1477785",
+        "name": "Poltrona Frau",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/PoltronaFrau/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/poltronafrau-12c613.jpg",
+      "local_logo_path": "localbrand/logo/poltronafrau-12c613.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PoltronaFrau/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/poltronafrau-12c613.jpg"
+      }
+    },
+    {
+      "displayName": "Poltronesofà",
+      "id": "poltronesofa-488b55",
+      "locationSet": {
+        "include": [
+          "be",
+          "ch",
+          "cy",
+          "fr",
+          "it",
+          "mt"
+        ]
+      },
+      "tags": {
+        "brand": "Poltronesofà",
+        "brand:wikidata": "Q80833069",
+        "name": "Poltronesofà",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/poltronesofaspa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/poltronesofa-488b55.jpg",
+      "local_logo_path": "localbrand/logo/poltronesofa-488b55.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/poltronesofaspa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/poltronesofa-488b55.jpg"
+      }
+    },
+    {
+      "displayName": "porta",
+      "id": "porta-29dff1",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "möbel porta",
+        "porta einrichtungshaus"
+      ],
+      "tags": {
+        "brand": "porta",
+        "brand:wikidata": "Q1576449",
+        "name": "porta",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/portaMoebel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/porta-29dff1.jpg",
+      "local_logo_path": "localbrand/logo/porta-29dff1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/portaMoebel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/porta-29dff1.jpg"
+      }
+    },
+    {
+      "displayName": "Pottery Barn",
+      "id": "potterybarn-12c613",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Pottery Barn",
+        "brand:wikidata": "Q3400126",
+        "name": "Pottery Barn",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/potterybarn/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/potterybarn-12c613.png",
+      "local_logo_path": "localbrand/logo/potterybarn-12c613.png",
+      "logos": {
+        "original": "https://graph.facebook.com/potterybarn/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/potterybarn-12c613.png"
+      }
+    },
+    {
+      "displayName": "Pottery Barn Kids",
+      "id": "potterybarnkids-12c613",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Pottery Barn",
+        "brand:wikidata": "Q3400126",
+        "name": "Pottery Barn Kids",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/potterybarn/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/potterybarnkids-12c613.png",
+      "local_logo_path": "localbrand/logo/potterybarnkids-12c613.png",
+      "logos": {
+        "original": "https://graph.facebook.com/potterybarn/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/potterybarnkids-12c613.png"
+      }
+    },
+    {
+      "displayName": "Pronto Wonen",
+      "id": "prontowonen-e8ade6",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Pronto Wonen",
+        "brand:wikidata": "Q124129152",
+        "name": "Pronto Wonen",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/prontowonen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prontowonen-e8ade6.jpg",
+      "local_logo_path": "localbrand/logo/prontowonen-e8ade6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/prontowonen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prontowonen-e8ade6.jpg"
+      }
+    },
+    {
+      "displayName": "Provincial Home Living",
+      "id": "provincialhomeliving-0da980",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Provincial Home Living",
+        "brand:wikidata": "Q111080958",
+        "name": "Provincial Home Living",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/ProvincialHomeLiving/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/provincialhomeliving-0da980.jpg",
+      "local_logo_path": "localbrand/logo/provincialhomeliving-0da980.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ProvincialHomeLiving/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/provincialhomeliving-0da980.jpg"
+      }
+    },
+    {
+      "displayName": "Raymour & Flanigan",
+      "id": "raymourandflanigan-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Raymour & Flanigan",
+        "brand:wikidata": "Q7299290",
+        "name": "Raymour & Flanigan",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/raymourandflanigan/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/raymourandflanigan-a5c7fa.jpg",
+      "local_logo_path": "localbrand/logo/raymourandflanigan-a5c7fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/raymourandflanigan/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/raymourandflanigan-a5c7fa.jpg"
+      }
+    },
+    {
+      "displayName": "Rent-A-Center",
+      "id": "rentacenter-d2381d",
+      "locationSet": {
+        "include": [
+          "mx",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Rent-A-Center",
+        "brand:wikidata": "Q7313497",
+        "name": "Rent-A-Center",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/RentACenter/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rentacenter-d2381d.jpg",
+      "local_logo_path": "localbrand/logo/rentacenter-d2381d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RentACenter/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rentacenter-d2381d.jpg"
+      }
+    },
+    {
+      "displayName": "Restoration Hardware",
+      "id": "restorationhardware-a694b9",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "rh"
+      ],
+      "tags": {
+        "brand": "Restoration Hardware",
+        "brand:wikidata": "Q7316207",
+        "name": "Restoration Hardware",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/791504884230356/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/restorationhardware-a694b9.png",
+      "local_logo_path": "localbrand/logo/restorationhardware-a694b9.png",
+      "logos": {
+        "original": "https://graph.facebook.com/791504884230356/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/restorationhardware-a694b9.png"
+      }
+    },
+    {
+      "displayName": "Rey",
+      "id": "rey-53177d",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "matchNames": [
+        "muebles rey"
+      ],
+      "tags": {
+        "brand": "Rey",
+        "brand:wikidata": "Q136669276",
+        "name": "Rey",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/100064283815987/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rey-53177d.jpg",
+      "local_logo_path": "localbrand/logo/rey-53177d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/100064283815987/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rey-53177d.jpg"
+      }
+    },
+    {
+      "displayName": "Roche Bobois",
+      "id": "rochebobois-12c613",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Roche Bobois",
+        "brand:wikidata": "Q3437504",
+        "name": "Roche Bobois",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/rocheboboisusa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rochebobois-12c613.jpg",
+      "local_logo_path": "localbrand/logo/rochebobois-12c613.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rocheboboisusa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rochebobois-12c613.jpg"
+      }
+    },
+    {
+      "displayName": "Rochester",
+      "id": "rochester-4d9761",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Rochester",
+        "brand:wikidata": "Q130377132",
+        "name": "Rochester",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/RochesterHomeFurniture/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rochester-4d9761.jpg",
+      "local_logo_path": "localbrand/logo/rochester-4d9761.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RochesterHomeFurniture/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rochester-4d9761.jpg"
+      }
+    },
+    {
+      "displayName": "Rolf Benz",
+      "id": "rolfbenz-375bca",
+      "locationSet": {
+        "include": [
+          "de",
+          "lu"
+        ]
+      },
+      "tags": {
+        "brand": "Rolf Benz",
+        "brand:wikidata": "Q2163232",
+        "name": "Rolf Benz",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Roller",
+      "id": "roller-375bca",
+      "locationSet": {
+        "include": [
+          "de",
+          "lu"
+        ]
+      },
+      "tags": {
+        "brand": "Roller",
+        "brand:wikidata": "Q1621286",
+        "name": "Roller",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/moebel.roller/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roller-375bca.jpg",
+      "local_logo_path": "localbrand/logo/roller-375bca.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/moebel.roller/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roller-375bca.jpg"
+      }
+    },
+    {
+      "displayName": "Rooms To Go",
+      "id": "roomstogo-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Rooms To Go",
+        "brand:wikidata": "Q7366329",
+        "name": "Rooms To Go",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/roomstogo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roomstogo-a5c7fa.jpg",
+      "local_logo_path": "localbrand/logo/roomstogo-a5c7fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/roomstogo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roomstogo-a5c7fa.jpg"
+      }
+    },
+    {
+      "displayName": "Rooms To Go Kids",
+      "id": "roomstogokids-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Rooms To Go Kids",
+        "brand:wikidata": "Q119443278",
+        "name": "Rooms To Go Kids",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/roomstogokids/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roomstogokids-a5c7fa.jpg",
+      "local_logo_path": "localbrand/logo/roomstogokids-a5c7fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/roomstogokids/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roomstogokids-a5c7fa.jpg"
+      }
+    },
+    {
+      "displayName": "Russells",
+      "id": "russells-4d9761",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Russells",
+        "brand:wikidata": "Q116620465",
+        "name": "Russells",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/YouPayLessForMore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/russells-4d9761.jpg",
+      "local_logo_path": "localbrand/logo/russells-4d9761.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/YouPayLessForMore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/russells-4d9761.jpg"
+      }
+    },
+    {
+      "displayName": "Rutar",
+      "id": "rutar-153ef8",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "tags": {
+        "brand": "Rutar",
+        "brand:wikidata": "Q22910157",
+        "name": "Rutar",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/RutarKaernten/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rutar-153ef8.jpg",
+      "local_logo_path": "localbrand/logo/rutar-153ef8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RutarKaernten/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rutar-153ef8.jpg"
+      }
+    },
+    {
+      "displayName": "Schaffrath",
+      "id": "schaffrath-29dff1",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Schaffrath",
+        "brand:wikidata": "Q2230071",
+        "name": "Schaffrath",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/moebel.schaffrath/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/schaffrath-29dff1.jpg",
+      "local_logo_path": "localbrand/logo/schaffrath-29dff1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/moebel.schaffrath/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/schaffrath-29dff1.jpg"
+      }
+    },
+    {
+      "displayName": "Sconto Möbel Sofort",
+      "id": "scontomobelsofort-29dff1",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "sconto sb"
+      ],
+      "tags": {
+        "brand": "Sconto Möbel Sofort",
+        "brand:wikidata": "Q2260475",
+        "name": "Sconto Möbel Sofort",
+        "shop": "furniture",
+        "short_name": "Sconto"
+      },
+      "original_logo_url": "https://graph.facebook.com/sconto.moebel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/scontomobelsofort-29dff1.png",
+      "local_logo_path": "localbrand/logo/scontomobelsofort-29dff1.png",
+      "logos": {
+        "original": "https://graph.facebook.com/sconto.moebel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/scontomobelsofort-29dff1.png"
+      }
+    },
+    {
+      "displayName": "Sconto Nábytek (Česko)",
+      "id": "scontonabytek-8f409c",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "Sconto Nábytek",
+        "brand:wikidata": "Q58169397",
+        "name": "Sconto Nábytek",
+        "shop": "furniture",
+        "short_name": "Sconto"
+      },
+      "original_logo_url": "https://graph.facebook.com/scontonabytekcz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/scontonabytek-8f409c.png",
+      "local_logo_path": "localbrand/logo/scontonabytek-8f409c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/scontonabytekcz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/scontonabytek-8f409c.png"
+      }
+    },
+    {
+      "displayName": "Sconto Nábytok (Slovensko)",
+      "id": "scontonabytok-d1803c",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Sconto Nábytok",
+        "brand:wikidata": "Q138634220",
+        "name": "Sconto Nábytok",
+        "shop": "furniture",
+        "short_name": "Sconto"
+      },
+      "original_logo_url": "https://graph.facebook.com/scontosk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/scontonabytok-d1803c.png",
+      "local_logo_path": "localbrand/logo/scontonabytok-d1803c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/scontosk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/scontonabytok-d1803c.png"
+      }
+    },
+    {
+      "displayName": "ScS",
+      "id": "scs-5a41a5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "ScS",
+        "brand:wikidata": "Q19654399",
+        "name": "ScS",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Seats and Sofas",
+      "id": "seatsandsofas-29dff1",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Seats and Sofas",
+        "brand:wikidata": "Q107113639",
+        "name": "Seats and Sofas",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/seatsandsofas.deutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/seatsandsofas-29dff1.jpg",
+      "local_logo_path": "localbrand/logo/seatsandsofas-29dff1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/seatsandsofas.deutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/seatsandsofas-29dff1.jpg"
+      }
+    },
+    {
+      "displayName": "Segmüller",
+      "id": "segmuller-29dff1",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Segmüller",
+        "brand:wikidata": "Q1337963",
+        "name": "Segmüller",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Segmueller/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/segmuller-29dff1.jpg",
+      "local_logo_path": "localbrand/logo/segmuller-29dff1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Segmueller/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/segmuller-29dff1.jpg"
+      }
+    },
+    {
+      "displayName": "Sharps",
+      "id": "sharps-5a41a5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Sharps",
+        "brand:wikidata": "Q92453571",
+        "name": "Sharps",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Siko",
+      "id": "siko-2a1637",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Siko",
+        "brand:wikidata": "Q58218696",
+        "name": "Siko",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/SIKOKOUPELNY/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/siko-2a1637.jpg",
+      "local_logo_path": "localbrand/logo/siko-2a1637.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SIKOKOUPELNY/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/siko-2a1637.jpg"
+      }
+    },
+    {
+      "displayName": "Simpo",
+      "id": "simpo-4067f4",
+      "locationSet": {
+        "include": [
+          "ba",
+          "me",
+          "mk",
+          "rs"
+        ]
+      },
+      "tags": {
+        "brand": "Simpo",
+        "brand:wikidata": "Q3484793",
+        "name": "Simpo",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/simpors/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/simpo-4067f4.jpg",
+      "local_logo_path": "localbrand/logo/simpo-4067f4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/simpors/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/simpo-4067f4.jpg"
+      }
+    },
+    {
+      "displayName": "Skeidar",
+      "id": "skeidar-c1bd40",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Skeidar",
+        "brand:wikidata": "Q12000916",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/skeidar.no/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skeidar-c1bd40.jpg",
+      "local_logo_path": "localbrand/logo/skeidar-c1bd40.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/skeidar.no/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skeidar-c1bd40.jpg"
+      }
+    },
+    {
+      "displayName": "Sofology",
+      "id": "sofology-5a41a5",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Sofology",
+        "brand:wikidata": "Q5014159",
+        "name": "Sofology",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/sofology/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sofology-5a41a5.jpg",
+      "local_logo_path": "localbrand/logo/sofology-5a41a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sofology/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sofology-5a41a5.jpg"
+      }
+    },
+    {
+      "displayName": "Sotka",
+      "id": "sotka-32ceba",
+      "locationSet": {
+        "include": [
+          "fi"
+        ]
+      },
+      "tags": {
+        "brand": "Sotka",
+        "brand:wikidata": "Q18689173",
+        "name": "Sotka",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Sotkahuonekalut/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sotka-32ceba.png",
+      "local_logo_path": "localbrand/logo/sotka-32ceba.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Sotkahuonekalut/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sotka-32ceba.png"
+      }
+    },
+    {
+      "displayName": "Structube",
+      "id": "structube-a33c55",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Structube",
+        "brand:wikidata": "Q17022054",
+        "name": "Structube",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo-clean_CROP.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/structube-a33c55.png",
+      "local_logo_path": "localbrand/logo/structube-a33c55.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo-clean_CROP.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/structube-a33c55.png"
+      }
+    },
+    {
+      "displayName": "The Brick",
+      "id": "thebrick-a33c55",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "The Brick",
+        "brand:wikidata": "Q7720000",
+        "name": "The Brick",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/TheBrick/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thebrick-a33c55.jpg",
+      "local_logo_path": "localbrand/logo/thebrick-a33c55.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TheBrick/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thebrick-a33c55.jpg"
+      }
+    },
+    {
+      "displayName": "Tok&Stok",
+      "id": "tokandstok-dc6cdf",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "matchNames": [
+        "tok e stok",
+        "tok stok"
+      ],
+      "tags": {
+        "brand": "Tok&Stok",
+        "brand:wikidata": "Q10382926",
+        "name": "Tok&Stok",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/tokstok/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tokandstok-dc6cdf.jpg",
+      "local_logo_path": "localbrand/logo/tokandstok-dc6cdf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tokstok/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tokandstok-dc6cdf.jpg"
+      }
+    },
+    {
+      "displayName": "Tok&Stok Compact",
+      "id": "tokandstokcompact-dc6cdf",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "matchNames": [
+        "tok e stok compact",
+        "tok stok compact"
+      ],
+      "tags": {
+        "brand": "Tok&Stok",
+        "brand:wikidata": "Q10382926",
+        "name": "Tok&Stok Compact",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/tokstok/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tokandstokcompact-dc6cdf.jpg",
+      "local_logo_path": "localbrand/logo/tokandstokcompact-dc6cdf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tokstok/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tokandstokcompact-dc6cdf.jpg"
+      }
+    },
+    {
+      "displayName": "Tok&Stok Studio",
+      "id": "tokandstokstudio-dc6cdf",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "matchNames": [
+        "tok e stok studio",
+        "tok stok studio"
+      ],
+      "tags": {
+        "brand": "Tok&Stok",
+        "brand:wikidata": "Q10382926",
+        "name": "Tok&Stok Studio",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/tokstok/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tokandstokstudio-dc6cdf.jpg",
+      "local_logo_path": "localbrand/logo/tokandstokstudio-dc6cdf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tokstok/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tokandstokstudio-dc6cdf.jpg"
+      }
+    },
+    {
+      "displayName": "Tuco",
+      "id": "tuco-53177d",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "matchNames": [
+        "muebles tuco"
+      ],
+      "tags": {
+        "brand": "Tuco",
+        "brand:wikidata": "Q136669143",
+        "name": "Tuco",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/MueblesTuco/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuco-53177d.jpg",
+      "local_logo_path": "localbrand/logo/tuco-53177d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MueblesTuco/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuco-53177d.jpg"
+      }
+    },
+    {
+      "displayName": "UFO Furniture",
+      "id": "ufo-4d9761",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "UFO Furniture",
+        "brand:wikidata": "Q140698439",
+        "full_name": "United Furniture Outlets",
+        "name": "UFO",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/UnitedFurnitureOutlets/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ufo-4d9761.jpg",
+      "local_logo_path": "localbrand/logo/ufo-4d9761.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/UnitedFurnitureOutlets/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ufo-4d9761.jpg"
+      }
+    },
+    {
+      "displayName": "Urban Barn",
+      "id": "urbanbarn-a33c55",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Urban Barn",
+        "brand:wikidata": "Q62515207",
+        "name": "Urban Barn",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/urbanbarn/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/urbanbarn-a33c55.jpg",
+      "local_logo_path": "localbrand/logo/urbanbarn-a33c55.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/urbanbarn/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/urbanbarn-a33c55.jpg"
+      }
+    },
+    {
+      "displayName": "Value City Furniture",
+      "id": "valuecityfurniture-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Value City Furniture",
+        "brand:wikidata": "Q63859417",
+        "name": "Value City Furniture",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/ValueCityFurnitureUSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/valuecityfurniture-a5c7fa.jpg",
+      "local_logo_path": "localbrand/logo/valuecityfurniture-a5c7fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ValueCityFurnitureUSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/valuecityfurniture-a5c7fa.jpg"
+      }
+    },
+    {
+      "displayName": "Vellea Home (România)",
+      "id": "velleahome-e892fd",
+      "locationSet": {
+        "include": [
+          "ro"
+        ]
+      },
+      "matchNames": [
+        "mobila videnov",
+        "videnov furniture"
+      ],
+      "tags": {
+        "brand": "Vellea Home",
+        "brand:wikidata": "Q114133371",
+        "name": "Vellea Home",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Vellea Home (Ελλάδα)",
+      "id": "velleahome-895b21",
+      "locationSet": {
+        "include": [
+          "gr"
+        ]
+      },
+      "matchNames": [
+        "videnov furniture",
+        "έπιπλα videnov"
+      ],
+      "tags": {
+        "brand": "Vellea Home",
+        "brand:wikidata": "Q114133562",
+        "name": "Vellea Home",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Vitorog",
+      "id": "vitorog-7d4b0a",
+      "locationSet": {
+        "include": [
+          "rs"
+        ]
+      },
+      "matchNames": [
+        "vitorog promet"
+      ],
+      "tags": {
+        "brand": "Vitorog",
+        "brand:wikidata": "Q138426950",
+        "name": "Vitorog",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/vitorogpromet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vitorog-7d4b0a.jpg",
+      "local_logo_path": "localbrand/logo/vitorog-7d4b0a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/vitorogpromet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vitorog-7d4b0a.jpg"
+      }
+    },
+    {
+      "displayName": "west elm",
+      "id": "westelm-12c613",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "west elm",
+        "brand:wikidata": "Q7985021",
+        "name": "west elm",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/westelm/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/westelm-12c613.jpg",
+      "local_logo_path": "localbrand/logo/westelm-12c613.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/westelm/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/westelm-12c613.jpg"
+      }
+    },
+    {
+      "displayName": "Weylandts",
+      "id": "weylandts-4d9761",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Weylandts",
+        "brand:wikidata": "Q130459662",
+        "name": "Weylandts",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/Weylandts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/weylandts-4d9761.jpg",
+      "local_logo_path": "localbrand/logo/weylandts-4d9761.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Weylandts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/weylandts-4d9761.jpg"
+      }
+    },
+    {
+      "displayName": "XXXLutz",
+      "id": "xxxlutz-5acc6e",
+      "locationSet": {
+        "include": [
+          "150"
+        ],
+        "exclude": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "XXXLutz",
+        "brand:wikidata": "Q70339467",
+        "name": "XXXLutz",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/xxxlutz.at/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xxxlutz-5acc6e.png",
+      "local_logo_path": "localbrand/logo/xxxlutz-5acc6e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/xxxlutz.at/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xxxlutz-5acc6e.png"
+      }
+    },
+    {
+      "displayName": "Z Gallerie",
+      "id": "zgallerie-a5c7fa",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/interior_decoration"
+      ],
+      "tags": {
+        "brand": "Z Gallerie",
+        "brand:wikidata": "Q22078158",
+        "name": "Z Gallerie",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/ZGallerie/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zgallerie-a5c7fa.jpg",
+      "local_logo_path": "localbrand/logo/zgallerie-a5c7fa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ZGallerie/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zgallerie-a5c7fa.jpg"
+      }
+    },
+    {
+      "displayName": "zurbrüggen",
+      "id": "zurbruggen-29dff1",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "zurbrüggen",
+        "brand:wikidata": "Q230392",
+        "name": "zurbrüggen",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/zurbrueggen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zurbruggen-29dff1.png",
+      "local_logo_path": "localbrand/logo/zurbruggen-29dff1.png",
+      "logos": {
+        "original": "https://graph.facebook.com/zurbrueggen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zurbruggen-29dff1.png"
+      }
+    },
+    {
+      "displayName": "Велеа Хоум",
+      "id": "velleahome-f5a340",
+      "locationSet": {
+        "include": [
+          "mk"
+        ]
+      },
+      "matchNames": [
+        "videnov furniture",
+        "мебел виденов"
+      ],
+      "tags": {
+        "brand": "Велеа Хоум",
+        "brand:wikidata": "Q114133685",
+        "name": "Велеа Хоум",
+        "name:en": "Vellea Home",
+        "name:mk": "Велеа Хоум",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Дятьково",
+      "id": "b75545-e999c2",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Дятьково",
+        "name": "Дятьково",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Любимый дом",
+      "id": "d2e4e4-e999c2",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Любимый дом",
+        "name": "Любимый дом",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Мебели Виденов",
+      "id": "videnovfurniture-685932",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Виденов",
+        "brand:wikidata": "Q114131717",
+        "name": "Мебели Виденов",
+        "name:bg": "Мебели Виденов",
+        "name:en": "Videnov Furniture",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/MebeliVidenov/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/videnovfurniture-685932.png",
+      "local_logo_path": "localbrand/logo/videnovfurniture-685932.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MebeliVidenov/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/videnovfurniture-685932.png"
+      }
+    },
+    {
+      "displayName": "Мебель Москва",
+      "id": "38535a-e999c2",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Мебель Москва",
+        "name": "Мебель Москва",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Мебель Шара",
+      "id": "558937-e999c2",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Мебель Шара",
+        "name": "Мебель Шара",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Много мебели",
+      "id": "c3b771-e999c2",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Много мебели",
+        "brand:wikidata": "Q18404893",
+        "name": "Много мебели",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/mnogomebeli/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/c3b771-e999c2.png",
+      "local_logo_path": "localbrand/logo/c3b771-e999c2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/mnogomebeli/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/c3b771-e999c2.png"
+      }
+    },
+    {
+      "displayName": "Пинскдрев",
+      "id": "28fbb8-bcecbd",
+      "locationSet": {
+        "include": [
+          "by",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Пинскдрев",
+        "name": "Пинскдрев",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Рими",
+      "id": "f03818-e999c2",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Рими",
+        "name": "Рими",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Стіл та Стілець",
+      "id": "47b09f-9d72c8",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "tags": {
+        "brand": "Стіл та Стілець",
+        "brand:wikidata": "Q117897060",
+        "name": "Стіл та Стілець",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/stol.i.styl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/47b09f-9d72c8.png",
+      "local_logo_path": "localbrand/logo/47b09f-9d72c8.png",
+      "logos": {
+        "original": "https://graph.facebook.com/stol.i.styl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/47b09f-9d72c8.png"
+      }
+    },
+    {
+      "displayName": "Стол и Стул",
+      "id": "fd31e6-9d72c8",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "tags": {
+        "brand": "Стол и Стул",
+        "name": "Стол и Стул",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Столплит",
+      "id": "23263c-ab2637",
+      "locationSet": {
+        "include": [
+          "kz",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Столплит",
+        "name": "Столплит",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "ТриЯ",
+      "id": "484c97-e999c2",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "ТриЯ",
+        "name": "ТриЯ",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Уют",
+      "id": "1ed809-ab2637",
+      "locationSet": {
+        "include": [
+          "kz",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Уют",
+        "name": "Уют",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Шатура",
+      "id": "shatura-56eb69",
+      "locationSet": {
+        "include": [
+          "by",
+          "kg",
+          "kz",
+          "ru",
+          "uz"
+        ]
+      },
+      "tags": {
+        "brand": "Шатура",
+        "brand:en": "Shatura",
+        "brand:ru": "Шатура",
+        "brand:wikidata": "Q126596908",
+        "name": "Шатура",
+        "name:en": "Shatura",
+        "name:ru": "Шатура",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "იუსკ",
+      "id": "jysk-2470a3",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "იუსკ",
+        "brand:ka": "იუსკ",
+        "brand:wikidata": "Q138913",
+        "name": "იუსკ",
+        "name:en": "Jysk",
+        "name:ka": "იუსკ",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/JYSK.dk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jysk-2470a3.jpg",
+      "local_logo_path": "localbrand/logo/jysk-2470a3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JYSK.dk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jysk-2470a3.jpg"
+      }
+    },
+    {
+      "displayName": "イケア",
+      "id": "ikea-3c9dc7",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "IKEA",
+        "brand:en": "IKEA",
+        "brand:ja": "イケア",
+        "brand:wikidata": "Q54078",
+        "name": "IKEA",
+        "name:en": "IKEA",
+        "name:ja": "イケア",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/IKEA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-3c9dc7.jpg",
+      "local_logo_path": "localbrand/logo/ikea-3c9dc7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IKEA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-3c9dc7.jpg"
+      }
+    },
+    {
+      "displayName": "ニトリ",
+      "id": "nitori-3c9dc7",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ニトリ",
+        "brand:en": "Nitori",
+        "brand:ja": "ニトリ",
+        "brand:wikidata": "Q10801453",
+        "name": "ニトリ",
+        "name:en": "Nitori",
+        "name:ja": "ニトリ",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/nitori.jp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nitori-3c9dc7.jpg",
+      "local_logo_path": "localbrand/logo/nitori-3c9dc7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/nitori.jp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nitori-3c9dc7.jpg"
+      }
+    },
+    {
+      "displayName": "フランフラン",
+      "id": "francfranc-3c9dc7",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "フランフラン",
+        "brand:en": "Francfranc",
+        "brand:ja": "フランフラン",
+        "brand:wikidata": "Q5479732",
+        "name": "フランフラン",
+        "name:en": "Francfranc",
+        "name:ja": "フランフラン",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/francfrancjapan/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/francfranc-3c9dc7.jpg",
+      "local_logo_path": "localbrand/logo/francfranc-3c9dc7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/francfrancjapan/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/francfranc-3c9dc7.jpg"
+      }
+    },
+    {
+      "displayName": "宜家家居",
+      "id": "ikea-415aeb",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "matchNames": [
+        "宜家"
+      ],
+      "tags": {
+        "brand": "宜家家居",
+        "brand:en": "IKEA",
+        "brand:wikidata": "Q54078",
+        "brand:zh": "宜家家居",
+        "name": "宜家家居",
+        "name:en": "IKEA",
+        "name:zh": "宜家家居",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/IKEA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-415aeb.jpg",
+      "local_logo_path": "localbrand/logo/ikea-415aeb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IKEA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-415aeb.jpg"
+      }
+    },
+    {
+      "displayName": "宜家家居 IKEA",
+      "id": "ikea-2365c1",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "matchNames": [
+        "宜家",
+        "宜家傢俬"
+      ],
+      "tags": {
+        "brand": "宜家家居 IKEA",
+        "brand:en": "IKEA",
+        "brand:wikidata": "Q54078",
+        "brand:zh": "宜家家居",
+        "name": "宜家家居 IKEA",
+        "name:en": "IKEA",
+        "name:zh": "宜家家居",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/IKEA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-2365c1.jpg",
+      "local_logo_path": "localbrand/logo/ikea-2365c1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IKEA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-2365c1.jpg"
+      }
+    },
+    {
+      "displayName": "宜得利家居",
+      "id": "nitorihome-8e7878",
+      "locationSet": {
+        "include": [
+          "cn",
+          "tw"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "ニトリ",
+        "brand:en": "Nitori",
+        "brand:ja": "ニトリ",
+        "brand:wikidata": "Q10801453",
+        "name": "宜得利家居",
+        "name:en": "Nitori Home",
+        "name:ja": "宜得利家居",
+        "shop": "furniture"
+      },
+      "original_logo_url": "https://graph.facebook.com/nitori.jp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nitorihome-8e7878.jpg",
+      "local_logo_path": "localbrand/logo/nitorihome-8e7878.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/nitori.jp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nitorihome-8e7878.jpg"
+      }
+    }
+  ]
+}

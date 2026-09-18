@@ -1,0 +1,328 @@
+{
+  "properties": {
+    "path": "brands/shop/tiles",
+    "exclude": {
+      "generic": [
+        "^tiles$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Amber",
+      "id": "amber-87a8ad",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Amber",
+        "brand:wikidata": "Q127697724",
+        "name": "Amber",
+        "shop": "tiles"
+      },
+      "original_logo_url": "https://graph.facebook.com/AmberGroupAustralia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amber-87a8ad.jpg",
+      "local_logo_path": "localbrand/logo/amber-87a8ad.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AmberGroupAustralia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amber-87a8ad.jpg"
+      }
+    },
+    {
+      "displayName": "Beaumont Tiles",
+      "id": "beaumonttiles-87a8ad",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Beaumont Tiles",
+        "brand:wikidata": "Q127327896",
+        "name": "Beaumont Tiles",
+        "shop": "tiles"
+      },
+      "original_logo_url": "https://graph.facebook.com/beaumonttiles/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beaumonttiles-87a8ad.png",
+      "local_logo_path": "localbrand/logo/beaumonttiles-87a8ad.png",
+      "logos": {
+        "original": "https://graph.facebook.com/beaumonttiles/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beaumonttiles-87a8ad.png"
+      }
+    },
+    {
+      "displayName": "CTD Tiles",
+      "id": "ctdtiles-d8218f",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchTags": [
+        "shop/diy"
+      ],
+      "tags": {
+        "brand": "CTD Tiles",
+        "brand:wikidata": "Q100295826",
+        "name": "CTD Tiles",
+        "shop": "tiles"
+      },
+      "original_logo_url": "https://graph.facebook.com/ctdtilesofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ctdtiles-d8218f.jpg",
+      "local_logo_path": "localbrand/logo/ctdtiles-d8218f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ctdtilesofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ctdtiles-d8218f.jpg"
+      }
+    },
+    {
+      "displayName": "CTM",
+      "id": "ctm-d2290b",
+      "locationSet": {
+        "include": [
+          "ls",
+          "na",
+          "za",
+          "zm"
+        ]
+      },
+      "tags": {
+        "brand": "CTM",
+        "brand:wikidata": "Q127378361",
+        "name": "CTM",
+        "shop": "tiles"
+      },
+      "original_logo_url": "https://graph.facebook.com/CTM.SouthAfrica/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ctm-d2290b.jpg",
+      "local_logo_path": "localbrand/logo/ctm-d2290b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CTM.SouthAfrica/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ctm-d2290b.jpg"
+      }
+    },
+    {
+      "displayName": "Daltile",
+      "id": "daltile-31ce31",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Daltile",
+        "brand:wikidata": "Q120633664",
+        "name": "daltile",
+        "shop": "tiles"
+      },
+      "original_logo_url": "https://graph.facebook.com/daltile/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daltile-31ce31.png",
+      "local_logo_path": "localbrand/logo/daltile-31ce31.png",
+      "logos": {
+        "original": "https://graph.facebook.com/daltile/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daltile-31ce31.png"
+      }
+    },
+    {
+      "displayName": "Interceramic",
+      "id": "interceramic-7c9f08",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "matchTags": [
+        "shop/diy",
+        "shop/hardware"
+      ],
+      "tags": {
+        "brand": "Interceramic",
+        "brand:wikidata": "Q113203429",
+        "name": "Interceramic",
+        "shop": "tiles"
+      },
+      "original_logo_url": "https://graph.facebook.com/interceramic.mx/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/interceramic-7c9f08.jpg",
+      "local_logo_path": "localbrand/logo/interceramic-7c9f08.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/interceramic.mx/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/interceramic-7c9f08.jpg"
+      }
+    },
+    {
+      "displayName": "Kerama Marazzi",
+      "id": "keramamarazzi-d679d8",
+      "locationSet": {
+        "include": [
+          "by",
+          "kz",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Kerama Marazzi",
+        "name": "Kerama Marazzi",
+        "shop": "tiles"
+      }
+    },
+    {
+      "displayName": "Laparet",
+      "id": "laparet-abbaba",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Laparet",
+        "name": "Laparet",
+        "shop": "tiles"
+      }
+    },
+    {
+      "displayName": "National Tiles",
+      "id": "nationaltiles-87a8ad",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "National Tiles",
+        "brand:wikidata": "Q117157007",
+        "name": "National Tiles",
+        "shop": "tiles"
+      },
+      "original_logo_url": "https://graph.facebook.com/NationalTilesAustralia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationaltiles-87a8ad.jpg",
+      "local_logo_path": "localbrand/logo/nationaltiles-87a8ad.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NationalTilesAustralia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationaltiles-87a8ad.jpg"
+      }
+    },
+    {
+      "displayName": "Porcelanosa",
+      "id": "porcelanosa-f63c78",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Porcelanosa",
+        "brand:wikidata": "Q3088948",
+        "name": "Porcelanosa",
+        "shop": "tiles"
+      },
+      "original_logo_url": "https://graph.facebook.com/PorcelanosaInternational/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/porcelanosa-f63c78.jpg",
+      "local_logo_path": "localbrand/logo/porcelanosa-f63c78.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PorcelanosaInternational/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/porcelanosa-f63c78.jpg"
+      }
+    },
+    {
+      "displayName": "The Tile Shop",
+      "id": "thetileshop-0bf358",
+      "locationSet": {
+        "include": [
+          "us-il.geojson",
+          "us-in.geojson",
+          "us-mi.geojson",
+          "us-wi.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "The Tile Shop",
+        "brand:wikidata": "Q116506012",
+        "name": "The Tile Shop",
+        "shop": "tiles"
+      },
+      "original_logo_url": "https://graph.facebook.com/thetileshop1/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thetileshop-0bf358.jpg",
+      "local_logo_path": "localbrand/logo/thetileshop-0bf358.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/thetileshop1/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thetileshop-0bf358.jpg"
+      }
+    },
+    {
+      "displayName": "Tile Africa",
+      "id": "tileafrica-fd3228",
+      "locationSet": {
+        "include": [
+          "na",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Tile Africa",
+        "brand:wikidata": "Q130413927",
+        "name": "Tile Africa",
+        "shop": "tiles"
+      },
+      "original_logo_url": "https://graph.facebook.com/tileafrica/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tileafrica-fd3228.jpg",
+      "local_logo_path": "localbrand/logo/tileafrica-fd3228.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tileafrica/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tileafrica-fd3228.jpg"
+      }
+    },
+    {
+      "displayName": "Tile Giant",
+      "id": "tilegiant-d8218f",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchTags": [
+        "shop/diy"
+      ],
+      "tags": {
+        "brand": "Tile Giant",
+        "brand:wikidata": "Q87007841",
+        "name": "Tile Giant",
+        "shop": "tiles"
+      },
+      "original_logo_url": "https://graph.facebook.com/tilegiantofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tilegiant-d8218f.jpg",
+      "local_logo_path": "localbrand/logo/tilegiant-d8218f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tilegiantofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tilegiant-d8218f.jpg"
+      }
+    },
+    {
+      "displayName": "Topps Tiles",
+      "id": "toppstiles-d8218f",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchTags": [
+        "shop/diy",
+        "shop/paint"
+      ],
+      "tags": {
+        "brand": "Topps Tiles",
+        "brand:wikidata": "Q17026595",
+        "name": "Topps Tiles",
+        "shop": "tiles"
+      },
+      "original_logo_url": "https://graph.facebook.com/toppstiles/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/toppstiles-d8218f.jpg",
+      "local_logo_path": "localbrand/logo/toppstiles-d8218f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/toppstiles/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/toppstiles-d8218f.jpg"
+      }
+    }
+  ]
+}

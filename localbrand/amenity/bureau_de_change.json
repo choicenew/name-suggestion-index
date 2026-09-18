@@ -1,0 +1,568 @@
+{
+  "properties": {
+    "path": "brands/amenity/bureau_de_change",
+    "exclude": {
+      "generic": [
+        "^(bureau de )?change$",
+        "^(currency|money) exchange$",
+        "^(exchange|kantor)$",
+        "^forex$",
+        "^обмін( валют)?$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Al Ansari Exchange",
+      "id": "alansariexchange-7792bb",
+      "locationSet": {
+        "include": [
+          "ae"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Al Ansari Exchange",
+        "brand:ar": "الأنصاري للصرافة",
+        "brand:en": "Al Ansari Exchange",
+        "brand:wikidata": "Q132524657",
+        "name": "Al Ansari Exchange",
+        "name:ar": "الأنصاري للصرافة",
+        "name:en": "Al Ansari Exchange"
+      },
+      "original_logo_url": "https://graph.facebook.com/AlAnsariExchangeOfficialPage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alansariexchange-7792bb.jpg",
+      "local_logo_path": "localbrand/logo/alansariexchange-7792bb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AlAnsariExchangeOfficialPage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alansariexchange-7792bb.jpg"
+      }
+    },
+    {
+      "displayName": "CADECA",
+      "id": "cadeca-bd5e7d",
+      "locationSet": {
+        "include": [
+          "cu"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "CADECA",
+        "brand:wikidata": "Q62122716",
+        "name": "CADECA"
+      },
+      "original_logo_url": "https://graph.facebook.com/CadecaCasasdeCambioOficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cadeca-bd5e7d.jpg",
+      "local_logo_path": "localbrand/logo/cadeca-bd5e7d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CadecaCasasdeCambioOficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cadeca-bd5e7d.jpg"
+      }
+    },
+    {
+      "displayName": "Change Group",
+      "id": "changegroup-70b70e",
+      "locationSet": {
+        "include": [
+          "at",
+          "au",
+          "cy",
+          "de",
+          "dk",
+          "es",
+          "fi",
+          "fr",
+          "gb",
+          "is",
+          "nz",
+          "se"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Change Group",
+        "brand:wikidata": "Q5071758",
+        "name": "Change Group"
+      },
+      "original_logo_url": "https://graph.facebook.com/ChangeGroupUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/changegroup-70b70e.jpg",
+      "local_logo_path": "localbrand/logo/changegroup-70b70e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ChangeGroupUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/changegroup-70b70e.jpg"
+      }
+    },
+    {
+      "displayName": "Confidence Câmbio",
+      "id": "confidencecambio-b1f712",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Confidence Câmbio",
+        "brand:wikidata": "Q20055927",
+        "name": "Confidence Câmbio"
+      },
+      "original_logo_url": "https://graph.facebook.com/travelexconfidence/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/confidencecambio-b1f712.jpg",
+      "local_logo_path": "localbrand/logo/confidencecambio-b1f712.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/travelexconfidence/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/confidencecambio-b1f712.jpg"
+      }
+    },
+    {
+      "displayName": "Continental Currency Exchange",
+      "id": "continentalcurrencyexchange-adbc16",
+      "locationSet": {
+        "include": [
+          "ca-on.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Continental Currency Exchange",
+        "brand:wikidata": "Q133254858",
+        "name": "Continental Currency Exchange"
+      },
+      "original_logo_url": "https://graph.facebook.com/continentalfx/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/continentalcurrencyexchange-adbc16.jpg",
+      "local_logo_path": "localbrand/logo/continentalcurrencyexchange-adbc16.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/continentalfx/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/continentalcurrencyexchange-adbc16.jpg"
+      }
+    },
+    {
+      "displayName": "DayCâmbio",
+      "id": "daycambio-b1f712",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "DayCâmbio",
+        "brand:wikidata": "Q110038882",
+        "name": "DayCâmbio"
+      },
+      "original_logo_url": "https://graph.facebook.com/daycambio.lojas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daycambio-b1f712.jpg",
+      "local_logo_path": "localbrand/logo/daycambio-b1f712.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/daycambio.lojas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daycambio-b1f712.jpg"
+      }
+    },
+    {
+      "displayName": "Eurochange",
+      "id": "eurochange-236adc",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "eurochange plc"
+      ],
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Eurochange",
+        "brand:wikidata": "Q86525249",
+        "name": "Eurochange"
+      },
+      "original_logo_url": "https://graph.facebook.com/eurochange/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eurochange-236adc.jpg",
+      "local_logo_path": "localbrand/logo/eurochange-236adc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/eurochange/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eurochange-236adc.jpg"
+      }
+    },
+    {
+      "displayName": "Exclusive Change",
+      "id": "exclusivechange-216703",
+      "locationSet": {
+        "include": [
+          "ba",
+          "hr",
+          "hu",
+          "rs"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Exclusive Change",
+        "brand:wikidata": "Q127799085",
+        "name": "Exclusive Change"
+      },
+      "original_logo_url": "https://graph.facebook.com/EXC.Magyarorszag/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/exclusivechange-216703.png",
+      "local_logo_path": "localbrand/logo/exclusivechange-216703.png",
+      "logos": {
+        "original": "https://graph.facebook.com/EXC.Magyarorszag/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/exclusivechange-216703.png"
+      }
+    },
+    {
+      "displayName": "EXE Centro Cambiario",
+      "id": "execentrocambiario-521998",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "EXE Centro Cambiario",
+        "brand:wikidata": "Q134456094",
+        "name": "EXE Centro Cambiario"
+      }
+    },
+    {
+      "displayName": "Interchange",
+      "id": "interchange-cfef29",
+      "locationSet": {
+        "include": [
+          "at",
+          "cz",
+          "fx",
+          "hu",
+          "it",
+          "ls",
+          "na",
+          "pl",
+          "re",
+          "sz",
+          "za",
+          "zm"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Interchange",
+        "brand:wikidata": "Q136716284",
+        "name": "Interchange"
+      }
+    },
+    {
+      "displayName": "NM Money",
+      "id": "nmmoney-236adc",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "NM Money",
+        "brand:wikidata": "Q86529747",
+        "name": "NM Money"
+      },
+      "original_logo_url": "https://graph.facebook.com/NMmoney/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nmmoney-236adc.jpg",
+      "local_logo_path": "localbrand/logo/nmmoney-236adc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NMmoney/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nmmoney-236adc.jpg"
+      }
+    },
+    {
+      "displayName": "No1 Currency",
+      "id": "no1currency-f53601",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "No1 Currency",
+        "brand:wikidata": "Q87139463",
+        "name": "No1 Currency"
+      },
+      "original_logo_url": "https://graph.facebook.com/No1Currency/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/no1currency-f53601.png",
+      "local_logo_path": "localbrand/logo/no1currency-f53601.png",
+      "logos": {
+        "original": "https://graph.facebook.com/No1Currency/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/no1currency-f53601.png"
+      }
+    },
+    {
+      "displayName": "PocketChange",
+      "id": "pocketchange-f742ee",
+      "locationSet": {
+        "include": [
+          "jp",
+          "tw"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "PocketChange",
+        "brand:en": "PocketChange",
+        "brand:ja": "ポケットチェンジ",
+        "brand:wikidata": "Q96182316",
+        "name": "PocketChange",
+        "name:en": "PocketChange",
+        "name:ja": "ポケットチェンジ"
+      },
+      "original_logo_url": "https://graph.facebook.com/pocketfx/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pocketchange-f742ee.png",
+      "local_logo_path": "localbrand/logo/pocketchange-f742ee.png",
+      "logos": {
+        "original": "https://graph.facebook.com/pocketfx/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pocketchange-f742ee.png"
+      }
+    },
+    {
+      "displayName": "Reisebank",
+      "id": "reisebank-442fa6",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Reisebank",
+        "brand:wikidata": "Q1421107",
+        "name": "Reisebank"
+      },
+      "original_logo_url": "https://graph.facebook.com/ReiseBankAG/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/reisebank-442fa6.jpg",
+      "local_logo_path": "localbrand/logo/reisebank-442fa6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ReiseBankAG/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/reisebank-442fa6.jpg"
+      }
+    },
+    {
+      "displayName": "Sainsbury's Bank Travel Money",
+      "id": "sainsburysbanktravelmoney-236adc",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "sainsburys"
+      ],
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Sainsbury's Bank",
+        "brand:wikidata": "Q7400525",
+        "name": "Sainsbury's Bank Travel Money"
+      }
+    },
+    {
+      "displayName": "Travel Money Oz",
+      "id": "travelmoneyoz-840d20",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Travel Money Oz",
+        "brand:wikidata": "Q123437458",
+        "name": "Travel Money Oz"
+      },
+      "original_logo_url": "https://graph.facebook.com/travelmoneyoz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/travelmoneyoz-840d20.jpg",
+      "local_logo_path": "localbrand/logo/travelmoneyoz-840d20.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/travelmoneyoz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/travelmoneyoz-840d20.jpg"
+      }
+    },
+    {
+      "displayName": "Travelex",
+      "id": "travelex-fab709",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "cn"
+        ]
+      },
+      "matchTags": [
+        "office/financial"
+      ],
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Travelex",
+        "brand:wikidata": "Q2337964",
+        "name": "Travelex"
+      },
+      "original_logo_url": "https://graph.facebook.com/TravelexUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/travelex-fab709.png",
+      "local_logo_path": "localbrand/logo/travelex-fab709.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TravelexUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/travelex-fab709.png"
+      }
+    },
+    {
+      "displayName": "Unimoni",
+      "id": "unimoni-ebe0cc",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Unimoni",
+        "brand:wikidata": "Q7863721",
+        "name": "Unimoni"
+      }
+    },
+    {
+      "displayName": "Беларусбанк",
+      "id": "belarusbank-126d17",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Беларусбанк",
+        "brand:be": "Беларусбанк",
+        "brand:en": "Belarusbank",
+        "brand:ru": "Беларусбанк",
+        "brand:wikidata": "Q1997334",
+        "name": "Беларусбанк",
+        "name:be": "Беларусбанк",
+        "name:en": "Belarusbank",
+        "name:ru": "Беларусбанк"
+      },
+      "original_logo_url": "https://graph.facebook.com/asb.belarusbank/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/belarusbank-126d17.jpg",
+      "local_logo_path": "localbrand/logo/belarusbank-126d17.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/asb.belarusbank/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/belarusbank-126d17.jpg"
+      }
+    },
+    {
+      "displayName": "КИТ Group",
+      "id": "1d4d46-dba32e",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "kit group",
+        "kyt group",
+        "кит груп",
+        "кит групп",
+        "кіт group",
+        "кіт груп",
+        "обмен валют кит group"
+      ],
+      "matchTags": [
+        "amenity/bank"
+      ],
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "КИТ Group",
+        "brand:wikidata": "Q119155974",
+        "name": "КИТ Group"
+      },
+      "original_logo_url": "https://graph.facebook.com/kytgroup.obminvalut/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/1d4d46-dba32e.jpg",
+      "local_logo_path": "localbrand/logo/1d4d46-dba32e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kytgroup.obminvalut/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/1d4d46-dba32e.jpg"
+      }
+    },
+    {
+      "displayName": "ვალუტო",
+      "id": "valuto-db9fb2",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "თიბისი ბანკი",
+        "brand:en": "TBC Bank",
+        "brand:ka": "თიბისი ბანკი",
+        "brand:ru": "ТиБиСи Банк",
+        "brand:wikidata": "Q2620975",
+        "currency:EUR": "yes",
+        "currency:GEL": "yes",
+        "currency:RUB": "yes",
+        "currency:USD": "yes",
+        "name": "ვალუტო",
+        "name:en": "Valuto",
+        "name:ka": "ვალუტო",
+        "name:ru": "Валюто"
+      },
+      "original_logo_url": "https://graph.facebook.com/valutoge/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/valuto-db9fb2.jpg",
+      "local_logo_path": "localbrand/logo/valuto-db9fb2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/valutoge/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/valuto-db9fb2.jpg"
+      }
+    },
+    {
+      "displayName": "რიკო კრედიტი",
+      "id": "ricocredit-db9fb2",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "რიკო კრედიტი",
+        "brand:en": "Rico Credit",
+        "brand:ka": "რიკო კრედიტი",
+        "brand:ru": "Рико Кредит",
+        "brand:wikidata": "Q134736471",
+        "name": "რიკო კრედიტი",
+        "name:en": "Rico Credit",
+        "name:ka": "რიკო კრედიტი",
+        "name:ru": "Рико Кредит",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "displayName": "სკაპი",
+      "id": "scapp-db9fb2",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "სკაპი",
+        "brand:en": "Scapp",
+        "brand:ka": "სკაპი",
+        "brand:ru": "Скапп",
+        "name": "სკაპი",
+        "name:en": "Scapp",
+        "name:ka": "სკაპი",
+        "name:ru": "Скапп",
+        "shop": "money_lender"
+      }
+    }
+  ]
+}

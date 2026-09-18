@@ -1,0 +1,524 @@
+{
+  "properties": {
+    "path": "brands/shop/dry_cleaning",
+    "exclude": {
+      "generic": [
+        "^(dry )?(clean(ers?|ing)|pressing)$",
+        "^химчистка$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "5àsec",
+      "id": "5asec-e2c813",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/laundry"
+      ],
+      "tags": {
+        "brand": "5àsec",
+        "brand:wikidata": "Q2817899",
+        "name": "5àsec",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "displayName": "Apetta",
+      "id": "apetta-1a9348",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Apetta",
+        "name": "Apetta",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "displayName": "Arbela",
+      "id": "arbela-d90092",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "matchTags": [
+        "shop/laundry"
+      ],
+      "preserveTags": [
+        "^shop"
+      ],
+      "tags": {
+        "brand": "Arbela",
+        "brand:wikidata": "Q136868834",
+        "name": "Arbela",
+        "shop": "dry_cleaning"
+      },
+      "original_logo_url": "https://graph.facebook.com/cistirna.arbela/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arbela-d90092.jpg",
+      "local_logo_path": "localbrand/logo/arbela-d90092.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/cistirna.arbela/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arbela-d90092.jpg"
+      }
+    },
+    {
+      "displayName": "CD One Price Cleaners",
+      "id": "cdonepricecleaners-1b6f6c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "CD One Price Cleaners",
+        "brand:wikidata": "Q110720124",
+        "name": "CD One Price Cleaners",
+        "shop": "dry_cleaning"
+      },
+      "original_logo_url": "https://graph.facebook.com/cdonepricecleaners/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cdonepricecleaners-1b6f6c.jpg",
+      "local_logo_path": "localbrand/logo/cdonepricecleaners-1b6f6c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/cdonepricecleaners/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cdonepricecleaners-1b6f6c.jpg"
+      }
+    },
+    {
+      "displayName": "DryClean USA",
+      "id": "drycleanusa-b9a2df",
+      "locationSet": {
+        "include": [
+          "br",
+          "mx",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "DryClean USA",
+        "brand:wikidata": "Q108878043",
+        "name": "DryClean USA",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "displayName": "Jack Brown Cleaners",
+      "id": "jackbrowncleaners-a02fa0",
+      "locationSet": {
+        "include": [
+          "us-tx.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Jack Brown Cleaners",
+        "brand:wikidata": "Q139054384",
+        "name": "Jack Brown Cleaners",
+        "shop": "dry_cleaning"
+      },
+      "original_logo_url": "https://graph.facebook.com/jackbrowncleaners/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jackbrowncleaners-a02fa0.jpg",
+      "local_logo_path": "localbrand/logo/jackbrowncleaners-a02fa0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/jackbrowncleaners/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jackbrowncleaners-a02fa0.jpg"
+      }
+    },
+    {
+      "displayName": "Johnsons",
+      "id": "johnsons-a4fd49",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "johnson",
+        "johnsons cleaners"
+      ],
+      "tags": {
+        "brand": "Johnsons",
+        "brand:wikidata": "Q6268527",
+        "name": "Johnsons",
+        "shop": "dry_cleaning"
+      },
+      "original_logo_url": "https://graph.facebook.com/johnsoncleaners/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johnsons-a4fd49.jpg",
+      "local_logo_path": "localbrand/logo/johnsons-a4fd49.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/johnsoncleaners/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johnsons-a4fd49.jpg"
+      }
+    },
+    {
+      "displayName": "Kims",
+      "id": "kims-425993",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "кімс"
+      ],
+      "tags": {
+        "brand": "Kims",
+        "brand:wikidata": "Q122453803",
+        "name": "Kims",
+        "shop": "dry_cleaning"
+      },
+      "original_logo_url": "https://graph.facebook.com/kims.com.ua/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kims-425993.jpg",
+      "local_logo_path": "localbrand/logo/kims-425993.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kims.com.ua/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kims-425993.jpg"
+      }
+    },
+    {
+      "displayName": "Kunz Pressing",
+      "id": "kunzpressing-3d5050",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Kunz Pressing",
+        "brand:wikidata": "Q134837723",
+        "name": "Kunz Pressing",
+        "shop": "dry_cleaning"
+      },
+      "original_logo_url": "https://graph.facebook.com/KunzPressingEco/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kunzpressing-3d5050.jpg",
+      "local_logo_path": "localbrand/logo/kunzpressing-3d5050.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KunzPressingEco/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kunzpressing-3d5050.jpg"
+      }
+    },
+    {
+      "displayName": "Martinizing Dry Cleaning",
+      "id": "martinizingdrycleaning-e2c813",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Martinizing Dry Cleaning",
+        "brand:wikidata": "Q6777169",
+        "name": "Martinizing Dry Cleaning",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "displayName": "SneakNFresh",
+      "id": "sneaknfresh-1a9348",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "SneakNFresh",
+        "name": "SneakNFresh",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "displayName": "Tide Cleaners",
+      "id": "tidecleaners-1b6f6c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "tide",
+        "tide dry cleaners"
+      ],
+      "tags": {
+        "brand": "Tide Cleaners",
+        "brand:wikidata": "Q66048841",
+        "name": "Tide Cleaners",
+        "shop": "dry_cleaning"
+      },
+      "original_logo_url": "https://graph.facebook.com/tidecleaners/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tidecleaners-1b6f6c.png",
+      "local_logo_path": "localbrand/logo/tidecleaners-1b6f6c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/tidecleaners/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tidecleaners-1b6f6c.png"
+      }
+    },
+    {
+      "displayName": "Zips Dry Cleaning",
+      "id": "zipsdrycleaning-1b6f6c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "zips",
+        "zips cleaning"
+      ],
+      "tags": {
+        "brand": "Zips Dry Cleaning",
+        "brand:wikidata": "Q110527952",
+        "name": "Zips Dry Cleaning",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "displayName": "Диана",
+      "id": "21adb0-1a9348",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Диана",
+        "brand:wikidata": "Q62105088",
+        "name": "Диана",
+        "shop": "dry_cleaning"
+      },
+      "original_logo_url": "https://graph.facebook.com/diana.dryclean/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/21adb0-1a9348.png",
+      "local_logo_path": "localbrand/logo/21adb0-1a9348.png",
+      "logos": {
+        "original": "https://graph.facebook.com/diana.dryclean/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/21adb0-1a9348.png"
+      }
+    },
+    {
+      "displayName": "Лотос",
+      "id": "4712c3-1a9348",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Лотос",
+        "name": "Лотос",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "displayName": "Чистотроник",
+      "id": "e9f1d0-1a9348",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Чистотроник",
+        "name": "Чистотроник",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "displayName": "うさちゃんクリーニング",
+      "id": "usachancleaning-3105a6",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "うさちゃんクリーニング",
+        "brand:en": "Usachan Cleaning",
+        "brand:ja": "うさちゃんクリーニング",
+        "brand:wikidata": "Q93641593",
+        "name": "うさちゃんクリーニング",
+        "name:en": "Usachan Cleaning",
+        "name:ja": "うさちゃんクリーニング",
+        "shop": "dry_cleaning"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Usachan_Cleaning_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/usachancleaning-3105a6.png",
+      "local_logo_path": "localbrand/logo/usachancleaning-3105a6.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Usachan_Cleaning_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/usachancleaning-3105a6.png"
+      }
+    },
+    {
+      "displayName": "ダイヤクリーニング",
+      "id": "diacleaning-3105a6",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ダイヤクリーニング",
+        "brand:en": "Dia Cleaning",
+        "brand:ja": "ダイヤクリーニング",
+        "brand:wikidata": "Q11316968",
+        "name": "ダイヤクリーニング",
+        "name:en": "Dia Cleaning",
+        "name:ja": "ダイヤクリーニング",
+        "shop": "dry_cleaning"
+      },
+      "original_logo_url": "https://graph.facebook.com/652337554829320/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/diacleaning-3105a6.jpg",
+      "local_logo_path": "localbrand/logo/diacleaning-3105a6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/652337554829320/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/diacleaning-3105a6.jpg"
+      }
+    },
+    {
+      "displayName": "タカケンサンシャイン",
+      "id": "takakensunshine-3105a6",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "タカケンクリーング"
+      ],
+      "tags": {
+        "brand": "タカケンサンシャイン",
+        "brand:en": "Takaken Sunshine",
+        "brand:ja": "タカケンサンシャイン",
+        "brand:wikidata": "Q11315914",
+        "name": "タカケンサンシャイン",
+        "name:en": "Takaken Sunshine",
+        "name:ja": "タカケンサンシャイン",
+        "shop": "dry_cleaning"
+      },
+      "original_logo_url": "https://graph.facebook.com/takaken.sunshine/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/takakensunshine-3105a6.jpg",
+      "local_logo_path": "localbrand/logo/takakensunshine-3105a6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/takaken.sunshine/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/takakensunshine-3105a6.jpg"
+      }
+    },
+    {
+      "displayName": "ポニー",
+      "id": "pony-3105a6",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ポニー",
+        "brand:en": "Pony",
+        "brand:ja": "ポニー",
+        "brand:wikidata": "Q88012241",
+        "name": "ポニー",
+        "name:en": "Pony",
+        "name:ja": "ポニー",
+        "official_name": "ポニークリーニング",
+        "official_name:en": "Pony Cleaning",
+        "official_name:ja": "ポニークリーニング",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "displayName": "ホワイト急便",
+      "id": "whiteexpress-3105a6",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ホワイト急便",
+        "brand:en": "WHITE EXPRESS",
+        "brand:ja": "ホワイト急便",
+        "brand:wikidata": "Q117804791",
+        "name": "ホワイト急便",
+        "name:en": "White Express",
+        "name:ja": "ホワイト急便",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "displayName": "ヤングドライ",
+      "id": "youngdry-3105a6",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ヤングドライ",
+        "brand:en": "Young Dry",
+        "brand:ja": "ヤングドライ",
+        "brand:wikidata": "Q11345434",
+        "name": "ヤングドライ",
+        "name:en": "Young Dry",
+        "name:ja": "ヤングドライ",
+        "shop": "dry_cleaning"
+      },
+      "original_logo_url": "https://graph.facebook.com/Cleaning.Youngdry/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/youngdry-3105a6.png",
+      "local_logo_path": "localbrand/logo/youngdry-3105a6.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Cleaning.Youngdry/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/youngdry-3105a6.png"
+      }
+    },
+    {
+      "displayName": "白洋舎",
+      "id": "hakuyosha-3105a6",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "白洋舎",
+        "brand:en": "Hakuyosha",
+        "brand:ja": "白洋舎",
+        "brand:wikidata": "Q11579995",
+        "name": "白洋舎",
+        "name:en": "Hakuyosha",
+        "name:ja": "白洋舎",
+        "shop": "dry_cleaning"
+      },
+      "original_logo_url": "https://graph.facebook.com/hakuyosha.jp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hakuyosha-3105a6.jpg",
+      "local_logo_path": "localbrand/logo/hakuyosha-3105a6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hakuyosha.jp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hakuyosha-3105a6.jpg"
+      }
+    },
+    {
+      "displayName": "福奈特",
+      "id": "fornet-0dec54",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "福奈特",
+        "brand:en": "Fornet",
+        "brand:wikidata": "Q108167403",
+        "brand:zh": "福奈特",
+        "name": "福奈特",
+        "name:en": "Fornet",
+        "name:zh": "福奈特",
+        "shop": "dry_cleaning"
+      }
+    }
+  ]
+}

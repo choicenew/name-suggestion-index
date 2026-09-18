@@ -1,0 +1,1275 @@
+{
+  "properties": {
+    "path": "brands/amenity/atm",
+    "skipCollection": true,
+    "exclude": {
+      "generic": [
+        "^atm$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "note": "Auto create ATMs for all banks (remove names per #7236)",
+      "templateExclude": [
+        "abnamro",
+        "bankinghub",
+        "monobank",
+        "postfinance"
+      ],
+      "templateSource": "brands/amenity/bank",
+      "templateTags": {
+        "alt_name": "",
+        "amenity": "atm",
+        "full_name": "",
+        "name": "",
+        "official_name": "",
+        "operator": "{source.tags.brand}",
+        "operator:wikidata": "{source.tags.brand:wikidata}",
+        "short_name": ""
+      }
+    },
+    {
+      "displayName": "AFCN",
+      "id": "afcn-667574",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "AFCN",
+        "brand:wikidata": "Q135087622",
+        "network": "AFCN",
+        "operator": "AFCN",
+        "operator:wikidata": "Q135087622"
+      }
+    },
+    {
+      "displayName": "Allpoint",
+      "id": "allpoint-5fc18b",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "gb",
+          "mx",
+          "nz",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Allpoint",
+        "brand:wikidata": "Q4733264"
+      }
+    },
+    {
+      "displayName": "American Crypto",
+      "id": "americancrypto-93d3a2",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "american crypto atm"
+      ],
+      "matchTags": [
+        "amenity/bank"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "American Crypto",
+        "brand:wikidata": "Q127753246"
+      }
+    },
+    {
+      "displayName": "Athena Bitcoin",
+      "id": "athenabitcoin-5938ef",
+      "locationSet": {
+        "include": [
+          "ar",
+          "co",
+          "pr",
+          "sv",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Athena Bitcoin",
+        "brand:wikidata": "Q135280046",
+        "currency:XBT": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/athenabitcoin/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/athenabitcoin-5938ef.jpg",
+      "local_logo_path": "localbrand/logo/athenabitcoin-5938ef.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/athenabitcoin/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/athenabitcoin-5938ef.jpg"
+      }
+    },
+    {
+      "displayName": "atmx by Armaguard",
+      "id": "atmx-8509c1",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "atmx",
+        "brand:wikidata": "Q118898974",
+        "network": "atmx",
+        "operator": "Armaguard",
+        "operator:wikidata": "Q118898974"
+      }
+    },
+    {
+      "displayName": "Auro Domus",
+      "id": "aurodomus-4d8c03",
+      "locationSet": {
+        "include": [
+          "hr"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Auro Domus",
+        "brand:wikidata": "Q125811872",
+        "operator": "Auro Domus",
+        "operator:wikidata": "Q125811872"
+      },
+      "original_logo_url": "https://graph.facebook.com/aurodomus.hr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aurodomus-4d8c03.jpg",
+      "local_logo_path": "localbrand/logo/aurodomus-4d8c03.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/aurodomus.hr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aurodomus-4d8c03.jpg"
+      }
+    },
+    {
+      "displayName": "Banco24Horas",
+      "id": "banco24horas-a02d2b",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "matchNames": [
+        "branco24horas"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Banco24Horas",
+        "brand:wikidata": "Q4854069"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Banco24Horas_logo.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/banco24horas-a02d2b.jpg",
+      "local_logo_path": "localbrand/logo/banco24horas-a02d2b.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Banco24Horas_logo.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/banco24horas-a02d2b.jpg"
+      }
+    },
+    {
+      "displayName": "Bankomat",
+      "id": "bankomat-adfc2b",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Bankomat",
+        "brand:wikidata": "Q10426078"
+      },
+      "original_logo_url": "https://graph.facebook.com/bankomat/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankomat-adfc2b.jpg",
+      "local_logo_path": "localbrand/logo/bankomat-adfc2b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bankomat/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankomat-adfc2b.jpg"
+      }
+    },
+    {
+      "displayName": "Batopin Cash",
+      "id": "cash-8a4913",
+      "locationSet": {
+        "include": [
+          "be"
+        ]
+      },
+      "matchNames": [
+        "bancontact cash",
+        "batopin cash"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Cash",
+        "brand:wikidata": "Q112875867",
+        "operator": "Batopin",
+        "operator:wikidata": "Q97142699"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Cash_logo_whitebackground.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cash-8a4913.svg",
+      "local_logo_path": "localbrand/logo/cash-8a4913.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/12/Cash_logo_whitebackground.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cash-8a4913.svg"
+      }
+    },
+    {
+      "displayName": "Bitcoin Depot",
+      "id": "bitcoindepot-93d3a2",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "amenity/bank"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Bitcoin Depot",
+        "brand:wikidata": "Q109824499",
+        "currency:XBT": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/BitcoinDepot/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bitcoindepot-93d3a2.jpg",
+      "local_logo_path": "localbrand/logo/bitcoindepot-93d3a2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BitcoinDepot/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bitcoindepot-93d3a2.jpg"
+      }
+    },
+    {
+      "displayName": "Cardtronics",
+      "id": "cardtronics-244dba",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "de",
+          "es",
+          "ie",
+          "mx",
+          "nz",
+          "us",
+          "za"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Cardtronics",
+        "brand:wikidata": "Q50239180"
+      }
+    },
+    {
+      "displayName": "Cash Express",
+      "id": "cashexpress-997829",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Cash Express",
+        "brand:wikidata": "Q130262361"
+      }
+    },
+    {
+      "displayName": "Cash Services",
+      "id": "cashservices-134295",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Cash Services",
+        "brand:wikidata": "Q140008260"
+      }
+    },
+    {
+      "displayName": "Cashflex",
+      "id": "cashflex-650be4",
+      "locationSet": {
+        "include": [
+          "gr"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Cashflex",
+        "brand:wikidata": "Q137564505",
+        "operator": "Cashflex",
+        "operator:wikidata": "Q137564505"
+      }
+    },
+    {
+      "displayName": "Cashzone",
+      "id": "cashzone-396707",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "cardtronics",
+        "cardtronics uk",
+        "cardtronics uk ltd",
+        "cashzone ltd"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Cashzone",
+        "brand:wikidata": "Q110738461",
+        "network": "Allpoint",
+        "network:wikidata": "Q4733264"
+      }
+    },
+    {
+      "displayName": "Chime",
+      "id": "chime-93d3a2",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Chime",
+        "brand:wikidata": "Q85752013"
+      },
+      "original_logo_url": "https://graph.facebook.com/chime/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chime-93d3a2.png",
+      "local_logo_path": "localbrand/logo/chime-93d3a2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/chime/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chime-93d3a2.png"
+      }
+    },
+    {
+      "displayName": "China UnionPay",
+      "id": "chinaunionpay-7886cb",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "China UnionPay",
+        "brand:wikidata": "Q719625"
+      },
+      "original_logo_url": "https://graph.facebook.com/UnionPayThailand/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinaunionpay-7886cb.png",
+      "local_logo_path": "localbrand/logo/chinaunionpay-7886cb.png",
+      "logos": {
+        "original": "https://graph.facebook.com/UnionPayThailand/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinaunionpay-7886cb.png"
+      }
+    },
+    {
+      "displayName": "CO-OP Financial Services",
+      "id": "coopfinancialservices-93d3a2",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "cu cooperative systems"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "CO-OP Financial Services",
+        "brand:wikidata": "Q5013238"
+      }
+    },
+    {
+      "displayName": "CoinFlip",
+      "id": "coinflip-93d3a2",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "CoinFlip",
+        "brand:wikidata": "Q109850256",
+        "currency:XBT": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/coinflipatm/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coinflip-93d3a2.jpg",
+      "local_logo_path": "localbrand/logo/coinflip-93d3a2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/coinflipatm/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coinflip-93d3a2.jpg"
+      }
+    },
+    {
+      "displayName": "Coinhub",
+      "id": "coinhub-93d3a2",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Coinhub",
+        "brand:wikidata": "Q126195855",
+        "currency:XBT": "yes",
+        "name": "Coinhub"
+      },
+      "original_logo_url": "https://graph.facebook.com/coinhubusa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coinhub-93d3a2.jpg",
+      "local_logo_path": "localbrand/logo/coinhub-93d3a2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/coinhubusa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coinhub-93d3a2.jpg"
+      }
+    },
+    {
+      "displayName": "Coinsource",
+      "id": "coinsource-93d3a2",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Coinsource",
+        "brand:wikidata": "Q109850339",
+        "currency:XBT": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/Coinsource.net/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coinsource-93d3a2.jpg",
+      "local_logo_path": "localbrand/logo/coinsource-93d3a2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Coinsource.net/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coinsource-93d3a2.jpg"
+      }
+    },
+    {
+      "displayName": "Cryptobase",
+      "id": "cryptobase-93d3a2",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Cryptobase",
+        "brand:wikidata": "Q122453754",
+        "currency:XBT": "yes"
+      }
+    },
+    {
+      "displayName": "Deutsche Post",
+      "id": "deutschepost-fb8bf5",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "deutsche post ag"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Deutsche Post",
+        "brand:wikidata": "Q157645"
+      },
+      "original_logo_url": "https://graph.facebook.com/deutschepost/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deutschepost-fb8bf5.jpg",
+      "local_logo_path": "localbrand/logo/deutschepost-fb8bf5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/deutschepost/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deutschepost-fb8bf5.jpg"
+      }
+    },
+    {
+      "displayName": "EasyPay",
+      "id": "easypay-e5108a",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "EasyPay",
+        "brand:wikidata": "Q110583289"
+      },
+      "original_logo_url": "https://graph.facebook.com/easypay.bg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easypay-e5108a.png",
+      "local_logo_path": "localbrand/logo/easypay-e5108a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/easypay.bg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easypay-e5108a.png"
+      }
+    },
+    {
+      "displayName": "Euronet",
+      "id": "euronet-d5d850",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "cn"
+        ]
+      },
+      "matchNames": [
+        "euronet 360 finance"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Euronet",
+        "brand:wikidata": "Q5412010",
+        "operator": "Euronet",
+        "operator:wikidata": "Q5412010"
+      }
+    },
+    {
+      "displayName": "Geldmaat",
+      "id": "geldmaat-5333ab",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "matchNames": [
+        "abn amro",
+        "abn amro bank n.v."
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Geldmaat",
+        "brand:wikidata": "Q74051230",
+        "operator": "Geldmaat",
+        "operator:wikidata": "Q74051230"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Geldmaat_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/geldmaat-5333ab.png",
+      "local_logo_path": "localbrand/logo/geldmaat-5333ab.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Geldmaat_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/geldmaat-5333ab.png"
+      }
+    },
+    {
+      "displayName": "Hitachi Money Spot ATM",
+      "id": "hitachi-ad0527",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Hitachi",
+        "brand:wikidata": "Q53238"
+      }
+    },
+    {
+      "displayName": "India1 ATM",
+      "id": "india1atm-ad0527",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "matchNames": [
+        "india one",
+        "india one atm",
+        "india1"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "India1 ATM",
+        "brand:wikidata": "Q134601469"
+      },
+      "original_logo_url": "https://graph.facebook.com/india1payments/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/india1atm-ad0527.jpg",
+      "local_logo_path": "localbrand/logo/india1atm-ad0527.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/india1payments/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/india1atm-ad0527.jpg"
+      }
+    },
+    {
+      "displayName": "Instacoin",
+      "id": "instacoin-ddac74",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "instacoin atm"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Instacoin",
+        "brand:wikidata": "Q133247271"
+      },
+      "original_logo_url": "https://graph.facebook.com/instacoin.crypto/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/instacoin-ddac74.png",
+      "local_logo_path": "localbrand/logo/instacoin-ddac74.png",
+      "logos": {
+        "original": "https://graph.facebook.com/instacoin.crypto/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/instacoin-ddac74.png"
+      }
+    },
+    {
+      "displayName": "Kontanten (Denmark)",
+      "id": "kontanten-198cfd",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Kontanten",
+        "brand:wikidata": "Q126902178",
+        "operator": "Nokas",
+        "operator:wikidata": "Q12307591"
+      }
+    },
+    {
+      "displayName": "Kontanten (Sweden)",
+      "id": "kontanten-adfc2b",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Kontanten",
+        "brand:wikidata": "Q126902178",
+        "operator": "Kontanten",
+        "operator:wikidata": "Q126902178"
+      }
+    },
+    {
+      "displayName": "LibertyX",
+      "id": "libertyx-93d3a2",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "libertyx bitcoin atm"
+      ],
+      "matchTags": [
+        "amenity/finance"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "LibertyX",
+        "brand:wikidata": "Q109287417",
+        "currency:XBT": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/getlibertyx/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libertyx-93d3a2.jpg",
+      "local_logo_path": "localbrand/logo/libertyx-93d3a2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/getlibertyx/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libertyx-93d3a2.jpg"
+      }
+    },
+    {
+      "displayName": "MEPS",
+      "id": "meps-bc168a",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "MEPS",
+        "brand:wikidata": "Q6741957",
+        "operator": "MEPS",
+        "operator:wikidata": "Q6741957"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/MEPS_New_Logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meps-bc168a.png",
+      "local_logo_path": "localbrand/logo/meps-bc168a.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/3/38/MEPS_New_Logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meps-bc168a.png"
+      }
+    },
+    {
+      "displayName": "MoneyGet",
+      "id": "moneyget-7535fc",
+      "locationSet": {
+        "include": [
+          "al",
+          "hr",
+          "me",
+          "rs"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "MoneyGet",
+        "brand:wikidata": "Q125808866",
+        "operator": "Payten",
+        "operator:wikidata": "Q125808773"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Moneyget_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/moneyget-7535fc.svg",
+      "local_logo_path": "localbrand/logo/moneyget-7535fc.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/4/44/Moneyget_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/moneyget-7535fc.svg"
+      }
+    },
+    {
+      "displayName": "MoneyPass",
+      "id": "moneypass-93d3a2",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "MoneyPass",
+        "brand:wikidata": "Q28447513"
+      }
+    },
+    {
+      "displayName": "Nokas (Denmark)",
+      "id": "nokas-198cfd",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Nokas",
+        "brand:en": "Nokas",
+        "brand:wikidata": "Q7047836",
+        "network": "Nokas",
+        "network:wikidata": "Q7047836",
+        "operator": "Nokas",
+        "operator:wikidata": "Q12307591"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Nokas_skylt_V%C3%A4stberga_2015.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nokas-198cfd.jpg",
+      "local_logo_path": "localbrand/logo/nokas-198cfd.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Nokas_skylt_V%C3%A4stberga_2015.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nokas-198cfd.jpg"
+      }
+    },
+    {
+      "displayName": "Nokas (Norway)",
+      "id": "nokas-924d4d",
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Nokas",
+        "brand:en": "Nokas",
+        "brand:wikidata": "Q7047836",
+        "network": "Nokas",
+        "network:wikidata": "Q7047836",
+        "operator": "Nokas",
+        "operator:wikidata": "Q7047836"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Nokas_skylt_V%C3%A4stberga_2015.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nokas-924d4d.jpg",
+      "local_logo_path": "localbrand/logo/nokas-924d4d.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Nokas_skylt_V%C3%A4stberga_2015.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nokas-924d4d.jpg"
+      }
+    },
+    {
+      "displayName": "Nosto",
+      "id": "nosto-6eeb13",
+      "locationSet": {
+        "include": [
+          "fi"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Nosto",
+        "brand:wikidata": "Q18693836",
+        "network": "Nosto",
+        "network:wikidata": "Q18693836",
+        "operator": "Nokas",
+        "operator:wikidata": "Q139719299"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nosto-k%C3%A4teisautomaatti.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nosto-6eeb13.jpg",
+      "local_logo_path": "localbrand/logo/nosto-6eeb13.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nosto-k%C3%A4teisautomaatti.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nosto-6eeb13.jpg"
+      }
+    },
+    {
+      "displayName": "NoteMachine",
+      "id": "notemachine-396707",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "notemachine ltd"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "NoteMachine",
+        "brand:wikidata": "Q104368525",
+        "operator": "NoteMachine",
+        "operator:short": "NMATM",
+        "operator:wikidata": "Q104368525"
+      }
+    },
+    {
+      "displayName": "Old Mutual",
+      "id": "oldmutual-ff45b4",
+      "locationSet": {
+        "include": [
+          "bw",
+          "cn",
+          "gh",
+          "ke",
+          "mw",
+          "na",
+          "ng",
+          "rw",
+          "ss",
+          "sz",
+          "tz",
+          "ug",
+          "za",
+          "zw"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Old Mutual",
+        "brand:wikidata": "Q289704"
+      },
+      "original_logo_url": "https://graph.facebook.com/OldMutualSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldmutual-ff45b4.png",
+      "local_logo_path": "localbrand/logo/oldmutual-ff45b4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/OldMutualSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldmutual-ff45b4.png"
+      }
+    },
+    {
+      "displayName": "Otto",
+      "id": "otto-6eeb13",
+      "locationSet": {
+        "include": [
+          "fi"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Otto",
+        "brand:wikidata": "Q7109498"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Otto_pankkiautomaatti_20180827_%28cropped%29.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/otto-6eeb13.jpg",
+      "local_logo_path": "localbrand/logo/otto-6eeb13.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Otto_pankkiautomaatti_20180827_%28cropped%29.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/otto-6eeb13.jpg"
+      }
+    },
+    {
+      "displayName": "Pathward (MetaBank)",
+      "id": "pathward-93d3a2",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "metabank"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Pathward",
+        "brand:wikidata": "Q6822267"
+      }
+    },
+    {
+      "displayName": "Planet Cash",
+      "id": "planetcash-53bcca",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Planet Cash",
+        "brand:wikidata": "Q117744569",
+        "operator": "ITCARD S.A.",
+        "operator:wikidata": "Q97183761"
+      }
+    },
+    {
+      "displayName": "Post Office",
+      "id": "postoffice-396707",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "post office ltd",
+        "post office money"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Post Office",
+        "brand:wikidata": "Q1783168"
+      },
+      "original_logo_url": "https://graph.facebook.com/postoffice/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postoffice-396707.jpg",
+      "local_logo_path": "localbrand/logo/postoffice-396707.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/postoffice/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postoffice-396707.jpg"
+      }
+    },
+    {
+      "displayName": "Postamat",
+      "id": "postamat-64483a",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Postamat",
+        "brand:wikidata": "Q3909447",
+        "operator": "Poste Italiane",
+        "operator:wikidata": "Q495026"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Logo_Postamat.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postamat-64483a.jpg",
+      "local_logo_path": "localbrand/logo/postamat-64483a.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/05/Logo_Postamat.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postamat-64483a.jpg"
+      }
+    },
+    {
+      "displayName": "Postomat",
+      "id": "postomat-ba97f3",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Postomat",
+        "brand:wikidata": "Q449233",
+        "operator": "PostFinance",
+        "operator:wikidata": "Q449233"
+      },
+      "original_logo_url": "https://graph.facebook.com/postfinance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postomat-ba97f3.jpg",
+      "local_logo_path": "localbrand/logo/postomat-ba97f3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/postfinance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postomat-ba97f3.jpg"
+      }
+    },
+    {
+      "displayName": "RockItCoin",
+      "id": "rockitcoin-93d3a2",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "RockItCoin",
+        "brand:wikidata": "Q125924689",
+        "currency:XBT": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/RockItCoin/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rockitcoin-93d3a2.jpg",
+      "local_logo_path": "localbrand/logo/rockitcoin-93d3a2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RockItCoin/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rockitcoin-93d3a2.jpg"
+      }
+    },
+    {
+      "displayName": "Sainsbury's Bank",
+      "id": "sainsburysbank-396707",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "sainsbury",
+        "sainsbury's"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Sainsbury's Bank",
+        "brand:wikidata": "Q7400525",
+        "operator": "Sainsbury's Bank",
+        "operator:wikidata": "Q7400525"
+      }
+    },
+    {
+      "displayName": "Tesco Bank",
+      "id": "tescobank-396707",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "tesco"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Tesco Bank",
+        "brand:wikidata": "Q487494"
+      }
+    },
+    {
+      "displayName": "Travelex",
+      "id": "travelex-d5d850",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "Travelex",
+        "brand:wikidata": "Q2337964"
+      },
+      "original_logo_url": "https://graph.facebook.com/TravelexUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/travelex-d5d850.png",
+      "local_logo_path": "localbrand/logo/travelex-d5d850.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TravelexUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/travelex-d5d850.png"
+      }
+    },
+    {
+      "displayName": "Т-Банк",
+      "id": "tbank-da35c8",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "matchNames": [
+        "tinkoff",
+        "tinkoff bank",
+        "тинькофф",
+        "тинькофф банк",
+        "בנק טינקוף",
+        "بانک تینکوف"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "Т-Банк",
+        "brand:en": "T-Bank",
+        "brand:fa": "تی-بانک",
+        "brand:he": "טי-בנק",
+        "brand:ru": "Т-Банк",
+        "brand:wikidata": "Q4457878"
+      },
+      "original_logo_url": "https://graph.facebook.com/tinkoffbank/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tbank-da35c8.jpg",
+      "local_logo_path": "localbrand/logo/tbank-da35c8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tinkoffbank/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tbank-da35c8.jpg"
+      }
+    },
+    {
+      "displayName": "イーネット",
+      "id": "enet-52efab",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "イーネットatm"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "イーネット",
+        "brand:en": "E-net",
+        "brand:ja": "イーネット",
+        "brand:wikidata": "Q135317450",
+        "name": "イーネット",
+        "name:en": "E-net",
+        "name:ja": "イーネット"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/E-net_ATMs_in_FamilyMart_in_Sugamo.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/enet-52efab.jpg",
+      "local_logo_path": "localbrand/logo/enet-52efab.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/E-net_ATMs_in_FamilyMart_in_Sugamo.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/enet-52efab.jpg"
+      }
+    },
+    {
+      "displayName": "セブン銀行",
+      "id": "sevenbank-52efab",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "7銀行"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "セブン銀行",
+        "brand:en": "Seven Bank",
+        "brand:ja": "セブン銀行",
+        "brand:wikidata": "Q7457182",
+        "name": "セブン銀行",
+        "name:en": "Seven Bank",
+        "name:ja": "セブン銀行"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/7bank_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sevenbank-52efab.svg",
+      "local_logo_path": "localbrand/logo/sevenbank-52efab.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/7bank_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sevenbank-52efab.svg"
+      }
+    },
+    {
+      "displayName": "ビューアルッテ",
+      "id": "viewaltte-52efab",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "amenity": "atm",
+        "brand": "ビューアルッテ",
+        "brand:en": "View Altte",
+        "brand:ja": "ビューアルッテ",
+        "brand:wikidata": "Q11330938",
+        "operator": "ビューカード",
+        "operator:en": "Viewcard",
+        "operator:ja": "ビューカード",
+        "operator:wikidata": "Q11330939"
+      }
+    },
+    {
+      "displayName": "ローソン銀行",
+      "id": "lawsonbank-52efab",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "ローソン",
+        "ローソンatm"
+      ],
+      "tags": {
+        "amenity": "atm",
+        "brand": "ローソン銀行",
+        "brand:en": "Lawson Bank",
+        "brand:ja": "ローソン銀行",
+        "brand:wikidata": "Q11350963",
+        "name": "ローソン銀行",
+        "name:en": "Lawson Bank",
+        "name:ja": "ローソン銀行"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/LAWSON_Bank_ATM_in_LAWSON_in_Toshima%2C_Tokyo.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lawsonbank-52efab.jpg",
+      "local_logo_path": "localbrand/logo/lawsonbank-52efab.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/11/LAWSON_Bank_ATM_in_LAWSON_in_Toshima%2C_Tokyo.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lawsonbank-52efab.jpg"
+      }
+    },
+    {
+      "displayName": "中華郵政",
+      "id": "chunghwapost-9a6797",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "matchNames": [
+        "中華郵政公司",
+        "中華郵政股份有限公司"
+      ],
+      "tags": {
+        "alt_name": "中華郵政;郵局",
+        "amenity": "atm",
+        "brand": "中華郵政",
+        "brand:en": "Chunghwa Post",
+        "brand:nan": "Tiong-hôa Iû-chèng",
+        "brand:nan-Hant": "中華郵政",
+        "brand:nan-Latn-pehoeji": "Tiong-hôa Iû-chèng",
+        "brand:nan-Latn-tailo": "Tiong-huâ Iû-tsìng",
+        "brand:wikidata": "Q709259",
+        "brand:zh": "中華郵政"
+      },
+      "original_logo_url": "https://graph.facebook.com/post.gov.tw/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chunghwapost-9a6797.jpg",
+      "local_logo_path": "localbrand/logo/chunghwapost-9a6797.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/post.gov.tw/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chunghwapost-9a6797.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "properties": {
+    "path": "brands/leisure/fitness_station",
+    "skipCollection": true,
+    "exclude": {
+      "generic": [
+        "^fitness station$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Fitness Court",
+      "id": "fitnesscourt-b43b0a",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Fitness Court",
+        "brand:wikidata": "Q116211382",
+        "leisure": "fitness_station",
+        "name": "Fitness Court"
+      },
+      "original_logo_url": "https://graph.facebook.com/NatFitCampaign/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitnesscourt-b43b0a.jpg",
+      "local_logo_path": "localbrand/logo/fitnesscourt-b43b0a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NatFitCampaign/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitnesscourt-b43b0a.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "properties": {
+    "path": "brands/shop/music",
+    "exclude": {
+      "generic": [
+        "^music$"
+      ],
+      "named": [
+        "^lot 1$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "FYE",
+      "id": "fye-41f363",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "FYE",
+        "brand:wikidata": "Q5424141",
+        "name": "FYE",
+        "shop": "music"
+      },
+      "original_logo_url": "https://graph.facebook.com/FYE/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fye-41f363.jpg",
+      "local_logo_path": "localbrand/logo/fye-41f363.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FYE/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fye-41f363.jpg"
+      }
+    },
+    {
+      "displayName": "Golden Discs",
+      "id": "goldendiscs-bbd6e8",
+      "locationSet": {
+        "include": [
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "Golden Discs",
+        "brand:wikidata": "Q5579324",
+        "name": "Golden Discs",
+        "shop": "music"
+      },
+      "original_logo_url": "https://graph.facebook.com/goldendiscs/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goldendiscs-bbd6e8.jpg",
+      "local_logo_path": "localbrand/logo/goldendiscs-bbd6e8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/goldendiscs/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goldendiscs-bbd6e8.jpg"
+      }
+    },
+    {
+      "displayName": "HMV",
+      "id": "hmv-d8c1af",
+      "locationSet": {
+        "include": [
+          "ca",
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "HMV",
+        "brand:wikidata": "Q10854572",
+        "name": "HMV",
+        "shop": "music"
+      },
+      "original_logo_url": "https://graph.facebook.com/hmv/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hmv-d8c1af.jpg",
+      "local_logo_path": "localbrand/logo/hmv-d8c1af.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hmv/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hmv-d8c1af.jpg"
+      }
+    },
+    {
+      "displayName": "Oxfam Books & Music",
+      "id": "oxfambooksandmusic-0f8099",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "oxfam"
+      ],
+      "tags": {
+        "brand": "Oxfam Books & Music",
+        "brand:wikidata": "Q117838013",
+        "name": "Oxfam Books & Music",
+        "second_hand": "only",
+        "shop": "music"
+      },
+      "original_logo_url": "https://graph.facebook.com/oxfamGB/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oxfambooksandmusic-0f8099.jpg",
+      "local_logo_path": "localbrand/logo/oxfambooksandmusic-0f8099.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/oxfamGB/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oxfambooksandmusic-0f8099.jpg"
+      }
+    },
+    {
+      "displayName": "Sunrise Records",
+      "id": "sunriserecords-d8c1af",
+      "locationSet": {
+        "include": [
+          "ca",
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Sunrise Records",
+        "brand:wikidata": "Q30600373",
+        "name": "Sunrise Records",
+        "shop": "music"
+      },
+      "original_logo_url": "https://graph.facebook.com/sunriserecords/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sunriserecords-d8c1af.jpg",
+      "local_logo_path": "localbrand/logo/sunriserecords-d8c1af.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sunriserecords/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sunriserecords-d8c1af.jpg"
+      }
+    },
+    {
+      "displayName": "TSUTAYA",
+      "id": "tsutaya-e843fe",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "TSUTAYA",
+        "brand:wikidata": "Q5193457",
+        "name": "TSUTAYA",
+        "shop": "music"
+      },
+      "original_logo_url": "https://graph.facebook.com/TSUTAYA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tsutaya-e843fe.png",
+      "local_logo_path": "localbrand/logo/tsutaya-e843fe.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TSUTAYA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tsutaya-e843fe.png"
+      }
+    },
+    {
+      "displayName": "タワーレコード",
+      "id": "towerrecords-178cd4",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "alt_name": "タワレコ",
+        "brand": "タワーレコード",
+        "brand:en": "Tower Records",
+        "brand:ja": "タワーレコード",
+        "brand:wikidata": "Q16641937",
+        "name": "タワーレコード",
+        "name:en": "Tower Records",
+        "name:ja": "タワーレコード",
+        "shop": "music"
+      },
+      "original_logo_url": "https://graph.facebook.com/tower.jp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/towerrecords-178cd4.jpg",
+      "local_logo_path": "localbrand/logo/towerrecords-178cd4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tower.jp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/towerrecords-178cd4.jpg"
+      }
+    },
+    {
+      "displayName": "ディスクユニオン",
+      "id": "diskunion-178cd4",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ディスクユニオン",
+        "brand:en": "Disk Union",
+        "brand:ja": "ディスクユニオン",
+        "brand:wikidata": "Q11320039",
+        "name": "ディスクユニオン",
+        "name:en": "Disk Union",
+        "name:ja": "ディスクユニオン",
+        "shop": "music"
+      },
+      "original_logo_url": "https://graph.facebook.com/diskunion/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/diskunion-178cd4.jpg",
+      "local_logo_path": "localbrand/logo/diskunion-178cd4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/diskunion/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/diskunion-178cd4.jpg"
+      }
+    }
+  ]
+}

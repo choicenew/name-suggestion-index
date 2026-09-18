@@ -1,0 +1,40 @@
+{
+  "properties": {
+    "path": "brands/amenity/weighbridge",
+    "exclude": {
+      "generic": [
+        "^báscula$",
+        "^weighbridge$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "CAT Scale",
+      "id": "catscale-8a30f0",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "cat",
+        "cat certified scales"
+      ],
+      "tags": {
+        "amenity": "weighbridge",
+        "brand": "CAT Scale",
+        "brand:wikidata": "Q111631907",
+        "name": "CAT Scale"
+      },
+      "original_logo_url": "https://graph.facebook.com/catscaleco/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/catscale-8a30f0.png",
+      "local_logo_path": "localbrand/logo/catscale-8a30f0.png",
+      "logos": {
+        "original": "https://graph.facebook.com/catscaleco/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/catscale-8a30f0.png"
+      }
+    }
+  ]
+}

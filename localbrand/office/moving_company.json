@@ -1,0 +1,95 @@
+{
+  "properties": {
+    "path": "brands/office/moving_company",
+    "exclude": {
+      "generic": [
+        "^moving company$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Les Déménageurs Bretons",
+      "id": "lesdemenageursbretons-05c8b7",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Les Déménageurs Bretons",
+        "brand:wikidata": "Q60849018",
+        "name": "Les Déménageurs Bretons",
+        "office": "moving_company"
+      },
+      "original_logo_url": "https://graph.facebook.com/Les.demenageurs.bretons/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lesdemenageursbretons-05c8b7.jpg",
+      "local_logo_path": "localbrand/logo/lesdemenageursbretons-05c8b7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Les.demenageurs.bretons/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lesdemenageursbretons-05c8b7.jpg"
+      }
+    },
+    {
+      "displayName": "Two Men and a Truck",
+      "id": "twomenandatruck-1df089",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Two Men and a Truck",
+        "brand:wikidata": "Q7859087",
+        "name": "Two Men and a Truck",
+        "office": "moving_company"
+      },
+      "original_logo_url": "https://graph.facebook.com/twomensiouxfalls/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/twomenandatruck-1df089.jpg",
+      "local_logo_path": "localbrand/logo/twomenandatruck-1df089.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/twomensiouxfalls/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/twomenandatruck-1df089.jpg"
+      }
+    },
+    {
+      "displayName": "アート引越センター",
+      "id": "the0123-b6b6de",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "alt_name:en": "Art Moving",
+        "brand": "アート引越センター",
+        "brand:en": "the0123",
+        "brand:ja": "アート引越センター",
+        "brand:wikidata": "Q11285653",
+        "name": "アート引越センター",
+        "name:en": "the0123",
+        "name:ja": "アート引越センター",
+        "office": "moving_company"
+      }
+    },
+    {
+      "displayName": "サカイ引越センター",
+      "id": "sakaimovingservice-b6b6de",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "サカイ引越センター",
+        "brand:en": "Sakai Moving Service",
+        "brand:ja": "サカイ引越センター",
+        "brand:wikidata": "Q11304384",
+        "name": "サカイ引越センター",
+        "name:en": "Sakai Moving Service",
+        "name:ja": "サカイ引越センター",
+        "office": "moving_company"
+      }
+    }
+  ]
+}

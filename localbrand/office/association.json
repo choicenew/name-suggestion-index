@@ -1,0 +1,464 @@
+{
+  "properties": {
+    "path": "brands/office/association",
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^(association|nonprofit|charity)$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "ACE",
+      "id": "ace-496920",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name",
+        "^official_name"
+      ],
+      "tags": {
+        "brand": "ACE",
+        "brand:wikidata": "Q784865",
+        "name": "ACE",
+        "office": "association",
+        "official_name": "Auto Club Europa"
+      },
+      "original_logo_url": "https://graph.facebook.com/AutoClubEuropa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ace-496920.jpg",
+      "local_logo_path": "localbrand/logo/ace-496920.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AutoClubEuropa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ace-496920.jpg"
+      }
+    },
+    {
+      "displayName": "ACV",
+      "id": "acv-496920",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name",
+        "^official_name"
+      ],
+      "tags": {
+        "brand": "ACV",
+        "brand:wikidata": "Q288866",
+        "name": "ACV",
+        "office": "association",
+        "official_name": "ACV Automobil-Club Verkehr"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/ACV_Automobil-Club_Verkehr_Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/acv-496920.svg",
+      "local_logo_path": "localbrand/logo/acv-496920.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/e/ef/ACV_Automobil-Club_Verkehr_Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/acv-496920.svg"
+      }
+    },
+    {
+      "displayName": "ADAC",
+      "id": "adac-496920",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name",
+        "^official_name"
+      ],
+      "tags": {
+        "brand": "ADAC",
+        "brand:wikidata": "Q289953",
+        "name": "ADAC",
+        "office": "association",
+        "official_name": "Allgemeiner Deutscher Automobil-Club"
+      },
+      "original_logo_url": "https://graph.facebook.com/ADAC/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adac-496920.jpg",
+      "local_logo_path": "localbrand/logo/adac-496920.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ADAC/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adac-496920.jpg"
+      }
+    },
+    {
+      "displayName": "ADFC",
+      "id": "adfc-496920",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name",
+        "^official_name"
+      ],
+      "tags": {
+        "brand": "ADFC",
+        "brand:wikidata": "Q24349",
+        "name": "ADFC",
+        "office": "association",
+        "official_name": "Allgemeiner Deutscher Fahrrad-Club"
+      },
+      "original_logo_url": "https://graph.facebook.com/AllgemeinerDeutscherFahrradClub/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adfc-496920.png",
+      "local_logo_path": "localbrand/logo/adfc-496920.png",
+      "logos": {
+        "original": "https://graph.facebook.com/AllgemeinerDeutscherFahrradClub/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adfc-496920.png"
+      }
+    },
+    {
+      "displayName": "Arbeiter-Samariter-Bund",
+      "id": "arbeitersamariterbund-496920",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "asb"
+      ],
+      "tags": {
+        "brand": "Arbeiter-Samariter-Bund",
+        "brand:wikidata": "Q627071",
+        "name": "Arbeiter-Samariter-Bund",
+        "office": "association"
+      },
+      "original_logo_url": "https://graph.facebook.com/asb.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arbeitersamariterbund-496920.jpg",
+      "local_logo_path": "localbrand/logo/arbeitersamariterbund-496920.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/asb.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arbeitersamariterbund-496920.jpg"
+      }
+    },
+    {
+      "displayName": "Arbeiterwohlfahrt",
+      "id": "arbeiterwohlfahrt-496920",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "awo"
+      ],
+      "tags": {
+        "brand": "Arbeiterwohlfahrt",
+        "brand:wikidata": "Q627256",
+        "name": "Arbeiterwohlfahrt",
+        "office": "association"
+      }
+    },
+    {
+      "displayName": "Associazione Nazionale Libera Caccia",
+      "id": "associazionenazionaleliberacaccia-7fa950",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Associazione Nazionale Libera Caccia",
+        "brand:short": "ANLC",
+        "brand:wikidata": "Q140319765",
+        "name": "Associazione Nazionale Libera Caccia",
+        "office": "association"
+      }
+    },
+    {
+      "displayName": "AVIS",
+      "id": "avis-7fa950",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "AVIS",
+        "brand:wikidata": "Q3627251",
+        "name": "AVIS",
+        "office": "association"
+      },
+      "original_logo_url": "https://graph.facebook.com/avisnazionale/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/avis-7fa950.png",
+      "local_logo_path": "localbrand/logo/avis-7fa950.png",
+      "logos": {
+        "original": "https://graph.facebook.com/avisnazionale/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/avis-7fa950.png"
+      }
+    },
+    {
+      "displayName": "BUND",
+      "id": "bund-496920",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name",
+        "^official_name"
+      ],
+      "tags": {
+        "brand": "BUND",
+        "brand:wikidata": "Q897009",
+        "name": "BUND",
+        "office": "association",
+        "official_name": "Bund für Umwelt und Naturschutz Deutschland"
+      },
+      "original_logo_url": "https://graph.facebook.com/117534528257937/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bund-496920.jpg",
+      "local_logo_path": "localbrand/logo/bund-496920.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/117534528257937/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bund-496920.jpg"
+      }
+    },
+    {
+      "displayName": "Deutsches Rotes Kreuz",
+      "id": "deutschesroteskreuz-496920",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "drk",
+        "rotes kreuz"
+      ],
+      "tags": {
+        "brand": "Deutsches Rotes Kreuz",
+        "brand:wikidata": "Q694104",
+        "name": "Deutsches Rotes Kreuz",
+        "office": "association"
+      },
+      "original_logo_url": "https://graph.facebook.com/67003546475/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deutschesroteskreuz-496920.jpg",
+      "local_logo_path": "localbrand/logo/deutschesroteskreuz-496920.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/67003546475/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deutschesroteskreuz-496920.jpg"
+      }
+    },
+    {
+      "displayName": "Diakonie",
+      "id": "diakonie-496920",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "diakonie deutschland",
+        "diakoniewerk",
+        "diakonisches werk"
+      ],
+      "tags": {
+        "brand": "Diakonie",
+        "brand:wikidata": "Q126501",
+        "name": "Diakonie",
+        "office": "association"
+      },
+      "original_logo_url": "https://graph.facebook.com/diakonie/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/diakonie-496920.jpg",
+      "local_logo_path": "localbrand/logo/diakonie-496920.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/diakonie/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/diakonie-496920.jpg"
+      }
+    },
+    {
+      "displayName": "DLRG",
+      "id": "dlrg-496920",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name",
+        "^official_name"
+      ],
+      "tags": {
+        "brand": "DLRG",
+        "brand:wikidata": "Q871679",
+        "name": "DLRG",
+        "office": "association",
+        "official_name": "Deutsche Lebens-Rettungs-Gesellschaft"
+      },
+      "original_logo_url": "https://graph.facebook.com/DLRG/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dlrg-496920.png",
+      "local_logo_path": "localbrand/logo/dlrg-496920.png",
+      "logos": {
+        "original": "https://graph.facebook.com/DLRG/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dlrg-496920.png"
+      }
+    },
+    {
+      "displayName": "Greenpeace",
+      "id": "greenpeace-a7aa2a",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Greenpeace",
+        "brand:wikidata": "Q81307",
+        "name": "Greenpeace",
+        "office": "association"
+      },
+      "original_logo_url": "https://graph.facebook.com/greenpeace.international/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greenpeace-a7aa2a.jpg",
+      "local_logo_path": "localbrand/logo/greenpeace-a7aa2a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/greenpeace.international/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greenpeace-a7aa2a.jpg"
+      }
+    },
+    {
+      "displayName": "Johanniter-Unfall-Hilfe",
+      "id": "johanniterunfallhilfe-496920",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "johanniter",
+        "juh"
+      ],
+      "tags": {
+        "brand": "Johanniter-Unfall-Hilfe",
+        "brand:wikidata": "Q14751117",
+        "name": "Johanniter-Unfall-Hilfe",
+        "office": "association"
+      },
+      "original_logo_url": "https://graph.facebook.com/DieJohanniter/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johanniterunfallhilfe-496920.jpg",
+      "local_logo_path": "localbrand/logo/johanniterunfallhilfe-496920.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DieJohanniter/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johanniterunfallhilfe-496920.jpg"
+      }
+    },
+    {
+      "displayName": "Malteser Hilfsdienst",
+      "id": "malteserhilfsdienst-496920",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "malteser",
+        "mhd"
+      ],
+      "tags": {
+        "brand": "Malteser Hilfsdienst",
+        "brand:wikidata": "Q1318397",
+        "name": "Malteser Hilfsdienst",
+        "office": "association"
+      },
+      "original_logo_url": "https://graph.facebook.com/malteser.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/malteserhilfsdienst-496920.png",
+      "local_logo_path": "localbrand/logo/malteserhilfsdienst-496920.png",
+      "logos": {
+        "original": "https://graph.facebook.com/malteser.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/malteserhilfsdienst-496920.png"
+      }
+    },
+    {
+      "displayName": "NABU",
+      "id": "nabu-496920",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name",
+        "^official_name"
+      ],
+      "tags": {
+        "brand": "NABU",
+        "brand:wikidata": "Q516755",
+        "name": "NABU",
+        "office": "association",
+        "official_name": "Naturschutzbund Deutschland"
+      },
+      "original_logo_url": "https://graph.facebook.com/133306764192/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nabu-496920.jpg",
+      "local_logo_path": "localbrand/logo/nabu-496920.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/133306764192/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nabu-496920.jpg"
+      }
+    },
+    {
+      "displayName": "ÖAMTC Stützpunkt",
+      "id": "oamtc-71b284",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "tags": {
+        "brand": "ÖAMTC",
+        "brand:wikidata": "Q306057",
+        "name": "ÖAMTC",
+        "office": "association"
+      },
+      "original_logo_url": "https://graph.facebook.com/OEAMTC/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oamtc-71b284.jpg",
+      "local_logo_path": "localbrand/logo/oamtc-71b284.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OEAMTC/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oamtc-71b284.jpg"
+      }
+    },
+    {
+      "displayName": "VCD",
+      "id": "vcd-496920",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name",
+        "^official_name"
+      ],
+      "tags": {
+        "brand": "VCD",
+        "brand:wikidata": "Q2516162",
+        "name": "VCD",
+        "office": "association",
+        "official_name": "Verkehrsclub Deutschland"
+      },
+      "original_logo_url": "https://graph.facebook.com/125334060836168/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vcd-496920.png",
+      "local_logo_path": "localbrand/logo/vcd-496920.png",
+      "logos": {
+        "original": "https://graph.facebook.com/125334060836168/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vcd-496920.png"
+      }
+    }
+  ]
+}

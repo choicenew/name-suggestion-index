@@ -1,0 +1,214 @@
+{
+  "properties": {
+    "path": "brands/shop/appliance",
+    "exclude": {
+      "generic": [
+        "^appliance$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Appliance Repair by Asurion",
+      "id": "appliancerepairbyasurion-70060f",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Appliance Repair by Asurion",
+        "brand:wikidata": "Q4811938",
+        "name": "Appliance Repair by Asurion",
+        "shop": "appliance"
+      },
+      "original_logo_url": "https://graph.facebook.com/Asurion/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/appliancerepairbyasurion-70060f.png",
+      "local_logo_path": "localbrand/logo/appliancerepairbyasurion-70060f.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Asurion/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/appliancerepairbyasurion-70060f.png"
+      }
+    },
+    {
+      "displayName": "Arçelik",
+      "id": "arcelik-f0338d",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Arçelik",
+        "brand:wikidata": "Q640497",
+        "name": "Arçelik",
+        "shop": "appliance"
+      },
+      "original_logo_url": "https://graph.facebook.com/arcelik/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arcelik-f0338d.jpg",
+      "local_logo_path": "localbrand/logo/arcelik-f0338d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/arcelik/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arcelik-f0338d.jpg"
+      }
+    },
+    {
+      "displayName": "Beko",
+      "id": "beko-7f4aaf",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "Beko",
+        "brand:wikidata": "Q631792",
+        "name": "Beko",
+        "shop": "appliance"
+      },
+      "original_logo_url": "https://graph.facebook.com/Beko/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beko-7f4aaf.jpg",
+      "local_logo_path": "localbrand/logo/beko-7f4aaf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Beko/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beko-7f4aaf.jpg"
+      }
+    },
+    {
+      "displayName": "Beko (Georgia)",
+      "id": "beko-5f01e3",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "Beko",
+        "brand:ka": "Beko",
+        "brand:wikidata": "Q631792",
+        "name": "Beko",
+        "name:ka": "Beko",
+        "shop": "appliance"
+      },
+      "original_logo_url": "https://graph.facebook.com/Beko/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beko-5f01e3.jpg",
+      "local_logo_path": "localbrand/logo/beko-5f01e3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Beko/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beko-5f01e3.jpg"
+      }
+    },
+    {
+      "displayName": "Gollo",
+      "id": "gollo-a110c3",
+      "locationSet": {
+        "include": [
+          "cr"
+        ]
+      },
+      "tags": {
+        "brand": "Gollo",
+        "name": "Gollo",
+        "shop": "appliance"
+      }
+    },
+    {
+      "displayName": "Miele",
+      "id": "miele-ff6287",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Miele",
+        "brand:wikidata": "Q695230",
+        "name": "Miele",
+        "shop": "appliance"
+      },
+      "original_logo_url": "https://graph.facebook.com/Miele/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/miele-ff6287.png",
+      "local_logo_path": "localbrand/logo/miele-ff6287.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Miele/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/miele-ff6287.png"
+      }
+    },
+    {
+      "displayName": "Profilo",
+      "id": "profilo-f0338d",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Profilo",
+        "brand:wikidata": "Q6043911",
+        "name": "Profilo",
+        "shop": "appliance"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Profilo_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/profilo-f0338d.svg",
+      "local_logo_path": "localbrand/logo/profilo-f0338d.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Profilo_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/profilo-f0338d.svg"
+      }
+    },
+    {
+      "displayName": "Tien21",
+      "id": "tien21-5228b9",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "tags": {
+        "brand": "Tien21",
+        "brand:wikidata": "Q120442324",
+        "name": "Tien21",
+        "shop": "appliance"
+      },
+      "original_logo_url": "https://graph.facebook.com/tien21electrodomesticos/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tien21-5228b9.jpg",
+      "local_logo_path": "localbrand/logo/tien21-5228b9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tien21electrodomesticos/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tien21-5228b9.jpg"
+      }
+    },
+    {
+      "displayName": "اسنوا",
+      "id": "snowa-e56cf0",
+      "locationSet": {
+        "include": [
+          "ir"
+        ]
+      },
+      "tags": {
+        "brand": "اسنوا",
+        "brand:en": "Snowa",
+        "brand:fa": "اسنوا",
+        "brand:wikidata": "Q20109567",
+        "name": "اسنوا",
+        "name:en": "Snowa",
+        "name:fa": "اسنوا",
+        "shop": "appliance"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Snowa.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/snowa-e56cf0.jpg",
+      "local_logo_path": "localbrand/logo/snowa-e56cf0.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Snowa.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/snowa-e56cf0.jpg"
+      }
+    }
+  ]
+}

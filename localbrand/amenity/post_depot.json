@@ -1,0 +1,259 @@
+{
+  "properties": {
+    "path": "brands/amenity/post_depot",
+    "skipCollection": true,
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^post depot$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Amazon",
+      "id": "amazon-2083a7",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "post_depot",
+        "brand": "Amazon",
+        "brand:wikidata": "Q3884",
+        "operator": "Amazon",
+        "operator:type": "private",
+        "operator:wikidata": "Q3884"
+      },
+      "original_logo_url": "https://graph.facebook.com/Amazon/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amazon-2083a7.jpg",
+      "local_logo_path": "localbrand/logo/amazon-2083a7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Amazon/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amazon-2083a7.jpg"
+      }
+    },
+    {
+      "displayName": "DHL",
+      "id": "dhl-2083a7",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "post_depot",
+        "brand": "DHL",
+        "brand:wikidata": "Q489815",
+        "name": "DHL",
+        "operator": "DHL",
+        "operator:type": "private",
+        "operator:wikidata": "Q489815"
+      },
+      "original_logo_url": "https://graph.facebook.com/dhl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dhl-2083a7.jpg",
+      "local_logo_path": "localbrand/logo/dhl-2083a7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dhl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dhl-2083a7.jpg"
+      }
+    },
+    {
+      "displayName": "DPD",
+      "id": "dpd-402e3b",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "bg"
+        ]
+      },
+      "matchNames": [
+        "dpd dynamic parcel distribution"
+      ],
+      "tags": {
+        "amenity": "post_depot",
+        "brand": "DPD",
+        "brand:wikidata": "Q541030",
+        "name": "DPD",
+        "operator": "DPD",
+        "operator:type": "private",
+        "operator:wikidata": "Q541030"
+      },
+      "original_logo_url": "https://graph.facebook.com/350375105088695/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpd-402e3b.png",
+      "local_logo_path": "localbrand/logo/dpd-402e3b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/350375105088695/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpd-402e3b.png"
+      }
+    },
+    {
+      "displayName": "FedEx",
+      "id": "fedex-2083a7",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "federal express"
+      ],
+      "tags": {
+        "amenity": "post_depot",
+        "brand": "FedEx",
+        "brand:wikidata": "Q459477",
+        "operator": "FedEx",
+        "operator:type": "private",
+        "operator:wikidata": "Q459477"
+      },
+      "original_logo_url": "https://graph.facebook.com/FedEx/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fedex-2083a7.png",
+      "local_logo_path": "localbrand/logo/fedex-2083a7.png",
+      "logos": {
+        "original": "https://graph.facebook.com/FedEx/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fedex-2083a7.png"
+      }
+    },
+    {
+      "displayName": "InXpress",
+      "id": "inxpress-182e7a",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "de",
+          "fr",
+          "gb",
+          "hk",
+          "in",
+          "kr",
+          "ma",
+          "nl",
+          "nz",
+          "tt",
+          "us",
+          "vn",
+          "za"
+        ]
+      },
+      "tags": {
+        "amenity": "post_depot",
+        "brand": "InXpress",
+        "brand:wikidata": "Q130400315",
+        "operator": "InXpress",
+        "operator:type": "private",
+        "operator:wikidata": "Q130400315"
+      },
+      "original_logo_url": "https://graph.facebook.com/za.inxpress/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/inxpress-182e7a.jpg",
+      "local_logo_path": "localbrand/logo/inxpress-182e7a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/za.inxpress/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/inxpress-182e7a.jpg"
+      }
+    },
+    {
+      "displayName": "Nacex",
+      "id": "nacex-10ef8b",
+      "locationSet": {
+        "include": [
+          "ad",
+          "de",
+          "es",
+          "nl",
+          "pt"
+        ]
+      },
+      "tags": {
+        "amenity": "post_depot",
+        "brand": "Nacex",
+        "brand:wikidata": "Q126366376"
+      }
+    },
+    {
+      "displayName": "Speedy",
+      "id": "speedy-bb90e2",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "amenity": "post_depot",
+        "brand": "Speedy",
+        "brand:wikidata": "Q131312685",
+        "operator": "Speedy",
+        "operator:type": "private",
+        "operator:wikidata": "Q131312685"
+      },
+      "original_logo_url": "https://graph.facebook.com/speedy.bg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedy-bb90e2.png",
+      "local_logo_path": "localbrand/logo/speedy-bb90e2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/speedy.bg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedy-bb90e2.png"
+      }
+    },
+    {
+      "displayName": "UPS",
+      "id": "ups-2083a7",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "united parcel service"
+      ],
+      "tags": {
+        "amenity": "post_depot",
+        "brand": "UPS",
+        "brand:wikidata": "Q155026",
+        "operator": "UPS",
+        "operator:type": "private",
+        "operator:wikidata": "Q155026"
+      },
+      "original_logo_url": "https://graph.facebook.com/ups/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ups-2083a7.png",
+      "local_logo_path": "localbrand/logo/ups-2083a7.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ups/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ups-2083a7.png"
+      }
+    },
+    {
+      "displayName": "Yodel",
+      "id": "yodel-d5dfdd",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "hdn",
+        "home delivery network"
+      ],
+      "tags": {
+        "amenity": "post_depot",
+        "brand": "Yodel",
+        "brand:wikidata": "Q17020712",
+        "name": "Yodel",
+        "operator": "Yodel",
+        "operator:type": "private",
+        "operator:wikidata": "Q17020712"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Yodel_%28company%29_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yodel-d5dfdd.svg",
+      "local_logo_path": "localbrand/logo/yodel-d5dfdd.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/4/44/Yodel_%28company%29_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yodel-d5dfdd.svg"
+      }
+    }
+  ]
+}

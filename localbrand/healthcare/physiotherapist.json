@@ -1,0 +1,155 @@
+{
+  "properties": {
+    "path": "brands/healthcare/physiotherapist",
+    "exclude": {
+      "generic": [
+        "^(praxis für )?physiotherapi(e|st)$",
+        "^cabinet de kinésithérapie$",
+        "^fysioterap(eut|i)$",
+        "^поликлиника$",
+        "^поліклініка$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Athletico Physical Therapy",
+      "id": "athleticophysicaltherapy-61735f",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "athletico"
+      ],
+      "tags": {
+        "brand": "Athletico Physical Therapy",
+        "brand:wikidata": "Q85743525",
+        "healthcare": "physiotherapist",
+        "name": "Athletico Physical Therapy"
+      },
+      "original_logo_url": "https://graph.facebook.com/athleticopt/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/athleticophysicaltherapy-61735f.jpg",
+      "local_logo_path": "localbrand/logo/athleticophysicaltherapy-61735f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/athleticopt/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/athleticophysicaltherapy-61735f.jpg"
+      }
+    },
+    {
+      "displayName": "ATI Physical Therapy",
+      "id": "atiphysicaltherapy-61735f",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "ATI Physical Therapy",
+        "brand:wikidata": "Q50039703",
+        "healthcare": "physiotherapist",
+        "name": "ATI Physical Therapy"
+      },
+      "original_logo_url": "https://graph.facebook.com/ATIPhysicalTherapy/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/atiphysicaltherapy-61735f.jpg",
+      "local_logo_path": "localbrand/logo/atiphysicaltherapy-61735f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ATIPhysicalTherapy/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/atiphysicaltherapy-61735f.jpg"
+      }
+    },
+    {
+      "displayName": "Doctors of Physical Therapy",
+      "id": "doctorsofphysicaltherapy-61735f",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "dpt"
+      ],
+      "tags": {
+        "brand": "Doctors of Physical Therapy",
+        "brand:wikidata": "Q108601732",
+        "healthcare": "physiotherapist",
+        "name": "Doctors of Physical Therapy"
+      }
+    },
+    {
+      "displayName": "Lifemark Physiotherapy",
+      "id": "lifemarkphysiotherapy-a46221",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "lifemark"
+      ],
+      "tags": {
+        "brand": "Lifemark Physiotherapy",
+        "brand:wikidata": "Q113004730",
+        "healthcare": "physiotherapist",
+        "name": "Lifemark Physiotherapy"
+      },
+      "original_logo_url": "https://graph.facebook.com/LifemarkHealth/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lifemarkphysiotherapy-a46221.jpg",
+      "local_logo_path": "localbrand/logo/lifemarkphysiotherapy-a46221.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LifemarkHealth/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lifemarkphysiotherapy-a46221.jpg"
+      }
+    },
+    {
+      "displayName": "Pro Physio",
+      "id": "prophysio-61a270",
+      "locationSet": {
+        "include": [
+          "ca-on.geojson",
+          "ca-qc.geojson"
+        ]
+      },
+      "matchNames": [
+        "pro physio & sport medicine centres",
+        "pro physiotherapy"
+      ],
+      "tags": {
+        "brand": "Pro Physio",
+        "brand:wikidata": "Q133255619",
+        "healthcare": "physiotherapist",
+        "name": "Pro Physio"
+      },
+      "original_logo_url": "https://graph.facebook.com/ProPhysioSportMed/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prophysio-61a270.jpg",
+      "local_logo_path": "localbrand/logo/prophysio-61a270.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ProPhysioSportMed/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prophysio-61a270.jpg"
+      }
+    },
+    {
+      "displayName": "Therapydia",
+      "id": "therapydia-61735f",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Therapydia",
+        "brand:wikidata": "Q116927594",
+        "healthcare": "physiotherapist",
+        "name": "Therapydia"
+      },
+      "original_logo_url": "https://graph.facebook.com/therapydia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/therapydia-61735f.jpg",
+      "local_logo_path": "localbrand/logo/therapydia-61735f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/therapydia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/therapydia-61735f.jpg"
+      }
+    }
+  ]
+}

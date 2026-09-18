@@ -1,0 +1,35 @@
+{
+  "properties": {
+    "path": "brands/craft/electrician",
+    "exclude": {
+      "generic": [
+        "^electrician$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Mr. Electric",
+      "id": "mrelectric-2adf7e",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Mr. Electric",
+        "brand:wikidata": "Q122442276",
+        "craft": "electrician",
+        "name": "Mr. Electric"
+      },
+      "original_logo_url": "https://graph.facebook.com/MrElectric/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrelectric-2adf7e.jpg",
+      "local_logo_path": "localbrand/logo/mrelectric-2adf7e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MrElectric/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrelectric-2adf7e.jpg"
+      }
+    }
+  ]
+}

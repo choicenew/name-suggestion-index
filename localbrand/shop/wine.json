@@ -1,0 +1,243 @@
+{
+  "properties": {
+    "path": "brands/shop/wine",
+    "exclude": {
+      "generic": [
+        "^wine$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "8000 მოსავალი",
+      "id": "8000vintages-a3a873",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "8000 მოსავალი",
+        "brand:en": "8000 Vintages",
+        "brand:ka": "8000 მოსავალი",
+        "brand:wikidata": "Q136806379",
+        "name": "8000 მოსავალი",
+        "name:en": "8000 Vintages",
+        "name:ka": "8000 მოსავალი",
+        "name:ru": "8000 Винтажей",
+        "shop": "wine"
+      }
+    },
+    {
+      "displayName": "Darwina.pl",
+      "id": "darwinapl-7f7747",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Darwina.pl",
+        "brand:wikidata": "Q113308102",
+        "name": "Darwina.pl",
+        "shop": "wine"
+      }
+    },
+    {
+      "displayName": "Jacques' Wein-Depot",
+      "id": "jacquesweindepot-f93b7c",
+      "locationSet": {
+        "include": [
+          "at",
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Jacques' Wein-Depot",
+        "brand:wikidata": "Q1678150",
+        "name": "Jacques' Wein-Depot",
+        "shop": "wine"
+      }
+    },
+    {
+      "displayName": "OKWINE",
+      "id": "okwine-fd1c0f",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "tags": {
+        "brand": "OKWINE",
+        "brand:wikidata": "Q116871133",
+        "name": "OKWINE",
+        "shop": "wine"
+      }
+    },
+    {
+      "displayName": "Rindchen's Weinkontor",
+      "id": "rindchensweinkontor-074acf",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Rindchen's Weinkontor",
+        "brand:wikidata": "Q110713478",
+        "shop": "wine"
+      },
+      "original_logo_url": "https://graph.facebook.com/rindchens.weinkontor/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rindchensweinkontor-074acf.jpg",
+      "local_logo_path": "localbrand/logo/rindchensweinkontor-074acf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rindchens.weinkontor/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rindchensweinkontor-074acf.jpg"
+      }
+    },
+    {
+      "displayName": "The Wine Shop",
+      "id": "thewineshop-8319b3",
+      "locationSet": {
+        "include": [
+          "ca-on.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "The Wine Shop",
+        "brand:wikidata": "Q133256003",
+        "name": "The Wine Shop",
+        "shop": "wine"
+      }
+    },
+    {
+      "displayName": "Víno Hruška",
+      "id": "vinohruska-a11f7a",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Víno Hruška",
+        "brand:wikidata": "Q139781485",
+        "name": "Víno Hruška",
+        "shop": "wine"
+      }
+    },
+    {
+      "displayName": "Víno Levice",
+      "id": "vinolevice-004185",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Víno Levice",
+        "brand:wikidata": "Q139781200",
+        "name": "Víno Levice",
+        "shop": "wine"
+      },
+      "original_logo_url": "https://graph.facebook.com/vinolevice.sk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vinolevice-004185.jpg",
+      "local_logo_path": "localbrand/logo/vinolevice-004185.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/vinolevice.sk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vinolevice-004185.jpg"
+      }
+    },
+    {
+      "displayName": "Wine Rack (Canada)",
+      "id": "winerack-66406f",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Wine Rack",
+        "brand:wikidata": "Q86707661",
+        "name": "Wine Rack",
+        "shop": "wine"
+      }
+    },
+    {
+      "displayName": "Wine Rack (UK)",
+      "id": "winerack-d8d8ce",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Wine Rack",
+        "brand:wikidata": "Q132687409",
+        "name": "Wine Rack",
+        "shop": "wine"
+      }
+    },
+    {
+      "displayName": "Winemark",
+      "id": "winemark-33598c",
+      "locationSet": {
+        "include": [
+          "gb-nir"
+        ]
+      },
+      "tags": {
+        "brand": "Winemark",
+        "brand:wikidata": "Q122011535",
+        "name": "Winemark",
+        "shop": "wine"
+      }
+    },
+    {
+      "displayName": "WINETIME",
+      "id": "winetime-fd1c0f",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "вайнтайм"
+      ],
+      "tags": {
+        "brand": "WINETIME",
+        "brand:wikidata": "Q116698397",
+        "name": "WINETIME",
+        "shop": "wine"
+      },
+      "original_logo_url": "https://graph.facebook.com/winetime.ukraine/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/winetime-fd1c0f.jpg",
+      "local_logo_path": "localbrand/logo/winetime-fd1c0f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/winetime.ukraine/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/winetime-fd1c0f.jpg"
+      }
+    },
+    {
+      "displayName": "Вина Світу",
+      "id": "3c7c62-fd1c0f",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "wineworld"
+      ],
+      "tags": {
+        "brand": "Вина Світу",
+        "brand:wikidata": "Q122226816",
+        "name": "Вина Світу",
+        "shop": "wine"
+      }
+    }
+  ]
+}

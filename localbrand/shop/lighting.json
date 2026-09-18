@@ -1,0 +1,100 @@
+{
+  "properties": {
+    "path": "brands/shop/lighting",
+    "exclude": {
+      "generic": [
+        "^lighting$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Beacon Lighting",
+      "id": "beaconlighting-d69138",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Beacon Lighting",
+        "brand:wikidata": "Q109626941",
+        "name": "Beacon Lighting",
+        "shop": "lighting"
+      },
+      "original_logo_url": "https://graph.facebook.com/BeaconLighting/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beaconlighting-d69138.png",
+      "local_logo_path": "localbrand/logo/beaconlighting-d69138.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BeaconLighting/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beaconlighting-d69138.png"
+      }
+    },
+    {
+      "displayName": "Eagle Lighting",
+      "id": "eaglelighting-1c0c39",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Eagle Lighting",
+        "brand:wikidata": "Q140303240",
+        "name": "Eagle Lighting",
+        "shop": "lighting"
+      },
+      "original_logo_url": "https://graph.facebook.com/EAGLELIGHTING.CAPE/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eaglelighting-1c0c39.jpg",
+      "local_logo_path": "localbrand/logo/eaglelighting-1c0c39.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EAGLELIGHTING.CAPE/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eaglelighting-1c0c39.jpg"
+      }
+    },
+    {
+      "displayName": "Lamps Plus",
+      "id": "lampsplus-00df70",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Lamps Plus",
+        "brand:wikidata": "Q16999067",
+        "name": "Lamps Plus",
+        "shop": "lighting"
+      },
+      "original_logo_url": "https://graph.facebook.com/lampsplus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lampsplus-00df70.jpg",
+      "local_logo_path": "localbrand/logo/lampsplus-00df70.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lampsplus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lampsplus-00df70.jpg"
+      }
+    },
+    {
+      "displayName": "Lumimart",
+      "id": "lumimart-cc1c34",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "brand": "Lumimart",
+        "brand:wikidata": "Q111722218",
+        "name": "Lumimart",
+        "shop": "lighting"
+      },
+      "original_logo_url": "https://graph.facebook.com/lumimart.ch/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lumimart-cc1c34.jpg",
+      "local_logo_path": "localbrand/logo/lumimart-cc1c34.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lumimart.ch/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lumimart-cc1c34.jpg"
+      }
+    }
+  ]
+}

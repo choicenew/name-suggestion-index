@@ -1,0 +1,296 @@
+{
+  "properties": {
+    "path": "brands/shop/laundry",
+    "exclude": {
+      "generic": [
+        "^(blanchisserie|laundry|lavomatique)$",
+        "^(coin )?launde?r(ette|omat|y)$",
+        "^lavander[ií]a$",
+        "^laverie( automatique| libre service)?$",
+        "^pressing$",
+        "^прачечная$",
+        "^コインランドリー$"
+      ],
+      "named": [
+        "^guest laundry$",
+        "^the laundry room$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Aquamatic",
+      "id": "aquamatic-6bc547",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Aquamatic",
+        "brand:wikidata": "Q128783508",
+        "name": "Aquamatic",
+        "self_service": "yes",
+        "shop": "laundry"
+      },
+      "original_logo_url": "https://graph.facebook.com/aquamatic.lavanderia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aquamatic-6bc547.jpg",
+      "local_logo_path": "localbrand/logo/aquamatic-6bc547.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/aquamatic.lavanderia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aquamatic-6bc547.jpg"
+      }
+    },
+    {
+      "displayName": "Bubbles",
+      "id": "bubbles-8b0aea",
+      "locationSet": {
+        "include": [
+          "hu"
+        ]
+      },
+      "tags": {
+        "brand": "Bubbles",
+        "name": "Bubbles",
+        "shop": "laundry"
+      }
+    },
+    {
+      "displayName": "Eco-Express",
+      "id": "ecoexpress-7130b3",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Eco-Express",
+        "brand:wikidata": "Q129496256",
+        "name": "Eco-Express",
+        "shop": "laundry"
+      },
+      "original_logo_url": "https://graph.facebook.com/ecoexpresswaschsalon/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecoexpress-7130b3.jpg",
+      "local_logo_path": "localbrand/logo/ecoexpress-7130b3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ecoexpresswaschsalon/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecoexpress-7130b3.jpg"
+      }
+    },
+    {
+      "displayName": "LaColada",
+      "id": "lacolada-3530c3",
+      "locationSet": {
+        "include": [
+          "150"
+        ]
+      },
+      "tags": {
+        "brand": "LaColada",
+        "name": "LaColada",
+        "shop": "laundry"
+      }
+    },
+    {
+      "displayName": "Lavanderia 60 Minutos",
+      "id": "lavanderia60minutos-a341f6",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Lavanderia 60 Minutos",
+        "brand:wikidata": "Q129816590",
+        "name": "Lavanderia 60 Minutos",
+        "self_service": "yes",
+        "shop": "laundry"
+      },
+      "original_logo_url": "https://graph.facebook.com/lavanderia60minutos/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lavanderia60minutos-a341f6.jpg",
+      "local_logo_path": "localbrand/logo/lavanderia60minutos-a341f6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lavanderia60minutos/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lavanderia60minutos-a341f6.jpg"
+      }
+    },
+    {
+      "displayName": "Laverap",
+      "id": "laverap-717e4b",
+      "locationSet": {
+        "include": [
+          "ar"
+        ]
+      },
+      "tags": {
+        "brand": "Laverap",
+        "name": "Laverap",
+        "shop": "laundry"
+      }
+    },
+    {
+      "displayName": "Lavomatic",
+      "id": "lavomatic-aea361",
+      "locationSet": {
+        "include": [
+          "cv",
+          "es",
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Lavomatic",
+        "name": "Lavomatic",
+        "shop": "laundry"
+      }
+    },
+    {
+      "displayName": "Liquid Laundromat",
+      "id": "liquidlaundromat-cfb67c",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Liquid Laundromat",
+        "name": "Liquid Laundromat",
+        "shop": "laundry"
+      }
+    },
+    {
+      "displayName": "Speed Queen",
+      "id": "speedqueen-ca17f3",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Speed Queen",
+        "brand:wikidata": "Q7575499",
+        "name": "Speed Queen",
+        "shop": "laundry"
+      },
+      "original_logo_url": "https://graph.facebook.com/SpeedQueenHome/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedqueen-ca17f3.png",
+      "local_logo_path": "localbrand/logo/speedqueen-ca17f3.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SpeedQueenHome/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedqueen-ca17f3.png"
+      }
+    },
+    {
+      "displayName": "Wash Me",
+      "id": "washme-ca17f3",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "revolution laundry"
+      ],
+      "matchTags": [
+        "craft/cleaning"
+      ],
+      "tags": {
+        "brand": "Wash Me",
+        "brand:wikidata": "Q113516904",
+        "name": "Wash Me",
+        "self_service": "yes",
+        "shop": "laundry"
+      },
+      "original_logo_url": "https://graph.facebook.com/RevolutionLaundryGermany/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/washme-ca17f3.png",
+      "local_logo_path": "localbrand/logo/washme-ca17f3.png",
+      "logos": {
+        "original": "https://graph.facebook.com/RevolutionLaundryGermany/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/washme-ca17f3.png"
+      }
+    },
+    {
+      "displayName": "Washy",
+      "id": "washy-ba3f3f",
+      "locationSet": {
+        "include": [
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "Washy",
+        "brand:wikidata": "Q129416138",
+        "name": "Washy",
+        "self_service": "yes",
+        "shop": "laundry"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Washy.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/washy-ba3f3f.png",
+      "local_logo_path": "localbrand/logo/washy-ba3f3f.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Washy.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/washy-ba3f3f.png"
+      }
+    },
+    {
+      "displayName": "Постирай",
+      "id": "c0a035-a50b9f",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Постирай",
+        "name": "Постирай",
+        "shop": "laundry"
+      }
+    },
+    {
+      "displayName": "크린토피아",
+      "id": "cleantopia-17a592",
+      "locationSet": {
+        "include": [
+          "kr"
+        ]
+      },
+      "tags": {
+        "brand": "크린토피아",
+        "brand:en": "Cleantopia",
+        "brand:ko": "크린토피아",
+        "brand:wikidata": "Q55735302",
+        "name": "크린토피아",
+        "name:en": "Cleantopia",
+        "name:ko": "크린토피아",
+        "shop": "laundry"
+      }
+    },
+    {
+      "displayName": "衣博士",
+      "id": "drwashing-92267a",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "衣博士",
+        "brand:en": "Dr. Washing",
+        "brand:wikidata": "Q130525426",
+        "brand:zh": "衣博士",
+        "name": "衣博士",
+        "name:en": "Dr. Washing",
+        "name:zh": "衣博士",
+        "self_service": "yes",
+        "shop": "laundry"
+      },
+      "original_logo_url": "https://graph.facebook.com/Dr.washing/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/drwashing-92267a.jpg",
+      "local_logo_path": "localbrand/logo/drwashing-92267a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Dr.washing/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/drwashing-92267a.jpg"
+      }
+    }
+  ]
+}

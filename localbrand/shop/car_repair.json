@@ -1,0 +1,3139 @@
+{
+  "properties": {
+    "path": "brands/shop/car_repair",
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^(auto (serwis|service)|(car|t[iy]re]) repair|pneuservis)$",
+        "^(mécanique|tyres|wulkanizacja|vulcaniza(dora|re)|ponchera)$",
+        "^(вулканизация|шиномонтаж)$",
+        "^a[uv]toservis$",
+        "^borrachar[ií]a$",
+        "^garage\\s?(moto|auto|automobile)?$",
+        "^gomer[ií]a$",
+        "^lubri(centro|ficantes)$",
+        "^öamtc$",
+        "^taller( mec[aá]nico)?$",
+        "^авто(рынок|ремонт|сервис|запчасти|электрик|запчастини)?$",
+        "^автома(г|газин|стерская)?$",
+        "^автосервис\\+шиномонтаж$",
+        "^автосервіс$",
+        "^замена масла$",
+        "^сто$"
+      ],
+      "named": [
+        "^elettrauto$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "note": "Auto create shop/car_repair from shop/car brands, but exclude car dealers (#9643)",
+      "templateExclude": [
+        "americascarmart",
+        "arnoldclark",
+        "autonation",
+        "autoworld",
+        "avis",
+        "bigmotor",
+        "bristolstreetmotors",
+        "byrider",
+        "carmax",
+        "carshop",
+        "cazoo",
+        "drivetime",
+        "enterprise",
+        "hertz",
+        "lagence",
+        "netz",
+        "nextage",
+        "niospace",
+        "rivian",
+        "webuyanycar"
+      ],
+      "templateSource": "brands/shop/car",
+      "templateTags": {
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "123 Pare-Brise",
+      "id": "123parebrise-46d04a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "123 Pare-Brise",
+        "brand:wikidata": "Q120734061",
+        "name": "123 Pare-Brise",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/123PareBriseFr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/123parebrise-46d04a.jpg",
+      "local_logo_path": "localbrand/logo/123parebrise-46d04a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/123PareBriseFr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/123parebrise-46d04a.jpg"
+      }
+    },
+    {
+      "displayName": "1a autoservice",
+      "id": "1aautoservice-4c8afc",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "1a autoservice",
+        "brand:wikidata": "Q109558465",
+        "name": "1a autoservice",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/1aautoservice/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/1aautoservice-4c8afc.jpg",
+      "local_logo_path": "localbrand/logo/1aautoservice-4c8afc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/1aautoservice/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/1aautoservice-4c8afc.jpg"
+      }
+    },
+    {
+      "displayName": "A.T.U",
+      "id": "atu-6db7c0",
+      "locationSet": {
+        "include": [
+          "at",
+          "de"
+        ]
+      },
+      "matchNames": [
+        "auto-teile-unger"
+      ],
+      "tags": {
+        "brand": "A.T.U",
+        "brand:wikidata": "Q784721",
+        "name": "A.T.U",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/ATU/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/atu-6db7c0.jpg",
+      "local_logo_path": "localbrand/logo/atu-6db7c0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ATU/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/atu-6db7c0.jpg"
+      }
+    },
+    {
+      "displayName": "A+Glass",
+      "id": "aglass-98e3a2",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "A+Glass",
+        "brand:wikidata": "Q116688243",
+        "name": "A+Glass",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/aplusglass.france/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aglass-98e3a2.jpg",
+      "local_logo_path": "localbrand/logo/aglass-98e3a2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/aplusglass.france/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aglass-98e3a2.jpg"
+      }
+    },
+    {
+      "displayName": "AAMCO",
+      "id": "aamco-3fdb50",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "aamco transmissions",
+        "aamco transmissions and total car care"
+      ],
+      "tags": {
+        "brand": "AAMCO",
+        "brand:wikidata": "Q4649902",
+        "name": "AAMCO",
+        "service:vehicle:transmission": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/AAMCO/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aamco-3fdb50.jpg",
+      "local_logo_path": "localbrand/logo/aamco-3fdb50.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AAMCO/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aamco-3fdb50.jpg"
+      }
+    },
+    {
+      "displayName": "Active Green + Ross",
+      "id": "activegreenross-9c9847",
+      "locationSet": {
+        "include": [
+          "ca-on.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Active Green + Ross",
+        "brand:wikidata": "Q123409768",
+        "name": "Active Green + Ross",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/activegreenandrossontario/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/activegreenross-9c9847.png",
+      "local_logo_path": "localbrand/logo/activegreenross-9c9847.png",
+      "logos": {
+        "original": "https://graph.facebook.com/activegreenandrossontario/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/activegreenross-9c9847.png"
+      }
+    },
+    {
+      "displayName": "AD",
+      "id": "ad-98e3a2",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "AD",
+        "brand:wikidata": "Q108753388",
+        "name": "AD",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/ReseauAD/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ad-98e3a2.jpg",
+      "local_logo_path": "localbrand/logo/ad-98e3a2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ReseauAD/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ad-98e3a2.jpg"
+      }
+    },
+    {
+      "displayName": "ATS Euromaster",
+      "id": "atseuromaster-3b6d68",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "ATS Euromaster",
+        "brand:wikidata": "Q4654920",
+        "name": "ATS Euromaster",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Auto Plus",
+      "id": "autoplus-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Auto Plus",
+        "brand:wikidata": "Q65121114",
+        "name": "Auto Plus",
+        "official_name": "Auto Plus Professional Service Center",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/AutoPlusUS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autoplus-878d90.png",
+      "local_logo_path": "localbrand/logo/autoplus-878d90.png",
+      "logos": {
+        "original": "https://graph.facebook.com/AutoPlusUS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autoplus-878d90.png"
+      }
+    },
+    {
+      "displayName": "AUTOFIT",
+      "id": "autofit-c95f1a",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "AUTOFIT",
+        "brand:wikidata": "Q108198772",
+        "name": "AUTOFIT",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/autofit.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autofit-c95f1a.png",
+      "local_logo_path": "localbrand/logo/autofit-c95f1a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/autofit.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autofit-c95f1a.png"
+      }
+    },
+    {
+      "displayName": "Automester",
+      "id": "automester-25491b",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "Automester",
+        "brand:wikidata": "Q110510044",
+        "name": "Automester",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/AutoMester/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/automester-25491b.jpg",
+      "local_logo_path": "localbrand/logo/automester-25491b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AutoMester/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/automester-25491b.jpg"
+      }
+    },
+    {
+      "displayName": "AutoPartner",
+      "id": "autopartner-25491b",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "AutoPartner",
+        "brand:wikidata": "Q110510294",
+        "name": "AutoPartner",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/AutoPartner/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autopartner-25491b.png",
+      "local_logo_path": "localbrand/logo/autopartner-25491b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/AutoPartner/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autopartner-25491b.png"
+      }
+    },
+    {
+      "displayName": "AUTOPRIMO",
+      "id": "autoprimo-46d04a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "AUTOPRIMO",
+        "brand:wikidata": "Q117610578",
+        "name": "AUTOPRIMO",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Autotaalglas",
+      "id": "autotaalglas-854910",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Autotaalglas",
+        "brand:wikidata": "Q124616528",
+        "name": "Autotaalglas",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/Autotaalglas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autotaalglas-854910.png",
+      "local_logo_path": "localbrand/logo/autotaalglas-854910.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Autotaalglas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autotaalglas-854910.png"
+      }
+    },
+    {
+      "displayName": "Avatacar",
+      "id": "avatacar-46d04a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Avatacar",
+        "brand:wikidata": "Q65156251",
+        "name": "Avatacar",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/Avatacar/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/avatacar-46d04a.jpg",
+      "local_logo_path": "localbrand/logo/avatacar-46d04a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Avatacar/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/avatacar-46d04a.jpg"
+      }
+    },
+    {
+      "displayName": "Bengkel",
+      "id": "bengkel-3b2bdc",
+      "locationSet": {
+        "include": [
+          "id"
+        ]
+      },
+      "tags": {
+        "brand": "Bengkel",
+        "name": "Bengkel",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "BestDrive",
+      "id": "bestdrive-301101",
+      "locationSet": {
+        "include": [
+          "bw",
+          "cz",
+          "fx",
+          "na",
+          "no",
+          "sk",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "BestDrive",
+        "brand:wikidata": "Q63057183",
+        "name": "BestDrive",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/BestDriveFrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bestdrive-301101.png",
+      "local_logo_path": "localbrand/logo/bestdrive-301101.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BestDriveFrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bestdrive-301101.png"
+      }
+    },
+    {
+      "displayName": "Bosch Car Service",
+      "id": "boschcarservice-dc8719",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "bosch service"
+      ],
+      "tags": {
+        "brand": "Bosch Car Service",
+        "brand:wikidata": "Q894368",
+        "name": "Bosch Car Service",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bosch_Car_Service_Logo_1999.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boschcarservice-dc8719.svg",
+      "local_logo_path": "localbrand/logo/boschcarservice-dc8719.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bosch_Car_Service_Logo_1999.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boschcarservice-dc8719.svg"
+      }
+    },
+    {
+      "displayName": "Brakes Plus",
+      "id": "brakesplus-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Brakes Plus",
+        "brand:wikidata": "Q62075246",
+        "name": "Brakes Plus",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/brakesplusllc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brakesplus-878d90.png",
+      "local_logo_path": "localbrand/logo/brakesplus-878d90.png",
+      "logos": {
+        "original": "https://graph.facebook.com/brakesplusllc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brakesplus-878d90.png"
+      }
+    },
+    {
+      "displayName": "Budget Brake & Muffler Auto Centres",
+      "id": "budgetbrakeandmufflerautocentres-455142",
+      "locationSet": {
+        "include": [
+          "ca-bc.geojson"
+        ]
+      },
+      "matchNames": [
+        "budget brake"
+      ],
+      "tags": {
+        "brand": "Budget Brake & Muffler Auto Centres",
+        "brand:wikidata": "Q135205842",
+        "name": "Budget Brake & Muffler Auto Centres",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/BudgetBrakeAuto/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/budgetbrakeandmufflerautocentres-455142.jpg",
+      "local_logo_path": "localbrand/logo/budgetbrakeandmufflerautocentres-455142.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BudgetBrakeAuto/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/budgetbrakeandmufflerautocentres-455142.jpg"
+      }
+    },
+    {
+      "displayName": "Caliber Collision",
+      "id": "calibercollision-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "caliber auto care"
+      ],
+      "tags": {
+        "brand": "Caliber Collision",
+        "brand:wikidata": "Q109329782",
+        "name": "Caliber Collision",
+        "service:vehicle:body_repair": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/calibercollisioncenters/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/calibercollision-878d90.jpg",
+      "local_logo_path": "localbrand/logo/calibercollision-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/calibercollisioncenters/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/calibercollision-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "Canadian Tire Auto Centre",
+      "id": "canadiantireautocentre-8cbc80",
+      "locationSet": {
+        "include": [
+          "ca"
+        ],
+        "exclude": [
+          "ca-qc.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Canadian Tire",
+        "brand:wikidata": "Q1032400",
+        "name": "Canadian Tire Auto Centre",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/Canadiantire/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/canadiantireautocentre-8cbc80.jpg",
+      "local_logo_path": "localbrand/logo/canadiantireautocentre-8cbc80.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Canadiantire/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/canadiantireautocentre-8cbc80.jpg"
+      }
+    },
+    {
+      "displayName": "Car-X",
+      "id": "carx-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Car-X",
+        "brand:wikidata": "Q63859189",
+        "name": "Car-X",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/CarxAuto/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carx-878d90.jpg",
+      "local_logo_path": "localbrand/logo/carx-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CarxAuto/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carx-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "Carglass",
+      "id": "carglass-dc8719",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Carglass",
+        "brand:wikidata": "Q1035997",
+        "name": "Carglass",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/CarglassSweden/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carglass-dc8719.jpg",
+      "local_logo_path": "localbrand/logo/carglass-dc8719.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CarglassSweden/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carglass-dc8719.jpg"
+      }
+    },
+    {
+      "displayName": "CarPeople",
+      "id": "carpeople-25491b",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "CarPeople",
+        "brand:wikidata": "Q110510349",
+        "name": "CarPeople",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/carpeople.dk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carpeople-25491b.png",
+      "local_logo_path": "localbrand/logo/carpeople-25491b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/carpeople.dk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carpeople-25491b.png"
+      }
+    },
+    {
+      "displayName": "Carstar",
+      "id": "carstar-3fdb50",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "carstar auto body repair experts"
+      ],
+      "tags": {
+        "brand": "Carstar",
+        "brand:wikidata": "Q64187891",
+        "name": "Carstar",
+        "service:vehicle:body_repair": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/CARSTAR/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carstar-3fdb50.png",
+      "local_logo_path": "localbrand/logo/carstar-3fdb50.png",
+      "logos": {
+        "original": "https://graph.facebook.com/CARSTAR/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carstar-3fdb50.png"
+      }
+    },
+    {
+      "displayName": "Centre d'auto Canadian Tire",
+      "id": "centredautocanadiantire-80befd",
+      "locationSet": {
+        "include": [
+          "ca-qc.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Canadian Tire",
+        "brand:wikidata": "Q1032400",
+        "name": "Centre d'auto Canadian Tire",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/Canadiantire/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/centredautocanadiantire-80befd.jpg",
+      "local_logo_path": "localbrand/logo/centredautocanadiantire-80befd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Canadiantire/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/centredautocanadiantire-80befd.jpg"
+      }
+    },
+    {
+      "displayName": "Christian Brothers Automotive",
+      "id": "christianbrothersautomotive-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Christian Brothers Automotive",
+        "brand:wikidata": "Q126478117",
+        "name": "Christian Brothers Automotive",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/ChristianBrothersAuto/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/christianbrothersautomotive-878d90.png",
+      "local_logo_path": "localbrand/logo/christianbrothersautomotive-878d90.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ChristianBrothersAuto/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/christianbrothersautomotive-878d90.png"
+      }
+    },
+    {
+      "displayName": "Classic Collision",
+      "id": "classiccollision-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Classic Collision",
+        "brand:wikidata": "Q122760989",
+        "name": "Classic Collision",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Cockpit",
+      "id": "cockpit-fdc83e",
+      "locationSet": {
+        "include": [
+          "jp",
+          "th"
+        ]
+      },
+      "tags": {
+        "brand": "Cockpit",
+        "brand:wikidata": "Q125874866",
+        "name": "Cockpit",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/CockpitTH/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cockpit-fdc83e.jpg",
+      "local_logo_path": "localbrand/logo/cockpit-fdc83e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CockpitTH/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cockpit-fdc83e.jpg"
+      }
+    },
+    {
+      "displayName": "Confortauto",
+      "id": "confortauto-324afc",
+      "locationSet": {
+        "include": [
+          "es",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "Confortauto",
+        "brand:wikidata": "Q126181267",
+        "name": "Confortauto",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Crash Champions",
+      "id": "crashchampions-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "service king"
+      ],
+      "tags": {
+        "brand": "Crash Champions",
+        "brand:wikidata": "Q121435028",
+        "name": "Crash Champions",
+        "service:vehicle:body_repair": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/crashchampions/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crashchampions-878d90.jpg",
+      "local_logo_path": "localbrand/logo/crashchampions-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/crashchampions/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crashchampions-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "Delko",
+      "id": "delko-46d04a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Delko",
+        "brand:wikidata": "Q24934757",
+        "name": "Delko",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Din Bilpartner",
+      "id": "dinbilpartner-25491b",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "Din Bilpartner",
+        "brand:wikidata": "Q110510457",
+        "name": "Din Bilpartner",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/DinBilpartner/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dinbilpartner-25491b.jpg",
+      "local_logo_path": "localbrand/logo/dinbilpartner-25491b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DinBilpartner/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dinbilpartner-25491b.jpg"
+      }
+    },
+    {
+      "displayName": "DS Automobiles",
+      "id": "dsautomobiles-dc8719",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "ds"
+      ],
+      "tags": {
+        "brand": "DS Automobiles",
+        "brand:wikidata": "Q16040593",
+        "name": "DS Automobiles",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/DSOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dsautomobiles-dc8719.jpg",
+      "local_logo_path": "localbrand/logo/dsautomobiles-dc8719.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DSOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dsautomobiles-dc8719.jpg"
+      }
+    },
+    {
+      "displayName": "E.Leclerc Auto",
+      "id": "eleclerc-98e3a2",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "E.Leclerc",
+        "brand:wikidata": "Q1273376",
+        "name": "E.Leclerc",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/E.Leclerc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eleclerc-98e3a2.jpg",
+      "local_logo_path": "localbrand/logo/eleclerc-98e3a2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/E.Leclerc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eleclerc-98e3a2.jpg"
+      }
+    },
+    {
+      "displayName": "Eneos Frontier",
+      "id": "eneosfrontier-aba9fa",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "Eneos Frontier",
+        "brand:wikidata": "Q11197713",
+        "name:en": "Eneos Frontier",
+        "name:ja": "ENEOSフロンティア",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "ETB Autocentres",
+      "id": "etbautocentres-3b6d68",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "etb tyres"
+      ],
+      "tags": {
+        "brand": "ETB Autocentres",
+        "brand:wikidata": "Q100143091",
+        "name": "ETB Autocentres",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/ETBTyres/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/etbautocentres-3b6d68.png",
+      "local_logo_path": "localbrand/logo/etbautocentres-3b6d68.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ETBTyres/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/etbautocentres-3b6d68.png"
+      }
+    },
+    {
+      "displayName": "Euromaster",
+      "id": "euromaster-2762ed",
+      "locationSet": {
+        "include": [
+          "ch",
+          "de",
+          "es",
+          "fi",
+          "fx",
+          "nl",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "Euromaster",
+        "brand:wikidata": "Q3060668",
+        "name": "Euromaster",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/euromaster.nl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/euromaster-2762ed.jpg",
+      "local_logo_path": "localbrand/logo/euromaster-2762ed.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/euromaster.nl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/euromaster-2762ed.jpg"
+      }
+    },
+    {
+      "displayName": "Feu Vert",
+      "id": "feuvert-89b710",
+      "locationSet": {
+        "include": [
+          "fr",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "Feu Vert",
+        "brand:wikidata": "Q3070922",
+        "name": "Feu Vert",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/FeuVert/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/feuvert-89b710.jpg",
+      "local_logo_path": "localbrand/logo/feuvert-89b710.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FeuVert/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/feuvert-89b710.jpg"
+      }
+    },
+    {
+      "displayName": "Firestone",
+      "id": "firestone-a35932",
+      "locationSet": {
+        "include": [
+          "ca",
+          "cl",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Firestone",
+        "brand:wikidata": "Q420837",
+        "name": "Firestone",
+        "official_name": "Firestone Complete Auto Care",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/FirestoneTires/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/firestone-a35932.jpg",
+      "local_logo_path": "localbrand/logo/firestone-a35932.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FirestoneTires/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/firestone-a35932.jpg"
+      }
+    },
+    {
+      "displayName": "First Stop",
+      "id": "firststop-dc8719",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "First Stop",
+        "brand:wikidata": "Q3072965",
+        "name": "First Stop",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/380279892308003/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/firststop-dc8719.png",
+      "local_logo_path": "localbrand/logo/firststop-dc8719.png",
+      "logos": {
+        "original": "https://graph.facebook.com/380279892308003/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/firststop-dc8719.png"
+      }
+    },
+    {
+      "displayName": "Fit Service",
+      "id": "fitservice-b8cc5f",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Fit Service",
+        "brand:wikidata": "Q129632037",
+        "name": "Fit Service",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Formula One Autocentres",
+      "id": "formulaoneautocentres-3b6d68",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "f1 autocentre",
+        "formula 1 autocentre"
+      ],
+      "tags": {
+        "brand": "Formula One Autocentres",
+        "brand:wikidata": "Q79239635",
+        "name": "Formula One Autocentres",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/FormulaOneAutocentres/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/formulaoneautocentres-3b6d68.jpg",
+      "local_logo_path": "localbrand/logo/formulaoneautocentres-3b6d68.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FormulaOneAutocentres/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/formulaoneautocentres-3b6d68.jpg"
+      }
+    },
+    {
+      "displayName": "Forstinger",
+      "id": "forstinger-d1144d",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "tags": {
+        "brand": "Forstinger",
+        "brand:wikidata": "Q132554064",
+        "name": "Forstinger",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/forstinger.oesterreich/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/forstinger-d1144d.png",
+      "local_logo_path": "localbrand/logo/forstinger-d1144d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/forstinger.oesterreich/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/forstinger-d1144d.png"
+      }
+    },
+    {
+      "displayName": "France Pare-Brise",
+      "id": "franceparebrise-46d04a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "France Pare-Brise",
+        "brand:short": "FPB",
+        "brand:wikidata": "Q63335107",
+        "name": "France Pare-Brise",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/fparebrise/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/franceparebrise-46d04a.jpg",
+      "local_logo_path": "localbrand/logo/franceparebrise-46d04a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fparebrise/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/franceparebrise-46d04a.jpg"
+      }
+    },
+    {
+      "displayName": "Gerber Collision & Glass",
+      "id": "gerbercollisionandglass-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Gerber Collision & Glass",
+        "brand:wikidata": "Q108871639",
+        "name": "Gerber Collision & Glass",
+        "service:vehicle:body_repair": "yes",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/gerbercollision/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gerbercollisionandglass-878d90.png",
+      "local_logo_path": "localbrand/logo/gerbercollisionandglass-878d90.png",
+      "logos": {
+        "original": "https://graph.facebook.com/gerbercollision/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gerbercollisionandglass-878d90.png"
+      }
+    },
+    {
+      "displayName": "Glasfit",
+      "id": "glasfit-28277d",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Glasfit",
+        "brand:wikidata": "Q126981121",
+        "name": "Glasfit",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/Glasfit/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/glasfit-28277d.png",
+      "local_logo_path": "localbrand/logo/glasfit-28277d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Glasfit/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/glasfit-28277d.png"
+      }
+    },
+    {
+      "displayName": "GlassAuto",
+      "id": "glassauto-98e3a2",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "GlassAuto",
+        "brand:wikidata": "Q131983594",
+        "name": "GlassAuto",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/100093648356797/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/glassauto-98e3a2.jpg",
+      "local_logo_path": "localbrand/logo/glassauto-98e3a2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/100093648356797/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/glassauto-98e3a2.jpg"
+      }
+    },
+    {
+      "displayName": "Goodyear",
+      "id": "goodyear-d2aca7",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "cl",
+          "pe",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "goodyear auto service center",
+        "goodyear commercial tire & service centers"
+      ],
+      "tags": {
+        "brand": "Goodyear",
+        "brand:wikidata": "Q620875",
+        "name": "Goodyear",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/Goodyear/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goodyear-d2aca7.jpg",
+      "local_logo_path": "localbrand/logo/goodyear-d2aca7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Goodyear/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goodyear-d2aca7.jpg"
+      }
+    },
+    {
+      "displayName": "Grease Monkey",
+      "id": "greasemonkey-85d5b8",
+      "locationSet": {
+        "include": [
+          "cn",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Grease Monkey",
+        "brand:wikidata": "Q5598563",
+        "name": "Grease Monkey",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/greasemonkeyintl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greasemonkey-85d5b8.jpg",
+      "local_logo_path": "localbrand/logo/greasemonkey-85d5b8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/greasemonkeyintl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greasemonkey-85d5b8.jpg"
+      }
+    },
+    {
+      "displayName": "Great Canadian Oil Change",
+      "id": "greatcanadianoilchange-10e248",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "gcoc",
+        "oil changers"
+      ],
+      "tags": {
+        "brand": "Great Canadian Oil Change",
+        "brand:wikidata": "Q120502925",
+        "name": "Great Canadian Oil Change",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/GCOilChange/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greatcanadianoilchange-10e248.png",
+      "local_logo_path": "localbrand/logo/greatcanadianoilchange-10e248.png",
+      "logos": {
+        "original": "https://graph.facebook.com/GCOilChange/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greatcanadianoilchange-10e248.png"
+      }
+    },
+    {
+      "displayName": "Halfords Autocentre",
+      "id": "halfordsautocentre-3b6d68",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "halfords"
+      ],
+      "tags": {
+        "brand": "Halfords Autocentre",
+        "brand:wikidata": "Q5641894",
+        "name": "Halfords Autocentre",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/HalfordsUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/halfordsautocentre-3b6d68.jpg",
+      "local_logo_path": "localbrand/logo/halfordsautocentre-3b6d68.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HalfordsUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/halfordsautocentre-3b6d68.jpg"
+      }
+    },
+    {
+      "displayName": "Hella Service Partner",
+      "id": "hellaservicepartner-25491b",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "Hella Service Partner",
+        "brand:wikidata": "Q110510535",
+        "name": "Hella Service Partner",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/hellaservicepartner/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hellaservicepartner-25491b.jpg",
+      "local_logo_path": "localbrand/logo/hellaservicepartner-25491b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hellaservicepartner/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hellaservicepartner-25491b.jpg"
+      }
+    },
+    {
+      "displayName": "HiQ Tyres & Autocare",
+      "id": "hiqtyresandautocare-3b6d68",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "hi-q",
+        "hiq tyre services"
+      ],
+      "tags": {
+        "brand": "HiQ Tyres & Autocare",
+        "brand:wikidata": "Q55613688",
+        "name": "HiQ Tyres & Autocare",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/HiQAutocare/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hiqtyresandautocare-3b6d68.jpg",
+      "local_logo_path": "localbrand/logo/hiqtyresandautocare-3b6d68.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HiQAutocare/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hiqtyresandautocare-3b6d68.jpg"
+      }
+    },
+    {
+      "displayName": "Jiffy Lube",
+      "id": "jiffylube-3fdb50",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Jiffy Lube",
+        "brand:wikidata": "Q6192247",
+        "name": "Jiffy Lube",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/jiffylube/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jiffylube-3fdb50.jpg",
+      "local_logo_path": "localbrand/logo/jiffylube-3fdb50.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/jiffylube/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jiffylube-3fdb50.jpg"
+      }
+    },
+    {
+      "displayName": "junited Autoglas",
+      "id": "junitedautoglas-c95f1a",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "junited Autoglas",
+        "brand:wikidata": "Q108131315",
+        "name": "junited Autoglas",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/junitedAUTOGLAS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/junitedautoglas-c95f1a.jpg",
+      "local_logo_path": "localbrand/logo/junitedautoglas-c95f1a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/junitedAUTOGLAS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/junitedautoglas-c95f1a.jpg"
+      }
+    },
+    {
+      "displayName": "Kwik Fit",
+      "id": "kwikfit-b75a4b",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Kwik Fit",
+        "brand:wikidata": "Q958053",
+        "name": "Kwik Fit",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/KwikFit/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kwikfit-b75a4b.jpg",
+      "local_logo_path": "localbrand/logo/kwikfit-b75a4b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KwikFit/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kwikfit-b75a4b.jpg"
+      }
+    },
+    {
+      "displayName": "LINE-X",
+      "id": "linex-3fdb50",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "LINE-X",
+        "brand:wikidata": "Q122462764",
+        "name": "LINE-X",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/LINEXNorthAmerica/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/linex-3fdb50.jpg",
+      "local_logo_path": "localbrand/logo/linex-3fdb50.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LINEXNorthAmerica/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/linex-3fdb50.jpg"
+      }
+    },
+    {
+      "displayName": "MAACO",
+      "id": "maaco-3fdb50",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "maaco collision repair & auto painting"
+      ],
+      "tags": {
+        "brand": "MAACO",
+        "brand:wikidata": "Q6714015",
+        "name": "MAACO",
+        "service:vehicle:body_repair": "yes",
+        "service:vehicle:painting": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/MaacoUSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maaco-3fdb50.jpg",
+      "local_logo_path": "localbrand/logo/maaco-3fdb50.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MaacoUSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maaco-3fdb50.jpg"
+      }
+    },
+    {
+      "displayName": "mac OIL",
+      "id": "macoil-c95f1a",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "mac OIL",
+        "brand:wikidata": "Q107699834",
+        "name": "mac OIL",
+        "service:vehicle:oil_change": "yes",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Master Mechanic",
+      "id": "mastermechanic-9c9847",
+      "locationSet": {
+        "include": [
+          "ca-on.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Master Mechanic",
+        "brand:wikidata": "Q133255694",
+        "name": "Master Mechanic",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Mavis Discount Tire",
+      "id": "mavisdiscounttire-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Mavis Discount Tire",
+        "brand:wikidata": "Q65058420",
+        "name": "Mavis Discount Tire",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/MavisDiscountTire/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mavisdiscounttire-878d90.jpg",
+      "local_logo_path": "localbrand/logo/mavisdiscounttire-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MavisDiscountTire/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mavisdiscounttire-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "Mavis Tires & Brakes",
+      "id": "mavistiresandbrakes-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Mavis Tires & Brakes",
+        "brand:wikidata": "Q65058420",
+        "name": "Mavis Tires & Brakes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/MavisDiscountTire/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mavistiresandbrakes-878d90.jpg",
+      "local_logo_path": "localbrand/logo/mavistiresandbrakes-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MavisDiscountTire/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mavistiresandbrakes-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "Meca",
+      "id": "meca-4150a7",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Meca",
+        "brand:wikidata": "Q126709089",
+        "name": "Meca",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/MECAbilservice/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meca-4150a7.jpg",
+      "local_logo_path": "localbrand/logo/meca-4150a7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MECAbilservice/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meca-4150a7.jpg"
+      }
+    },
+    {
+      "displayName": "Meineke",
+      "id": "meineke-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "meineke car care"
+      ],
+      "tags": {
+        "brand": "Meineke",
+        "brand:wikidata": "Q6810159",
+        "name": "Meineke",
+        "official_name": "Meineke Car Care Center",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/meinekecarcareusa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meineke-878d90.jpg",
+      "local_logo_path": "localbrand/logo/meineke-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/meinekecarcareusa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meineke-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "Mekonomen",
+      "id": "mekonomen-158011",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "dk",
+          "fi",
+          "no",
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Mekonomen",
+        "brand:wikidata": "Q10580079",
+        "name": "Mekonomen",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/MekonomenSverige/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mekonomen-158011.jpg",
+      "local_logo_path": "localbrand/logo/mekonomen-158011.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MekonomenSverige/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mekonomen-158011.jpg"
+      }
+    },
+    {
+      "displayName": "Merchant's",
+      "id": "merchants-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Merchant's",
+        "brand:wikidata": "Q6818350",
+        "name": "Merchant's",
+        "official_name": "Merchant's Tire and Auto",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Midas",
+      "id": "midas-dc8719",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Midas",
+        "brand:wikidata": "Q3312613",
+        "name": "Midas",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/Midas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/midas-dc8719.jpg",
+      "local_logo_path": "localbrand/logo/midas-dc8719.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Midas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/midas-dc8719.jpg"
+      }
+    },
+    {
+      "displayName": "Mikona",
+      "id": "mikona-be253d",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Mikona",
+        "brand:wikidata": "Q130283578",
+        "name": "Mikona",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/mikona.sk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mikona-be253d.png",
+      "local_logo_path": "localbrand/logo/mikona-be253d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/mikona.sk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mikona-be253d.png"
+      }
+    },
+    {
+      "displayName": "Mister Transmission",
+      "id": "mistertransmission-10e248",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "mr transmission"
+      ],
+      "tags": {
+        "brand": "Mister Transmission",
+        "brand:wikidata": "Q24190642",
+        "name": "Mister Transmission",
+        "service:vehicle:transmission": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/MrT_logo.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mistertransmission-10e248.jpg",
+      "local_logo_path": "localbrand/logo/mistertransmission-10e248.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/5/53/MrT_logo.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mistertransmission-10e248.jpg"
+      }
+    },
+    {
+      "displayName": "Mobil 1 Lube Express",
+      "id": "mobil1lubeexpress-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Mobil 1",
+        "brand:wikidata": "Q837922",
+        "name": "Mobil 1 Lube Express",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mobil1_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobil1lubeexpress-878d90.png",
+      "local_logo_path": "localbrand/logo/mobil1lubeexpress-878d90.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mobil1_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobil1lubeexpress-878d90.png"
+      }
+    },
+    {
+      "displayName": "Mondial Pare-Brise",
+      "id": "mondialparebrise-98e3a2",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Mondial Pare-Brise",
+        "brand:wikidata": "Q118129474",
+        "name": "Mondial Pare-Brise",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/MondialPareBriseFrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mondialparebrise-98e3a2.png",
+      "local_logo_path": "localbrand/logo/mondialparebrise-98e3a2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MondialPareBriseFrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mondialparebrise-98e3a2.png"
+      }
+    },
+    {
+      "displayName": "Monro Muffler Brake",
+      "id": "monromufflerbrake-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "monro",
+        "monro muffler"
+      ],
+      "tags": {
+        "brand": "Monro Muffler Brake",
+        "brand:wikidata": "Q6902090",
+        "name": "Monro Muffler Brake",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/MonroAutoServiceTire/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monromufflerbrake-878d90.jpg",
+      "local_logo_path": "localbrand/logo/monromufflerbrake-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MonroAutoServiceTire/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monromufflerbrake-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "Motrio",
+      "id": "motrio-dc8719",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Motrio",
+        "brand:wikidata": "Q6918585",
+        "name": "Motrio",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/MotrioFR/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/motrio-dc8719.jpg",
+      "local_logo_path": "localbrand/logo/motrio-dc8719.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MotrioFR/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/motrio-dc8719.jpg"
+      }
+    },
+    {
+      "displayName": "Mr. Lube",
+      "id": "mrlube-10e248",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Mr. Lube",
+        "brand:wikidata": "Q17104067",
+        "name": "Mr. Lube",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/MrLubeCanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrlube-10e248.jpg",
+      "local_logo_path": "localbrand/logo/mrlube-10e248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MrLubeCanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrlube-10e248.jpg"
+      }
+    },
+    {
+      "displayName": "Mr. Tire",
+      "id": "mrtire-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Mr. Tire",
+        "brand:wikidata": "Q6929249",
+        "name": "Mr. Tire",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/MrTire/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrtire-878d90.jpg",
+      "local_logo_path": "localbrand/logo/mrtire-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MrTire/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrtire-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "mycar Tyre & Auto",
+      "id": "mycartyreandauto-c3960a",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "matchNames": [
+        "mycar"
+      ],
+      "tags": {
+        "brand": "mycar Tyre & Auto",
+        "brand:wikidata": "Q106224674",
+        "name": "mycar Tyre & Auto",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/mycartyreandauto/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mycartyreandauto-c3960a.jpg",
+      "local_logo_path": "localbrand/logo/mycartyreandauto-c3960a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mycartyreandauto/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mycartyreandauto-c3960a.jpg"
+      }
+    },
+    {
+      "displayName": "NAPA AutoCare Center",
+      "id": "napaautocarecenter-3fdb50",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "napa",
+        "napa autocare",
+        "napa autocare collision center",
+        "napa autocare mechanical center",
+        "napa autocare truck center"
+      ],
+      "tags": {
+        "brand": "NAPA AutoCare Center",
+        "brand:wikidata": "Q6970842",
+        "name": "NAPA AutoCare Center",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/theNAPAnetwork/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/napaautocarecenter-3fdb50.jpg",
+      "local_logo_path": "localbrand/logo/napaautocarecenter-3fdb50.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/theNAPAnetwork/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/napaautocarecenter-3fdb50.jpg"
+      }
+    },
+    {
+      "displayName": "National Tire and Battery",
+      "id": "ntb-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "alt_name": "National Tire and Battery",
+        "brand": "NTB",
+        "brand:wikidata": "Q6978944",
+        "name": "NTB",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/nationaltireandbattery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ntb-878d90.jpg",
+      "local_logo_path": "localbrand/logo/ntb-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/nationaltireandbattery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ntb-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "National Tyres and Autocare",
+      "id": "nationaltyresandautocare-3b6d68",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "National Tyres and Autocare",
+        "brand:short": "National Tyres",
+        "brand:wikidata": "Q6979055",
+        "name": "National Tyres and Autocare",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/national.co.uk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationaltyresandautocare-3b6d68.jpg",
+      "local_logo_path": "localbrand/logo/nationaltyresandautocare-3b6d68.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/national.co.uk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationaltyresandautocare-3b6d68.jpg"
+      }
+    },
+    {
+      "displayName": "National Windscreens",
+      "id": "nationalwindscreens-3b6d68",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "National Windscreens",
+        "brand:wikidata": "Q87142619",
+        "name": "National Windscreens",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/natwindscreens/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationalwindscreens-3b6d68.png",
+      "local_logo_path": "localbrand/logo/nationalwindscreens-3b6d68.png",
+      "logos": {
+        "original": "https://graph.facebook.com/natwindscreens/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationalwindscreens-3b6d68.png"
+      }
+    },
+    {
+      "displayName": "Norauto",
+      "id": "norauto-388a61",
+      "locationSet": {
+        "include": [
+          "ar",
+          "es",
+          "fr",
+          "hu",
+          "it",
+          "pl",
+          "pt",
+          "ro"
+        ]
+      },
+      "tags": {
+        "brand": "Norauto",
+        "brand:wikidata": "Q3317698",
+        "name": "Norauto",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "NOVUS Glass",
+      "id": "novusglass-dc8719",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "NOVUS Glass",
+        "brand:wikidata": "Q120636586",
+        "name": "NOVUS Glass",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/NovusGlassUSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/novusglass-dc8719.jpg",
+      "local_logo_path": "localbrand/logo/novusglass-dc8719.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NovusGlassUSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/novusglass-dc8719.jpg"
+      }
+    },
+    {
+      "displayName": "O.K. Serwis",
+      "id": "okserwis-87ce46",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "O.K. Serwis",
+        "brand:wikidata": "Q128055917",
+        "name": "O.K. Serwis",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/okserwis/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/okserwis-87ce46.jpg",
+      "local_logo_path": "localbrand/logo/okserwis-87ce46.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/okserwis/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/okserwis-87ce46.jpg"
+      }
+    },
+    {
+      "displayName": "Oficina",
+      "id": "oficina-3dbfde",
+      "locationSet": {
+        "include": [
+          "ao",
+          "br",
+          "pt"
+        ]
+      },
+      "note": "Probably a generic Portuguese name for a car repair shop",
+      "tags": {
+        "brand": "Oficina",
+        "name": "Oficina",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Oil Changers",
+      "id": "oilchangers-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Oil Changers",
+        "brand:wikidata": "Q121338971",
+        "name": "Oil Changers",
+        "service:vehicle:oil_change": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/oilchangersnearme/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oilchangers-878d90.jpg",
+      "local_logo_path": "localbrand/logo/oilchangers-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/oilchangersnearme/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oilchangers-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "Pep Boys",
+      "id": "pepboys-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Pep Boys",
+        "brand:wikidata": "Q3375007",
+        "name": "Pep Boys",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/pepboysauto/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pepboys-878d90.jpg",
+      "local_logo_path": "localbrand/logo/pepboys-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pepboysauto/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pepboys-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "Petromin",
+      "id": "petromin-78a956",
+      "locationSet": {
+        "include": [
+          "sa"
+        ]
+      },
+      "tags": {
+        "brand": "Petromin",
+        "brand:ar": "بترومين",
+        "brand:en": "Petromin",
+        "brand:wikidata": "Q7179006",
+        "name": "Petromin",
+        "name:ar": "بترومين",
+        "name:en": "Petromin",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "PG Glass",
+      "id": "pgglass-28277d",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "PG Glass",
+        "brand:wikidata": "Q126901018",
+        "name": "PG Glass",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/PGGlassSouthAfrica/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pgglass-28277d.jpg",
+      "local_logo_path": "localbrand/logo/pgglass-28277d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PGGlassSouthAfrica/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pgglass-28277d.jpg"
+      }
+    },
+    {
+      "displayName": "pitstop",
+      "id": "pitstop-c95f1a",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "pitstop",
+        "brand:wikidata": "Q1310014",
+        "name": "pitstop",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/pitstop.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pitstop-c95f1a.png",
+      "local_logo_path": "localbrand/logo/pitstop-c95f1a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/pitstop.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pitstop-c95f1a.png"
+      }
+    },
+    {
+      "displayName": "Point S",
+      "id": "points-dc8719",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Point S",
+        "brand:wikidata": "Q3393358",
+        "name": "Point S",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/points.france/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/points-dc8719.png",
+      "local_logo_path": "localbrand/logo/points-dc8719.png",
+      "logos": {
+        "original": "https://graph.facebook.com/points.france/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/points-dc8719.png"
+      }
+    },
+    {
+      "displayName": "Precision Tune Auto Care",
+      "id": "precisiontuneautocare-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Precision Tune Auto Care",
+        "brand:wikidata": "Q120717427",
+        "name": "Precision Tune Auto Care",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/PrecisionTuneAutoCareUSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/precisiontuneautocare-878d90.png",
+      "local_logo_path": "localbrand/logo/precisiontuneautocare-878d90.png",
+      "logos": {
+        "original": "https://graph.facebook.com/PrecisionTuneAutoCareUSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/precisiontuneautocare-878d90.png"
+      }
+    },
+    {
+      "displayName": "Précisium",
+      "id": "precisium-46d04a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Précisium",
+        "brand:wikidata": "Q117604969",
+        "name": "Précisium",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Premio",
+      "id": "premio-4558e6",
+      "locationSet": {
+        "include": [
+          "be",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "hu",
+          "nl",
+          "pl",
+          "ro",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Premio",
+        "brand:wikidata": "Q100895958",
+        "name": "Premio",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/premio.deutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/premio-4558e6.jpg",
+      "local_logo_path": "localbrand/logo/premio-4558e6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/premio.deutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/premio-4558e6.jpg"
+      }
+    },
+    {
+      "displayName": "ProColor Collision",
+      "id": "procolorcollision-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "ProColor Collision",
+        "brand:wikidata": "Q120648778",
+        "name": "ProColor Collision",
+        "service:vehicle:body_repair": "yes",
+        "service:vehicle:painting": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/ProColorCollisionUSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/procolorcollision-878d90.jpg",
+      "local_logo_path": "localbrand/logo/procolorcollision-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ProColorCollisionUSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/procolorcollision-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "Profile",
+      "id": "profile-9d142c",
+      "locationSet": {
+        "include": [
+          "be",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Profile",
+        "brand:wikidata": "Q124626004",
+        "name": "Profile",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/ProfileNederland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/profile-9d142c.jpg",
+      "local_logo_path": "localbrand/logo/profile-9d142c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ProfileNederland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/profile-9d142c.jpg"
+      }
+    },
+    {
+      "displayName": "Quickpoint",
+      "id": "quickpoint-25491b",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "Quickpoint",
+        "brand:wikidata": "Q110510602",
+        "name": "Quickpoint",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/QuickpointDK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/quickpoint-25491b.jpg",
+      "local_logo_path": "localbrand/logo/quickpoint-25491b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/QuickpointDK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/quickpoint-25491b.jpg"
+      }
+    },
+    {
+      "displayName": "Rapid Pare-Brise",
+      "id": "rapidparebrise-98e3a2",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Rapid Pare-Brise",
+        "brand:wikidata": "Q112064766",
+        "name": "Rapid Pare-Brise",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/rapidparebrisefrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rapidparebrise-98e3a2.jpg",
+      "local_logo_path": "localbrand/logo/rapidparebrise-98e3a2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rapidparebrisefrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rapidparebrise-98e3a2.jpg"
+      }
+    },
+    {
+      "displayName": "Rivian Service Center",
+      "id": "rivianservicecenter-3fdb50",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Rivian",
+        "brand:wikidata": "Q7338847",
+        "name": "Rivian Service Center",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/rivianofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rivianservicecenter-3fdb50.jpg",
+      "local_logo_path": "localbrand/logo/rivianservicecenter-3fdb50.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rivianofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rivianservicecenter-3fdb50.jpg"
+      }
+    },
+    {
+      "displayName": "Roady",
+      "id": "roady-46d04a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Roady",
+        "brand:wikidata": "Q3434112",
+        "name": "Roady",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Safelite AutoGlass",
+      "id": "safeliteautoglass-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "safelight auto glass",
+        "safelite"
+      ],
+      "tags": {
+        "brand": "Safelite AutoGlass",
+        "brand:wikidata": "Q28797369",
+        "name": "Safelite AutoGlass",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/safelite/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/safeliteautoglass-878d90.jpg",
+      "local_logo_path": "localbrand/logo/safeliteautoglass-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/safelite/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/safeliteautoglass-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "Sears Auto Center",
+      "id": "searsautocenter-0c0c7e",
+      "locationSet": {
+        "include": [
+          "mx",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Sears Auto Center",
+        "brand:wikidata": "Q6499202",
+        "name": "Sears Auto Center",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/sears/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/searsautocenter-0c0c7e.jpg",
+      "local_logo_path": "localbrand/logo/searsautocenter-0c0c7e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sears/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/searsautocenter-0c0c7e.jpg"
+      }
+    },
+    {
+      "displayName": "Service Auto",
+      "id": "serviceauto-4fc828",
+      "locationSet": {
+        "include": [
+          "md"
+        ]
+      },
+      "tags": {
+        "brand": "Service Auto",
+        "name": "Service Auto",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Service King",
+      "id": "serviceking-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "service king collision repair"
+      ],
+      "tags": {
+        "brand": "Service King",
+        "brand:wikidata": "Q7455694",
+        "name": "Service King",
+        "service:vehicle:body_repair": "yes",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "SpeeDee",
+      "id": "speedee-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "speedee oil change & auto service"
+      ],
+      "tags": {
+        "brand": "SpeeDee",
+        "brand:wikidata": "Q120537032",
+        "name": "SpeeDee",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/SpeeDeeOilChangeAndAutoService/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedee-878d90.jpg",
+      "local_logo_path": "localbrand/logo/speedee-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SpeeDeeOilChangeAndAutoService/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedee-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "Speedy",
+      "id": "speedy-98e3a2",
+      "locationSet": {
+        "include": [
+          "fr",
+          "ma"
+        ]
+      },
+      "tags": {
+        "brand": "Speedy",
+        "brand:wikidata": "Q3492969",
+        "name": "Speedy",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/vadoncchezSpeedy/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedy-98e3a2.jpg",
+      "local_logo_path": "localbrand/logo/speedy-98e3a2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/vadoncchezSpeedy/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedy-98e3a2.jpg"
+      }
+    },
+    {
+      "displayName": "Speedy Auto Service",
+      "id": "speedyautoservice-10e248",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Speedy Auto Service",
+        "brand:wikidata": "Q22318193",
+        "name": "Speedy Auto Service",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/SpeedyAutoServiceCanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedyautoservice-10e248.jpg",
+      "local_logo_path": "localbrand/logo/speedyautoservice-10e248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SpeedyAutoServiceCanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedyautoservice-10e248.jpg"
+      }
+    },
+    {
+      "displayName": "Speedy Glass (Canada)",
+      "id": "speedyglass-10e248",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Speedy Glass",
+        "brand:wikidata": "Q119104960",
+        "name": "Speedy Glass",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/SpeedyGlassCanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedyglass-10e248.jpg",
+      "local_logo_path": "localbrand/logo/speedyglass-10e248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SpeedyGlassCanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedyglass-10e248.jpg"
+      }
+    },
+    {
+      "displayName": "Speedy Glass (USA)",
+      "id": "speedyglass-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Speedy Glass",
+        "brand:wikidata": "Q119105000",
+        "name": "Speedy Glass",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/speedyglassusa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedyglass-878d90.jpg",
+      "local_logo_path": "localbrand/logo/speedyglass-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/speedyglassusa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedyglass-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "Strickland Brothers",
+      "id": "stricklandbrothers-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "strickland brothers 10 minute oil change"
+      ],
+      "tags": {
+        "brand": "Strickland Brothers",
+        "brand:wikidata": "Q122811625",
+        "name": "Strickland Brothers",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Sullivan Tire",
+      "id": "sullivantire-bb46ab",
+      "locationSet": {
+        "include": [
+          "us-ma.geojson",
+          "us-me.geojson",
+          "us-nh.geojson",
+          "us-ri.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Sullivan Tire",
+        "brand:wikidata": "Q121422824",
+        "name": "Sullivan Tire",
+        "official_name": "Sullivan Tire and Auto Service",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:tyres": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Sullivan_Tire_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sullivantire-bb46ab.png",
+      "local_logo_path": "localbrand/logo/sullivantire-bb46ab.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/9/93/Sullivan_Tire_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sullivantire-bb46ab.png"
+      }
+    },
+    {
+      "displayName": "Sun Auto Service",
+      "id": "sunautoservice-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Sun Auto Service",
+        "brand:wikidata": "Q118383798",
+        "name": "Sun Auto Service",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Supa Quick",
+      "id": "supaquick-15e458",
+      "locationSet": {
+        "include": [
+          "bw",
+          "ls",
+          "na",
+          "sz",
+          "za"
+        ]
+      },
+      "matchNames": [
+        "supa quick express",
+        "supa quick tyre dealer",
+        "supa quick tyre experts"
+      ],
+      "tags": {
+        "brand": "Supa Quick",
+        "brand:wikidata": "Q121133344",
+        "name": "Supa Quick",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/supaquick/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/supaquick-15e458.jpg",
+      "local_logo_path": "localbrand/logo/supaquick-15e458.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/supaquick/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/supaquick-15e458.jpg"
+      }
+    },
+    {
+      "displayName": "Super Dæk Service",
+      "id": "superdaekservice-25491b",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "Super Dæk Service",
+        "brand:wikidata": "Q110510630",
+        "name": "Super Dæk Service",
+        "shop": "car_repair",
+        "short_name": "SDS"
+      },
+      "original_logo_url": "https://graph.facebook.com/sdsdanmark/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/superdaekservice-25491b.png",
+      "local_logo_path": "localbrand/logo/superdaekservice-25491b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/sdsdanmark/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/superdaekservice-25491b.png"
+      }
+    },
+    {
+      "displayName": "Take 5 Oil Change",
+      "id": "take5oilchange-3fdb50",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Take 5",
+        "brand:wikidata": "Q112359190",
+        "name": "Take 5 Oil Change",
+        "service:vehicle:oil_change": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/Take5OilChange/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/take5oilchange-3fdb50.jpg",
+      "local_logo_path": "localbrand/logo/take5oilchange-3fdb50.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Take5OilChange/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/take5oilchange-3fdb50.jpg"
+      }
+    },
+    {
+      "displayName": "Teknicar",
+      "id": "teknicar-25491b",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "Teknicar",
+        "brand:wikidata": "Q110510682",
+        "name": "Teknicar",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/TeknicarDk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/teknicar-25491b.jpg",
+      "local_logo_path": "localbrand/logo/teknicar-25491b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TeknicarDk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/teknicar-25491b.jpg"
+      }
+    },
+    {
+      "displayName": "Top Garage",
+      "id": "topgarage-46d04a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Top Garage",
+        "brand:wikidata": "Q117602800",
+        "name": "Top Garage",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/TopGarage.TopCarrosserie/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/topgarage-46d04a.jpg",
+      "local_logo_path": "localbrand/logo/topgarage-46d04a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TopGarage.TopCarrosserie/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/topgarage-46d04a.jpg"
+      }
+    },
+    {
+      "displayName": "Tuffy",
+      "id": "tuffy-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "tuffy auto service",
+        "tuffy auto service center",
+        "tuffy auto service centers",
+        "tuffy service",
+        "tuffy service center",
+        "tuffy service centers",
+        "tuffy tire and auto service",
+        "tuffy tire and auto service center",
+        "tuffy tire and auto service centers"
+      ],
+      "tags": {
+        "brand": "Tuffy",
+        "brand:wikidata": "Q17125314",
+        "name": "Tuffy",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/Tuffy/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuffy-878d90.jpg",
+      "local_logo_path": "localbrand/logo/tuffy-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Tuffy/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuffy-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "Ultra Tune",
+      "id": "ultratune-c3960a",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Ultra Tune",
+        "brand:wikidata": "Q29025649",
+        "name": "Ultra Tune",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Vakgarage",
+      "id": "vakgarage-854910",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Vakgarage",
+        "brand:wikidata": "Q124053196",
+        "name": "Vakgarage",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/vakgarage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vakgarage-854910.jpg",
+      "local_logo_path": "localbrand/logo/vakgarage-854910.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/vakgarage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vakgarage-854910.jpg"
+      }
+    },
+    {
+      "displayName": "Valvoline",
+      "id": "valvoline-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "oil can henry's"
+      ],
+      "tags": {
+        "brand": "Valvoline",
+        "brand:wikidata": "Q7912852",
+        "name": "Valvoline",
+        "official_name": "Valvoline Instant Oil Change",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/viocofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/valvoline-878d90.jpg",
+      "local_logo_path": "localbrand/logo/valvoline-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/viocofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/valvoline-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "Valvoline Express Care",
+      "id": "valvolineexpresscare-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "alt_name": "Express Care",
+        "brand": "Valvoline Express Care",
+        "brand:wikidata": "Q74273584",
+        "name": "Valvoline Express Care",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/ExpressCareValvoline/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/valvolineexpresscare-878d90.png",
+      "local_logo_path": "localbrand/logo/valvolineexpresscare-878d90.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ExpressCareValvoline/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/valvolineexpresscare-878d90.png"
+      }
+    },
+    {
+      "displayName": "VIP Tires and Service",
+      "id": "viptiresandservice-451c51",
+      "locationSet": {
+        "include": [
+          "us-ma.geojson",
+          "us-me.geojson",
+          "us-nh.geojson",
+          "us-vt.geojson"
+        ]
+      },
+      "matchNames": [
+        "vip tires"
+      ],
+      "note": "Often co-located with O'Reilly Auto Parts stores which should be mapped seperately. These were owned/operated by VIP before 2013 but are now seperate.",
+      "tags": {
+        "brand": "VIP Tires and Service",
+        "brand:wikidata": "Q7907052",
+        "name": "VIP Tires and Service",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:tyres": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/VIPTiresService/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/viptiresandservice-451c51.jpg",
+      "local_logo_path": "localbrand/logo/viptiresandservice-451c51.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/VIPTiresService/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/viptiresandservice-451c51.jpg"
+      }
+    },
+    {
+      "displayName": "Vulco",
+      "id": "vulco-98e3a2",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Vulco",
+        "brand:wikidata": "Q80184403",
+        "name": "Vulco",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/vulcofrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vulco-98e3a2.png",
+      "local_logo_path": "localbrand/logo/vulco-98e3a2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/vulcofrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vulco-98e3a2.png"
+      }
+    },
+    {
+      "displayName": "Walmart Auto Care Center",
+      "id": "walmartautocarecenter-878d90",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "walmart tire and lube",
+        "walmart tire and lube express"
+      ],
+      "tags": {
+        "brand": "Walmart Auto Care Center",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart Auto Care Center",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/walmart/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/walmartautocarecenter-878d90.jpg",
+      "local_logo_path": "localbrand/logo/walmartautocarecenter-878d90.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/walmart/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/walmartautocarecenter-878d90.jpg"
+      }
+    },
+    {
+      "displayName": "Walmart Tire & Lube Express Centre",
+      "id": "walmarttireandlubeexpresscentre-10e248",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Walmart Tire & Lube Express Centre",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart Tire & Lube Express Centre",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/walmart/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/walmarttireandlubeexpresscentre-10e248.jpg",
+      "local_logo_path": "localbrand/logo/walmarttireandlubeexpresscentre-10e248.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/walmart/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/walmarttireandlubeexpresscentre-10e248.jpg"
+      }
+    },
+    {
+      "displayName": "Wintec Autoglas",
+      "id": "wintecautoglas-c95f1a",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Wintec Autoglas",
+        "brand:wikidata": "Q23816518",
+        "name": "Wintec Autoglas",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/wintec.autoglas.ag/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wintecautoglas-c95f1a.jpg",
+      "local_logo_path": "localbrand/logo/wintecautoglas-c95f1a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/wintec.autoglas.ag/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wintecautoglas-c95f1a.jpg"
+      }
+    },
+    {
+      "displayName": "Автопилот",
+      "id": "5c641b-b8cc5f",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Автопилот",
+        "name": "Автопилот",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Вилгуд",
+      "id": "d692e0-b8cc5f",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Вилгуд",
+        "name": "Вилгуд",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Грузовой шиномонтаж",
+      "id": "69dc1e-18025f",
+      "locationSet": {
+        "include": [
+          "by",
+          "kg",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Грузовой шиномонтаж",
+        "name": "Грузовой шиномонтаж",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "ЕвроАвто",
+      "id": "0fba71-b8cc5f",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "ЕвроАвто",
+        "name": "ЕвроАвто",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Колесо",
+      "id": "koleso-b8cc5f",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Колесо",
+        "name": "Колесо",
+        "name:en": "Koleso",
+        "name:ru": "Колесо",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "Маслофф",
+      "id": "729e71-b8cc5f",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Маслофф",
+        "name": "Маслофф",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "بترومين إكسبرس",
+      "id": "petrominexpress-78a956",
+      "locationSet": {
+        "include": [
+          "sa"
+        ]
+      },
+      "tags": {
+        "brand": "بترومين إكسبرس",
+        "brand:ar": "بترومين إكسبرس",
+        "brand:en": "Petromin Express",
+        "brand:wikidata": "Q7179006",
+        "name": "بترومين إكسبرس",
+        "name:ar": "بترومين إكسبرس",
+        "name:en": "Petromin Express",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "カーコンビニ倶楽部",
+      "id": "carconvenienceclub-aba9fa",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "カーコンビニ倶楽部",
+        "brand:en": "Car Convenience Club",
+        "brand:ja": "カーコンビニ倶楽部",
+        "brand:wikidata": "Q11295590",
+        "name": "カーコンビニ倶楽部",
+        "name:en": "Car Convenience Club",
+        "name:ja": "カーコンビニ倶楽部",
+        "shop": "car_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/carcon.jp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carconvenienceclub-aba9fa.png",
+      "local_logo_path": "localbrand/logo/carconvenienceclub-aba9fa.png",
+      "logos": {
+        "original": "https://graph.facebook.com/carcon.jp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carconvenienceclub-aba9fa.png"
+      }
+    },
+    {
+      "displayName": "小拇指",
+      "id": "suremoov-98f9a6",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "matchNames": [
+        "小拇指快修",
+        "小拇指汽修",
+        "小拇指汽车维修"
+      ],
+      "tags": {
+        "brand": "小拇指",
+        "brand:en": "SUREMOOV",
+        "brand:wikidata": "Q108179026",
+        "brand:zh": "小拇指",
+        "name": "小拇指",
+        "name:en": "SUREMOOV",
+        "name:zh": "小拇指",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "歐特耐養護中心",
+      "id": "ottoline-2dd56c",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "歐特耐養護中心",
+        "brand:en": "Ottoline",
+        "brand:wikidata": "Q126368557",
+        "brand:zh": "歐特耐養護中心",
+        "name": "歐特耐養護中心",
+        "name:en": "Ottoline",
+        "name:zh": "歐特耐養護中心",
+        "shop": "car_repair"
+      }
+    }
+  ]
+}

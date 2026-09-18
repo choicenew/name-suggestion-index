@@ -1,0 +1,339 @@
+{
+  "properties": {
+    "path": "brands/office/financial",
+    "exclude": {
+      "generic": [
+        "^financial$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Cafpi",
+      "id": "cafpi-1791d3",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Cafpi",
+        "brand:wikidata": "Q2932922",
+        "name": "Cafpi",
+        "office": "financial"
+      },
+      "original_logo_url": "https://graph.facebook.com/cafpi/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cafpi-1791d3.jpg",
+      "local_logo_path": "localbrand/logo/cafpi-1791d3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/cafpi/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cafpi-1791d3.jpg"
+      }
+    },
+    {
+      "displayName": "CMG Financial",
+      "id": "cmgfinancial-07b653",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "CMG Financial",
+        "brand:wikidata": "Q120884918",
+        "name": "CMG Financial",
+        "office": "financial"
+      },
+      "original_logo_url": "https://graph.facebook.com/CMGFinancial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cmgfinancial-07b653.jpg",
+      "local_logo_path": "localbrand/logo/cmgfinancial-07b653.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CMGFinancial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cmgfinancial-07b653.jpg"
+      }
+    },
+    {
+      "displayName": "Cofidis",
+      "id": "cofidis-8d8ca3",
+      "locationSet": {
+        "include": [
+          "be",
+          "cz",
+          "es",
+          "fr",
+          "gr",
+          "hu",
+          "it",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "Cofidis",
+        "brand:wikidata": "Q1106920",
+        "name": "Cofidis",
+        "office": "financial"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Logo_Cofidis.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cofidis-8d8ca3.svg",
+      "local_logo_path": "localbrand/logo/cofidis-8d8ca3.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/28/Logo_Cofidis.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cofidis-8d8ca3.svg"
+      }
+    },
+    {
+      "displayName": "Fiditalia",
+      "id": "fiditalia-9d9f2c",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Fiditalia",
+        "brand:wikidata": "Q33306594",
+        "name": "Fiditalia",
+        "office": "financial"
+      }
+    },
+    {
+      "displayName": "Kerala Financial Corporation",
+      "id": "keralafinancialcorporation-8505f7",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Kerala Financial Corporation",
+        "brand:wikidata": "Q17064561",
+        "name": "Kerala Financial Corporation",
+        "office": "financial",
+        "short_name": "KFC"
+      },
+      "original_logo_url": "https://graph.facebook.com/keralafinancialcorporation/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keralafinancialcorporation-8505f7.jpg",
+      "local_logo_path": "localbrand/logo/keralafinancialcorporation-8505f7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/keralafinancialcorporation/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keralafinancialcorporation-8505f7.jpg"
+      }
+    },
+    {
+      "displayName": "Kerala State Financial Enterprises",
+      "id": "ksfe-8505f7",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Kerala State Financial Enterprises",
+        "brand:wikidata": "Q6393471",
+        "name": "KSFE",
+        "office": "financial",
+        "official_name": "Kerala State Financial Enterprises"
+      },
+      "original_logo_url": "https://graph.facebook.com/KSFE.Ltd.Official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ksfe-8505f7.jpg",
+      "local_logo_path": "localbrand/logo/ksfe-8505f7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KSFE.Ltd.Official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ksfe-8505f7.jpg"
+      }
+    },
+    {
+      "displayName": "Manappuram General Finance and Leasing",
+      "id": "manappuramgeneralfinanceandleasing-8505f7",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Manappuram General Finance and Leasing",
+        "brand:wikidata": "Q6746938",
+        "name": "Manappuram General Finance and Leasing",
+        "office": "financial"
+      },
+      "original_logo_url": "https://graph.facebook.com/ManappuramFinanceLimitedMAFIL/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manappuramgeneralfinanceandleasing-8505f7.jpg",
+      "local_logo_path": "localbrand/logo/manappuramgeneralfinanceandleasing-8505f7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ManappuramFinanceLimitedMAFIL/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manappuramgeneralfinanceandleasing-8505f7.jpg"
+      }
+    },
+    {
+      "displayName": "Meilleurtaux",
+      "id": "meilleurtaux-1791d3",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "matchNames": [
+        "meilleurtaux.com"
+      ],
+      "tags": {
+        "brand": "Meilleurtaux",
+        "brand:wikidata": "Q3304699",
+        "name": "Meilleurtaux",
+        "office": "financial"
+      },
+      "original_logo_url": "https://graph.facebook.com/meilleurtaux/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meilleurtaux-1791d3.jpg",
+      "local_logo_path": "localbrand/logo/meilleurtaux-1791d3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/meilleurtaux/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meilleurtaux-1791d3.jpg"
+      }
+    },
+    {
+      "displayName": "Morgan Stanley",
+      "id": "morganstanley-433028",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Morgan Stanley",
+        "brand:wikidata": "Q334204",
+        "name": "Morgan Stanley",
+        "office": "financial"
+      },
+      "original_logo_url": "https://graph.facebook.com/morganstanley/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morganstanley-433028.jpg",
+      "local_logo_path": "localbrand/logo/morganstanley-433028.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/morganstanley/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morganstanley-433028.jpg"
+      }
+    },
+    {
+      "displayName": "Muthoot Finance",
+      "id": "muthootfinance-47d4e7",
+      "locationSet": {
+        "include": [
+          "ae",
+          "gb",
+          "in",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "muthoot india"
+      ],
+      "tags": {
+        "brand": "Muthoot Finance",
+        "brand:wikidata": "Q6943861",
+        "name": "Muthoot Finance",
+        "office": "financial"
+      },
+      "original_logo_url": "https://graph.facebook.com/TheMuthootGroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muthootfinance-47d4e7.png",
+      "local_logo_path": "localbrand/logo/muthootfinance-47d4e7.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TheMuthootGroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muthootfinance-47d4e7.png"
+      }
+    },
+    {
+      "displayName": "Old Mutual Finance",
+      "id": "oldmutualfinance-38693f",
+      "locationSet": {
+        "include": [
+          "bw",
+          "cn",
+          "gh",
+          "ke",
+          "mw",
+          "na",
+          "ng",
+          "rw",
+          "ss",
+          "sz",
+          "tz",
+          "ug",
+          "za",
+          "zw"
+        ]
+      },
+      "tags": {
+        "brand": "Old Mutual Finance",
+        "brand:wikidata": "Q289704",
+        "name": "Old Mutual Finance",
+        "office": "financial"
+      },
+      "original_logo_url": "https://graph.facebook.com/OldMutualSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldmutualfinance-38693f.png",
+      "local_logo_path": "localbrand/logo/oldmutualfinance-38693f.png",
+      "logos": {
+        "original": "https://graph.facebook.com/OldMutualSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldmutualfinance-38693f.png"
+      }
+    },
+    {
+      "displayName": "Vousfinancer",
+      "id": "vousfinancer-1791d3",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Vousfinancer",
+        "brand:wikidata": "Q114185120",
+        "name": "Vousfinancer",
+        "office": "financial"
+      },
+      "original_logo_url": "https://graph.facebook.com/Vousfinancer/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vousfinancer-1791d3.jpg",
+      "local_logo_path": "localbrand/logo/vousfinancer-1791d3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Vousfinancer/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vousfinancer-1791d3.jpg"
+      }
+    },
+    {
+      "displayName": "Wintrust Financial",
+      "id": "wintrustfinancial-07b653",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Wintrust Financial",
+        "brand:wikidata": "Q23680018",
+        "name": "Wintrust Financial",
+        "office": "financial"
+      },
+      "original_logo_url": "https://graph.facebook.com/wintrust/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wintrustfinancial-07b653.jpg",
+      "local_logo_path": "localbrand/logo/wintrustfinancial-07b653.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/wintrust/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wintrustfinancial-07b653.jpg"
+      }
+    },
+    {
+      "displayName": "Ymanci",
+      "id": "ymanci-1791d3",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "note": "Three branches: Assurances, Crédit immobilier and Regroupement de crédits",
+      "tags": {
+        "brand": "Ymanci",
+        "brand:wikidata": "Q109722251",
+        "name": "Ymanci",
+        "office": "financial",
+        "operator": "Premista"
+      }
+    }
+  ]
+}

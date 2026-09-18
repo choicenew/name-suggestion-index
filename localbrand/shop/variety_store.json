@@ -1,0 +1,2824 @@
+{
+  "properties": {
+    "path": "brands/shop/variety_store",
+    "exclude": {
+      "generic": [
+        "^(variety|world)\\s?(store|shop)?$",
+        "^\\d00円ショップ$",
+        "^tienda( de (barrio|abarrotes))?$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "100えんハウス レモン",
+      "id": "100houselemon-e1b193",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "100えんハウス レモン",
+        "brand:en": "100 House Lemon",
+        "brand:ja": "100えんハウス レモン",
+        "brand:wikidata": "Q43305392",
+        "name": "100えんハウス レモン",
+        "name:en": "100 House Lemon",
+        "name:ja": "100えんハウス レモン",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/191631601469052/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/100houselemon-e1b193.jpg",
+      "local_logo_path": "localbrand/logo/100houselemon-e1b193.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/191631601469052/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/100houselemon-e1b193.jpg"
+      }
+    },
+    {
+      "displayName": "3COINS",
+      "id": "3coins-e1b193",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "3COINS",
+        "brand:en": "3COINS",
+        "brand:ja": "スリーコインズ",
+        "brand:wikidata": "Q60997353",
+        "name": "3COINS",
+        "name:en": "3COINS",
+        "name:ja": "スリーコインズ",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/3COINS.jp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/3coins-e1b193.jpg",
+      "local_logo_path": "localbrand/logo/3coins-e1b193.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/3COINS.jp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/3coins-e1b193.jpg"
+      }
+    },
+    {
+      "displayName": "99 Cents Only Stores",
+      "id": "99centsonlystores-c85191",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "99 cent only stores",
+        "99 cents only"
+      ],
+      "tags": {
+        "brand": "99 Cents Only Stores",
+        "brand:wikidata": "Q4646294",
+        "name": "99 Cents Only Stores",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "99 Speedmart",
+      "id": "99speedmart-14cb81",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "brand": "99 Speedmart",
+        "brand:wikidata": "Q62075061",
+        "name": "99 Speedmart",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/99speedmartMY/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/99speedmart-14cb81.png",
+      "local_logo_path": "localbrand/logo/99speedmart-14cb81.png",
+      "logos": {
+        "original": "https://graph.facebook.com/99speedmartMY/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/99speedmart-14cb81.png"
+      }
+    },
+    {
+      "displayName": "Action",
+      "id": "action-ba0d1d",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "it",
+          "lu",
+          "nl",
+          "pl",
+          "pt",
+          "sk"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "Action",
+        "brand:wikidata": "Q2634111",
+        "name": "Action",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/action.nederland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/action-ba0d1d.png",
+      "local_logo_path": "localbrand/logo/action-ba0d1d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/action.nederland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/action-ba0d1d.png"
+      }
+    },
+    {
+      "displayName": "B&M",
+      "id": "bandm-622078",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "b&m stores"
+      ],
+      "tags": {
+        "brand": "B&M",
+        "brand:wikidata": "Q4836931",
+        "name": "B&M",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/bmstores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bandm-622078.jpg",
+      "local_logo_path": "localbrand/logo/bandm-622078.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bmstores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bandm-622078.jpg"
+      }
+    },
+    {
+      "displayName": "B&M Bargains",
+      "id": "bandmbargains-622078",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "b&m bargains store"
+      ],
+      "tags": {
+        "brand": "B&M Bargains",
+        "brand:wikidata": "Q4836931",
+        "name": "B&M Bargains",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/bmstores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bandmbargains-622078.jpg",
+      "local_logo_path": "localbrand/logo/bandmbargains-622078.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bmstores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bandmbargains-622078.jpg"
+      }
+    },
+    {
+      "displayName": "B&M Home Store",
+      "id": "bandmhomestore-622078",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "B&M Home Store",
+        "brand:wikidata": "Q4836931",
+        "name": "B&M Home Store",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/bmstores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bandmhomestore-622078.jpg",
+      "local_logo_path": "localbrand/logo/bandmhomestore-622078.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bmstores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bandmhomestore-622078.jpg"
+      }
+    },
+    {
+      "displayName": "B&M Home Store with Garden Centre",
+      "id": "bandmhomestorewithgardencentre-622078",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "B&M Home Store",
+        "brand:wikidata": "Q4836931",
+        "name": "B&M Home Store with Garden Centre",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/bmstores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bandmhomestorewithgardencentre-622078.jpg",
+      "local_logo_path": "localbrand/logo/bandmhomestorewithgardencentre-622078.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bmstores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bandmhomestorewithgardencentre-622078.jpg"
+      }
+    },
+    {
+      "displayName": "Bargain Buys",
+      "id": "bargainbuys-622078",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Bargain Buys",
+        "brand:wikidata": "Q19870995",
+        "name": "Bargain Buys",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/BargainBuysOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bargainbuys-622078.jpg",
+      "local_logo_path": "localbrand/logo/bargainbuys-622078.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BargainBuysOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bargainbuys-622078.jpg"
+      }
+    },
+    {
+      "displayName": "Big Bazar",
+      "id": "bigbazar-8a7b93",
+      "locationSet": {
+        "include": [
+          "be",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Big Bazar",
+        "brand:wikidata": "Q15873104",
+        "name": "Big Bazar",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "C'est deux euros",
+      "id": "cestdeuxeuros-efe747",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "C'est deux euros",
+        "brand:wikidata": "Q141181414",
+        "name": "C'est deux euros",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/cestdeuxeuros/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cestdeuxeuros-efe747.png",
+      "local_logo_path": "localbrand/logo/cestdeuxeuros-efe747.png",
+      "logos": {
+        "original": "https://graph.facebook.com/cestdeuxeuros/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cestdeuxeuros-efe747.png"
+      }
+    },
+    {
+      "displayName": "Centershop",
+      "id": "centershop-9f9d31",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchTags": [
+        "shop/supermarket"
+      ],
+      "tags": {
+        "brand": "Centershop",
+        "brand:wikidata": "Q108716135",
+        "name": "Centershop",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/centershop.dagehtwas/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/centershop-9f9d31.jpg",
+      "local_logo_path": "localbrand/logo/centershop-9f9d31.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/centershop.dagehtwas/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/centershop-9f9d31.jpg"
+      }
+    },
+    {
+      "displayName": "Christmas Tree Shops",
+      "id": "christmastreeshops-c85191",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store",
+        "shop/gift",
+        "shop/houseware",
+        "shop/interior_decoration"
+      ],
+      "tags": {
+        "brand": "Christmas Tree Shops",
+        "brand:wikidata": "Q5111452",
+        "name": "Christmas Tree Shops",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Daiso",
+      "id": "daiso-80c116",
+      "locationSet": {
+        "include": [
+          "ca",
+          "my"
+        ]
+      },
+      "tags": {
+        "brand": "Daiso",
+        "brand:wikidata": "Q866991",
+        "name": "Daiso",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/daisousaofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daiso-80c116.jpg",
+      "local_logo_path": "localbrand/logo/daiso-80c116.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/daisousaofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daiso-80c116.jpg"
+      }
+    },
+    {
+      "displayName": "Daiso Japan",
+      "id": "daisojapan-3b78c0",
+      "locationSet": {
+        "include": [
+          "au",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "daiso japan value store"
+      ],
+      "tags": {
+        "brand": "Daiso",
+        "brand:wikidata": "Q866991",
+        "name": "Daiso Japan",
+        "shop": "variety_store",
+        "short_name": "Daiso"
+      },
+      "original_logo_url": "https://graph.facebook.com/daisousaofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daisojapan-3b78c0.jpg",
+      "local_logo_path": "localbrand/logo/daisojapan-3b78c0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/daisousaofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daisojapan-3b78c0.jpg"
+      }
+    },
+    {
+      "displayName": "Dealz",
+      "id": "dealz-01f38b",
+      "locationSet": {
+        "include": [
+          "es",
+          "ie",
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Dealz",
+        "brand:wikidata": "Q16942585",
+        "name": "Dealz",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/DealzIreland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dealz-01f38b.jpg",
+      "local_logo_path": "localbrand/logo/dealz-01f38b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DealzIreland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dealz-01f38b.jpg"
+      }
+    },
+    {
+      "displayName": "DGX",
+      "id": "dgx-c85191",
+      "issues": [
+        9943
+      ],
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "dollar general express"
+      ],
+      "tags": {
+        "brand": "Dollar General",
+        "brand:wikidata": "Q145168",
+        "name": "DGX",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/dollargeneral/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dgx-c85191.jpg",
+      "local_logo_path": "localbrand/logo/dgx-c85191.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dollargeneral/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dgx-c85191.jpg"
+      }
+    },
+    {
+      "displayName": "Dirt Cheap",
+      "id": "dirtcheap-c85191",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Dirt Cheap",
+        "brand:wikidata": "Q123013019",
+        "name": "Dirt Cheap",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/ilovedirtcheap/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dirtcheap-c85191.png",
+      "local_logo_path": "localbrand/logo/dirtcheap-c85191.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ilovedirtcheap/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dirtcheap-c85191.png"
+      }
+    },
+    {
+      "displayName": "Dollar General",
+      "id": "dollargeneral-c85191",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/general"
+      ],
+      "tags": {
+        "brand": "Dollar General",
+        "brand:wikidata": "Q145168",
+        "name": "Dollar General",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/dollargeneral/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dollargeneral-c85191.jpg",
+      "local_logo_path": "localbrand/logo/dollargeneral-c85191.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dollargeneral/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dollargeneral-c85191.jpg"
+      }
+    },
+    {
+      "displayName": "Dollar Tree",
+      "id": "dollartree-44cca6",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "Dollar Tree",
+        "brand:wikidata": "Q5289230",
+        "name": "Dollar Tree",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/dollartree/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dollartree-44cca6.jpg",
+      "local_logo_path": "localbrand/logo/dollartree-44cca6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dollartree/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dollartree-44cca6.jpg"
+      }
+    },
+    {
+      "displayName": "Dollarama",
+      "id": "dollarama-05b191",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Dollarama",
+        "brand:wikidata": "Q3033947",
+        "name": "Dollarama",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/415845051799232/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dollarama-05b191.png",
+      "local_logo_path": "localbrand/logo/dollarama-05b191.png",
+      "logos": {
+        "original": "https://graph.facebook.com/415845051799232/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dollarama-05b191.png"
+      }
+    },
+    {
+      "displayName": "Dollarcity",
+      "id": "dollarcity-8f2567",
+      "locationSet": {
+        "include": [
+          "co",
+          "gt",
+          "pe",
+          "sv"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "Dollarcity",
+        "brand:wikidata": "Q107120814",
+        "name": "Dollarcity",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/DollarcityElSalvador/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dollarcity-8f2567.jpg",
+      "local_logo_path": "localbrand/logo/dollarcity-8f2567.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DollarcityElSalvador/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dollarcity-8f2567.jpg"
+      }
+    },
+    {
+      "displayName": "Dollarstore",
+      "id": "dollarstore-aa81b7",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Dollarstore",
+        "brand:wikidata": "Q10475598",
+        "name": "Dollarstore",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/dollarstore.se/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dollarstore-aa81b7.png",
+      "local_logo_path": "localbrand/logo/dollarstore-aa81b7.png",
+      "logos": {
+        "original": "https://graph.facebook.com/dollarstore.se/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dollarstore-aa81b7.png"
+      }
+    },
+    {
+      "displayName": "Don Don Donki",
+      "id": "dondondonki-717fd7",
+      "locationSet": {
+        "include": [
+          "hk",
+          "my",
+          "sg",
+          "th",
+          "tw",
+          "us-hi"
+        ]
+      },
+      "tags": {
+        "brand": "Don Don Donki",
+        "brand:wikidata": "Q1185381",
+        "name": "Don Don Donki",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/donki.majicaglobal.jp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dondondonki-717fd7.jpg",
+      "local_logo_path": "localbrand/logo/dondondonki-717fd7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/donki.majicaglobal.jp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dondondonki-717fd7.jpg"
+      }
+    },
+    {
+      "displayName": "eco-shop",
+      "id": "ecoshop-14cb81",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "brand": "eco-shop",
+        "brand:wikidata": "Q95721269",
+        "name": "eco-shop",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/EcoShopMarketing/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecoshop-14cb81.jpg",
+      "local_logo_path": "localbrand/logo/ecoshop-14cb81.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EcoShopMarketing/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecoshop-14cb81.jpg"
+      }
+    },
+    {
+      "displayName": "EuroGiant",
+      "id": "eurogiant-d3831c",
+      "locationSet": {
+        "include": [
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "EuroGiant",
+        "brand:wikidata": "Q113197596",
+        "name": "EuroGiant",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/eurogiantireland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eurogiant-d3831c.jpg",
+      "local_logo_path": "localbrand/logo/eurogiant-d3831c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/eurogiantireland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eurogiant-d3831c.jpg"
+      }
+    },
+    {
+      "displayName": "EuroShop",
+      "id": "euroshop-9f9d31",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "EuroShop",
+        "brand:wikidata": "Q15846763",
+        "name": "EuroShop",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/schumeuroshop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/euroshop-9f9d31.jpg",
+      "local_logo_path": "localbrand/logo/euroshop-9f9d31.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/schumeuroshop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/euroshop-9f9d31.jpg"
+      }
+    },
+    {
+      "displayName": "Family Dollar",
+      "id": "familydollar-c85191",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "Family Dollar",
+        "brand:wikidata": "Q5433101",
+        "name": "Family Dollar",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/familydollar/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/familydollar-c85191.jpg",
+      "local_logo_path": "localbrand/logo/familydollar-c85191.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/familydollar/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/familydollar-c85191.jpg"
+      }
+    },
+    {
+      "displayName": "Five Below",
+      "id": "fivebelow-c85191",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Five Below",
+        "brand:wikidata": "Q5455836",
+        "name": "Five Below",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/FiveBelow/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fivebelow-c85191.jpg",
+      "local_logo_path": "localbrand/logo/fivebelow-c85191.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FiveBelow/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fivebelow-c85191.jpg"
+      }
+    },
+    {
+      "displayName": "Fix Price",
+      "id": "fixprice-b3b517",
+      "locationSet": {
+        "include": [
+          "ae",
+          "am",
+          "by",
+          "kg",
+          "kz",
+          "lv",
+          "mn",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Fix Price",
+        "brand:wikidata": "Q4038791",
+        "name": "Fix Price",
+        "name:be": "Фікс Прайс",
+        "name:be-Latn": "Fiks Prajs",
+        "name:en": "Fix Price",
+        "name:ru": "Фикс Прайс",
+        "name:uk": "Фікс Прайс",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/fixprice.russia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fixprice-b3b517.png",
+      "local_logo_path": "localbrand/logo/fixprice-b3b517.png",
+      "logos": {
+        "original": "https://graph.facebook.com/fixprice.russia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fixprice-b3b517.png"
+      }
+    },
+    {
+      "displayName": "Flying Tiger Copenhagen",
+      "id": "flyingtigercopenhagen-55ef00",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "ch",
+          "cy",
+          "cz",
+          "de",
+          "dk",
+          "ee",
+          "es",
+          "fi",
+          "fr",
+          "gb",
+          "gr",
+          "hu",
+          "ie",
+          "il",
+          "is",
+          "it",
+          "jp",
+          "kr",
+          "lt",
+          "lv",
+          "mt",
+          "nl",
+          "no",
+          "pl",
+          "pt",
+          "se",
+          "sk"
+        ]
+      },
+      "matchNames": [
+        "tgr",
+        "tiger"
+      ],
+      "matchTags": [
+        "shop/gift"
+      ],
+      "tags": {
+        "brand": "Flying Tiger Copenhagen",
+        "brand:wikidata": "Q2786319",
+        "name": "Flying Tiger Copenhagen",
+        "shop": "variety_store",
+        "short_name": "Flying Tiger"
+      },
+      "original_logo_url": "https://graph.facebook.com/FlyingTigerCopenhagen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flyingtigercopenhagen-55ef00.jpg",
+      "local_logo_path": "localbrand/logo/flyingtigercopenhagen-55ef00.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FlyingTigerCopenhagen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flyingtigercopenhagen-55ef00.jpg"
+      }
+    },
+    {
+      "displayName": "Giant Mini",
+      "id": "giantmini-14cb81",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "brand": "Giant Mini",
+        "brand:wikidata": "Q4217013",
+        "name": "Giant Mini",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/GiantSingapore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/giantmini-14cb81.jpg",
+      "local_logo_path": "localbrand/logo/giantmini-14cb81.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GiantSingapore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/giantmini-14cb81.jpg"
+      }
+    },
+    {
+      "displayName": "GiFi",
+      "id": "gifi-eed69a",
+      "locationSet": {
+        "include": [
+          "ch",
+          "es",
+          "fr",
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "GiFi",
+        "brand:wikidata": "Q3105439",
+        "name": "GiFi",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/GiFi.Officiel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gifi-eed69a.jpg",
+      "local_logo_path": "localbrand/logo/gifi-eed69a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GiFi.Officiel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gifi-eed69a.jpg"
+      }
+    },
+    {
+      "displayName": "Great Canadian Dollar Store",
+      "id": "greatcanadiandollarstore-f36c63",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Great Canadian Dollar Store",
+        "brand:wikidata": "Q17107560",
+        "name": "Great Canadian Dollar Store",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Home Bargains",
+      "id": "homebargains-622078",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "Home Bargains",
+        "brand:wikidata": "Q5888229",
+        "name": "Home Bargains",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/homebargains/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/homebargains-622078.jpg",
+      "local_logo_path": "localbrand/logo/homebargains-622078.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/homebargains/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/homebargains-622078.jpg"
+      }
+    },
+    {
+      "displayName": "Jawoll",
+      "id": "jawoll-9f9d31",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Jawoll",
+        "brand:wikidata": "Q65180661",
+        "name": "Jawoll",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Jawoll.Sonderpreise/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jawoll-9f9d31.jpg",
+      "local_logo_path": "localbrand/logo/jawoll-9f9d31.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Jawoll.Sonderpreise/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jawoll-9f9d31.jpg"
+      }
+    },
+    {
+      "displayName": "KINEKUS",
+      "id": "kinekus-c029a3",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "KINEKUS",
+        "brand:wikidata": "Q96132061",
+        "name": "KINEKUS",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/KinekusEshop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kinekus-c029a3.jpg",
+      "local_logo_path": "localbrand/logo/kinekus-c029a3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KinekusEshop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kinekus-c029a3.jpg"
+      }
+    },
+    {
+      "displayName": "KRÜMET",
+      "id": "krumet-9f9d31",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "KRÜMET",
+        "brand:wikidata": "Q110483542",
+        "name": "KRÜMET",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/kruemet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/krumet-9f9d31.png",
+      "local_logo_path": "localbrand/logo/krumet-9f9d31.png",
+      "logos": {
+        "original": "https://graph.facebook.com/kruemet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/krumet-9f9d31.png"
+      }
+    },
+    {
+      "displayName": "La Foir'Fouille",
+      "id": "lafoirfouille-ccd2d5",
+      "locationSet": {
+        "include": [
+          "be",
+          "fr",
+          "lu",
+          "mu"
+        ]
+      },
+      "tags": {
+        "brand": "La Foir'Fouille",
+        "brand:wikidata": "Q3209040",
+        "name": "La Foir'Fouille",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/lafoirfouille/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lafoirfouille-ccd2d5.png",
+      "local_logo_path": "localbrand/logo/lafoirfouille-ccd2d5.png",
+      "logos": {
+        "original": "https://graph.facebook.com/lafoirfouille/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lafoirfouille-ccd2d5.png"
+      }
+    },
+    {
+      "displayName": "Mäc-Geiz",
+      "id": "macgeiz-9f9d31",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchTags": [
+        "shop/supermarket"
+      ],
+      "tags": {
+        "brand": "Mäc-Geiz",
+        "brand:wikidata": "Q1957126",
+        "name": "Mäc-Geiz",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/1652809328274529/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/macgeiz-9f9d31.jpg",
+      "local_logo_path": "localbrand/logo/macgeiz-9f9d31.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/1652809328274529/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/macgeiz-9f9d31.jpg"
+      }
+    },
+    {
+      "displayName": "Max Stock",
+      "id": "maxstock-5846c3",
+      "locationSet": {
+        "include": [
+          "il"
+        ]
+      },
+      "tags": {
+        "brand": "Max Stock",
+        "brand:wikidata": "Q18191994",
+        "name": "Max Stock",
+        "name:en": "Max Stock",
+        "name:he": "מקס סטוק",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Maxi Bazar",
+      "id": "maxibazar-efe747",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Maxi Bazar",
+        "brand:wikidata": "Q111817854",
+        "name": "Maxi Bazar",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/maxibazarfrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maxibazar-efe747.jpg",
+      "local_logo_path": "localbrand/logo/maxibazar-efe747.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/maxibazarfrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maxibazar-efe747.jpg"
+      }
+    },
+    {
+      "displayName": "Miniso",
+      "id": "miniso-0a7353",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "cn",
+          "ge",
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "Miniso",
+        "brand:wikidata": "Q20732498",
+        "name": "Miniso",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Mr. Price",
+      "id": "mrprice-d3831c",
+      "locationSet": {
+        "include": [
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "Mr. Price",
+        "brand:wikidata": "Q113197454",
+        "name": "Mr. Price",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/MrPriceIre/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrprice-d3831c.jpg",
+      "local_logo_path": "localbrand/logo/mrprice-d3831c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MrPriceIre/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrprice-d3831c.jpg"
+      }
+    },
+    {
+      "displayName": "MR.DOLLAR",
+      "id": "mrdollar-14cb81",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "brand": "MR.DOLLAR",
+        "brand:wikidata": "Q106959890",
+        "name": "MR.DOLLAR",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Mrdollarmalaysia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrdollar-14cb81.jpg",
+      "local_logo_path": "localbrand/logo/mrdollar-14cb81.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Mrdollarmalaysia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrdollar-14cb81.jpg"
+      }
+    },
+    {
+      "displayName": "Nille",
+      "id": "nille-1dc1f6",
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Nille",
+        "brand:wikidata": "Q11991429",
+        "name": "Nille",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/nillenorge/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nille-1dc1f6.jpg",
+      "local_logo_path": "localbrand/logo/nille-1dc1f6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/nillenorge/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nille-1dc1f6.jpg"
+      }
+    },
+    {
+      "displayName": "Ninso",
+      "id": "ninso-14cb81",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "brand": "Ninso",
+        "brand:wikidata": "Q106959816",
+        "name": "Ninso",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Ninso.Official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ninso-14cb81.jpg",
+      "local_logo_path": "localbrand/logo/ninso-14cb81.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Ninso.Official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ninso-14cb81.jpg"
+      }
+    },
+    {
+      "displayName": "NOZ",
+      "id": "noz-efe747",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "NOZ",
+        "brand:wikidata": "Q3345688",
+        "name": "NOZ",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/UniversNOZ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/noz-efe747.jpg",
+      "local_logo_path": "localbrand/logo/noz-efe747.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/UniversNOZ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/noz-efe747.jpg"
+      }
+    },
+    {
+      "displayName": "Ocean State Job Lot",
+      "id": "oceanstatejoblot-c85191",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Ocean State Job Lot",
+        "brand:wikidata": "Q7076076",
+        "name": "Ocean State Job Lot",
+        "shop": "variety_store",
+        "short_name": "Job Lot"
+      },
+      "original_logo_url": "https://graph.facebook.com/OceanStateJobLot/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oceanstatejoblot-c85191.png",
+      "local_logo_path": "localbrand/logo/oceanstatejoblot-c85191.png",
+      "logos": {
+        "original": "https://graph.facebook.com/OceanStateJobLot/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oceanstatejoblot-c85191.png"
+      }
+    },
+    {
+      "displayName": "Offertissima",
+      "id": "offertissima-5f26ca",
+      "locationSet": {
+        "include": [
+          "hr"
+        ]
+      },
+      "tags": {
+        "brand": "Offertissima",
+        "brand:wikidata": "Q125751044",
+        "name": "Offertissima",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/OffertissimaHrvatska/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/offertissima-5f26ca.jpg",
+      "local_logo_path": "localbrand/logo/offertissima-5f26ca.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OffertissimaHrvatska/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/offertissima-5f26ca.jpg"
+      }
+    },
+    {
+      "displayName": "Ollie's Bargain Outlet",
+      "id": "olliesbargainoutlet-c85191",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Ollie's Bargain Outlet",
+        "brand:wikidata": "Q7088304",
+        "name": "Ollie's Bargain Outlet",
+        "shop": "variety_store",
+        "short_name": "Ollie's"
+      },
+      "original_logo_url": "https://graph.facebook.com/olliesbargainoutlet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/olliesbargainoutlet-c85191.png",
+      "local_logo_path": "localbrand/logo/olliesbargainoutlet-c85191.png",
+      "logos": {
+        "original": "https://graph.facebook.com/olliesbargainoutlet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/olliesbargainoutlet-c85191.png"
+      }
+    },
+    {
+      "displayName": "OneBeyond",
+      "id": "onebeyond-622078",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "onebelow"
+      ],
+      "note": "Previously known as OneBelow",
+      "tags": {
+        "brand": "OneBeyond",
+        "brand:wikidata": "Q65079443",
+        "name": "OneBeyond",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/onebeyondretail/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/onebeyond-622078.jpg",
+      "local_logo_path": "localbrand/logo/onebeyond-622078.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/onebeyondretail/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/onebeyond-622078.jpg"
+      }
+    },
+    {
+      "displayName": "ÖoB",
+      "id": "oob-aa81b7",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "matchNames": [
+        "ö&b",
+        "överskottsbolaget"
+      ],
+      "tags": {
+        "brand": "ÖoB",
+        "brand:wikidata": "Q10728663",
+        "name": "ÖoB",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/OoB.se/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oob-aa81b7.jpg",
+      "local_logo_path": "localbrand/logo/oob-aa81b7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OoB.se/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oob-aa81b7.jpg"
+      }
+    },
+    {
+      "displayName": "Otto's",
+      "id": "ottos-793388",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "Otto's",
+        "brand:wikidata": "Q2041507",
+        "name": "Otto's",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/ottos.ch/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ottos-793388.png",
+      "local_logo_path": "localbrand/logo/ottos-793388.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ottos.ch/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ottos-793388.png"
+      }
+    },
+    {
+      "displayName": "Pantai Timor Mart",
+      "id": "pantaitimormart-14cb81",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "alt_name": "Billion",
+        "brand": "Pantai Timor Mart",
+        "brand:wikidata": "Q106989381",
+        "name": "Pantai Timor Mart",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/billiongroup.com.my/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pantaitimormart-14cb81.jpg",
+      "local_logo_path": "localbrand/logo/pantaitimormart-14cb81.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/billiongroup.com.my/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pantaitimormart-14cb81.jpg"
+      }
+    },
+    {
+      "displayName": "Pasar Ekonomi Econsave",
+      "id": "pasarekonomieconsave-14cb81",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "brand": "Pasar Ekonomi Econsave",
+        "brand:en": "Econsave Express",
+        "brand:ml": "Pasar Ekonomi Econsave",
+        "brand:wikidata": "Q61776608",
+        "brand:zh": "宜康省经济市场",
+        "name": "Pasar Ekonomi Econsave",
+        "name:en": "Econsave Express",
+        "name:ml": "Pasar Ekonomi Econsave",
+        "name:zh": "宜康省经济市场",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Econsave_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pasarekonomieconsave-14cb81.png",
+      "local_logo_path": "localbrand/logo/pasarekonomieconsave-14cb81.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/8/83/Econsave_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pasarekonomieconsave-14cb81.png"
+      }
+    },
+    {
+      "displayName": "Pfennigpfeiffer",
+      "id": "pfennigpfeiffer-9f9d31",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Pfennigpfeiffer",
+        "brand:wikidata": "Q2083618",
+        "name": "Pfennigpfeiffer",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Pfennigpfeiffer_Logo_03.2021.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pfennigpfeiffer-9f9d31.svg",
+      "local_logo_path": "localbrand/logo/pfennigpfeiffer-9f9d31.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Pfennigpfeiffer_Logo_03.2021.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pfennigpfeiffer-9f9d31.svg"
+      }
+    },
+    {
+      "displayName": "pOpshelf",
+      "id": "popshelf-c85191",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "pOpshelf",
+        "brand:wikidata": "Q119994868",
+        "name": "pOpshelf",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/popshelf/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/popshelf-c85191.jpg",
+      "local_logo_path": "localbrand/logo/popshelf-c85191.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/popshelf/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/popshelf-c85191.jpg"
+      }
+    },
+    {
+      "displayName": "Postenbörse",
+      "id": "postenborse-9f9d31",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Postenbörse",
+        "brand:wikidata": "Q100780033",
+        "name": "Postenbörse",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/PostenBoerse/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postenborse-9f9d31.jpg",
+      "local_logo_path": "localbrand/logo/postenborse-9f9d31.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PostenBoerse/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postenborse-9f9d31.jpg"
+      }
+    },
+    {
+      "displayName": "Poundland",
+      "id": "poundland-622078",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Poundland",
+        "brand:wikidata": "Q1434528",
+        "name": "Poundland",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Poundland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/poundland-622078.jpg",
+      "local_logo_path": "localbrand/logo/poundland-622078.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Poundland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/poundland-622078.jpg"
+      }
+    },
+    {
+      "displayName": "Poundstretcher",
+      "id": "poundstretcher-622078",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Poundstretcher",
+        "brand:wikidata": "Q7235675",
+        "name": "Poundstretcher",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Poundstretcher/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/poundstretcher-622078.jpg",
+      "local_logo_path": "localbrand/logo/poundstretcher-622078.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Poundstretcher/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/poundstretcher-622078.jpg"
+      }
+    },
+    {
+      "displayName": "QD Stores",
+      "id": "qdstores-622078",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "QD Stores",
+        "brand:wikidata": "Q22101973",
+        "name": "QD Stores",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Red Apple",
+      "id": "redapple-f36c63",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "matchNames": [
+        "red apple stores"
+      ],
+      "tags": {
+        "brand": "Red Apple",
+        "name": "Red Apple",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Roses",
+      "id": "roses-c85191",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Roses",
+        "brand:wikidata": "Q7368644",
+        "name": "Roses",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/rosesdiscountstores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roses-c85191.jpg",
+      "local_logo_path": "localbrand/logo/roses-c85191.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rosesdiscountstores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roses-c85191.jpg"
+      }
+    },
+    {
+      "displayName": "Rusta",
+      "id": "rusta-426073",
+      "locationSet": {
+        "include": [
+          "de",
+          "fi",
+          "no",
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Rusta",
+        "brand:wikidata": "Q10658096",
+        "name": "Rusta",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/rustasverige/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rusta-426073.jpg",
+      "local_logo_path": "localbrand/logo/rusta-426073.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rustasverige/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rusta-426073.jpg"
+      }
+    },
+    {
+      "displayName": "Shiploads",
+      "id": "shiploads-c7d002",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Shiploads",
+        "brand:wikidata": "Q105883436",
+        "name": "Shiploads",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/ShiploadsStores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shiploads-c7d002.jpg",
+      "local_logo_path": "localbrand/logo/shiploads-c7d002.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ShiploadsStores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shiploads-c7d002.jpg"
+      }
+    },
+    {
+      "displayName": "Sqrups",
+      "id": "sqrups-643a1b",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "tags": {
+        "brand": "Sqrups",
+        "brand:wikidata": "Q135914246",
+        "name": "Sqrups",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/sqrups/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sqrups-643a1b.jpg",
+      "local_logo_path": "localbrand/logo/sqrups-643a1b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sqrups/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sqrups-643a1b.jpg"
+      }
+    },
+    {
+      "displayName": "Stokomani",
+      "id": "stokomani-efe747",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "name": "Stokomani",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/stokomani.fr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stokomani-efe747.png",
+      "local_logo_path": "localbrand/logo/stokomani-efe747.png",
+      "logos": {
+        "original": "https://graph.facebook.com/stokomani.fr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stokomani-efe747.png"
+      }
+    },
+    {
+      "displayName": "TA-DA!",
+      "id": "tada-386db3",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "та-да!"
+      ],
+      "tags": {
+        "brand": "TA-DA!",
+        "brand:wikidata": "Q140361785",
+        "name": "TA-DA!",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/TaDaUa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tada-386db3.jpg",
+      "local_logo_path": "localbrand/logo/tada-386db3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TaDaUa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tada-386db3.jpg"
+      }
+    },
+    {
+      "displayName": "TEDi",
+      "id": "tedi-8a061e",
+      "locationSet": {
+        "include": [
+          "at",
+          "bg",
+          "cz",
+          "de",
+          "es",
+          "gb",
+          "hr",
+          "hu",
+          "it",
+          "pl",
+          "pt",
+          "ro",
+          "si",
+          "sk"
+        ]
+      },
+      "matchNames": [
+        "t€di"
+      ],
+      "matchTags": [
+        "shop/houseware"
+      ],
+      "tags": {
+        "brand": "TEDi",
+        "brand:wikidata": "Q1364603",
+        "name": "TEDi",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/TEDi.Deutschland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tedi-8a061e.jpg",
+      "local_logo_path": "localbrand/logo/tedi-8a061e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TEDi.Deutschland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tedi-8a061e.jpg"
+      }
+    },
+    {
+      "displayName": "THANK YOU MART",
+      "id": "thankyoumart-e1b193",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "alt_name:en": "390 Yen Shop",
+        "brand": "THANK YOU MART",
+        "brand:en": "THANK YOU MART",
+        "brand:ja": "サンキューマート",
+        "brand:wikidata": "Q11305509",
+        "name": "THANK YOU MART",
+        "name:en": "THANK YOU MART",
+        "name:ja": "サンキューマート",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/390yenSHOP.ThankYouMart/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thankyoumart-e1b193.jpg",
+      "local_logo_path": "localbrand/logo/thankyoumart-e1b193.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/390yenSHOP.ThankYouMart/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thankyoumart-e1b193.jpg"
+      }
+    },
+    {
+      "displayName": "The 99 Store",
+      "id": "the99store-c85191",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "The 99 Store",
+        "brand:wikidata": "Q122981295",
+        "name": "The 99 Store",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/the99storeofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/the99store-c85191.png",
+      "local_logo_path": "localbrand/logo/the99store-c85191.png",
+      "logos": {
+        "original": "https://graph.facebook.com/the99storeofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/the99store-c85191.png"
+      }
+    },
+    {
+      "displayName": "The Bargain! Shop",
+      "id": "thebargainshop-f36c63",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "The Bargain! Shop",
+        "brand:wikidata": "Q16953670",
+        "name": "The Bargain! Shop",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/TheBargainShopStores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thebargainshop-f36c63.jpg",
+      "local_logo_path": "localbrand/logo/thebargainshop-f36c63.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TheBargainShopStores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thebargainshop-f36c63.jpg"
+      }
+    },
+    {
+      "displayName": "The Crazy Store",
+      "id": "thecrazystore-0bcd25",
+      "locationSet": {
+        "include": [
+          "bw",
+          "na",
+          "sz",
+          "za"
+        ]
+      },
+      "matchTags": [
+        "shop/toys"
+      ],
+      "tags": {
+        "brand": "The Crazy Store",
+        "brand:wikidata": "Q116620808",
+        "name": "The Crazy Store",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/TheCrazyStoreSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thecrazystore-0bcd25.jpg",
+      "local_logo_path": "localbrand/logo/thecrazystore-0bcd25.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TheCrazyStoreSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thecrazystore-0bcd25.jpg"
+      }
+    },
+    {
+      "displayName": "The Original Factory Shop",
+      "id": "theoriginalfactoryshop-622078",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "The Original Factory Shop",
+        "brand:wikidata": "Q7755366",
+        "name": "The Original Factory Shop",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "The Reject Shop",
+      "id": "therejectshop-c7d002",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "The Reject Shop",
+        "brand:wikidata": "Q7760092",
+        "name": "The Reject Shop",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/rejectshop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/therejectshop-c7d002.jpg",
+      "local_logo_path": "localbrand/logo/therejectshop-c7d002.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rejectshop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/therejectshop-c7d002.jpg"
+      }
+    },
+    {
+      "displayName": "Thomas Philipps Sonderposten",
+      "id": "thomasphilippssonderposten-9f9d31",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "thomas philipps"
+      ],
+      "matchTags": [
+        "shop/supermarket"
+      ],
+      "tags": {
+        "brand": "Thomas Philipps Sonderposten",
+        "brand:wikidata": "Q1424735",
+        "name": "Thomas Philipps Sonderposten",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "TJ Hughes",
+      "id": "tjhughes-622078",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "TJ Hughes",
+        "brand:wikidata": "Q7672651",
+        "name": "TJ Hughes",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/tjhughes1912/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tjhughes-622078.jpg",
+      "local_logo_path": "localbrand/logo/tjhughes-622078.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tjhughes1912/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tjhughes-622078.jpg"
+      }
+    },
+    {
+      "displayName": "Tokmanni",
+      "id": "tokmanni-c0b5b4",
+      "locationSet": {
+        "include": [
+          "fi"
+        ]
+      },
+      "tags": {
+        "brand": "Tokmanni",
+        "brand:wikidata": "Q13423470",
+        "name": "Tokmanni",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Tokmanni.fi/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tokmanni-c0b5b4.png",
+      "local_logo_path": "localbrand/logo/tokmanni-c0b5b4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Tokmanni.fi/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tokmanni-c0b5b4.png"
+      }
+    },
+    {
+      "displayName": "Top Shop",
+      "id": "topshop-f153f8",
+      "locationSet": {
+        "include": [
+          "al",
+          "ba",
+          "bg",
+          "cz",
+          "ee",
+          "hr",
+          "hu",
+          "lt",
+          "lv",
+          "md",
+          "me",
+          "mk",
+          "pl",
+          "ro",
+          "rs",
+          "si",
+          "sk",
+          "ua",
+          "xk"
+        ]
+      },
+      "tags": {
+        "brand": "Top Shop",
+        "brand:wikidata": "Q116919675",
+        "name": "Top Shop",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/TopShopSlovenija/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/topshop-f153f8.png",
+      "local_logo_path": "localbrand/logo/topshop-f153f8.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TopShopSlovenija/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/topshop-f153f8.png"
+      }
+    },
+    {
+      "displayName": "Waldo's",
+      "id": "waldos-072262",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Waldo's",
+        "brand:wikidata": "Q6166095",
+        "name": "Waldo's",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/waldosoficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/waldos-072262.png",
+      "local_logo_path": "localbrand/logo/waldos-072262.png",
+      "logos": {
+        "original": "https://graph.facebook.com/waldosoficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/waldos-072262.png"
+      }
+    },
+    {
+      "displayName": "Wilko",
+      "id": "wilko-622078",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "wilko / wilko retail limited",
+        "wilko retail limited"
+      ],
+      "matchTags": [
+        "shop/hardware"
+      ],
+      "tags": {
+        "brand": "Wilko",
+        "brand:wikidata": "Q8002536",
+        "name": "Wilko",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/LoveWilko/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wilko-622078.jpg",
+      "local_logo_path": "localbrand/logo/wilko-622078.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LoveWilko/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wilko-622078.jpg"
+      }
+    },
+    {
+      "displayName": "Wreesmann",
+      "id": "wreesmann-9f9d31",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "aktionshaus wreesmann",
+        "wreesmann sonderpostenmarkt"
+      ],
+      "tags": {
+        "brand": "Wreesmann",
+        "brand:wikidata": "Q108739374",
+        "name": "Wreesmann",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Your Dollar Store With More",
+      "id": "yourdollarstorewithmore-f36c63",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Your Dollar Store With More",
+        "brand:wikidata": "Q8058777",
+        "name": "Your Dollar Store With More",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Аврора",
+      "id": "4b0bb7-386db3",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "aurora multimarket",
+        "avrora multimarket",
+        "аврора мультимаркет",
+        "магазин аврора",
+        "мультимаркет аврора"
+      ],
+      "matchTags": [
+        "shop/houseware",
+        "shop/supermarket"
+      ],
+      "tags": {
+        "brand": "Аврора",
+        "brand:wikidata": "Q117669095",
+        "name": "Аврора",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/avrora.multimarket/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/4b0bb7-386db3.jpg",
+      "local_logo_path": "localbrand/logo/4b0bb7-386db3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/avrora.multimarket/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/4b0bb7-386db3.jpg"
+      }
+    },
+    {
+      "displayName": "Копійочка",
+      "id": "d2493c-386db3",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "копіиочка"
+      ],
+      "tags": {
+        "brand": "Копійочка",
+        "brand:wikidata": "Q118252103",
+        "name": "Копійочка",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/kopiyochka/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/d2493c-386db3.jpg",
+      "local_logo_path": "localbrand/logo/d2493c-386db3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kopiyochka/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/d2493c-386db3.jpg"
+      }
+    },
+    {
+      "displayName": "Три цены",
+      "id": "triceny-3a9b70",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "tags": {
+        "brand": "Три цены",
+        "brand:wikidata": "Q136696223",
+        "name": "Три цены",
+        "name:be": "Тры цэны",
+        "name:be-Latn": "Try ceny",
+        "name:en": "Tri Ceny",
+        "name:uk": "Три ціни",
+        "operator": "ООО «Плэй хард»",
+        "ref:vatin": "193607576",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Червоний маркет",
+      "id": "fd532c-386db3",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "chervonyi market"
+      ],
+      "tags": {
+        "brand": "Червоний маркет",
+        "brand:wikidata": "Q117705449",
+        "name": "Червоний маркет",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/chervonyi.market/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fd532c-386db3.jpg",
+      "local_logo_path": "localbrand/logo/fd532c-386db3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/chervonyi.market/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fd532c-386db3.jpg"
+      }
+    },
+    {
+      "displayName": "ამბარი",
+      "id": "ambari-15e116",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "ამბარი",
+        "brand:ka": "ამბარი",
+        "brand:wikidata": "Q122641630",
+        "name": "ამბარი",
+        "name:en": "Ambari",
+        "name:ka": "ამბარი",
+        "operator": "ვანპრაისი საქართველო",
+        "operator:ka": "ვანპრაისი საქართველო",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/oneprice.ua/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ambari-15e116.jpg",
+      "local_logo_path": "localbrand/logo/ambari-15e116.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/oneprice.ua/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ambari-15e116.jpg"
+      }
+    },
+    {
+      "displayName": "იოიოსო",
+      "id": "yoyoso-15e116",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "იოიოსო",
+        "brand:ka": "იოიოსო",
+        "brand:wikidata": "Q110227939",
+        "name": "იოიოსო",
+        "name:en": "Yoyoso",
+        "name:ka": "იოიოსო",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "მინისო",
+      "id": "miniso-15e116",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "მინისო",
+        "brand:ka": "მინისო",
+        "brand:wikidata": "Q20732498",
+        "name": "მინისო",
+        "name:en": "Miniso",
+        "name:ka": "მინისო",
+        "operator": "მინისო საქართველი",
+        "operator:ka": "მინისო საქართველი",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "ფიქს პრაისი",
+      "id": "fixprice-15e116",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "ფიქს პრაისი",
+        "brand:ka": "ფიქს პრაისი",
+        "brand:wikidata": "Q4038791",
+        "name": "ფიქს პრაისი",
+        "name:en": "Fix Price",
+        "name:ka": "ფიქს პრაისი",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/fixprice.russia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fixprice-15e116.png",
+      "local_logo_path": "localbrand/logo/fixprice-15e116.png",
+      "logos": {
+        "original": "https://graph.facebook.com/fixprice.russia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fixprice-15e116.png"
+      }
+    },
+    {
+      "displayName": "다이소",
+      "id": "daiso-67f747",
+      "locationSet": {
+        "include": [
+          "kr"
+        ]
+      },
+      "tags": {
+        "brand": "다이소",
+        "brand:en": "Daiso",
+        "brand:ja": "ダイソー",
+        "brand:ko": "다이소",
+        "brand:wikidata": "Q12590862",
+        "brand:zh-Hans": "大创百货",
+        "brand:zh-Hant": "大創百貨",
+        "name": "다이소",
+        "name:en": "Daiso",
+        "name:ja": "ダイソー",
+        "name:ko": "다이소",
+        "name:zh-Hans": "大创百货",
+        "name:zh-Hant": "大創百貨",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/daisolife/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daiso-67f747.jpg",
+      "local_logo_path": "localbrand/logo/daiso-67f747.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/daisolife/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daiso-67f747.jpg"
+      }
+    },
+    {
+      "displayName": "キャンドゥ",
+      "id": "cando-e1b193",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "キャンドゥ",
+        "brand:en": "Can Do",
+        "brand:ja": "キャンドゥ",
+        "brand:wikidata": "Q11297367",
+        "name": "キャンドゥ",
+        "name:en": "Can Do",
+        "name:ja": "キャンドゥ",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%82%A5%E3%81%AE%E3%83%AD%E3%82%B4.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cando-e1b193.png",
+      "local_logo_path": "localbrand/logo/cando-e1b193.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%82%A5%E3%81%AE%E3%83%AD%E3%82%B4.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cando-e1b193.png"
+      }
+    },
+    {
+      "displayName": "セリア",
+      "id": "seria-e1b193",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "セリア",
+        "brand:en": "Seria",
+        "brand:ja": "セリア",
+        "brand:wikidata": "Q11314509",
+        "name": "セリア",
+        "name:en": "Seria",
+        "name:ja": "セリア",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Seria_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/seria-e1b193.svg",
+      "local_logo_path": "localbrand/logo/seria-e1b193.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/17/Seria_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/seria-e1b193.svg"
+      }
+    },
+    {
+      "displayName": "ダイソー",
+      "id": "daiso-e1b193",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "ザ・ダイソー",
+        "大創産業"
+      ],
+      "tags": {
+        "brand": "ダイソー",
+        "brand:en": "Daiso",
+        "brand:ja": "ダイソー",
+        "brand:wikidata": "Q866991",
+        "name": "ダイソー",
+        "name:en": "Daiso",
+        "name:ja": "ダイソー",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/daisousaofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daiso-e1b193.jpg",
+      "local_logo_path": "localbrand/logo/daiso-e1b193.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/daisousaofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daiso-e1b193.jpg"
+      }
+    },
+    {
+      "displayName": "ダイレックス",
+      "id": "direx-e1b193",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ダイレックス",
+        "brand:en": "Direx",
+        "brand:ja": "ダイレックス",
+        "brand:wikidata": "Q11317051",
+        "name": "ダイレックス",
+        "name:en": "Direx",
+        "name:ja": "ダイレックス",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Direx_Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/direx-e1b193.svg",
+      "local_logo_path": "localbrand/logo/direx-e1b193.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/5/52/Direx_Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/direx-e1b193.svg"
+      }
+    },
+    {
+      "displayName": "ドン・キホーテ",
+      "id": "donquijote-e1b193",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ドン・キホーテ",
+        "brand:en": "Don Quijote",
+        "brand:ja": "ドン・キホーテ",
+        "brand:wikidata": "Q1185381",
+        "name": "ドン・キホーテ",
+        "name:en": "Don Quijote",
+        "name:ja": "ドン・キホーテ",
+        "shop": "variety_store",
+        "short_name": "ドンキ",
+        "short_name:en": "Donki",
+        "short_name:ja": "ドンキ"
+      },
+      "original_logo_url": "https://graph.facebook.com/donki.majicaglobal.jp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/donquijote-e1b193.jpg",
+      "local_logo_path": "localbrand/logo/donquijote-e1b193.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/donki.majicaglobal.jp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/donquijote-e1b193.jpg"
+      }
+    },
+    {
+      "displayName": "ハンズ",
+      "id": "hands-e1b193",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "東急ハンズ"
+      ],
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "ハンズ",
+        "brand:en": "Hands",
+        "brand:ja": "ハンズ",
+        "brand:wikidata": "Q859212",
+        "name": "ハンズ",
+        "name:en": "Hands",
+        "name:ja": "ハンズ",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "ロフト",
+      "id": "loft-e1b193",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "ロフト",
+        "brand:en": "Loft",
+        "brand:ja": "ロフト",
+        "brand:wikidata": "Q5358428",
+        "name": "ロフト",
+        "name:en": "Loft",
+        "name:ja": "ロフト",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/Only.at.Loft/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/loft-e1b193.jpg",
+      "local_logo_path": "localbrand/logo/loft-e1b193.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Only.at.Loft/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/loft-e1b193.jpg"
+      }
+    },
+    {
+      "displayName": "ワッツ",
+      "id": "watts-e1b193",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ワッツ",
+        "brand:en": "Watts",
+        "brand:ja": "ワッツ",
+        "brand:wikidata": "Q11351402",
+        "name": "ワッツ",
+        "name:en": "Watts",
+        "name:ja": "ワッツ",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/WattsSns/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/watts-e1b193.jpg",
+      "local_logo_path": "localbrand/logo/watts-e1b193.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WattsSns/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/watts-e1b193.jpg"
+      }
+    },
+    {
+      "displayName": "價真棧 PrizeMart",
+      "id": "prizemart-cab585",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "brand": "價真棧 PrizeMart",
+        "brand:en": "PrizeMart",
+        "brand:wikidata": "Q117269648",
+        "brand:zh": "價真棧",
+        "name": "價真棧 PrizeMart",
+        "name:en": "PrizeMart",
+        "name:zh": "價真棧",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/prizemart/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prizemart-cab585.jpg",
+      "local_logo_path": "localbrand/logo/prizemart-cab585.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/prizemart/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prizemart-cab585.jpg"
+      }
+    },
+    {
+      "displayName": "光南大批發",
+      "id": "kuangnanfashionshop-501f06",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "matchNames": [
+        "shiaw shiaw shiaw",
+        "光南唱片",
+        "笑笑笑"
+      ],
+      "tags": {
+        "brand": "光南大批發",
+        "brand:en": "Kuang Nan Fashion Shop",
+        "brand:wikidata": "Q28415164",
+        "brand:zh": "光南大批發",
+        "name": "光南大批發",
+        "name:en": "Kuang Nan Fashion Shop",
+        "name:zh": "光南大批發",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/KUANGNANAV/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kuangnanfashionshop-501f06.png",
+      "local_logo_path": "localbrand/logo/kuangnanfashionshop-501f06.png",
+      "logos": {
+        "original": "https://graph.facebook.com/KUANGNANAV/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kuangnanfashionshop-501f06.png"
+      }
+    },
+    {
+      "displayName": "台隆手創館",
+      "id": "hands-501f06",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "台隆手創館",
+        "brand:en": "Hands",
+        "brand:wikidata": "Q859212",
+        "brand:zh": "台隆手創館",
+        "name": "台隆手創館",
+        "name:en": "Hands",
+        "name:ja": "ハンズ",
+        "name:zh": "台隆手創館",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "名创优品",
+      "id": "miniso-8e7978",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "名创优品",
+        "brand:en": "Miniso",
+        "brand:wikidata": "Q20732498",
+        "brand:zh": "名创优品",
+        "name": "名创优品",
+        "name:en": "Miniso",
+        "name:zh": "名创优品",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "名創優品 Miniso",
+      "id": "miniso-264ade",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "名創優品 Miniso",
+        "brand:en": "Miniso",
+        "brand:wikidata": "Q20732498",
+        "brand:zh": "名創優品",
+        "brand:zh-Hans": "名创优品",
+        "brand:zh-Hant": "名創優品",
+        "name": "名創優品 Miniso",
+        "name:en": "Miniso",
+        "name:zh": "名創優品",
+        "name:zh-Hans": "名创优品",
+        "name:zh-Hant": "名創優品",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "大創百貨",
+      "id": "daiso-501f06",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "大創百貨",
+        "brand:en": "Daiso",
+        "brand:ja": "ダイソー",
+        "brand:wikidata": "Q12590862",
+        "brand:zh": "大創百貨",
+        "name": "大創百貨",
+        "name:en": "Daiso",
+        "name:ja": "ダイソー",
+        "name:zh": "大創百貨",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/daisolife/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daiso-501f06.jpg",
+      "local_logo_path": "localbrand/logo/daiso-501f06.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/daisolife/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daiso-501f06.jpg"
+      }
+    },
+    {
+      "displayName": "小北百貨",
+      "id": "showba-501f06",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "matchNames": [
+        "showba department store",
+        "sio pak",
+        "sio-pak-á",
+        "xiao bei bei huo",
+        "小北仔"
+      ],
+      "tags": {
+        "brand": "小北百貨",
+        "brand:en": "Showba",
+        "brand:wikidata": "Q42308684",
+        "brand:zh-Hans": "小北百货",
+        "brand:zh-Hant": "小北百貨",
+        "name": "小北百貨",
+        "name:en": "Showba",
+        "name:nan": "Sió-pak Pah-hòe",
+        "name:nan-Hant": "小北百貨",
+        "name:nan-Latn-pehoeji": "Sió-pak Pah-hòe",
+        "name:nan-Latn-tailo": "Sió-pak Pah-huè",
+        "name:zh-Hans": "小北百货",
+        "name:zh-Hant": "小北百貨",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://graph.facebook.com/showba/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/showba-501f06.jpg",
+      "local_logo_path": "localbrand/logo/showba-501f06.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/showba/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/showba-501f06.jpg"
+      }
+    },
+    {
+      "displayName": "无印良品",
+      "id": "muji-8e7978",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "matchNames": [
+        "無印良品",
+        "良品計画"
+      ],
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "无印良品",
+        "brand:en": "Muji",
+        "brand:wikidata": "Q708789",
+        "brand:zh": "无印良品",
+        "name": "无印良品",
+        "name:en": "Muji",
+        "name:zh": "无印良品",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/MUJI_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muji-8e7978.svg",
+      "local_logo_path": "localbrand/logo/muji-8e7978.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/6/60/MUJI_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muji-8e7978.svg"
+      }
+    },
+    {
+      "displayName": "無印良品 (日本)",
+      "id": "muji-e1b193",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "良品計画"
+      ],
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "無印良品",
+        "brand:en": "MUJI",
+        "brand:ja": "無印良品",
+        "brand:wikidata": "Q708789",
+        "name": "無印良品",
+        "name:en": "MUJI",
+        "name:ja": "無印良品",
+        "official_name:en": "Ryohin Keikaku",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/MUJI_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muji-e1b193.svg",
+      "local_logo_path": "localbrand/logo/muji-e1b193.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/6/60/MUJI_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muji-e1b193.svg"
+      }
+    },
+    {
+      "displayName": "無印良品 (臺灣)",
+      "id": "muji-501f06",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "matchNames": [
+        "良品計画"
+      ],
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "無印良品",
+        "brand:en": "Muji",
+        "brand:ja": "無印良品",
+        "brand:wikidata": "Q708789",
+        "name": "無印良品",
+        "name:en": "Muji",
+        "name:ja": "無印良品",
+        "official_name:en": "Ryohin Keikaku",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/MUJI_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muji-501f06.svg",
+      "local_logo_path": "localbrand/logo/muji-501f06.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/6/60/MUJI_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muji-501f06.svg"
+      }
+    },
+    {
+      "displayName": "無印良品 Muji",
+      "id": "muji-264ade",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "matchNames": [
+        "良品計画"
+      ],
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "無印良品 Muji",
+        "brand:en": "Muji",
+        "brand:ja": "無印良品",
+        "brand:wikidata": "Q708789",
+        "name": "無印良品 Muji",
+        "name:en": "Muji",
+        "name:ja": "無印良品",
+        "shop": "variety_store"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/MUJI_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muji-264ade.svg",
+      "local_logo_path": "localbrand/logo/muji-264ade.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/6/60/MUJI_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muji-264ade.svg"
+      }
+    }
+  ]
+}

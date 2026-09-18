@@ -1,0 +1,4032 @@
+{
+  "properties": {
+    "path": "brands/leisure/fitness_centre",
+    "exclude": {
+      "generic": [
+        "^academia ao ar livre$",
+        "^fitness cent(re|er)$",
+        "^gimnasio( municipal)?$",
+        "^gym(nase|nasium)?$",
+        "^باشگاه بدنسازی$",
+        "^체육관$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "[solidcore]",
+      "id": "solidcore-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "[solidcore]",
+        "brand:wikidata": "Q124429271",
+        "leisure": "fitness_centre",
+        "name": "Solidcore"
+      },
+      "original_logo_url": "https://graph.facebook.com/solidcorestudio/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/solidcore-809afb.jpg",
+      "local_logo_path": "localbrand/logo/solidcore-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/solidcorestudio/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/solidcore-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "24 Hour Fitness",
+      "id": "24hourfitness-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "24 Hour Fitness",
+        "brand:wikidata": "Q4631849",
+        "leisure": "fitness_centre",
+        "name": "24 Hour Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/24HourFitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/24hourfitness-809afb.jpg",
+      "local_logo_path": "localbrand/logo/24hourfitness-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/24HourFitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/24hourfitness-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "24 Hour Fitness Sport",
+      "id": "24hourfitnesssport-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "24 Hour Fitness Sport",
+        "brand:wikidata": "Q4631849",
+        "leisure": "fitness_centre",
+        "name": "24 Hour Fitness Sport"
+      },
+      "original_logo_url": "https://graph.facebook.com/24HourFitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/24hourfitnesssport-809afb.jpg",
+      "local_logo_path": "localbrand/logo/24hourfitnesssport-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/24HourFitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/24hourfitnesssport-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "24 Hour Fitness Super Sport",
+      "id": "24hourfitnesssupersport-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "24 Hour Fitness Super Sport",
+        "brand:wikidata": "Q4631849",
+        "leisure": "fitness_centre",
+        "name": "24 Hour Fitness Super Sport"
+      },
+      "original_logo_url": "https://graph.facebook.com/24HourFitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/24hourfitnesssupersport-809afb.jpg",
+      "local_logo_path": "localbrand/logo/24hourfitnesssupersport-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/24HourFitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/24hourfitnesssupersport-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "24/7 Fitness",
+      "id": "247fitness-68bf34",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "brand": "24/7 Fitness",
+        "brand:en": "24/7 Fitness",
+        "brand:wikidata": "Q112671987",
+        "leisure": "fitness_centre",
+        "name": "24/7 Fitness",
+        "name:en": "24/7 Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/247fitnesshk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/247fitness-68bf34.jpg",
+      "local_logo_path": "localbrand/logo/247fitness-68bf34.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/247fitnesshk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/247fitness-68bf34.jpg"
+      }
+    },
+    {
+      "displayName": "365 Fit&Co",
+      "id": "365fitandco-69b46a",
+      "locationSet": {
+        "include": [
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "365 Fit&Co",
+        "brand:wikidata": "Q138637805",
+        "leisure": "fitness_centre",
+        "name": "365 Fit&Co"
+      },
+      "original_logo_url": "https://graph.facebook.com/fitco.sk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/365fitandco-69b46a.jpg",
+      "local_logo_path": "localbrand/logo/365fitandco-69b46a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fitco.sk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/365fitandco-69b46a.jpg"
+      }
+    },
+    {
+      "displayName": "9Round",
+      "id": "9round-c8777b",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "9round kickboxing fitness"
+      ],
+      "tags": {
+        "brand": "9Round",
+        "brand:wikidata": "Q120122534",
+        "leisure": "fitness_centre",
+        "name": "9Round",
+        "sport": "kickboxing"
+      },
+      "original_logo_url": "https://graph.facebook.com/9RoundOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/9round-c8777b.png",
+      "local_logo_path": "localbrand/logo/9round-c8777b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/9RoundOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/9round-c8777b.png"
+      }
+    },
+    {
+      "displayName": "Actic",
+      "id": "actic-064b3e",
+      "locationSet": {
+        "include": [
+          "no",
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Actic",
+        "brand:wikidata": "Q10400539",
+        "leisure": "fitness_centre",
+        "name": "Actic"
+      }
+    },
+    {
+      "displayName": "Activ Fitness",
+      "id": "activfitness-2831bb",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "matchNames": [
+        "active fitness"
+      ],
+      "tags": {
+        "brand": "Activ Fitness",
+        "brand:wikidata": "Q123747318",
+        "leisure": "fitness_centre",
+        "name": "Activ Fitness"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/ACTIV_FITNESS_logo.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/activfitness-2831bb.jpg",
+      "local_logo_path": "localbrand/logo/activfitness-2831bb.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/6/60/ACTIV_FITNESS_logo.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/activfitness-2831bb.jpg"
+      }
+    },
+    {
+      "displayName": "Alex Fitness",
+      "id": "alexfitness-2b2465",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Alex Fitness",
+        "brand:wikidata": "Q110300392",
+        "leisure": "fitness_centre",
+        "name": "Alex Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/alexfitness.official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alexfitness-2b2465.jpg",
+      "local_logo_path": "localbrand/logo/alexfitness-2b2465.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/alexfitness.official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alexfitness-2b2465.jpg"
+      }
+    },
+    {
+      "displayName": "Anytime Fitness",
+      "id": "anytimefitness-f3f46d",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "anytime fitness australia"
+      ],
+      "preserveTags": [
+        "^opening_hours"
+      ],
+      "tags": {
+        "brand": "Anytime Fitness",
+        "brand:wikidata": "Q4778364",
+        "leisure": "fitness_centre",
+        "name": "Anytime Fitness",
+        "opening_hours": "24/7"
+      },
+      "original_logo_url": "https://graph.facebook.com/anytimefitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/anytimefitness-f3f46d.jpg",
+      "local_logo_path": "localbrand/logo/anytimefitness-f3f46d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/anytimefitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/anytimefitness-f3f46d.jpg"
+      }
+    },
+    {
+      "displayName": "Bannatyne Health Club",
+      "id": "bannatynehealthclub-2770cb",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Bannatyne Health Club",
+        "brand:wikidata": "Q24993691",
+        "leisure": "fitness_centre",
+        "name": "Bannatyne Health Club"
+      },
+      "original_logo_url": "https://graph.facebook.com/thebannatynegroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bannatynehealthclub-2770cb.jpg",
+      "local_logo_path": "localbrand/logo/bannatynehealthclub-2770cb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/thebannatynegroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bannatynehealthclub-2770cb.jpg"
+      }
+    },
+    {
+      "displayName": "Barre3",
+      "id": "barre3-571e6b",
+      "locationSet": {
+        "include": [
+          "ca",
+          "ph",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Barre3",
+        "brand:wikidata": "Q120601241",
+        "leisure": "fitness_centre",
+        "name": "Barre3",
+        "sport": "barre"
+      },
+      "original_logo_url": "https://graph.facebook.com/barre3company/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barre3-571e6b.png",
+      "local_logo_path": "localbrand/logo/barre3-571e6b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/barre3company/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barre3-571e6b.png"
+      }
+    },
+    {
+      "displayName": "Barry's",
+      "id": "barrys-1b6d66",
+      "locationSet": {
+        "include": [
+          "ae",
+          "au",
+          "ca",
+          "de",
+          "dk",
+          "es",
+          "fr",
+          "gb-eng",
+          "it",
+          "mx",
+          "no",
+          "qa",
+          "se",
+          "sg",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Barry's",
+        "brand:wikidata": "Q96373178",
+        "leisure": "fitness_centre",
+        "name": "Barry's"
+      },
+      "original_logo_url": "https://graph.facebook.com/BarrysBootcamp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barrys-1b6d66.png",
+      "local_logo_path": "localbrand/logo/barrys-1b6d66.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BarrysBootcamp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barrys-1b6d66.png"
+      }
+    },
+    {
+      "displayName": "Basic-Fit",
+      "id": "basicfit-4741dc",
+      "locationSet": {
+        "include": [
+          "be",
+          "es",
+          "fr",
+          "lu",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Basic-Fit",
+        "brand:wikidata": "Q40165577",
+        "leisure": "fitness_centre",
+        "name": "Basic-Fit"
+      },
+      "original_logo_url": "https://graph.facebook.com/BasicFitEspana/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/basicfit-4741dc.jpg",
+      "local_logo_path": "localbrand/logo/basicfit-4741dc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BasicFitEspana/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/basicfit-4741dc.jpg"
+      }
+    },
+    {
+      "displayName": "Beat81",
+      "id": "beat81-6c61eb",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Beat81",
+        "brand:wikidata": "Q129168256",
+        "leisure": "fitness_centre",
+        "name": "Beat81"
+      },
+      "original_logo_url": "https://graph.facebook.com/beat81berlin/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beat81-6c61eb.png",
+      "local_logo_path": "localbrand/logo/beat81-6c61eb.png",
+      "logos": {
+        "original": "https://graph.facebook.com/beat81berlin/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beat81-6c61eb.png"
+      }
+    },
+    {
+      "displayName": "Beone",
+      "id": "beone-14abfa",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "matchNames": [
+        "beone fitness & sport"
+      ],
+      "tags": {
+        "brand": "Beone",
+        "brand:wikidata": "Q126180054",
+        "leisure": "fitness_centre",
+        "name": "Beone"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Logotipo_BeOne.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beone-14abfa.png",
+      "local_logo_path": "localbrand/logo/beone-14abfa.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/00/Logotipo_BeOne.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beone-14abfa.png"
+      }
+    },
+    {
+      "displayName": "Better (Greenwich Leisure Limited)",
+      "id": "better-2770cb",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "better leisure centres"
+      ],
+      "tags": {
+        "brand": "Better",
+        "brand:wikidata": "Q109721926",
+        "fee": "yes",
+        "leisure": "fitness_centre",
+        "operator": "Greenwich Leisure Limited",
+        "operator:wikidata": "Q5604859"
+      },
+      "original_logo_url": "https://graph.facebook.com/BetterUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/better-2770cb.png",
+      "local_logo_path": "localbrand/logo/better-2770cb.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BetterUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/better-2770cb.png"
+      }
+    },
+    {
+      "displayName": "Blast Fitness",
+      "id": "blastfitness-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Blast Fitness",
+        "brand:wikidata": "Q122958014",
+        "leisure": "fitness_centre",
+        "name": "Blast Fitness"
+      }
+    },
+    {
+      "displayName": "Blink Fitness",
+      "id": "blinkfitness-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "blink"
+      ],
+      "tags": {
+        "brand": "Blink Fitness",
+        "brand:wikidata": "Q65621568",
+        "leisure": "fitness_centre",
+        "name": "Blink Fitness"
+      }
+    },
+    {
+      "displayName": "Bluefit",
+      "id": "bluefit-777e0e",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Bluefit",
+        "brand:wikidata": "Q111154874",
+        "leisure": "fitness_centre",
+        "name": "Bluefit"
+      },
+      "original_logo_url": "https://graph.facebook.com/bluefitacademia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bluefit-777e0e.jpg",
+      "local_logo_path": "localbrand/logo/bluefit-777e0e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bluefitacademia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bluefit-777e0e.jpg"
+      }
+    },
+    {
+      "displayName": "Bodystreet",
+      "id": "bodystreet-c8777b",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Bodystreet",
+        "brand:wikidata": "Q117880186",
+        "leisure": "fitness_centre",
+        "name": "Bodystreet"
+      },
+      "original_logo_url": "https://graph.facebook.com/bodystreet/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bodystreet-c8777b.png",
+      "local_logo_path": "localbrand/logo/bodystreet-c8777b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/bodystreet/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bodystreet-c8777b.png"
+      }
+    },
+    {
+      "displayName": "Bodytech",
+      "id": "bodytech-526e49",
+      "locationSet": {
+        "include": [
+          "cl",
+          "co",
+          "pe"
+        ]
+      },
+      "matchNames": [
+        "boditech",
+        "bodytek"
+      ],
+      "tags": {
+        "brand": "Bodytech",
+        "brand:wikidata": "Q16538274",
+        "leisure": "fitness_centre",
+        "name": "Bodytech"
+      },
+      "original_logo_url": "https://graph.facebook.com/clubbodytech/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bodytech-526e49.jpg",
+      "local_logo_path": "localbrand/logo/bodytech-526e49.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/clubbodytech/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bodytech-526e49.jpg"
+      }
+    },
+    {
+      "displayName": "Bodytech (Brasil)",
+      "id": "bodytech-777e0e",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "matchNames": [
+        "boditech",
+        "bodytek"
+      ],
+      "tags": {
+        "brand": "Bodytech",
+        "brand:wikidata": "Q100273505",
+        "leisure": "fitness_centre",
+        "name": "Bodytech"
+      },
+      "original_logo_url": "https://graph.facebook.com/bodytech.academias/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bodytech-777e0e.png",
+      "local_logo_path": "localbrand/logo/bodytech-777e0e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/bodytech.academias/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bodytech-777e0e.png"
+      }
+    },
+    {
+      "displayName": "Burn Boot Camp",
+      "id": "burnbootcamp-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Burn Boot Camp",
+        "brand:wikidata": "Q83375810",
+        "leisure": "fitness_centre",
+        "name": "Burn Boot Camp"
+      },
+      "original_logo_url": "https://graph.facebook.com/BurnBootCamp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/burnbootcamp-809afb.jpg",
+      "local_logo_path": "localbrand/logo/burnbootcamp-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BurnBootCamp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/burnbootcamp-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "Buzz Gym",
+      "id": "buzzgym-a89c8d",
+      "locationSet": {
+        "include": [
+          "gb-eng"
+        ]
+      },
+      "preserveTags": [
+        "^opening_hours"
+      ],
+      "tags": {
+        "brand": "Buzz Gym",
+        "brand:wikidata": "Q117834439",
+        "leisure": "fitness_centre",
+        "name": "Buzz Gym",
+        "opening_hours": "24/7"
+      },
+      "original_logo_url": "https://graph.facebook.com/BuzzGymHQ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buzzgym-a89c8d.jpg",
+      "local_logo_path": "localbrand/logo/buzzgym-a89c8d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BuzzGymHQ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buzzgym-a89c8d.jpg"
+      }
+    },
+    {
+      "displayName": "Calypso",
+      "id": "calypso-78c701",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "matchNames": [
+        "calypso fitness club"
+      ],
+      "tags": {
+        "brand": "Calypso",
+        "brand:wikidata": "Q126195554",
+        "leisure": "fitness_centre",
+        "name": "Calypso"
+      },
+      "original_logo_url": "https://graph.facebook.com/calypsofitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/calypso-78c701.jpg",
+      "local_logo_path": "localbrand/logo/calypso-78c701.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/calypsofitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/calypso-78c701.jpg"
+      }
+    },
+    {
+      "displayName": "Celebrity Fitness",
+      "id": "celebrityfitness-412a8d",
+      "locationSet": {
+        "include": [
+          "id",
+          "my",
+          "ph",
+          "sg",
+          "th"
+        ]
+      },
+      "tags": {
+        "brand": "Celebrity Fitness",
+        "brand:wikidata": "Q5057734",
+        "leisure": "fitness_centre",
+        "name": "Celebrity Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/CelebrityFitnessID/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/celebrityfitness-412a8d.jpg",
+      "local_logo_path": "localbrand/logo/celebrityfitness-412a8d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CelebrityFitnessID/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/celebrityfitness-412a8d.jpg"
+      }
+    },
+    {
+      "displayName": "chocoZAP",
+      "id": "chocozap-1008e2",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "chocoZAP",
+        "brand:en": "chocoZAP",
+        "brand:ja": "chocoZAP",
+        "brand:wikidata": "Q117936896",
+        "leisure": "fitness_centre",
+        "name": "chocoZAP",
+        "name:en": "chocoZAP",
+        "name:ja": "chocoZAP"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/ChocoZAP_Yamatok%C5%8Driyama-Tsutsui_shop.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chocozap-1008e2.jpg",
+      "local_logo_path": "localbrand/logo/chocozap-1008e2.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/ChocoZAP_Yamatok%C5%8Driyama-Tsutsui_shop.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chocozap-1008e2.jpg"
+      }
+    },
+    {
+      "displayName": "City Club",
+      "id": "cityclub-a9ff46",
+      "locationSet": {
+        "include": [
+          "ma"
+        ]
+      },
+      "tags": {
+        "brand": "City Club",
+        "brand:wikidata": "Q135911738",
+        "leisure": "fitness_centre",
+        "name": "City Club"
+      },
+      "original_logo_url": "https://graph.facebook.com/CityClubMaroc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cityclub-a9ff46.jpg",
+      "local_logo_path": "localbrand/logo/cityclub-a9ff46.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CityClubMaroc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cityclub-a9ff46.jpg"
+      }
+    },
+    {
+      "displayName": "CityFitness",
+      "id": "cityfitness-745622",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "CityFitness",
+        "brand:wikidata": "Q110923303",
+        "leisure": "fitness_centre",
+        "name": "CityFitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/cityfitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cityfitness-745622.png",
+      "local_logo_path": "localbrand/logo/cityfitness-745622.png",
+      "logos": {
+        "original": "https://graph.facebook.com/cityfitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cityfitness-745622.png"
+      }
+    },
+    {
+      "displayName": "Clever fit",
+      "id": "cleverfit-1d011d",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Clever fit",
+        "brand:wikidata": "Q27909675",
+        "leisure": "fitness_centre",
+        "name": "Clever fit"
+      },
+      "original_logo_url": "https://graph.facebook.com/cleverfit/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cleverfit-1d011d.jpg",
+      "local_logo_path": "localbrand/logo/cleverfit-1d011d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/cleverfit/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cleverfit-1d011d.jpg"
+      }
+    },
+    {
+      "displayName": "Club Fitness",
+      "id": "clubfitness-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Club Fitness",
+        "brand:wikidata": "Q123014490",
+        "leisure": "fitness_centre",
+        "name": "Club Fitness"
+      }
+    },
+    {
+      "displayName": "Club Pilates",
+      "id": "clubpilates-9a38b2",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Club Pilates",
+        "brand:wikidata": "Q109328844",
+        "leisure": "fitness_centre",
+        "name": "Club Pilates",
+        "sport": "pilates"
+      },
+      "original_logo_url": "https://graph.facebook.com/clubpilates/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/clubpilates-9a38b2.jpg",
+      "local_logo_path": "localbrand/logo/clubpilates-9a38b2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/clubpilates/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/clubpilates-9a38b2.jpg"
+      }
+    },
+    {
+      "displayName": "CorePower Yoga",
+      "id": "corepoweryoga-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "corepower"
+      ],
+      "matchTags": [
+        "club/sport"
+      ],
+      "tags": {
+        "brand": "CorePower Yoga",
+        "brand:wikidata": "Q21015663",
+        "leisure": "fitness_centre",
+        "name": "CorePower Yoga",
+        "sport": "yoga"
+      },
+      "original_logo_url": "https://graph.facebook.com/CorePowerYoga/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/corepoweryoga-809afb.jpg",
+      "local_logo_path": "localbrand/logo/corepoweryoga-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CorePowerYoga/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/corepoweryoga-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "CrossFit",
+      "id": "crossfit-c8777b",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "CrossFit",
+        "brand:wikidata": "Q2072840",
+        "leisure": "fitness_centre",
+        "name": "CrossFit"
+      },
+      "original_logo_url": "https://graph.facebook.com/crossfit/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crossfit-c8777b.jpg",
+      "local_logo_path": "localbrand/logo/crossfit-c8777b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/crossfit/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crossfit-c8777b.jpg"
+      }
+    },
+    {
+      "displayName": "Crunch Fitness",
+      "id": "crunchfitness-39883b",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "crunch"
+      ],
+      "tags": {
+        "brand": "Crunch Fitness",
+        "brand:wikidata": "Q5190093",
+        "leisure": "fitness_centre",
+        "name": "Crunch Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/CRUNCH/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crunchfitness-39883b.jpg",
+      "local_logo_path": "localbrand/logo/crunchfitness-39883b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CRUNCH/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crunchfitness-39883b.jpg"
+      }
+    },
+    {
+      "displayName": "cult.fit",
+      "id": "cultfit-111905",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "cult.fit",
+        "brand:wikidata": "Q121289250",
+        "leisure": "fitness_centre",
+        "name": "cult.fit"
+      },
+      "original_logo_url": "https://graph.facebook.com/wearecultofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cultfit-111905.jpg",
+      "local_logo_path": "localbrand/logo/cultfit-111905.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/wearecultofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cultfit-111905.jpg"
+      }
+    },
+    {
+      "displayName": "Curves",
+      "id": "curves-f3f46d",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "Curves",
+        "brand:wikidata": "Q5196080",
+        "leisure": "fitness_centre",
+        "name": "Curves"
+      }
+    },
+    {
+      "displayName": "CycleBar",
+      "id": "cyclebar-3542a4",
+      "locationSet": {
+        "include": [
+          "au",
+          "jp",
+          "kw",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "CycleBar",
+        "brand:wikidata": "Q121459827",
+        "leisure": "fitness_centre",
+        "name": "CycleBar",
+        "sport": "cycling"
+      },
+      "original_logo_url": "https://graph.facebook.com/CycleBar/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cyclebar-3542a4.jpg",
+      "local_logo_path": "localbrand/logo/cyclebar-3542a4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CycleBar/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cyclebar-3542a4.jpg"
+      }
+    },
+    {
+      "displayName": "EasyFitness",
+      "id": "easyfitness-d6de51",
+      "locationSet": {
+        "include": [
+          "at",
+          "de",
+          "es"
+        ]
+      },
+      "tags": {
+        "brand": "EasyFitness",
+        "brand:wikidata": "Q106166703",
+        "leisure": "fitness_centre",
+        "name": "EasyFitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/easyfitness.club/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easyfitness-d6de51.jpg",
+      "local_logo_path": "localbrand/logo/easyfitness-d6de51.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/easyfitness.club/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easyfitness-d6de51.jpg"
+      }
+    },
+    {
+      "displayName": "Éconofitness",
+      "id": "econofitness-122858",
+      "locationSet": {
+        "include": [
+          "ca-on.geojson",
+          "ca-qc.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Éconofitness",
+        "brand:wikidata": "Q123073582",
+        "leisure": "fitness_centre",
+        "name": "Éconofitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/econofitnessqc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/econofitness-122858.jpg",
+      "local_logo_path": "localbrand/logo/econofitness-122858.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/econofitnessqc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/econofitness-122858.jpg"
+      }
+    },
+    {
+      "displayName": "énergie Fitness",
+      "id": "energiefitness-db9195",
+      "locationSet": {
+        "include": [
+          "bh",
+          "es",
+          "gb",
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "énergie Fitness",
+        "brand:wikidata": "Q109855553",
+        "leisure": "fitness_centre",
+        "name": "énergie Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/EnergieFitnessClubsUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/energiefitness-db9195.jpg",
+      "local_logo_path": "localbrand/logo/energiefitness-db9195.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EnergieFitnessClubsUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/energiefitness-db9195.jpg"
+      }
+    },
+    {
+      "displayName": "EōS Fitness",
+      "id": "eosfitness-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "EōS Fitness",
+        "brand:wikidata": "Q127770873",
+        "leisure": "fitness_centre",
+        "name": "EōS Fitness"
+      }
+    },
+    {
+      "displayName": "Equinox",
+      "id": "equinox-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Equinox",
+        "brand:wikidata": "Q5384535",
+        "leisure": "fitness_centre",
+        "name": "Equinox"
+      },
+      "original_logo_url": "https://graph.facebook.com/Equinox/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/equinox-809afb.jpg",
+      "local_logo_path": "localbrand/logo/equinox-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Equinox/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/equinox-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "Esporta Fitness",
+      "id": "esportafitness-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Esporta Fitness",
+        "brand:wikidata": "Q109354882",
+        "leisure": "fitness_centre",
+        "name": "Esporta Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/esportafitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/esportafitness-809afb.jpg",
+      "local_logo_path": "localbrand/logo/esportafitness-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/esportafitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/esportafitness-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "Everlast Gyms",
+      "id": "everlastgyms-2770cb",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "alt_name": "Everlast Fitness Club",
+        "brand": "Everlast Gyms",
+        "brand:wikidata": "Q112947134",
+        "leisure": "fitness_centre",
+        "name": "Everlast Gyms"
+      },
+      "original_logo_url": "https://graph.facebook.com/EverlastGyms/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/everlastgyms-2770cb.jpg",
+      "local_logo_path": "localbrand/logo/everlastgyms-2770cb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EverlastGyms/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/everlastgyms-2770cb.jpg"
+      }
+    },
+    {
+      "displayName": "F45 Training",
+      "id": "f45training-e76881",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "gb",
+          "nz",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "F45 Training",
+        "brand:wikidata": "Q64390973",
+        "leisure": "fitness_centre",
+        "name": "F45 Training",
+        "short_name": "F45"
+      },
+      "original_logo_url": "https://graph.facebook.com/F45FunctionalTraining/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/f45training-e76881.jpg",
+      "local_logo_path": "localbrand/logo/f45training-e76881.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/F45FunctionalTraining/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/f45training-e76881.jpg"
+      }
+    },
+    {
+      "displayName": "Fernwood Fitness",
+      "id": "fernwoodfitness-c88de3",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Fernwood Fitness",
+        "brand:wikidata": "Q115668528",
+        "female": "yes",
+        "leisure": "fitness_centre",
+        "name": "Fernwood Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/FernwoodFitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fernwoodfitness-c88de3.jpg",
+      "local_logo_path": "localbrand/logo/fernwoodfitness-c88de3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FernwoodFitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fernwoodfitness-c88de3.jpg"
+      }
+    },
+    {
+      "displayName": "Fit Express",
+      "id": "fitexpress-fe49f8",
+      "locationSet": {
+        "include": [
+          "es",
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Fit Express",
+        "brand:wikidata": "Q129424680",
+        "leisure": "fitness_centre",
+        "name": "Fit Express"
+      }
+    },
+    {
+      "displayName": "Fit Hub",
+      "id": "fithub-5c610e",
+      "locationSet": {
+        "include": [
+          "id"
+        ]
+      },
+      "tags": {
+        "brand": "Fit Hub",
+        "brand:wikidata": "Q138671218",
+        "leisure": "fitness_centre",
+        "name": "Fit Hub"
+      },
+      "original_logo_url": "https://graph.facebook.com/fithub.id/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fithub-5c610e.jpg",
+      "local_logo_path": "localbrand/logo/fithub-5c610e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fithub.id/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fithub-5c610e.jpg"
+      }
+    },
+    {
+      "displayName": "Fit4Less (Canada)",
+      "id": "fit4less-aa8143",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Fit4Less",
+        "brand:wikidata": "Q64821050",
+        "leisure": "fitness_centre",
+        "name": "Fit4Less"
+      },
+      "original_logo_url": "https://graph.facebook.com/fit4lesscanada/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fit4less-aa8143.png",
+      "local_logo_path": "localbrand/logo/fit4less-aa8143.png",
+      "logos": {
+        "original": "https://graph.facebook.com/fit4lesscanada/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fit4less-aa8143.png"
+      }
+    },
+    {
+      "displayName": "Fit4less (UK)",
+      "id": "fit4less-2770cb",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Fit4less",
+        "brand:wikidata": "Q64821053",
+        "leisure": "fitness_centre",
+        "name": "Fit4less"
+      },
+      "original_logo_url": "https://graph.facebook.com/Fit4lessUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fit4less-2770cb.jpg",
+      "local_logo_path": "localbrand/logo/fit4less-2770cb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Fit4lessUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fit4less-2770cb.jpg"
+      }
+    },
+    {
+      "displayName": "FitActive",
+      "id": "fitactive-b06a0d",
+      "locationSet": {
+        "include": [
+          "br",
+          "ch",
+          "es",
+          "it",
+          "ro"
+        ]
+      },
+      "tags": {
+        "brand": "FitActive",
+        "brand:wikidata": "Q123807531",
+        "leisure": "fitness_centre",
+        "name": "FitActive"
+      },
+      "original_logo_url": "https://graph.facebook.com/FitActiveFitnessXtutti/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitactive-b06a0d.jpg",
+      "local_logo_path": "localbrand/logo/fitactive-b06a0d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FitActiveFitnessXtutti/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitactive-b06a0d.jpg"
+      }
+    },
+    {
+      "displayName": "Fitbox",
+      "id": "fitbox-c83d0c",
+      "locationSet": {
+        "include": [
+          "at",
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Fitbox",
+        "brand:wikidata": "Q129168234",
+        "leisure": "fitness_centre",
+        "name": "Fitbox"
+      },
+      "original_logo_url": "https://graph.facebook.com/fitbox/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitbox-c83d0c.jpg",
+      "local_logo_path": "localbrand/logo/fitbox-c83d0c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fitbox/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitbox-c83d0c.jpg"
+      }
+    },
+    {
+      "displayName": "FITINN",
+      "id": "fitinn-48d938",
+      "locationSet": {
+        "include": [
+          "150"
+        ]
+      },
+      "tags": {
+        "brand": "FITINN",
+        "brand:wikidata": "Q1245564",
+        "leisure": "fitness_centre",
+        "name": "FITINN"
+      },
+      "original_logo_url": "https://graph.facebook.com/fitinn.at/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitinn-48d938.jpg",
+      "local_logo_path": "localbrand/logo/fitinn-48d938.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fitinn.at/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitinn-48d938.jpg"
+      }
+    },
+    {
+      "displayName": "Fitness 19",
+      "id": "fitness19-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Fitness 19",
+        "brand:wikidata": "Q121787953",
+        "leisure": "fitness_centre",
+        "name": "Fitness 19"
+      },
+      "original_logo_url": "https://graph.facebook.com/Fitness19Gyms/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitness19-809afb.png",
+      "local_logo_path": "localbrand/logo/fitness19-809afb.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Fitness19Gyms/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitness19-809afb.png"
+      }
+    },
+    {
+      "displayName": "Fitness First",
+      "id": "fitnessfirst-6ff977",
+      "locationSet": {
+        "include": [
+          "ae",
+          "au",
+          "de",
+          "gb",
+          "ph",
+          "th"
+        ]
+      },
+      "tags": {
+        "brand": "Fitness First",
+        "brand:wikidata": "Q127120",
+        "leisure": "fitness_centre",
+        "name": "Fitness First"
+      },
+      "original_logo_url": "https://graph.facebook.com/FitnessFirstGER/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitnessfirst-6ff977.jpg",
+      "local_logo_path": "localbrand/logo/fitnessfirst-6ff977.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FitnessFirstGER/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitnessfirst-6ff977.jpg"
+      }
+    },
+    {
+      "displayName": "Fitness First Ladies",
+      "id": "fitnessfirstladies-6c61eb",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Fitness First",
+        "brand:wikidata": "Q127120",
+        "female": "yes",
+        "leisure": "fitness_centre",
+        "name": "Fitness First Ladies"
+      },
+      "original_logo_url": "https://graph.facebook.com/FitnessFirstGER/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitnessfirstladies-6c61eb.jpg",
+      "local_logo_path": "localbrand/logo/fitnessfirstladies-6c61eb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FitnessFirstGER/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitnessfirstladies-6c61eb.jpg"
+      }
+    },
+    {
+      "displayName": "Fitness House",
+      "id": "fitnesshouse-2b2465",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Fitness House",
+        "brand:wikidata": "Q104213893",
+        "leisure": "fitness_centre",
+        "name": "Fitness House"
+      }
+    },
+    {
+      "displayName": "Fitness Park",
+      "id": "fitnesspark-5ce32b",
+      "locationSet": {
+        "include": [
+          "es",
+          "fr",
+          "ma"
+        ]
+      },
+      "tags": {
+        "brand": "Fitness Park",
+        "brand:wikidata": "Q102351191",
+        "leisure": "fitness_centre",
+        "name": "Fitness Park"
+      },
+      "original_logo_url": "https://graph.facebook.com/fitnessparkofficiel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitnesspark-5ce32b.jpg",
+      "local_logo_path": "localbrand/logo/fitnesspark-5ce32b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fitnessparkofficiel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitnesspark-5ce32b.jpg"
+      }
+    },
+    {
+      "displayName": "Fitness Together",
+      "id": "fitnesstogether-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Fitness Together",
+        "brand:wikidata": "Q121788621",
+        "leisure": "fitness_centre",
+        "name": "Fitness Together"
+      },
+      "original_logo_url": "https://graph.facebook.com/fitnesstogether/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitnesstogether-809afb.jpg",
+      "local_logo_path": "localbrand/logo/fitnesstogether-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fitnesstogether/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitnesstogether-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "Fitness24Seven",
+      "id": "fitness24seven-46465b",
+      "locationSet": {
+        "include": [
+          "co",
+          "fi",
+          "no",
+          "se",
+          "th"
+        ]
+      },
+      "tags": {
+        "brand": "Fitness24Seven",
+        "brand:wikidata": "Q61112447",
+        "leisure": "fitness_centre",
+        "name": "Fitness24Seven"
+      },
+      "original_logo_url": "https://graph.facebook.com/Fitness24SevenSweden/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitness24seven-46465b.jpg",
+      "local_logo_path": "localbrand/logo/fitness24seven-46465b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Fitness24SevenSweden/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitness24seven-46465b.jpg"
+      }
+    },
+    {
+      "displayName": "FITSEVENELEVEN",
+      "id": "fitseveneleven-6c61eb",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "FITSEVENELEVEN",
+        "brand:wikidata": "Q129424994",
+        "leisure": "fitness_centre",
+        "name": "FITSEVENELEVEN"
+      },
+      "original_logo_url": "https://graph.facebook.com/FITSEVENELEVEN/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitseveneleven-6c61eb.jpg",
+      "local_logo_path": "localbrand/logo/fitseveneleven-6c61eb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FITSEVENELEVEN/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitseveneleven-6c61eb.jpg"
+      }
+    },
+    {
+      "displayName": "FitX",
+      "id": "fitx-6c61eb",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "FitX",
+        "brand:wikidata": "Q29031618",
+        "leisure": "fitness_centre",
+        "name": "FitX"
+      },
+      "original_logo_url": "https://graph.facebook.com/xuperdrauf/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitx-6c61eb.jpg",
+      "local_logo_path": "localbrand/logo/fitx-6c61eb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/xuperdrauf/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitx-6c61eb.jpg"
+      }
+    },
+    {
+      "displayName": "Form Factory",
+      "id": "formfactory-557990",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Form Factory",
+        "brand:wikidata": "Q136752478",
+        "leisure": "fitness_centre",
+        "name": "Form Factory"
+      },
+      "original_logo_url": "https://graph.facebook.com/formfactoryfitcenter/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/formfactory-557990.jpg",
+      "local_logo_path": "localbrand/logo/formfactory-557990.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/formfactoryfitcenter/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/formfactory-557990.jpg"
+      }
+    },
+    {
+      "displayName": "Frame",
+      "id": "frame-fd4e20",
+      "locationSet": {
+        "include": [
+          "gb-lon.geojson"
+        ]
+      },
+      "matchNames": [
+        "frame fitness"
+      ],
+      "tags": {
+        "brand": "Frame",
+        "brand:wikidata": "Q110300356",
+        "leisure": "fitness_centre",
+        "name": "Frame"
+      },
+      "original_logo_url": "https://graph.facebook.com/moveyourframe/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/frame-fd4e20.jpg",
+      "local_logo_path": "localbrand/logo/frame-fd4e20.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/moveyourframe/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/frame-fd4e20.jpg"
+      }
+    },
+    {
+      "displayName": "Friskis & Svettis",
+      "id": "friskisandsvettis-f113b7",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "matchNames": [
+        "friskis",
+        "friskis o svettis",
+        "friskis och svettis"
+      ],
+      "tags": {
+        "brand": "Friskis & Svettis",
+        "brand:wikidata": "Q1796631",
+        "leisure": "fitness_centre",
+        "name": "Friskis & Svettis"
+      },
+      "original_logo_url": "https://graph.facebook.com/FriskisSvettisRiks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/friskisandsvettis-f113b7.png",
+      "local_logo_path": "localbrand/logo/friskisandsvettis-f113b7.png",
+      "logos": {
+        "original": "https://graph.facebook.com/FriskisSvettisRiks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/friskisandsvettis-f113b7.png"
+      }
+    },
+    {
+      "displayName": "FTL Gym",
+      "id": "ftlgym-5c610e",
+      "locationSet": {
+        "include": [
+          "id"
+        ]
+      },
+      "tags": {
+        "brand": "FTL Gym",
+        "brand:wikidata": "Q138670800",
+        "leisure": "fitness_centre",
+        "name": "FTL Gym"
+      },
+      "original_logo_url": "https://graph.facebook.com/ftlgym.id/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ftlgym-5c610e.jpg",
+      "local_logo_path": "localbrand/logo/ftlgym-5c610e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ftlgym.id/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ftlgym-5c610e.jpg"
+      }
+    },
+    {
+      "displayName": "Genesis Health and Fitness",
+      "id": "genesishealthandfitness-c88de3",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Genesis Health and Fitness",
+        "brand:wikidata": "Q122949631",
+        "leisure": "fitness_centre",
+        "name": "Genesis Health and Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/GenesisFitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/genesishealthandfitness-c88de3.png",
+      "local_logo_path": "localbrand/logo/genesishealthandfitness-c88de3.png",
+      "logos": {
+        "original": "https://graph.facebook.com/GenesisFitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/genesishealthandfitness-c88de3.png"
+      }
+    },
+    {
+      "displayName": "Gold's Gym",
+      "id": "goldsgym-72c4b8",
+      "locationSet": {
+        "include": [
+          "ae",
+          "ca",
+          "in",
+          "ph",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Gold's Gym",
+        "brand:wikidata": "Q1536234",
+        "leisure": "fitness_centre",
+        "name": "Gold's Gym"
+      },
+      "original_logo_url": "https://graph.facebook.com/goldsgym/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goldsgym-72c4b8.jpg",
+      "local_logo_path": "localbrand/logo/goldsgym-72c4b8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/goldsgym/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goldsgym-72c4b8.jpg"
+      }
+    },
+    {
+      "displayName": "GoodLife Fitness",
+      "id": "goodlifefitness-aa8143",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "GoodLife Fitness",
+        "brand:wikidata": "Q3110654",
+        "leisure": "fitness_centre",
+        "name": "GoodLife Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/goodlifefitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goodlifefitness-aa8143.jpg",
+      "local_logo_path": "localbrand/logo/goodlifefitness-aa8143.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/goodlifefitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goodlifefitness-aa8143.jpg"
+      }
+    },
+    {
+      "displayName": "GreenTheory",
+      "id": "greentheory-fa93e0",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "GreenTheory",
+        "brand:wikidata": "Q140700799",
+        "leisure": "fitness_centre",
+        "name": "GreenTheory"
+      }
+    },
+    {
+      "displayName": "High5",
+      "id": "high5-6c61eb",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "High5",
+        "brand:wikidata": "Q116183459",
+        "leisure": "fitness_centre",
+        "name": "High5"
+      }
+    },
+    {
+      "displayName": "Holmes Place",
+      "id": "holmesplace-901199",
+      "locationSet": {
+        "include": [
+          "150",
+          "il"
+        ]
+      },
+      "tags": {
+        "brand": "Holmes Place",
+        "brand:wikidata": "Q15815819",
+        "leisure": "fitness_centre",
+        "name": "Holmes Place"
+      },
+      "original_logo_url": "https://graph.facebook.com/HolmesPlace/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/holmesplace-901199.png",
+      "local_logo_path": "localbrand/logo/holmesplace-901199.png",
+      "logos": {
+        "original": "https://graph.facebook.com/HolmesPlace/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/holmesplace-901199.png"
+      }
+    },
+    {
+      "displayName": "Hotworx",
+      "id": "hotworx-cee411",
+      "locationSet": {
+        "include": [
+          "au",
+          "ie",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Hotworx",
+        "brand:wikidata": "Q115527690",
+        "leisure": "fitness_centre",
+        "name": "Hotworx"
+      },
+      "original_logo_url": "https://graph.facebook.com/officialhotworx/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hotworx-cee411.png",
+      "local_logo_path": "localbrand/logo/hotworx-cee411.png",
+      "logos": {
+        "original": "https://graph.facebook.com/officialhotworx/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hotworx-cee411.png"
+      }
+    },
+    {
+      "displayName": "iLoveKickboxing",
+      "id": "ilovekickboxing-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "iLoveKickboxing",
+        "brand:wikidata": "Q122433514",
+        "leisure": "fitness_centre",
+        "name": "iLoveKickboxing"
+      },
+      "original_logo_url": "https://graph.facebook.com/ilovekickboxing/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ilovekickboxing-809afb.jpg",
+      "local_logo_path": "localbrand/logo/ilovekickboxing-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ilovekickboxing/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ilovekickboxing-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "INJOY",
+      "id": "injoy-c83d0c",
+      "locationSet": {
+        "include": [
+          "at",
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "INJOY Fitness",
+        "brand:wikidata": "Q1663622",
+        "leisure": "fitness_centre",
+        "name": "INJOY"
+      }
+    },
+    {
+      "displayName": "Jazzercise",
+      "id": "jazzercise-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "leisure/dance"
+      ],
+      "tags": {
+        "brand": "Jazzercise",
+        "brand:wikidata": "Q6168434",
+        "leisure": "fitness_centre",
+        "name": "Jazzercise"
+      },
+      "original_logo_url": "https://graph.facebook.com/Jazzercise/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jazzercise-809afb.jpg",
+      "local_logo_path": "localbrand/logo/jazzercise-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Jazzercise/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jazzercise-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "JD Gyms",
+      "id": "jdgyms-2770cb",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "JD Gyms",
+        "brand:wikidata": "Q112947108",
+        "leisure": "fitness_centre",
+        "name": "JD Gyms"
+      },
+      "original_logo_url": "https://graph.facebook.com/JDGyms/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jdgyms-2770cb.jpg",
+      "local_logo_path": "localbrand/logo/jdgyms-2770cb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JDGyms/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jdgyms-2770cb.jpg"
+      }
+    },
+    {
+      "displayName": "Jetts Fitness",
+      "id": "jettsfitness-8f2b5b",
+      "locationSet": {
+        "include": [
+          "au",
+          "gb",
+          "nl",
+          "nz",
+          "th"
+        ]
+      },
+      "tags": {
+        "brand": "Jetts Fitness",
+        "brand:wikidata": "Q24185346",
+        "leisure": "fitness_centre",
+        "name": "Jetts Fitness",
+        "short_name": "Jetts"
+      },
+      "original_logo_url": "https://graph.facebook.com/JettsFitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jettsfitness-8f2b5b.jpg",
+      "local_logo_path": "localbrand/logo/jettsfitness-8f2b5b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JettsFitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jettsfitness-8f2b5b.jpg"
+      }
+    },
+    {
+      "displayName": "JOHN REED Fitness",
+      "id": "johnreedfitness-c8777b",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "JOHN REED Fitness",
+        "brand:wikidata": "Q106434148",
+        "leisure": "fitness_centre",
+        "name": "JOHN REED Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/JohnReedFitnessClub/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johnreedfitness-c8777b.png",
+      "local_logo_path": "localbrand/logo/johnreedfitness-c8777b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/JohnReedFitnessClub/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johnreedfitness-c8777b.png"
+      }
+    },
+    {
+      "displayName": "KeepCool",
+      "id": "keepcool-a3e665",
+      "locationSet": {
+        "include": [
+          "be",
+          "fr",
+          "lu"
+        ]
+      },
+      "tags": {
+        "brand": "KeepCool",
+        "brand:wikidata": "Q100146251",
+        "leisure": "fitness_centre",
+        "name": "KeepCool"
+      },
+      "original_logo_url": "https://graph.facebook.com/keepcoolofficiel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keepcool-a3e665.jpg",
+      "local_logo_path": "localbrand/logo/keepcool-a3e665.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/keepcoolofficiel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keepcool-a3e665.jpg"
+      }
+    },
+    {
+      "displayName": "KidStrong",
+      "id": "kidstrong-9a38b2",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "KidStrong",
+        "brand:wikidata": "Q125705878",
+        "leisure": "fitness_centre",
+        "name": "KidStrong"
+      },
+      "original_logo_url": "https://graph.facebook.com/kidstrongHQ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kidstrong-9a38b2.jpg",
+      "local_logo_path": "localbrand/logo/kidstrong-9a38b2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kidstrongHQ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kidstrong-9a38b2.jpg"
+      }
+    },
+    {
+      "displayName": "Kieser",
+      "id": "kieser-a70e35",
+      "locationSet": {
+        "include": [
+          "at",
+          "au",
+          "ch",
+          "de",
+          "lu"
+        ]
+      },
+      "matchNames": [
+        "kieser training"
+      ],
+      "tags": {
+        "brand": "Kieser",
+        "brand:wikidata": "Q1112367",
+        "leisure": "fitness_centre",
+        "name": "Kieser"
+      },
+      "original_logo_url": "https://graph.facebook.com/KieserGlobal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kieser-a70e35.jpg",
+      "local_logo_path": "localbrand/logo/kieser-a70e35.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KieserGlobal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kieser-a70e35.jpg"
+      }
+    },
+    {
+      "displayName": "Körperformen",
+      "id": "korperformen-d924c7",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de",
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Körperformen",
+        "brand:wikidata": "Q117455940",
+        "leisure": "fitness_centre",
+        "name": "Körperformen"
+      },
+      "original_logo_url": "https://graph.facebook.com/Koerperformen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/korperformen-d924c7.jpg",
+      "local_logo_path": "localbrand/logo/korperformen-d924c7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Koerperformen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/korperformen-d924c7.jpg"
+      }
+    },
+    {
+      "displayName": "Kuntokeskus Liikku",
+      "id": "kuntokeskusliikku-a9beea",
+      "locationSet": {
+        "include": [
+          "fi"
+        ]
+      },
+      "tags": {
+        "brand": "Kuntokeskus Liikku",
+        "brand:wikidata": "Q28721474",
+        "leisure": "fitness_centre",
+        "name": "Kuntokeskus Liikku"
+      },
+      "original_logo_url": "https://graph.facebook.com/liikku/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kuntokeskusliikku-a9beea.png",
+      "local_logo_path": "localbrand/logo/kuntokeskusliikku-a9beea.png",
+      "logos": {
+        "original": "https://graph.facebook.com/liikku/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kuntokeskusliikku-a9beea.png"
+      }
+    },
+    {
+      "displayName": "L'Appart Fitness",
+      "id": "lappartfitness-2caaa4",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "L'Appart Fitness",
+        "brand:wikidata": "Q120734255",
+        "leisure": "fitness_centre",
+        "name": "L'Appart Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/LAppartFitnessOfficiel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lappartfitness-2caaa4.jpg",
+      "local_logo_path": "localbrand/logo/lappartfitness-2caaa4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LAppartFitnessOfficiel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lappartfitness-2caaa4.jpg"
+      }
+    },
+    {
+      "displayName": "L'Orange Bleue",
+      "id": "lorangebleue-5ce32b",
+      "locationSet": {
+        "include": [
+          "es",
+          "fr",
+          "ma"
+        ]
+      },
+      "tags": {
+        "brand": "L'Orange Bleue",
+        "brand:wikidata": "Q3204640",
+        "leisure": "fitness_centre",
+        "name": "L'Orange Bleue"
+      },
+      "original_logo_url": "https://graph.facebook.com/lorangebleuefrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lorangebleue-5ce32b.jpg",
+      "local_logo_path": "localbrand/logo/lorangebleue-5ce32b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lorangebleuefrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lorangebleue-5ce32b.jpg"
+      }
+    },
+    {
+      "displayName": "LA Fitness",
+      "id": "lafitness-34886f",
+      "locationSet": {
+        "include": [
+          "ca",
+          "gb",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "xsport fitness"
+      ],
+      "tags": {
+        "brand": "LA Fitness",
+        "brand:wikidata": "Q6457180",
+        "leisure": "fitness_centre",
+        "name": "LA Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/LAFitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lafitness-34886f.jpg",
+      "local_logo_path": "localbrand/logo/lafitness-34886f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LAFitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lafitness-34886f.jpg"
+      }
+    },
+    {
+      "displayName": "Lady Stretch",
+      "id": "ladystretch-0df635",
+      "locationSet": {
+        "include": [
+          "kz",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Lady Stretch",
+        "leisure": "fitness_centre",
+        "name": "Lady Stretch"
+      }
+    },
+    {
+      "displayName": "Let's Go Fitness",
+      "id": "letsgofitness-2831bb",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "brand": "Let's Go Fitness",
+        "brand:wikidata": "Q141005985",
+        "leisure": "fitness_centre",
+        "name": "Let's Go Fitness"
+      }
+    },
+    {
+      "displayName": "Liberty Gym",
+      "id": "libertygym-678d1b",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Liberty Gym",
+        "brand:wikidata": "Q101768284",
+        "leisure": "fitness_centre",
+        "name": "Liberty Gym"
+      }
+    },
+    {
+      "displayName": "Life Time",
+      "id": "lifetime-9a38b2",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "life time athletic",
+        "life time fitness"
+      ],
+      "tags": {
+        "brand": "Life Time",
+        "brand:wikidata": "Q6545004",
+        "leisure": "fitness_centre",
+        "name": "Life Time"
+      },
+      "original_logo_url": "https://graph.facebook.com/LifeTime.Life/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lifetime-9a38b2.jpg",
+      "local_logo_path": "localbrand/logo/lifetime-9a38b2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LifeTime.Life/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lifetime-9a38b2.jpg"
+      }
+    },
+    {
+      "displayName": "LOOP Fitness",
+      "id": "loopfitness-a32a51",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "LOOP Fitness",
+        "brand:wikidata": "Q18647221",
+        "leisure": "fitness_centre",
+        "name": "LOOP Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/LOOPfitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/loopfitness-a32a51.jpg",
+      "local_logo_path": "localbrand/logo/loopfitness-a32a51.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LOOPfitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/loopfitness-a32a51.jpg"
+      }
+    },
+    {
+      "displayName": "MACFit",
+      "id": "macfit-a2f75d",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "MACFit",
+        "brand:wikidata": "Q106801022",
+        "leisure": "fitness_centre",
+        "name": "MACFit"
+      },
+      "original_logo_url": "https://graph.facebook.com/MACFitOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/macfit-a2f75d.jpg",
+      "local_logo_path": "localbrand/logo/macfit-a2f75d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MACFitOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/macfit-a2f75d.jpg"
+      }
+    },
+    {
+      "displayName": "Magic Form",
+      "id": "magicform-7f1661",
+      "locationSet": {
+        "include": [
+          "fx",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "Magic Form",
+        "leisure": "fitness_centre",
+        "name": "Magic Form"
+      }
+    },
+    {
+      "displayName": "McFit",
+      "id": "mcfit-0ebac9",
+      "locationSet": {
+        "include": [
+          "at",
+          "de",
+          "es",
+          "it",
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "McFit",
+        "brand:wikidata": "Q871302",
+        "leisure": "fitness_centre",
+        "name": "McFit"
+      },
+      "original_logo_url": "https://graph.facebook.com/mcfit.IT/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcfit-0ebac9.jpg",
+      "local_logo_path": "localbrand/logo/mcfit-0ebac9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mcfit.IT/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcfit-0ebac9.jpg"
+      }
+    },
+    {
+      "displayName": "Mrs. Sporty",
+      "id": "mrssporty-658820",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de",
+          "es",
+          "it",
+          "pl",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Mrs. Sporty",
+        "brand:wikidata": "Q100718953",
+        "leisure": "fitness_centre",
+        "name": "Mrs. Sporty"
+      },
+      "original_logo_url": "https://graph.facebook.com/Mrs.Sporty/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrssporty-658820.jpg",
+      "local_logo_path": "localbrand/logo/mrssporty-658820.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Mrs.Sporty/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrssporty-658820.jpg"
+      }
+    },
+    {
+      "displayName": "Neoness",
+      "id": "neoness-2caaa4",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Neoness",
+        "brand:wikidata": "Q86668014",
+        "leisure": "fitness_centre",
+        "name": "Neoness"
+      },
+      "original_logo_url": "https://graph.facebook.com/NeonessFitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/neoness-2caaa4.jpg",
+      "local_logo_path": "localbrand/logo/neoness-2caaa4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NeonessFitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/neoness-2caaa4.jpg"
+      }
+    },
+    {
+      "displayName": "Next Level",
+      "id": "nextlevel-144da6",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Next Level",
+        "brand:wikidata": "Q132340069",
+        "leisure": "fitness_centre",
+        "name": "Next Level"
+      },
+      "original_logo_url": "https://graph.facebook.com/NEXTLEVELCLUB.BG/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nextlevel-144da6.jpg",
+      "local_logo_path": "localbrand/logo/nextlevel-144da6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NEXTLEVELCLUB.BG/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nextlevel-144da6.jpg"
+      }
+    },
+    {
+      "displayName": "Nordic Wellness",
+      "id": "nordicwellness-f113b7",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Nordic Wellness",
+        "brand:wikidata": "Q60970249",
+        "leisure": "fitness_centre",
+        "name": "Nordic Wellness"
+      },
+      "original_logo_url": "https://graph.facebook.com/nordicwellness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nordicwellness-f113b7.png",
+      "local_logo_path": "localbrand/logo/nordicwellness-f113b7.png",
+      "logos": {
+        "original": "https://graph.facebook.com/nordicwellness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nordicwellness-f113b7.png"
+      }
+    },
+    {
+      "displayName": "Nuffield Health Fitness & Wellbeing",
+      "id": "nuffieldhealthfitnessandwellbeing-2770cb",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "nuffield health"
+      ],
+      "tags": {
+        "brand": "Nuffield Health Fitness & Wellbeing",
+        "brand:wikidata": "Q7068711",
+        "leisure": "fitness_centre",
+        "name": "Nuffield Health Fitness & Wellbeing"
+      },
+      "original_logo_url": "https://graph.facebook.com/NuffieldHealth/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nuffieldhealthfitnessandwellbeing-2770cb.jpg",
+      "local_logo_path": "localbrand/logo/nuffieldhealthfitnessandwellbeing-2770cb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NuffieldHealth/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nuffieldhealthfitnessandwellbeing-2770cb.jpg"
+      }
+    },
+    {
+      "displayName": "On Air",
+      "id": "onair-b63def",
+      "locationSet": {
+        "include": [
+          "es",
+          "fr",
+          "ma",
+          "pt"
+        ]
+      },
+      "matchNames": [
+        "on air fitness"
+      ],
+      "tags": {
+        "brand": "On Air",
+        "brand:wikidata": "Q138313370",
+        "leisure": "fitness_centre",
+        "name": "On Air"
+      },
+      "original_logo_url": "https://graph.facebook.com/onairfitnessclubs/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/onair-b63def.png",
+      "local_logo_path": "localbrand/logo/onair-b63def.png",
+      "logos": {
+        "original": "https://graph.facebook.com/onairfitnessclubs/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/onair-b63def.png"
+      }
+    },
+    {
+      "displayName": "Orangetheory Fitness",
+      "id": "orangetheoryfitness-f1c5c5",
+      "locationSet": {
+        "include": [
+          "ca",
+          "es",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "orangetheory"
+      ],
+      "tags": {
+        "brand": "Orangetheory Fitness",
+        "brand:wikidata": "Q25005163",
+        "leisure": "fitness_centre",
+        "name": "Orangetheory Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/OrangeTheoryFitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orangetheoryfitness-f1c5c5.jpg",
+      "local_logo_path": "localbrand/logo/orangetheoryfitness-f1c5c5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OrangeTheoryFitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orangetheoryfitness-f1c5c5.jpg"
+      }
+    },
+    {
+      "displayName": "Panobianco",
+      "id": "panobianco-777e0e",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "matchNames": [
+        "panobianco academia",
+        "panobianco academias"
+      ],
+      "tags": {
+        "brand": "Panobianco",
+        "brand:wikidata": "Q131161047",
+        "leisure": "fitness_centre",
+        "name": "Panobianco"
+      },
+      "original_logo_url": "https://graph.facebook.com/PanobiancoAcademia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/panobianco-777e0e.jpg",
+      "local_logo_path": "localbrand/logo/panobianco-777e0e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PanobiancoAcademia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/panobianco-777e0e.jpg"
+      }
+    },
+    {
+      "displayName": "Planet Fitness",
+      "id": "planetfitness-9a38b2",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Planet Fitness",
+        "brand:wikidata": "Q7201095",
+        "leisure": "fitness_centre",
+        "name": "Planet Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/planetfitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/planetfitness-9a38b2.jpg",
+      "local_logo_path": "localbrand/logo/planetfitness-9a38b2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/planetfitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/planetfitness-9a38b2.jpg"
+      }
+    },
+    {
+      "displayName": "Plus Fitness",
+      "id": "plusfitness-737f81",
+      "locationSet": {
+        "include": [
+          "au",
+          "in",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Plus Fitness",
+        "brand:wikidata": "Q118315364",
+        "leisure": "fitness_centre",
+        "name": "Plus Fitness"
+      }
+    },
+    {
+      "displayName": "Powerhouse Gym",
+      "id": "powerhousegym-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Powerhouse Gym",
+        "brand:wikidata": "Q7236725",
+        "leisure": "fitness_centre",
+        "name": "Powerhouse Gym"
+      },
+      "original_logo_url": "https://graph.facebook.com/powerhousegym/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/powerhousegym-809afb.jpg",
+      "local_logo_path": "localbrand/logo/powerhousegym-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/powerhousegym/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/powerhousegym-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "Psycle",
+      "id": "psycle-fd4e20",
+      "locationSet": {
+        "include": [
+          "gb-lon.geojson"
+        ]
+      },
+      "matchNames": [
+        "psycle london"
+      ],
+      "tags": {
+        "brand": "Psycle",
+        "brand:wikidata": "Q111470680",
+        "leisure": "fitness_centre",
+        "name": "Psycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/psyclelondon/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/psycle-fd4e20.jpg",
+      "local_logo_path": "localbrand/logo/psycle-fd4e20.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/psyclelondon/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/psycle-fd4e20.jpg"
+      }
+    },
+    {
+      "displayName": "Pulse",
+      "id": "pulse-144da6",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Pulse",
+        "brand:wikidata": "Q134078543",
+        "leisure": "fitness_centre",
+        "name": "Pulse"
+      },
+      "original_logo_url": "https://graph.facebook.com/Pulse.Fitness.SPA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pulse-144da6.jpg",
+      "local_logo_path": "localbrand/logo/pulse-144da6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Pulse.Fitness.SPA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pulse-144da6.jpg"
+      }
+    },
+    {
+      "displayName": "Pure Barre",
+      "id": "purebarre-9a38b2",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Pure Barre",
+        "brand:wikidata": "Q86707084",
+        "leisure": "fitness_centre",
+        "name": "Pure Barre",
+        "sport": "barre"
+      },
+      "original_logo_url": "https://graph.facebook.com/PureBarre/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/purebarre-9a38b2.png",
+      "local_logo_path": "localbrand/logo/purebarre-9a38b2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/PureBarre/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/purebarre-9a38b2.png"
+      }
+    },
+    {
+      "displayName": "Pure Fitness",
+      "id": "purefitness-4ac78e",
+      "locationSet": {
+        "include": [
+          "cn",
+          "sg"
+        ]
+      },
+      "tags": {
+        "brand": "Pure Fitness",
+        "brand:en": "Pure Fitness",
+        "brand:wikidata": "Q10852204",
+        "leisure": "fitness_centre",
+        "name": "Pure Fitness",
+        "name:en": "Pure Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/PureFitnessOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/purefitness-4ac78e.jpg",
+      "local_logo_path": "localbrand/logo/purefitness-4ac78e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PureFitnessOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/purefitness-4ac78e.jpg"
+      }
+    },
+    {
+      "displayName": "PureGym Danmark",
+      "id": "puregym-a32a51",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "matchNames": [
+        "fitness world",
+        "fw"
+      ],
+      "tags": {
+        "brand": "PureGym",
+        "brand:wikidata": "Q12311466",
+        "leisure": "fitness_centre",
+        "name": "PureGym"
+      },
+      "original_logo_url": "https://graph.facebook.com/Fitnessworld/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/puregym-a32a51.jpg",
+      "local_logo_path": "localbrand/logo/puregym-a32a51.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Fitnessworld/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/puregym-a32a51.jpg"
+      }
+    },
+    {
+      "displayName": "PureGym Swiss",
+      "id": "puregym-2831bb",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "matchNames": [
+        "basefit",
+        "basefit.ch",
+        "fitness world",
+        "fw"
+      ],
+      "tags": {
+        "brand": "PureGym",
+        "brand:wikidata": "Q119362759",
+        "leisure": "fitness_centre",
+        "name": "PureGym"
+      },
+      "original_logo_url": "https://graph.facebook.com/puregymswiss/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/puregym-2831bb.jpg",
+      "local_logo_path": "localbrand/logo/puregym-2831bb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/puregymswiss/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/puregym-2831bb.jpg"
+      }
+    },
+    {
+      "displayName": "PureGym UK",
+      "id": "puregym-2770cb",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "PureGym",
+        "brand:wikidata": "Q18345898",
+        "leisure": "fitness_centre",
+        "name": "PureGym"
+      },
+      "original_logo_url": "https://graph.facebook.com/puregym/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/puregym-2770cb.jpg",
+      "local_logo_path": "localbrand/logo/puregym-2770cb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/puregym/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/puregym-2770cb.jpg"
+      }
+    },
+    {
+      "displayName": "Retro Fitness",
+      "id": "retrofitness-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Retro Fitness",
+        "brand:wikidata": "Q61994955",
+        "leisure": "fitness_centre",
+        "name": "Retro Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/RetroFitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/retrofitness-809afb.jpg",
+      "local_logo_path": "localbrand/logo/retrofitness-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RetroFitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/retrofitness-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "Rumble",
+      "id": "rumble-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Rumble",
+        "brand:wikidata": "Q129899313",
+        "leisure": "fitness_centre",
+        "name": "Rumble"
+      },
+      "original_logo_url": "https://graph.facebook.com/DoYouRumble/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rumble-809afb.jpg",
+      "local_logo_path": "localbrand/logo/rumble-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DoYouRumble/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rumble-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "Sats",
+      "id": "sats-44c5d4",
+      "issues": [
+        5500
+      ],
+      "locationSet": {
+        "include": [
+          "dk",
+          "fi",
+          "no",
+          "se"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Sats",
+        "brand:wikidata": "Q4411496",
+        "leisure": "fitness_centre",
+        "name": "Sats"
+      },
+      "original_logo_url": "https://graph.facebook.com/SATSNorge/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sats-44c5d4.jpg",
+      "local_logo_path": "localbrand/logo/sats-44c5d4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SATSNorge/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sats-44c5d4.jpg"
+      }
+    },
+    {
+      "displayName": "Selfit",
+      "id": "selfit-777e0e",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Selfit",
+        "brand:wikidata": "Q100274066",
+        "leisure": "fitness_centre",
+        "name": "Selfit"
+      },
+      "original_logo_url": "https://graph.facebook.com/SELFITacademias/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/selfit-777e0e.jpg",
+      "local_logo_path": "localbrand/logo/selfit-777e0e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SELFITacademias/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/selfit-777e0e.jpg"
+      }
+    },
+    {
+      "displayName": "Skyfit",
+      "id": "skyfit-777e0e",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Skyfit",
+        "brand:wikidata": "Q120752155",
+        "leisure": "fitness_centre",
+        "name": "Skyfit"
+      },
+      "original_logo_url": "https://graph.facebook.com/skyfitacademias/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skyfit-777e0e.jpg",
+      "local_logo_path": "localbrand/logo/skyfit-777e0e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/skyfitacademias/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skyfit-777e0e.jpg"
+      }
+    },
+    {
+      "displayName": "Smart Fit",
+      "id": "smartfit-912e01",
+      "locationSet": {
+        "include": [
+          "br",
+          "cl",
+          "co",
+          "do",
+          "ma",
+          "mx",
+          "pe"
+        ]
+      },
+      "tags": {
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit"
+      },
+      "original_logo_url": "https://graph.facebook.com/SmartFit.Oficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smartfit-912e01.jpg",
+      "local_logo_path": "localbrand/logo/smartfit-912e01.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SmartFit.Oficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smartfit-912e01.jpg"
+      }
+    },
+    {
+      "displayName": "Snap Fitness",
+      "id": "snapfitness-551086",
+      "locationSet": {
+        "include": [
+          "ae",
+          "au",
+          "be",
+          "ca",
+          "es",
+          "gb",
+          "hk",
+          "id",
+          "ie",
+          "jp",
+          "mx",
+          "nl",
+          "nz",
+          "ph",
+          "tr",
+          "tw",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Snap Fitness",
+        "brand:wikidata": "Q7547254",
+        "leisure": "fitness_centre",
+        "name": "Snap Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/SnapFitness247/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/snapfitness-551086.png",
+      "local_logo_path": "localbrand/logo/snapfitness-551086.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SnapFitness247/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/snapfitness-551086.png"
+      }
+    },
+    {
+      "displayName": "SoulCycle",
+      "id": "soulcycle-895212",
+      "locationSet": {
+        "include": [
+          "gb",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "SoulCycle",
+        "brand:wikidata": "Q17084730",
+        "leisure": "fitness_centre",
+        "name": "SoulCycle",
+        "sport": "cycling"
+      },
+      "original_logo_url": "https://graph.facebook.com/SoulCycleInc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/soulcycle-895212.jpg",
+      "local_logo_path": "localbrand/logo/soulcycle-895212.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SoulCycleInc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/soulcycle-895212.jpg"
+      }
+    },
+    {
+      "displayName": "Sport Life (Україна)",
+      "id": "sportlife-d4e539",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "спорт лайф"
+      ],
+      "tags": {
+        "brand": "Sport Life",
+        "brand:wikidata": "Q56356180",
+        "leisure": "fitness_centre",
+        "name": "Sport Life"
+      },
+      "original_logo_url": "https://graph.facebook.com/sportlifeua/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sportlife-d4e539.jpg",
+      "local_logo_path": "localbrand/logo/sportlife-d4e539.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sportlifeua/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sportlife-d4e539.jpg"
+      }
+    },
+    {
+      "displayName": "SportCity",
+      "id": "sportcity-d4f0dd",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "SportCity",
+        "brand:wikidata": "Q131984002",
+        "leisure": "fitness_centre",
+        "name": "SportCity"
+      },
+      "original_logo_url": "https://graph.facebook.com/SportCityNL/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sportcity-d4f0dd.jpg",
+      "local_logo_path": "localbrand/logo/sportcity-d4f0dd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SportCityNL/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sportcity-d4f0dd.jpg"
+      }
+    },
+    {
+      "displayName": "SportClub",
+      "id": "sportclub-547721",
+      "locationSet": {
+        "include": [
+          "ar-b.geojson",
+          "ar-c.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "SportClub",
+        "brand:wikidata": "Q118314171",
+        "leisure": "fitness_centre",
+        "name": "SportClub"
+      },
+      "original_logo_url": "https://graph.facebook.com/sportcluboficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sportclub-547721.png",
+      "local_logo_path": "localbrand/logo/sportclub-547721.png",
+      "logos": {
+        "original": "https://graph.facebook.com/sportcluboficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sportclub-547721.png"
+      }
+    },
+    {
+      "displayName": "SPORTLIFE",
+      "id": "sportlife-2b2465",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "SPORTLIFE",
+        "brand:wikidata": "Q110300484",
+        "leisure": "fitness_centre",
+        "name": "SPORTLIFE"
+      },
+      "original_logo_url": "https://graph.facebook.com/sportlifeclub/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sportlife-2b2465.jpg",
+      "local_logo_path": "localbrand/logo/sportlife-2b2465.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sportlifeclub/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sportlife-2b2465.jpg"
+      }
+    },
+    {
+      "displayName": "Starting Strength",
+      "id": "startingstrength-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Starting Strength Gyms",
+        "brand:wikidata": "Q110761553",
+        "leisure": "fitness_centre",
+        "name": "Starting Strength"
+      },
+      "original_logo_url": "https://graph.facebook.com/Strengthbysami/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/startingstrength-809afb.jpg",
+      "local_logo_path": "localbrand/logo/startingstrength-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Strengthbysami/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/startingstrength-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "Station 24",
+      "id": "station24-8dcb39",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Station 24",
+        "leisure": "fitness_centre",
+        "name": "Station 24"
+      }
+    },
+    {
+      "displayName": "STC",
+      "id": "stc-f113b7",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "STC",
+        "brand:wikidata": "Q115114066",
+        "leisure": "fitness_centre",
+        "name": "STC"
+      }
+    },
+    {
+      "displayName": "Stretch Zone",
+      "id": "stretchzone-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Stretch Zone",
+        "brand:wikidata": "Q108863105",
+        "leisure": "fitness_centre",
+        "name": "Stretch Zone"
+      },
+      "original_logo_url": "https://graph.facebook.com/StretchZone/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stretchzone-809afb.jpg",
+      "local_logo_path": "localbrand/logo/stretchzone-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/StretchZone/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stretchzone-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "Talwalkars",
+      "id": "talwalkars-111905",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Talwalkars",
+        "brand:wikidata": "Q7680402",
+        "leisure": "fitness_centre",
+        "name": "Talwalkars"
+      },
+      "original_logo_url": "https://graph.facebook.com/TalwalkarsIndia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/talwalkars-111905.png",
+      "local_logo_path": "localbrand/logo/talwalkars-111905.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TalwalkarsIndia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/talwalkars-111905.png"
+      }
+    },
+    {
+      "displayName": "The Bar Method",
+      "id": "thebarmethod-9a38b2",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "The Bar Method",
+        "brand:wikidata": "Q117599728",
+        "leisure": "fitness_centre",
+        "name": "The Bar Method",
+        "sport": "barre"
+      },
+      "original_logo_url": "https://graph.facebook.com/barmethod/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thebarmethod-9a38b2.jpg",
+      "local_logo_path": "localbrand/logo/thebarmethod-9a38b2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/barmethod/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thebarmethod-9a38b2.jpg"
+      }
+    },
+    {
+      "displayName": "The Edge Fitness Club",
+      "id": "theedgefitnessclub-773501",
+      "locationSet": {
+        "include": [
+          "us-ct.geojson",
+          "us-de.geojson",
+          "us-il.geojson",
+          "us-mi.geojson",
+          "us-mo.geojson",
+          "us-nj.geojson",
+          "us-pa.geojson",
+          "us-ri.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "The Edge Fitness Club",
+        "brand:wikidata": "Q109339519",
+        "leisure": "fitness_centre",
+        "name": "The Edge Fitness Club"
+      },
+      "original_logo_url": "https://graph.facebook.com/TheEdgeFitnessClubs/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theedgefitnessclub-773501.jpg",
+      "local_logo_path": "localbrand/logo/theedgefitnessclub-773501.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TheEdgeFitnessClubs/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theedgefitnessclub-773501.jpg"
+      }
+    },
+    {
+      "displayName": "The Exercise Coach",
+      "id": "theexercisecoach-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "The Exercise Coach",
+        "brand:wikidata": "Q121502262",
+        "leisure": "fitness_centre",
+        "name": "The Exercise Coach"
+      },
+      "original_logo_url": "https://graph.facebook.com/theexercisecoach/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theexercisecoach-809afb.jpg",
+      "local_logo_path": "localbrand/logo/theexercisecoach-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/theexercisecoach/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theexercisecoach-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "The Gym",
+      "id": "thegymgroup-2770cb",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "the gym"
+      ],
+      "tags": {
+        "brand": "The Gym Group",
+        "brand:wikidata": "Q48815022",
+        "leisure": "fitness_centre",
+        "name": "The Gym Group"
+      },
+      "original_logo_url": "https://graph.facebook.com/thegymgroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thegymgroup-2770cb.jpg",
+      "local_logo_path": "localbrand/logo/thegymgroup-2770cb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/thegymgroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thegymgroup-2770cb.jpg"
+      }
+    },
+    {
+      "displayName": "The Picklr",
+      "id": "thepicklr-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "The Picklr",
+        "brand:wikidata": "Q140393337",
+        "leisure": "fitness_centre",
+        "name": "The Picklr",
+        "sport": "pickleball"
+      }
+    },
+    {
+      "displayName": "Third Space",
+      "id": "thirdspace-fd4e20",
+      "locationSet": {
+        "include": [
+          "gb-lon.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Third Space",
+        "brand:wikidata": "Q112671088",
+        "leisure": "fitness_centre",
+        "name": "Third Space"
+      }
+    },
+    {
+      "displayName": "TITLE Boxing Club",
+      "id": "titleboxingclub-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "TITLE Boxing Club",
+        "brand:wikidata": "Q126391325",
+        "leisure": "fitness_centre",
+        "name": "TITLE Boxing Club",
+        "sport": "boxing"
+      },
+      "original_logo_url": "https://graph.facebook.com/TITLEBoxingClub/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/titleboxingclub-809afb.jpg",
+      "local_logo_path": "localbrand/logo/titleboxingclub-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TITLEBoxingClub/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/titleboxingclub-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "Total Fitness",
+      "id": "totalfitness-2770cb",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Total Fitness",
+        "brand:wikidata": "Q7828019",
+        "leisure": "fitness_centre",
+        "name": "Total Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/totalfitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/totalfitness-2770cb.jpg",
+      "local_logo_path": "localbrand/logo/totalfitness-2770cb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/totalfitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/totalfitness-2770cb.jpg"
+      }
+    },
+    {
+      "displayName": "TrainMore",
+      "id": "trainmore-d4f0dd",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "TrainMore",
+        "brand:wikidata": "Q138297498",
+        "leisure": "fitness_centre",
+        "name": "TrainMore"
+      },
+      "original_logo_url": "https://graph.facebook.com/TrainMore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/trainmore-d4f0dd.jpg",
+      "local_logo_path": "localbrand/logo/trainmore-d4f0dd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TrainMore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/trainmore-d4f0dd.jpg"
+      }
+    },
+    {
+      "displayName": "UFC Gym",
+      "id": "ufcgym-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "UFC Gym",
+        "brand:wikidata": "Q122511683",
+        "leisure": "fitness_centre",
+        "name": "UFC Gym"
+      },
+      "original_logo_url": "https://graph.facebook.com/UFCgym/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ufcgym-809afb.jpg",
+      "local_logo_path": "localbrand/logo/ufcgym-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/UFCgym/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ufcgym-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "update Fitness",
+      "id": "updatefitness-2831bb",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "brand": "update Fitness",
+        "brand:wikidata": "Q117406567",
+        "leisure": "fitness_centre",
+        "name": "update Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/update.fitness.ag/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/updatefitness-2831bb.jpg",
+      "local_logo_path": "localbrand/logo/updatefitness-2831bb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/update.fitness.ag/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/updatefitness-2831bb.jpg"
+      }
+    },
+    {
+      "displayName": "VASA Fitness",
+      "id": "vasafitness-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "VASA Fitness",
+        "brand:wikidata": "Q108816909",
+        "leisure": "fitness_centre",
+        "name": "VASA Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/BestGymEver/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vasafitness-809afb.png",
+      "local_logo_path": "localbrand/logo/vasafitness-809afb.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BestGymEver/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vasafitness-809afb.png"
+      }
+    },
+    {
+      "displayName": "Velocity",
+      "id": "velocity-777e0e",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Velocity",
+        "brand:wikidata": "Q131278588",
+        "leisure": "fitness_centre",
+        "name": "Velocity",
+        "sport": "cycling"
+      },
+      "original_logo_url": "https://graph.facebook.com/studiovelocityoficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/velocity-777e0e.png",
+      "local_logo_path": "localbrand/logo/velocity-777e0e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/studiovelocityoficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/velocity-777e0e.png"
+      }
+    },
+    {
+      "displayName": "Virgin Active",
+      "id": "virginactive-4a682e",
+      "locationSet": {
+        "include": [
+          "au",
+          "bw",
+          "gb",
+          "it",
+          "na",
+          "sg",
+          "th",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Virgin Active",
+        "brand:wikidata": "Q4013942",
+        "leisure": "fitness_centre",
+        "name": "Virgin Active"
+      },
+      "original_logo_url": "https://graph.facebook.com/VirginActiveSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/virginactive-4a682e.jpg",
+      "local_logo_path": "localbrand/logo/virginactive-4a682e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/VirginActiveSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/virginactive-4a682e.jpg"
+      }
+    },
+    {
+      "displayName": "Vita Liberté",
+      "id": "vitaliberte-2caaa4",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Vita Liberté",
+        "brand:wikidata": "Q120304528",
+        "leisure": "fitness_centre",
+        "name": "Vita Liberté"
+      },
+      "original_logo_url": "https://graph.facebook.com/vitalibertefrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vitaliberte-2caaa4.jpg",
+      "local_logo_path": "localbrand/logo/vitaliberte-2caaa4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/vitalibertefrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vitaliberte-2caaa4.jpg"
+      }
+    },
+    {
+      "displayName": "VivaGym (España)",
+      "id": "vivagym-14abfa",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "tags": {
+        "brand": "VivaGym",
+        "brand:wikidata": "Q123378009",
+        "leisure": "fitness_centre",
+        "name": "VivaGym"
+      },
+      "original_logo_url": "https://graph.facebook.com/VivaGym.es/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vivagym-14abfa.jpg",
+      "local_logo_path": "localbrand/logo/vivagym-14abfa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/VivaGym.es/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vivagym-14abfa.jpg"
+      }
+    },
+    {
+      "displayName": "VivaGym (Portugal)",
+      "id": "vivagym-b368e8",
+      "locationSet": {
+        "include": [
+          "pt"
+        ]
+      },
+      "matchNames": [
+        "fitness hut"
+      ],
+      "tags": {
+        "brand": "VivaGym",
+        "brand:wikidata": "Q129425164",
+        "leisure": "fitness_centre",
+        "name": "VivaGym"
+      }
+    },
+    {
+      "displayName": "wellyou",
+      "id": "wellyou-6c61eb",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "wellyou",
+        "brand:wikidata": "Q130396234",
+        "leisure": "fitness_centre",
+        "name": "wellyou"
+      },
+      "original_logo_url": "https://graph.facebook.com/wellyoufitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wellyou-6c61eb.jpg",
+      "local_logo_path": "localbrand/logo/wellyou-6c61eb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/wellyoufitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wellyou-6c61eb.jpg"
+      }
+    },
+    {
+      "displayName": "Workout Anytime",
+      "id": "workoutanytime-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Workout Anytime",
+        "brand:wikidata": "Q120652638",
+        "leisure": "fitness_centre",
+        "name": "Workout Anytime"
+      }
+    },
+    {
+      "displayName": "World Class (Ísland)",
+      "id": "worldclass-eed3df",
+      "locationSet": {
+        "include": [
+          "is"
+        ]
+      },
+      "tags": {
+        "brand": "World Class",
+        "brand:wikidata": "Q102350789",
+        "leisure": "fitness_centre",
+        "name": "World Class"
+      },
+      "original_logo_url": "https://graph.facebook.com/worldclassiceland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/worldclass-eed3df.jpg",
+      "local_logo_path": "localbrand/logo/worldclass-eed3df.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/worldclassiceland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/worldclass-eed3df.jpg"
+      }
+    },
+    {
+      "displayName": "World Class (România)",
+      "id": "worldclass-fa50b9",
+      "locationSet": {
+        "include": [
+          "ro"
+        ]
+      },
+      "tags": {
+        "brand": "World Class",
+        "brand:wikidata": "Q102350621",
+        "leisure": "fitness_centre",
+        "name": "World Class"
+      },
+      "original_logo_url": "https://graph.facebook.com/worldclass.romania/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/worldclass-fa50b9.jpg",
+      "local_logo_path": "localbrand/logo/worldclass-fa50b9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/worldclass.romania/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/worldclass-fa50b9.jpg"
+      }
+    },
+    {
+      "displayName": "World Class (Россия)",
+      "id": "worldclass-2b2465",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "World Class",
+        "brand:wikidata": "Q102350852",
+        "leisure": "fitness_centre",
+        "name": "World Class"
+      },
+      "original_logo_url": "https://graph.facebook.com/worldclassclubs/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/worldclass-2b2465.jpg",
+      "local_logo_path": "localbrand/logo/worldclass-2b2465.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/worldclassclubs/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/worldclass-2b2465.jpg"
+      }
+    },
+    {
+      "displayName": "World Gym",
+      "id": "worldgym-4c1ca3",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "World Gym",
+        "brand:wikidata": "Q8035794",
+        "leisure": "fitness_centre",
+        "name": "World Gym"
+      },
+      "original_logo_url": "https://graph.facebook.com/WorldGymInternational/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/worldgym-4c1ca3.jpg",
+      "local_logo_path": "localbrand/logo/worldgym-4c1ca3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WorldGymInternational/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/worldgym-4c1ca3.jpg"
+      }
+    },
+    {
+      "displayName": "World Gym (臺灣)",
+      "id": "worldgym-4fed0f",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "World Gym健身俱樂部",
+        "brand:en": "World Gym",
+        "brand:wikidata": "Q8035794",
+        "brand:zh": "世界健身俱樂部",
+        "leisure": "fitness_centre",
+        "name": "World Gym健身俱樂部",
+        "name:en": "World Gym",
+        "name:zh": "世界健身俱樂部"
+      },
+      "original_logo_url": "https://graph.facebook.com/WorldGymInternational/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/worldgym-4fed0f.jpg",
+      "local_logo_path": "localbrand/logo/worldgym-4fed0f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WorldGymInternational/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/worldgym-4fed0f.jpg"
+      }
+    },
+    {
+      "displayName": "Xercise4Less",
+      "id": "xercise4less-2770cb",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Xercise4Less",
+        "brand:wikidata": "Q79244612",
+        "leisure": "fitness_centre",
+        "name": "Xercise4Less"
+      }
+    },
+    {
+      "displayName": "Xtreme Fitness Gyms",
+      "id": "xtremefitnessgyms-78c701",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Xtreme Fitness Gyms",
+        "brand:wikidata": "Q136802400",
+        "leisure": "fitness_centre",
+        "name": "Xtreme Fitness Gyms"
+      },
+      "original_logo_url": "https://graph.facebook.com/xtremefitnessgyms/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xtremefitnessgyms-78c701.png",
+      "local_logo_path": "localbrand/logo/xtremefitnessgyms-78c701.png",
+      "logos": {
+        "original": "https://graph.facebook.com/xtremefitnessgyms/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xtremefitnessgyms-78c701.png"
+      }
+    },
+    {
+      "displayName": "YouFit",
+      "id": "youfit-809afb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "YouFit",
+        "brand:wikidata": "Q16908569",
+        "leisure": "fitness_centre",
+        "name": "YouFit"
+      },
+      "original_logo_url": "https://graph.facebook.com/YouFitGyms/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/youfit-809afb.jpg",
+      "local_logo_path": "localbrand/logo/youfit-809afb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/YouFitGyms/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/youfit-809afb.jpg"
+      }
+    },
+    {
+      "displayName": "Zap Fitness",
+      "id": "zapfitness-c88de3",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Zap Fitness",
+        "brand:wikidata": "Q106119874",
+        "leisure": "fitness_centre",
+        "name": "Zap Fitness"
+      },
+      "original_logo_url": "https://graph.facebook.com/zapfitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zapfitness-c88de3.jpg",
+      "local_logo_path": "localbrand/logo/zapfitness-c88de3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/zapfitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zapfitness-c88de3.jpg"
+      }
+    },
+    {
+      "displayName": "Zdrofit",
+      "id": "zdrofit-78c701",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Zdrofit",
+        "brand:wikidata": "Q113457353",
+        "leisure": "fitness_centre",
+        "name": "Zdrofit"
+      },
+      "original_logo_url": "https://graph.facebook.com/fitnessklubzdrofit/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zdrofit-78c701.jpg",
+      "local_logo_path": "localbrand/logo/zdrofit-78c701.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fitnessklubzdrofit/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zdrofit-78c701.jpg"
+      }
+    },
+    {
+      "displayName": "بودي ماسترز",
+      "id": "bodymasters-eac6d0",
+      "locationSet": {
+        "include": [
+          "sa"
+        ]
+      },
+      "tags": {
+        "brand": "بودي ماسترز",
+        "brand:ar": "بودي ماسترز",
+        "brand:en": "Body Masters",
+        "brand:wikidata": "Q105713910",
+        "leisure": "fitness_centre",
+        "name": "بودي ماسترز",
+        "name:ar": "بودي ماسترز",
+        "name:en": "Body Masters"
+      },
+      "original_logo_url": "https://graph.facebook.com/bodymastersksa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bodymasters-eac6d0.jpg",
+      "local_logo_path": "localbrand/logo/bodymasters-eac6d0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bodymastersksa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bodymasters-eac6d0.jpg"
+      }
+    },
+    {
+      "displayName": "وقت اللياقة",
+      "id": "fitnesstime-2210cf",
+      "locationSet": {
+        "include": [
+          "ae",
+          "sa"
+        ]
+      },
+      "tags": {
+        "brand": "وقت اللياقة",
+        "brand:ar": "وقت اللياقة",
+        "brand:en": "Fitness Time",
+        "brand:wikidata": "Q105710068",
+        "leisure": "fitness_centre",
+        "name": "وقت اللياقة",
+        "name:ar": "وقت اللياقة",
+        "name:en": "Fitness Time"
+      },
+      "original_logo_url": "https://graph.facebook.com/FitnessTimeSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitnesstime-2210cf.jpg",
+      "local_logo_path": "localbrand/logo/fitnesstime-2210cf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FitnessTimeSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitnesstime-2210cf.jpg"
+      }
+    },
+    {
+      "displayName": "エニタイムフィットネス",
+      "id": "anytimefitness-1008e2",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "alt_name:en": "Fast Fitness",
+        "brand": "エニタイムフィットネス",
+        "brand:en": "Anytime Fitness",
+        "brand:ja": "エニタイムフィットネス",
+        "brand:wikidata": "Q4778364",
+        "leisure": "fitness_centre",
+        "name": "エニタイムフィットネス",
+        "name:en": "Anytime Fitness",
+        "name:ja": "エニタイムフィットネス"
+      },
+      "original_logo_url": "https://graph.facebook.com/anytimefitness/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/anytimefitness-1008e2.jpg",
+      "local_logo_path": "localbrand/logo/anytimefitness-1008e2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/anytimefitness/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/anytimefitness-1008e2.jpg"
+      }
+    },
+    {
+      "displayName": "カーブス",
+      "id": "curves-1008e2",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "カーブス",
+        "brand:en": "Curves",
+        "brand:ja": "カーブス",
+        "brand:wikidata": "Q5196080",
+        "leisure": "fitness_centre",
+        "name": "カーブス",
+        "name:en": "Curves",
+        "name:ja": "カーブス"
+      }
+    },
+    {
+      "displayName": "コナミスポーツクラブ",
+      "id": "konamisportsclub-1008e2",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "コナミスポーツクラブ",
+        "brand:en": "Konami Sports Club",
+        "brand:ja": "コナミスポーツクラブ",
+        "brand:wikidata": "Q11302286",
+        "leisure": "fitness_centre",
+        "name": "コナミスポーツクラブ",
+        "name:en": "Konami Sports Club",
+        "name:ja": "コナミスポーツクラブ"
+      },
+      "original_logo_url": "https://graph.facebook.com/sportsclub.konami/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/konamisportsclub-1008e2.jpg",
+      "local_logo_path": "localbrand/logo/konamisportsclub-1008e2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sportsclub.konami/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/konamisportsclub-1008e2.jpg"
+      }
+    },
+    {
+      "displayName": "ジョイフィット",
+      "id": "joyfit-1008e2",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ジョイフィット",
+        "brand:en": "JOYFIT",
+        "brand:ja": "ジョイフィット",
+        "brand:wikidata": "Q11310515",
+        "leisure": "fitness_centre",
+        "name": "ジョイフィット",
+        "name:en": "JOYFIT",
+        "name:ja": "ジョイフィット"
+      },
+      "original_logo_url": "https://graph.facebook.com/enjoy.joyfit/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/joyfit-1008e2.png",
+      "local_logo_path": "localbrand/logo/joyfit-1008e2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/enjoy.joyfit/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/joyfit-1008e2.png"
+      }
+    },
+    {
+      "displayName": "ティップネス",
+      "id": "tipness-1008e2",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ティップネス",
+        "brand:en": "Tipness",
+        "brand:ja": "ティップネス",
+        "brand:wikidata": "Q11318940",
+        "leisure": "fitness_centre",
+        "name": "ティップネス",
+        "name:en": "Tipness",
+        "name:ja": "ティップネス"
+      },
+      "original_logo_url": "https://graph.facebook.com/TIPNESS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tipness-1008e2.jpg",
+      "local_logo_path": "localbrand/logo/tipness-1008e2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TIPNESS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tipness-1008e2.jpg"
+      }
+    },
+    {
+      "displayName": "メガロス",
+      "id": "megalos-1008e2",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "メガロス",
+        "brand:en": "MEGALOS",
+        "brand:ja": "メガロス",
+        "brand:wikidata": "Q11343532",
+        "leisure": "fitness_centre",
+        "name": "メガロス",
+        "name:en": "MEGALOS",
+        "name:ja": "メガロス"
+      },
+      "original_logo_url": "https://graph.facebook.com/188647838222702/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/megalos-1008e2.jpg",
+      "local_logo_path": "localbrand/logo/megalos-1008e2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/188647838222702/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/megalos-1008e2.jpg"
+      }
+    },
+    {
+      "displayName": "健身工廠",
+      "id": "fitnessfactory-4fed0f",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "健身工廠",
+        "brand:en": "Fitness Factory",
+        "brand:wikidata": "Q108167311",
+        "brand:zh": "健身工廠",
+        "leisure": "fitness_centre",
+        "name": "健身工廠",
+        "name:en": "Fitness Factory",
+        "name:zh": "健身工廠"
+      },
+      "original_logo_url": "https://graph.facebook.com/FitnessFactory.Group/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitnessfactory-4fed0f.jpg",
+      "local_logo_path": "localbrand/logo/fitnessfactory-4fed0f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FitnessFactory.Group/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitnessfactory-4fed0f.jpg"
+      }
+    },
+    {
+      "displayName": "兰瑜伽",
+      "id": "lanyoga-8945e0",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "matchNames": [
+        "蘭瑜伽"
+      ],
+      "matchTags": [
+        "club/sport"
+      ],
+      "tags": {
+        "brand": "兰瑜伽",
+        "brand:en": "Lan Yoga",
+        "brand:wikidata": "Q108167358",
+        "brand:zh": "兰瑜伽",
+        "leisure": "fitness_centre",
+        "name": "兰瑜伽",
+        "name:en": "Lan Yoga",
+        "name:zh": "兰瑜伽",
+        "sport": "yoga"
+      }
+    },
+    {
+      "displayName": "成吉思汗健身俱樂部",
+      "id": "genghiskhanfitnessclub-4fed0f",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "成吉思汗健身俱樂部",
+        "brand:en": "Genghis Khan Fitness Club",
+        "brand:wikidata": "Q109345206",
+        "brand:zh": "成吉思汗健身俱樂部",
+        "leisure": "fitness_centre",
+        "name": "成吉思汗健身俱樂部",
+        "name:en": "Genghis Khan Fitness Club",
+        "name:zh": "成吉思汗健身俱樂部"
+      },
+      "original_logo_url": "https://graph.facebook.com/mmagym.tw/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/genghiskhanfitnessclub-4fed0f.jpg",
+      "local_logo_path": "localbrand/logo/genghiskhanfitnessclub-4fed0f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mmagym.tw/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/genghiskhanfitnessclub-4fed0f.jpg"
+      }
+    },
+    {
+      "displayName": "舒適堡 Physical Fitness & Beauty",
+      "id": "physicalfitnessandbeauty-68bf34",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "brand": "舒適堡 Physical Fitness & Beauty",
+        "brand:en": "Physical Fitness & Beauty",
+        "brand:wikidata": "Q15897842",
+        "brand:zh": "舒適堡",
+        "brand:zh-Hans": "舒适堡",
+        "brand:zh-Hant": "舒適堡",
+        "leisure": "fitness_centre",
+        "name": "舒適堡 Physical Fitness & Beauty",
+        "name:en": "Physical Fitness & Beauty",
+        "name:zh": "舒適堡",
+        "name:zh-Hans": "舒适堡",
+        "name:zh-Hant": "舒適堡"
+      },
+      "original_logo_url": "https://graph.facebook.com/PhysicalFitnessYogaOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/physicalfitnessandbeauty-68bf34.jpg",
+      "local_logo_path": "localbrand/logo/physicalfitnessandbeauty-68bf34.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PhysicalFitnessYogaOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/physicalfitnessandbeauty-68bf34.jpg"
+      }
+    }
+  ]
+}

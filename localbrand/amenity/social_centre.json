@@ -1,0 +1,427 @@
+{
+  "properties": {
+    "path": "brands/amenity/social_centre",
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^social centre$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "AHEPA Hall",
+      "id": "ahepahall-30ca27",
+      "locationSet": {
+        "include": [
+          "150",
+          "au",
+          "ca",
+          "cy",
+          "us"
+        ],
+        "exclude": [
+          "ru"
+        ]
+      },
+      "matchNames": [
+        "american hellenic educational progressive association",
+        "the order of ahepa"
+      ],
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "AHEPA",
+        "brand:wikidata": "Q4743973",
+        "name": "AHEPA Hall"
+      },
+      "original_logo_url": "https://graph.facebook.com/OrderOfAHEPA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ahepahall-30ca27.jpg",
+      "local_logo_path": "localbrand/logo/ahepahall-30ca27.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OrderOfAHEPA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ahepahall-30ca27.jpg"
+      }
+    },
+    {
+      "displayName": "American Legion Hall",
+      "id": "americanlegionhall-7c1650",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "office/ngo"
+      ],
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "American Legion",
+        "brand:wikidata": "Q468865",
+        "name": "American Legion Hall",
+        "social_centre:for": "veteran"
+      },
+      "original_logo_url": "https://graph.facebook.com/americanlegionhq/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/americanlegionhall-7c1650.jpg",
+      "local_logo_path": "localbrand/logo/americanlegionhall-7c1650.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/americanlegionhq/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/americanlegionhall-7c1650.jpg"
+      }
+    },
+    {
+      "displayName": "AMVETS Post",
+      "id": "amvetspost-7c1650",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "american veterans"
+      ],
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "AMVETS",
+        "brand:wikidata": "Q2819279",
+        "name": "AMVETS Post",
+        "social_centre:for": "veteran"
+      },
+      "original_logo_url": "https://graph.facebook.com/AMVETSHQ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amvetspost-7c1650.jpg",
+      "local_logo_path": "localbrand/logo/amvetspost-7c1650.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AMVETSHQ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amvetspost-7c1650.jpg"
+      }
+    },
+    {
+      "displayName": "Chevaliers de Colomb",
+      "id": "conseildeschevaliersdecolomb-aeac79",
+      "locationSet": {
+        "include": [
+          "ca-qc.geojson"
+        ]
+      },
+      "matchNames": [
+        "knights of columbus"
+      ],
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "Chevaliers de Colomb",
+        "brand:short": "CdeC",
+        "brand:wikidata": "Q1046799",
+        "name": "Conseil des Chevaliers de Colomb"
+      },
+      "original_logo_url": "https://graph.facebook.com/KnightsofColumbus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/conseildeschevaliersdecolomb-aeac79.png",
+      "local_logo_path": "localbrand/logo/conseildeschevaliersdecolomb-aeac79.png",
+      "logos": {
+        "original": "https://graph.facebook.com/KnightsofColumbus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/conseildeschevaliersdecolomb-aeac79.png"
+      }
+    },
+    {
+      "displayName": "Eagles Lodge",
+      "id": "eagleslodge-7c1650",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "aeries",
+        "eagles"
+      ],
+      "tags": {
+        "alt_name": "Aeries Lodge",
+        "amenity": "social_centre",
+        "brand": "Fraternal Order of Eagles",
+        "brand:short": "FOE",
+        "brand:wikidata": "Q5493810",
+        "name": "Eagles Lodge",
+        "official_name": "Fraternal Order of Eagles"
+      },
+      "original_logo_url": "https://graph.facebook.com/foegrandaerie/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eagleslodge-7c1650.jpg",
+      "local_logo_path": "localbrand/logo/eagleslodge-7c1650.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/foegrandaerie/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eagleslodge-7c1650.jpg"
+      }
+    },
+    {
+      "displayName": "Elks Lodge",
+      "id": "elkslodge-7c1650",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "elks"
+      ],
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "Benevolent and Protective Order of Elks",
+        "brand:short": "BPOE",
+        "brand:wikidata": "Q2895789",
+        "name": "Elks Lodge",
+        "official_name": "Benevolent and Protective Order of Elks"
+      },
+      "original_logo_url": "https://graph.facebook.com/bpoeusa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elkslodge-7c1650.jpg",
+      "local_logo_path": "localbrand/logo/elkslodge-7c1650.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bpoeusa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elkslodge-7c1650.jpg"
+      }
+    },
+    {
+      "displayName": "Fraternal Order of Police",
+      "id": "fraternalorderofpolice-7c1650",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "fraternal",
+        "police"
+      ],
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "Fraternal Order of Police",
+        "brand:short": "FOP",
+        "brand:wikidata": "Q1451416",
+        "name": "Fraternal Order of Police"
+      }
+    },
+    {
+      "displayName": "Knights of Columbus",
+      "id": "knightsofcolumbuscouncil-2e206b",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ],
+        "exclude": [
+          "ca-qc.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "Knights of Columbus",
+        "brand:short": "KofC",
+        "brand:wikidata": "Q1046799",
+        "name": "Knights of Columbus Council"
+      },
+      "original_logo_url": "https://graph.facebook.com/KnightsofColumbus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/knightsofcolumbuscouncil-2e206b.png",
+      "local_logo_path": "localbrand/logo/knightsofcolumbuscouncil-2e206b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/KnightsofColumbus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/knightsofcolumbuscouncil-2e206b.png"
+      }
+    },
+    {
+      "displayName": "Lions Clubs International",
+      "id": "lionsclubsinternational-8e336b",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "lions club",
+        "lions club international",
+        "lions clubs"
+      ],
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "Lions Clubs International",
+        "brand:wikidata": "Q270029",
+        "name": "Lions Clubs International"
+      },
+      "original_logo_url": "https://graph.facebook.com/lionsclubs/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lionsclubsinternational-8e336b.jpg",
+      "local_logo_path": "localbrand/logo/lionsclubsinternational-8e336b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lionsclubs/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lionsclubsinternational-8e336b.jpg"
+      }
+    },
+    {
+      "displayName": "Moose Lodge",
+      "id": "mooselodge-148cd3",
+      "locationSet": {
+        "include": [
+          "bm",
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "moose"
+      ],
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "Loyal Order of Moose",
+        "brand:wikidata": "Q6908585",
+        "name": "Moose Lodge",
+        "official_name": "Loyal Order of Moose"
+      },
+      "original_logo_url": "https://graph.facebook.com/heardofmoose/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mooselodge-148cd3.jpg",
+      "local_logo_path": "localbrand/logo/mooselodge-148cd3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/heardofmoose/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mooselodge-148cd3.jpg"
+      }
+    },
+    {
+      "displayName": "Odd Fellows Hall",
+      "id": "oddfellowshall-8e336b",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "odd fellow",
+        "odd fellows"
+      ],
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "Independent Order of Odd Fellows",
+        "brand:short": "IOOF",
+        "brand:wikidata": "Q1425508",
+        "name": "Odd Fellows Hall",
+        "official_name": "Independent Order of Odd Fellows"
+      },
+      "original_logo_url": "https://graph.facebook.com/IOOFSGL/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oddfellowshall-8e336b.jpg",
+      "local_logo_path": "localbrand/logo/oddfellowshall-8e336b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IOOFSGL/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oddfellowshall-8e336b.jpg"
+      }
+    },
+    {
+      "displayName": "Orioles Nest",
+      "id": "oriolesnest-7c1650",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "fraternal order of orioles",
+        "oriole nest",
+        "orioles"
+      ],
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "Fraternal Order Orioles",
+        "brand:short": "FOO",
+        "brand:wikidata": "Q5493805",
+        "name": "Orioles Nest",
+        "official_name": "Fraternal Order Orioles"
+      },
+      "original_logo_url": "https://graph.facebook.com/146663135430661/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oriolesnest-7c1650.jpg",
+      "local_logo_path": "localbrand/logo/oriolesnest-7c1650.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/146663135430661/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oriolesnest-7c1650.jpg"
+      }
+    },
+    {
+      "displayName": "Royal Canadian Legion Hall",
+      "id": "royalcanadianlegionhall-c03cd4",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "Royal Canadian Legion",
+        "brand:short": "RCL",
+        "brand:wikidata": "Q3270231",
+        "name": "Royal Canadian Legion Hall",
+        "social_centre:for": "veteran"
+      },
+      "original_logo_url": "https://graph.facebook.com/CanadianLegion/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/royalcanadianlegionhall-c03cd4.png",
+      "local_logo_path": "localbrand/logo/royalcanadianlegionhall-c03cd4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/CanadianLegion/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/royalcanadianlegionhall-c03cd4.png"
+      }
+    },
+    {
+      "displayName": "The National Grange",
+      "id": "thenationalgrangeoftheorderofpatronsofhusbandry-7c1650",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "grange hall"
+      ],
+      "matchTags": [
+        "amenity/community_centre",
+        "amenity/events_venue"
+      ],
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "The National Grange of the Order of Patrons of Husbandry",
+        "brand:wikidata": "Q7753183"
+      },
+      "original_logo_url": "https://graph.facebook.com/nationalgrange/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thenationalgrangeoftheorderofpatronsofhusbandry-7c1650.jpg",
+      "local_logo_path": "localbrand/logo/thenationalgrangeoftheorderofpatronsofhusbandry-7c1650.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/nationalgrange/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thenationalgrangeoftheorderofpatronsofhusbandry-7c1650.jpg"
+      }
+    },
+    {
+      "displayName": "VFW Post",
+      "id": "vfwpost-8be9ec",
+      "locationSet": {
+        "include": [
+          "de",
+          "jp",
+          "kr",
+          "ph",
+          "th",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "office/ngo"
+      ],
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "Veterans of Foreign Wars of the United States",
+        "brand:short": "VFW",
+        "brand:wikidata": "Q3556413",
+        "name": "VFW Post",
+        "name:en": "VFW Post",
+        "official_name": "Veterans of Foreign Wars of the United States",
+        "social_centre:for": "veteran"
+      },
+      "original_logo_url": "https://graph.facebook.com/VFWFans/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vfwpost-8be9ec.jpg",
+      "local_logo_path": "localbrand/logo/vfwpost-8be9ec.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/VFWFans/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vfwpost-8be9ec.jpg"
+      }
+    }
+  ]
+}

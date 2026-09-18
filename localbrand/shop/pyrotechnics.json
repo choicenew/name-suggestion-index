@@ -1,0 +1,67 @@
+{
+  "properties": {
+    "path": "brands/shop/pyrotechnics",
+    "exclude": {
+      "generic": [
+        "^pyrotechnics$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Phantom Fireworks",
+      "id": "phantomfireworks-f0f687",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Phantom Fireworks",
+        "brand:wikidata": "Q112895266",
+        "name": "Phantom Fireworks",
+        "shop": "pyrotechnics"
+      }
+    },
+    {
+      "displayName": "Rusalut",
+      "id": "rusalut-4c9e23",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "matchNames": [
+        "русалют"
+      ],
+      "tags": {
+        "brand": "Rusalut",
+        "brand:wikidata": "Q111108391",
+        "name": "Rusalut",
+        "shop": "pyrotechnics"
+      },
+      "original_logo_url": "https://graph.facebook.com/rusalut/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rusalut-4c9e23.jpg",
+      "local_logo_path": "localbrand/logo/rusalut-4c9e23.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rusalut/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rusalut-4c9e23.jpg"
+      }
+    },
+    {
+      "displayName": "TNT Fireworks",
+      "id": "tntfireworks-f0f687",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "TNT Fireworks",
+        "brand:wikidata": "Q125580484",
+        "name": "TNT Fireworks",
+        "shop": "pyrotechnics"
+      }
+    }
+  ]
+}

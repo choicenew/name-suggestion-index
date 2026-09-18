@@ -1,0 +1,3370 @@
+{
+  "properties": {
+    "path": "brands/office/estate_agent",
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^estate agent$",
+        "^real estate agency$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "21世紀不動產",
+      "id": "century21-dccb44",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "21世紀不動產",
+        "brand:en": "Century 21",
+        "brand:wikidata": "Q1054480",
+        "brand:zh": "21世紀不動產",
+        "name": "21世紀不動產",
+        "name:en": "Century 21",
+        "name:nan": "21-sè-kí Put-tōng-sán",
+        "name:nan-Hant": "21世紀不動產",
+        "name:nan-Latn-pehoeji": "21-sè-kí Put-tōng-sán",
+        "name:nan-Latn-tailo": "21-sè-kí Put-tōng-sán",
+        "name:zh": "21世紀不動產",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/century21/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/century21-dccb44.png",
+      "local_logo_path": "localbrand/logo/century21-dccb44.png",
+      "logos": {
+        "original": "https://graph.facebook.com/century21/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/century21-dccb44.png"
+      }
+    },
+    {
+      "displayName": "21世纪不动产",
+      "id": "century21-3462c2",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "21世纪不动产",
+        "brand:en": "Century 21",
+        "brand:wikidata": "Q1054480",
+        "brand:zh": "21世纪不动产",
+        "name": "21世纪不动产",
+        "name:en": "Century 21",
+        "name:zh": "21世纪不动产",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/century21/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/century21-3462c2.png",
+      "local_logo_path": "localbrand/logo/century21-3462c2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/century21/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/century21-3462c2.png"
+      }
+    },
+    {
+      "displayName": "Activ'expertise",
+      "id": "activexpertise-b7bc37",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Activ'expertise",
+        "name": "Activ'expertise",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "AJP Immobilier",
+      "id": "ajpimmobilier-b7bc37",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "matchNames": [
+        "ajp"
+      ],
+      "tags": {
+        "brand": "AJP Immobilier",
+        "brand:wikidata": "Q141301527",
+        "name": "AJP Immobilier",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "Allen & Harris",
+      "id": "allenandharris-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Allen & Harris",
+        "brand:wikidata": "Q81856601",
+        "name": "Allen & Harris",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/allenandharrisestateagents/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allenandharris-aa448d.png",
+      "local_logo_path": "localbrand/logo/allenandharris-aa448d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/allenandharrisestateagents/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allenandharris-aa448d.png"
+      }
+    },
+    {
+      "displayName": "Bagshaws Residential",
+      "id": "bagshawsresidential-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Bagshaws Residential",
+        "brand:wikidata": "Q81859084",
+        "name": "Bagshaws Residential",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/BagshawsResidentialEstateAgents/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bagshawsresidential-aa448d.png",
+      "local_logo_path": "localbrand/logo/bagshawsresidential-aa448d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BagshawsResidentialEstateAgents/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bagshawsresidential-aa448d.png"
+      }
+    },
+    {
+      "displayName": "Bairstow Eves",
+      "id": "bairstoweves-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Bairstow Eves",
+        "brand:wikidata": "Q81074787",
+        "name": "Bairstow Eves",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/BairstowEvesEstateAgents/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bairstoweves-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/bairstoweves-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BairstowEvesEstateAgents/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bairstoweves-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Barfoot & Thompson",
+      "id": "barfootandthompson-8dbc65",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Barfoot & Thompson",
+        "brand:wikidata": "Q4860509",
+        "name": "Barfoot & Thompson",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/barfootandthompson/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barfootandthompson-8dbc65.png",
+      "local_logo_path": "localbrand/logo/barfootandthompson-8dbc65.png",
+      "logos": {
+        "original": "https://graph.facebook.com/barfootandthompson/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barfootandthompson-8dbc65.png"
+      }
+    },
+    {
+      "displayName": "Barnard Marcus",
+      "id": "barnardmarcus-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Barnard Marcus",
+        "brand:wikidata": "Q81860444",
+        "name": "Barnard Marcus",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/BarnardMarcusEstateAgents/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barnardmarcus-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/barnardmarcus-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BarnardMarcusEstateAgents/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barnardmarcus-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Barnes",
+      "id": "barnes-08bb13",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Barnes",
+        "brand:wikidata": "Q111207452",
+        "name": "Barnes",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/barnesinternationalrealty/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barnes-08bb13.jpg",
+      "local_logo_path": "localbrand/logo/barnes-08bb13.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/barnesinternationalrealty/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barnes-08bb13.jpg"
+      }
+    },
+    {
+      "displayName": "Bayleys",
+      "id": "bayleys-d3667a",
+      "locationSet": {
+        "include": [
+          "fj",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Bayleys",
+        "brand:wikidata": "Q112189592",
+        "name": "Bayleys",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/bayleys/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bayleys-d3667a.jpg",
+      "local_logo_path": "localbrand/logo/bayleys-d3667a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bayleys/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bayleys-d3667a.jpg"
+      }
+    },
+    {
+      "displayName": "Belle Property",
+      "id": "belleproperty-d66f4e",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Belle Property",
+        "brand:short": "Belle",
+        "brand:wikidata": "Q104721339",
+        "name": "Belle Property",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/bellepropertyau/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/belleproperty-d66f4e.png",
+      "local_logo_path": "localbrand/logo/belleproperty-d66f4e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/bellepropertyau/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/belleproperty-d66f4e.png"
+      }
+    },
+    {
+      "displayName": "Belvoir",
+      "id": "belvoir-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Belvoir",
+        "brand:wikidata": "Q111463571",
+        "name": "Belvoir",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "Berkshire Hathaway HomeServices",
+      "id": "berkshirehathawayhomeservices-aec949",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "homeservices of america"
+      ],
+      "tags": {
+        "brand": "Berkshire Hathaway HomeServices",
+        "brand:short": "Berkshire Hathaway",
+        "brand:wikidata": "Q5887960",
+        "name": "Berkshire Hathaway HomeServices",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/homeservices/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/berkshirehathawayhomeservices-aec949.jpg",
+      "local_logo_path": "localbrand/logo/berkshirehathawayhomeservices-aec949.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/homeservices/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/berkshirehathawayhomeservices-aec949.jpg"
+      }
+    },
+    {
+      "displayName": "Bjurfors",
+      "id": "bjurfors-b15ba4",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Bjurfors",
+        "brand:wikidata": "Q64210847",
+        "name": "Bjurfors",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/bjurforsmaklare/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bjurfors-b15ba4.jpg",
+      "local_logo_path": "localbrand/logo/bjurfors-b15ba4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bjurforsmaklare/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bjurfors-b15ba4.jpg"
+      }
+    },
+    {
+      "displayName": "Bradleys",
+      "id": "bradleys-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Bradleys",
+        "brand:wikidata": "Q83738286",
+        "name": "Bradleys",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/BradleysGroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bradleys-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/bradleys-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BradleysGroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bradleys-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Bridgfords",
+      "id": "bridgfords-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Bridgfords",
+        "brand:wikidata": "Q113565627",
+        "name": "Bridgfords",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/Bridgfords/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bridgfords-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/bridgfords-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Bridgfords/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bridgfords-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Brown & Merry",
+      "id": "brownandmerry-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Brown & Merry",
+        "brand:wikidata": "Q81859714",
+        "name": "Brown & Merry",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/BrownAndMerryEstateAgents/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brownandmerry-aa448d.png",
+      "local_logo_path": "localbrand/logo/brownandmerry-aa448d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BrownAndMerryEstateAgents/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brownandmerry-aa448d.png"
+      }
+    },
+    {
+      "displayName": "Buxton",
+      "id": "buxton-f2ceb3",
+      "locationSet": {
+        "include": [
+          "au-vic.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Buxton",
+        "brand:wikidata": "Q106236116",
+        "name": "Buxton",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/BuxtonRealEstateGroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buxton-f2ceb3.jpg",
+      "local_logo_path": "localbrand/logo/buxton-f2ceb3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BuxtonRealEstateGroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buxton-f2ceb3.jpg"
+      }
+    },
+    {
+      "displayName": "Cabinet Bedin",
+      "id": "cabinetbedin-b7bc37",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Cabinet Bedin",
+        "brand:wikidata": "Q141309660",
+        "name": "Cabinet Bedin",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "CBRE",
+      "id": "cbre-08bb13",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "cbre group",
+        "coldwell banker richard ellis"
+      ],
+      "tags": {
+        "brand": "CBRE",
+        "brand:wikidata": "Q1023013",
+        "name": "CBRE",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/cbre/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cbre-08bb13.png",
+      "local_logo_path": "localbrand/logo/cbre-08bb13.png",
+      "logos": {
+        "original": "https://graph.facebook.com/cbre/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cbre-08bb13.png"
+      }
+    },
+    {
+      "displayName": "Century 21",
+      "id": "century21-8870f0",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "cn",
+          "jp",
+          "tw"
+        ]
+      },
+      "matchNames": [
+        "century 21 real estate"
+      ],
+      "tags": {
+        "brand": "Century 21",
+        "brand:wikidata": "Q1054480",
+        "name": "Century 21",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/century21/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/century21-8870f0.png",
+      "local_logo_path": "localbrand/logo/century21-8870f0.png",
+      "logos": {
+        "original": "https://graph.facebook.com/century21/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/century21-8870f0.png"
+      }
+    },
+    {
+      "displayName": "Chestertons",
+      "id": "chestertons-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Chestertons",
+        "brand:wikidata": "Q24298789",
+        "name": "Chestertons",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Chestertons_purple_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chestertons-aa448d.png",
+      "local_logo_path": "localbrand/logo/chestertons-aa448d.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Chestertons_purple_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chestertons-aa448d.png"
+      }
+    },
+    {
+      "displayName": "Cimm Immobilier",
+      "id": "cimmimmobilier-b7bc37",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Cimm Immobilier",
+        "name": "Cimm Immobilier",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "Coldwell Banker",
+      "id": "coldwellbanker-08bb13",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "coldwell banker real estate"
+      ],
+      "tags": {
+        "brand": "Coldwell Banker",
+        "brand:wikidata": "Q738853",
+        "name": "Coldwell Banker",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/coldwellbanker/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coldwellbanker-08bb13.png",
+      "local_logo_path": "localbrand/logo/coldwellbanker-08bb13.png",
+      "logos": {
+        "original": "https://graph.facebook.com/coldwellbanker/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coldwellbanker-08bb13.png"
+      }
+    },
+    {
+      "displayName": "Connells",
+      "id": "connells-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Connells",
+        "brand:wikidata": "Q5161738",
+        "name": "Connells",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/298744224054963/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/connells-aa448d.png",
+      "local_logo_path": "localbrand/logo/connells-aa448d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/298744224054963/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/connells-aa448d.png"
+      }
+    },
+    {
+      "displayName": "Cooper & Tanner",
+      "id": "cooperandtanner-02d235",
+      "locationSet": {
+        "include": [
+          "gb-eng"
+        ]
+      },
+      "tags": {
+        "brand": "Cooper & Tanner",
+        "brand:wikidata": "Q122387475",
+        "name": "Cooper & Tanner",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/cooperandtanner/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cooperandtanner-02d235.jpg",
+      "local_logo_path": "localbrand/logo/cooperandtanner-02d235.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/cooperandtanner/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cooperandtanner-02d235.jpg"
+      }
+    },
+    {
+      "displayName": "Cushman & Wakefield",
+      "id": "cushmanandwakefield-08bb13",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Cushman & Wakefield",
+        "brand:wikidata": "Q1146061",
+        "name": "Cushman & Wakefield",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/CushmanWakefield/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cushmanandwakefield-08bb13.jpg",
+      "local_logo_path": "localbrand/logo/cushmanandwakefield-08bb13.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CushmanWakefield/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cushmanandwakefield-08bb13.jpg"
+      }
+    },
+    {
+      "displayName": "Dexters",
+      "id": "dexters-b6a2f8",
+      "locationSet": {
+        "include": [
+          "gb-lon.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Dexters",
+        "brand:wikidata": "Q113950230",
+        "name": "Dexters",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "Di Jones",
+      "id": "dijones-a43aea",
+      "locationSet": {
+        "include": [
+          "au-nsw.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Di Jones",
+        "brand:wikidata": "Q105290274",
+        "name": "Di Jones",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/DiJonesRealEstate/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dijones-a43aea.jpg",
+      "local_logo_path": "localbrand/logo/dijones-a43aea.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DiJonesRealEstate/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dijones-a43aea.jpg"
+      }
+    },
+    {
+      "displayName": "DNG",
+      "id": "dng-307938",
+      "locationSet": {
+        "include": [
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "DNG",
+        "brand:wikidata": "Q116646713",
+        "name": "DNG",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/douglasnewmangood/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dng-307938.jpg",
+      "local_logo_path": "localbrand/logo/dng-307938.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/douglasnewmangood/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dng-307938.jpg"
+      }
+    },
+    {
+      "displayName": "Duna House",
+      "id": "dunahouse-e3d705",
+      "locationSet": {
+        "include": [
+          "hu"
+        ]
+      },
+      "tags": {
+        "brand": "Duna House",
+        "brand:wikidata": "Q115167185",
+        "name": "Duna House",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/dunahouse/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dunahouse-e3d705.png",
+      "local_logo_path": "localbrand/logo/dunahouse-e3d705.png",
+      "logos": {
+        "original": "https://graph.facebook.com/dunahouse/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dunahouse-e3d705.png"
+      }
+    },
+    {
+      "displayName": "Edina Realty",
+      "id": "edinarealty-aec949",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Edina Realty",
+        "brand:wikidata": "Q5338112",
+        "name": "Edina Realty",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/EdinaRealty/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edinarealty-aec949.png",
+      "local_logo_path": "localbrand/logo/edinarealty-aec949.png",
+      "logos": {
+        "original": "https://graph.facebook.com/EdinaRealty/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edinarealty-aec949.png"
+      }
+    },
+    {
+      "displayName": "Engel & Völkers",
+      "id": "engelandvolkers-08bb13",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Engel & Völkers",
+        "brand:wikidata": "Q1341765",
+        "name": "Engel & Völkers",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/engelvoelkers.global/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/engelandvolkers-08bb13.jpg",
+      "local_logo_path": "localbrand/logo/engelandvolkers-08bb13.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/engelvoelkers.global/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/engelandvolkers-08bb13.jpg"
+      }
+    },
+    {
+      "displayName": "ERA Immobilier",
+      "id": "eraimmobilier-5155c2",
+      "locationSet": {
+        "include": [
+          "fx",
+          "mq"
+        ]
+      },
+      "tags": {
+        "brand": "ERA",
+        "brand:wikidata": "Q121496901",
+        "name": "ERA Immobilier",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/erarealestate/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eraimmobilier-5155c2.png",
+      "local_logo_path": "localbrand/logo/eraimmobilier-5155c2.png",
+      "logos": {
+        "original": "https://graph.facebook.com/erarealestate/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eraimmobilier-5155c2.png"
+      }
+    },
+    {
+      "displayName": "ERA Real Estate",
+      "id": "erarealestate-bdc562",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "bg",
+          "es",
+          "fr",
+          "pt"
+        ]
+      },
+      "matchNames": [
+        "era"
+      ],
+      "tags": {
+        "brand": "ERA Real Estate",
+        "brand:wikidata": "Q121496901",
+        "name": "ERA Real Estate",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/erarealestate/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/erarealestate-bdc562.png",
+      "local_logo_path": "localbrand/logo/erarealestate-bdc562.png",
+      "logos": {
+        "original": "https://graph.facebook.com/erarealestate/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/erarealestate-bdc562.png"
+      }
+    },
+    {
+      "displayName": "ERA Недвижими имоти",
+      "id": "era-c3df5e",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Era",
+        "brand:wikidata": "Q118778286",
+        "name": "Era",
+        "name:bg": "Ера",
+        "name:en": "Era",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/ERABulgaria/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/era-c3df5e.jpg",
+      "local_logo_path": "localbrand/logo/era-c3df5e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ERABulgaria/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/era-c3df5e.jpg"
+      }
+    },
+    {
+      "displayName": "Erik Olsson",
+      "id": "erikolsson-b15ba4",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "matchNames": [
+        "erik olsson fastighetsförmedling"
+      ],
+      "tags": {
+        "brand": "Erik Olsson",
+        "brand:wikidata": "Q10487677",
+        "name": "Erik Olsson",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/erikolssonfastighetsformedling/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/erikolsson-b15ba4.jpg",
+      "local_logo_path": "localbrand/logo/erikolsson-b15ba4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/erikolssonfastighetsformedling/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/erikolsson-b15ba4.jpg"
+      }
+    },
+    {
+      "displayName": "eXp Realty",
+      "id": "exprealty-0f7192",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "eXp Realty",
+        "brand:wikidata": "Q117344280",
+        "name": "eXp Realty",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/eXpRealty/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/exprealty-0f7192.jpg",
+      "local_logo_path": "localbrand/logo/exprealty-0f7192.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/eXpRealty/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/exprealty-0f7192.jpg"
+      }
+    },
+    {
+      "displayName": "FALC Immobilien",
+      "id": "falcimmobilien-2b2e07",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "FALC Immobilien",
+        "brand:wikidata": "Q107983152",
+        "name": "FALC Immobilien",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/falcimmobilien/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/falcimmobilien-2b2e07.jpg",
+      "local_logo_path": "localbrand/logo/falcimmobilien-2b2e07.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/falcimmobilien/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/falcimmobilien-2b2e07.jpg"
+      }
+    },
+    {
+      "displayName": "Fastighetsbyrån",
+      "id": "fastighetsbyran-b15ba4",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Fastighetsbyrån",
+        "brand:wikidata": "Q10494294",
+        "name": "Fastighetsbyrån",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/Fastighetsbyran/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastighetsbyran-b15ba4.jpg",
+      "local_logo_path": "localbrand/logo/fastighetsbyran-b15ba4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Fastighetsbyran/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastighetsbyran-b15ba4.jpg"
+      }
+    },
+    {
+      "displayName": "Felicity J Lord",
+      "id": "felicityjlord-b6a2f8",
+      "locationSet": {
+        "include": [
+          "gb-lon.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Felicity J Lord",
+        "brand:wikidata": "Q113556375",
+        "name": "Felicity J Lord",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/FelicityJLord/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/felicityjlord-b6a2f8.jpg",
+      "local_logo_path": "localbrand/logo/felicityjlord-b6a2f8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FelicityJLord/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/felicityjlord-b6a2f8.jpg"
+      }
+    },
+    {
+      "displayName": "Fine & Country",
+      "id": "fineandcountry-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Fine & Country",
+        "brand:wikidata": "Q99528796",
+        "name": "Fine & Country",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/FineandCountry/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fineandcountry-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/fineandcountry-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FineandCountry/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fineandcountry-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "First National Real Estate",
+      "id": "firstnationalrealestate-54d29c",
+      "locationSet": {
+        "include": [
+          "au",
+          "nc",
+          "nz",
+          "vu"
+        ]
+      },
+      "tags": {
+        "brand": "First National Real Estate",
+        "brand:wikidata": "Q122888198",
+        "name": "First National Real Estate",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "Fletchers",
+      "id": "fletchers-f2ceb3",
+      "locationSet": {
+        "include": [
+          "au-vic.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Fletchers",
+        "brand:wikidata": "Q106236137",
+        "name": "Fletchers",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/FletchersRE/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fletchers-f2ceb3.jpg",
+      "local_logo_path": "localbrand/logo/fletchers-f2ceb3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FletchersRE/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fletchers-f2ceb3.jpg"
+      }
+    },
+    {
+      "displayName": "Foncia",
+      "id": "foncia-b7bc37",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Foncia",
+        "brand:wikidata": "Q1435638",
+        "name": "Foncia",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/Foncia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foncia-b7bc37.jpg",
+      "local_logo_path": "localbrand/logo/foncia-b7bc37.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Foncia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foncia-b7bc37.jpg"
+      }
+    },
+    {
+      "displayName": "Fox & Sons",
+      "id": "foxandsons-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Fox & Sons",
+        "brand:wikidata": "Q81855298",
+        "name": "Fox & Sons",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/FoxAndSonsEstateAgents/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foxandsons-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/foxandsons-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FoxAndSonsEstateAgents/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foxandsons-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Foxtons",
+      "id": "foxtons-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Foxtons",
+        "brand:wikidata": "Q5477251",
+        "name": "Foxtons",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/FoxtonsEstateAgent/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foxtons-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/foxtons-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FoxtonsEstateAgent/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foxtons-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Gabetti",
+      "id": "gabetti-0731e9",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Gabetti",
+        "brand:wikidata": "Q3756422",
+        "name": "Gabetti",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/gabetti/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gabetti-0731e9.png",
+      "local_logo_path": "localbrand/logo/gabetti-0731e9.png",
+      "logos": {
+        "original": "https://graph.facebook.com/gabetti/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gabetti-0731e9.png"
+      }
+    },
+    {
+      "displayName": "Greenslade Taylor Hunt",
+      "id": "greensladetaylorhunt-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "gth"
+      ],
+      "tags": {
+        "brand": "Greenslade Taylor Hunt",
+        "brand:wikidata": "Q81052826",
+        "name": "Greenslade Taylor Hunt",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/GTHGreensladeTaylorHunt/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greensladetaylorhunt-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/greensladetaylorhunt-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GTHGreensladeTaylorHunt/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greensladetaylorhunt-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Guy Hoquet",
+      "id": "guyhoquet-ea3ef3",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Guy Hoquet",
+        "brand:wikidata": "Q25383970",
+        "name": "Guy Hoquet",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/GuyHoquetImmobilier/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/guyhoquet-ea3ef3.jpg",
+      "local_logo_path": "localbrand/logo/guyhoquet-ea3ef3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GuyHoquetImmobilier/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/guyhoquet-ea3ef3.jpg"
+      }
+    },
+    {
+      "displayName": "Haart",
+      "id": "haart-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Haart",
+        "brand:wikidata": "Q75006731",
+        "name": "Haart",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/haart.estate.agents/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/haart-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/haart-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/haart.estate.agents/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/haart-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Hamptons International",
+      "id": "hamptonsinternational-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "hamptons international lettings",
+        "hamptons international sales"
+      ],
+      "tags": {
+        "brand": "Hamptons International",
+        "brand:short": "Hamptons",
+        "brand:wikidata": "Q5646350",
+        "name": "Hamptons International",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "Harcourts",
+      "id": "harcourts-e2b091",
+      "locationSet": {
+        "include": [
+          "au",
+          "fj",
+          "hk",
+          "id",
+          "mu",
+          "mx",
+          "nz",
+          "us",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Harcourts",
+        "brand:wikidata": "Q5655056",
+        "name": "Harcourts",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/HarcourtsNewZealand/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harcourts-e2b091.png",
+      "local_logo_path": "localbrand/logo/harcourts-e2b091.png",
+      "logos": {
+        "original": "https://graph.facebook.com/HarcourtsNewZealand/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harcourts-e2b091.png"
+      }
+    },
+    {
+      "displayName": "Howard Hanna",
+      "id": "howardhanna-aec949",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Howard Hanna",
+        "brand:wikidata": "Q119573413",
+        "name": "Howard Hanna",
+        "office": "estate_agent",
+        "official_name": "Howard Hanna Real Estate Services"
+      },
+      "original_logo_url": "https://graph.facebook.com/howardhanna/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/howardhanna-aec949.jpg",
+      "local_logo_path": "localbrand/logo/howardhanna-aec949.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/howardhanna/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/howardhanna-aec949.jpg"
+      }
+    },
+    {
+      "displayName": "Human Immobilier",
+      "id": "humanimmobilier-b7bc37",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "matchNames": [
+        "bourse de l'immobilier"
+      ],
+      "tags": {
+        "brand": "Human Immobilier",
+        "brand:wikidata": "Q102352527",
+        "name": "Human Immobilier",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "Hunters",
+      "id": "hunters-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "hunters estate agents"
+      ],
+      "tags": {
+        "brand": "Hunters",
+        "brand:wikidata": "Q110476092",
+        "name": "Hunters",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/HuntersEstateAgent/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hunters-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/hunters-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HuntersEstateAgent/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hunters-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "HusmanHagberg",
+      "id": "husmanhagberg-b15ba4",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "HusmanHagberg",
+        "brand:wikidata": "Q130239920",
+        "name": "HusmanHagberg",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/husmanhagberg.se/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/husmanhagberg-b15ba4.jpg",
+      "local_logo_path": "localbrand/logo/husmanhagberg-b15ba4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/husmanhagberg.se/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/husmanhagberg-b15ba4.jpg"
+      }
+    },
+    {
+      "displayName": "Jellis Craig",
+      "id": "jelliscraig-f2ceb3",
+      "locationSet": {
+        "include": [
+          "au-vic.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Jellis Craig",
+        "brand:wikidata": "Q106236086",
+        "name": "Jellis Craig",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/jelliscraig/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jelliscraig-f2ceb3.jpg",
+      "local_logo_path": "localbrand/logo/jelliscraig-f2ceb3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/jelliscraig/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jelliscraig-f2ceb3.jpg"
+      }
+    },
+    {
+      "displayName": "JLL",
+      "id": "jll-08bb13",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "jones lange lasalle"
+      ],
+      "tags": {
+        "brand": "JLL",
+        "brand:wikidata": "Q1703389",
+        "name": "JLL",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/JLL_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jll-08bb13.svg",
+      "local_logo_path": "localbrand/logo/jll-08bb13.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/8/83/JLL_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jll-08bb13.svg"
+      }
+    },
+    {
+      "displayName": "John L. Scott",
+      "id": "johnlscott-aec949",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "John L. Scott",
+        "brand:wikidata": "Q6243687",
+        "name": "John L. Scott",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/johnlscott/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johnlscott-aec949.jpg",
+      "local_logo_path": "localbrand/logo/johnlscott-aec949.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/johnlscott/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johnlscott-aec949.jpg"
+      }
+    },
+    {
+      "displayName": "Jones & Chapman",
+      "id": "jonesandchapman-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Jones & Chapman",
+        "brand:wikidata": "Q81858007",
+        "name": "Jones & Chapman",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/JonesAndChapmanEstateAgents/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jonesandchapman-aa448d.png",
+      "local_logo_path": "localbrand/logo/jonesandchapman-aa448d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/JonesAndChapmanEstateAgents/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jonesandchapman-aa448d.png"
+      }
+    },
+    {
+      "displayName": "Keatons",
+      "id": "keatons-b6a2f8",
+      "locationSet": {
+        "include": [
+          "gb-lon.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Keatons",
+        "brand:wikidata": "Q113529463",
+        "name": "Keatons",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/KeatonsLondon/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keatons-b6a2f8.jpg",
+      "local_logo_path": "localbrand/logo/keatons-b6a2f8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KeatonsLondon/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keatons-b6a2f8.jpg"
+      }
+    },
+    {
+      "displayName": "Keller Williams Realty",
+      "id": "kellerwilliamsrealty-08bb13",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Keller Williams Realty",
+        "brand:wikidata": "Q6385689",
+        "name": "Keller Williams Realty",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/KellerWilliamsRealty/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kellerwilliamsrealty-08bb13.jpg",
+      "local_logo_path": "localbrand/logo/kellerwilliamsrealty-08bb13.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KellerWilliamsRealty/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kellerwilliamsrealty-08bb13.jpg"
+      }
+    },
+    {
+      "displayName": "Knight Frank",
+      "id": "knightfrank-08bb13",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Knight Frank",
+        "brand:wikidata": "Q3197998",
+        "name": "Knight Frank",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/KnightFrankLLP/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/knightfrank-08bb13.jpg",
+      "local_logo_path": "localbrand/logo/knightfrank-08bb13.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KnightFrankLLP/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/knightfrank-08bb13.jpg"
+      }
+    },
+    {
+      "displayName": "Laforêt",
+      "id": "laforet-ea3ef3",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Laforêt",
+        "brand:wikidata": "Q56310946",
+        "name": "Laforêt",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/Laforetfrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laforet-ea3ef3.png",
+      "local_logo_path": "localbrand/logo/laforet-ea3ef3.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Laforetfrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laforet-ea3ef3.png"
+      }
+    },
+    {
+      "displayName": "Leaders",
+      "id": "leaders-02d235",
+      "locationSet": {
+        "include": [
+          "gb-eng"
+        ]
+      },
+      "matchNames": [
+        "leaders estate agency"
+      ],
+      "tags": {
+        "brand": "Leaders",
+        "brand:wikidata": "Q111522674",
+        "name": "Leaders",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/LeadersLimited/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leaders-02d235.jpg",
+      "local_logo_path": "localbrand/logo/leaders-02d235.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LeadersLimited/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leaders-02d235.jpg"
+      }
+    },
+    {
+      "displayName": "LF Fastighetsförmedling",
+      "id": "lffastighetsformedling-b15ba4",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "matchNames": [
+        "länsförsäkringar fastighetsförmedling"
+      ],
+      "tags": {
+        "brand": "LF Fastighetsförmedling",
+        "brand:wikidata": "Q49101381",
+        "name": "LF Fastighetsförmedling",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/lffastighetsformedling/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lffastighetsformedling-b15ba4.png",
+      "local_logo_path": "localbrand/logo/lffastighetsformedling-b15ba4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/lffastighetsformedling/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lffastighetsformedling-b15ba4.png"
+      }
+    },
+    {
+      "displayName": "LJ Hooker",
+      "id": "ljhooker-08bb13",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "LJ Hooker",
+        "brand:wikidata": "Q6456509",
+        "name": "LJ Hooker",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/ljhooker/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ljhooker-08bb13.jpg",
+      "local_logo_path": "localbrand/logo/ljhooker-08bb13.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ljhooker/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ljhooker-08bb13.jpg"
+      }
+    },
+    {
+      "displayName": "Long & Foster",
+      "id": "longandfoster-aec949",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Long & Foster Real Estate",
+        "brand:wikidata": "Q6672178",
+        "name": "Long & Foster",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "M&M Reality",
+      "id": "mandmreality-e54382",
+      "locationSet": {
+        "include": [
+          "cz"
+        ]
+      },
+      "tags": {
+        "brand": "M&M Reality",
+        "brand:wikidata": "Q12034790",
+        "name": "M&M Reality",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "Mäklarhuset",
+      "id": "maklarhuset-b15ba4",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Mäklarhuset",
+        "brand:wikidata": "Q10593121",
+        "name": "Mäklarhuset",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/maklarhuset/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maklarhuset-b15ba4.jpg",
+      "local_logo_path": "localbrand/logo/maklarhuset-b15ba4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/maklarhuset/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maklarhuset-b15ba4.jpg"
+      }
+    },
+    {
+      "displayName": "Mäklarringen",
+      "id": "maklarringen-b15ba4",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Mäklarringen",
+        "brand:wikidata": "Q18292443",
+        "name": "Mäklarringen",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/Maklarringen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maklarringen-b15ba4.jpg",
+      "local_logo_path": "localbrand/logo/maklarringen-b15ba4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Maklarringen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maklarringen-b15ba4.jpg"
+      }
+    },
+    {
+      "displayName": "Manners & Harrison",
+      "id": "mannersandharrison-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Manners & Harrison",
+        "brand:wikidata": "Q81857241",
+        "name": "Manners & Harrison",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/MannersAndHarrisonEstateAgents/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mannersandharrison-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/mannersandharrison-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MannersAndHarrisonEstateAgents/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mannersandharrison-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Martin & Co",
+      "id": "martinandco-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Martin & Co",
+        "brand:wikidata": "Q81066918",
+        "name": "Martin & Co",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/martincouk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/martinandco-aa448d.png",
+      "local_logo_path": "localbrand/logo/martinandco-aa448d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/martincouk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/martinandco-aa448d.png"
+      }
+    },
+    {
+      "displayName": "Mayfair Town & Country",
+      "id": "mayfairtownandcountry-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Mayfair Town & Country",
+        "brand:wikidata": "Q90269289",
+        "name": "Mayfair Town & Country",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/MayfairTownCountry/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mayfairtownandcountry-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/mayfairtownandcountry-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MayfairTownCountry/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mayfairtownandcountry-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "McGrath",
+      "id": "mcgrath-d66f4e",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "McGrath",
+        "brand:wikidata": "Q105290661",
+        "name": "McGrath",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/McGrathEstateAgents/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcgrath-d66f4e.jpg",
+      "local_logo_path": "localbrand/logo/mcgrath-d66f4e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/McGrathEstateAgents/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcgrath-d66f4e.jpg"
+      }
+    },
+    {
+      "displayName": "McMakler",
+      "id": "mcmakler-2b2e07",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "McMakler",
+        "brand:wikidata": "Q102068517",
+        "name": "McMakler",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/mcmakler.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcmakler-2b2e07.jpg",
+      "local_logo_path": "localbrand/logo/mcmakler-2b2e07.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mcmakler.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcmakler-2b2e07.jpg"
+      }
+    },
+    {
+      "displayName": "Nelson Alexander",
+      "id": "nelsonalexander-f2ceb3",
+      "locationSet": {
+        "include": [
+          "au-vic.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Nelson Alexander",
+        "brand:wikidata": "Q106236053",
+        "name": "Nelson Alexander",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/nelsonalexanderrealestate/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nelsonalexander-f2ceb3.png",
+      "local_logo_path": "localbrand/logo/nelsonalexander-f2ceb3.png",
+      "logos": {
+        "original": "https://graph.facebook.com/nelsonalexanderrealestate/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nelsonalexander-f2ceb3.png"
+      }
+    },
+    {
+      "displayName": "Nestenn",
+      "id": "nestenn-b7bc37",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Nestenn",
+        "brand:wikidata": "Q128788942",
+        "name": "Nestenn",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/NestennImmobilier/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nestenn-b7bc37.png",
+      "local_logo_path": "localbrand/logo/nestenn-b7bc37.png",
+      "logos": {
+        "original": "https://graph.facebook.com/NestennImmobilier/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nestenn-b7bc37.png"
+      }
+    },
+    {
+      "displayName": "Nexity",
+      "id": "nexity-b7bc37",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Nexity",
+        "brand:wikidata": "Q3339185",
+        "name": "Nexity",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/nexity/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nexity-b7bc37.jpg",
+      "local_logo_path": "localbrand/logo/nexity-b7bc37.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/nexity/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nexity-b7bc37.jpg"
+      }
+    },
+    {
+      "displayName": "Nybolig",
+      "id": "nybolig-4e81a9",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "Nybolig",
+        "brand:wikidata": "Q12329403",
+        "name": "Nybolig",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/Nybolig/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nybolig-4e81a9.jpg",
+      "local_logo_path": "localbrand/logo/nybolig-4e81a9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Nybolig/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nybolig-4e81a9.jpg"
+      }
+    },
+    {
+      "displayName": "Orpi",
+      "id": "orpi-ea3ef3",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Orpi",
+        "brand:wikidata": "Q3356080",
+        "name": "Orpi",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/OrpiFrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orpi-ea3ef3.png",
+      "local_logo_path": "localbrand/logo/orpi-ea3ef3.png",
+      "logos": {
+        "original": "https://graph.facebook.com/OrpiFrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orpi-ea3ef3.png"
+      }
+    },
+    {
+      "displayName": "Palmer Snell",
+      "id": "palmersnell-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Palmer Snell",
+        "brand:wikidata": "Q81068923",
+        "name": "Palmer Snell",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/PalmerSnellEstateAgents/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/palmersnell-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/palmersnell-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PalmerSnellEstateAgents/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/palmersnell-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Pam Golding Properties",
+      "id": "pamgoldingproperties-80530e",
+      "locationSet": {
+        "include": [
+          "bw",
+          "ke",
+          "mz",
+          "na",
+          "sz",
+          "za",
+          "zm",
+          "zw"
+        ]
+      },
+      "tags": {
+        "brand": "Pam Golding Properties",
+        "brand:wikidata": "Q65051429",
+        "name": "Pam Golding Properties",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/PamGoldingProperties/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pamgoldingproperties-80530e.jpg",
+      "local_logo_path": "localbrand/logo/pamgoldingproperties-80530e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PamGoldingProperties/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pamgoldingproperties-80530e.jpg"
+      }
+    },
+    {
+      "displayName": "Parkers",
+      "id": "parkers-02d235",
+      "locationSet": {
+        "include": [
+          "gb-eng"
+        ]
+      },
+      "tags": {
+        "brand": "Parkers",
+        "brand:wikidata": "Q110478780",
+        "name": "Parkers",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/ParkersProperties/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parkers-02d235.jpg",
+      "local_logo_path": "localbrand/logo/parkers-02d235.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ParkersProperties/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parkers-02d235.jpg"
+      }
+    },
+    {
+      "displayName": "Rawson Property Group",
+      "id": "rawsonpropertygroup-0c74af",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Rawson Property Group",
+        "brand:wikidata": "Q130379454",
+        "name": "Rawson Property Group",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/RawsonProperties/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rawsonpropertygroup-0c74af.png",
+      "local_logo_path": "localbrand/logo/rawsonpropertygroup-0c74af.png",
+      "logos": {
+        "original": "https://graph.facebook.com/RawsonProperties/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rawsonpropertygroup-0c74af.png"
+      }
+    },
+    {
+      "displayName": "Ray White",
+      "id": "raywhite-85c03d",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Ray White",
+        "brand:wikidata": "Q81077729",
+        "name": "Ray White",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/raywhitegroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/raywhite-85c03d.jpg",
+      "local_logo_path": "localbrand/logo/raywhite-85c03d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/raywhitegroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/raywhite-85c03d.jpg"
+      }
+    },
+    {
+      "displayName": "RE/MAX",
+      "id": "remax-08bb13",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "re/max of america"
+      ],
+      "tags": {
+        "brand": "RE/MAX",
+        "brand:wikidata": "Q965845",
+        "name": "RE/MAX",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/remax/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/remax-08bb13.jpg",
+      "local_logo_path": "localbrand/logo/remax-08bb13.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/remax/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/remax-08bb13.jpg"
+      }
+    },
+    {
+      "displayName": "Realty Executives",
+      "id": "realtyexecutives-aec949",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Realty Executives",
+        "brand:wikidata": "Q122435858",
+        "name": "Realty Executives",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/realtyexecutivesintl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/realtyexecutives-aec949.jpg",
+      "local_logo_path": "localbrand/logo/realtyexecutives-aec949.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/realtyexecutivesintl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/realtyexecutives-aec949.jpg"
+      }
+    },
+    {
+      "displayName": "Reeds Rains",
+      "id": "reedsrains-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Reeds Rains",
+        "brand:wikidata": "Q120751970",
+        "name": "Reeds Rains",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/reedsrains/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/reedsrains-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/reedsrains-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/reedsrains/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/reedsrains-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Roger Platt",
+      "id": "rogerplatt-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Roger Platt",
+        "brand:wikidata": "Q81859999",
+        "name": "Roger Platt",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/RogerPlattEstateAgents/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rogerplatt-aa448d.png",
+      "local_logo_path": "localbrand/logo/rogerplatt-aa448d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/RogerPlattEstateAgents/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rogerplatt-aa448d.png"
+      }
+    },
+    {
+      "displayName": "Romans",
+      "id": "romans-02d235",
+      "locationSet": {
+        "include": [
+          "gb-eng"
+        ]
+      },
+      "tags": {
+        "brand": "Romans",
+        "brand:wikidata": "Q113562519",
+        "name": "Romans",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/romansestateagents/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/romans-02d235.jpg",
+      "local_logo_path": "localbrand/logo/romans-02d235.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/romansestateagents/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/romans-02d235.jpg"
+      }
+    },
+    {
+      "displayName": "Royal LePage",
+      "id": "royallepage-376811",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Royal LePage",
+        "brand:wikidata": "Q7374385",
+        "name": "Royal LePage",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/royallepage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/royallepage-376811.jpg",
+      "local_logo_path": "localbrand/logo/royallepage-376811.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/royallepage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/royallepage-376811.jpg"
+      }
+    },
+    {
+      "displayName": "Savills",
+      "id": "savills-08bb13",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Savills",
+        "brand:wikidata": "Q10458056",
+        "name": "Savills",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/Savills/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/savills-08bb13.jpg",
+      "local_logo_path": "localbrand/logo/savills-08bb13.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Savills/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/savills-08bb13.jpg"
+      }
+    },
+    {
+      "displayName": "Sherry FitzGerald",
+      "id": "sherryfitzgerald-307938",
+      "locationSet": {
+        "include": [
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "Sherry FitzGerald",
+        "brand:wikidata": "Q116646140",
+        "name": "Sherry FitzGerald",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/sherryfitzgeraldgroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sherryfitzgerald-307938.jpg",
+      "local_logo_path": "localbrand/logo/sherryfitzgerald-307938.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sherryfitzgeraldgroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sherryfitzgerald-307938.jpg"
+      }
+    },
+    {
+      "displayName": "Shipways",
+      "id": "shipways-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Shipways",
+        "brand:wikidata": "Q81859397",
+        "name": "Shipways",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/ShipwaysEstateAgent/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shipways-aa448d.png",
+      "local_logo_path": "localbrand/logo/shipways-aa448d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ShipwaysEstateAgent/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shipways-aa448d.png"
+      }
+    },
+    {
+      "displayName": "Sixième Avenue",
+      "id": "sixiemeavenue-ea3ef3",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Sixième Avenue",
+        "brand:wikidata": "Q140619852",
+        "name": "Sixième Avenue",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "SkandiaMäklarna",
+      "id": "skandiamaklarna-b15ba4",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "SkandiaMäklarna",
+        "brand:wikidata": "Q10669682",
+        "name": "SkandiaMäklarna",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/skandiamaklarna/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skandiamaklarna-b15ba4.jpg",
+      "local_logo_path": "localbrand/logo/skandiamaklarna-b15ba4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/skandiamaklarna/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skandiamaklarna-b15ba4.jpg"
+      }
+    },
+    {
+      "displayName": "Square Habitat",
+      "id": "squarehabitat-b7bc37",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Square Habitat",
+        "brand:wikidata": "Q64027038",
+        "name": "Square Habitat",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/541219055971624/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/squarehabitat-b7bc37.jpg",
+      "local_logo_path": "localbrand/logo/squarehabitat-b7bc37.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/541219055971624/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/squarehabitat-b7bc37.jpg"
+      }
+    },
+    {
+      "displayName": "Stags",
+      "id": "stags-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Stags",
+        "brand:wikidata": "Q91028631",
+        "name": "Stags",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/StagsProperty/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stags-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/stags-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/StagsProperty/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stags-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Stéphane Plaza Immobilier",
+      "id": "stephaneplazaimmobilier-b7bc37",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "matchNames": [
+        "stéphane plaza"
+      ],
+      "tags": {
+        "brand": "Stéphane Plaza Immobilier",
+        "brand:wikidata": "Q97368097",
+        "name": "Stéphane Plaza Immobilier",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/stephaneplazaimmobilier/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stephaneplazaimmobilier-b7bc37.png",
+      "local_logo_path": "localbrand/logo/stephaneplazaimmobilier-b7bc37.png",
+      "logos": {
+        "original": "https://graph.facebook.com/stephaneplazaimmobilier/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stephaneplazaimmobilier-b7bc37.png"
+      }
+    },
+    {
+      "displayName": "Stirling Ackroyd",
+      "id": "stirlingackroyd-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Stirling Ackroyd",
+        "brand:wikidata": "Q81062228",
+        "name": "Stirling Ackroyd",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/StirlingAckroyd/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stirlingackroyd-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/stirlingackroyd-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/StirlingAckroyd/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stirlingackroyd-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Stone",
+      "id": "stone-d66f4e",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Stone",
+        "brand:wikidata": "Q105290093",
+        "name": "Stone",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/stonerealestategroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stone-d66f4e.jpg",
+      "local_logo_path": "localbrand/logo/stone-d66f4e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/stonerealestategroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stone-d66f4e.jpg"
+      }
+    },
+    {
+      "displayName": "Strutt & Parker",
+      "id": "struttandparker-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Strutt & Parker",
+        "brand:wikidata": "Q7625458",
+        "name": "Strutt & Parker",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/struttandparker/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/struttandparker-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/struttandparker-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/struttandparker/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/struttandparker-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Svensk Fastighetsförmedling",
+      "id": "svenskfastighetsformedling-b15ba4",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Svensk Fastighetsförmedling",
+        "brand:wikidata": "Q10684799",
+        "name": "Svensk Fastighetsförmedling",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/svenskfast/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/svenskfastighetsformedling-b15ba4.jpg",
+      "local_logo_path": "localbrand/logo/svenskfastighetsformedling-b15ba4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/svenskfast/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/svenskfastighetsformedling-b15ba4.jpg"
+      }
+    },
+    {
+      "displayName": "Swetenhams",
+      "id": "swetenhams-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Swetenhams",
+        "brand:wikidata": "Q81858340",
+        "name": "Swetenhams",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/SwetenhamsEstateAgents/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swetenhams-aa448d.png",
+      "local_logo_path": "localbrand/logo/swetenhams-aa448d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SwetenhamsEstateAgents/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swetenhams-aa448d.png"
+      }
+    },
+    {
+      "displayName": "Symonds & Sampson",
+      "id": "symondsandsampson-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Symonds & Sampson",
+        "brand:wikidata": "Q90262955",
+        "name": "Symonds & Sampson",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/SymondsandSampson/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/symondsandsampson-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/symondsandsampson-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SymondsandSampson/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/symondsandsampson-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Taylors",
+      "id": "taylors-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Taylors",
+        "brand:wikidata": "Q94579182",
+        "name": "Taylors",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/TaylorsEstateAgent/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taylors-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/taylors-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TaylorsEstateAgent/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taylors-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Tecnocasa",
+      "id": "tecnocasa-ed2199",
+      "locationSet": {
+        "include": [
+          "es",
+          "it",
+          "pl"
+        ]
+      },
+      "matchNames": [
+        "gruppo tecnocasa"
+      ],
+      "tags": {
+        "brand": "Tecnocasa",
+        "brand:wikidata": "Q2399658",
+        "name": "Tecnocasa",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/GruppoTecnocasa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tecnocasa-ed2199.jpg",
+      "local_logo_path": "localbrand/logo/tecnocasa-ed2199.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GruppoTecnocasa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tecnocasa-ed2199.jpg"
+      }
+    },
+    {
+      "displayName": "Tecnorete",
+      "id": "tecnorete-0731e9",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Tecnorete",
+        "name": "Tecnorete",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "Tempocasa",
+      "id": "tempocasa-0731e9",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Tempocasa",
+        "brand:wikidata": "Q126709230",
+        "name": "Tempocasa",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/tempocasa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tempocasa-0731e9.jpg",
+      "local_logo_path": "localbrand/logo/tempocasa-0731e9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tempocasa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tempocasa-0731e9.jpg"
+      }
+    },
+    {
+      "displayName": "Townends",
+      "id": "townends-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Townends",
+        "brand:wikidata": "Q81061275",
+        "name": "Townends",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "Von Poll Immobilien",
+      "id": "vonpollimmobilien-0fbcd3",
+      "locationSet": {
+        "include": [
+          "at",
+          "de"
+        ]
+      },
+      "matchNames": [
+        "von poll real estate",
+        "vonpoll",
+        "vonpoll commercial"
+      ],
+      "tags": {
+        "brand": "Von Poll Immobilien",
+        "brand:wikidata": "Q96026696",
+        "name": "Von Poll Immobilien",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/vonPollImmobilien/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vonpollimmobilien-0fbcd3.jpg",
+      "local_logo_path": "localbrand/logo/vonpollimmobilien-0fbcd3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/vonPollImmobilien/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vonpollimmobilien-0fbcd3.jpg"
+      }
+    },
+    {
+      "displayName": "von Poll Real Estate",
+      "id": "vonpollrealestate-c99072",
+      "locationSet": {
+        "include": [
+          "150"
+        ],
+        "exclude": [
+          "at",
+          "de"
+        ]
+      },
+      "matchNames": [
+        "von poll immobilien",
+        "vonpoll",
+        "vonpoll commercial"
+      ],
+      "tags": {
+        "brand": "von Poll Real Estate",
+        "brand:wikidata": "Q96026696",
+        "name": "von Poll Real Estate",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/vonPollImmobilien/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vonpollrealestate-c99072.jpg",
+      "local_logo_path": "localbrand/logo/vonpollrealestate-c99072.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/vonPollImmobilien/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vonpollrealestate-c99072.jpg"
+      }
+    },
+    {
+      "displayName": "Webbers",
+      "id": "webbers-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Webbers",
+        "brand:wikidata": "Q81068176",
+        "name": "Webbers",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/WebbersEstateAgentsHQ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/webbers-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/webbers-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WebbersEstateAgentsHQ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/webbers-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Weichert, Realtors",
+      "id": "weichert-aec949",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Weichert, Realtors",
+        "brand:wikidata": "Q28206837",
+        "name": "Weichert",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/weichert/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/weichert-aec949.jpg",
+      "local_logo_path": "localbrand/logo/weichert-aec949.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/weichert/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/weichert-aec949.jpg"
+      }
+    },
+    {
+      "displayName": "William H. Brown",
+      "id": "williamhbrown-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "William H. Brown",
+        "brand:wikidata": "Q81787271",
+        "name": "William H. Brown",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/WilliamHBrownEstateAgents/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/williamhbrown-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/williamhbrown-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WilliamHBrownEstateAgents/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/williamhbrown-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Windermere Real Estate",
+      "id": "windermererealestate-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Windermere Real Estate",
+        "brand:wikidata": "Q8024125",
+        "name": "Windermere Real Estate",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/WindermereRealEstate/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/windermererealestate-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/windermererealestate-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WindermereRealEstate/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/windermererealestate-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Winkworth",
+      "id": "winkworth-08bb13",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Winkworth",
+        "brand:wikidata": "Q8025502",
+        "name": "Winkworth",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/Winkworthestateagents/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/winkworth-08bb13.jpg",
+      "local_logo_path": "localbrand/logo/winkworth-08bb13.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Winkworthestateagents/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/winkworth-08bb13.jpg"
+      }
+    },
+    {
+      "displayName": "Your Move",
+      "id": "yourmove-aa448d",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Your Move",
+        "brand:wikidata": "Q81078416",
+        "name": "Your Move",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/yourmoveuk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yourmove-aa448d.jpg",
+      "local_logo_path": "localbrand/logo/yourmove-aa448d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/yourmoveuk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yourmove-aa448d.jpg"
+      }
+    },
+    {
+      "displayName": "Адрес недвижими имоти",
+      "id": "address-c3df5e",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Адрес",
+        "brand:wikidata": "Q118778813",
+        "name": "Адрес",
+        "name:bg": "Адрес",
+        "name:en": "Address",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/AddressRealEstates/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/address-c3df5e.jpg",
+      "local_logo_path": "localbrand/logo/address-c3df5e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AddressRealEstates/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/address-c3df5e.jpg"
+      }
+    },
+    {
+      "displayName": "Жилфонд",
+      "id": "ee5a42-040d5e",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Жилфонд",
+        "brand:wikidata": "Q118601579",
+        "name": "Жилфонд",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "Самолет Плюс",
+      "id": "cb1921-040d5e",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Самолет Плюс",
+        "name": "Самолет Плюс",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "アパマンショップ",
+      "id": "apamanshop-60400b",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "アパマンショップ",
+        "brand:en": "Apaman Shop",
+        "brand:ja": "アパマンショップ",
+        "brand:wikidata": "Q11284512",
+        "name": "アパマンショップ",
+        "name:en": "Apaman Shop",
+        "name:ja": "アパマンショップ",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/apamanshopcom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/apamanshop-60400b.png",
+      "local_logo_path": "localbrand/logo/apamanshop-60400b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/apamanshopcom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/apamanshop-60400b.png"
+      }
+    },
+    {
+      "displayName": "エイブル",
+      "id": "able-60400b",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "エイブル",
+        "brand:en": "Able",
+        "brand:ja": "エイブル",
+        "brand:wikidata": "Q11289620",
+        "name": "エイブル",
+        "name:en": "Able",
+        "name:ja": "エイブル",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/able.official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/able-60400b.jpg",
+      "local_logo_path": "localbrand/logo/able-60400b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/able.official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/able-60400b.jpg"
+      }
+    },
+    {
+      "displayName": "センチュリー21",
+      "id": "century21-60400b",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "CENTURY 21",
+        "brand:en": "CENTURY 21",
+        "brand:ja": "センチュリー21",
+        "brand:wikidata": "Q1054480",
+        "name": "センチュリー21",
+        "name:en": "Century 21",
+        "name:ja": "センチュリー21",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/century21/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/century21-60400b.png",
+      "local_logo_path": "localbrand/logo/century21-60400b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/century21/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/century21-60400b.png"
+      }
+    },
+    {
+      "displayName": "タウンハウジング",
+      "id": "townhousing-60400b",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "タウンハウジング",
+        "brand:en": "Townhousing",
+        "brand:ja": "タウンハウジング",
+        "brand:wikidata": "Q11315877",
+        "name": "タウンハウジング",
+        "name:en": "Townhousing",
+        "name:ja": "タウンハウジング",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "ピタットハウス",
+      "id": "pitathouse-60400b",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "ピタットハウスネットワーク"
+      ],
+      "tags": {
+        "brand": "ピタットハウス",
+        "brand:en": "Pitat House",
+        "brand:ja": "ピタットハウス",
+        "brand:wikidata": "Q11331484",
+        "name": "ピタットハウス",
+        "name:en": "Pitat House",
+        "name:ja": "ピタットハウス",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/pitatofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pitathouse-60400b.jpg",
+      "local_logo_path": "localbrand/logo/pitathouse-60400b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pitatofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pitathouse-60400b.jpg"
+      }
+    },
+    {
+      "displayName": "ホームメイト",
+      "id": "homemate-60400b",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ホームメイト",
+        "brand:en": "HOMEMATE",
+        "brand:ja": "ホームメイト",
+        "brand:wikidata": "Q115113388",
+        "name": "ホームメイト",
+        "name:en": "Homemate",
+        "name:ja": "ホームメイト",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/homemate/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/homemate-60400b.jpg",
+      "local_logo_path": "localbrand/logo/homemate-60400b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/homemate/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/homemate-60400b.jpg"
+      }
+    },
+    {
+      "displayName": "ユニバーサルホーム",
+      "id": "universalhouse-60400b",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ユニバーサルホーム",
+        "brand:en": "Universal House",
+        "brand:ja": "ユニバーサルホーム",
+        "brand:wikidata": "Q11345697",
+        "name": "ユニバーサルホーム",
+        "name:en": "Universal House",
+        "name:ja": "ユニバーサルホーム",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "三井のリハウス",
+      "id": "mitsuifudosanrealty-60400b",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "三井のリハウス",
+        "brand:en": "Mitsui Fudosan Realty",
+        "brand:ja": "三井のリハウス",
+        "brand:wikidata": "Q11354218",
+        "name": "三井のリハウス",
+        "name:ja": "三井のリハウス",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "三菱UFJ不動産販売",
+      "id": "mitsubishiufjrealestateservices-60400b",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "三菱UFJ不動産販売",
+        "brand:en": "Mitsubishi UFJ Real Estate Services",
+        "brand:ja": "三菱UFJ不動産販売",
+        "brand:wikidata": "Q11357004",
+        "name": "三菱UFJ不動産販売",
+        "name:en": "Mitsubishi UFJ Real Estate Services",
+        "name:ja": "三菱UFJ不動産販売",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Mitsubishi-UFJ-Financial-Group-Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mitsubishiufjrealestateservices-60400b.svg",
+      "local_logo_path": "localbrand/logo/mitsubishiufjrealestateservices-60400b.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Mitsubishi-UFJ-Financial-Group-Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mitsubishiufjrealestateservices-60400b.svg"
+      }
+    },
+    {
+      "displayName": "世紀21 Century 21",
+      "id": "century21-295f7a",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "世紀21 Century 21",
+        "brand:en": "Century 21",
+        "brand:wikidata": "Q1054480",
+        "brand:zh": "世紀21",
+        "name": "世紀21 Century 21",
+        "name:en": "Century 21",
+        "name:zh": "世紀21",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/century21/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/century21-295f7a.png",
+      "local_logo_path": "localbrand/logo/century21-295f7a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/century21/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/century21-295f7a.png"
+      }
+    },
+    {
+      "displayName": "中信房屋",
+      "id": "ctbcrealestate-dccb44",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "中信房屋",
+        "brand:en": "CTBC Real Estate",
+        "brand:wikidata": "Q10871742",
+        "brand:zh": "中信房屋",
+        "name": "中信房屋",
+        "name:en": "CTBC Real Estate",
+        "name:nan": "Tiong-sìn Pâng-ok",
+        "name:nan-Hant": "中信房屋",
+        "name:nan-Latn-pehoeji": "Tiong-sìn Pâng-ok",
+        "name:nan-Latn-tailo": "Tiong-sìn Pâng-ok",
+        "name:zh": "中信房屋",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/DarlinginCThouse/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ctbcrealestate-dccb44.png",
+      "local_logo_path": "localbrand/logo/ctbcrealestate-dccb44.png",
+      "logos": {
+        "original": "https://graph.facebook.com/DarlinginCThouse/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ctbcrealestate-dccb44.png"
+      }
+    },
+    {
+      "displayName": "中原地產 Centaline Property",
+      "id": "centalineproperty-295f7a",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "中原地產 Centaline Property",
+        "brand:en": "Centaline Property",
+        "brand:wikidata": "Q5058993",
+        "brand:zh": "中原地產",
+        "name": "中原地產 Centaline Property",
+        "name:en": "Centaline Property",
+        "name:zh": "中原地產",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/centaline/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/centalineproperty-295f7a.jpg",
+      "local_logo_path": "localbrand/logo/centalineproperty-295f7a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/centaline/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/centalineproperty-295f7a.jpg"
+      }
+    },
+    {
+      "displayName": "中原房产",
+      "id": "9a7320-17e349",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "中原房产",
+        "name": "中原房产",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "住商不動產",
+      "id": "handbhousing-dccb44",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "住商不動產",
+        "brand:en": "H&B Housing",
+        "brand:wikidata": "Q105079491",
+        "brand:zh": "住商不動產",
+        "name": "住商不動產",
+        "name:en": "H&B Housing",
+        "name:zh": "住商不動產",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/H%26B_Housing_Logo.webp",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/handbhousing-dccb44.webp",
+      "local_logo_path": "localbrand/logo/handbhousing-dccb44.webp",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/24/H%26B_Housing_Logo.webp",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/handbhousing-dccb44.webp"
+      }
+    },
+    {
+      "displayName": "信義房屋",
+      "id": "sinyirealty-dccb44",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "信義房屋",
+        "brand:en": "Sinyi Realty",
+        "brand:wikidata": "Q10888034",
+        "brand:zh": "信義房屋",
+        "name": "信義房屋",
+        "name:en": "Sinyi Realty",
+        "name:zh": "信義房屋",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/sinyifans/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sinyirealty-dccb44.jpg",
+      "local_logo_path": "localbrand/logo/sinyirealty-dccb44.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sinyifans/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sinyirealty-dccb44.jpg"
+      }
+    },
+    {
+      "displayName": "利嘉閣 Ricacorp Properties",
+      "id": "ricacorpproperties-d2db80",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "brand": "利嘉閣 Ricacorp Properties",
+        "brand:en": "Ricacorp Properties",
+        "brand:wikidata": "Q7322502",
+        "brand:zh": "利嘉閣",
+        "name": "利嘉閣 Ricacorp Properties",
+        "name:en": "Ricacorp Properties",
+        "name:zh": "利嘉閣",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/ricacorpproperties/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ricacorpproperties-d2db80.jpg",
+      "local_logo_path": "localbrand/logo/ricacorpproperties-d2db80.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ricacorpproperties/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ricacorpproperties-d2db80.jpg"
+      }
+    },
+    {
+      "displayName": "台灣房屋",
+      "id": "taiwanrealtyestate-dccb44",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "台灣房屋",
+        "brand:en": "Taiwan Realty Estate",
+        "brand:wikidata": "Q15934189",
+        "brand:zh": "台灣房屋",
+        "name": "台灣房屋",
+        "name:en": "Taiwan Realty Estate",
+        "name:nan": "Tâi-oân Pâng-ok",
+        "name:nan-Hant": "台灣房屋",
+        "name:nan-Latn-pehoeji": "Tâi-oân Pâng-ok",
+        "name:nan-Latn-tailo": "Tâi-uân Pâng-ok",
+        "name:zh": "台灣房屋",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/TWHouse/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taiwanrealtyestate-dccb44.jpg",
+      "local_logo_path": "localbrand/logo/taiwanrealtyestate-dccb44.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TWHouse/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taiwanrealtyestate-dccb44.jpg"
+      }
+    },
+    {
+      "displayName": "德佑地产",
+      "id": "bd85f3-17e349",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "德佑地产",
+        "name": "德佑地产",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "我爱我家",
+      "id": "b7e613-17e349",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "brand": "我爱我家",
+        "brand:wikidata": "Q21017079",
+        "name": "我爱我家",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/5i5j_headquarters_%2820230821161341%29.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/b7e613-17e349.jpg",
+      "local_logo_path": "localbrand/logo/b7e613-17e349.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/e/e8/5i5j_headquarters_%2820230821161341%29.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/b7e613-17e349.jpg"
+      }
+    },
+    {
+      "displayName": "有巢氏房屋",
+      "id": "utrust-dccb44",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "有巢氏房屋",
+        "brand:en": "u-trust",
+        "brand:wikidata": "Q131300581",
+        "brand:zh": "有巢氏房屋",
+        "name": "有巢氏房屋",
+        "name:en": "u-trust",
+        "name:zh": "有巢氏房屋",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "東森房屋",
+      "id": "easternrealty-dccb44",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "東森房屋",
+        "brand:en": "EASTERN REALTY",
+        "brand:wikidata": "Q97487263",
+        "brand:zh": "東森房屋",
+        "name": "東森房屋",
+        "name:en": "EASTERN REALTY",
+        "name:nan": "Tong-sim Pâng-ok",
+        "name:nan-Hant": "東森房屋",
+        "name:nan-Latn-pehoeji": "Tong-sim Pâng-ok",
+        "name:nan-Latn-tailo": "Tong-sim Pâng-ok",
+        "name:zh": "東森房屋",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/etwarm.no1/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easternrealty-dccb44.jpg",
+      "local_logo_path": "localbrand/logo/easternrealty-dccb44.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/etwarm.no1/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easternrealty-dccb44.jpg"
+      }
+    },
+    {
+      "displayName": "永慶房屋",
+      "id": "yungching-dccb44",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "永慶房屋",
+        "brand:en": "Yung Ching",
+        "brand:wikidata": "Q11132113",
+        "brand:zh": "永慶房屋",
+        "name": "永慶房屋",
+        "name:en": "Yung Ching",
+        "name:zh": "永慶房屋",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/yungching.tw/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yungching-dccb44.png",
+      "local_logo_path": "localbrand/logo/yungching-dccb44.png",
+      "logos": {
+        "original": "https://graph.facebook.com/yungching.tw/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yungching-dccb44.png"
+      }
+    },
+    {
+      "displayName": "美聯物業 Midland Realty",
+      "id": "midlandrealty-295f7a",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "美聯物業 Midland Realty",
+        "brand:en": "Midland Realty",
+        "brand:wikidata": "Q6842356",
+        "brand:zh": "美聯物業",
+        "name": "美聯物業 Midland Realty",
+        "name:en": "Midland Realty",
+        "name:zh": "美聯物業",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/midlandrealty1200/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/midlandrealty-295f7a.jpg",
+      "local_logo_path": "localbrand/logo/midlandrealty-295f7a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/midlandrealty1200/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/midlandrealty-295f7a.jpg"
+      }
+    },
+    {
+      "displayName": "链家",
+      "id": "lianjia-3462c2",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "brand": "链家",
+        "brand:en": "Lianjia",
+        "brand:wikidata": "Q24836804",
+        "brand:zh": "链家",
+        "name": "链家",
+        "name:en": "Lianjia",
+        "name:zh": "链家",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Lianjia.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lianjia-3462c2.png",
+      "local_logo_path": "localbrand/logo/lianjia-3462c2.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/18/Lianjia.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lianjia-3462c2.png"
+      }
+    },
+    {
+      "displayName": "香港置業 Hong Kong Property",
+      "id": "hongkongproperty-d2db80",
+      "locationSet": {
+        "include": [
+          "hk"
+        ]
+      },
+      "tags": {
+        "brand": "香港置業 Hong Kong Property",
+        "brand:en": "Hong Kong Property",
+        "brand:wikidata": "Q5894954",
+        "brand:zh": "香港置業",
+        "name": "香港置業 Hong Kong Property",
+        "name:en": "Hong Kong Property",
+        "name:zh": "香港置業",
+        "office": "estate_agent"
+      },
+      "original_logo_url": "https://graph.facebook.com/hkpproperty/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hongkongproperty-d2db80.jpg",
+      "local_logo_path": "localbrand/logo/hongkongproperty-d2db80.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hkpproperty/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hongkongproperty-d2db80.jpg"
+      }
+    }
+  ]
+}

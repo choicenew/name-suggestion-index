@@ -1,0 +1,1117 @@
+{
+  "properties": {
+    "path": "brands/shop/confectionery",
+    "exclude": {
+      "generic": [
+        "^(commerce boutique|confectionery)$",
+        "^солодощі$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Adyar Ananda Bhavan",
+      "id": "adyaranandabhavan-abc6d4",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Adyar Ananda Bhavan",
+        "brand:wikidata": "Q15178238",
+        "name": "Adyar Ananda Bhavan",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/a2b.officialpage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adyaranandabhavan-abc6d4.png",
+      "local_logo_path": "localbrand/logo/adyaranandabhavan-abc6d4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/a2b.officialpage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adyaranandabhavan-abc6d4.png"
+      }
+    },
+    {
+      "displayName": "Ambala Foods",
+      "id": "ambalafoods-bdbf63",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Ambala",
+        "brand:wikidata": "Q111806237",
+        "cuisine": "indian",
+        "name": "Ambala Foods",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/AmbalaFoodsUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ambalafoods-bdbf63.jpg",
+      "local_logo_path": "localbrand/logo/ambalafoods-bdbf63.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AmbalaFoodsUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ambalafoods-bdbf63.jpg"
+      }
+    },
+    {
+      "displayName": "arko",
+      "id": "arko-2c21b2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "arko",
+        "brand:wikidata": "Q673647",
+        "name": "arko",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/arkoKaffeeConfiserie/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arko-2c21b2.jpg",
+      "local_logo_path": "localbrand/logo/arko-2c21b2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/arkoKaffeeConfiserie/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arko-2c21b2.jpg"
+      }
+    },
+    {
+      "displayName": "Bahlsen Outlet",
+      "id": "bahlsenoutlet-2c21b2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Bahlsen",
+        "brand:wikidata": "Q315068",
+        "name": "Bahlsen Outlet",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "Bären-Treff",
+      "id": "barentreff-b9e3ac",
+      "locationSet": {
+        "include": [
+          "de",
+          "kr"
+        ]
+      },
+      "tags": {
+        "brand": "Bären-Treff",
+        "brand:wikidata": "Q99510166",
+        "name": "Bären-Treff",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "Bärenland",
+      "id": "barenland-f63894",
+      "locationSet": {
+        "include": [
+          "at",
+          "de",
+          "lu"
+        ]
+      },
+      "tags": {
+        "brand": "Bärenland",
+        "brand:wikidata": "Q99510395",
+        "name": "Bärenland",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "Bears & Friends",
+      "id": "bearsandfriends-e5aed3",
+      "locationSet": {
+        "include": [
+          "at",
+          "cz",
+          "de",
+          "hk",
+          "hr",
+          "hu"
+        ]
+      },
+      "tags": {
+        "brand": "Bears & Friends",
+        "brand:wikidata": "Q99510345",
+        "name": "Bears & Friends",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/bearsfriends.hk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bearsandfriends-e5aed3.png",
+      "local_logo_path": "localbrand/logo/bearsandfriends-e5aed3.png",
+      "logos": {
+        "original": "https://graph.facebook.com/bearsfriends.hk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bearsandfriends-e5aed3.png"
+      }
+    },
+    {
+      "displayName": "Belros",
+      "id": "belros-0b3ba6",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "matchTags": [
+        "shop/convenience"
+      ],
+      "tags": {
+        "brand": "Belros",
+        "brand:wikidata": "Q100089059",
+        "name": "Belros",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/Belrosfan/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/belros-0b3ba6.jpg",
+      "local_logo_path": "localbrand/logo/belros-0b3ba6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Belrosfan/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/belros-0b3ba6.jpg"
+      }
+    },
+    {
+      "displayName": "Ben's Cookies",
+      "id": "benscookies-311d19",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Ben's Cookies",
+        "brand:wikidata": "Q4885143",
+        "name": "Ben's Cookies",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Ben%27s_Cookies_in_Oxford_Covered_Market.JPG",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/benscookies-311d19.jpg",
+      "local_logo_path": "localbrand/logo/benscookies-311d19.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Ben%27s_Cookies_in_Oxford_Covered_Market.JPG",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/benscookies-311d19.jpg"
+      }
+    },
+    {
+      "displayName": "Candy Tyme",
+      "id": "candytyme-c4be02",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Candy Tyme",
+        "brand:wikidata": "Q108411111",
+        "name": "Candy Tyme",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/CandyTyme/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/candytyme-c4be02.jpg",
+      "local_logo_path": "localbrand/logo/candytyme-c4be02.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CandyTyme/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/candytyme-c4be02.jpg"
+      }
+    },
+    {
+      "displayName": "Châteraisé",
+      "id": "chateraise-c520ad",
+      "locationSet": {
+        "include": [
+          "hk",
+          "sg",
+          "th",
+          "tw"
+        ]
+      },
+      "tags": {
+        "brand": "Châteraisé",
+        "brand:en": "Châteraisé",
+        "brand:ja": "シャトレーゼ",
+        "brand:wikidata": "Q11307696",
+        "name": "Châteraisé",
+        "name:en": "Châteraisé",
+        "name:ja": "シャトレーゼ",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/chateraise.jp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chateraise-c520ad.jpg",
+      "local_logo_path": "localbrand/logo/chateraise-c520ad.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/chateraise.jp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chateraise-c520ad.jpg"
+      }
+    },
+    {
+      "displayName": "DeBeukelaer Factory Outlet",
+      "id": "debeukelaerfactoryoutlet-2c21b2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "DeBeukelaer",
+        "name": "DeBeukelaer Factory Outlet",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "Don Benito's",
+      "id": "donbenitos-940870",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "matchNames": [
+        "don benito's cassava"
+      ],
+      "tags": {
+        "brand": "Don Benito's",
+        "brand:wikidata": "Q120755754",
+        "name": "Don Benito's",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/donbenitoscassava/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/donbenitos-940870.jpg",
+      "local_logo_path": "localbrand/logo/donbenitos-940870.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/donbenitoscassava/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/donbenitos-940870.jpg"
+      }
+    },
+    {
+      "displayName": "Eilles",
+      "id": "eilles-2c21b2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Eilles",
+        "brand:wikidata": "Q99976174",
+        "name": "Eilles",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/EILLESOFFICIAL/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eilles-2c21b2.jpg",
+      "local_logo_path": "localbrand/logo/eilles-2c21b2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/EILLESOFFICIAL/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eilles-2c21b2.jpg"
+      }
+    },
+    {
+      "displayName": "El Rincón",
+      "id": "elrincon-0b3ba6",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "matchNames": [
+        "frutos secos el rincón"
+      ],
+      "matchTags": [
+        "shop/convenience"
+      ],
+      "tags": {
+        "brand": "El Rincón",
+        "brand:wikidata": "Q98456614",
+        "name": "El Rincón",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/frutossecoselrincon/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elrincon-0b3ba6.jpg",
+      "local_logo_path": "localbrand/logo/elrincon-0b3ba6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/frutossecoselrincon/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elrincon-0b3ba6.jpg"
+      }
+    },
+    {
+      "displayName": "El Rincón & Coffee",
+      "id": "elrinconandcoffee-0b3ba6",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "tags": {
+        "amenity": "cafe",
+        "brand": "El Rincón",
+        "brand:wikidata": "Q98456614",
+        "name": "El Rincón & Coffee",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/frutossecoselrincon/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elrinconandcoffee-0b3ba6.jpg",
+      "local_logo_path": "localbrand/logo/elrinconandcoffee-0b3ba6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/frutossecoselrincon/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elrinconandcoffee-0b3ba6.jpg"
+      }
+    },
+    {
+      "displayName": "Hemmakväll",
+      "id": "hemmakvall-bb4f01",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Hemmakväll",
+        "brand:wikidata": "Q10521791",
+        "name": "Hemmakväll",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/hemmakvall/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hemmakvall-bb4f01.jpg",
+      "local_logo_path": "localbrand/logo/hemmakvall-bb4f01.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hemmakvall/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hemmakvall-bb4f01.jpg"
+      }
+    },
+    {
+      "displayName": "Hotel Chocolat",
+      "id": "hotelchocolat-bdbf63",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Hotel Chocolat",
+        "brand:wikidata": "Q5911369",
+        "name": "Hotel Chocolat",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/HotelChocolat/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hotelchocolat-bdbf63.jpg",
+      "local_logo_path": "localbrand/logo/hotelchocolat-bdbf63.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HotelChocolat/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hotelchocolat-bdbf63.jpg"
+      }
+    },
+    {
+      "displayName": "Hussel",
+      "id": "hussel-c45342",
+      "locationSet": {
+        "include": [
+          "at",
+          "de",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "Hussel",
+        "brand:wikidata": "Q17123688",
+        "name": "Hussel",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "Hussel Confiserie",
+      "id": "husselconfiserie-ce6a87",
+      "locationSet": {
+        "include": [
+          "at",
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Hussel",
+        "brand:wikidata": "Q17123688",
+        "name": "Hussel Confiserie",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "IT'SUGAR",
+      "id": "itsugar-c4be02",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "IT'SUGAR",
+        "brand:wikidata": "Q110603409",
+        "name": "IT'SUGAR",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/itsugar/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/itsugar-c4be02.jpg",
+      "local_logo_path": "localbrand/logo/itsugar-c4be02.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/itsugar/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/itsugar-c4be02.jpg"
+      }
+    },
+    {
+      "displayName": "Jamin",
+      "id": "jamin-2c00a5",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Jamin",
+        "brand:wikidata": "Q2291848",
+        "name": "Jamin",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/jaminonline/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jamin-2c00a5.jpg",
+      "local_logo_path": "localbrand/logo/jamin-2c00a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/jaminonline/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jamin-2c00a5.jpg"
+      }
+    },
+    {
+      "displayName": "Kanti Sweets",
+      "id": "kantisweets-abc6d4",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Kanti Sweets",
+        "brand:wikidata": "Q124374180",
+        "name": "Kanti Sweets",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "Kaspa's",
+      "id": "kaspas-bdbf63",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Kaspa's",
+        "brand:wikidata": "Q24439133",
+        "name": "Kaspa's",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/kaspasdesserts/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kaspas-bdbf63.jpg",
+      "local_logo_path": "localbrand/logo/kaspas-bdbf63.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kaspasdesserts/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kaspas-bdbf63.jpg"
+      }
+    },
+    {
+      "displayName": "Kilwins",
+      "id": "kilwins-c4be02",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Kilwins",
+        "brand:wikidata": "Q38250832",
+        "cuisine": "chocolate;ice_cream;popcorn",
+        "name": "Kilwins",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "Kulikov",
+      "id": "kulikov-3f21b0",
+      "locationSet": {
+        "include": [
+          "kg",
+          "kz",
+          "ru",
+          "uz"
+        ]
+      },
+      "tags": {
+        "brand": "Kulikov",
+        "name": "Kulikov",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "Lolli and Pops",
+      "id": "lolliandpops-c4be02",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Lolli and Pops",
+        "brand:wikidata": "Q108410191",
+        "name": "Lolli and Pops",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/LolliandPops/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lolliandpops-c4be02.png",
+      "local_logo_path": "localbrand/logo/lolliandpops-c4be02.png",
+      "logos": {
+        "original": "https://graph.facebook.com/LolliandPops/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lolliandpops-c4be02.png"
+      }
+    },
+    {
+      "displayName": "ODStore",
+      "id": "odstore-9a8bed",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "ODStore",
+        "brand:wikidata": "Q130492509",
+        "name": "ODStore",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "Rocket Fizz",
+      "id": "rocketfizz-9950eb",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Rocket Fizz",
+        "brand:wikidata": "Q17107987",
+        "name": "Rocket Fizz",
+        "official_name": "Rocket Fizz Soda Pop & Candy Shop",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/rocketfizz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rocketfizz-9950eb.jpg",
+      "local_logo_path": "localbrand/logo/rocketfizz-9950eb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rocketfizz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rocketfizz-9950eb.jpg"
+      }
+    },
+    {
+      "displayName": "Rocky Mountain Chocolate Factory",
+      "id": "rockymountainchocolatefactory-9950eb",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Rocky Mountain Chocolate Factory",
+        "brand:wikidata": "Q7355878",
+        "name": "Rocky Mountain Chocolate Factory",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/rockymountainchocolate/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rockymountainchocolatefactory-9950eb.jpg",
+      "local_logo_path": "localbrand/logo/rockymountainchocolatefactory-9950eb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rockymountainchocolate/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rockymountainchocolatefactory-9950eb.jpg"
+      }
+    },
+    {
+      "displayName": "Roshen",
+      "id": "roshen-84145b",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "рошен"
+      ],
+      "tags": {
+        "brand": "Roshen",
+        "brand:wikidata": "Q2635017",
+        "name": "Roshen",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "Safia",
+      "id": "safia-eb269c",
+      "locationSet": {
+        "include": [
+          "kz",
+          "uz"
+        ]
+      },
+      "tags": {
+        "brand": "Safia",
+        "name": "Safia",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "See's Candies",
+      "id": "seescandies-c4be02",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "sees candy"
+      ],
+      "tags": {
+        "brand": "See's Candies",
+        "brand:wikidata": "Q2103510",
+        "name": "See's Candies",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/Sees.Candies/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/seescandies-c4be02.jpg",
+      "local_logo_path": "localbrand/logo/seescandies-c4be02.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Sees.Candies/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/seescandies-c4be02.jpg"
+      }
+    },
+    {
+      "displayName": "SoSweet",
+      "id": "sosweet-13e555",
+      "locationSet": {
+        "include": [
+          "gb-eng"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "SoSweet",
+        "brand:wikidata": "Q124799082",
+        "name": "SoSweet",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/sosweetshopuk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sosweet-13e555.jpg",
+      "local_logo_path": "localbrand/logo/sosweet-13e555.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sosweetshopuk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sosweet-13e555.jpg"
+      }
+    },
+    {
+      "displayName": "Sri Krishna Sweets",
+      "id": "srikrishnasweets-abc6d4",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Sri Krishna Sweets",
+        "brand:wikidata": "Q7585868",
+        "name": "Sri Krishna Sweets",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "Storck Welt Outlet",
+      "id": "storckweltoutlet-2c21b2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Storck",
+        "brand:wikidata": "Q566814",
+        "name": "Storck Welt Outlet",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Logo_Storck.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storckweltoutlet-2c21b2.svg",
+      "local_logo_path": "localbrand/logo/storckweltoutlet-2c21b2.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/9/95/Logo_Storck.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storckweltoutlet-2c21b2.svg"
+      }
+    },
+    {
+      "displayName": "Swisslion Takovo",
+      "id": "slatkakuca-60a596",
+      "locationSet": {
+        "include": [
+          "ba",
+          "mk",
+          "rs"
+        ]
+      },
+      "matchNames": [
+        "swisslion"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Swisslion Takovo",
+        "brand:wikidata": "Q7659039",
+        "name": "Слатка кућа",
+        "name:sr": "Слатка кућа",
+        "name:sr-Latn": "Slatka kuća",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/SwisslionTakovo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/slatkakuca-60a596.png",
+      "local_logo_path": "localbrand/logo/slatkakuca-60a596.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SwisslionTakovo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/slatkakuca-60a596.png"
+      }
+    },
+    {
+      "displayName": "T. SN",
+      "id": "tsn-32643e",
+      "locationSet": {
+        "include": [
+          "ec"
+        ]
+      },
+      "tags": {
+        "brand": "T. SN",
+        "name": "T. SN",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "Thorntons",
+      "id": "thorntons-bdbf63",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Thorntons",
+        "brand:wikidata": "Q683102",
+        "name": "Thorntons",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "Viba",
+      "id": "viba-2c21b2",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Viba",
+        "brand:wikidata": "Q1290252",
+        "name": "Viba",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/vibasweets/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/viba-2c21b2.jpg",
+      "local_logo_path": "localbrand/logo/viba-2c21b2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/vibasweets/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/viba-2c21b2.jpg"
+      }
+    },
+    {
+      "displayName": "Карамелька",
+      "id": "cf9c6a-caaf22",
+      "locationSet": {
+        "include": [
+          "by",
+          "kz",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Карамелька",
+        "name": "Карамелька",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "Красный пищевик",
+      "id": "4742ac-ceb7f9",
+      "locationSet": {
+        "include": [
+          "by"
+        ]
+      },
+      "tags": {
+        "brand": "Красный пищевик",
+        "brand:wikidata": "Q61742027",
+        "name": "Красный пищевик",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/zefir.by/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/4742ac-ceb7f9.jpg",
+      "local_logo_path": "localbrand/logo/4742ac-ceb7f9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/zefir.by/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/4742ac-ceb7f9.jpg"
+      }
+    },
+    {
+      "displayName": "Лакомка",
+      "id": "lakomka-61c5bf",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Лакомка",
+        "name": "Лакомка",
+        "name:en": "Lakomka",
+        "name:ru": "Лакомка",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "Народный кондитер",
+      "id": "00218d-61c5bf",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Народный кондитер",
+        "name": "Народный кондитер",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "Север-Метрополь",
+      "id": "severmetropol-61c5bf",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Север-Метрополь",
+        "brand:en": "Sever-Metropol",
+        "brand:ru": "Север-Метрополь",
+        "brand:wikidata": "Q4411982",
+        "name": "Север-Метрополь",
+        "name:en": "Sever-Metropol",
+        "name:ru": "Север-Метрополь",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/sever.metropol.official/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/severmetropol-61c5bf.jpg",
+      "local_logo_path": "localbrand/logo/severmetropol-61c5bf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sever.metropol.official/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/severmetropol-61c5bf.jpg"
+      }
+    },
+    {
+      "displayName": "Тәп-Тәтті",
+      "id": "e10bbc-1f3aa5",
+      "locationSet": {
+        "include": [
+          "kz"
+        ]
+      },
+      "tags": {
+        "brand": "Тәп-Тәтті",
+        "name": "Тәп-Тәтті",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "Форне",
+      "id": "77990e-61c5bf",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Форне",
+        "name": "Форне",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "شیرین عسل",
+      "id": "shirinasal-971a8a",
+      "locationSet": {
+        "include": [
+          "ir"
+        ]
+      },
+      "tags": {
+        "brand": "شیرین عسل",
+        "brand:en": "Shirin Asal",
+        "brand:fa": "شیرین عسل",
+        "brand:wikidata": "Q5862430",
+        "name": "شیرین عسل",
+        "name:en": "Shirin Asal",
+        "name:fa": "شیرین عسل",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Shirinasal.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shirinasal-971a8a.jpg",
+      "local_logo_path": "localbrand/logo/shirinasal-971a8a.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Shirinasal.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shirinasal-971a8a.jpg"
+      }
+    },
+    {
+      "displayName": "おかしのまちおか",
+      "id": "machioka-59ea1b",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "おかしのまちおか",
+        "brand:en": "Machioka",
+        "brand:ja": "おかしのまちおか",
+        "brand:wikidata": "Q117828763",
+        "name": "おかしのまちおか",
+        "name:en": "Machioka",
+        "name:ja": "おかしのまちおか",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/okashinomachioka/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/machioka-59ea1b.jpg",
+      "local_logo_path": "localbrand/logo/machioka-59ea1b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/okashinomachioka/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/machioka-59ea1b.jpg"
+      }
+    },
+    {
+      "displayName": "シェ・レカミエ",
+      "id": "chezrecamier-59ea1b",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "シェ・レカミエ",
+        "brand:en": "Chez Récamier",
+        "brand:ja": "シェ・レカミエ",
+        "brand:wikidata": "Q117377562",
+        "name": "シェ・レカミエ",
+        "name:en": "Chez Récamier",
+        "name:ja": "シェ・レカミエ",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "displayName": "シャトレーゼ",
+      "id": "chateraise-59ea1b",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "シャトレーゼ",
+        "brand:en": "Chateraise",
+        "brand:ja": "シャトレーゼ",
+        "brand:wikidata": "Q11307696",
+        "name": "シャトレーゼ",
+        "name:en": "Chateraise",
+        "name:ja": "シャトレーゼ",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/chateraise.jp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chateraise-59ea1b.jpg",
+      "local_logo_path": "localbrand/logo/chateraise-59ea1b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/chateraise.jp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chateraise-59ea1b.jpg"
+      }
+    },
+    {
+      "displayName": "不二家",
+      "id": "fujiya-59ea1b",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "不二家",
+        "brand:en": "Fujiya",
+        "brand:ja": "不二家",
+        "brand:wikidata": "Q858452",
+        "name": "不二家",
+        "name:en": "Fujiya",
+        "name:ja": "不二家",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/FUJIYA.jp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fujiya-59ea1b.png",
+      "local_logo_path": "localbrand/logo/fujiya-59ea1b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/FUJIYA.jp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fujiya-59ea1b.png"
+      }
+    },
+    {
+      "displayName": "銀座コージーコーナー",
+      "id": "ginzacozycorner-59ea1b",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "コージーコーナー"
+      ],
+      "tags": {
+        "brand": "銀座コージーコーナー",
+        "brand:en": "Ginza Cozy Corner",
+        "brand:ja": "銀座コージーコーナー",
+        "brand:wikidata": "Q11649983",
+        "name": "銀座コージーコーナー",
+        "name:en": "Ginza Cozy Corner",
+        "name:ja": "銀座コージーコーナー",
+        "shop": "confectionery"
+      },
+      "original_logo_url": "https://graph.facebook.com/GINZA.CozyCorner/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ginzacozycorner-59ea1b.jpg",
+      "local_logo_path": "localbrand/logo/ginzacozycorner-59ea1b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GINZA.CozyCorner/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ginzacozycorner-59ea1b.jpg"
+      }
+    }
+  ]
+}

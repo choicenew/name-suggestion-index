@@ -1,0 +1,384 @@
+{
+  "properties": {
+    "path": "brands/shop/tool_hire",
+    "exclude": {
+      "generic": [
+        "^tool hire$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Bo-rent",
+      "id": "borent-0c2a29",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Bo-rent",
+        "brand:wikidata": "Q126919301",
+        "name": "Bo-rent",
+        "shop": "tool_hire"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bo-rent_Rental_automobile%2C_Winschoten_%282018%29.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/borent-0c2a29.jpg",
+      "local_logo_path": "localbrand/logo/borent-0c2a29.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bo-rent_Rental_automobile%2C_Winschoten_%282018%29.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/borent-0c2a29.jpg"
+      }
+    },
+    {
+      "displayName": "Boels",
+      "id": "boels-d0c09f",
+      "issues": [
+        8264
+      ],
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "ch",
+          "cz",
+          "de",
+          "gb",
+          "it",
+          "lu",
+          "nl",
+          "pl",
+          "sk"
+        ]
+      },
+      "matchNames": [
+        "boels rental"
+      ],
+      "tags": {
+        "brand": "Boels",
+        "brand:wikidata": "Q19901961",
+        "name": "Boels",
+        "shop": "tool_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/Boels.Rental/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boels-d0c09f.jpg",
+      "local_logo_path": "localbrand/logo/boels-d0c09f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Boels.Rental/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boels-d0c09f.jpg"
+      }
+    },
+    {
+      "displayName": "Brandon Hire Station",
+      "id": "brandonhirestation-92549b",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "brandon tool hire"
+      ],
+      "tags": {
+        "brand": "Brandon Hire Station",
+        "brand:wikidata": "Q111578673",
+        "name": "Brandon Hire Station",
+        "shop": "tool_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/BrandonHireStation/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brandonhirestation-92549b.jpg",
+      "local_logo_path": "localbrand/logo/brandonhirestation-92549b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BrandonHireStation/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brandonhirestation-92549b.jpg"
+      }
+    },
+    {
+      "displayName": "Casa do Construtor",
+      "id": "casadoconstrutor-a76fcc",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Casa do Construtor",
+        "brand:wikidata": "Q118672258",
+        "name": "Casa do Construtor",
+        "shop": "tool_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/CasaDoConstrutorFranquia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/casadoconstrutor-a76fcc.jpg",
+      "local_logo_path": "localbrand/logo/casadoconstrutor-a76fcc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CasaDoConstrutorFranquia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/casadoconstrutor-a76fcc.jpg"
+      }
+    },
+    {
+      "displayName": "Cramo",
+      "id": "cramo-707df9",
+      "locationSet": {
+        "include": [
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "no",
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Cramo",
+        "brand:wikidata": "Q10460958",
+        "name": "Cramo",
+        "shop": "tool_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/cramosverige/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cramo-707df9.jpg",
+      "local_logo_path": "localbrand/logo/cramo-707df9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/cramosverige/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cramo-707df9.jpg"
+      }
+    },
+    {
+      "displayName": "Hirebase",
+      "id": "hirebase-92549b",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Hirebase",
+        "brand:wikidata": "Q100297859",
+        "name": "Hirebase",
+        "shop": "tool_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/hirebaseuk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hirebase-92549b.jpg",
+      "local_logo_path": "localbrand/logo/hirebase-92549b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hirebaseuk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hirebase-92549b.jpg"
+      }
+    },
+    {
+      "displayName": "HSS Hire",
+      "id": "hsshire-a3cdb3",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "matchNames": [
+        "hss hire shop"
+      ],
+      "tags": {
+        "brand": "HSS Hire",
+        "brand:wikidata": "Q5636000",
+        "name": "HSS Hire",
+        "shop": "tool_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/hsshire/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hsshire-a3cdb3.jpg",
+      "local_logo_path": "localbrand/logo/hsshire-a3cdb3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hsshire/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hsshire-a3cdb3.jpg"
+      }
+    },
+    {
+      "displayName": "Kiloutou",
+      "id": "kiloutou-d6c674",
+      "locationSet": {
+        "include": [
+          "de",
+          "es",
+          "fr",
+          "it",
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Kiloutou",
+        "brand:wikidata": "Q3196672",
+        "name": "Kiloutou",
+        "shop": "tool_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/KILOUTOU/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kiloutou-d6c674.jpg",
+      "local_logo_path": "localbrand/logo/kiloutou-d6c674.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KILOUTOU/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kiloutou-d6c674.jpg"
+      }
+    },
+    {
+      "displayName": "Library of Things",
+      "id": "libraryofthings-4198b8",
+      "locationSet": {
+        "include": [
+          "gb-lon.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Library of Things",
+        "brand:wikidata": "Q111034265",
+        "name": "Library of Things",
+        "shop": "tool_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/libraryofgreatthings/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libraryofthings-4198b8.png",
+      "local_logo_path": "localbrand/logo/libraryofthings-4198b8.png",
+      "logos": {
+        "original": "https://graph.facebook.com/libraryofgreatthings/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libraryofthings-4198b8.png"
+      }
+    },
+    {
+      "displayName": "Loxam",
+      "id": "loxam-a4cd21",
+      "issues": [
+        10915,
+        8264
+      ],
+      "locationSet": {
+        "include": [
+          "ae",
+          "be",
+          "bh",
+          "br",
+          "ch",
+          "co",
+          "de",
+          "dk",
+          "es",
+          "fr",
+          "gb",
+          "ie",
+          "it",
+          "kw",
+          "lu",
+          "ma",
+          "nl",
+          "om",
+          "pt",
+          "qa",
+          "sa"
+        ]
+      },
+      "tags": {
+        "brand": "Loxam",
+        "brand:wikidata": "Q3264407",
+        "name": "Loxam",
+        "shop": "tool_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/GroupeLoxam/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/loxam-a4cd21.png",
+      "local_logo_path": "localbrand/logo/loxam-a4cd21.png",
+      "logos": {
+        "original": "https://graph.facebook.com/GroupeLoxam/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/loxam-a4cd21.png"
+      }
+    },
+    {
+      "displayName": "Ramirent",
+      "id": "ramirent-66b57e",
+      "issues": [
+        10915
+      ],
+      "locationSet": {
+        "include": [
+          "cz",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "no",
+          "pl",
+          "se",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Ramirent",
+        "brand:wikidata": "Q11890005",
+        "name": "Ramirent",
+        "shop": "tool_hire"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ramirent_logo_with_Loxam.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ramirent-66b57e.svg",
+      "local_logo_path": "localbrand/logo/ramirent-66b57e.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ramirent_logo_with_Loxam.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ramirent-66b57e.svg"
+      }
+    },
+    {
+      "displayName": "Rentas",
+      "id": "rentas-6e38b5",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Rentas",
+        "brand:wikidata": "Q108602539",
+        "name": "Rentas",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Speedy Hire Centre",
+      "id": "speedyhirecentre-92549b",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "speedy hire centres"
+      ],
+      "tags": {
+        "brand": "Speedy",
+        "brand:wikidata": "Q7575722",
+        "name": "Speedy Hire Centre",
+        "shop": "tool_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/wearespeedy/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedyhirecentre-92549b.jpg",
+      "local_logo_path": "localbrand/logo/speedyhirecentre-92549b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/wearespeedy/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/speedyhirecentre-92549b.jpg"
+      }
+    },
+    {
+      "displayName": "Talisman Hire",
+      "id": "talismanhire-9933c6",
+      "locationSet": {
+        "include": [
+          "na",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Talisman Hire",
+        "brand:wikidata": "Q120885726",
+        "name": "Talisman Hire",
+        "shop": "tool_hire"
+      },
+      "original_logo_url": "https://graph.facebook.com/TalismanHire/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/talismanhire-9933c6.jpg",
+      "local_logo_path": "localbrand/logo/talismanhire-9933c6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TalismanHire/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/talismanhire-9933c6.jpg"
+      }
+    }
+  ]
+}

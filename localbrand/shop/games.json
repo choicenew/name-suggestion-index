@@ -1,0 +1,128 @@
+{
+  "properties": {
+    "path": "brands/shop/games",
+    "exclude": {
+      "generic": [
+        "^game(s)?$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Ozone.bg",
+      "id": "ozonebg-2df90d",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Ozone.bg",
+        "brand:wikidata": "Q120717332",
+        "name": "Ozone.bg",
+        "operator": "Пулсар",
+        "operator:wikidata": "Q120717304",
+        "shop": "games"
+      },
+      "original_logo_url": "https://graph.facebook.com/Ozone.bg/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ozonebg-2df90d.jpg",
+      "local_logo_path": "localbrand/logo/ozonebg-2df90d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Ozone.bg/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ozonebg-2df90d.jpg"
+      }
+    },
+    {
+      "displayName": "Warhammer",
+      "id": "warhammer-f1fbcb",
+      "locationSet": {
+        "include": [
+          "at",
+          "au",
+          "be",
+          "ca",
+          "de",
+          "dk",
+          "es",
+          "fi",
+          "fr",
+          "gb",
+          "ie",
+          "it",
+          "jp",
+          "nl",
+          "no",
+          "nz",
+          "pl",
+          "se",
+          "sg",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "games workshop"
+      ],
+      "tags": {
+        "brand": "Warhammer",
+        "brand:wikidata": "Q136613133",
+        "name": "Warhammer",
+        "shop": "games"
+      },
+      "original_logo_url": "https://graph.facebook.com/WarhammerOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/warhammer-f1fbcb.jpg",
+      "local_logo_path": "localbrand/logo/warhammer-f1fbcb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WarhammerOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/warhammer-f1fbcb.jpg"
+      }
+    },
+    {
+      "displayName": "Zing Pop Culture",
+      "id": "zingpopculture-61e573",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Zing Pop Culture",
+        "brand:wikidata": "Q23023711",
+        "name": "Zing Pop Culture",
+        "shop": "games"
+      },
+      "original_logo_url": "https://graph.facebook.com/ZingPopCultureAus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zingpopculture-61e573.jpg",
+      "local_logo_path": "localbrand/logo/zingpopculture-61e573.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ZingPopCultureAus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zingpopculture-61e573.jpg"
+      }
+    },
+    {
+      "displayName": "კურაკურა",
+      "id": "kurakura-00ca27",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "კურაკურა",
+        "brand:en": "KuraKura",
+        "brand:ka": "კურაკურა",
+        "brand:wikidata": "Q131470007",
+        "name": "კურაკურა",
+        "name:en": "KuraKura",
+        "name:ka": "კურაკურა",
+        "shop": "games"
+      },
+      "original_logo_url": "https://graph.facebook.com/kurakuratbilisi/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kurakura-00ca27.jpg",
+      "local_logo_path": "localbrand/logo/kurakura-00ca27.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kurakuratbilisi/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kurakura-00ca27.jpg"
+      }
+    }
+  ]
+}

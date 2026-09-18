@@ -1,0 +1,125 @@
+{
+  "properties": {
+    "path": "brands/shop/vacuum_cleaner",
+    "exclude": {
+      "generic": [
+        "^vacuum( cleaner)?$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Dyson",
+      "id": "dyson-11ac87",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Dyson",
+        "brand:wikidata": "Q621429",
+        "name": "Dyson",
+        "shop": "vacuum_cleaner"
+      },
+      "original_logo_url": "https://graph.facebook.com/dyson/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dyson-11ac87.jpg",
+      "local_logo_path": "localbrand/logo/dyson-11ac87.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dyson/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dyson-11ac87.jpg"
+      }
+    },
+    {
+      "displayName": "Godfreys",
+      "id": "godfreys-817a4b",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Godfreys",
+        "brand:wikidata": "Q17005430",
+        "name": "Godfreys",
+        "shop": "vacuum_cleaner"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Godfreys_Logo_2019.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/godfreys-817a4b.png",
+      "local_logo_path": "localbrand/logo/godfreys-817a4b.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/d/de/Godfreys_Logo_2019.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/godfreys-817a4b.png"
+      }
+    },
+    {
+      "displayName": "Kärcher",
+      "id": "karcher-11ac87",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "kaercher"
+      ],
+      "matchTags": [
+        "shop/garden_centre"
+      ],
+      "tags": {
+        "brand": "Kärcher",
+        "brand:wikidata": "Q696798",
+        "name": "Kärcher",
+        "shop": "vacuum_cleaner"
+      }
+    },
+    {
+      "displayName": "Oreck",
+      "id": "oreck-ded213",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "oreck vacuums"
+      ],
+      "tags": {
+        "brand": "Oreck",
+        "brand:wikidata": "Q57273844",
+        "name": "Oreck",
+        "shop": "vacuum_cleaner"
+      },
+      "original_logo_url": "https://graph.facebook.com/oreck/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oreck-ded213.jpg",
+      "local_logo_path": "localbrand/logo/oreck-ded213.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/oreck/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oreck-ded213.jpg"
+      }
+    },
+    {
+      "displayName": "Vorwerk",
+      "id": "vorwerk-11ac87",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Vorwerk",
+        "brand:wikidata": "Q449852",
+        "name": "Vorwerk",
+        "shop": "vacuum_cleaner"
+      },
+      "original_logo_url": "https://graph.facebook.com/VorwerkGruppe/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vorwerk-11ac87.png",
+      "local_logo_path": "localbrand/logo/vorwerk-11ac87.png",
+      "logos": {
+        "original": "https://graph.facebook.com/VorwerkGruppe/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vorwerk-11ac87.png"
+      }
+    }
+  ]
+}

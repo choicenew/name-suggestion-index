@@ -1,0 +1,134 @@
+{
+  "properties": {
+    "path": "brands/shop/leather",
+    "exclude": {
+      "generic": [
+        "^leather$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Aigner",
+      "id": "aigner-beb4a5",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Aigner",
+        "brand:wikidata": "Q1371521",
+        "name": "Aigner",
+        "shop": "leather"
+      },
+      "original_logo_url": "https://graph.facebook.com/aignermunich/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aigner-beb4a5.jpg",
+      "local_logo_path": "localbrand/logo/aigner-beb4a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/aignermunich/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aigner-beb4a5.jpg"
+      }
+    },
+    {
+      "displayName": "Art-93",
+      "id": "art93-b8d727",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Art-93",
+        "brand:wikidata": "Q122959221",
+        "name": "Art-93",
+        "shop": "leather"
+      },
+      "original_logo_url": "https://graph.facebook.com/159655104074967/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/art93-b8d727.jpg",
+      "local_logo_path": "localbrand/logo/art93-b8d727.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/159655104074967/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/art93-b8d727.jpg"
+      }
+    },
+    {
+      "displayName": "Findig",
+      "id": "findig-848a64",
+      "locationSet": {
+        "include": [
+          "th"
+        ]
+      },
+      "tags": {
+        "brand": "Findig",
+        "brand:en": "Findig",
+        "brand:th": "ฟินดิจ",
+        "brand:wikidata": "Q110958398",
+        "name": "Findig",
+        "name:en": "Findig",
+        "name:th": "ฟินดิจ",
+        "shop": "leather"
+      }
+    },
+    {
+      "displayName": "Hidesign",
+      "id": "hidesign-0fedbd",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Hidesign",
+        "brand:wikidata": "Q5752690",
+        "name": "Hidesign",
+        "shop": "leather"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/HIDESIGN_LOGO_withouttag.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hidesign-0fedbd.jpg",
+      "local_logo_path": "localbrand/logo/hidesign-0fedbd.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/5/58/HIDESIGN_LOGO_withouttag.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hidesign-0fedbd.jpg"
+      }
+    },
+    {
+      "displayName": "Picard",
+      "id": "picard-da4c8c",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Picard",
+        "brand:wikidata": "Q2092055",
+        "name": "Picard",
+        "shop": "leather"
+      },
+      "original_logo_url": "https://graph.facebook.com/picard.fashion/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/picard-da4c8c.jpg",
+      "local_logo_path": "localbrand/logo/picard-da4c8c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/picard.fashion/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/picard-da4c8c.jpg"
+      }
+    },
+    {
+      "displayName": "Vélez",
+      "id": "velez-38a801",
+      "locationSet": {
+        "include": [
+          "co"
+        ]
+      },
+      "tags": {
+        "brand": "Vélez",
+        "brand:wikidata": "Q96246029",
+        "name": "Vélez",
+        "shop": "leather"
+      }
+    }
+  ]
+}

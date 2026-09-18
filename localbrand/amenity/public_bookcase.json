@@ -1,0 +1,413 @@
+{
+  "properties": {
+    "path": "brands/amenity/public_bookcase",
+    "exclude": {
+      "generic": [
+        "^(offener|öffentlicher)?\\s?bücher(box|schrank|zelle)$",
+        "^bo[îi]te [aà] liv?res?$",
+        "^cabane [aà] livres?$",
+        "^knihobudka$",
+        "^public bookcase$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Bibliocabine",
+      "id": "bibliocabina-227ad5",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "Bibliocabine",
+        "brand:wikidata": "Q130461884",
+        "name": "Bibliocabina"
+      },
+      "original_logo_url": "https://graph.facebook.com/bibliocabine/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bibliocabina-227ad5.png",
+      "local_logo_path": "localbrand/logo/bibliocabina-227ad5.png",
+      "logos": {
+        "original": "https://graph.facebook.com/bibliocabine/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bibliocabina-227ad5.png"
+      }
+    },
+    {
+      "displayName": "Bieb Bieb Aalst",
+      "id": "biebbieb-31eb16",
+      "locationSet": {
+        "include": [
+          "be"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "Bieb Bieb Aalst",
+        "name": "Bieb Bieb"
+      }
+    },
+    {
+      "displayName": "Boekentil (Stad Leuven)",
+      "id": "boekentil-91f992",
+      "locationSet": {
+        "include": [
+          "be-vbr.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "Boekentil",
+        "brand:wikidata": "Q118958",
+        "name": "Boekentil"
+      },
+      "original_logo_url": "https://graph.facebook.com/stadleuven/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boekentil-91f992.jpg",
+      "local_logo_path": "localbrand/logo/boekentil-91f992.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/stadleuven/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boekentil-91f992.jpg"
+      }
+    },
+    {
+      "displayName": "Bücherhäuschen (Seiteneinsteiger e.V.)",
+      "id": "bucherhauschen-49b5a5",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "books": "children",
+        "brand": "Bücherhäuschen",
+        "brand:wikidata": "Q1589627",
+        "name": "Bücherhäuschen"
+      },
+      "original_logo_url": "https://graph.facebook.com/SAGAUnternehmensgruppe/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bucherhauschen-49b5a5.jpg",
+      "local_logo_path": "localbrand/logo/bucherhauschen-49b5a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SAGAUnternehmensgruppe/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bucherhauschen-49b5a5.jpg"
+      }
+    },
+    {
+      "displayName": "Croque-livres",
+      "id": "croquelivres-16b947",
+      "locationSet": {
+        "include": [
+          "ca-qc.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "books": "children",
+        "brand": "Croque-livres",
+        "name": "Croque-livres"
+      }
+    },
+    {
+      "displayName": "Enjoy a book (NMBS/SNCB)",
+      "id": "enjoyabook-31eb16",
+      "locationSet": {
+        "include": [
+          "be"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "Enjoy a book",
+        "brand:wikidata": "Q524255",
+        "name": "Enjoy a book"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/SNCB_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/enjoyabook-31eb16.svg",
+      "local_logo_path": "localbrand/logo/enjoyabook-31eb16.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/SNCB_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/enjoyabook-31eb16.svg"
+      }
+    },
+    {
+      "displayName": "Innogy Bücherschrank",
+      "id": "innogybucherschrank-49b5a5",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "Innogy Bücherschrank",
+        "brand:wikidata": "Q2124721",
+        "name": "Innogy Bücherschrank"
+      }
+    },
+    {
+      "displayName": "KinderzwerfboekStation",
+      "id": "kinderzwerfboekstation-2091e3",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "books": "children",
+        "brand": "Kinderzwerfboek",
+        "name": "KinderzwerfboekStation"
+      }
+    },
+    {
+      "displayName": "Lesekiosk (Foreningen !les)",
+      "id": "lesekiosk-1271c4",
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "Lesekiosk",
+        "brand:wikidata": "Q11008642",
+        "name": "Lesekiosk"
+      },
+      "original_logo_url": "https://graph.facebook.com/117534711603841/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lesekiosk-1271c4.jpg",
+      "local_logo_path": "localbrand/logo/lesekiosk-1271c4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/117534711603841/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lesekiosk-1271c4.jpg"
+      }
+    },
+    {
+      "displayName": "Libros Libres",
+      "id": "libroslibres-85816d",
+      "locationSet": {
+        "include": [
+          "pr"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "Libros Libres",
+        "name": "Libros Libres"
+      }
+    },
+    {
+      "displayName": "Lilliput Library",
+      "id": "lilliputlibrary-381d90",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "Lilliput Libraries",
+        "name": "Lilliput Library"
+      }
+    },
+    {
+      "displayName": "Little Free Library",
+      "id": "littlefreelibrary-6e8312",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "amenity/library"
+      ],
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "Little Free Library",
+        "brand:wikidata": "Q6650101"
+      },
+      "original_logo_url": "https://graph.facebook.com/LittleFreeLibrary/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/littlefreelibrary-6e8312.png",
+      "local_logo_path": "localbrand/logo/littlefreelibrary-6e8312.png",
+      "logos": {
+        "original": "https://graph.facebook.com/LittleFreeLibrary/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/littlefreelibrary-6e8312.png"
+      }
+    },
+    {
+      "displayName": "Mercator Bücherschrank",
+      "id": "mercatorbucherschrank-49b5a5",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "Mercator Bücherschrank",
+        "brand:wikidata": "Q2349075",
+        "name": "Mercator Bücherschrank"
+      },
+      "original_logo_url": "https://graph.facebook.com/StiftungMercator/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mercatorbucherschrank-49b5a5.jpg",
+      "local_logo_path": "localbrand/logo/mercatorbucherschrank-49b5a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/StiftungMercator/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mercatorbucherschrank-49b5a5.jpg"
+      }
+    },
+    {
+      "displayName": "Minibib Torhout",
+      "id": "minibib-31eb16",
+      "locationSet": {
+        "include": [
+          "be"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "Minibib Torhout",
+        "brand:wikidata": "Q270633",
+        "name": "Minibib"
+      },
+      "original_logo_url": "https://graph.facebook.com/torhout/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/minibib-31eb16.jpg",
+      "local_logo_path": "localbrand/logo/minibib-31eb16.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/torhout/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/minibib-31eb16.jpg"
+      }
+    },
+    {
+      "displayName": "Minibieb",
+      "id": "minibieb-7aee12",
+      "locationSet": {
+        "include": [
+          "be",
+          "nl"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "Minibieb",
+        "name": "Minibieb"
+      }
+    },
+    {
+      "displayName": "Official BookCrossing Zone (OBCZ)",
+      "id": "obcz-6e8312",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "BookCrossing",
+        "brand:wikidata": "Q324286",
+        "name": "OBCZ"
+      },
+      "original_logo_url": "https://graph.facebook.com/knigovorot.ru/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/obcz-6e8312.jpg",
+      "local_logo_path": "localbrand/logo/obcz-6e8312.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/knigovorot.ru/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/obcz-6e8312.jpg"
+      }
+    },
+    {
+      "displayName": "RWE Bücherschrank",
+      "id": "rwebucherschrank-49b5a5",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "RWE Bücherschrank",
+        "brand:wikidata": "Q138133",
+        "name": "RWE Bücherschrank"
+      },
+      "original_logo_url": "https://graph.facebook.com/rwegroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rwebucherschrank-49b5a5.jpg",
+      "local_logo_path": "localbrand/logo/rwebucherschrank-49b5a5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rwegroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rwebucherschrank-49b5a5.jpg"
+      }
+    },
+    {
+      "displayName": "Street Library",
+      "id": "streetlibrary-ff483e",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "Street Library",
+        "brand:wikidata": "Q110910587",
+        "name": "Street Library"
+      },
+      "original_logo_url": "https://graph.facebook.com/streetlibraryau/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/streetlibrary-ff483e.png",
+      "local_logo_path": "localbrand/logo/streetlibrary-ff483e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/streetlibraryau/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/streetlibrary-ff483e.png"
+      }
+    },
+    {
+      "displayName": "Westenergie Bücherschrank",
+      "id": "westenergiebucherschrank-49b5a5",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "Westenergie Bücherschrank",
+        "brand:wikidata": "Q104871107",
+        "name": "Westenergie Bücherschrank"
+      },
+      "original_logo_url": "https://graph.facebook.com/Westenergie/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/westenergiebucherschrank-49b5a5.png",
+      "local_logo_path": "localbrand/logo/westenergiebucherschrank-49b5a5.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Westenergie/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/westenergiebucherschrank-49b5a5.png"
+      }
+    },
+    {
+      "displayName": "ספריית שביל ישראל (Israel National Trail Library)",
+      "id": "traillibrary-cd9af2",
+      "locationSet": {
+        "include": [
+          "il"
+        ]
+      },
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "ספריית שביל ישראל",
+        "brand:en": "Israel National Trail Library",
+        "brand:he": "ספריית שביל ישראל",
+        "brand:wikidata": "Q583897",
+        "colour": "white;blue;orange",
+        "name": "ספריית שביל",
+        "name:en": "Trail Library",
+        "name:he": "ספריית שביל"
+      },
+      "original_logo_url": "https://graph.facebook.com/israeltrail.INT/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/traillibrary-cd9af2.jpg",
+      "local_logo_path": "localbrand/logo/traillibrary-cd9af2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/israeltrail.INT/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/traillibrary-cd9af2.jpg"
+      }
+    }
+  ]
+}

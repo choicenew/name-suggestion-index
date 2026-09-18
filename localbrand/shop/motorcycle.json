@@ -1,0 +1,578 @@
+{
+  "properties": {
+    "path": "brands/shop/motorcycle",
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^motorcycle$"
+      ],
+      "named": [
+        "^independent$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Bajaj",
+      "id": "bajaj-47efa7",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Bajaj",
+        "brand:wikidata": "Q10910065",
+        "name": "Bajaj",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/BajajAutoLtd1/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bajaj-47efa7.png",
+      "local_logo_path": "localbrand/logo/bajaj-47efa7.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BajajAutoLtd1/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bajaj-47efa7.png"
+      }
+    },
+    {
+      "displayName": "BMW Motorrad",
+      "id": "bmwmotorrad-7610a8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "bmw"
+      ],
+      "tags": {
+        "brand": "BMW Motorrad",
+        "brand:wikidata": "Q249173",
+        "name": "BMW Motorrad",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/BMWMotorrad/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bmwmotorrad-7610a8.jpg",
+      "local_logo_path": "localbrand/logo/bmwmotorrad-7610a8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BMWMotorrad/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bmwmotorrad-7610a8.jpg"
+      }
+    },
+    {
+      "displayName": "Ducati",
+      "id": "ducati-7610a8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Ducati",
+        "brand:wikidata": "Q271812",
+        "name": "Ducati",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/Ducati/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ducati-7610a8.jpg",
+      "local_logo_path": "localbrand/logo/ducati-7610a8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Ducati/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ducati-7610a8.jpg"
+      }
+    },
+    {
+      "displayName": "Gogoro",
+      "id": "gogoro-32933d",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "matchNames": [
+        "睿能"
+      ],
+      "tags": {
+        "brand": "Gogoro",
+        "brand:wikidata": "Q19880591",
+        "name": "Gogoro",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/Gogoro/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gogoro-32933d.jpg",
+      "local_logo_path": "localbrand/logo/gogoro-32933d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Gogoro/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gogoro-32933d.jpg"
+      }
+    },
+    {
+      "displayName": "Harley-Davidson",
+      "id": "harleydavidson-7610a8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Harley-Davidson",
+        "brand:wikidata": "Q192814",
+        "name": "Harley-Davidson",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/harley-davidson/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harleydavidson-7610a8.jpg",
+      "local_logo_path": "localbrand/logo/harleydavidson-7610a8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/harley-davidson/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harleydavidson-7610a8.jpg"
+      }
+    },
+    {
+      "displayName": "Hero",
+      "id": "hero-47efa7",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Hero",
+        "brand:wikidata": "Q1613763",
+        "name": "Hero",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/HeroMotoCorpIndia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hero-47efa7.jpg",
+      "local_logo_path": "localbrand/logo/hero-47efa7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HeroMotoCorpIndia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hero-47efa7.jpg"
+      }
+    },
+    {
+      "displayName": "Honda",
+      "id": "honda-7610a8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Honda",
+        "brand:wikidata": "Q9584",
+        "name": "Honda",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/HondaJP/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/honda-7610a8.jpg",
+      "local_logo_path": "localbrand/logo/honda-7610a8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HondaJP/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/honda-7610a8.jpg"
+      }
+    },
+    {
+      "displayName": "Indian Motorcycle",
+      "id": "indianmotorcycle-7610a8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Indian Motorcycle",
+        "brand:wikidata": "Q1091034",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/indianmotorcycle/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indianmotorcycle-7610a8.jpg",
+      "local_logo_path": "localbrand/logo/indianmotorcycle-7610a8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/indianmotorcycle/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indianmotorcycle-7610a8.jpg"
+      }
+    },
+    {
+      "displayName": "Kawasaki",
+      "id": "kawasaki-7610a8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Kawasaki",
+        "brand:wikidata": "Q6379855",
+        "name": "Kawasaki",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/kawasaki/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kawasaki-7610a8.jpg",
+      "local_logo_path": "localbrand/logo/kawasaki-7610a8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kawasaki/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kawasaki-7610a8.jpg"
+      }
+    },
+    {
+      "displayName": "KTM",
+      "id": "ktm-7610a8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "KTM",
+        "brand:wikidata": "Q215657",
+        "name": "KTM",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/Official.KTM/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ktm-7610a8.png",
+      "local_logo_path": "localbrand/logo/ktm-7610a8.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Official.KTM/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ktm-7610a8.png"
+      }
+    },
+    {
+      "displayName": "Louis Motorrad",
+      "id": "louismotorrad-5a4a1c",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de",
+          "nl"
+        ]
+      },
+      "matchTags": [
+        "shop/clothes"
+      ],
+      "tags": {
+        "brand": "Louis Motorrad",
+        "brand:wikidata": "Q1659681",
+        "motorcycle:clothes": "yes",
+        "motorcycle:parts": "yes",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/louismotorrad/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/louismotorrad-5a4a1c.jpg",
+      "local_logo_path": "localbrand/logo/louismotorrad-5a4a1c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/louismotorrad/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/louismotorrad-5a4a1c.jpg"
+      }
+    },
+    {
+      "displayName": "Mitsukoshi",
+      "id": "mitsukoshi-7f0c43",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "brand": "Mitsukoshi",
+        "name": "Mitsukoshi",
+        "shop": "motorcycle"
+      }
+    },
+    {
+      "displayName": "Motorstar",
+      "id": "motorstar-7f0c43",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "brand": "Motorstar",
+        "name": "Motorstar",
+        "shop": "motorcycle"
+      }
+    },
+    {
+      "displayName": "Motortrade",
+      "id": "motortrade-7f0c43",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "brand": "Motortrade",
+        "brand:wikidata": "Q48803162",
+        "name": "Motortrade",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/MotortradePh/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/motortrade-7f0c43.jpg",
+      "local_logo_path": "localbrand/logo/motortrade-7f0c43.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MotortradePh/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/motortrade-7f0c43.jpg"
+      }
+    },
+    {
+      "displayName": "Polaris",
+      "id": "polaris-7610a8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Polaris",
+        "brand:wikidata": "Q1850587",
+        "shop": "motorcycle"
+      }
+    },
+    {
+      "displayName": "Polo Motorrad",
+      "id": "polomotorrad-85371d",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de"
+        ]
+      },
+      "matchTags": [
+        "shop/clothes"
+      ],
+      "tags": {
+        "brand": "Polo Motorrad",
+        "brand:wikidata": "Q2102562",
+        "motorcycle:clothes": "yes",
+        "motorcycle:parts": "yes",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/polomotorrad/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/polomotorrad-85371d.png",
+      "local_logo_path": "localbrand/logo/polomotorrad-85371d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/polomotorrad/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/polomotorrad-85371d.png"
+      }
+    },
+    {
+      "displayName": "Royal Enfield",
+      "id": "royalenfield-47efa7",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Royal Enfield",
+        "brand:wikidata": "Q2668720",
+        "name": "Royal Enfield",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/RoyalEnfield/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/royalenfield-47efa7.jpg",
+      "local_logo_path": "localbrand/logo/royalenfield-47efa7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RoyalEnfield/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/royalenfield-47efa7.jpg"
+      }
+    },
+    {
+      "displayName": "Rusi",
+      "id": "rusi-7f0c43",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "brand": "Rusi",
+        "name": "Rusi",
+        "shop": "motorcycle"
+      }
+    },
+    {
+      "displayName": "Suzuki",
+      "id": "suzuki-7610a8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "suzuki motorcycle india"
+      ],
+      "tags": {
+        "brand": "Suzuki",
+        "brand:wikidata": "Q181642",
+        "name": "Suzuki",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/SuzukiGlobalOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suzuki-7610a8.jpg",
+      "local_logo_path": "localbrand/logo/suzuki-7610a8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SuzukiGlobalOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suzuki-7610a8.jpg"
+      }
+    },
+    {
+      "displayName": "Triumph",
+      "id": "triumph-7610a8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Triumph",
+        "brand:wikidata": "Q1140383",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/OfficialTriumphUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/triumph-7610a8.jpg",
+      "local_logo_path": "localbrand/logo/triumph-7610a8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OfficialTriumphUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/triumph-7610a8.jpg"
+      }
+    },
+    {
+      "displayName": "TVS",
+      "id": "tvs-47efa7",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "TVS",
+        "brand:wikidata": "Q3300084",
+        "name": "TVS",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/tvsmotorcompany/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tvs-47efa7.png",
+      "local_logo_path": "localbrand/logo/tvs-47efa7.png",
+      "logos": {
+        "original": "https://graph.facebook.com/tvsmotorcompany/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tvs-47efa7.png"
+      }
+    },
+    {
+      "displayName": "Vespa",
+      "id": "vespa-7610a8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Vespa",
+        "brand:wikidata": "Q217673",
+        "name": "Vespa",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/Vespa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vespa-7610a8.png",
+      "local_logo_path": "localbrand/logo/vespa-7610a8.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Vespa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vespa-7610a8.png"
+      }
+    },
+    {
+      "displayName": "Wheeltek",
+      "id": "wheeltek-7f0c43",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "brand": "Wheeltek",
+        "name": "Wheeltek",
+        "shop": "motorcycle"
+      }
+    },
+    {
+      "displayName": "Yamaha",
+      "id": "yamaha-7610a8",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Yamaha",
+        "brand:wikidata": "Q158888",
+        "name": "Yamaha",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/yamahamotorusa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yamaha-7610a8.jpg",
+      "local_logo_path": "localbrand/logo/yamaha-7610a8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/yamahamotorusa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yamaha-7610a8.jpg"
+      }
+    },
+    {
+      "displayName": "バイク王",
+      "id": "bikeo-3c6240",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "バイク王",
+        "brand:en": "Bike O",
+        "brand:ja": "バイク王",
+        "brand:wikidata": "Q11327447",
+        "name": "バイク王",
+        "name:en": "Bike O",
+        "name:ja": "バイク王",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/go8190/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bikeo-3c6240.jpg",
+      "local_logo_path": "localbrand/logo/bikeo-3c6240.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/go8190/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bikeo-3c6240.jpg"
+      }
+    },
+    {
+      "displayName": "レッドバロン",
+      "id": "redbaron-3c6240",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "レッドバロン",
+        "brand:en": "Red Baron",
+        "brand:ja": "レッドバロン",
+        "brand:wikidata": "Q11349759",
+        "name": "レッドバロン",
+        "name:en": "Red Baron",
+        "name:ja": "レッドバロン",
+        "shop": "motorcycle"
+      },
+      "original_logo_url": "https://graph.facebook.com/redbaron.co.jp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/redbaron-3c6240.jpg",
+      "local_logo_path": "localbrand/logo/redbaron-3c6240.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/redbaron.co.jp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/redbaron-3c6240.jpg"
+      }
+    }
+  ]
+}

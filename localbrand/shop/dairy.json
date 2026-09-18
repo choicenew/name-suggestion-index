@@ -1,0 +1,338 @@
+{
+  "properties": {
+    "path": "brands/shop/dairy",
+    "exclude": {
+      "generic": [
+        "^dairy$",
+        "^tienda( de (barrio|abarrotes))?$",
+        "^молоко$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Aavin",
+      "id": "aavin-6e9671",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Aavin",
+        "brand:wikidata": "Q4662814",
+        "name": "Aavin",
+        "shop": "dairy"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Aavin_dairy_logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aavin-6e9671.svg",
+      "local_logo_path": "localbrand/logo/aavin-6e9671.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Aavin_dairy_logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aavin-6e9671.svg"
+      }
+    },
+    {
+      "displayName": "Amul",
+      "id": "amul-6e9671",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Amul",
+        "brand:wikidata": "Q2721482",
+        "name": "Amul",
+        "shop": "dairy"
+      },
+      "original_logo_url": "https://graph.facebook.com/amul.coop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amul-6e9671.jpg",
+      "local_logo_path": "localbrand/logo/amul-6e9671.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/amul.coop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amul-6e9671.jpg"
+      }
+    },
+    {
+      "displayName": "LB Bulgaricum",
+      "id": "lbbulgaricum-2958ef",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "LB Bulgaricum",
+        "brand:wikidata": "Q118164603",
+        "name": "LB Bulgaricum",
+        "name:bg": "Ел Би Булгарикум",
+        "name:en": "LB Bulgaricum",
+        "shop": "dairy"
+      }
+    },
+    {
+      "displayName": "Liconsa",
+      "id": "liconsa-f345f3",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Liconsa",
+        "brand:wikidata": "Q16147815",
+        "name": "Liconsa",
+        "shop": "dairy"
+      }
+    },
+    {
+      "displayName": "Milma",
+      "id": "milma-6e9671",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Kerala Co-operative Milk Marketing Federation",
+        "brand:wikidata": "Q3532857",
+        "name": "Milma",
+        "shop": "dairy"
+      },
+      "original_logo_url": "https://graph.facebook.com/milmaofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/milma-6e9671.jpg",
+      "local_logo_path": "localbrand/logo/milma-6e9671.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/milmaofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/milma-6e9671.jpg"
+      }
+    },
+    {
+      "displayName": "Mother Dairy",
+      "id": "motherdairy-6e9671",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Mother Dairy",
+        "brand:wikidata": "Q6917320",
+        "name": "Mother Dairy",
+        "shop": "dairy"
+      },
+      "original_logo_url": "https://graph.facebook.com/MotherDairy/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/motherdairy-6e9671.png",
+      "local_logo_path": "localbrand/logo/motherdairy-6e9671.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MotherDairy/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/motherdairy-6e9671.png"
+      }
+    },
+    {
+      "displayName": "Nandini",
+      "id": "nandini-6e9671",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Nandini",
+        "brand:wikidata": "Q124374212",
+        "name": "Nandini",
+        "shop": "dairy"
+      }
+    },
+    {
+      "displayName": "Oberweis",
+      "id": "oberweis-95235d",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Oberweis",
+        "brand:wikidata": "Q7074835",
+        "name": "Oberweis",
+        "shop": "dairy"
+      },
+      "original_logo_url": "https://graph.facebook.com/oberweis/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oberweis-95235d.jpg",
+      "local_logo_path": "localbrand/logo/oberweis-95235d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/oberweis/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oberweis-95235d.jpg"
+      }
+    },
+    {
+      "displayName": "Veronika",
+      "id": "veronika-26fd0f",
+      "locationSet": {
+        "include": [
+          "hr"
+        ]
+      },
+      "tags": {
+        "brand": "Veronika",
+        "brand:wikidata": "Q87399724",
+        "name": "Veronika",
+        "shop": "dairy"
+      },
+      "original_logo_url": "https://graph.facebook.com/minimljekaraveronika/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/veronika-26fd0f.jpg",
+      "local_logo_path": "localbrand/logo/veronika-26fd0f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/minimljekaraveronika/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/veronika-26fd0f.jpg"
+      }
+    },
+    {
+      "displayName": "Вършец",
+      "id": "bdba68-2958ef",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Вършец",
+        "brand:wikidata": "Q136523255",
+        "name": "Вършец",
+        "shop": "dairy"
+      },
+      "original_logo_url": "https://graph.facebook.com/varshetsofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bdba68-2958ef.jpg",
+      "local_logo_path": "localbrand/logo/bdba68-2958ef.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/varshetsofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bdba68-2958ef.jpg"
+      }
+    },
+    {
+      "displayName": "Ком",
+      "id": "39c928-2958ef",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Ком",
+        "brand:wikidata": "Q136523261",
+        "name": "Ком",
+        "shop": "dairy"
+      }
+    },
+    {
+      "displayName": "Молоко від фермера",
+      "id": "49945f-9e0ef1",
+      "locationSet": {
+        "include": [
+          "ua"
+        ]
+      },
+      "matchNames": [
+        "farmer's milk"
+      ],
+      "matchTags": [
+        "shop/beverages"
+      ],
+      "tags": {
+        "brand": "Молоко від фермера",
+        "brand:wikidata": "Q102174655",
+        "name": "Молоко від фермера",
+        "shop": "dairy"
+      },
+      "original_logo_url": "https://graph.facebook.com/molokoferma.com.ua/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/49945f-9e0ef1.jpg",
+      "local_logo_path": "localbrand/logo/49945f-9e0ef1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/molokoferma.com.ua/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/49945f-9e0ef1.jpg"
+      }
+    },
+    {
+      "displayName": "Наслада",
+      "id": "54b734-2958ef",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Наслада",
+        "brand:wikidata": "Q122960380",
+        "name": "Наслада",
+        "shop": "dairy"
+      },
+      "original_logo_url": "https://graph.facebook.com/106677281992380/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/54b734-2958ef.jpg",
+      "local_logo_path": "localbrand/logo/54b734-2958ef.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/106677281992380/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/54b734-2958ef.jpg"
+      }
+    },
+    {
+      "displayName": "Равно поле",
+      "id": "917c7c-2958ef",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Равно поле",
+        "brand:wikidata": "Q136806785",
+        "name": "Равно поле",
+        "shop": "dairy"
+      }
+    },
+    {
+      "displayName": "Ракево Милк",
+      "id": "ed1d5f-2958ef",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Ракево Милк",
+        "brand:wikidata": "Q136523267",
+        "name": "Ракево Милк",
+        "shop": "dairy"
+      }
+    },
+    {
+      "displayName": "兰熊",
+      "id": "bluebear-9640d8",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "matchNames": [
+        "兰熊酸奶",
+        "兰熊鲜奶",
+        "北京兰熊",
+        "蓝熊酸奶",
+        "蓝熊鲜奶"
+      ],
+      "tags": {
+        "brand": "兰熊",
+        "brand:en": "BLUE BEAR",
+        "brand:wikidata": "Q110310500",
+        "brand:zh": "兰熊",
+        "name": "兰熊",
+        "name:en": "兰熊",
+        "name:zh": "BLUE BEAR",
+        "shop": "dairy",
+        "takeaway": "yes"
+      }
+    }
+  ]
+}

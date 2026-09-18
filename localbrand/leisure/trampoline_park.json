@@ -1,0 +1,160 @@
+{
+  "properties": {
+    "path": "brands/leisure/trampoline_park",
+    "exclude": {
+      "generic": [
+        "^trampoline park$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Altitude",
+      "id": "altitude-88b71c",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Altitude",
+        "brand:wikidata": "Q109322489",
+        "leisure": "trampoline_park",
+        "name": "Altitude"
+      },
+      "original_logo_url": "https://graph.facebook.com/AltitudeTrampolinePark/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/altitude-88b71c.jpg",
+      "local_logo_path": "localbrand/logo/altitude-88b71c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AltitudeTrampolinePark/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/altitude-88b71c.jpg"
+      }
+    },
+    {
+      "displayName": "Bounce Inc",
+      "id": "bounceinc-0b8920",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "matchNames": [
+        "bounce"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Bounce Inc",
+        "brand:wikidata": "Q120405695",
+        "leisure": "trampoline_park",
+        "name": "BOUNCEinc"
+      }
+    },
+    {
+      "displayName": "Flip Out (AU)",
+      "id": "flipout-0b8920",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Flip Out",
+        "brand:wikidata": "Q141100414",
+        "leisure": "trampoline_park",
+        "name": "Flip Out"
+      },
+      "original_logo_url": "https://graph.facebook.com/FlipOutAustralia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flipout-0b8920.jpg",
+      "local_logo_path": "localbrand/logo/flipout-0b8920.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FlipOutAustralia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flipout-0b8920.jpg"
+      }
+    },
+    {
+      "displayName": "Flip Out (UK)",
+      "id": "flipout-002cc1",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Flip Out",
+        "brand:wikidata": "Q87271194",
+        "leisure": "trampoline_park",
+        "name": "Flip Out"
+      },
+      "original_logo_url": "https://graph.facebook.com/FlipOutUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flipout-002cc1.png",
+      "local_logo_path": "localbrand/logo/flipout-002cc1.png",
+      "logos": {
+        "original": "https://graph.facebook.com/FlipOutUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flipout-002cc1.png"
+      }
+    },
+    {
+      "displayName": "Sky Zone",
+      "id": "skyzone-746047",
+      "locationSet": {
+        "include": [
+          "ae",
+          "ca",
+          "co",
+          "gb",
+          "gt",
+          "in",
+          "mx",
+          "no",
+          "om",
+          "pk",
+          "sa",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Sky Zone",
+        "brand:wikidata": "Q7537557",
+        "leisure": "trampoline_park",
+        "name": "Sky Zone"
+      },
+      "original_logo_url": "https://graph.facebook.com/skyzoneusa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skyzone-746047.jpg",
+      "local_logo_path": "localbrand/logo/skyzone-746047.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/skyzoneusa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skyzone-746047.jpg"
+      }
+    },
+    {
+      "displayName": "Urban Air",
+      "id": "urbanair-569d04",
+      "locationSet": {
+        "include": [
+          "at",
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Urban Air",
+        "brand:wikidata": "Q110172893",
+        "leisure": "trampoline_park",
+        "name": "Urban Air",
+        "official_name": "Urban Air Trampoline and Adventure Park"
+      },
+      "original_logo_url": "https://graph.facebook.com/UrbanAir/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/urbanair-569d04.jpg",
+      "local_logo_path": "localbrand/logo/urbanair-569d04.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/UrbanAir/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/urbanair-569d04.jpg"
+      }
+    }
+  ]
+}

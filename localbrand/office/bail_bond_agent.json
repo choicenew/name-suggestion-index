@@ -1,0 +1,52 @@
+{
+  "properties": {
+    "path": "brands/office/bail_bond_agent",
+    "exclude": {
+      "generic": [
+        "^bail bond agent$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Aladdin Bail Bonds",
+      "id": "aladdinbailbonds-e2590f",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "aladdin",
+        "aladin bail bonds",
+        "alladin bail bonds"
+      ],
+      "matchTags": [
+        "amenity/bail_bond",
+        "amenity/bail_bonds",
+        "office/bail_bond",
+        "office/bail_bonds",
+        "shop/bail_bond",
+        "shop/bail_bonds",
+        "shop/money_lender"
+      ],
+      "preserveTags": [
+        "^opening_hours"
+      ],
+      "tags": {
+        "brand": "Aladdin Bail Bonds",
+        "brand:wikidata": "Q64166257",
+        "name": "Aladdin Bail Bonds",
+        "office": "bail_bond_agent",
+        "opening_hours": "24/7"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Aladdin_Bail_Bonds_logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aladdinbailbonds-e2590f.png",
+      "local_logo_path": "localbrand/logo/aladdinbailbonds-e2590f.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/6/60/Aladdin_Bail_Bonds_logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aladdinbailbonds-e2590f.png"
+      }
+    }
+  ]
+}

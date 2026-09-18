@@ -1,0 +1,59 @@
+{
+  "properties": {
+    "path": "brands/shop/curtain",
+    "exclude": {
+      "generic": [
+        "^curtain$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Heytens",
+      "id": "heytens-ceb642",
+      "locationSet": {
+        "include": [
+          "be",
+          "ch",
+          "fr",
+          "lu"
+        ]
+      },
+      "tags": {
+        "brand": "Heytens",
+        "brand:wikidata": "Q90565231",
+        "name": "Heytens",
+        "shop": "curtain"
+      },
+      "original_logo_url": "https://graph.facebook.com/heytens.group/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/heytens-ceb642.jpg",
+      "local_logo_path": "localbrand/logo/heytens-ceb642.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/heytens.group/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/heytens-ceb642.jpg"
+      }
+    },
+    {
+      "displayName": "Vianney",
+      "id": "vianney-8de768",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "brand": "Vianney",
+        "brand:wikidata": "Q113203804",
+        "name": "Vianney",
+        "shop": "curtain"
+      },
+      "original_logo_url": "https://graph.facebook.com/vianney.empresa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vianney-8de768.jpg",
+      "local_logo_path": "localbrand/logo/vianney-8de768.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/vianney.empresa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vianney-8de768.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "properties": {
+    "path": "brands/shop/truck_repair",
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^truck repair$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Ashok Leyland",
+      "id": "ashokleyland-3af70f",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "matchNames": [
+        "ashoke"
+      ],
+      "tags": {
+        "brand": "Ashok Leyland",
+        "brand:wikidata": "Q726193",
+        "name": "Ashok Leyland",
+        "shop": "truck_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/AshokLeylandOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ashokleyland-3af70f.jpg",
+      "local_logo_path": "localbrand/logo/ashokleyland-3af70f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AshokLeylandOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ashokleyland-3af70f.jpg"
+      }
+    },
+    {
+      "displayName": "BharatBenz",
+      "id": "bharatbenz-3af70f",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "BharatBenz",
+        "brand:wikidata": "Q1107991",
+        "name": "BharatBenz",
+        "shop": "truck_repair"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/BHARATBENZ_Heavy_Duty_Truck_3128_C_front_logo.Spielvogel.JPG",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bharatbenz-3af70f.jpg",
+      "local_logo_path": "localbrand/logo/bharatbenz-3af70f.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/79/BHARATBENZ_Heavy_Duty_Truck_3128_C_front_logo.Spielvogel.JPG",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bharatbenz-3af70f.jpg"
+      }
+    },
+    {
+      "displayName": "DAF",
+      "id": "daf-f0ee07",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "daf trucks"
+      ],
+      "tags": {
+        "brand": "DAF",
+        "brand:wikidata": "Q27489",
+        "name": "DAF",
+        "shop": "truck_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/daftrucksnv/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daf-f0ee07.jpg",
+      "local_logo_path": "localbrand/logo/daf-f0ee07.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/daftrucksnv/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daf-f0ee07.jpg"
+      }
+    },
+    {
+      "displayName": "Eicher Motors",
+      "id": "eichermotors-3af70f",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Eicher Motors",
+        "brand:wikidata": "Q1301821",
+        "name": "Eicher Motors",
+        "shop": "truck_repair"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Royal_Enfield_Bullet_Electra_350%2C_pure_black_model_05.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eichermotors-3af70f.jpg",
+      "local_logo_path": "localbrand/logo/eichermotors-3af70f.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Royal_Enfield_Bullet_Electra_350%2C_pure_black_model_05.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eichermotors-3af70f.jpg"
+      }
+    },
+    {
+      "displayName": "Fuso",
+      "id": "fuso-cb3721",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Fuso",
+        "brand:wikidata": "Q1190247",
+        "name": "Fuso",
+        "shop": "truck_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/FusoOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fuso-cb3721.jpg",
+      "local_logo_path": "localbrand/logo/fuso-cb3721.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FusoOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fuso-cb3721.jpg"
+      }
+    },
+    {
+      "displayName": "Iveco",
+      "id": "iveco-da7719",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "ca",
+          "mx",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Iveco",
+        "brand:wikidata": "Q29913",
+        "name": "Iveco",
+        "shop": "truck_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/IVECO/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iveco-da7719.jpg",
+      "local_logo_path": "localbrand/logo/iveco-da7719.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IVECO/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iveco-da7719.jpg"
+      }
+    },
+    {
+      "displayName": "Love's Truck Care",
+      "id": "lovestruckcare-4e81eb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Love's",
+        "brand:wikidata": "Q1872496",
+        "name": "Love's Truck Care",
+        "shop": "truck_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/lovestravelstops/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lovestruckcare-4e81eb.png",
+      "local_logo_path": "localbrand/logo/lovestruckcare-4e81eb.png",
+      "logos": {
+        "original": "https://graph.facebook.com/lovestravelstops/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lovestruckcare-4e81eb.png"
+      }
+    },
+    {
+      "displayName": "Mahindra Truck and Bus",
+      "id": "mahindratruckandbus-3af70f",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "brand": "Mahindra Truck and Bus",
+        "brand:wikidata": "Q848059",
+        "name": "Mahindra Truck and Bus",
+        "shop": "truck_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/MahindraRise/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mahindratruckandbus-3af70f.jpg",
+      "local_logo_path": "localbrand/logo/mahindratruckandbus-3af70f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MahindraRise/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mahindratruckandbus-3af70f.jpg"
+      }
+    },
+    {
+      "displayName": "MAN",
+      "id": "man-f0ee07",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "man se",
+        "man truck"
+      ],
+      "tags": {
+        "brand": "MAN",
+        "brand:wikidata": "Q708667",
+        "name": "MAN",
+        "shop": "truck_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/mantruckandbus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/man-f0ee07.jpg",
+      "local_logo_path": "localbrand/logo/man-f0ee07.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mantruckandbus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/man-f0ee07.jpg"
+      }
+    },
+    {
+      "displayName": "Mercedes-Benz Trucks",
+      "id": "mercedesbenztrucks-f0ee07",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Mercedes-Benz Trucks",
+        "brand:wikidata": "Q36008",
+        "name": "Mercedes-Benz Trucks",
+        "shop": "truck_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/MercedesBenz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mercedesbenztrucks-f0ee07.png",
+      "local_logo_path": "localbrand/logo/mercedesbenztrucks-f0ee07.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MercedesBenz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mercedesbenztrucks-f0ee07.png"
+      }
+    },
+    {
+      "displayName": "Renault Trucks",
+      "id": "renaulttrucks-f0ee07",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Renault Trucks",
+        "brand:wikidata": "Q840045",
+        "name": "Renault Trucks",
+        "shop": "truck_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/renaulttrucksfrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/renaulttrucks-f0ee07.jpg",
+      "local_logo_path": "localbrand/logo/renaulttrucks-f0ee07.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/renaulttrucksfrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/renaulttrucks-f0ee07.jpg"
+      }
+    },
+    {
+      "displayName": "Rush Truck Centers",
+      "id": "rushtruckcenters-4e81eb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Rush Truck Centers",
+        "brand:wikidata": "Q120637525",
+        "name": "Rush Truck Centers",
+        "shop": "truck_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/rushtruckcenters/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rushtruckcenters-4e81eb.jpg",
+      "local_logo_path": "localbrand/logo/rushtruckcenters-4e81eb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rushtruckcenters/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rushtruckcenters-4e81eb.jpg"
+      }
+    },
+    {
+      "displayName": "Scania",
+      "id": "scania-f0ee07",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Scania",
+        "brand:wikidata": "Q219960",
+        "name": "Scania",
+        "shop": "truck_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/scaniajp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/scania-f0ee07.png",
+      "local_logo_path": "localbrand/logo/scania-f0ee07.png",
+      "logos": {
+        "original": "https://graph.facebook.com/scaniajp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/scania-f0ee07.png"
+      }
+    },
+    {
+      "displayName": "SML Mahindra (formerly SML Isuzu)",
+      "id": "smlmahindra-3af70f",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "matchNames": [
+        "sml isuzu",
+        "swaraj mazda"
+      ],
+      "tags": {
+        "brand": "SML Mahindra",
+        "brand:wikidata": "Q7391257",
+        "name": "SML Mahindra",
+        "shop": "truck_repair"
+      }
+    },
+    {
+      "displayName": "Speedco",
+      "id": "speedco-4e81eb",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "speedco truck lube and tires"
+      ],
+      "tags": {
+        "brand": "Speedco",
+        "brand:wikidata": "Q112455073",
+        "name": "Speedco",
+        "shop": "truck_repair"
+      }
+    },
+    {
+      "displayName": "Tata Motors Commercial Vehicles",
+      "id": "tatamotors-3af70f",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "matchNames": [
+        "tata commercial vehicles",
+        "tata trucks"
+      ],
+      "tags": {
+        "brand": "Tata Motors",
+        "brand:wikidata": "Q188514",
+        "name": "Tata Motors",
+        "shop": "truck_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/TataMotorsGroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tatamotors-3af70f.png",
+      "local_logo_path": "localbrand/logo/tatamotors-3af70f.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TataMotorsGroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tatamotors-3af70f.png"
+      }
+    },
+    {
+      "displayName": "Volvo Trucks",
+      "id": "volvotrucks-f0ee07",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Volvo Trucks",
+        "brand:wikidata": "Q2033642",
+        "name": "Volvo Trucks",
+        "shop": "truck_repair"
+      },
+      "original_logo_url": "https://graph.facebook.com/VolvoTrucks/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/volvotrucks-f0ee07.jpg",
+      "local_logo_path": "localbrand/logo/volvotrucks-f0ee07.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/VolvoTrucks/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/volvotrucks-f0ee07.jpg"
+      }
+    }
+  ]
+}

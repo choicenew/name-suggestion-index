@@ -1,0 +1,477 @@
+{
+  "properties": {
+    "path": "brands/office/union",
+    "preserveTags": [
+      "^(official_|short_)?name"
+    ],
+    "exclude": {
+      "generic": [
+        "^(trade )?union$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "CFDT",
+      "id": "cfdt-98227a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "CFDT",
+        "brand:wikidata": "Q1125605",
+        "name": "CFDT",
+        "office": "union",
+        "official_name": "Confédération française démocratique du travail"
+      },
+      "original_logo_url": "https://graph.facebook.com/la.CFDT/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cfdt-98227a.jpg",
+      "local_logo_path": "localbrand/logo/cfdt-98227a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/la.CFDT/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cfdt-98227a.jpg"
+      }
+    },
+    {
+      "displayName": "CFE-CGC",
+      "id": "cfecgc-98227a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "CFE-CGC",
+        "brand:wikidata": "Q2992730",
+        "name": "CFE-CGC",
+        "office": "union",
+        "official_name": "Confédération française de l'encadrement - Confédération générale des cadres"
+      },
+      "original_logo_url": "https://graph.facebook.com/ConfederationCFECGC/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cfecgc-98227a.png",
+      "local_logo_path": "localbrand/logo/cfecgc-98227a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/ConfederationCFECGC/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cfecgc-98227a.png"
+      }
+    },
+    {
+      "displayName": "CFTC",
+      "id": "cftc-98227a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "CFTC",
+        "brand:wikidata": "Q1125610",
+        "name": "CFTC",
+        "office": "union",
+        "official_name": "Confédération française des travailleurs chrétiens"
+      },
+      "original_logo_url": "https://graph.facebook.com/syndicatCFTC/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cftc-98227a.jpg",
+      "local_logo_path": "localbrand/logo/cftc-98227a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/syndicatCFTC/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cftc-98227a.jpg"
+      }
+    },
+    {
+      "displayName": "CGT",
+      "id": "cgt-98227a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "CGT",
+        "brand:wikidata": "Q1125638",
+        "name": "CGT",
+        "office": "union",
+        "official_name": "Confédération générale du travail"
+      },
+      "original_logo_url": "https://graph.facebook.com/ConfederationGeneraleDuTravail/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cgt-98227a.jpg",
+      "local_logo_path": "localbrand/logo/cgt-98227a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ConfederationGeneraleDuTravail/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cgt-98227a.jpg"
+      }
+    },
+    {
+      "displayName": "DGB",
+      "id": "dgb-321fbc",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "DGB",
+        "brand:wikidata": "Q586581",
+        "name": "DGB",
+        "office": "union",
+        "official_name": "Deutscher Gewerkschaftsbund"
+      },
+      "original_logo_url": "https://graph.facebook.com/DGB.Gewerkschaftsbund/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dgb-321fbc.jpg",
+      "local_logo_path": "localbrand/logo/dgb-321fbc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DGB.Gewerkschaftsbund/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dgb-321fbc.jpg"
+      }
+    },
+    {
+      "displayName": "Eğitim-Sen",
+      "id": "egitimsen-5fd954",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Eğitim-Sen",
+        "brand:wikidata": "Q1115799",
+        "name": "Eğitim-Sen",
+        "name:en": "Education and Science Workers' Union",
+        "office": "union",
+        "official_name": "Eğitim ve Bilim Emekçileri Sendikası"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Egitim-sen-logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/egitimsen-5fd954.png",
+      "local_logo_path": "localbrand/logo/egitimsen-5fd954.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Egitim-sen-logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/egitimsen-5fd954.png"
+      }
+    },
+    {
+      "displayName": "EVG",
+      "id": "evg-321fbc",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "EVG",
+        "brand:wikidata": "Q1311386",
+        "name": "EVG",
+        "office": "union",
+        "official_name": "Eisenbahn- und Verkehrsgewerkschaft"
+      },
+      "original_logo_url": "https://graph.facebook.com/DeineEVG/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/evg-321fbc.jpg",
+      "local_logo_path": "localbrand/logo/evg-321fbc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DeineEVG/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/evg-321fbc.jpg"
+      }
+    },
+    {
+      "displayName": "FO",
+      "id": "fo-98227a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "FO",
+        "brand:wikidata": "Q1125623",
+        "name": "FO",
+        "office": "union",
+        "official_name": "Force ouvrière"
+      },
+      "original_logo_url": "https://graph.facebook.com/force.ouvriere.fr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fo-98227a.png",
+      "local_logo_path": "localbrand/logo/fo-98227a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/force.ouvriere.fr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fo-98227a.png"
+      }
+    },
+    {
+      "displayName": "FSE",
+      "id": "fse-98227a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "FSE",
+        "brand:wikidata": "Q109037715",
+        "name": "FSE",
+        "office": "union",
+        "official_name": "Fédération syndicale étudiante"
+      },
+      "original_logo_url": "https://graph.facebook.com/FSE.natio/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fse-98227a.png",
+      "local_logo_path": "localbrand/logo/fse-98227a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/FSE.natio/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fse-98227a.png"
+      }
+    },
+    {
+      "displayName": "GdP",
+      "id": "gdp-321fbc",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "GdP",
+        "brand:wikidata": "Q314080",
+        "name": "GdP",
+        "office": "union",
+        "official_name": "Gewerkschaft der Polizei"
+      },
+      "original_logo_url": "https://graph.facebook.com/GdP.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gdp-321fbc.png",
+      "local_logo_path": "localbrand/logo/gdp-321fbc.png",
+      "logos": {
+        "original": "https://graph.facebook.com/GdP.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gdp-321fbc.png"
+      }
+    },
+    {
+      "displayName": "GEW",
+      "id": "gew-321fbc",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "GEW",
+        "brand:wikidata": "Q325778",
+        "name": "GEW",
+        "office": "union",
+        "official_name": "Gewerkschaft Erziehung und Wissenschaft"
+      },
+      "original_logo_url": "https://graph.facebook.com/GEW.DieBildungsgewerkschaft/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gew-321fbc.png",
+      "local_logo_path": "localbrand/logo/gew-321fbc.png",
+      "logos": {
+        "original": "https://graph.facebook.com/GEW.DieBildungsgewerkschaft/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gew-321fbc.png"
+      }
+    },
+    {
+      "displayName": "IG BAU",
+      "id": "igbau-321fbc",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "IG BAU",
+        "brand:wikidata": "Q896472",
+        "name": "IG BAU",
+        "office": "union",
+        "official_name": "IG Bauen-Agrar-Umwelt"
+      },
+      "original_logo_url": "https://graph.facebook.com/IGBauenAgrarUmwelt/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/igbau-321fbc.jpg",
+      "local_logo_path": "localbrand/logo/igbau-321fbc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/IGBauenAgrarUmwelt/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/igbau-321fbc.jpg"
+      }
+    },
+    {
+      "displayName": "IG BCE",
+      "id": "igbce-321fbc",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "IG BCE",
+        "brand:wikidata": "Q871045",
+        "name": "IG BCE",
+        "office": "union",
+        "official_name": "IG Bergbau, Chemie, Energie"
+      },
+      "original_logo_url": "https://graph.facebook.com/igbce/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/igbce-321fbc.jpg",
+      "local_logo_path": "localbrand/logo/igbce-321fbc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/igbce/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/igbce-321fbc.jpg"
+      }
+    },
+    {
+      "displayName": "IG Metall",
+      "id": "igmetall-321fbc",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "IG Metall",
+        "brand:short": "IGM",
+        "brand:wikidata": "Q694821",
+        "name": "IG Metall",
+        "office": "union",
+        "official_name": "Industriegewerkschaft Metall"
+      },
+      "original_logo_url": "https://graph.facebook.com/igmetall/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/igmetall-321fbc.png",
+      "local_logo_path": "localbrand/logo/igmetall-321fbc.png",
+      "logos": {
+        "original": "https://graph.facebook.com/igmetall/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/igmetall-321fbc.png"
+      }
+    },
+    {
+      "displayName": "NGG",
+      "id": "ngg-321fbc",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "NGG",
+        "brand:wikidata": "Q896313",
+        "name": "NGG",
+        "office": "union",
+        "official_name": "Gewerkschaft Nahrung-Genuss-Gaststätten"
+      },
+      "original_logo_url": "https://graph.facebook.com/GewerkschaftNGG/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ngg-321fbc.jpg",
+      "local_logo_path": "localbrand/logo/ngg-321fbc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GewerkschaftNGG/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ngg-321fbc.jpg"
+      }
+    },
+    {
+      "displayName": "SESL",
+      "id": "sesl-98227a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "SESL",
+        "brand:wikidata": "Q16677410",
+        "name": "SESL",
+        "office": "union",
+        "official_name": "Solidaires étudiant-e-s"
+      },
+      "original_logo_url": "https://graph.facebook.com/solidairesetudiantes/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sesl-98227a.png",
+      "local_logo_path": "localbrand/logo/sesl-98227a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/solidairesetudiantes/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sesl-98227a.png"
+      }
+    },
+    {
+      "displayName": "Solidaires",
+      "id": "solidaires-98227a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Solidaires",
+        "brand:wikidata": "Q3550610",
+        "name": "Solidaires",
+        "office": "union",
+        "official_name": "Union syndicale Solidaires"
+      },
+      "original_logo_url": "https://graph.facebook.com/UnionSolidaires/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/solidaires-98227a.jpg",
+      "local_logo_path": "localbrand/logo/solidaires-98227a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/UnionSolidaires/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/solidaires-98227a.jpg"
+      }
+    },
+    {
+      "displayName": "UE",
+      "id": "ue-98227a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "UE",
+        "brand:wikidata": "Q117428377",
+        "name": "UE",
+        "office": "union",
+        "official_name": "Union étudiante"
+      },
+      "original_logo_url": "https://graph.facebook.com/u.etudiante/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ue-98227a.jpg",
+      "local_logo_path": "localbrand/logo/ue-98227a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/u.etudiante/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ue-98227a.jpg"
+      }
+    },
+    {
+      "displayName": "UNEF",
+      "id": "unef-98227a",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "UNEF",
+        "brand:wikidata": "Q910798",
+        "name": "UNEF",
+        "office": "union",
+        "official_name": "Union nationale des étudiants de France"
+      },
+      "original_logo_url": "https://graph.facebook.com/unef.fr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unef-98227a.jpg",
+      "local_logo_path": "localbrand/logo/unef-98227a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/unef.fr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unef-98227a.jpg"
+      }
+    },
+    {
+      "displayName": "ver.di",
+      "id": "verdi-321fbc",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "ver.di",
+        "brand:wikidata": "Q547951",
+        "name": "ver.di",
+        "office": "union",
+        "official_name": "Vereinte Dienstleistungsgewerkschaft"
+      },
+      "original_logo_url": "https://graph.facebook.com/verdi/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/verdi-321fbc.jpg",
+      "local_logo_path": "localbrand/logo/verdi-321fbc.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/verdi/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/verdi-321fbc.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "properties": {
+    "path": "brands/shop/caravan",
+    "exclude": {
+      "generic": [
+        "^caravan$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Camping World",
+      "id": "campingworld-391dd0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/sports"
+      ],
+      "tags": {
+        "brand": "Camping World",
+        "brand:wikidata": "Q5028383",
+        "name": "Camping World",
+        "shop": "caravan"
+      },
+      "original_logo_url": "https://graph.facebook.com/campingworld/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/campingworld-391dd0.jpg",
+      "local_logo_path": "localbrand/logo/campingworld-391dd0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/campingworld/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/campingworld-391dd0.jpg"
+      }
+    },
+    {
+      "displayName": "Fun Town RV",
+      "id": "funtownrv-391dd0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/sports"
+      ],
+      "tags": {
+        "brand": "Fun Town RV",
+        "brand:wikidata": "Q134021163",
+        "name": "Fun Town RV",
+        "shop": "caravan"
+      },
+      "original_logo_url": "https://graph.facebook.com/funtownrv/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/funtownrv-391dd0.jpg",
+      "local_logo_path": "localbrand/logo/funtownrv-391dd0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/funtownrv/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/funtownrv-391dd0.jpg"
+      }
+    }
+  ]
+}

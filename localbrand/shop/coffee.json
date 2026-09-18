@@ -1,0 +1,114 @@
+{
+  "properties": {
+    "path": "brands/shop/coffee",
+    "exclude": {
+      "generic": [
+        "^coffee( shop)?$"
+      ],
+      "named": [
+        "^bar kafe?$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Nespresso",
+      "id": "nespresso-d0bfaf",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Nespresso",
+        "brand:wikidata": "Q301301",
+        "name": "Nespresso",
+        "shop": "coffee"
+      },
+      "original_logo_url": "https://graph.facebook.com/nespresso/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nespresso-d0bfaf.jpg",
+      "local_logo_path": "localbrand/logo/nespresso-d0bfaf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/nespresso/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nespresso-d0bfaf.jpg"
+      }
+    },
+    {
+      "displayName": "Tchibo",
+      "id": "tchibo-8e6167",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "cz",
+          "de",
+          "pl",
+          "sk"
+        ]
+      },
+      "matchTags": [
+        "shop/convenience"
+      ],
+      "tags": {
+        "brand": "Tchibo",
+        "brand:wikidata": "Q564213",
+        "name": "Tchibo",
+        "shop": "coffee"
+      },
+      "original_logo_url": "https://graph.facebook.com/tchibo.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tchibo-8e6167.png",
+      "local_logo_path": "localbrand/logo/tchibo-8e6167.png",
+      "logos": {
+        "original": "https://graph.facebook.com/tchibo.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tchibo-8e6167.png"
+      }
+    },
+    {
+      "displayName": "მეამა",
+      "id": "meama-06d40a",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "მეამა",
+        "brand:en": "Meama",
+        "brand:ka": "მეამა",
+        "brand:ru": "Меама",
+        "brand:wikidata": "Q99850395",
+        "name": "მეამა",
+        "name:en": "Meama",
+        "name:ka": "მეამა",
+        "name:ru": "Меама",
+        "shop": "coffee"
+      }
+    },
+    {
+      "displayName": "カルディコーヒーファーム",
+      "id": "kaldicoffeefarm-e1062f",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "カルディコーヒーファーム",
+        "brand:en": "Kaldi Coffee Farm",
+        "brand:ja": "カルディコーヒーファーム",
+        "brand:wikidata": "Q129093913",
+        "name": "カルディコーヒーファーム",
+        "name:en": "Kaldi Coffee Farm",
+        "name:ja": "カルディコーヒーファーム",
+        "shop": "coffee"
+      },
+      "original_logo_url": "https://graph.facebook.com/KaldiCoffeeFarm/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kaldicoffeefarm-e1062f.jpg",
+      "local_logo_path": "localbrand/logo/kaldicoffeefarm-e1062f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KaldiCoffeeFarm/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kaldicoffeefarm-e1062f.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "properties": {
+    "path": "brands/shop/hifi",
+    "exclude": {
+      "generic": [
+        "^hifi$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Bang & Olufsen",
+      "id": "bangandolufsen-7a2989",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Bang & Olufsen",
+        "brand:wikidata": "Q790020",
+        "name": "Bang & Olufsen",
+        "shop": "hifi"
+      },
+      "original_logo_url": "https://graph.facebook.com/bangolufsen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bangandolufsen-7a2989.jpg",
+      "local_logo_path": "localbrand/logo/bangandolufsen-7a2989.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bangolufsen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bangandolufsen-7a2989.jpg"
+      }
+    },
+    {
+      "displayName": "Bose",
+      "id": "bose-7a2989",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Bose",
+        "brand:wikidata": "Q328568",
+        "name": "Bose",
+        "shop": "hifi"
+      },
+      "original_logo_url": "https://graph.facebook.com/Bose/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bose-7a2989.png",
+      "local_logo_path": "localbrand/logo/bose-7a2989.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Bose/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bose-7a2989.png"
+      }
+    },
+    {
+      "displayName": "Devialet",
+      "id": "devialet-7a2989",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Devialet",
+        "brand:wikidata": "Q3025419",
+        "name": "Devialet",
+        "shop": "hifi"
+      },
+      "original_logo_url": "https://graph.facebook.com/DevialetGlobal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/devialet-7a2989.jpg",
+      "local_logo_path": "localbrand/logo/devialet-7a2989.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DevialetGlobal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/devialet-7a2989.jpg"
+      }
+    },
+    {
+      "displayName": "Fastrak",
+      "id": "fastrak-779be0",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Fastrak",
+        "brand:wikidata": "Q120799603",
+        "name": "Fastrak",
+        "shop": "hifi"
+      },
+      "original_logo_url": "https://graph.facebook.com/fastrakza/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastrak-779be0.jpg",
+      "local_logo_path": "localbrand/logo/fastrak-779be0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fastrakza/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastrak-779be0.jpg"
+      }
+    },
+    {
+      "displayName": "Harman Kardon",
+      "id": "harmankardon-7a2989",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Harman Kardon",
+        "brand:wikidata": "Q1476454",
+        "name": "Harman Kardon",
+        "shop": "hifi"
+      },
+      "original_logo_url": "https://graph.facebook.com/harmankardon/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harmankardon-7a2989.jpg",
+      "local_logo_path": "localbrand/logo/harmankardon-7a2989.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/harmankardon/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harmankardon-7a2989.jpg"
+      }
+    },
+    {
+      "displayName": "HiFi Klubben",
+      "id": "hifiklubben-d52532",
+      "locationSet": {
+        "include": [
+          "de",
+          "dk",
+          "fi",
+          "nl",
+          "no",
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "HiFi Klubben",
+        "brand:wikidata": "Q3437804",
+        "name": "HiFi Klubben",
+        "shop": "hifi"
+      },
+      "original_logo_url": "https://graph.facebook.com/hifiklubbenno/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hifiklubben-d52532.jpg",
+      "local_logo_path": "localbrand/logo/hifiklubben-d52532.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hifiklubbenno/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hifiklubben-d52532.jpg"
+      }
+    },
+    {
+      "displayName": "JBL",
+      "id": "jbl-7a2989",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "JBL",
+        "brand:wikidata": "Q1153754",
+        "name": "JBL",
+        "shop": "hifi"
+      },
+      "original_logo_url": "https://graph.facebook.com/JBL/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jbl-7a2989.jpg",
+      "local_logo_path": "localbrand/logo/jbl-7a2989.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JBL/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jbl-7a2989.jpg"
+      }
+    },
+    {
+      "displayName": "Richer Sounds",
+      "id": "richersounds-76bfaa",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Richer Sounds",
+        "brand:wikidata": "Q7330409",
+        "name": "Richer Sounds",
+        "shop": "hifi"
+      },
+      "original_logo_url": "https://graph.facebook.com/richersounds/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/richersounds-76bfaa.png",
+      "local_logo_path": "localbrand/logo/richersounds-76bfaa.png",
+      "logos": {
+        "original": "https://graph.facebook.com/richersounds/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/richersounds-76bfaa.png"
+      }
+    },
+    {
+      "displayName": "Teufel",
+      "id": "teufel-bbb902",
+      "locationSet": {
+        "include": [
+          "at",
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Teufel",
+        "brand:wikidata": "Q1351741",
+        "name": "Teufel",
+        "shop": "hifi"
+      },
+      "original_logo_url": "https://graph.facebook.com/lautsprecherteufel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/teufel-bbb902.png",
+      "local_logo_path": "localbrand/logo/teufel-bbb902.png",
+      "logos": {
+        "original": "https://graph.facebook.com/lautsprecherteufel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/teufel-bbb902.png"
+      }
+    }
+  ]
+}

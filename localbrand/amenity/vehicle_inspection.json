@@ -1,0 +1,541 @@
+{
+  "properties": {
+    "path": "brands/amenity/vehicle_inspection",
+    "exclude": {
+      "generic": [
+        "^stacja kontroli pojazdów$",
+        "^vehicle inspection( station)?$",
+        "^техосмотр$"
+      ],
+      "named": [
+        "^itv$",
+        "^okręgowa stacja kontroli pojazdów$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Applus Bilsyn",
+      "id": "applusbilsyn-d8b9f3",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "Applus Bilsyn",
+        "brand:wikidata": "Q5412861",
+        "name": "Applus Bilsyn"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Applus%2B_logo_h1.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/applusbilsyn-d8b9f3.png",
+      "local_logo_path": "localbrand/logo/applusbilsyn-d8b9f3.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/11/Applus%2B_logo_h1.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/applusbilsyn-d8b9f3.png"
+      }
+    },
+    {
+      "displayName": "Auto Sécurité",
+      "id": "autosecurite-53baa7",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "Auto Sécurité",
+        "name": "Auto Sécurité"
+      }
+    },
+    {
+      "displayName": "Autosur",
+      "id": "autosur-53baa7",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "Autosur",
+        "brand:wikidata": "Q64224807",
+        "name": "Autosur"
+      },
+      "original_logo_url": "https://graph.facebook.com/autosurfrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autosur-53baa7.jpg",
+      "local_logo_path": "localbrand/logo/autosur-53baa7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/autosurfrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autosur-53baa7.jpg"
+      }
+    },
+    {
+      "displayName": "Autovision",
+      "id": "autovision-53baa7",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "Autovision",
+        "brand:wikidata": "Q64224842",
+        "name": "Autovision"
+      },
+      "original_logo_url": "https://graph.facebook.com/AutovisionOfficiel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autovision-53baa7.jpg",
+      "local_logo_path": "localbrand/logo/autovision-53baa7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AutovisionOfficiel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autovision-53baa7.jpg"
+      }
+    },
+    {
+      "displayName": "Besikta Bilprovning",
+      "id": "besiktabilprovning-ca3d1c",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "matchNames": [
+        "besikta"
+      ],
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "Besikta Bilprovning",
+        "brand:wikidata": "Q31887522",
+        "name": "Besikta Bilprovning"
+      },
+      "original_logo_url": "https://graph.facebook.com/besiktabilprovning/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/besiktabilprovning-ca3d1c.jpg",
+      "local_logo_path": "localbrand/logo/besiktabilprovning-ca3d1c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/besiktabilprovning/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/besiktabilprovning-ca3d1c.jpg"
+      }
+    },
+    {
+      "displayName": "Dekra",
+      "id": "dekra-5e3362",
+      "locationSet": {
+        "include": [
+          "de",
+          "dk",
+          "fr"
+        ]
+      },
+      "matchTags": [
+        "shop/car_repair"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "DEKRA",
+        "brand:wikidata": "Q383711",
+        "name": "DEKRA"
+      },
+      "original_logo_url": "https://graph.facebook.com/DEKRA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dekra-5e3362.jpg",
+      "local_logo_path": "localbrand/logo/dekra-5e3362.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DEKRA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dekra-5e3362.jpg"
+      }
+    },
+    {
+      "displayName": "FDM Bilsyn",
+      "id": "fdmbilsyn-d8b9f3",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "FDM Bilsyn",
+        "brand:wikidata": "Q5440784",
+        "name": "FDM Bilsyn"
+      },
+      "original_logo_url": "https://graph.facebook.com/FDM.dk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fdmbilsyn-d8b9f3.jpg",
+      "local_logo_path": "localbrand/logo/fdmbilsyn-d8b9f3.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FDM.dk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fdmbilsyn-d8b9f3.jpg"
+      }
+    },
+    {
+      "displayName": "GTÜ",
+      "id": "gtu-da4a1b",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "gesellschaft für technische überwachung"
+      ],
+      "matchTags": [
+        "shop/car_repair"
+      ],
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "GTÜ",
+        "brand:wikidata": "Q119993988",
+        "name": "GTÜ"
+      },
+      "original_logo_url": "https://graph.facebook.com/GTUEmbH/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gtu-da4a1b.jpg",
+      "local_logo_path": "localbrand/logo/gtu-da4a1b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GTUEmbH/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gtu-da4a1b.jpg"
+      }
+    },
+    {
+      "displayName": "Norisko",
+      "id": "norisko-4cf8cf",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "Norisko",
+        "brand:wikidata": "Q141159455",
+        "name": "Norisko"
+      }
+    },
+    {
+      "displayName": "Puspakom",
+      "id": "puspakom-0c47dd",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "Puspakom",
+        "brand:wikidata": "Q7261909",
+        "name": "Puspakom"
+      },
+      "original_logo_url": "https://graph.facebook.com/puspakomofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/puspakom-0c47dd.jpg",
+      "local_logo_path": "localbrand/logo/puspakom-0c47dd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/puspakomofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/puspakom-0c47dd.jpg"
+      }
+    },
+    {
+      "displayName": "Sécuritest",
+      "id": "securitest-53baa7",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "Sécuritest",
+        "brand:wikidata": "Q64224992",
+        "name": "Sécuritest"
+      },
+      "original_logo_url": "https://graph.facebook.com/securitestfrance/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/securitest-53baa7.jpg",
+      "local_logo_path": "localbrand/logo/securitest-53baa7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/securitestfrance/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/securitest-53baa7.jpg"
+      }
+    },
+    {
+      "displayName": "TÜV Hanse",
+      "id": "tuvhanse-da4a1b",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "TÜV Hanse",
+        "brand:wikidata": "Q2463537",
+        "name": "TÜV Hanse"
+      },
+      "original_logo_url": "https://graph.facebook.com/tuevhanse/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuvhanse-da4a1b.jpg",
+      "local_logo_path": "localbrand/logo/tuvhanse-da4a1b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tuevhanse/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuvhanse-da4a1b.jpg"
+      }
+    },
+    {
+      "displayName": "TÜV Hessen",
+      "id": "tuvhessen-da4a1b",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "TÜV Hessen",
+        "brand:wikidata": "Q2463542",
+        "name": "TÜV Hessen"
+      },
+      "original_logo_url": "https://graph.facebook.com/Tuev.Hessen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuvhessen-da4a1b.jpg",
+      "local_logo_path": "localbrand/logo/tuvhessen-da4a1b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Tuev.Hessen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuvhessen-da4a1b.jpg"
+      }
+    },
+    {
+      "displayName": "TÜV Nord",
+      "id": "tuvnord-da4a1b",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "TÜV Nord",
+        "brand:wikidata": "Q2463547",
+        "name": "TÜV Nord"
+      },
+      "original_logo_url": "https://graph.facebook.com/tuevnordde/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuvnord-da4a1b.jpg",
+      "local_logo_path": "localbrand/logo/tuvnord-da4a1b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tuevnordde/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuvnord-da4a1b.jpg"
+      }
+    },
+    {
+      "displayName": "TÜV Rheinland",
+      "id": "tuvrheinland-da4a1b",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "TÜV Rheinland",
+        "brand:wikidata": "Q632391",
+        "name": "TÜV Rheinland"
+      },
+      "original_logo_url": "https://graph.facebook.com/tuevkarriere/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuvrheinland-da4a1b.png",
+      "local_logo_path": "localbrand/logo/tuvrheinland-da4a1b.png",
+      "logos": {
+        "original": "https://graph.facebook.com/tuevkarriere/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuvrheinland-da4a1b.png"
+      }
+    },
+    {
+      "displayName": "TÜV Saarland",
+      "id": "tuvsaarland-da4a1b",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "TÜV Saarland",
+        "brand:wikidata": "Q996314",
+        "name": "TÜV Saarland"
+      },
+      "original_logo_url": "https://graph.facebook.com/TUEVSeminare/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuvsaarland-da4a1b.jpg",
+      "local_logo_path": "localbrand/logo/tuvsaarland-da4a1b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TUEVSeminare/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuvsaarland-da4a1b.jpg"
+      }
+    },
+    {
+      "displayName": "TÜV Süd",
+      "id": "tuvsud-da4a1b",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "TÜV Süd",
+        "brand:wikidata": "Q880718",
+        "name": "TÜV Süd"
+      },
+      "original_logo_url": "https://graph.facebook.com/123967834361715/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuvsud-da4a1b.jpg",
+      "local_logo_path": "localbrand/logo/tuvsud-da4a1b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/123967834361715/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuvsud-da4a1b.jpg"
+      }
+    },
+    {
+      "displayName": "TÜV Thüringen",
+      "id": "tuvthuringen-da4a1b",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "TÜV Thüringen",
+        "brand:wikidata": "Q2463551",
+        "name": "TÜV Thüringen"
+      },
+      "original_logo_url": "https://graph.facebook.com/tuevthueringen/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuvthuringen-da4a1b.jpg",
+      "local_logo_path": "localbrand/logo/tuvthuringen-da4a1b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tuevthueringen/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuvthuringen-da4a1b.jpg"
+      }
+    },
+    {
+      "displayName": "TÜVTÜRK",
+      "id": "tuvturk-9c5bc9",
+      "locationSet": {
+        "include": [
+          "tr"
+        ]
+      },
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "TÜVTÜRK",
+        "brand:wikidata": "Q2463555",
+        "name": "TÜVTÜRK"
+      },
+      "original_logo_url": "https://graph.facebook.com/tuvturk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuvturk-9c5bc9.png",
+      "local_logo_path": "localbrand/logo/tuvturk-9c5bc9.png",
+      "logos": {
+        "original": "https://graph.facebook.com/tuvturk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuvturk-9c5bc9.png"
+      }
+    },
+    {
+      "displayName": "VTNZ",
+      "id": "vtnz-31002f",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "VTNZ",
+        "brand:wikidata": "Q7907620",
+        "name": "VTNZ"
+      },
+      "original_logo_url": "https://graph.facebook.com/vtnz.fb/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vtnz-31002f.png",
+      "local_logo_path": "localbrand/logo/vtnz-31002f.png",
+      "logos": {
+        "original": "https://graph.facebook.com/vtnz.fb/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vtnz-31002f.png"
+      }
+    },
+    {
+      "displayName": "გრინვეი",
+      "id": "greenway-bc0e89",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "გრინვეი",
+        "brand:en": "Greenway",
+        "brand:ka": "გრინვეი",
+        "brand:ru": "Гринвей",
+        "brand:wikidata": "Q59843664",
+        "name": "გრინვეი",
+        "name:en": "Greenway",
+        "name:ka": "გრინვეი",
+        "name:ru": "Гринвей"
+      },
+      "original_logo_url": "https://graph.facebook.com/umartivesad.ge/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greenway-bc0e89.png",
+      "local_logo_path": "localbrand/logo/greenway-bc0e89.png",
+      "logos": {
+        "original": "https://graph.facebook.com/umartivesad.ge/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greenway-bc0e89.png"
+      }
+    },
+    {
+      "displayName": "ホリデー車検",
+      "id": "holiday-f4e150",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "ホリデー"
+      ],
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "ホリデー車検",
+        "brand:en": "Holiday",
+        "brand:ja": "ホリデー車検",
+        "brand:wikidata": "Q11338030",
+        "name": "ホリデー車検",
+        "name:en": "Holiday",
+        "name:ja": "ホリデー車検"
+      },
+      "original_logo_url": "https://graph.facebook.com/holidayfc/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/holiday-f4e150.jpg",
+      "local_logo_path": "localbrand/logo/holiday-f4e150.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/holidayfc/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/holiday-f4e150.jpg"
+      }
+    }
+  ]
+}

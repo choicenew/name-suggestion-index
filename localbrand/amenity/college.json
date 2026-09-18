@@ -1,0 +1,82 @@
+{
+  "properties": {
+    "path": "brands/amenity/college",
+    "skipCollection": true,
+    "preserveTags": [
+      "^name"
+    ],
+    "exclude": {
+      "generic": [
+        "^college$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "ComCave",
+      "id": "comcave-7c5a79",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "comcave.college"
+      ],
+      "tags": {
+        "amenity": "college",
+        "brand": "ComCave",
+        "brand:wikidata": "Q121503226",
+        "name": "ComCave"
+      },
+      "original_logo_url": "https://graph.facebook.com/COMCAVE.COLLEGE/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/comcave-7c5a79.jpg",
+      "local_logo_path": "localbrand/logo/comcave-7c5a79.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/COMCAVE.COLLEGE/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/comcave-7c5a79.jpg"
+      }
+    },
+    {
+      "displayName": "SAE Institute",
+      "id": "saeinstitute-7a11fb",
+      "locationSet": {
+        "include": [
+          "ae",
+          "at",
+          "au",
+          "be",
+          "ca",
+          "ch",
+          "de",
+          "es",
+          "fr",
+          "gb",
+          "gr",
+          "id",
+          "it",
+          "jo",
+          "mx",
+          "nl",
+          "nz",
+          "rs",
+          "us",
+          "za"
+        ]
+      },
+      "tags": {
+        "amenity": "college",
+        "brand": "SAE Institute",
+        "brand:wikidata": "Q201438",
+        "name": "SAE Institute"
+      },
+      "original_logo_url": "https://graph.facebook.com/SAEInstituteUSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saeinstitute-7a11fb.png",
+      "local_logo_path": "localbrand/logo/saeinstitute-7a11fb.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SAEInstituteUSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saeinstitute-7a11fb.png"
+      }
+    }
+  ]
+}

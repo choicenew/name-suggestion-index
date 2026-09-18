@@ -1,0 +1,1176 @@
+{
+  "properties": {
+    "path": "brands/shop/storage_rental",
+    "exclude": {
+      "generic": [
+        "^(self )?storage( rental)?$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "A-1 Self Storage",
+      "id": "a1selfstorage-a05958",
+      "locationSet": {
+        "include": [
+          "us-ca.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "A-1 Self Storage",
+        "brand:wikidata": "Q105078150",
+        "name": "A-1 Self Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/A1SelfStorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/a1selfstorage-a05958.png",
+      "local_logo_path": "localbrand/logo/a1selfstorage-a05958.png",
+      "logos": {
+        "original": "https://graph.facebook.com/A1SelfStorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/a1selfstorage-a05958.png"
+      }
+    },
+    {
+      "displayName": "Access Self Storage",
+      "id": "accessselfstorage-93b48c",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "access",
+        "access storage solutions"
+      ],
+      "tags": {
+        "brand": "Access Self Storage",
+        "brand:wikidata": "Q122022507",
+        "name": "Access Self Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/AccessStorage.co.uk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/accessselfstorage-93b48c.jpg",
+      "local_logo_path": "localbrand/logo/accessselfstorage-93b48c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AccessStorage.co.uk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/accessselfstorage-93b48c.jpg"
+      }
+    },
+    {
+      "displayName": "Access Storage",
+      "id": "accessstorage-9d4abf",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Access Storage",
+        "brand:wikidata": "Q123409757",
+        "name": "Access Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/AccessStorageCA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/accessstorage-9d4abf.jpg",
+      "local_logo_path": "localbrand/logo/accessstorage-9d4abf.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AccessStorageCA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/accessstorage-9d4abf.jpg"
+      }
+    },
+    {
+      "displayName": "ALLSAFE Mini Opslag",
+      "id": "allsafeminiopslag-43269c",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "ALLSAFE",
+        "brand:wikidata": "Q106581638",
+        "name": "ALLSAFE Mini Opslag",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/ALLSAFEMiniOpslag/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allsafeminiopslag-43269c.jpg",
+      "local_logo_path": "localbrand/logo/allsafeminiopslag-43269c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ALLSAFEMiniOpslag/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allsafeminiopslag-43269c.jpg"
+      }
+    },
+    {
+      "displayName": "Big Yellow Self Storage",
+      "id": "bigyellowselfstorage-93b48c",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "the big yellow self storage company"
+      ],
+      "tags": {
+        "brand": "Big Yellow Self Storage",
+        "brand:wikidata": "Q4906703",
+        "name": "Big Yellow Self Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/bigyellow/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigyellowselfstorage-93b48c.jpg",
+      "local_logo_path": "localbrand/logo/bigyellowselfstorage-93b48c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bigyellow/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigyellowselfstorage-93b48c.jpg"
+      }
+    },
+    {
+      "displayName": "Compass Self Storage",
+      "id": "compassselfstorage-7879a0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Compass Self Storage",
+        "brand:wikidata": "Q120719704",
+        "name": "Compass Self Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/CompassSelfStorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/compassselfstorage-7879a0.jpg",
+      "local_logo_path": "localbrand/logo/compassselfstorage-7879a0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CompassSelfStorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/compassselfstorage-7879a0.jpg"
+      }
+    },
+    {
+      "displayName": "CubeSmart",
+      "id": "cubesmart-7879a0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "cubesmart self storage"
+      ],
+      "tags": {
+        "brand": "CubeSmart",
+        "brand:wikidata": "Q5192200",
+        "name": "CubeSmart",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/CubeSmart/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cubesmart-7879a0.jpg",
+      "local_logo_path": "localbrand/logo/cubesmart-7879a0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CubeSmart/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cubesmart-7879a0.jpg"
+      }
+    },
+    {
+      "displayName": "Extra Space Storage",
+      "id": "extraspacestorage-7879a0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "extra space",
+        "life storage"
+      ],
+      "tags": {
+        "brand": "Extra Space Storage",
+        "brand:wikidata": "Q5422162",
+        "name": "Extra Space Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/extraspace/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/extraspacestorage-7879a0.jpg",
+      "local_logo_path": "localbrand/logo/extraspacestorage-7879a0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/extraspace/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/extraspacestorage-7879a0.jpg"
+      }
+    },
+    {
+      "displayName": "iStorage",
+      "id": "istorage-7879a0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "iStorage",
+        "brand:wikidata": "Q122721929",
+        "name": "iStorage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/iStorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/istorage-7879a0.png",
+      "local_logo_path": "localbrand/logo/istorage-7879a0.png",
+      "logos": {
+        "original": "https://graph.facebook.com/iStorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/istorage-7879a0.png"
+      }
+    },
+    {
+      "displayName": "Kennards Storage",
+      "id": "kennardsstorage-e49450",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Kennards Storage",
+        "brand:wikidata": "Q115565997",
+        "name": "Kennards Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/KennardsSelfStorageNZ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kennardsstorage-e49450.jpg",
+      "local_logo_path": "localbrand/logo/kennardsstorage-e49450.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KennardsSelfStorageNZ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kennardsstorage-e49450.jpg"
+      }
+    },
+    {
+      "displayName": "Lagerbox",
+      "id": "lagerbox-1ebebd",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Lagerbox",
+        "brand:wikidata": "Q130268714",
+        "name": "Lagerbox",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/LAGERBOX/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lagerbox-1ebebd.jpg",
+      "local_logo_path": "localbrand/logo/lagerbox-1ebebd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LAGERBOX/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lagerbox-1ebebd.jpg"
+      }
+    },
+    {
+      "displayName": "Lok'nStore",
+      "id": "loknstore-93b48c",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Lok'nStore",
+        "brand:wikidata": "Q6668484",
+        "name": "Lok'nStore",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Loknstore-Self_Storage-logo-RGB-digital-hi-res.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/loknstore-93b48c.png",
+      "local_logo_path": "localbrand/logo/loknstore-93b48c.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Loknstore-Self_Storage-logo-RGB-digital-hi-res.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/loknstore-93b48c.png"
+      }
+    },
+    {
+      "displayName": "Metro Self Storage",
+      "id": "metroselfstorage-5b962b",
+      "locationSet": {
+        "include": [
+          "us-al.geojson",
+          "us-ct.geojson",
+          "us-fl.geojson",
+          "us-ga.geojson",
+          "us-il.geojson",
+          "us-mn.geojson",
+          "us-nj.geojson",
+          "us-ny.geojson",
+          "us-pa.geojson",
+          "us-tn.geojson",
+          "us-tx.geojson",
+          "us-wi.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Metro Self Storage",
+        "brand:wikidata": "Q114515454",
+        "name": "Metro Self Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Mini Mall Storage",
+      "id": "minimallstorage-51c575",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Mini Mall Storage",
+        "brand:wikidata": "Q121599029",
+        "name": "Mini Mall Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/minimallstorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/minimallstorage-51c575.jpg",
+      "local_logo_path": "localbrand/logo/minimallstorage-51c575.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/minimallstorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/minimallstorage-51c575.jpg"
+      }
+    },
+    {
+      "displayName": "Mini Storage Depot",
+      "id": "ministoragedepot-7879a0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Mini Storage Depot",
+        "brand:wikidata": "Q112833014",
+        "name": "Mini Storage Depot",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/MiniStorageDepot/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ministoragedepot-7879a0.jpg",
+      "local_logo_path": "localbrand/logo/ministoragedepot-7879a0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MiniStorageDepot/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ministoragedepot-7879a0.jpg"
+      }
+    },
+    {
+      "displayName": "MyPlace-SelfStorage",
+      "id": "myplaceselfstorage-7d575b",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de"
+        ]
+      },
+      "matchNames": [
+        "my place"
+      ],
+      "tags": {
+        "brand": "MyPlace-SelfStorage",
+        "brand:wikidata": "Q109659129",
+        "name": "MyPlace-SelfStorage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/MyPlace.SelfStorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/myplaceselfstorage-7d575b.jpg",
+      "local_logo_path": "localbrand/logo/myplaceselfstorage-7d575b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MyPlace.SelfStorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/myplaceselfstorage-7d575b.jpg"
+      }
+    },
+    {
+      "displayName": "National Mini Storage",
+      "id": "nationalministorage-8edc81",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "National Mini Storage",
+        "brand:wikidata": "Q114353224",
+        "name": "National Mini Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/NationalMiniStorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationalministorage-8edc81.jpg",
+      "local_logo_path": "localbrand/logo/nationalministorage-8edc81.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NationalMiniStorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationalministorage-8edc81.jpg"
+      }
+    },
+    {
+      "displayName": "National Storage",
+      "id": "nationalstorage-e49450",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "National Storage",
+        "brand:wikidata": "Q21178908",
+        "name": "National Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/NationalStorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationalstorage-e49450.jpg",
+      "local_logo_path": "localbrand/logo/nationalstorage-e49450.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NationalStorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationalstorage-e49450.jpg"
+      }
+    },
+    {
+      "displayName": "Northwest Self Storage",
+      "id": "northwestselfstorage-6af07e",
+      "locationSet": {
+        "include": [
+          "us-id.geojson",
+          "us-or.geojson",
+          "us-wa.geojson"
+        ]
+      },
+      "matchNames": [
+        "nw self storage"
+      ],
+      "tags": {
+        "brand": "Northwest Self Storage",
+        "brand:wikidata": "Q108576211",
+        "name": "Northwest Self Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/NWSelfStorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/northwestselfstorage-6af07e.png",
+      "local_logo_path": "localbrand/logo/northwestselfstorage-6af07e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/NWSelfStorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/northwestselfstorage-6af07e.png"
+      }
+    },
+    {
+      "displayName": "Pods",
+      "id": "pods-3ec4f5",
+      "locationSet": {
+        "include": [
+          "ca",
+          "gb",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "pods moving & storage"
+      ],
+      "tags": {
+        "brand": "Pods",
+        "brand:wikidata": "Q7119908",
+        "name": "Pods",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/PODS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pods-3ec4f5.jpg",
+      "local_logo_path": "localbrand/logo/pods-3ec4f5.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PODS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pods-3ec4f5.jpg"
+      }
+    },
+    {
+      "displayName": "Prime Storage",
+      "id": "primestorage-51c575",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Prime Storage",
+        "brand:wikidata": "Q121029091",
+        "name": "Prime Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/PrimeStorageGroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/primestorage-51c575.jpg",
+      "local_logo_path": "localbrand/logo/primestorage-51c575.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PrimeStorageGroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/primestorage-51c575.jpg"
+      }
+    },
+    {
+      "displayName": "Public Storage",
+      "id": "publicstorage-51c575",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "simply self storage"
+      ],
+      "tags": {
+        "brand": "Public Storage",
+        "brand:wikidata": "Q1156045",
+        "name": "Public Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/PublicStorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/publicstorage-51c575.jpg",
+      "local_logo_path": "localbrand/logo/publicstorage-51c575.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PublicStorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/publicstorage-51c575.jpg"
+      }
+    },
+    {
+      "displayName": "RightSpace Storage",
+      "id": "rightspacestorage-7879a0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "RightSpace Storage",
+        "brand:wikidata": "Q126952279",
+        "name": "RightSpace Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/rightspacestorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rightspacestorage-7879a0.jpg",
+      "local_logo_path": "localbrand/logo/rightspacestorage-7879a0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/rightspacestorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rightspacestorage-7879a0.jpg"
+      }
+    },
+    {
+      "displayName": "Safestore",
+      "id": "safestore-93b48c",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "safestore self storage"
+      ],
+      "tags": {
+        "brand": "Safestore",
+        "brand:wikidata": "Q20713915",
+        "name": "Safestore",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/safestore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/safestore-93b48c.jpg",
+      "local_logo_path": "localbrand/logo/safestore-93b48c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/safestore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/safestore-93b48c.jpg"
+      }
+    },
+    {
+      "displayName": "SecurCare Self Storage",
+      "id": "securcareselfstorage-7879a0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "SecurCare Self Storage",
+        "brand:wikidata": "Q124821649",
+        "name": "SecurCare Self Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/SecurCare/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/securcareselfstorage-7879a0.jpg",
+      "local_logo_path": "localbrand/logo/securcareselfstorage-7879a0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SecurCare/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/securcareselfstorage-7879a0.jpg"
+      }
+    },
+    {
+      "displayName": "SecureSpace Self Storage",
+      "id": "securespaceselfstorage-7879a0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "SecureSpace Self Storage",
+        "brand:wikidata": "Q122485558",
+        "name": "SecureSpace Self Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/SecureSpaceSS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/securespaceselfstorage-7879a0.png",
+      "local_logo_path": "localbrand/logo/securespaceselfstorage-7879a0.png",
+      "logos": {
+        "original": "https://graph.facebook.com/SecureSpaceSS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/securespaceselfstorage-7879a0.png"
+      }
+    },
+    {
+      "displayName": "Security Public Storage",
+      "id": "securitypublicstorage-6a57cb",
+      "locationSet": {
+        "include": [
+          "us-ca.geojson",
+          "us-md.geojson",
+          "us-nv.geojson",
+          "us-or.geojson",
+          "us-va.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Security Public Storage",
+        "brand:wikidata": "Q130379217",
+        "name": "Security Public Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/spstorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/securitypublicstorage-6a57cb.jpg",
+      "local_logo_path": "localbrand/logo/securitypublicstorage-6a57cb.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/spstorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/securitypublicstorage-6a57cb.jpg"
+      }
+    },
+    {
+      "displayName": "Shurgard Self-Storage",
+      "id": "shurgardselfstorage-8ba52e",
+      "locationSet": {
+        "include": [
+          "be",
+          "de",
+          "dk",
+          "fr",
+          "gb",
+          "nl",
+          "se"
+        ]
+      },
+      "matchNames": [
+        "shurgard storage centers"
+      ],
+      "tags": {
+        "brand": "Shurgard",
+        "brand:wikidata": "Q3482670",
+        "name": "Shurgard Self-Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/ShurgardSelfStorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shurgardselfstorage-8ba52e.jpg",
+      "local_logo_path": "localbrand/logo/shurgardselfstorage-8ba52e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ShurgardSelfStorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shurgardselfstorage-8ba52e.jpg"
+      }
+    },
+    {
+      "displayName": "Southern Self Storage",
+      "id": "southernselfstorage-7879a0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Southern Self Storage",
+        "brand:wikidata": "Q127598521",
+        "name": "Southern Self Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/SouthernSelfStorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/southernselfstorage-7879a0.jpg",
+      "local_logo_path": "localbrand/logo/southernselfstorage-7879a0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SouthernSelfStorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/southernselfstorage-7879a0.jpg"
+      }
+    },
+    {
+      "displayName": "Space Shop Self Storage",
+      "id": "spaceshopselfstorage-7879a0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "the space shop"
+      ],
+      "tags": {
+        "brand": "Space Shop Self Storage",
+        "brand:wikidata": "Q127508446",
+        "name": "Space Shop Self Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/spaceshopselfstorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spaceshopselfstorage-7879a0.jpg",
+      "local_logo_path": "localbrand/logo/spaceshopselfstorage-7879a0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/spaceshopselfstorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spaceshopselfstorage-7879a0.jpg"
+      }
+    },
+    {
+      "displayName": "Storage King",
+      "id": "storageking-e49450",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Storage King",
+        "brand:wikidata": "Q114353097",
+        "name": "Storage King",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/StorageKing/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storageking-e49450.jpg",
+      "local_logo_path": "localbrand/logo/storageking-e49450.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/StorageKing/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storageking-e49450.jpg"
+      }
+    },
+    {
+      "displayName": "Storage Rentals of America",
+      "id": "storagerentalsofamerica-7879a0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "sroa"
+      ],
+      "tags": {
+        "brand": "Storage Rentals of America",
+        "brand:wikidata": "Q120733770",
+        "name": "Storage Rentals of America",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/storagerentalsofamerica/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storagerentalsofamerica-7879a0.png",
+      "local_logo_path": "localbrand/logo/storagerentalsofamerica-7879a0.png",
+      "logos": {
+        "original": "https://graph.facebook.com/storagerentalsofamerica/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storagerentalsofamerica-7879a0.png"
+      }
+    },
+    {
+      "displayName": "StorageMart",
+      "id": "storagemart-3ec4f5",
+      "locationSet": {
+        "include": [
+          "ca",
+          "gb",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "StorageMart",
+        "brand:wikidata": "Q16226585",
+        "name": "StorageMart",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/StorageMart/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storagemart-3ec4f5.png",
+      "local_logo_path": "localbrand/logo/storagemart-3ec4f5.png",
+      "logos": {
+        "original": "https://graph.facebook.com/StorageMart/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storagemart-3ec4f5.png"
+      }
+    },
+    {
+      "displayName": "StorAmerica",
+      "id": "storamerica-7879a0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "storamerica self storage"
+      ],
+      "tags": {
+        "brand": "StorAmerica",
+        "brand:wikidata": "Q127273199",
+        "name": "StorAmerica",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/CAstorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storamerica-7879a0.jpg",
+      "local_logo_path": "localbrand/logo/storamerica-7879a0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CAstorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storamerica-7879a0.jpg"
+      }
+    },
+    {
+      "displayName": "Store Space Self Storage",
+      "id": "storespace-7879a0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "store space self storage"
+      ],
+      "tags": {
+        "brand": "Store Space",
+        "brand:wikidata": "Q121464701",
+        "name": "Store Space",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/StoreSpaceSelfStorageOfficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storespace-7879a0.png",
+      "local_logo_path": "localbrand/logo/storespace-7879a0.png",
+      "logos": {
+        "original": "https://graph.facebook.com/StoreSpaceSelfStorageOfficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storespace-7879a0.png"
+      }
+    },
+    {
+      "displayName": "Storebox",
+      "id": "storebox-3e45ed",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "ch",
+          "de",
+          "lu",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Storebox",
+        "brand:wikidata": "Q117430004",
+        "name": "Storebox",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/storebox-europe/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storebox-3e45ed.jpg",
+      "local_logo_path": "localbrand/logo/storebox-3e45ed.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/storebox-europe/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storebox-3e45ed.jpg"
+      }
+    },
+    {
+      "displayName": "StorQuest Self Storage",
+      "id": "storquest-7879a0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "StorQuest Self Storage",
+        "brand:wikidata": "Q109337134",
+        "name": "StorQuest",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/StorQuestStorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storquest-7879a0.jpg",
+      "local_logo_path": "localbrand/logo/storquest-7879a0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/StorQuestStorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storquest-7879a0.jpg"
+      }
+    },
+    {
+      "displayName": "The Lock Up",
+      "id": "thelockup-913626",
+      "locationSet": {
+        "include": [
+          "us-ct.geojson",
+          "us-fl.geojson",
+          "us-hi",
+          "us-il.geojson",
+          "us-ma.geojson",
+          "us-mn.geojson",
+          "us-nj.geojson",
+          "us-ny.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "The Lock Up",
+        "brand:wikidata": "Q17089825",
+        "name": "The Lock Up",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/SelfStorageCenter/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thelockup-913626.jpg",
+      "local_logo_path": "localbrand/logo/thelockup-913626.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SelfStorageCenter/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thelockup-913626.jpg"
+      }
+    },
+    {
+      "displayName": "Trojan Storage",
+      "id": "trojanstorage-7879a0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "trojan"
+      ],
+      "tags": {
+        "brand": "Trojan Storage",
+        "brand:wikidata": "Q108917137",
+        "name": "Trojan Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/trojanstorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/trojanstorage-7879a0.png",
+      "local_logo_path": "localbrand/logo/trojanstorage-7879a0.png",
+      "logos": {
+        "original": "https://graph.facebook.com/trojanstorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/trojanstorage-7879a0.png"
+      }
+    },
+    {
+      "displayName": "U-Haul",
+      "id": "uhaul-51c575",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "u-haul moving & storage",
+        "uhaul neighborhood dealer"
+      ],
+      "tags": {
+        "brand": "U-Haul",
+        "brand:wikidata": "Q7862902",
+        "name": "U-Haul",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/uhaul/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uhaul-51c575.jpg",
+      "local_logo_path": "localbrand/logo/uhaul-51c575.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/uhaul/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uhaul-51c575.jpg"
+      }
+    },
+    {
+      "displayName": "U-SPACE",
+      "id": "uspace-40a7f7",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "U-SPACE",
+        "brand:en": "U-SPACE",
+        "brand:ja": "ユースペース",
+        "brand:wikidata": "Q93909725",
+        "name": "U-SPACE",
+        "name:en": "U-SPACE",
+        "name:ja": "ユースペース",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/us.trunkroom/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uspace-40a7f7.jpg",
+      "local_logo_path": "localbrand/logo/uspace-40a7f7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/us.trunkroom/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uspace-40a7f7.jpg"
+      }
+    },
+    {
+      "displayName": "U-Stor-It",
+      "id": "ustorit-a1f08e",
+      "locationSet": {
+        "include": [
+          "us-ca.geojson",
+          "us-il.geojson",
+          "us-in.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "U-Stor-It",
+        "brand:wikidata": "Q116225856",
+        "name": "U-Stor-It",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/UStorItSelfStorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ustorit-a1f08e.png",
+      "local_logo_path": "localbrand/logo/ustorit-a1f08e.png",
+      "logos": {
+        "original": "https://graph.facebook.com/UStorItSelfStorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ustorit-a1f08e.png"
+      }
+    },
+    {
+      "displayName": "UK Storage Company",
+      "id": "ukstoragecompany-93b48c",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "UK Storage Company",
+        "brand:wikidata": "Q87411468",
+        "name": "UK Storage Company",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/UKStorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ukstoragecompany-93b48c.jpg",
+      "local_logo_path": "localbrand/logo/ukstoragecompany-93b48c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/UKStorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ukstoragecompany-93b48c.jpg"
+      }
+    },
+    {
+      "displayName": "Une pièce en plus",
+      "id": "unepieceenplus-1d8b68",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Une pièce en plus",
+        "brand:wikidata": "Q130578849",
+        "name": "Une pièce en plus",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/UnePieceEnPlus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unepieceenplus-1d8b68.jpg",
+      "local_logo_path": "localbrand/logo/unepieceenplus-1d8b68.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/UnePieceEnPlus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unepieceenplus-1d8b68.jpg"
+      }
+    },
+    {
+      "displayName": "US Storage Centers",
+      "id": "usstoragecenters-7879a0",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "US Storage Centers",
+        "brand:wikidata": "Q126362860",
+        "name": "US Storage Centers",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/usstoragecenters/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/usstoragecenters-7879a0.jpg",
+      "local_logo_path": "localbrand/logo/usstoragecenters-7879a0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/usstoragecenters/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/usstoragecenters-7879a0.jpg"
+      }
+    },
+    {
+      "displayName": "West Coast Self-Storage",
+      "id": "westcoastselfstorage-8e2904",
+      "locationSet": {
+        "include": [
+          "us-ca.geojson",
+          "us-nv.geojson",
+          "us-or.geojson",
+          "us-wa.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "West Coast Self-Storage",
+        "brand:wikidata": "Q110084888",
+        "name": "West Coast Self-Storage",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/WestCoastSelfStorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/westcoastselfstorage-8e2904.jpg",
+      "local_logo_path": "localbrand/logo/westcoastselfstorage-8e2904.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WestCoastSelfStorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/westcoastselfstorage-8e2904.jpg"
+      }
+    },
+    {
+      "displayName": "ハローストレージ",
+      "id": "hellostorage-40a7f7",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "tags": {
+        "brand": "ハローストレージ",
+        "brand:en": "Hello Storage",
+        "brand:ja": "ハローストレージ",
+        "brand:wikidata": "Q93908236",
+        "name": "ハローストレージ",
+        "name:en": "Hello Storage",
+        "name:ja": "ハローストレージ",
+        "shop": "storage_rental"
+      },
+      "original_logo_url": "https://graph.facebook.com/hellostorage/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hellostorage-40a7f7.jpg",
+      "local_logo_path": "localbrand/logo/hellostorage-40a7f7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/hellostorage/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hellostorage-40a7f7.jpg"
+      }
+    },
+    {
+      "displayName": "ライゼボックス",
+      "id": "reisebox-40a7f7",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "ライゼ"
+      ],
+      "tags": {
+        "brand": "ライゼボックス",
+        "brand:en": "Reise Box",
+        "brand:ja": "ライゼボックス",
+        "brand:wikidata": "Q11346377",
+        "name": "ライゼボックス",
+        "name:en": "Reise Box",
+        "name:ja": "ライゼボックス",
+        "shop": "storage_rental"
+      }
+    }
+  ]
+}

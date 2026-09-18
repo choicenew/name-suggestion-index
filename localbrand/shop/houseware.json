@@ -1,0 +1,2089 @@
+{
+  "properties": {
+    "path": "brands/shop/houseware",
+    "exclude": {
+      "generic": [
+        "^houseware$",
+        "^хозтовары$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "@home",
+      "id": "home-dd60e2",
+      "locationSet": {
+        "include": [
+          "bw",
+          "gh",
+          "mz",
+          "na",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "@home",
+        "brand:wikidata": "Q116429887",
+        "name": "@home",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/homewarestore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/home-dd60e2.jpg",
+      "local_logo_path": "localbrand/logo/home-dd60e2.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/homewarestore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/home-dd60e2.jpg"
+      }
+    },
+    {
+      "displayName": "@Home Livingspace",
+      "id": "homelivingspace-dd60e2",
+      "locationSet": {
+        "include": [
+          "bw",
+          "gh",
+          "mz",
+          "na",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "@Home Livingspace",
+        "brand:wikidata": "Q117406343",
+        "name": "@Home Livingspace",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Adairs",
+      "id": "adairs-bc6f54",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Adairs",
+        "brand:wikidata": "Q109626904",
+        "name": "Adairs",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/AdairsRetailGroup/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adairs-bc6f54.jpg",
+      "local_logo_path": "localbrand/logo/adairs-bc6f54.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AdairsRetailGroup/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adairs-bc6f54.jpg"
+      }
+    },
+    {
+      "displayName": "Alice Délice",
+      "id": "alicedelice-791615",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Alice Délice",
+        "brand:wikidata": "Q105099543",
+        "name": "Alice Délice",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/AliceDelice/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alicedelice-791615.png",
+      "local_logo_path": "localbrand/logo/alicedelice-791615.png",
+      "logos": {
+        "original": "https://graph.facebook.com/AliceDelice/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alicedelice-791615.png"
+      }
+    },
+    {
+      "displayName": "Allesz",
+      "id": "allesz-c9ad4a",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "matchTags": [
+        "shop/furniture"
+      ],
+      "tags": {
+        "brand": "Allesz",
+        "brand:wikidata": "Q136703522",
+        "name": "Allesz",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "At Home",
+      "id": "athome-d77d08",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "garden ridge"
+      ],
+      "tags": {
+        "brand": "At Home",
+        "brand:wikidata": "Q5522290",
+        "name": "At Home",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/AtHomeStores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/athome-d77d08.jpg",
+      "local_logo_path": "localbrand/logo/athome-d77d08.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AtHomeStores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/athome-d77d08.jpg"
+      }
+    },
+    {
+      "displayName": "Banquet",
+      "id": "banquet-4991ba",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Banquet",
+        "brand:wikidata": "Q130673596",
+        "name": "Banquet",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/179614908579281/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/banquet-4991ba.jpg",
+      "local_logo_path": "localbrand/logo/banquet-4991ba.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/179614908579281/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/banquet-4991ba.jpg"
+      }
+    },
+    {
+      "displayName": "Bed Bath & Beyond (New Zealand)",
+      "id": "bedbathandbeyond-1d32aa",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "tags": {
+        "brand": "Bed Bath & Beyond",
+        "brand:wikidata": "Q110295215",
+        "name": "Bed Bath & Beyond",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/BedBathandBeyondNZ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bedbathandbeyond-1d32aa.jpg",
+      "local_logo_path": "localbrand/logo/bedbathandbeyond-1d32aa.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BedBathandBeyondNZ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bedbathandbeyond-1d32aa.jpg"
+      }
+    },
+    {
+      "displayName": "Bed Bath & Beyond (North America)",
+      "id": "bedbathandbeyond-3ed5a7",
+      "issues": [
+        11085
+      ],
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "note": "stores in Canada and USA closed in 2023",
+      "tags": {
+        "brand": "Bed Bath & Beyond",
+        "brand:wikidata": "Q813782",
+        "name": "Bed Bath & Beyond",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/BedBathAndBeyond/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bedbathandbeyond-3ed5a7.jpg",
+      "local_logo_path": "localbrand/logo/bedbathandbeyond-3ed5a7.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BedBathAndBeyond/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bedbathandbeyond-3ed5a7.jpg"
+      }
+    },
+    {
+      "displayName": "Bed Bath N' Table",
+      "id": "bedbathntable-299251",
+      "locationSet": {
+        "include": [
+          "au",
+          "nz",
+          "sg"
+        ]
+      },
+      "tags": {
+        "brand": "Bed Bath N' Table",
+        "brand:wikidata": "Q118551276",
+        "name": "Bed Bath N' Table",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/bedbathntablehome/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bedbathntable-299251.jpg",
+      "local_logo_path": "localbrand/logo/bedbathntable-299251.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/bedbathntablehome/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bedbathntable-299251.jpg"
+      }
+    },
+    {
+      "displayName": "Blokker",
+      "id": "blokker-c9ad4a",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "matchTags": [
+        "shop/furniture"
+      ],
+      "tags": {
+        "brand": "Blokker",
+        "brand:wikidata": "Q33903645",
+        "name": "Blokker",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/BlokkerNL/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blokker-c9ad4a.jpg",
+      "local_logo_path": "localbrand/logo/blokker-c9ad4a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BlokkerNL/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blokker-c9ad4a.jpg"
+      }
+    },
+    {
+      "displayName": "Briscoes",
+      "id": "briscoes-1d32aa",
+      "locationSet": {
+        "include": [
+          "nz"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store"
+      ],
+      "tags": {
+        "brand": "Briscoes",
+        "brand:wikidata": "Q110190653",
+        "name": "Briscoes",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/briscoesNZ/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/briscoes-1d32aa.png",
+      "local_logo_path": "localbrand/logo/briscoes-1d32aa.png",
+      "logos": {
+        "original": "https://graph.facebook.com/briscoesNZ/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/briscoes-1d32aa.png"
+      }
+    },
+    {
+      "displayName": "BSS Group",
+      "id": "bssgroup-81bc6e",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "BSS Group",
+        "brand:wikidata": "Q4836629",
+        "name": "BSS Group",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/BSS_Industrial_Logo.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bssgroup-81bc6e.png",
+      "local_logo_path": "localbrand/logo/bssgroup-81bc6e.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/5/56/BSS_Industrial_Logo.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bssgroup-81bc6e.png"
+      }
+    },
+    {
+      "displayName": "Camicado",
+      "id": "camicado-35237a",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Camicado",
+        "brand:wikidata": "Q108910180",
+        "name": "Camicado",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/camicado/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/camicado-35237a.jpg",
+      "local_logo_path": "localbrand/logo/camicado-35237a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/camicado/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/camicado-35237a.jpg"
+      }
+    },
+    {
+      "displayName": "Cervera",
+      "id": "cervera-9b0747",
+      "locationSet": {
+        "include": [
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Cervera",
+        "brand:wikidata": "Q10447179",
+        "name": "Cervera",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/CerveraAB/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cervera-9b0747.jpg",
+      "local_logo_path": "localbrand/logo/cervera-9b0747.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CerveraAB/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cervera-9b0747.jpg"
+      }
+    },
+    {
+      "displayName": "Crazy Plastics",
+      "id": "crazyplastics-4abcbe",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Crazy Plastics",
+        "brand:wikidata": "Q130596652",
+        "name": "Crazy Plastics",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/CraZyPlasticsSouthAfrica/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crazyplastics-4abcbe.jpg",
+      "local_logo_path": "localbrand/logo/crazyplastics-4abcbe.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CraZyPlasticsSouthAfrica/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crazyplastics-4abcbe.jpg"
+      }
+    },
+    {
+      "displayName": "Culinarion",
+      "id": "culinarion-1b912f",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "brand": "Culinarion",
+        "brand:wikidata": "Q141203030",
+        "name": "Culinarion",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/Culinarion/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/culinarion-1b912f.jpg",
+      "local_logo_path": "localbrand/logo/culinarion-1b912f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Culinarion/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/culinarion-1b912f.jpg"
+      }
+    },
+    {
+      "displayName": "Dille & Kamille",
+      "id": "dilleandkamille-c5ed6b",
+      "locationSet": {
+        "include": [
+          "be",
+          "de",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Dille & Kamille",
+        "brand:wikidata": "Q65154379",
+        "name": "Dille & Kamille",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/DilleenKamille/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dilleandkamille-c5ed6b.jpg",
+      "local_logo_path": "localbrand/logo/dilleandkamille-c5ed6b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DilleenKamille/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dilleandkamille-c5ed6b.jpg"
+      }
+    },
+    {
+      "displayName": "Du Bruit dans la Cuisine",
+      "id": "dubruitdanslacuisine-791615",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Du Bruit dans la Cuisine",
+        "brand:wikidata": "Q130278264",
+        "name": "Du Bruit dans la Cuisine",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/dubruitdanslacuisine.officiel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dubruitdanslacuisine-791615.jpg",
+      "local_logo_path": "localbrand/logo/dubruitdanslacuisine-791615.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dubruitdanslacuisine.officiel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dubruitdanslacuisine-791615.jpg"
+      }
+    },
+    {
+      "displayName": "Duka",
+      "id": "duka-699029",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Duka",
+        "brand:wikidata": "Q20354074",
+        "name": "Duka",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/duka.polska/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/duka-699029.jpg",
+      "local_logo_path": "localbrand/logo/duka-699029.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/duka.polska/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/duka-699029.jpg"
+      }
+    },
+    {
+      "displayName": "EH Smith",
+      "id": "ehsmith-06cdb1",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "EH Smith",
+        "brand:wikidata": "Q100299126",
+        "name": "EH Smith",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/ehsmith.co.uk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ehsmith-06cdb1.jpg",
+      "local_logo_path": "localbrand/logo/ehsmith-06cdb1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ehsmith.co.uk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ehsmith-06cdb1.jpg"
+      }
+    },
+    {
+      "displayName": "Enza Home",
+      "id": "enzahome-19bb0d",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Enza Home",
+        "brand:wikidata": "Q116919751",
+        "name": "Enza Home",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/enzahomeusa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/enzahome-19bb0d.png",
+      "local_logo_path": "localbrand/logo/enzahome-19bb0d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/enzahomeusa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/enzahome-19bb0d.png"
+      }
+    },
+    {
+      "displayName": "Espaço Casa",
+      "id": "espacocasa-19bb0d",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Espaço Casa",
+        "name": "Espaço Casa",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Fissler",
+      "id": "fissler-a5ce18",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Fissler",
+        "brand:wikidata": "Q1420964",
+        "name": "Fissler",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/fisslerusa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fissler-a5ce18.jpg",
+      "local_logo_path": "localbrand/logo/fissler-a5ce18.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/fisslerusa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fissler-a5ce18.jpg"
+      }
+    },
+    {
+      "displayName": "Fissman",
+      "id": "fissman-639dab",
+      "locationSet": {
+        "include": [
+          "lv",
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Fissman",
+        "name": "Fissman",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "FOX Home",
+      "id": "foxhome-a5093f",
+      "locationSet": {
+        "include": [
+          "il"
+        ]
+      },
+      "tags": {
+        "brand": "FOX Home",
+        "brand:wikidata": "Q125796655",
+        "name": "FOX Home",
+        "name:en": "FOX Home",
+        "name:he": "פוקס הום",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Gipfel",
+      "id": "gipfel-4a99db",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Gipfel",
+        "brand:wikidata": "Q110083748",
+        "name": "Gipfel",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/gipfel.ru/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gipfel-4a99db.png",
+      "local_logo_path": "localbrand/logo/gipfel-4a99db.png",
+      "logos": {
+        "original": "https://graph.facebook.com/gipfel.ru/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gipfel-4a99db.png"
+      }
+    },
+    {
+      "displayName": "Guy Degrenne",
+      "id": "guydegrenne-791615",
+      "locationSet": {
+        "include": [
+          "fx"
+        ]
+      },
+      "tags": {
+        "brand": "Guy Degrenne",
+        "brand:wikidata": "Q3121712",
+        "name": "Guy Degrenne",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Happy Casa",
+      "id": "happycasa-6a1c4e",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Happy Casa",
+        "brand:wikidata": "Q126901260",
+        "name": "Happy Casa",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/happycasastore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/happycasa-6a1c4e.jpg",
+      "local_logo_path": "localbrand/logo/happycasa-6a1c4e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/happycasastore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/happycasa-6a1c4e.jpg"
+      }
+    },
+    {
+      "displayName": "Home & Cook",
+      "id": "homeandcook-e035a4",
+      "locationSet": {
+        "include": [
+          "150"
+        ]
+      },
+      "tags": {
+        "brand": "Home & Cook",
+        "brand:wikidata": "Q139488397",
+        "name": "Home & Cook",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Home Store + More",
+      "id": "homestoremore-b52391",
+      "locationSet": {
+        "include": [
+          "ie"
+        ]
+      },
+      "tags": {
+        "brand": "Home Store + More",
+        "brand:wikidata": "Q113471802",
+        "name": "Home Store + More",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/homestoreandmore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/homestoremore-b52391.jpg",
+      "local_logo_path": "localbrand/logo/homestoremore-b52391.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/homestoreandmore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/homestoremore-b52391.jpg"
+      }
+    },
+    {
+      "displayName": "HomeGoods",
+      "id": "homegoods-d77d08",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/department_store",
+        "shop/furniture"
+      ],
+      "tags": {
+        "brand": "HomeGoods",
+        "brand:wikidata": "Q5887941",
+        "name": "HomeGoods",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/Homegoods/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/homegoods-d77d08.jpg",
+      "local_logo_path": "localbrand/logo/homegoods-d77d08.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Homegoods/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/homegoods-d77d08.jpg"
+      }
+    },
+    {
+      "displayName": "House",
+      "id": "house-9d9c4b",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "House",
+        "brand:wikidata": "Q117921987",
+        "name": "House",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/HouseRetail/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/house-9d9c4b.jpg",
+      "local_logo_path": "localbrand/logo/house-9d9c4b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HouseRetail/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/house-9d9c4b.jpg"
+      }
+    },
+    {
+      "displayName": "House Bed & Bath",
+      "id": "housebedandbath-9d9c4b",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "House",
+        "brand:wikidata": "Q117921987",
+        "name": "House Bed & Bath",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/HouseRetail/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/housebedandbath-9d9c4b.jpg",
+      "local_logo_path": "localbrand/logo/housebedandbath-9d9c4b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HouseRetail/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/housebedandbath-9d9c4b.jpg"
+      }
+    },
+    {
+      "displayName": "Howards Storage World",
+      "id": "howardsstorageworld-9d9c4b",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "brand": "Howards Storage World",
+        "brand:wikidata": "Q106283555",
+        "name": "Howards Storage World",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/HowardsStorageWorldAU/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/howardsstorageworld-9d9c4b.jpg",
+      "local_logo_path": "localbrand/logo/howardsstorageworld-9d9c4b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HowardsStorageWorldAU/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/howardsstorageworld-9d9c4b.jpg"
+      }
+    },
+    {
+      "displayName": "Howarth Timber",
+      "id": "howarthtimber-06cdb1",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Howarth Timber",
+        "brand:wikidata": "Q100298474",
+        "name": "Howarth Timber",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/howarthtimber/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/howarthtimber-06cdb1.jpg",
+      "local_logo_path": "localbrand/logo/howarthtimber-06cdb1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/howarthtimber/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/howarthtimber-06cdb1.jpg"
+      }
+    },
+    {
+      "displayName": "Imerco",
+      "id": "imerco-12dd8a",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "Imerco",
+        "brand:wikidata": "Q12318163",
+        "name": "Imerco",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/imerco/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/imerco-12dd8a.jpg",
+      "local_logo_path": "localbrand/logo/imerco-12dd8a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/imerco/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/imerco-12dd8a.jpg"
+      }
+    },
+    {
+      "displayName": "Kasanova",
+      "id": "kasanova-6a1c4e",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Kasanova",
+        "brand:wikidata": "Q116214505",
+        "name": "Kasanova",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/Kasanova/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kasanova-6a1c4e.jpg",
+      "local_logo_path": "localbrand/logo/kasanova-6a1c4e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Kasanova/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kasanova-6a1c4e.jpg"
+      }
+    },
+    {
+      "displayName": "Kitch'n",
+      "id": "kitchn-789341",
+      "locationSet": {
+        "include": [
+          "no"
+        ]
+      },
+      "tags": {
+        "brand": "Kitch'n",
+        "brand:wikidata": "Q11980795",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/kitchn.no/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kitchn-789341.jpg",
+      "local_logo_path": "localbrand/logo/kitchn-789341.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kitchn.no/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kitchn-789341.jpg"
+      }
+    },
+    {
+      "displayName": "Kitchen Collection",
+      "id": "kitchencollection-d77d08",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Kitchen Collection",
+        "brand:wikidata": "Q64149036",
+        "name": "Kitchen Collection",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/KitchenCollectionStores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kitchencollection-d77d08.jpg",
+      "local_logo_path": "localbrand/logo/kitchencollection-d77d08.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/KitchenCollectionStores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kitchencollection-d77d08.jpg"
+      }
+    },
+    {
+      "displayName": "Kitchen Stuff Plus",
+      "id": "kitchenstuffplus-92c55a",
+      "locationSet": {
+        "include": [
+          "ca-on.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Kitchen Stuff Plus",
+        "brand:wikidata": "Q85850908",
+        "name": "Kitchen Stuff Plus",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/kitchenstuffplus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kitchenstuffplus-92c55a.jpg",
+      "local_logo_path": "localbrand/logo/kitchenstuffplus-92c55a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kitchenstuffplus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kitchenstuffplus-92c55a.jpg"
+      }
+    },
+    {
+      "displayName": "KODi",
+      "id": "kodi-a5ce18",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "KODi",
+        "brand:wikidata": "Q1778216",
+        "name": "KODi",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/kodi.de/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kodi-a5ce18.jpg",
+      "local_logo_path": "localbrand/logo/kodi-a5ce18.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/kodi.de/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kodi-a5ce18.jpg"
+      }
+    },
+    {
+      "displayName": "Kop & Kande",
+      "id": "kopandkande-12dd8a",
+      "locationSet": {
+        "include": [
+          "dk"
+        ]
+      },
+      "tags": {
+        "brand": "Kop & Kande",
+        "brand:wikidata": "Q124005159",
+        "name": "Kop & Kande",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/kopogkande/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kopandkande-12dd8a.png",
+      "local_logo_path": "localbrand/logo/kopandkande-12dd8a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/kopogkande/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kopandkande-12dd8a.png"
+      }
+    },
+    {
+      "displayName": "Kuchenland",
+      "id": "kuchenland-4a99db",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Kuchenland",
+        "name": "Kuchenland",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Lagerhaus (Scandinavia)",
+      "id": "lagerhaus-8b5f66",
+      "locationSet": {
+        "include": [
+          "no",
+          "se"
+        ]
+      },
+      "matchTags": [
+        "shop/doityourself"
+      ],
+      "tags": {
+        "brand": "Lagerhaus",
+        "brand:wikidata": "Q10553211",
+        "name": "Lagerhaus",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/lagerhaus.se/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lagerhaus-8b5f66.jpg",
+      "local_logo_path": "localbrand/logo/lagerhaus-8b5f66.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lagerhaus.se/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lagerhaus-8b5f66.jpg"
+      }
+    },
+    {
+      "displayName": "Lakeland",
+      "id": "lakeland-06cdb1",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "Lakeland",
+        "brand:wikidata": "Q16256199",
+        "name": "Lakeland",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/LakelandUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lakeland-06cdb1.jpg",
+      "local_logo_path": "localbrand/logo/lakeland-06cdb1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LakelandUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lakeland-06cdb1.jpg"
+      }
+    },
+    {
+      "displayName": "Le Creuset",
+      "id": "lecreuset-19bb0d",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchTags": [
+        "shop/kitchen"
+      ],
+      "tags": {
+        "brand": "Le Creuset",
+        "brand:wikidata": "Q555861",
+        "name": "Le Creuset",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/lecreuset/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lecreuset-19bb0d.jpg",
+      "local_logo_path": "localbrand/logo/lecreuset-19bb0d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lecreuset/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lecreuset-19bb0d.jpg"
+      }
+    },
+    {
+      "displayName": "Linen Chest",
+      "id": "linenchest-2e9fd8",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Linen Chest",
+        "brand:wikidata": "Q112966601",
+        "name": "Linen Chest",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/linenchest/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/linenchest-2e9fd8.png",
+      "local_logo_path": "localbrand/logo/linenchest-2e9fd8.png",
+      "logos": {
+        "original": "https://graph.facebook.com/linenchest/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/linenchest-2e9fd8.png"
+      }
+    },
+    {
+      "displayName": "Madame Coco",
+      "id": "madamecoco-19bb0d",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Madame Coco",
+        "brand:wikidata": "Q28605887",
+        "name": "Madame Coco",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/MadameCocoTurkiye/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/madamecoco-19bb0d.jpg",
+      "local_logo_path": "localbrand/logo/madamecoco-19bb0d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MadameCocoTurkiye/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/madamecoco-19bb0d.jpg"
+      }
+    },
+    {
+      "displayName": "Marskramer",
+      "id": "marskramer-c9ad4a",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Marskramer",
+        "brand:wikidata": "Q2305917",
+        "name": "Marskramer",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/marskramer.nl/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marskramer-c9ad4a.jpg",
+      "local_logo_path": "localbrand/logo/marskramer-c9ad4a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/marskramer.nl/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marskramer-c9ad4a.jpg"
+      }
+    },
+    {
+      "displayName": "Maury's",
+      "id": "maurys-6a1c4e",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Maury's",
+        "brand:wikidata": "Q138307558",
+        "name": "Maury's",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/gruppomaurys/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maurys-6a1c4e.jpg",
+      "local_logo_path": "localbrand/logo/maurys-6a1c4e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/gruppomaurys/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maurys-6a1c4e.jpg"
+      }
+    },
+    {
+      "displayName": "Metalac",
+      "id": "metalac-21e4ab",
+      "locationSet": {
+        "include": [
+          "hr",
+          "me",
+          "rs"
+        ]
+      },
+      "matchNames": [
+        "metalac market",
+        "металац маркет",
+        "металац посуђе"
+      ],
+      "matchTags": [
+        "shop/tableware"
+      ],
+      "tags": {
+        "brand": "Metalac",
+        "brand:wikidata": "Q116454960",
+        "name": "Metalac",
+        "name:sr": "Металац",
+        "name:sr-Latn": "Metalac",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Mr Price Home",
+      "id": "mrpricehome-764653",
+      "locationSet": {
+        "include": [
+          "bw",
+          "gh",
+          "ke",
+          "ls",
+          "na",
+          "sz",
+          "za",
+          "zm"
+        ]
+      },
+      "matchTags": [
+        "shop/furniture"
+      ],
+      "tags": {
+        "brand": "Mr Price Home",
+        "brand:wikidata": "Q129561270",
+        "name": "Mr Price Home",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/MRPHOME/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrpricehome-764653.png",
+      "local_logo_path": "localbrand/logo/mrpricehome-764653.png",
+      "logos": {
+        "original": "https://graph.facebook.com/MRPHOME/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrpricehome-764653.png"
+      }
+    },
+    {
+      "displayName": "National Plastics",
+      "id": "nationalplastics-06cdb1",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "brand": "National Plastics",
+        "brand:wikidata": "Q100297552",
+        "name": "National Plastics",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/NationalPlastics/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationalplastics-06cdb1.jpg",
+      "local_logo_path": "localbrand/logo/nationalplastics-06cdb1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NationalPlastics/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationalplastics-06cdb1.jpg"
+      }
+    },
+    {
+      "displayName": "Old Time Pottery",
+      "id": "oldtimepottery-d77d08",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Old Time Pottery",
+        "brand:wikidata": "Q7085222",
+        "name": "Old Time Pottery",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/oldtimepottery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldtimepottery-d77d08.jpg",
+      "local_logo_path": "localbrand/logo/oldtimepottery-d77d08.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/oldtimepottery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldtimepottery-d77d08.jpg"
+      }
+    },
+    {
+      "displayName": "ORION",
+      "id": "orion-4991ba",
+      "locationSet": {
+        "include": [
+          "cz",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "ORION",
+        "brand:wikidata": "Q67806141",
+        "name": "ORION",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/oriontvorimevasidomacnost/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orion-4991ba.png",
+      "local_logo_path": "localbrand/logo/orion-4991ba.png",
+      "logos": {
+        "original": "https://graph.facebook.com/oriontvorimevasidomacnost/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orion-4991ba.png"
+      }
+    },
+    {
+      "displayName": "PEP Home",
+      "id": "pephome-4abcbe",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "PEP Home",
+        "brand:wikidata": "Q128802022",
+        "name": "PEP Home",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/PEPSouthAfrica/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pephome-4abcbe.jpg",
+      "local_logo_path": "localbrand/logo/pephome-4abcbe.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PEPSouthAfrica/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pephome-4abcbe.jpg"
+      }
+    },
+    {
+      "displayName": "Plastics Depot",
+      "id": "plasticsdepot-4abcbe",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Plastics Depot",
+        "brand:wikidata": "Q130596634",
+        "name": "Plastics Depot",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/PlasticsDepotSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/plasticsdepot-4abcbe.jpg",
+      "local_logo_path": "localbrand/logo/plasticsdepot-4abcbe.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PlasticsDepotSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/plasticsdepot-4abcbe.jpg"
+      }
+    },
+    {
+      "displayName": "Preçolandia",
+      "id": "precolandia-35237a",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "brand": "Preçolandia",
+        "brand:wikidata": "Q62073183",
+        "name": "Preçolandia",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/lojaprecolandia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/precolandia-35237a.jpg",
+      "local_logo_path": "localbrand/logo/precolandia-35237a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/lojaprecolandia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/precolandia-35237a.jpg"
+      }
+    },
+    {
+      "displayName": "Prince Hypermart",
+      "id": "princehypermart-32fa4c",
+      "locationSet": {
+        "include": [
+          "ph"
+        ]
+      },
+      "tags": {
+        "brand": "Prince Hypermart",
+        "brand:wikidata": "Q28405980",
+        "name": "Prince Hypermart",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/PrinceHypermart/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/princehypermart-32fa4c.jpg",
+      "local_logo_path": "localbrand/logo/princehypermart-32fa4c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/PrinceHypermart/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/princehypermart-32fa4c.jpg"
+      }
+    },
+    {
+      "displayName": "ProCook",
+      "id": "procook-06cdb1",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "note": "Former Wikidata entry was deleted (Q99736203)",
+      "tags": {
+        "brand": "ProCook",
+        "brand:wikidata": "Q101420301",
+        "name": "ProCook",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/ProCookUk/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/procook-06cdb1.jpg",
+      "local_logo_path": "localbrand/logo/procook-06cdb1.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ProCookUk/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/procook-06cdb1.jpg"
+      }
+    },
+    {
+      "displayName": "Risparmio Casa",
+      "id": "risparmiocasa-6a1c4e",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Risparmio Casa",
+        "brand:wikidata": "Q125936928",
+        "name": "Risparmio Casa",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/risparmiocasaofficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/risparmiocasa-6a1c4e.jpg",
+      "local_logo_path": "localbrand/logo/risparmiocasa-6a1c4e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/risparmiocasaofficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/risparmiocasa-6a1c4e.jpg"
+      }
+    },
+    {
+      "displayName": "Satur",
+      "id": "satur-6a1c4e",
+      "locationSet": {
+        "include": [
+          "it"
+        ]
+      },
+      "tags": {
+        "brand": "Satur",
+        "brand:wikidata": "Q133240376",
+        "name": "Satur",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/Satur.it/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/satur-6a1c4e.jpg",
+      "local_logo_path": "localbrand/logo/satur-6a1c4e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Satur.it/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/satur-6a1c4e.jpg"
+      }
+    },
+    {
+      "displayName": "Sheet Street",
+      "id": "sheetstreet-4abcbe",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Sheet Street",
+        "brand:wikidata": "Q118185878",
+        "name": "Sheet Street",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/SheetStreetZA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sheetstreet-4abcbe.jpg",
+      "local_logo_path": "localbrand/logo/sheetstreet-4abcbe.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SheetStreetZA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sheetstreet-4abcbe.jpg"
+      }
+    },
+    {
+      "displayName": "Soltam",
+      "id": "soltam-a5093f",
+      "locationSet": {
+        "include": [
+          "il"
+        ]
+      },
+      "tags": {
+        "brand": "Soltam",
+        "name": "Soltam",
+        "name:en": "Soltam",
+        "name:he": "סולתם",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Stokes",
+      "id": "stokes-2e9fd8",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Stokes",
+        "brand:wikidata": "Q66481382",
+        "name": "Stokes",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/StokesStores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stokes-2e9fd8.jpg",
+      "local_logo_path": "localbrand/logo/stokes-2e9fd8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/StokesStores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stokes-2e9fd8.jpg"
+      }
+    },
+    {
+      "displayName": "Sur La Table",
+      "id": "surlatable-d77d08",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Sur La Table",
+        "brand:wikidata": "Q7645220",
+        "name": "Sur La Table",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/SurLaTable/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/surlatable-d77d08.jpg",
+      "local_logo_path": "localbrand/logo/surlatable-d77d08.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SurLaTable/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/surlatable-d77d08.jpg"
+      }
+    },
+    {
+      "displayName": "Tefal",
+      "id": "tefal-de9f7c",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "003",
+          "jp"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "brand": "Tefal",
+        "brand:wikidata": "Q134176292",
+        "name": "Tefal",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/tfal.co.jp/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tefal-de9f7c.png",
+      "local_logo_path": "localbrand/logo/tefal-de9f7c.png",
+      "logos": {
+        "original": "https://graph.facebook.com/tfal.co.jp/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tefal-de9f7c.png"
+      }
+    },
+    {
+      "displayName": "Tescoma",
+      "id": "tescoma-19bb0d",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Tescoma",
+        "brand:wikidata": "Q28962979",
+        "name": "Tescoma",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/Tescoma.cz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tescoma-19bb0d.png",
+      "local_logo_path": "localbrand/logo/tescoma-19bb0d.png",
+      "logos": {
+        "original": "https://graph.facebook.com/Tescoma.cz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tescoma-19bb0d.png"
+      }
+    },
+    {
+      "displayName": "The Conran Shop",
+      "id": "theconranshop-672f56",
+      "locationSet": {
+        "include": [
+          "fx",
+          "gb-lon.geojson",
+          "jp",
+          "kr"
+        ]
+      },
+      "tags": {
+        "brand": "The Conran Shop",
+        "brand:wikidata": "Q63959046",
+        "name": "The Conran Shop",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/TheConranShop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theconranshop-672f56.jpg",
+      "local_logo_path": "localbrand/logo/theconranshop-672f56.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TheConranShop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theconranshop-672f56.jpg"
+      }
+    },
+    {
+      "displayName": "The Container Store",
+      "id": "thecontainerstore-d77d08",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "The Container Store",
+        "brand:wikidata": "Q7727445",
+        "name": "The Container Store",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/containerstore/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thecontainerstore-d77d08.jpg",
+      "local_logo_path": "localbrand/logo/thecontainerstore-d77d08.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/containerstore/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thecontainerstore-d77d08.jpg"
+      }
+    },
+    {
+      "displayName": "The Range",
+      "id": "therange-81bc6e",
+      "locationSet": {
+        "include": [
+          "gb",
+          "ie"
+        ]
+      },
+      "matchNames": [
+        "the range home leisure  & garden"
+      ],
+      "matchTags": [
+        "shop/department_store",
+        "shop/doityourself",
+        "shop/furniture",
+        "shop/garden_centre",
+        "shop/variety_store"
+      ],
+      "tags": {
+        "brand": "The Range",
+        "brand:wikidata": "Q7759409",
+        "name": "The Range",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/therange/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/therange-81bc6e.jpg",
+      "local_logo_path": "localbrand/logo/therange-81bc6e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/therange/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/therange-81bc6e.jpg"
+      }
+    },
+    {
+      "displayName": "Think Kitchen",
+      "id": "thinkkitchen-2e9fd8",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "brand": "Think Kitchen",
+        "brand:wikidata": "Q66481390",
+        "name": "Think Kitchen",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/thinkkitchenstores/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thinkkitchen-2e9fd8.jpg",
+      "local_logo_path": "localbrand/logo/thinkkitchen-2e9fd8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/thinkkitchenstores/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thinkkitchen-2e9fd8.jpg"
+      }
+    },
+    {
+      "displayName": "Tuesday Morning",
+      "id": "tuesdaymorning-d77d08",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchTags": [
+        "shop/convenience",
+        "shop/department_store",
+        "shop/gift",
+        "shop/variety_store"
+      ],
+      "tags": {
+        "brand": "Tuesday Morning",
+        "brand:wikidata": "Q7851426",
+        "name": "Tuesday Morning",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/TuesdayMorning/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuesdaymorning-d77d08.png",
+      "local_logo_path": "localbrand/logo/tuesdaymorning-d77d08.png",
+      "logos": {
+        "original": "https://graph.facebook.com/TuesdayMorning/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuesdaymorning-d77d08.png"
+      }
+    },
+    {
+      "displayName": "Tupperware",
+      "id": "tupperware-b7d488",
+      "locationSet": {
+        "include": [
+          "my"
+        ]
+      },
+      "tags": {
+        "brand": "Tupperware",
+        "brand:wikidata": "Q1129117",
+        "name": "Tupperware",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tupperware_2024.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tupperware-b7d488.svg",
+      "local_logo_path": "localbrand/logo/tupperware-b7d488.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tupperware_2024.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tupperware-b7d488.svg"
+      }
+    },
+    {
+      "displayName": "Verimark",
+      "id": "verimark-4abcbe",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Verimark",
+        "brand:wikidata": "Q129636135",
+        "name": "Verimark",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/VerimarkSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/verimark-4abcbe.jpg",
+      "local_logo_path": "localbrand/logo/verimark-4abcbe.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/VerimarkSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/verimark-4abcbe.jpg"
+      }
+    },
+    {
+      "displayName": "Villeroy & Boch",
+      "id": "villeroyandboch-19bb0d",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "brand": "Villeroy & Boch",
+        "brand:wikidata": "Q705042",
+        "name": "Villeroy & Boch",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/VilleroyandBoch/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/villeroyandboch-19bb0d.jpg",
+      "local_logo_path": "localbrand/logo/villeroyandboch-19bb0d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/VilleroyandBoch/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/villeroyandboch-19bb0d.jpg"
+      }
+    },
+    {
+      "displayName": "Williams-Sonoma",
+      "id": "williamssonoma-61ccca",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "william sonoma"
+      ],
+      "matchTags": [
+        "shop/furniture"
+      ],
+      "tags": {
+        "brand": "Williams-Sonoma",
+        "brand:wikidata": "Q2581220",
+        "name": "Williams-Sonoma",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/WilliamsSonoma/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/williamssonoma-61ccca.jpg",
+      "local_logo_path": "localbrand/logo/williamssonoma-61ccca.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WilliamsSonoma/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/williamssonoma-61ccca.jpg"
+      }
+    },
+    {
+      "displayName": "WMF",
+      "id": "wmf-7553f4",
+      "locationSet": {
+        "include": [
+          "at",
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "WMF",
+        "brand:wikidata": "Q451423",
+        "name": "WMF",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/WMF/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wmf-7553f4.jpg",
+      "local_logo_path": "localbrand/logo/wmf-7553f4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/WMF/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wmf-7553f4.jpg"
+      }
+    },
+    {
+      "displayName": "Xenos",
+      "id": "xenos-06f910",
+      "locationSet": {
+        "include": [
+          "de",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Xenos",
+        "brand:wikidata": "Q16547960",
+        "name": "Xenos",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/XenosNL/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xenos-06f910.png",
+      "local_logo_path": "localbrand/logo/xenos-06f910.png",
+      "logos": {
+        "original": "https://graph.facebook.com/XenosNL/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xenos-06f910.png"
+      }
+    },
+    {
+      "displayName": "Yuppiechef",
+      "id": "yuppiechef-4abcbe",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Yuppiechef",
+        "brand:wikidata": "Q24234053",
+        "name": "Yuppiechef",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/yuppiechef/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yuppiechef-4abcbe.jpg",
+      "local_logo_path": "localbrand/logo/yuppiechef-4abcbe.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/yuppiechef/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yuppiechef-4abcbe.jpg"
+      }
+    },
+    {
+      "displayName": "Zwilling",
+      "id": "zwilling-a5ce18",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "tags": {
+        "brand": "Zwilling",
+        "brand:wikidata": "Q244736",
+        "name": "Zwilling",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/ZWILLINGUSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zwilling-a5ce18.jpg",
+      "local_logo_path": "localbrand/logo/zwilling-a5ce18.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ZWILLINGUSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zwilling-a5ce18.jpg"
+      }
+    },
+    {
+      "displayName": "Παρουσίαση (Parousiasi)",
+      "id": "parousiasi-d48b77",
+      "locationSet": {
+        "include": [
+          "gr"
+        ]
+      },
+      "tags": {
+        "brand": "Παρουσίαση",
+        "brand:el": "Παρουσίαση",
+        "brand:en": "Parousiasi",
+        "brand:wikidata": "Q140454500",
+        "name": "Παρουσίαση",
+        "name:el": "Παρουσίαση",
+        "name:en": "Parousiasi",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/parousiasi.gr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parousiasi-d48b77.jpg",
+      "local_logo_path": "localbrand/logo/parousiasi-d48b77.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/parousiasi.gr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parousiasi-d48b77.jpg"
+      }
+    },
+    {
+      "displayName": "Домовой",
+      "id": "579b3e-4a99db",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Домовой",
+        "brand:wikidata": "Q110086700",
+        "name": "Домовой",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Еврочехол",
+      "id": "69105e-4a99db",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "brand": "Еврочехол",
+        "name": "Еврочехол",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Императорский фарфоровый завод",
+      "id": "imperialporcelainfactory-4a99db",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "matchNames": [
+        "императорский фарфор"
+      ],
+      "tags": {
+        "brand": "Императорский фарфоровый завод",
+        "brand:ar": "مصنع الخزف الإمبراطوري",
+        "brand:be": "Імператарскі фарфоравы завод",
+        "brand:en": "Imperial Porcelain Factory",
+        "brand:es": "Fábrica Imperial de Porcelana",
+        "brand:fr": "Manufacture de Lomonossov",
+        "brand:he": "בית החרושת הקיסרי לחרסינה",
+        "brand:it": "Porcellana di San Pietroburgo",
+        "brand:ja": "帝国磁器工場",
+        "brand:ru": "Императорский фарфоровый завод",
+        "brand:uk": "Імператорський порцеляновий завод",
+        "brand:wikidata": "Q1303887",
+        "name": "Императорский фарфоровый завод",
+        "name:ar": "مصنع الخزف الإمبراطوري",
+        "name:be": "Імператарскі фарфоравы завод",
+        "name:en": "Imperial Porcelain Factory",
+        "name:es": "Fábrica Imperial de Porcelana",
+        "name:fr": "Manufacture de Lomonossov",
+        "name:he": "בית החרושת הקיסרי לחרסינה",
+        "name:it": "Porcellana di San Pietroburgo",
+        "name:ja": "帝国磁器工場",
+        "name:ru": "Императорский фарфоровый завод",
+        "name:uk": "Імператорський порцеляновий завод",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/ipm.ru/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/imperialporcelainfactory-4a99db.jpg",
+      "local_logo_path": "localbrand/logo/imperialporcelainfactory-4a99db.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ipm.ru/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/imperialporcelainfactory-4a99db.jpg"
+      }
+    },
+    {
+      "displayName": "Немски център",
+      "id": "d48ea9-61477e",
+      "locationSet": {
+        "include": [
+          "bg"
+        ]
+      },
+      "tags": {
+        "brand": "Немски център",
+        "brand:wikidata": "Q115656593",
+        "name": "Немски център",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/NemskiCentarShop/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/d48ea9-61477e.jpg",
+      "local_logo_path": "localbrand/logo/d48ea9-61477e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NemskiCentarShop/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/d48ea9-61477e.jpg"
+      }
+    },
+    {
+      "displayName": "სუპერი",
+      "id": "super-595ee9",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "სუპერი",
+        "brand:en": "Super",
+        "brand:ka": "სუპერი",
+        "brand:wikidata": "Q131470015",
+        "name": "სუპერი",
+        "name:en": "Super",
+        "name:ka": "სუპერი",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/SuperStoreGeorgia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/super-595ee9.jpg",
+      "local_logo_path": "localbrand/logo/super-595ee9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SuperStoreGeorgia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/super-595ee9.jpg"
+      }
+    },
+    {
+      "displayName": "ჰოუმ",
+      "id": "home-595ee9",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "brand": "ჰოუმ",
+        "brand:en": "Home",
+        "brand:ka": "ჰოუმ",
+        "brand:wikidata": "Q131470016",
+        "name": "ჰოუმ",
+        "name:en": "Home",
+        "name:ka": "ჰოუმ",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/ltdhome/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/home-595ee9.jpg",
+      "local_logo_path": "localbrand/logo/home-595ee9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ltdhome/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/home-595ee9.jpg"
+      }
+    },
+    {
+      "displayName": "京王アートマン",
+      "id": "keioatman-fb0740",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "アートマン"
+      ],
+      "matchTags": [
+        "shop/variety_store"
+      ],
+      "tags": {
+        "brand": "京王アートマン",
+        "brand:en": "Keio Atman",
+        "brand:ja": "京王アートマン",
+        "brand:wikidata": "Q11374580",
+        "name": "京王アートマン",
+        "name:en": "Keio Atman",
+        "name:ja": "京王アートマン",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/keio.atman/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keioatman-fb0740.jpg",
+      "local_logo_path": "localbrand/logo/keioatman-fb0740.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/keio.atman/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keioatman-fb0740.jpg"
+      }
+    },
+    {
+      "displayName": "日本城 JHC",
+      "id": "jhc-067b48",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "matchNames": [
+        "japan home",
+        "japan home centre"
+      ],
+      "tags": {
+        "brand": "日本城 JHC",
+        "brand:en": "JHC",
+        "brand:wikidata": "Q11507765",
+        "brand:zh": "日本城",
+        "name": "日本城 JHC",
+        "name:en": "JHC",
+        "name:zh": "日本城",
+        "shop": "houseware"
+      },
+      "original_logo_url": "https://graph.facebook.com/JHCHK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jhc-067b48.jpg",
+      "local_logo_path": "localbrand/logo/jhc-067b48.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JHCHK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jhc-067b48.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2439 @@
+{
+  "properties": {
+    "path": "brands/amenity/ice_cream",
+    "exclude": {
+      "generic": [
+        "^(ice cream|fagyizó)$",
+        "^мороженое$"
+      ],
+      "named": [
+        "^(gelateria|venezia)$",
+        "eiscafé venezia"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "31冰淇淋",
+      "id": "baskinrobbins-cc8b8b",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "31冰淇淋",
+        "brand:en": "Baskin-Robbins",
+        "brand:ja": "バスキン・ロビンス",
+        "brand:wikidata": "Q584601",
+        "brand:zh": "31冰淇淋",
+        "name": "31冰淇淋",
+        "name:en": "Baskin-Robbins",
+        "name:ja": "サーティワンアイスクリーム",
+        "name:zh": "31冰淇淋"
+      },
+      "original_logo_url": "https://graph.facebook.com/baskinrobbinsUS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baskinrobbins-cc8b8b.jpg",
+      "local_logo_path": "localbrand/logo/baskinrobbins-cc8b8b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/baskinrobbinsUS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baskinrobbins-cc8b8b.jpg"
+      }
+    },
+    {
+      "displayName": "33 пингвина",
+      "id": "fd1d7e-3c9560",
+      "locationSet": {
+        "include": [
+          "by",
+          "kg",
+          "kz",
+          "ru",
+          "uz"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "33 пингвина",
+        "brand:wikidata": "Q110147993",
+        "name": "33 пингвина"
+      },
+      "original_logo_url": "https://graph.facebook.com/33pingvina/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fd1d7e-3c9560.png",
+      "local_logo_path": "localbrand/logo/fd1d7e-3c9560.png",
+      "logos": {
+        "original": "https://graph.facebook.com/33pingvina/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fd1d7e-3c9560.png"
+      }
+    },
+    {
+      "displayName": "Abbott's Frozen Custard",
+      "id": "abbottsfrozencustard-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Abbott's Frozen Custard",
+        "brand:wikidata": "Q4664334",
+        "name": "Abbott's Frozen Custard",
+        "short_name": "Abbott's"
+      },
+      "original_logo_url": "https://graph.facebook.com/AbbottsFrozenCustard/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/abbottsfrozencustard-8697a4.jpg",
+      "local_logo_path": "localbrand/logo/abbottsfrozencustard-8697a4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AbbottsFrozenCustard/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/abbottsfrozencustard-8697a4.jpg"
+      }
+    },
+    {
+      "displayName": "Afters Original",
+      "id": "aftersoriginal-22b8b7",
+      "locationSet": {
+        "include": [
+          "ae",
+          "gb"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Afters",
+        "brand:wikidata": "Q111811913",
+        "name": "Afters Original"
+      }
+    },
+    {
+      "displayName": "Amorino",
+      "id": "amorino-d14110",
+      "locationSet": {
+        "include": [
+          "ae",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "gb",
+          "gr",
+          "ie",
+          "it",
+          "lu",
+          "ma",
+          "mt",
+          "mx",
+          "pt",
+          "qa",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Amorino",
+        "brand:wikidata": "Q2843884",
+        "name": "Amorino"
+      },
+      "original_logo_url": "https://graph.facebook.com/AmorinoGelato/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amorino-d14110.jpg",
+      "local_logo_path": "localbrand/logo/amorino-d14110.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AmorinoGelato/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amorino-d14110.jpg"
+      }
+    },
+    {
+      "displayName": "Amy's Ice Creams",
+      "id": "amysicecreams-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Amy's Ice Creams",
+        "brand:wikidata": "Q4749045",
+        "name": "Amy's Ice Creams"
+      },
+      "original_logo_url": "https://graph.facebook.com/amysicecreams/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amysicecreams-8697a4.jpg",
+      "local_logo_path": "localbrand/logo/amysicecreams-8697a4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/amysicecreams/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amysicecreams-8697a4.jpg"
+      }
+    },
+    {
+      "displayName": "Andy's Frozen Custard",
+      "id": "andysfrozencustard-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Andy's Frozen Custard",
+        "brand:wikidata": "Q4760327",
+        "name": "Andy's Frozen Custard",
+        "short_name": "Andy's"
+      },
+      "original_logo_url": "https://graph.facebook.com/AndysFrozenCustard/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/andysfrozencustard-8697a4.jpg",
+      "local_logo_path": "localbrand/logo/andysfrozencustard-8697a4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/AndysFrozenCustard/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/andysfrozencustard-8697a4.jpg"
+      }
+    },
+    {
+      "displayName": "Bacio di Latte",
+      "id": "baciodilatte-46659e",
+      "locationSet": {
+        "include": [
+          "br",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Bacio di Latte",
+        "brand:wikidata": "Q110249379",
+        "coffee": "yes",
+        "diet:vegan": "yes",
+        "name": "Bacio di Latte"
+      },
+      "original_logo_url": "https://graph.facebook.com/baciodilatte/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baciodilatte-46659e.jpg",
+      "local_logo_path": "localbrand/logo/baciodilatte-46659e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/baciodilatte/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baciodilatte-46659e.jpg"
+      }
+    },
+    {
+      "displayName": "Baskin-Robbins",
+      "id": "baskinrobbins-6fa8a0",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "ge",
+          "jp",
+          "kr",
+          "tw"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Baskin-Robbins",
+        "brand:wikidata": "Q584601",
+        "name": "Baskin-Robbins"
+      },
+      "original_logo_url": "https://graph.facebook.com/baskinrobbinsUS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baskinrobbins-6fa8a0.jpg",
+      "local_logo_path": "localbrand/logo/baskinrobbins-6fa8a0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/baskinrobbinsUS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baskinrobbins-6fa8a0.jpg"
+      }
+    },
+    {
+      "displayName": "Ben & Jerry's",
+      "id": "benandjerrys-87d971",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Ben & Jerry's",
+        "brand:wikidata": "Q816412",
+        "name": "Ben & Jerry's"
+      },
+      "original_logo_url": "https://graph.facebook.com/benandjerrysUS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/benandjerrys-87d971.png",
+      "local_logo_path": "localbrand/logo/benandjerrys-87d971.png",
+      "logos": {
+        "original": "https://graph.facebook.com/benandjerrysUS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/benandjerrys-87d971.png"
+      }
+    },
+    {
+      "displayName": "Bico de Xeado",
+      "id": "bicodexeado-2a89e9",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Bico de Xeado",
+        "brand:wikidata": "Q94575629",
+        "name": "Bico de Xeado"
+      },
+      "original_logo_url": "https://graph.facebook.com/BICOdexeado/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bicodexeado-2a89e9.jpg",
+      "local_logo_path": "localbrand/logo/bicodexeado-2a89e9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/BICOdexeado/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bicodexeado-2a89e9.jpg"
+      }
+    },
+    {
+      "displayName": "Bruster's Ice Cream",
+      "id": "brustersicecream-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "brusters",
+        "brusters real ice cream"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Bruster's Ice Cream",
+        "brand:wikidata": "Q4979810",
+        "name": "Bruster's Ice Cream"
+      },
+      "original_logo_url": "https://graph.facebook.com/BrustersRealIceCream/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brustersicecream-8697a4.png",
+      "local_logo_path": "localbrand/logo/brustersicecream-8697a4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/BrustersRealIceCream/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brustersicecream-8697a4.png"
+      }
+    },
+    {
+      "displayName": "Carvel",
+      "id": "carvel-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Carvel",
+        "brand:wikidata": "Q5047520",
+        "name": "Carvel",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/CarvelIceCream/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carvel-8697a4.jpg",
+      "local_logo_path": "localbrand/logo/carvel-8697a4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/CarvelIceCream/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carvel-8697a4.jpg"
+      }
+    },
+    {
+      "displayName": "Chiquinho Sorvetes",
+      "id": "chiquinhosorvetes-9359b6",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Chiquinho Sorvetes",
+        "brand:wikidata": "Q65164356",
+        "name": "Chiquinho Sorvetes"
+      },
+      "original_logo_url": "https://graph.facebook.com/chiquinhosorvetes/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chiquinhosorvetes-9359b6.jpg",
+      "local_logo_path": "localbrand/logo/chiquinhosorvetes-9359b6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/chiquinhosorvetes/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chiquinhosorvetes-9359b6.jpg"
+      }
+    },
+    {
+      "displayName": "Cold Rock Ice Creamery",
+      "id": "coldrockicecreamery-e699dd",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Cold Rock Ice Creamery",
+        "brand:wikidata": "Q2982390",
+        "name": "Cold Rock Ice Creamery",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/ColdRockIceCreamery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coldrockicecreamery-e699dd.jpg",
+      "local_logo_path": "localbrand/logo/coldrockicecreamery-e699dd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/ColdRockIceCreamery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coldrockicecreamery-e699dd.jpg"
+      }
+    },
+    {
+      "displayName": "Cold Stone Creamery",
+      "id": "coldstonecreamery-87d971",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "matchNames": [
+        "cold stone"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Cold Stone Creamery",
+        "brand:wikidata": "Q1094923",
+        "name": "Cold Stone Creamery"
+      },
+      "original_logo_url": "https://graph.facebook.com/coldstonecreamery/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coldstonecreamery-87d971.png",
+      "local_logo_path": "localbrand/logo/coldstonecreamery-87d971.png",
+      "logos": {
+        "original": "https://graph.facebook.com/coldstonecreamery/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coldstonecreamery-87d971.png"
+      }
+    },
+    {
+      "displayName": "Corner House",
+      "id": "cornerhouse-c284d9",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Corner House",
+        "brand:wikidata": "Q124374322",
+        "delivery": "yes",
+        "name": "Corner House",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Creams",
+      "id": "creams-546be0",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "matchNames": [
+        "creams gelato",
+        "creams gelato co"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Creams",
+        "brand:wikidata": "Q111811895",
+        "name": "Creams"
+      }
+    },
+    {
+      "displayName": "D'Onofrio",
+      "id": "donofrio-93a72a",
+      "locationSet": {
+        "include": [
+          "pe"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "D'Onofrio",
+        "brand:wikidata": "Q5203166",
+        "name": "D'Onofrio"
+      },
+      "original_logo_url": "https://graph.facebook.com/DonofrioDOficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/donofrio-93a72a.png",
+      "local_logo_path": "localbrand/logo/donofrio-93a72a.png",
+      "logos": {
+        "original": "https://graph.facebook.com/DonofrioDOficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/donofrio-93a72a.png"
+      }
+    },
+    {
+      "displayName": "De IJswinckel",
+      "id": "deijswinckel-e6af0f",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "De IJswinckel",
+        "brand:wikidata": "Q121742239",
+        "name": "De IJswinckel"
+      },
+      "original_logo_url": "https://graph.facebook.com/DeIJswinckel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deijswinckel-e6af0f.png",
+      "local_logo_path": "localbrand/logo/deijswinckel-e6af0f.png",
+      "logos": {
+        "original": "https://graph.facebook.com/DeIJswinckel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deijswinckel-e6af0f.png"
+      }
+    },
+    {
+      "displayName": "Dippin' Dots",
+      "id": "dippindots-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Dippin' Dots",
+        "brand:wikidata": "Q3029195",
+        "name": "Dippin' Dots"
+      },
+      "original_logo_url": "https://graph.facebook.com/DippinDots/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dippindots-8697a4.jpg",
+      "local_logo_path": "localbrand/logo/dippindots-8697a4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DippinDots/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dippindots-8697a4.jpg"
+      }
+    },
+    {
+      "displayName": "Emack & Bolio's",
+      "id": "emackandbolios-0a049d",
+      "locationSet": {
+        "include": [
+          "cn",
+          "kr",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "emack & boilios"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Emack & Bolio's",
+        "brand:wikidata": "Q5368759",
+        "name": "Emack & Bolio's"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Emack_and_Bolios%2C_Boston_MA.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/emackandbolios-0a049d.jpg",
+      "local_logo_path": "localbrand/logo/emackandbolios-0a049d.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/70/Emack_and_Bolios%2C_Boston_MA.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/emackandbolios-0a049d.jpg"
+      }
+    },
+    {
+      "displayName": "Freddo",
+      "id": "freddo-3a94a6",
+      "locationSet": {
+        "include": [
+          "ar",
+          "bo",
+          "br",
+          "cl",
+          "gb",
+          "it",
+          "us",
+          "uy"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Freddo",
+        "brand:wikidata": "Q28823999",
+        "name": "Freddo"
+      },
+      "original_logo_url": "https://graph.facebook.com/FreddoUSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/freddo-3a94a6.jpg",
+      "local_logo_path": "localbrand/logo/freddo-3a94a6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/FreddoUSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/freddo-3a94a6.jpg"
+      }
+    },
+    {
+      "displayName": "Gelateria di Berna",
+      "id": "gelateriadiberna-656c68",
+      "locationSet": {
+        "include": [
+          "ch"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Gelateria di Berna",
+        "brand:wikidata": "Q111714021",
+        "name": "Gelateria di Berna",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/gelateriadiberna/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gelateriadiberna-656c68.jpg",
+      "local_logo_path": "localbrand/logo/gelateriadiberna-656c68.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/gelateriadiberna/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gelateriadiberna-656c68.jpg"
+      }
+    },
+    {
+      "displayName": "Gelatissimo",
+      "id": "gelatissimo-17af97",
+      "locationSet": {
+        "include": [
+          "au",
+          "bd",
+          "cn",
+          "in",
+          "ph",
+          "sa",
+          "sg"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Gelatissimo",
+        "brand:wikidata": "Q105270111",
+        "name": "Gelatissimo",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/GelatissimoAU/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gelatissimo-17af97.jpg",
+      "local_logo_path": "localbrand/logo/gelatissimo-17af97.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GelatissimoAU/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gelatissimo-17af97.jpg"
+      }
+    },
+    {
+      "displayName": "Gelato Borelli",
+      "id": "gelatoborelli-9359b6",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Gelato Borelli",
+        "brand:wikidata": "Q132745627",
+        "name": "Gelato Borelli"
+      },
+      "original_logo_url": "https://graph.facebook.com/GelatoBorelli/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gelatoborelli-9359b6.png",
+      "local_logo_path": "localbrand/logo/gelatoborelli-9359b6.png",
+      "logos": {
+        "original": "https://graph.facebook.com/GelatoBorelli/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gelatoborelli-9359b6.png"
+      }
+    },
+    {
+      "displayName": "Glaces Moustache",
+      "id": "glacesmoustache-279c9d",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Glaces Moustache",
+        "brand:wikidata": "Q112202767",
+        "name": "Glaces Moustache"
+      },
+      "original_logo_url": "https://graph.facebook.com/MoustacheGlaces/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/glacesmoustache-279c9d.jpg",
+      "local_logo_path": "localbrand/logo/glacesmoustache-279c9d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MoustacheGlaces/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/glacesmoustache-279c9d.jpg"
+      }
+    },
+    {
+      "displayName": "Good Lood",
+      "id": "goodlood-944e1d",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Good Lood",
+        "brand:wikidata": "Q122978001",
+        "name": "Good Lood"
+      },
+      "original_logo_url": "https://graph.facebook.com/loodisgood/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goodlood-944e1d.jpg",
+      "local_logo_path": "localbrand/logo/goodlood-944e1d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/loodisgood/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goodlood-944e1d.jpg"
+      }
+    },
+    {
+      "displayName": "Graeter's",
+      "id": "graeters-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "greaters"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Graeter's",
+        "brand:wikidata": "Q5592430",
+        "name": "Graeter's",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/Graeters/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/graeters-8697a4.jpg",
+      "local_logo_path": "localbrand/logo/graeters-8697a4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Graeters/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/graeters-8697a4.jpg"
+      }
+    },
+    {
+      "displayName": "Grido",
+      "id": "grido-1a8176",
+      "locationSet": {
+        "include": [
+          "ar"
+        ]
+      },
+      "matchNames": [
+        "grido helado"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Grido",
+        "brand:wikidata": "Q5885724",
+        "name": "Grido"
+      },
+      "original_logo_url": "https://graph.facebook.com/GridoHelados/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grido-1a8176.jpg",
+      "local_logo_path": "localbrand/logo/grido-1a8176.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GridoHelados/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grido-1a8176.jpg"
+      }
+    },
+    {
+      "displayName": "Grom",
+      "id": "grom-48073a",
+      "locationSet": {
+        "include": [
+          "cn",
+          "cz",
+          "fr",
+          "gb",
+          "id",
+          "it",
+          "pt"
+        ]
+      },
+      "matchNames": [
+        "grom gelaterie artigianali",
+        "grom gelato"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Grom",
+        "brand:wikidata": "Q3776892",
+        "name": "Grom",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/GromItalia/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grom-48073a.jpg",
+      "local_logo_path": "localbrand/logo/grom-48073a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GromItalia/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grom-48073a.jpg"
+      }
+    },
+    {
+      "displayName": "Grycan",
+      "id": "grycan-944e1d",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Grycan",
+        "brand:wikidata": "Q97372889",
+        "name": "Grycan"
+      },
+      "original_logo_url": "https://graph.facebook.com/grycan/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grycan-944e1d.jpg",
+      "local_logo_path": "localbrand/logo/grycan-944e1d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/grycan/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grycan-944e1d.jpg"
+      }
+    },
+    {
+      "displayName": "Häagen-Dazs",
+      "id": "haagendazs-d2458e",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "mainland china"
+        ]
+      },
+      "note": "locationSet definition is equivalent to worldwide including Hong Kong and Macau, but excluding the remainder of China",
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Häagen-Dazs",
+        "brand:wikidata": "Q1143333",
+        "name": "Häagen-Dazs"
+      },
+      "original_logo_url": "https://graph.facebook.com/HaagenDazsJP/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/haagendazs-d2458e.jpg",
+      "local_logo_path": "localbrand/logo/haagendazs-d2458e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HaagenDazsJP/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/haagendazs-d2458e.jpg"
+      }
+    },
+    {
+      "displayName": "Handel's Homemade Ice Cream",
+      "id": "handelshomemadeicecream-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "handel's ice cream"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Handel's Homemade Ice Cream",
+        "brand:wikidata": "Q16983222",
+        "name": "Handel's Homemade Ice Cream",
+        "short_name": "Handel's"
+      },
+      "original_logo_url": "https://graph.facebook.com/handelshomemadeicecream/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/handelshomemadeicecream-8697a4.jpg",
+      "local_logo_path": "localbrand/logo/handelshomemadeicecream-8697a4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/handelshomemadeicecream/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/handelshomemadeicecream-8697a4.jpg"
+      }
+    },
+    {
+      "displayName": "Janny's Eis",
+      "id": "jannyseis-4549fd",
+      "locationSet": {
+        "include": [
+          "de"
+        ]
+      },
+      "matchNames": [
+        "janny's"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Janny's Eis",
+        "brand:wikidata": "Q1229703",
+        "name": "Janny's Eis"
+      },
+      "original_logo_url": "https://graph.facebook.com/JannysEis/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jannyseis-4549fd.jpg",
+      "local_logo_path": "localbrand/logo/jannyseis-4549fd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JannysEis/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jannyseis-4549fd.jpg"
+      }
+    },
+    {
+      "displayName": "Jeni's Splendid Ice Cream",
+      "id": "jenissplendidicecreams-53b2e0",
+      "locationSet": {
+        "include": [
+          "us-al.geojson",
+          "us-ca.geojson",
+          "us-dc.geojson",
+          "us-fl.geojson",
+          "us-ga.geojson",
+          "us-il.geojson",
+          "us-mo.geojson",
+          "us-nc.geojson",
+          "us-oh.geojson",
+          "us-pa.geojson",
+          "us-sc.geojson",
+          "us-tn.geojson",
+          "us-tx.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Jeni's Splendid Ice Creams",
+        "brand:wikidata": "Q16851196",
+        "name": "Jeni's Splendid Ice Creams",
+        "short_name": "Jeni's"
+      },
+      "original_logo_url": "https://graph.facebook.com/JenisIceCreams/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jenissplendidicecreams-53b2e0.jpg",
+      "local_logo_path": "localbrand/logo/jenissplendidicecreams-53b2e0.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/JenisIceCreams/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jenissplendidicecreams-53b2e0.jpg"
+      }
+    },
+    {
+      "displayName": "Jeremiah's Italian Ice",
+      "id": "jeremiahsitalianice-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Jeremiah's Italian Ice",
+        "brand:wikidata": "Q122583483",
+        "name": "Jeremiah's Italian Ice"
+      },
+      "original_logo_url": "https://graph.facebook.com/jeremiahsice/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jeremiahsitalianice-8697a4.jpg",
+      "local_logo_path": "localbrand/logo/jeremiahsitalianice-8697a4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/jeremiahsice/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jeremiahsitalianice-8697a4.jpg"
+      }
+    },
+    {
+      "displayName": "Jijonenca",
+      "id": "jijonenca-f20d3f",
+      "locationSet": {
+        "include": [
+          "ad",
+          "es"
+        ]
+      },
+      "matchNames": [
+        "heladería jijonenca",
+        "la jijonenca",
+        "la xixonenca",
+        "xixonenca"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Jijonenca",
+        "brand:wikidata": "Q109332228",
+        "name": "Jijonenca"
+      },
+      "original_logo_url": "https://graph.facebook.com/LaJijonenca/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jijonenca-f20d3f.jpg",
+      "local_logo_path": "localbrand/logo/jijonenca-f20d3f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LaJijonenca/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jijonenca-f20d3f.jpg"
+      }
+    },
+    {
+      "displayName": "La Michoacana",
+      "id": "lamichoacana-0e35d8",
+      "locationSet": {
+        "include": [
+          "mx",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "paleteria la michoacana"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "La Michoacana",
+        "brand:wikidata": "Q17118857",
+        "name": "La Michoacana"
+      },
+      "original_logo_url": "https://graph.facebook.com/LaMichoacana.sv/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lamichoacana-0e35d8.jpg",
+      "local_logo_path": "localbrand/logo/lamichoacana-0e35d8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LaMichoacana.sv/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lamichoacana-0e35d8.jpg"
+      }
+    },
+    {
+      "displayName": "La Romana",
+      "id": "laromana-6081d9",
+      "locationSet": {
+        "include": [
+          "ae",
+          "at",
+          "bh",
+          "de",
+          "es",
+          "fr",
+          "it",
+          "pt",
+          "ro",
+          "sa"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "La Romana",
+        "brand:wikidata": "Q136465428",
+        "name": "La Romana"
+      },
+      "original_logo_url": "https://graph.facebook.com/GelateriaLaRomana/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laromana-6081d9.jpg",
+      "local_logo_path": "localbrand/logo/laromana-6081d9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/GelateriaLaRomana/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laromana-6081d9.jpg"
+      }
+    },
+    {
+      "displayName": "Llaollao",
+      "id": "llaollao-dd9462",
+      "locationSet": {
+        "include": [
+          "au",
+          "ch",
+          "cl",
+          "co",
+          "ec",
+          "es",
+          "fr",
+          "gt",
+          "hr",
+          "id",
+          "iq",
+          "kw",
+          "ma",
+          "my",
+          "ph",
+          "pt",
+          "sa",
+          "sg",
+          "si",
+          "sv",
+          "us",
+          "vn"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Llaollao",
+        "brand:wikidata": "Q12163048",
+        "cuisine": "frozen_yogurt",
+        "name": "Llaollao"
+      },
+      "original_logo_url": "https://graph.facebook.com/llaollao/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/llaollao-dd9462.jpg",
+      "local_logo_path": "localbrand/logo/llaollao-dd9462.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/llaollao/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/llaollao-dd9462.jpg"
+      }
+    },
+    {
+      "displayName": "Lody Bonano",
+      "id": "lodybonano-944e1d",
+      "locationSet": {
+        "include": [
+          "pl"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Lody Bonano",
+        "brand:wikidata": "Q126195991",
+        "name": "Lody Bonano",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/LodyBonano/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lodybonano-944e1d.jpg",
+      "local_logo_path": "localbrand/logo/lodybonano-944e1d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LodyBonano/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lodybonano-944e1d.jpg"
+      }
+    },
+    {
+      "displayName": "Luciano",
+      "id": "luciano-e6af0f",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Luciano",
+        "brand:wikidata": "Q23978250",
+        "name": "Luciano"
+      },
+      "original_logo_url": "https://graph.facebook.com/LucianoDelft/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/luciano-e6af0f.jpg",
+      "local_logo_path": "localbrand/logo/luciano-e6af0f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LucianoDelft/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/luciano-e6af0f.jpg"
+      }
+    },
+    {
+      "displayName": "Marble Slab Creamery",
+      "id": "marbleslabcreamery-5880a0",
+      "locationSet": {
+        "include": [
+          "001"
+        ],
+        "exclude": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Marble Slab Creamery",
+        "brand:wikidata": "Q17020087",
+        "name": "Marble Slab Creamery"
+      }
+    },
+    {
+      "displayName": "Menchie's",
+      "id": "menchies-411174",
+      "locationSet": {
+        "include": [
+          "ae",
+          "bh",
+          "bs",
+          "ca",
+          "cn",
+          "gb",
+          "in",
+          "jp",
+          "kw",
+          "qa",
+          "sa",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "menchie's frozen yoghurt",
+        "menchie's frozen yogurt"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Menchie's",
+        "brand:wikidata": "Q6816528",
+        "cuisine": "frozen_yogurt",
+        "name": "Menchie's"
+      },
+      "original_logo_url": "https://graph.facebook.com/MyMenchies/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/menchies-411174.jpg",
+      "local_logo_path": "localbrand/logo/menchies-411174.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MyMenchies/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/menchies-411174.jpg"
+      }
+    },
+    {
+      "displayName": "Messina",
+      "id": "messina-e699dd",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "matchNames": [
+        "gelato messina"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Messina",
+        "brand:wikidata": "Q120668671",
+        "name": "Messina"
+      },
+      "original_logo_url": "https://graph.facebook.com/gelatomessina/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/messina-e699dd.jpg",
+      "local_logo_path": "localbrand/logo/messina-e699dd.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/gelatomessina/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/messina-e699dd.jpg"
+      }
+    },
+    {
+      "displayName": "Milky Lane",
+      "id": "milkylane-2b047e",
+      "locationSet": {
+        "include": [
+          "za"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Milky Lane",
+        "brand:wikidata": "Q128223693",
+        "name": "Milky Lane"
+      },
+      "original_logo_url": "https://graph.facebook.com/MilkyLaneSA/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/milkylane-2b047e.jpg",
+      "local_logo_path": "localbrand/logo/milkylane-2b047e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/MilkyLaneSA/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/milkylane-2b047e.jpg"
+      }
+    },
+    {
+      "displayName": "Naturals",
+      "id": "naturals-c284d9",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Naturals",
+        "brand:wikidata": "Q24439154",
+        "name": "Naturals"
+      },
+      "original_logo_url": "https://graph.facebook.com/Naturalicecream/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/naturals-c284d9.jpg",
+      "local_logo_path": "localbrand/logo/naturals-c284d9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/Naturalicecream/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/naturals-c284d9.jpg"
+      }
+    },
+    {
+      "displayName": "Nutrisa",
+      "id": "nutrisa-7f1444",
+      "locationSet": {
+        "include": [
+          "mx"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Nutrisa",
+        "brand:wikidata": "Q113204689",
+        "name": "Nutrisa"
+      },
+      "original_logo_url": "https://graph.facebook.com/NutrisaMx/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nutrisa-7f1444.png",
+      "local_logo_path": "localbrand/logo/nutrisa-7f1444.png",
+      "logos": {
+        "original": "https://graph.facebook.com/NutrisaMx/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nutrisa-7f1444.png"
+      }
+    },
+    {
+      "displayName": "Oggi Sorvetes",
+      "id": "oggisorvetes-9359b6",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Oggi Sorvetes",
+        "brand:wikidata": "Q118946030",
+        "name": "Oggi Sorvetes"
+      },
+      "original_logo_url": "https://graph.facebook.com/oggiosorvetesoficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oggisorvetes-9359b6.jpg",
+      "local_logo_path": "localbrand/logo/oggisorvetes-9359b6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/oggiosorvetesoficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oggisorvetes-9359b6.jpg"
+      }
+    },
+    {
+      "displayName": "Orange Leaf",
+      "id": "orangeleaffrozenyogurt-4cfb80",
+      "locationSet": {
+        "include": [
+          "au",
+          "cn",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Orange Leaf Frozen Yogurt",
+        "brand:wikidata": "Q18155467",
+        "name": "Orange Leaf Frozen Yogurt"
+      },
+      "original_logo_url": "https://graph.facebook.com/orangeleaf/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orangeleaffrozenyogurt-4cfb80.png",
+      "local_logo_path": "localbrand/logo/orangeleaffrozenyogurt-4cfb80.png",
+      "logos": {
+        "original": "https://graph.facebook.com/orangeleaf/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orangeleaffrozenyogurt-4cfb80.png"
+      }
+    },
+    {
+      "displayName": "Peachwave",
+      "id": "peachwave-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "peachwave frozen yogurt & gelato",
+        "peachwave self serve frozen yogurt"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Peachwave",
+        "brand:wikidata": "Q109329113",
+        "cuisine": "frozen_yogurt",
+        "name": "Peachwave"
+      },
+      "original_logo_url": "https://graph.facebook.com/peachwave/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/peachwave-8697a4.jpg",
+      "local_logo_path": "localbrand/logo/peachwave-8697a4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/peachwave/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/peachwave-8697a4.jpg"
+      }
+    },
+    {
+      "displayName": "Pinkberry",
+      "id": "pinkberry-87d971",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Pinkberry",
+        "brand:wikidata": "Q2904053",
+        "cuisine": "frozen_yogurt",
+        "name": "Pinkberry",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/pinkberry/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pinkberry-87d971.jpg",
+      "local_logo_path": "localbrand/logo/pinkberry-87d971.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/pinkberry/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pinkberry-87d971.jpg"
+      }
+    },
+    {
+      "displayName": "Polar Bear",
+      "id": "polarbear-c284d9",
+      "locationSet": {
+        "include": [
+          "in"
+        ]
+      },
+      "matchNames": [
+        "polar bear ice creams"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Polar Bear",
+        "brand:wikidata": "Q124374249",
+        "delivery": "yes",
+        "name": "Polar Bear",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Pops",
+      "id": "pops-74244e",
+      "locationSet": {
+        "include": [
+          "cr"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Pops",
+        "brand:wikidata": "Q119104181",
+        "name": "Pops"
+      },
+      "original_logo_url": "https://graph.facebook.com/POPSCostaRica/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pops-74244e.jpg",
+      "local_logo_path": "localbrand/logo/pops-74244e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/POPSCostaRica/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pops-74244e.jpg"
+      }
+    },
+    {
+      "displayName": "Popsy",
+      "id": "popsy-d81526",
+      "locationSet": {
+        "include": [
+          "co"
+        ]
+      },
+      "matchNames": [
+        "heladeria popsi",
+        "heladeria popsy",
+        "popsi",
+        "potsi"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Popsy",
+        "brand:wikidata": "Q100156171",
+        "name": "Popsy",
+        "official_name": "Helados Gourmet Popsy",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/HeladosPopsy/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/popsy-d81526.jpg",
+      "local_logo_path": "localbrand/logo/popsy-d81526.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HeladosPopsy/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/popsy-d81526.jpg"
+      }
+    },
+    {
+      "displayName": "Ralph's Italian Ices",
+      "id": "ralphsitalianices-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "ralphs famous italian ices and ice cream",
+        "ralphs italian ice",
+        "ralphs italian ices and ice cream"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Ralph's Italian Ices",
+        "brand:wikidata": "Q62576909",
+        "name": "Ralph's Italian Ices",
+        "official_name": "Ralph's Famous Italian Ices"
+      },
+      "original_logo_url": "https://graph.facebook.com/RalphsFamous/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ralphsitalianices-8697a4.jpg",
+      "local_logo_path": "localbrand/logo/ralphsitalianices-8697a4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RalphsFamous/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ralphsitalianices-8697a4.jpg"
+      }
+    },
+    {
+      "displayName": "Red Mango",
+      "id": "redmango-73fcc9",
+      "locationSet": {
+        "include": [
+          "ae",
+          "bh",
+          "eg",
+          "kw",
+          "mx",
+          "qa",
+          "sa",
+          "sv",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Red Mango",
+        "brand:wikidata": "Q7304565",
+        "name": "Red Mango"
+      },
+      "original_logo_url": "https://graph.facebook.com/RedMangoTurkey/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/redmango-73fcc9.jpg",
+      "local_logo_path": "localbrand/logo/redmango-73fcc9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RedMangoTurkey/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/redmango-73fcc9.jpg"
+      }
+    },
+    {
+      "displayName": "Regma",
+      "id": "regma-2a89e9",
+      "locationSet": {
+        "include": [
+          "es"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Regma",
+        "brand:wikidata": "Q108135319",
+        "name": "Regma"
+      },
+      "original_logo_url": "https://graph.facebook.com/RegmaOficial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/regma-2a89e9.jpg",
+      "local_logo_path": "localbrand/logo/regma-2a89e9.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/RegmaOficial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/regma-2a89e9.jpg"
+      }
+    },
+    {
+      "displayName": "Rita's Italian Ice",
+      "id": "ritasitalianice-a24275",
+      "locationSet": {
+        "include": [
+          "ph",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "rita's italian ice & frozen custard",
+        "ritas",
+        "ritas water ice"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Rita's Italian Ice",
+        "brand:wikidata": "Q7336456",
+        "name": "Rita's Italian Ice"
+      },
+      "original_logo_url": "https://graph.facebook.com/RitasItalianIceCompany/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ritasitalianice-a24275.png",
+      "local_logo_path": "localbrand/logo/ritasitalianice-a24275.png",
+      "logos": {
+        "original": "https://graph.facebook.com/RitasItalianIceCompany/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ritasitalianice-a24275.png"
+      }
+    },
+    {
+      "displayName": "Salt & Straw",
+      "id": "saltandstraw-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Salt & Straw",
+        "brand:wikidata": "Q18157659",
+        "name": "Salt & Straw"
+      },
+      "original_logo_url": "https://graph.facebook.com/SaltandStraw/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saltandstraw-8697a4.jpg",
+      "local_logo_path": "localbrand/logo/saltandstraw-8697a4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SaltandStraw/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saltandstraw-8697a4.jpg"
+      }
+    },
+    {
+      "displayName": "San Paolo Gelato & Café",
+      "id": "sanpaologelatoandcafe-9359b6",
+      "locationSet": {
+        "include": [
+          "br"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "San Paolo Gelato & Café",
+        "brand:wikidata": "Q132745494",
+        "name": "San Paolo Gelato & Café",
+        "short_name": "San Paolo"
+      },
+      "original_logo_url": "https://graph.facebook.com/sanpaologelato/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sanpaologelatoandcafe-9359b6.jpg",
+      "local_logo_path": "localbrand/logo/sanpaologelatoandcafe-9359b6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sanpaologelato/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sanpaologelatoandcafe-9359b6.jpg"
+      }
+    },
+    {
+      "displayName": "Sarita",
+      "id": "sarita-ff2f38",
+      "locationSet": {
+        "include": [
+          "bz",
+          "gt",
+          "hn",
+          "sv"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Sarita",
+        "name": "Sarita"
+      }
+    },
+    {
+      "displayName": "Shake's",
+      "id": "shakes-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Shake's",
+        "brand:wikidata": "Q17032842",
+        "name": "Shake's",
+        "official_name": "Shake's Frozen Custard"
+      },
+      "original_logo_url": "https://graph.facebook.com/shakeswlr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shakes-8697a4.png",
+      "local_logo_path": "localbrand/logo/shakes-8697a4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/shakeswlr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shakes-8697a4.png"
+      }
+    },
+    {
+      "displayName": "smöoy",
+      "id": "smooy-ae897d",
+      "locationSet": {
+        "include": [
+          "ao",
+          "ci",
+          "cn",
+          "dz",
+          "ec",
+          "es",
+          "fr",
+          "gb",
+          "gn",
+          "it",
+          "ma",
+          "pa",
+          "pe",
+          "pt",
+          "sa"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "smöoy",
+        "brand:wikidata": "Q21573945",
+        "name": "smöoy",
+        "official_name": "Softy Cream"
+      },
+      "original_logo_url": "https://graph.facebook.com/smooy/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smooy-ae897d.jpg",
+      "local_logo_path": "localbrand/logo/smooy-ae897d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/smooy/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smooy-ae897d.jpg"
+      }
+    },
+    {
+      "displayName": "SomiSomi",
+      "id": "somisomi-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "SomiSomi",
+        "brand:wikidata": "Q104879354",
+        "cuisine": "soft_serve;taiyaki;bungeoppang",
+        "name": "SomiSomi",
+        "official_name": "SomiSomi Soft Serve & Taiyaki"
+      },
+      "original_logo_url": "https://graph.facebook.com/somisomiicecream/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/somisomi-8697a4.png",
+      "local_logo_path": "localbrand/logo/somisomi-8697a4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/somisomiicecream/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/somisomi-8697a4.png"
+      }
+    },
+    {
+      "displayName": "Sub Zero",
+      "id": "subzero-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Sub Zero",
+        "brand:wikidata": "Q108413623",
+        "name": "Sub Zero",
+        "official_name": "Sub Zero Nitrogen Ice Cream"
+      },
+      "original_logo_url": "https://graph.facebook.com/subzeroicecream/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/subzero-8697a4.png",
+      "local_logo_path": "localbrand/logo/subzero-8697a4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/subzeroicecream/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/subzero-8697a4.png"
+      }
+    },
+    {
+      "displayName": "Sweet Jesus",
+      "id": "sweetjesus-202186",
+      "locationSet": {
+        "include": [
+          "ca"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Sweet Jesus",
+        "brand:wikidata": "Q135969904",
+        "name": "Sweet Jesus"
+      },
+      "original_logo_url": "https://graph.facebook.com/SweetJesus4Life/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sweetjesus-202186.jpg",
+      "local_logo_path": "localbrand/logo/sweetjesus-202186.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SweetJesus4Life/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sweetjesus-202186.jpg"
+      }
+    },
+    {
+      "displayName": "sweetFrog",
+      "id": "sweetfrog-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "matchNames": [
+        "sweetfrog frozen yogurt",
+        "sweetfrog premium frozen yogurt"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "sweetFrog",
+        "brand:wikidata": "Q16952110",
+        "cuisine": "frozen_yogurt",
+        "name": "sweetFrog"
+      },
+      "original_logo_url": "https://graph.facebook.com/sweetfrogfroyo/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sweetfrog-8697a4.jpg",
+      "local_logo_path": "localbrand/logo/sweetfrog-8697a4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/sweetfrogfroyo/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sweetfrog-8697a4.jpg"
+      }
+    },
+    {
+      "displayName": "Swensen's",
+      "id": "swensens-570cf0",
+      "locationSet": {
+        "include": [
+          "bn",
+          "kh",
+          "la",
+          "mm",
+          "my",
+          "th",
+          "tw",
+          "us",
+          "vn"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Swensen's",
+        "brand:wikidata": "Q6640658",
+        "name": "Swensen's"
+      }
+    },
+    {
+      "displayName": "TCBY",
+      "id": "tcby-87d971",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "TCBY",
+        "brand:wikidata": "Q7669631",
+        "cuisine": "frozen_yogurt",
+        "name": "TCBY",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/tcby/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tcby-87d971.jpg",
+      "local_logo_path": "localbrand/logo/tcby-87d971.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/tcby/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tcby-87d971.jpg"
+      }
+    },
+    {
+      "displayName": "The Baked Bear",
+      "id": "thebakedbear-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "The Baked Bear",
+        "brand:wikidata": "Q110714390",
+        "name": "The Baked Bear",
+        "short_name": "Baked Bear",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/TheBakedBear/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thebakedbear-8697a4.jpg",
+      "local_logo_path": "localbrand/logo/thebakedbear-8697a4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/TheBakedBear/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thebakedbear-8697a4.jpg"
+      }
+    },
+    {
+      "displayName": "Toscana",
+      "id": "toscana-e6af0f",
+      "locationSet": {
+        "include": [
+          "nl"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Toscana",
+        "brand:wikidata": "Q92555442",
+        "name": "Toscana"
+      },
+      "original_logo_url": "https://graph.facebook.com/toscana.ijssalon/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/toscana-e6af0f.jpg",
+      "local_logo_path": "localbrand/logo/toscana-e6af0f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/toscana.ijssalon/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/toscana-e6af0f.jpg"
+      }
+    },
+    {
+      "displayName": "Twistee Treat",
+      "id": "twisteetreat-a9be0b",
+      "locationSet": {
+        "include": [
+          "ca",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Twistee Treat",
+        "brand:wikidata": "Q7858562",
+        "name": "Twistee Treat"
+      },
+      "original_logo_url": "https://graph.facebook.com/twisteetreatusa/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/twisteetreat-a9be0b.jpg",
+      "local_logo_path": "localbrand/logo/twisteetreat-a9be0b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/twisteetreatusa/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/twisteetreat-a9be0b.jpg"
+      }
+    },
+    {
+      "displayName": "Van Leeuwen Ice Cream",
+      "id": "vanleeuwenicecream-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Van Leeuwen Ice Cream",
+        "brand:wikidata": "Q113632545",
+        "diet:vegan": "yes",
+        "name": "Van Leeuwen Ice Cream",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/vanleeuwenicecream/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vanleeuwenicecream-8697a4.png",
+      "local_logo_path": "localbrand/logo/vanleeuwenicecream-8697a4.png",
+      "logos": {
+        "original": "https://graph.facebook.com/vanleeuwenicecream/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vanleeuwenicecream-8697a4.png"
+      }
+    },
+    {
+      "displayName": "Veganista",
+      "id": "veganista-131346",
+      "locationSet": {
+        "include": [
+          "at"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Veganista",
+        "brand:wikidata": "Q106351886",
+        "diet:vegan": "only",
+        "name": "Veganista"
+      },
+      "original_logo_url": "https://graph.facebook.com/VeganistaIceCream/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/veganista-131346.jpg",
+      "local_logo_path": "localbrand/logo/veganista-131346.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/VeganistaIceCream/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/veganista-131346.jpg"
+      }
+    },
+    {
+      "displayName": "Wendy's Milk Bar",
+      "id": "wendysmilkbar-e699dd",
+      "locationSet": {
+        "include": [
+          "au"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Wendy's Milk Bar",
+        "brand:wikidata": "Q7982571",
+        "name": "Wendy's Milk Bar",
+        "short_name": "Wendy's"
+      },
+      "original_logo_url": "https://graph.facebook.com/wendysmilkbar/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wendysmilkbar-e699dd.png",
+      "local_logo_path": "localbrand/logo/wendysmilkbar-e699dd.png",
+      "logos": {
+        "original": "https://graph.facebook.com/wendysmilkbar/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wendysmilkbar-e699dd.png"
+      }
+    },
+    {
+      "displayName": "Yo-Chi",
+      "id": "yochi-acda49",
+      "locationSet": {
+        "include": [
+          "au",
+          "gb-eng",
+          "sg"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Yo-Chi",
+        "brand:wikidata": "Q138569799",
+        "cuisine": "frozen_yogurt",
+        "name": "Yo-Chi"
+      },
+      "original_logo_url": "https://graph.facebook.com/iloveyochi/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yochi-acda49.jpg",
+      "local_logo_path": "localbrand/logo/yochi-acda49.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/iloveyochi/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yochi-acda49.jpg"
+      }
+    },
+    {
+      "displayName": "Yogen Früz",
+      "id": "yogenfruz-87d971",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Yogen Früz",
+        "brand:wikidata": "Q8054358",
+        "cuisine": "frozen_yogurt",
+        "name": "Yogen Früz",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/yogenfruz/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yogenfruz-87d971.png",
+      "local_logo_path": "localbrand/logo/yogenfruz-87d971.png",
+      "logos": {
+        "original": "https://graph.facebook.com/yogenfruz/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yogenfruz-87d971.png"
+      }
+    },
+    {
+      "displayName": "Yogorino",
+      "id": "yogorino-87d971",
+      "locationSet": {
+        "include": [
+          "001"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Yogorino",
+        "brand:wikidata": "Q131604994",
+        "cuisine": "frozen_yogurt",
+        "name": "Yogorino",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/YogorinoPH/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yogorino-87d971.jpg",
+      "local_logo_path": "localbrand/logo/yogorino-87d971.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/YogorinoPH/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yogorino-87d971.jpg"
+      }
+    },
+    {
+      "displayName": "Yogurt Factory",
+      "id": "yogurtfactory-321c46",
+      "locationSet": {
+        "include": [
+          "be",
+          "fr",
+          "lu"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Yogurt Factory",
+        "brand:wikidata": "Q104600544",
+        "cuisine": "frozen_yogurt",
+        "name": "Yogurt Factory",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/YogurtFactory.fr/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yogurtfactory-321c46.jpg",
+      "local_logo_path": "localbrand/logo/yogurtfactory-321c46.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/YogurtFactory.fr/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yogurtfactory-321c46.jpg"
+      }
+    },
+    {
+      "displayName": "Yogurt Mountain",
+      "id": "yogurtmountain-8697a4",
+      "locationSet": {
+        "include": [
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Yogurt Mountain",
+        "brand:wikidata": "Q8054427",
+        "cuisine": "frozen_yogurt",
+        "name": "Yogurt Mountain",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/YogurtMountain/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yogurtmountain-8697a4.jpg",
+      "local_logo_path": "localbrand/logo/yogurtmountain-8697a4.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/YogurtMountain/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yogurtmountain-8697a4.jpg"
+      }
+    },
+    {
+      "displayName": "Yogurtland",
+      "id": "yogurtland-4111ef",
+      "locationSet": {
+        "include": [
+          "ae",
+          "au",
+          "bh",
+          "kw",
+          "mm",
+          "qa",
+          "sa",
+          "sg",
+          "th",
+          "us",
+          "ve"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Yogurtland",
+        "brand:wikidata": "Q8054428",
+        "cuisine": "frozen_yogurt",
+        "name": "Yogurtland",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/yogurtland/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yogurtland-4111ef.png",
+      "local_logo_path": "localbrand/logo/yogurtland-4111ef.png",
+      "logos": {
+        "original": "https://graph.facebook.com/yogurtland/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yogurtland-4111ef.png"
+      }
+    },
+    {
+      "displayName": "Yumilicious",
+      "id": "yumilicious-0da7a6",
+      "locationSet": {
+        "include": [
+          "us-tx.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Yumilicious",
+        "brand:wikidata": "Q8061133",
+        "cuisine": "frozen_yogurt",
+        "name": "Yumilicious",
+        "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/yumiliciousyogurt/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yumilicious-0da7a6.jpg",
+      "local_logo_path": "localbrand/logo/yumilicious-0da7a6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/yumiliciousyogurt/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yumilicious-0da7a6.jpg"
+      }
+    },
+    {
+      "displayName": "Айсберри",
+      "id": "752309-ee0efa",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Айсберри",
+        "brand:wikidata": "Q126909850",
+        "name": "Айсберри"
+      }
+    },
+    {
+      "displayName": "Славица",
+      "id": "slavica-ee0efa",
+      "locationSet": {
+        "include": [
+          "ru"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Славица",
+        "name": "Славица",
+        "name:en": "Slavica",
+        "name:ru": "Славица"
+      }
+    },
+    {
+      "displayName": "ბასკინ რობინსი",
+      "id": "baskinrobbins-9f5e40",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "ბასკინ რობინსი",
+        "brand:en": "Baskin-Robbins",
+        "brand:ka": "ბასკინ რობინსი",
+        "brand:wikidata": "Q584601",
+        "name": "ბასკინ რობინსი",
+        "name:en": "Baskin-Robbins",
+        "name:ka": "ბასკინ რობინსი",
+        "name:ru": "Баскин Роббинс",
+        "takeaway": "only"
+      },
+      "original_logo_url": "https://graph.facebook.com/baskinrobbinsUS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baskinrobbins-9f5e40.jpg",
+      "local_logo_path": "localbrand/logo/baskinrobbins-9f5e40.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/baskinrobbinsUS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baskinrobbins-9f5e40.jpg"
+      }
+    },
+    {
+      "displayName": "თოლია",
+      "id": "tolia-9f5e40",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "თოლია",
+        "brand:en": "Tolia",
+        "brand:ka": "თოლია",
+        "brand:ru": "Толия",
+        "brand:wikidata": "Q131469955",
+        "name": "თოლია",
+        "name:en": "Tolia",
+        "name:ka": "თოლია",
+        "name:ru": "Толия",
+        "takeaway": "only"
+      },
+      "original_logo_url": "https://graph.facebook.com/toliaicecream/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tolia-9f5e40.jpg",
+      "local_logo_path": "localbrand/logo/tolia-9f5e40.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/toliaicecream/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tolia-9f5e40.jpg"
+      }
+    },
+    {
+      "displayName": "ლუქა პოლარე",
+      "id": "lucapolare-9f5e40",
+      "locationSet": {
+        "include": [
+          "ge"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "ლუკა პოლარე",
+        "brand:en": "Luca Polare",
+        "brand:ka": "ლუკა პოლარე",
+        "brand:ru": "Лука Поларе",
+        "brand:wikidata": "Q131469957",
+        "name": "ლუკა პოლარე",
+        "name:en": "Luca Polare",
+        "name:ka": "ლუკა პოლარე",
+        "name:ru": "Лука Поларе"
+      },
+      "original_logo_url": "https://graph.facebook.com/LucaPolareOriginal/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lucapolare-9f5e40.jpg",
+      "local_logo_path": "localbrand/logo/lucapolare-9f5e40.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/LucaPolareOriginal/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lucapolare-9f5e40.jpg"
+      }
+    },
+    {
+      "displayName": "배스킨라빈스",
+      "id": "baskinrobbins-03d32e",
+      "locationSet": {
+        "include": [
+          "kr"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "배스킨라빈스",
+        "brand:en": "Baskin-Robbins",
+        "brand:ja": "バスキン・ロビンス",
+        "brand:ka": "ბასკინ რობინსი",
+        "brand:ko": "배스킨라빈스",
+        "brand:wikidata": "Q584601",
+        "brand:zh": "31冰淇淋",
+        "name": "배스킨라빈스",
+        "name:en": "Baskin-Robbins",
+        "name:ja": "サーティワンアイスクリーム",
+        "name:ka": "ბასკინ რობინსი",
+        "name:ko": "배스킨라빈스"
+      },
+      "original_logo_url": "https://graph.facebook.com/baskinrobbinsUS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baskinrobbins-03d32e.jpg",
+      "local_logo_path": "localbrand/logo/baskinrobbins-03d32e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/baskinrobbinsUS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baskinrobbins-03d32e.jpg"
+      }
+    },
+    {
+      "displayName": "サーティワンアイスクリーム",
+      "id": "baskinrobbins-7ba154",
+      "locationSet": {
+        "include": [
+          "jp"
+        ]
+      },
+      "matchNames": [
+        "31アイスクリーム",
+        "サーティーワン"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "バスキン・ロビンス",
+        "brand:en": "Baskin-Robbins",
+        "brand:ja": "バスキン・ロビンス",
+        "brand:wikidata": "Q584601",
+        "name": "サーティワンアイスクリーム",
+        "name:en": "Baskin-Robbins",
+        "name:ja": "サーティワンアイスクリーム"
+      },
+      "original_logo_url": "https://graph.facebook.com/baskinrobbinsUS/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baskinrobbins-7ba154.jpg",
+      "local_logo_path": "localbrand/logo/baskinrobbins-7ba154.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/baskinrobbinsUS/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baskinrobbins-7ba154.jpg"
+      }
+    },
+    {
+      "displayName": "哈根达斯",
+      "id": "haagendazs-136fc8",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "哈根达斯",
+        "brand:wikidata": "Q1143333",
+        "name": "哈根达斯",
+        "name:en": "Häagen-Dazs",
+        "name:zh": "哈根达斯"
+      },
+      "original_logo_url": "https://graph.facebook.com/HaagenDazsJP/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/haagendazs-136fc8.jpg",
+      "local_logo_path": "localbrand/logo/haagendazs-136fc8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/HaagenDazsJP/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/haagendazs-136fc8.jpg"
+      }
+    },
+    {
+      "displayName": "野人先生",
+      "id": "95c33c-136fc8",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "野人先生",
+        "brand:wikidata": "Q135686550",
+        "name": "野人先生",
+        "name:zh": "野人先生"
+      }
+    },
+    {
+      "displayName": "鮮芋仙",
+      "id": "meetfresh-cc8b8b",
+      "locationSet": {
+        "include": [
+          "tw"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "鮮芋仙",
+        "brand:en": "Meet Fresh",
+        "brand:wikidata": "Q11172707",
+        "brand:zh": "鮮芋仙",
+        "cuisine": "taiwanese",
+        "name": "鮮芋仙",
+        "name:en": "Meet Fresh",
+        "name:zh": "鮮芋仙"
+      },
+      "original_logo_url": "https://graph.facebook.com/meetfreshtaiwan/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meetfresh-cc8b8b.jpg",
+      "local_logo_path": "localbrand/logo/meetfresh-cc8b8b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/meetfreshtaiwan/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meetfresh-cc8b8b.jpg"
+      }
+    },
+    {
+      "displayName": "鮮芋仙 Meet Fresh",
+      "id": "meetfresh-cccbe8",
+      "locationSet": {
+        "include": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "鮮芋仙 Meet Fresh",
+        "brand:en": "Meet Fresh",
+        "brand:wikidata": "Q11172707",
+        "brand:zh": "鮮芋仙",
+        "cuisine": "taiwanese",
+        "name": "鮮芋仙 Meet Fresh",
+        "name:en": "Meet Fresh",
+        "name:zh": "鮮芋仙"
+      },
+      "original_logo_url": "https://graph.facebook.com/meetfreshtaiwan/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meetfresh-cccbe8.jpg",
+      "local_logo_path": "localbrand/logo/meetfresh-cccbe8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/meetfreshtaiwan/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meetfresh-cccbe8.jpg"
+      }
+    },
+    {
+      "displayName": "鲜芋仙",
+      "id": "meetfresh-136fc8",
+      "locationSet": {
+        "include": [
+          "cn"
+        ],
+        "exclude": [
+          "hk",
+          "mo"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "鲜芋仙",
+        "brand:en": "Meet Fresh",
+        "brand:wikidata": "Q11172707",
+        "brand:zh": "鲜芋仙",
+        "cuisine": "taiwanese",
+        "name": "鲜芋仙",
+        "name:en": "Meet Fresh",
+        "name:zh": "鲜芋仙"
+      },
+      "original_logo_url": "https://graph.facebook.com/meetfreshtaiwan/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meetfresh-136fc8.jpg",
+      "local_logo_path": "localbrand/logo/meetfresh-136fc8.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/meetfreshtaiwan/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meetfresh-136fc8.jpg"
+      }
+    },
+    {
+      "displayName": "麦甜艾斯",
+      "id": "myteaice-460b92",
+      "locationSet": {
+        "include": [
+          "cn"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "麦甜艾斯",
+        "brand:en": "My-Teaice",
+        "brand:wikidata": "Q111744761",
+        "brand:zh": "麦甜艾斯",
+        "name": "麦甜艾斯",
+        "name:en": "My-Teaice",
+        "name:zh": "麦甜艾斯"
+      }
+    }
+  ]
+}

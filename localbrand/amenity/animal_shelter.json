@@ -1,0 +1,63 @@
+{
+  "properties": {
+    "path": "brands/amenity/animal_shelter",
+    "exclude": {
+      "generic": [
+        "^(animal shelter|parc de vaccination|fish)$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Blue Cross Rehoming Centre",
+      "id": "bluecrossrehomingcentre-ae7821",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "animal_shelter",
+        "brand": "Blue Cross",
+        "brand:wikidata": "Q3520039",
+        "name": "Blue Cross Rehoming Centre"
+      },
+      "original_logo_url": "https://graph.facebook.com/thebluecrossUK/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bluecrossrehomingcentre-ae7821.jpg",
+      "local_logo_path": "localbrand/logo/bluecrossrehomingcentre-ae7821.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/thebluecrossUK/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bluecrossrehomingcentre-ae7821.jpg"
+      }
+    },
+    {
+      "displayName": "Société Protectrice des Animaux (SPA)",
+      "id": "spa-89458d",
+      "locationSet": {
+        "include": [
+          "fr"
+        ]
+      },
+      "preserveTags": [
+        "^name"
+      ],
+      "tags": {
+        "amenity": "animal_shelter",
+        "brand": "SPA",
+        "brand:wikidata": "Q47391644",
+        "name": "SPA",
+        "official_name": "Société protectrice des animaux"
+      },
+      "original_logo_url": "https://graph.facebook.com/spaofficiel/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spa-89458d.jpg",
+      "local_logo_path": "localbrand/logo/spa-89458d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/spaofficiel/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spa-89458d.jpg"
+      }
+    }
+  ]
+}
