@@ -1336,6 +1336,13 @@
         "brand:wikidata": "Q7205598",
         "name": "Plus",
         "shop": "mobile_phone"
+      },
+      "original_logo_url": "https://graph.facebook.com/plus/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/plus-914a2a.jpg",
+      "local_logo_path": "localbrand/logo/plus-914a2a.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/plus/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/plus-914a2a.jpg"
       }
     },
     {
@@ -1398,6 +1405,13 @@
         "brand:wikidata": "Q7398410",
         "name": "Safaricom",
         "shop": "mobile_phone"
+      },
+      "original_logo_url": "https://graph.facebook.com/SafaricomPLC/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/safaricom-46e307.jpg",
+      "local_logo_path": "localbrand/logo/safaricom-46e307.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/SafaricomPLC/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/safaricom-46e307.jpg"
       }
     },
     {

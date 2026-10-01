@@ -564,6 +564,13 @@
         "brand:wikidata": "Q2007823",
         "name": "ΟΠΑΠ",
         "shop": "bookmaker"
+      },
+      "original_logo_url": "https://graph.facebook.com/OPAPsocial/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/942bba-caf969.jpg",
+      "local_logo_path": "localbrand/logo/942bba-caf969.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/OPAPsocial/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/942bba-caf969.jpg"
       }
     },
     {

@@ -1259,6 +1259,13 @@
         "operator": "Nextbike",
         "operator:type": "private",
         "operator:wikidata": "Q2351279"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_Bilbaobizi.png",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bilbaobizi-25e16d.png",
+      "local_logo_path": "localbrand/logo/bilbaobizi-25e16d.png",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_Bilbaobizi.png",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bilbaobizi-25e16d.png"
       }
     },
     {
@@ -2503,6 +2510,13 @@
         "fee": "yes",
         "operator": "Evo Car Share",
         "operator:wikidata": "Q26553214"
+      },
+      "original_logo_url": "https://graph.facebook.com/evocarshare/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/evolve-9d816b.jpg",
+      "local_logo_path": "localbrand/logo/evolve-9d816b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/evocarshare/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/evolve-9d816b.jpg"
       }
     },
     {
@@ -3403,6 +3417,13 @@
         "operator": "Roovee",
         "operator:type": "private",
         "operator:wikidata": "Q60860205"
+      },
+      "original_logo_url": "https://graph.facebook.com/krotrm/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/krotower-4d145c.jpg",
+      "local_logo_path": "localbrand/logo/krotower-4d145c.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/krotrm/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/krotower-4d145c.jpg"
       }
     },
     {
@@ -5669,6 +5690,13 @@
         "network:wikidata": "Q7618000",
         "operator": "City Bikes",
         "operator:type": "private"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/CityBikesStockholm.jpg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stockholmcitybikes-bc0237.jpg",
+      "local_logo_path": "localbrand/logo/stockholmcitybikes-bc0237.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/4/40/CityBikesStockholm.jpg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stockholmcitybikes-bc0237.jpg"
       }
     },
     {

@@ -2660,6 +2660,13 @@
         "brand:wikidata": "Q23903628",
         "name": "H-Hotels",
         "tourism": "hotel"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Berlin%2C_Germany_Jul_09%2C_2022_09-11-28_PM.jpeg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hhotels-bfd9c3.jpg",
+      "local_logo_path": "localbrand/logo/hhotels-bfd9c3.jpg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Berlin%2C_Germany_Jul_09%2C_2022_09-11-28_PM.jpeg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hhotels-bfd9c3.jpg"
       }
     },
     {

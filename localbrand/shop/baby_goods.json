@@ -266,6 +266,13 @@
         "brand:wikidata": "Q116460054",
         "name": "Dreambaby",
         "shop": "baby_goods"
+      },
+      "original_logo_url": "https://graph.facebook.com/dreambaby.be/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dreambaby-c0a64f.jpg",
+      "local_logo_path": "localbrand/logo/dreambaby-c0a64f.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/dreambaby.be/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dreambaby-c0a64f.jpg"
       }
     },
     {
