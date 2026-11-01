@@ -1554,6 +1554,13 @@
         "name:en": "Cawachi",
         "name:ja": "カワチ薬品",
         "shop": "chemist"
+      },
+      "original_logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cawachi_Logo.svg",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cawachi-a211ef.svg",
+      "local_logo_path": "localbrand/logo/cawachi-a211ef.svg",
+      "logos": {
+        "original": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cawachi_Logo.svg",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cawachi-a211ef.svg"
       }
     },
     {

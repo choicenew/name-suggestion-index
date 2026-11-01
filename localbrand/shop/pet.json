@@ -772,6 +772,13 @@
         "brand:wikidata": "Q7171541",
         "name": "Pet Food Express",
         "shop": "pet"
+      },
+      "original_logo_url": "https://graph.facebook.com/petfoodexpress/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petfoodexpress-ae290d.jpg",
+      "local_logo_path": "localbrand/logo/petfoodexpress-ae290d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/petfoodexpress/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petfoodexpress-ae290d.jpg"
       }
     },
     {

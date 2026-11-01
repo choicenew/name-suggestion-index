@@ -340,6 +340,13 @@
         "brand:wikidata": "Q138426815",
         "name": "Dormeo",
         "shop": "bed"
+      },
+      "original_logo_url": "https://graph.facebook.com/DormeoHomeSlovenija/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dormeo-17f69e.jpg",
+      "local_logo_path": "localbrand/logo/dormeo-17f69e.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/DormeoHomeSlovenija/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dormeo-17f69e.jpg"
       }
     },
     {

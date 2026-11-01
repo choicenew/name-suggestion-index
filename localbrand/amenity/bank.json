@@ -4266,6 +4266,13 @@
         "brand": "Banese",
         "brand:wikidata": "Q16496452",
         "name": "Banese"
+      },
+      "original_logo_url": "https://graph.facebook.com/banese/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/banese-0ed44d.jpg",
+      "local_logo_path": "localbrand/logo/banese-0ed44d.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/banese/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/banese-0ed44d.jpg"
       }
     },
     {
@@ -18030,6 +18037,13 @@
         "name": "NLB banka Podgorica",
         "name:sr": "НЛБ банка Подгорица",
         "name:sr-Latn": "NLB banka Podgorica"
+      },
+      "original_logo_url": "https://graph.facebook.com/NLBBankaME/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nlbbankapodgorica-529d4b.jpg",
+      "local_logo_path": "localbrand/logo/nlbbankapodgorica-529d4b.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/NLBBankaME/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nlbbankapodgorica-529d4b.jpg"
       }
     },
     {

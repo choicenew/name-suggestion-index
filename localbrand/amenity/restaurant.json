@@ -4131,6 +4131,13 @@
         "name": "Dough Zone",
         "name:en": "Dough Zone",
         "name:zh": "麵貼面"
+      },
+      "original_logo_url": "https://graph.facebook.com/doughzone/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/doughzone-96af40.png",
+      "local_logo_path": "localbrand/logo/doughzone-96af40.png",
+      "logos": {
+        "original": "https://graph.facebook.com/doughzone/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/doughzone-96af40.png"
       }
     },
     {
@@ -8079,6 +8086,13 @@
         "brand:wikidata": "Q140672679",
         "cuisine": "poke",
         "name": "Mana Poke"
+      },
+      "original_logo_url": "https://graph.facebook.com/mana.pokee/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manapoke-ad49e6.jpg",
+      "local_logo_path": "localbrand/logo/manapoke-ad49e6.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/mana.pokee/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manapoke-ad49e6.jpg"
       }
     },
     {

@@ -5149,6 +5149,13 @@
         "cuisine": "bubble_tea",
         "name": "Machi machi",
         "takeaway": "yes"
+      },
+      "original_logo_url": "https://graph.facebook.com/100064009001259/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/machimachi-e1ef51.jpg",
+      "local_logo_path": "localbrand/logo/machimachi-e1ef51.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/100064009001259/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/machimachi-e1ef51.jpg"
       }
     },
     {

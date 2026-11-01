@@ -30,6 +30,13 @@
         "brand:short": "Correios",
         "brand:wikidata": "Q3375004",
         "name": "Correios"
+      },
+      "original_logo_url": "https://graph.facebook.com/correios/picture?type=large",
+      "github_logo_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/correios-6c9171.jpg",
+      "local_logo_path": "localbrand/logo/correios-6c9171.jpg",
+      "logos": {
+        "original": "https://graph.facebook.com/correios/picture?type=large",
+        "github_local": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/correios-6c9171.jpg"
       }
     },
     {
